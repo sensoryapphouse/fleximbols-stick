@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.3330) translate(-292.50 -256.00)">
+<circle cx="196.0" cy="382.0" r="43.0" fill="#5b6b78" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="172.0" y="87.0" width="48.0" height="299.0" rx="24.0" fill="#5b6b78" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="196.0" cy="382.0" r="34.0" fill="#eef2f6" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="181.0" y="96.0" width="30.0" height="290.0" rx="15.0" fill="#eef2f6" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="196.0" cy="382.0" r="25.0" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="190.0" y="311.0" width="12.0" height="71.0" rx="6.0" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="190.0" y="357.0" width="12.0" height="25.0" rx="0" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="211" y1="139" x2="198" y2="139" stroke="#5b6b78" stroke-width="5" stroke-linecap="round"/>
+<line x1="211" y1="181" x2="198" y2="181" stroke="#5b6b78" stroke-width="5" stroke-linecap="round"/>
+<line x1="211" y1="224" x2="198" y2="224" stroke="#5b6b78" stroke-width="5" stroke-linecap="round"/>
+<line x1="211" y1="267" x2="198" y2="267" stroke="#5b6b78" stroke-width="5" stroke-linecap="round"/>
+<line x1="211" y1="309" x2="198" y2="309" stroke="#5b6b78" stroke-width="5" stroke-linecap="round"/>
+<!-- clean dendritic snowflake centred at (388,168): 6 bare-tipped spokes + V branches partway along (no arrowheads) -->
+<g stroke="#5fb4e0" stroke-linecap="round" fill="none">
+<!-- three main axes, radius ~54 -->
+<line x1="334" y1="168" x2="442" y2="168" stroke-width="9"/>
+<line x1="361" y1="121" x2="415" y2="215" stroke-width="9"/>
+<line x1="415" y1="121" x2="361" y2="215" stroke-width="9"/>
+<!-- forward-pointing branch pairs at ~60% out along each spoke (toward the tip) -->
+<g stroke-width="6">
+<!-- +X spoke: branch point (420,168) -->
+<line x1="420" y1="168" x2="434" y2="156"/>
+<line x1="420" y1="168" x2="434" y2="180"/>
+<!-- -X spoke: branch point (356,168) -->
+<line x1="356" y1="168" x2="342" y2="156"/>
+<line x1="356" y1="168" x2="342" y2="180"/>
+<!-- lower-right spoke: branch point (404,196) -->
+<line x1="404" y1="196" x2="412" y2="210"/>
+<line x1="404" y1="196" x2="418" y2="200"/>
+<!-- upper-left spoke: branch point (372,140) -->
+<line x1="372" y1="140" x2="364" y2="126"/>
+<line x1="372" y1="140" x2="358" y2="136"/>
+<!-- lower-left spoke: branch point (372,196) -->
+<line x1="372" y1="196" x2="364" y2="210"/>
+<line x1="372" y1="196" x2="358" y2="200"/>
+<!-- upper-right spoke: branch point (404,140) -->
+<line x1="404" y1="140" x2="412" y2="126"/>
+<line x1="404" y1="140" x2="418" y2="136"/>
+</g>
+</g>
+</g></svg>

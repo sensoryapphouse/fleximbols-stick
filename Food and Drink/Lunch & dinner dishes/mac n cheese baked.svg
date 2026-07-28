@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Oval baking dish body -->
+  <path d="M30,115 L30,185 Q30,210 145,218 Q260,210 260,185 L260,115 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dish rim - oval top edge -->
+  <ellipse cx="145" cy="115" rx="115" ry="24" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Golden baked cheese crust surface (top) -->
+  <ellipse cx="145" cy="110" rx="100" ry="19" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Baked crust texture - darker golden bubbles/patches -->
+  <ellipse cx="95" cy="106" rx="18" ry="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="130" cy="103" rx="20" ry="11" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="168" cy="105" rx="19" ry="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="205" cy="108" rx="15" ry="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Darker baked spots (breadcrumb / broiled bits) -->
+  <ellipse cx="108" cy="104" rx="9" ry="5" fill="#9d7246" stroke="none"/>
+  <ellipse cx="148" cy="100" rx="11" ry="6" fill="#9d7246" stroke="none"/>
+  <ellipse cx="185" cy="104" rx="9" ry="5" fill="#9d7246" stroke="none"/>
+  <ellipse cx="88" cy="109" rx="7" ry="4" fill="#7d5e23" stroke="none"/>
+  <!-- Breadcrumb texture dots -->
+  <circle cx="122" cy="108" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="160" cy="109" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="200" cy="106" r="3" fill="#7d5e23" stroke="none"/>
+  <!-- Mac visible at edges where crust has cracked -->
+  <path d="M78,112 Q72,115 75,120" fill="none" stroke="#f5e7c4" stroke-width="7.11" stroke-linecap="round"/>
+  <circle cx="77" cy="121" r="5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M212,111 Q218,114 215,120" fill="none" stroke="#f5e7c4" stroke-width="7.11" stroke-linecap="round"/>
+  <circle cx="213" cy="121" r="5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cheese sauce ooze at dish sides -->
+  <path d="M30,140 Q22,148 26,160 Q30,155 30,150" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M260,140 Q268,148 264,160 Q260,155 260,150" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dish handles -->
+  <path d="M30,148 Q14,146 12,158 Q10,170 24,172 Q30,172 30,165" fill="none" stroke="#e6b98a" stroke-width="16.00" stroke-linecap="round"/>
+  <path d="M260,148 Q276,146 278,158 Q280,170 266,172 Q260,172 260,165" fill="none" stroke="#e6b98a" stroke-width="16.00" stroke-linecap="round"/>
+</g></svg>

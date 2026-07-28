@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Round tray -->
+  <ellipse cx="145" cy="170" rx="115" ry="38" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <ellipse cx="145" cy="162" rx="115" ry="38" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Tray rim highlight -->
+  <ellipse cx="145" cy="162" rx="108" ry="32" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Center dip cup -->
+  <ellipse cx="145" cy="152" rx="22" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <rect x="123" y="152" width="44" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <ellipse cx="145" cy="174" rx="22" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- Dip fill (hummus/ranch color) -->
+  <ellipse cx="145" cy="152" rx="18" ry="7" fill="#eed5b6"/>
+
+  <!-- Carrot sticks (orange, top-left) -->
+  <rect x="68" y="118" width="8" height="38" rx="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" transform="rotate(-20 72 137)"/>
+  <rect x="80" y="115" width="8" height="38" rx="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" transform="rotate(-15 84 134)"/>
+  <!-- Carrot tips (green) -->
+  <path d="M62 118 Q65 108 68 118" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M75 113 Q78 103 81 113" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Celery sticks (green, top-right) -->
+  <rect x="202" y="116" width="8" height="40" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" transform="rotate(18 206 136)"/>
+  <rect x="214" y="119" width="8" height="40" rx="3" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" transform="rotate(22 218 139)"/>
+  <!-- Celery ribs -->
+  <line x1="205" y1="122" x2="207" y2="150" stroke="#137827" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="216" y1="125" x2="218" y2="153" stroke="#137827" stroke-width="2.22" stroke-linecap="round"/>
+
+  <!-- Broccoli florets (left) -->
+  <circle cx="92" cy="148" r="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="84" cy="143" r="8" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="100" cy="142" r="8" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="89" y="154" width="6" height="10" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Broccoli florets (right) -->
+  <circle cx="198" cy="148" r="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="190" cy="143" r="8" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="206" cy="142" r="8" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="195" y="154" width="6" height="10" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Cherry tomatoes -->
+  <circle cx="115" cy="155" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M115 145 Q112 140 109 142" stroke="#529929" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <circle cx="175" cy="155" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M175 145 Q172 140 169 142" stroke="#529929" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <circle cx="145" cy="140" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 131 Q142 126 139 128" stroke="#529929" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+</g></svg>

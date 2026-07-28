@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl base -->
+  <ellipse cx="145" cy="208" rx="95" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Bowl body -->
+  <path d="M55 130 Q48 205 145 218 Q242 205 235 130 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Bowl interior base -->
+  <path d="M65 140 Q60 198 145 210 Q230 198 225 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="130" rx="90" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Shredded green papaya (long thin shreds, not noodles - rougher, organic) -->
+  <path d="M80 155 Q100 148 125 158 Q140 163 160 153 Q180 143 200 152" fill="none" stroke="#529929" stroke-width="6.34" stroke-linecap="round"/>
+  <path d="M75 168 Q98 160 122 170 Q142 177 165 167 Q185 157 207 165" fill="none" stroke="#67832d" stroke-width="6.34" stroke-linecap="round"/>
+  <path d="M78 180 Q105 172 130 181 Q148 187 168 178 Q188 168 210 176" fill="none" stroke="#529929" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M82 191 Q108 184 135 192 Q152 197 170 189 Q190 180 213 186" fill="none" stroke="#67832d" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Short cross shreds (makes it look shredded not noodle-like) -->
+  <path d="M95 162 Q88 172 92 182" fill="none" stroke="#529929" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M148 158 Q142 168 146 178" fill="none" stroke="#67832d" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M195 160 Q189 170 193 180" fill="none" stroke="#529929" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Cherry tomato halves -->
+  <circle cx="90" cy="150" r="11" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.81"/>
+  <path d="M80 150 Q90 145 100 150" fill="none" stroke="#d01424" stroke-width="2.54" stroke-linecap="round"/>
+  <circle cx="200" cy="158" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Peanuts -->
+  <ellipse cx="120" cy="148" rx="7" ry="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <ellipse cx="168" cy="144" rx="7" ry="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <ellipse cx="144" cy="143" rx="7" ry="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Red chili -->
+  <ellipse cx="175" cy="155" rx="5" ry="13" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" transform="rotate(20 175 155)"/>
+  <!-- Lime wedge on rim -->
+  <path d="M205 120 Q218 105 228 118 Q218 130 205 120 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <path d="M207 120 Q218 108 226 118" fill="none" stroke="#529929" stroke-width="2.54" stroke-linecap="round"/>
+</g></svg>

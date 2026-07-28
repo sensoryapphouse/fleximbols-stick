@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- curtain rod -->
+<line x1="108" y1="120" x2="404" y2="120" stroke="#9aa0a6" stroke-width="12" stroke-linecap="round"/>
+<circle cx="108" cy="120" r="12" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="404" cy="120" r="12" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<!-- rings -->
+<circle cx="150" cy="124" r="11" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="200" cy="124" r="11" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="256" cy="124" r="11" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="312" cy="124" r="11" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="362" cy="124" r="11" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<!-- curtain body with wavy hem -->
+<path d="M 138 134 L 374 134 L 374 392 Q 350 376 326 392 Q 302 408 278 392 Q 254 376 230 392 Q 206 408 182 392 Q 160 376 138 392 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- vertical fold lines -->
+<path d="M 186 140 Q 178 260 186 384" fill="none" stroke="#3d7fb5" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 140 Q 248 260 256 384" fill="none" stroke="#3d7fb5" stroke-width="7" stroke-linecap="round"/>
+<path d="M 326 140 Q 318 260 326 384" fill="none" stroke="#3d7fb5" stroke-width="7" stroke-linecap="round"/>
+</svg>

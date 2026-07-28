@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- night sky -->
+  <rect x="10" y="15" width="270" height="155" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- ground -->
+  <rect x="10" y="170" width="270" height="50" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- crescent moon, top-left -->
+  <path d="M55 50 A30 30 0 1 0 55 110 A22 22 0 1 1 55 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- 5-pointed star next to moon -->
+  <polygon points="105,65 110,78 124,78 113,87 117,100 105,92 93,100 97,87 86,78 100,78"
+    fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- mosque dome -->
+  <path d="M130 170 Q130 110 175 110 Q220 110 220 170 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- dome top finial -->
+  <path d="M175 110 L175 95" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <path d="M170 95 Q175 80 180 95 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M175 80 L175 70" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <path d="M170 70 A5 5 0 1 0 170 60 A4 4 0 1 1 170 70 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- mosque base -->
+  <rect x="125" y="155" width="100" height="20" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- arched entrance -->
+  <path d="M165 175 Q165 145 175 145 Q185 145 185 175 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- minaret, right of mosque -->
+  <rect x="240" y="80" width="20" height="90" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- minaret cap -->
+  <path d="M235 80 L265 80 L255 65 L245 65 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="250,65 244,52 256,52" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- minaret balcony -->
+  <rect x="237" y="115" width="26" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small window -->
+  <rect x="247" y="135" width="6" height="14" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

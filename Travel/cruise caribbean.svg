@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="155" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sea -->
+  <rect x="0" y="155" width="290" height="85" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 0 165 Q 20 160 40 165 T 80 165 T 120 165 T 160 165 T 200 165 T 240 165 T 290 165" fill="none" stroke="#90a7d6" stroke-width="2.96"/>
+  <path d="M 0 180 Q 20 175 40 180 T 80 180 T 120 180 T 160 180 T 200 180 T 240 180 T 290 180" fill="none" stroke="#90a7d6" stroke-width="2.96"/>
+
+  <!-- colourful Caribbean houses (left shore) -->
+  <rect x="8" y="130" width="22" height="28" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 6 130 L 19 118 L 32 130 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="14" y="140" width="10" height="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <rect x="32" y="125" width="22" height="33" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 30 125 L 43 112 L 56 125 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="38" y="135" width="10" height="10" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <rect x="56" y="132" width="22" height="26" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 54 132 L 67 120 L 80 132 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="62" y="140" width="10" height="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- palm tree (right) -->
+  <path d="M 245 80 Q 248 110 252 158" fill="none" stroke="#5e1f0a" stroke-width="11.85" stroke-linecap="round"/>
+  <path d="M 248 82 Q 220 65 208 78 Q 230 75 250 85 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 248 82 Q 280 60 290 75 Q 268 72 250 85 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 248 82 Q 232 50 240 35 Q 245 60 252 85 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 248 82 Q 268 48 262 32 Q 254 58 252 85 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- coconuts -->
+  <circle cx="244" cy="88" r="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="253" cy="90" r="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- parrot on palm -->
+  <ellipse cx="220" cy="60" rx="14" ry="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="222" cy="44" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 220 44 L 213 49 L 220 52 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <circle cx="225" cy="42" r="2" fill="#000000"/>
+  <path d="M 208 60 Q 196 60 200 72 L 215 70 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 220 78 L 222 90 L 218 90 Z" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- CRUISE SHIP -->
+  <path d="M 60 200 L 230 200 L 215 225 L 75 225 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="80" y="180" width="130" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="100" y="160" width="80" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="95" cy="213" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="115" cy="213" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="135" cy="213" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="155" cy="213" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="175" cy="213" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="195" cy="213" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="108" y="187" width="8" height="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="125" y="187" width="8" height="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="142" y="187" width="8" height="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="159" y="187" width="8" height="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="176" y="187" width="8" height="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="120" y="135" width="14" height="28" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="148" y="135" width="14" height="28" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- sun -->
+  <circle cx="160" cy="40" r="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Oval crockpot with domed lid + handles + base -->
+  <!-- Base / heating element -->
+  <rect x="68" y="185" width="154" height="22" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Base controls -->
+  <circle cx="110" cy="196" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <circle cx="145" cy="196" r="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <circle cx="180" cy="196" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Pot body (oval crock) -->
+  <ellipse cx="145" cy="158" rx="90" ry="50" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pot inner colour -->
+  <ellipse cx="145" cy="155" rx="72" ry="38" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left handle -->
+  <path d="M55 148 Q38 148 38 163 Q38 178 55 178" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right handle -->
+  <path d="M235 148 Q252 148 252 163 Q252 178 235 178" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Domed lid -->
+  <path d="M58 132 Q58 80 145 78 Q232 80 232 132 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lid rim -->
+  <rect x="58" y="126" width="174" height="12" rx="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lid knob -->
+  <ellipse cx="145" cy="80" rx="16" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Steam wisps above lid -->
+  <path d="M118 68 Q114 58 118 48 Q122 38 118 28" fill="none" stroke="#b8b8b8" stroke-width="3.95" stroke-linecap="round"/>
+  <path d="M145 65 Q141 55 145 45 Q149 35 145 25" fill="none" stroke="#b8b8b8" stroke-width="3.95" stroke-linecap="round"/>
+  <path d="M172 68 Q168 58 172 48 Q176 38 172 28" fill="none" stroke="#b8b8b8" stroke-width="3.95" stroke-linecap="round"/>
+</g></svg>

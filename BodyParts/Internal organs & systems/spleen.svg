@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- spleen: rounded comma / fist-shaped organ, deep purple-red, slight hilum notch -->
+<path d="M 286 120 C 350 128 392 188 392 268 C 392 348 338 404 268 404 C 208 404 168 360 156 304 C 146 256 156 200 196 162 C 226 134 256 116 286 120 Z" fill="#7a3b6a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hilum notch on the inner curve -->
+<path d="M 168 300 q 26 -10 30 -34" fill="none" stroke="#552848" stroke-width="9" stroke-linecap="round"/>
+<!-- surface sheen -->
+<path d="M 250 162 Q 320 180 338 250" fill="none" stroke="#9a5688" stroke-width="8" stroke-linecap="round"/>
+</svg>

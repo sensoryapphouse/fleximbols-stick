@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- strappy leaves flanking the base -->
+  <path d="M145 228 Q125 215 110 195 Q100 178 108 165 Q118 158 128 172 Q138 188 145 205" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M145 228 Q165 215 180 195 Q190 178 182 165 Q172 158 162 172 Q152 188 145 205" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- additional inner strappy leaf left -->
+  <path d="M145 220 Q132 210 125 195 Q120 183 128 175 Q134 170 140 180 Q143 192 145 205" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- thick upright stem -->
+  <rect x="138" y="90" width="14" height="130" rx="4" fill="#67832d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- dense spike of small star florets — purple, packed tightly -->
+  <!-- bottom florets (wider base of spike) -->
+  <path d="M120 195 Q118 188 122 183 Q128 178 135 182 Q145 185 155 182 Q162 178 168 183 Q172 188 170 195 Q162 200 145 202 Q128 200 120 195 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- floret row 1 (lowest visible stars) -->
+  <path d="M126 185 Q130 175 126 168 Q134 165 138 172" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M164 185 Q160 175 164 168 Q156 165 152 172" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- row of florets as star-like shapes up the spike -->
+  <!-- using a macro: each floret = 6 small petals radiating -->
+  <!-- floret at y=185 left -->
+  <circle cx="122" cy="183" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M122 173 l2 7 l-4 0 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M122 193 l2-7 l-4 0 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M112 183 l7 2 l0-4 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M132 183 l-7 2 l0-4 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="122" cy="183" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- floret y=185 right -->
+  <circle cx="168" cy="183" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="183" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- floret row y=170 left -->
+  <circle cx="118" cy="170" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="170" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- floret row y=170 right -->
+  <circle cx="172" cy="170" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="172" cy="170" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- floret row y=157 left -->
+  <circle cx="114" cy="157" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="114" cy="157" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- floret row y=157 right -->
+  <circle cx="176" cy="157" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="176" cy="157" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- middle (wider) rows -->
+  <circle cx="112" cy="143" r="11" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="112" cy="143" r="5" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="178" cy="143" r="11" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="178" cy="143" r="5" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- also centre florets -->
+  <circle cx="145" cy="190" r="9" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="190" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="175" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="175" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="160" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="160" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="145" r="11" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="145" r="5" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- narrowing upper spike rows -->
+  <circle cx="120" cy="130" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="130" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="170" cy="130" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="130" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="130" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="130" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="130" cy="118" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="118" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="160" cy="118" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="118" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="115" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="115" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- upper narrowing -->
+  <circle cx="137" cy="103" r="9" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="137" cy="103" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="153" cy="103" r="9" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="153" cy="103" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="95" r="9" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="95" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- tip florets -->
+  <circle cx="145" cy="82" r="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="82" r="3" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

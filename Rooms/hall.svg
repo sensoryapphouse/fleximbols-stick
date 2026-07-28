@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.18) translate(-256 -262)">
+<!-- corridor back wall + receding floor -->
+<rect x="70" y="120" width="372" height="300" rx="6" fill="#f2e4c9" stroke="#1a1a1a" stroke-width="7"/>
+<!-- receding corridor floor (perspective) -->
+<path d="M 70 420 L 442 420 L 372 300 L 140 300 Z" fill="#d9b483" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- runner rug down the corridor -->
+<path d="M 206 420 L 306 420 L 286 300 L 226 300 Z" fill="#c0533f" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="222" y1="395" x2="290" y2="395" stroke="#f2e4c9" stroke-width="4"/>
+<line x1="231" y1="350" x2="281" y2="350" stroke="#f2e4c9" stroke-width="4"/>
+<line x1="238" y1="318" x2="274" y2="318" stroke="#f2e4c9" stroke-width="4"/>
+<!-- door ajar on the left, opening toward viewer into a darker doorway -->
+<rect x="86" y="150" width="60" height="190" rx="2" fill="#3a3026" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 146 150 L 200 132 L 200 360 L 146 340 Z" fill="#8a4a3a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<rect x="158" y="178" width="30" height="70" rx="4" fill="#9a584a" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="158" y="262" width="30" height="78" rx="4" fill="#9a584a" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="155" cy="252" r="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="3"/>
+<!-- shoes by the door on the floor -->
+<path d="M 150 392 q -2 -16 14 -16 l 18 0 q 12 0 12 10 l 0 6 l -44 0 Z" fill="#5b6b78" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 150 408 q -2 -16 14 -16 l 18 0 q 12 0 12 10 l 0 6 l -44 0 Z" fill="#6b7b88" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- coat peg rail (central hall cue), larger -->
+<rect x="262" y="150" width="158" height="26" rx="6" fill="#7a4a24" stroke="#1a1a1a" stroke-width="7"/>
+<g stroke="#7d8893" stroke-width="7" stroke-linecap="round" fill="none">
+<path d="M 286 176 L 286 196 q 0 12 12 12"/>
+<path d="M 341 176 L 341 196 q 0 12 12 12"/>
+<path d="M 396 176 L 396 196 q 0 12 12 12"/>
+</g>
+<!-- three coats hanging -->
+<path d="M 298 200 q -10 6 -22 30 L 264 300 Q 298 314 332 300 L 320 230 q -12 -24 -22 -30 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 353 200 q -10 6 -22 30 L 319 296 Q 353 310 387 296 L 375 230 q -12 -24 -22 -30 Z" fill="#3f7d9a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" opacity="0.96"/>
+<path d="M 408 200 q -8 5 -18 26 L 380 290 Q 408 302 436 290 L 426 226 q -10 -21 -18 -26 Z" fill="#5aa469" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" opacity="0.95"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- antennae -->
+<path d="M240 150 Q200 120 168 128" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M272 150 Q312 120 344 128" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- head -->
+<ellipse cx="256" cy="160" rx="34" ry="28" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="244" cy="156" r="4" fill="#1a1a1a"/>
+<circle cx="268" cy="156" r="4" fill="#1a1a1a"/>
+<!-- legs -->
+<path d="M224 196 L176 178 M224 214 L172 214 M224 232 L178 252" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M288 196 L336 178 M288 214 L340 214 M288 232 L334 252" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- thorax -->
+<rect x="222" y="184" width="68" height="44" rx="14" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- abdomen (segmented) -->
+<path d="M222 228 L290 228 L286 360 Q256 380 226 360 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="226" y1="256" x2="286" y2="256" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="225" y1="282" x2="287" y2="282" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="226" y1="308" x2="286" y2="308" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="228" y1="334" x2="284" y2="334" stroke="#1a1a1a" stroke-width="5"/>
+<!-- pincers (cerci) -->
+<path d="M236 372 Q224 410 244 426" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M276 372 Q288 410 268 426" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Trunk: short visible trunk at base -->
+  <path d="M136 210 L133 188 L145 185 L157 188 L154 210 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dense narrow conical fir: flat layered tiers, pointed top -->
+  <!-- Tier 1 (bottom, widest) -->
+  <path d="M145 185 L50 172 L75 158 L145 162 L215 158 L240 172 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tier 1 inner highlight -->
+  <path d="M75 158 L145 162 L215 158 L200 150 L145 154 L90 150 Z" fill="#529929" stroke="none"/>
+  <!-- Tier 2 -->
+  <path d="M145 155 L68 142 L90 128 L145 133 L200 128 L222 142 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M90 128 L145 133 L200 128 L188 120 L145 124 L102 120 Z" fill="#529929" stroke="none"/>
+  <!-- Tier 3 -->
+  <path d="M145 125 L85 112 L104 98 L145 104 L186 98 L205 112 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M104 98 L145 104 L186 98 L176 90 L145 95 L114 90 Z" fill="#529929" stroke="none"/>
+  <!-- Tier 4 -->
+  <path d="M145 96 L100 83 L116 70 L145 76 L174 70 L190 83 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M116 70 L145 76 L174 70 L164 62 L145 67 L126 62 Z" fill="#529929" stroke="none"/>
+  <!-- Tier 5 -->
+  <path d="M145 68 L115 56 L128 44 L145 50 L162 44 L175 56 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pointed top -->
+  <path d="M128 44 L145 20 L162 44 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

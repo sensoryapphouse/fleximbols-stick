@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="15" width="270" height="130" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- city skyline -->
+  <rect x="20" y="60" width="35" height="85" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="55" y="40" width="30" height="105" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <polygon points="55,40 70,25 85,40" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="85" y="75" width="35" height="70" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- iconic tower -->
+  <polygon points="135,145 145,40 155,145" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="140" y="80" width="10" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="138" y="105" width="14" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="38" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- dome building -->
+  <rect x="170" y="80" width="45" height="65" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M170,80 q22,-30 45,0" fill="#fff200" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="190" y="110" width="6" height="35" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- skyscraper -->
+  <rect x="215" y="55" width="30" height="90" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="220" y="62" width="6" height="6" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="232" y="62" width="6" height="6" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="220" y="76" width="6" height="6" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="232" y="76" width="6" height="6" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="220" y="90" width="6" height="6" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="232" y="90" width="6" height="6" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- ground -->
+  <rect x="10" y="145" width="270" height="85" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tourist FULL BODY -->
+  <circle cx="80" cy="165" r="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="68" y="155" width="24" height="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="70" y="174" width="20" height="22" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="70" y="196" width="9" height="18" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="81" y="196" width="9" height="18" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="68" y="214" width="12" height="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="80" y="214" width="12" height="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="68" y1="180" x2="55" y2="200" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="92" y1="180" x2="105" y2="190" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- camera held up -->
+  <rect x="95" y="180" width="20" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="105" cy="187" r="5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="105" cy="187" r="2" fill="#ffffff"/>
+  <rect x="98" y="177" width="6" height="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- map -->
+  <rect x="150" y="195" width="45" height="30" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M155,205 q10,-5 20,2 t15,3" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <circle cx="180" cy="215" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

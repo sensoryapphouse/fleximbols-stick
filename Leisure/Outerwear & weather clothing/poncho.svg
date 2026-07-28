@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="78.55 82.81 354.91 354.91">
+<!-- poncho: diamond/square draped sheet with central head hole -->
+<path d="M 256 110 L 398 252 L 320 400 L 256 384 L 192 400 L 114 252 Z" fill="#e0a93a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hood -->
+<path d="M 222 132 Q 256 96 290 132 Q 256 120 222 132 Z" fill="#c2902c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neck / head opening -->
+<ellipse cx="256" cy="158" rx="34" ry="20" fill="#c2902c" stroke="#1a1a1a" stroke-width="8"/>
+<!-- side fold lines -->
+<line x1="256" y1="178" x2="256" y2="384" stroke="#c2902c" stroke-width="6" stroke-linecap="round"/>
+<line x1="200" y1="210" x2="156" y2="300" stroke="#c2902c" stroke-width="6" stroke-linecap="round"/>
+<line x1="312" y1="210" x2="356" y2="300" stroke="#c2902c" stroke-width="6" stroke-linecap="round"/>
+<!-- bottom fringe -->
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round">
+<line x1="214" y1="392" x2="214" y2="412"/>
+<line x1="238" y1="386" x2="238" y2="406"/>
+<line x1="274" y1="386" x2="274" y2="406"/>
+<line x1="298" y1="392" x2="298" y2="412"/>
+</g>
+</svg>

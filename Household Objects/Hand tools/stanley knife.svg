@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="rotate(-16 256 256)">
+<!-- retractable utility-knife body -->
+<path d="M 108 226 L 344 226 Q 362 226 362 244 L 362 288 Q 362 306 344 306 L 108 306 Q 94 306 94 292 L 94 240 Q 94 226 108 226 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- slider track -->
+<line x1="150" y1="266" x2="300" y2="266" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- thumb slide -->
+<rect x="180" y="238" width="48" height="56" rx="9" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="192" y1="250" x2="192" y2="282" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="204" y1="250" x2="204" y2="282" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="216" y1="250" x2="216" y2="282" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<!-- crisp angled triangular blade sticking out of the nose -->
+<path d="M 360 250 L 452 250 L 360 300 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bevel line on the blade edge -->
+<line x1="372" y1="256" x2="440" y2="256" stroke="#9aa0a6" stroke-width="6" stroke-linecap="round"/>
+</g>
+</svg>

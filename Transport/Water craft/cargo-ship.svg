@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- water -->
+<path d="M 36 388 Q 82 374 124 388 T 208 388 T 292 388 T 376 388 T 460 388 T 478 388 L 478 430 L 36 430 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- long hull -->
+<path d="M 48 300 L 462 300 L 426 376 L 100 376 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- waterline stripe -->
+<path d="M 64 344 L 448 344 L 440 358 L 72 358 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
+<!-- aft bridge/superstructure (right) -->
+<rect x="330" y="216" width="104" height="84" rx="6" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="346" y="232" width="24" height="22" rx="3" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="386" y="232" width="24" height="22" rx="3" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="4"/>
+<!-- funnel -->
+<rect x="368" y="178" width="30" height="40" rx="4" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<!-- forward cargo hold crates -->
+<rect x="86" y="250" width="60" height="50" fill="#e08a3a" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="152" y="234" width="60" height="66" fill="#f4c430" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="218" y="250" width="60" height="50" fill="#d63b46" stroke="#1a1a1a" stroke-width="8"/>
+<!-- deck crane -->
+<line x1="300" y1="300" x2="300" y2="180" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="300" y1="190" x2="216" y2="222" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="248" y1="206" x2="248" y2="248" stroke="#9aa0a6" stroke-width="6" stroke-linecap="round"/>
+</svg>

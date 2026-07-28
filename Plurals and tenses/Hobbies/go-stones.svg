@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1070) translate(-295.00 -224.50)">
+<g transform="translate(235 268) scale(0.9) translate(-256 -256)"><g transform="translate(73.9,-59.7) scale(1.214)"><!-- Go board corner with a single black stone -->
+  <rect x="30" y="120" width="240" height="280" rx="6" fill="#deb887" stroke="#1a1a1a" stroke-width="5" />
+  <!-- grid lines -->
+  <line x1="30" y1="170" x2="270" y2="170" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="30" y1="230" x2="270" y2="230" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="30" y1="290" x2="270" y2="290" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="30" y1="350" x2="270" y2="350" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="90" y1="120" x2="90" y2="400" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="150" y1="120" x2="150" y2="400" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="210" y1="120" x2="210" y2="400" stroke="#1a1a1a" stroke-width="2.5" />
+  <!-- single black go stone -->
+  <ellipse cx="150" cy="230" rx="50" ry="46" fill="#111111" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="134" cy="214" rx="14" ry="9" fill="#ffffff" opacity="0.35" /></g></g>
+
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="hts_ag" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#hts_ag)" stroke="#1a1a1a" stroke-width="17.7809" stroke-linejoin="round"/></g></svg>

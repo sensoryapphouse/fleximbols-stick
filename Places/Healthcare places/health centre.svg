@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 102.87 376.24 376.24">
+<!-- wide modern health centre, two bands of windows -->
+<rect x="104" y="190" width="304" height="225" rx="6" fill="#e6f0ec" stroke="#1a1a1a" stroke-width="9"/>
+<!-- parapet -->
+<rect x="96" y="168" width="320" height="30" rx="5" fill="#cdd6dd" stroke="#1a1a1a" stroke-width="9"/>
+<!-- door -->
+<rect x="218" y="330" width="76" height="85" rx="4" fill="#2b5688" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="256" y1="332" x2="256" y2="413" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<!-- upper window band -->
+<rect x="130" y="216" width="56" height="40" rx="3" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="326" y="216" width="56" height="40" rx="3" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="5"/>
+<!-- lower window band -->
+<rect x="130" y="296" width="56" height="40" rx="3" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="326" y="296" width="56" height="40" rx="3" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="5"/>
+<!-- white sign panel with cross + heart -->
+<rect x="214" y="220" width="84" height="84" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="246" y="230" width="20" height="48" rx="3" fill="#d6473c" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="232" y="244" width="48" height="20" rx="3" fill="#d6473c" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 256 298 C 244 286 250 278 256 283 C 262 278 268 286 256 298 Z" fill="#d6473c" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</svg>

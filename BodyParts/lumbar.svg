@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.3060) translate(-255.50 -256.50)">
+<g transform="translate(115.0,39.3) scale(0.806)"><!-- Spine / vertebral column (lumbar region) -->
+  <g stroke="#1a1a1a" stroke-width="5">
+    <ellipse cx="150" cy="80" rx="40" ry="22" fill="#fff4d6"/>
+    <ellipse cx="148" cy="118" rx="42" ry="22" fill="#fff4d6"/>
+    <ellipse cx="148" cy="156" rx="44" ry="22" fill="#fff4d6"/>
+    <ellipse cx="150" cy="194" rx="46" ry="23" fill="#ffe8c8"/>
+    <ellipse cx="154" cy="234" rx="48" ry="24" fill="#ffe8c8"/>
+    <ellipse cx="160" cy="276" rx="50" ry="25" fill="#ffe8c8"/>
+    <ellipse cx="164" cy="318" rx="52" ry="25" fill="#ffd6a0"/>
+    <ellipse cx="162" cy="360" rx="52" ry="25" fill="#ffd6a0"/>
+    <ellipse cx="156" cy="402" rx="50" ry="24" fill="#ffd6a0"/>
+  </g>
+  <!-- sacrum -->
+  <path d="M108 424 L208 424 L214 452 L188 480 L128 480 L102 452 Z" fill="#e8c890" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- spinal process marks -->
+  <g stroke="#1a1a1a" stroke-width="3">
+    <line x1="200" y1="156" x2="234" y2="150"/>
+    <line x1="214" y1="276" x2="248" y2="272"/>
+    <line x1="208" y1="402" x2="240" y2="400"/>
+  </g></g>
+</g></svg>

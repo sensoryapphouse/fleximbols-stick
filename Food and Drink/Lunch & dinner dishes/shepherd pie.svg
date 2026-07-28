@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Rectangular casserole dish base -->
+  <rect x="30" y="175" width="200" height="42" rx="8" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Casserole dish rim -->
+  <rect x="22" y="165" width="216" height="20" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dish side showing layers - ground lamb filling (brown) -->
+  <rect x="30" y="130" width="200" height="40" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Meat texture dots in filling layer -->
+  <circle cx="55" cy="148" r="4" fill="#5e1f0a" stroke="none"/>
+  <circle cx="75" cy="142" r="3" fill="#5e1f0a" stroke="none"/>
+  <circle cx="95" cy="150" r="4" fill="#5e1f0a" stroke="none"/>
+  <circle cx="115" cy="144" r="3" fill="#5e1f0a" stroke="none"/>
+  <circle cx="135" cy="148" r="4" fill="#5e1f0a" stroke="none"/>
+  <circle cx="155" cy="143" r="3" fill="#5e1f0a" stroke="none"/>
+  <circle cx="175" cy="149" r="4" fill="#5e1f0a" stroke="none"/>
+  <circle cx="195" cy="142" r="3" fill="#5e1f0a" stroke="none"/>
+  <circle cx="215" cy="148" r="4" fill="#5e1f0a" stroke="none"/>
+  <!-- Small vegetable bits in filling -->
+  <rect x="62" y="144" width="7" height="5" rx="1" fill="#ff9900" stroke="none"/>
+  <rect x="105" y="140" width="7" height="5" rx="1" fill="#529929" stroke="none"/>
+  <rect x="148" y="145" width="7" height="5" rx="1" fill="#ff9900" stroke="none"/>
+  <rect x="188" y="141" width="7" height="5" rx="1" fill="#529929" stroke="none"/>
+  <!-- Mashed potato top layer (fluffy ridged surface) -->
+  <path d="M30,130 Q145,115 230,130 L230,90 Q145,75 30,90 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Fluffy potato ridges piped on top -->
+  <path d="M38,110 Q65,98 92,110 Q119,98 146,110 Q173,98 200,110 Q215,103 222,108" fill="none" stroke="#e6b98a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M35,122 Q62,112 89,122 Q116,112 143,122 Q170,112 197,122 Q213,116 224,120" fill="none" stroke="#e6b98a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M38,98 Q65,88 92,98 Q119,88 146,98 Q173,88 200,98" fill="none" stroke="#eed5b6" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Browned potato top highlights (baked golden) -->
+  <path d="M55,96 Q80,90 105,96" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M135,92 Q160,87 185,93" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lamb silhouette beside dish (small, right side) -->
+  <!-- Lamb body -->
+  <ellipse cx="262" cy="148" rx="18" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.89"/>
+  <!-- Lamb head -->
+  <circle cx="275" cy="138" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.89"/>
+  <!-- Lamb face detail -->
+  <circle cx="278" cy="137" r="2" fill="#000000"/>
+  <!-- Lamb ear -->
+  <ellipse cx="270" cy="131" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.78" transform="rotate(-20,270,131)"/>
+  <!-- Lamb legs -->
+  <line x1="252" y1="160" x2="250" y2="174" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
+  <line x1="260" y1="162" x2="258" y2="175" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
+  <line x1="269" y1="161" x2="270" y2="175" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
+  <line x1="277" y1="159" x2="278" y2="173" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
+  <!-- Lamb tail (fluffy puff) -->
+  <circle cx="244" cy="148" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

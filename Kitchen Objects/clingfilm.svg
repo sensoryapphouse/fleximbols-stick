@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- box -->
+<path d="M 110 320 L 300 320 L 300 400 L 110 400 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- box lid (open, angled up at back) -->
+<path d="M 110 320 L 300 320 L 312 286 L 122 286 Z" fill="#5a9bd0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- serrated cutting edge -->
+<polyline points="110,320 122,328 134,320 146,328 158,320 170,328 182,320 194,328 206,320 218,328 230,320 242,328 254,320 266,328 278,320 290,328 300,320" fill="none" stroke="#9aa0a6" stroke-width="6" stroke-linejoin="round"/>
+<!-- transparent film sheet pulled up and over -->
+<path d="M 150 320 Q 200 160 320 150 Q 392 146 402 210 Q 360 200 330 230 Q 300 260 268 320 Z" fill="#bfe3f5" fill-opacity="0.45" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- film shine lines -->
+<path d="M 210 300 Q 250 210 320 188" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+<path d="M 250 312 Q 290 240 350 212" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+<!-- film edge taut highlight -->
+<path d="M 320 150 Q 392 146 402 210" fill="none" stroke="#3d7fb5" stroke-width="6" stroke-linecap="round"/>
+</svg>

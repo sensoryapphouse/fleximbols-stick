@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl body -->
+  <path d="M45,105 Q35,185 145,210 Q255,185 245,105 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl rim ellipse -->
+  <ellipse cx="145" cy="105" rx="100" ry="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Light yellow broth surface -->
+  <ellipse cx="145" cy="110" rx="86" ry="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Broth shimmer -->
+  <ellipse cx="118" cy="107" rx="18" ry="8" fill="#fff200" stroke="none"/>
+  <ellipse cx="170" cy="108" rx="16" ry="7" fill="#fff200" stroke="none"/>
+  <!-- Noodles - wavy strands in broth -->
+  <path d="M80,118 Q95,108 110,118 Q125,128 140,118 Q155,108 170,118" fill="none" stroke="#f5e7c4" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M90,128 Q105,119 120,128 Q135,137 150,128 Q165,119 178,128" fill="none" stroke="#eed5b6" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Carrot slices (orange circles) -->
+  <ellipse cx="100" cy="140" rx="11" ry="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="175" cy="138" rx="10" ry="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Carrot cross marks -->
+  <line x1="96" y1="140" x2="104" y2="140" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="100" y1="136" x2="100" y2="144" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="171" y1="138" x2="179" y2="138" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Chicken chunks (pale cooked pieces) -->
+  <path d="M130,120 Q123,112 127,105 Q131,98 140,100 Q149,102 147,112 Q145,122 130,120 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M158,128 Q152,121 155,114 Q158,107 167,109 Q176,111 174,120 Q172,129 158,128 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl base shadow line -->
+  <ellipse cx="145" cy="207" rx="78" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Spoon resting on bowl edge -->
+  <path d="M220,82 Q235,90 238,102 Q240,112 230,115" fill="none" stroke="#b8b8b8" stroke-width="8.88" stroke-linecap="round"/>
+  <ellipse cx="228" cy="80" rx="9" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-30 228 80)"/>
+</g></svg>

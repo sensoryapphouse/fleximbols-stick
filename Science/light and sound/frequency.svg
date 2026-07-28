@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- top: sparse (low-frequency) sine wave -->
+  <!-- baseline -->
+  <path d="M30 70 L260 70" stroke="#b8b8b8" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- low-frequency sine black outline -->
+  <path d="M30 70 C60 70 60 25 90 25 C120 25 120 115 150 115 C180 115 180 25 210 25 C240 25 240 70 260 70" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- low-frequency sine: 1.5 cycles across canvas -->
+  <path d="M30 70 C60 70 60 25 90 25 C120 25 120 115 150 115 C180 115 180 25 210 25 C240 25 240 70 260 70" fill="none" stroke="#2a4ec0" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- divider -->
+  <path d="M25 130 L265 130" stroke="#7f7f7f" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- bottom: dense (high-frequency) sine wave -->
+  <path d="M30 180 L260 180" stroke="#b8b8b8" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- high-frequency sine black outline -->
+  <path d="M30 180 C38 180 38 150 46 150 C54 150 54 210 62 210 C70 210 70 150 78 150 C86 150 86 210 94 210 C102 210 102 150 110 150 C118 150 118 210 126 210 C134 210 134 150 142 150 C150 150 150 210 158 210 C166 210 166 150 174 150 C182 150 182 210 190 210 C198 210 198 150 206 150 C214 150 214 210 222 210 C230 210 230 150 238 150 C246 150 246 180 254 180 L260 180" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <!-- high-frequency sine: many cycles -->
+  <path d="M30 180 C38 180 38 150 46 150 C54 150 54 210 62 210 C70 210 70 150 78 150 C86 150 86 210 94 210 C102 210 102 150 110 150 C118 150 118 210 126 210 C134 210 134 150 142 150 C150 150 150 210 158 210 C166 210 166 150 174 150 C182 150 182 210 190 210 C198 210 198 150 206 150 C214 150 214 210 222 210 C230 210 230 150 238 150 C246 150 246 180 254 180 L260 180" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

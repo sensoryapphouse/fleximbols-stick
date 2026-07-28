@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- box body -->
+<rect x="166" y="180" width="180" height="200" rx="8" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- roof -->
+<path d="M 144 188 L 256 110 L 368 188 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- roof eave line -->
+<line x1="150" y1="188" x2="362" y2="188" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- entrance hole -->
+<circle cx="256" cy="252" r="38" fill="#3a2a18" stroke="#1a1a1a" stroke-width="9"/>
+<!-- perch peg -->
+<rect x="246" y="312" width="20" height="46" rx="6" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- wood grain on body -->
+<line x1="190" y1="340" x2="322" y2="340" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.5"/>
+<!-- hanging loop -->
+<path d="M 256 110 Q 256 86 256 86" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="256" cy="84" r="14" fill="none" stroke="#9aa0a6" stroke-width="8"/>
+</svg>

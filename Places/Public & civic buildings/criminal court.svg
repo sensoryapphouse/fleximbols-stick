@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- court building roof -->
+  <polygon points="50,30 240,30 225,12 65,12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="50" y="30" width="190" height="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- columns -->
+  <rect x="62" y="38" width="10" height="30" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="38" width="10" height="30" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="190" y="38" width="10" height="30" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="216" y="38" width="10" height="30" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- jury box (12-row dots, simplified to 6 jury figures) -->
+  <rect x="110" y="40" width="80" height="36" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="120" cy="52" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="135" cy="52" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="150" cy="52" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="165" cy="52" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="180" cy="52" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="115" y="58" width="60" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- jury label hint: bar -->
+  <rect x="105" y="76" width="90" height="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- prosecutor (left) FULL BODY pointing -->
+  <circle cx="40" cy="105" r="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M30 103 q10 -10 20 0" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="30" y="117" width="20" height="32" rx="3" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- white shirt triangle -->
+  <polygon points="36,117 44,117 40,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="30" y1="126" x2="18" y2="142" stroke="#1a1a1a" stroke-width="10.67" stroke-linecap="round"/>
+  <line x1="30" y1="126" x2="18" y2="142" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- pointing arm to defendant -->
+  <line x1="50" y1="126" x2="80" y2="120" stroke="#1a1a1a" stroke-width="10.67" stroke-linecap="round"/>
+  <line x1="50" y1="126" x2="80" y2="120" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <circle cx="84" cy="119" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="30" y="149" width="9" height="24" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="41" y="149" width="9" height="24" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="34" cy="175" rx="6" ry="3.5" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="46" cy="175" rx="6" ry="3.5" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- defendant (right) FULL BODY with handcuffs -->
+  <circle cx="225" cy="115" r="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M214 113 q11 -10 22 0" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- orange jumpsuit -->
+  <rect x="213" y="128" width="24" height="40" rx="3" ry="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- arms forward together (cuffed) -->
+  <line x1="213" y1="138" x2="200" y2="155" stroke="#1a1a1a" stroke-width="10.67" stroke-linecap="round"/>
+  <line x1="213" y1="138" x2="200" y2="155" stroke="#ff9900" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="237" y1="138" x2="224" y2="155" stroke="#1a1a1a" stroke-width="10.67" stroke-linecap="round"/>
+  <line x1="237" y1="138" x2="224" y2="155" stroke="#ff9900" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- hands -->
+  <circle cx="198" cy="157" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="226" cy="157" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- handcuffs: two rings + chain -->
+  <circle cx="198" cy="163" r="5" fill="none" stroke="#b8b8b8" stroke-width="5.33"/>
+  <circle cx="226" cy="163" r="5" fill="none" stroke="#b8b8b8" stroke-width="5.33"/>
+  <line x1="203" y1="163" x2="221" y2="163" stroke="#b8b8b8" stroke-width="5.33"/>
+  <line x1="207" y1="165" x2="217" y2="165" stroke="#7f7f7f" stroke-width="3.56"/>
+  <!-- legs -->
+  <rect x="213" y="168" width="10" height="26" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="227" y="168" width="10" height="26" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="218" cy="196" rx="7" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="232" cy="196" rx="7" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- ground -->
+  <line x1="10" y1="210" x2="280" y2="210" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- centre gavel small accent on ground -->
+  <rect x="105" y="195" width="30" height="9" rx="2" ry="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 120 200)"/>
+  <rect x="127" y="198" width="22" height="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 138 200)"/>
+</g></svg>

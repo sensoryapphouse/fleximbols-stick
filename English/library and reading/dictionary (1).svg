@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- dictionary book open with alphabet tab dividers -->
+  <!-- book body (perspective) -->
+  <path d="M 30,50 L 145,40 L 260,50 L 260,210 L 145,220 L 30,210 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="14.82" stroke-linejoin="round"/>
+  <!-- spine fold -->
+  <line x1="145" y1="40" x2="145" y2="220" stroke="#1a1a1a" stroke-width="11.86"/>
+  <!-- LEFT page -->
+  <rect x="40" y="58" width="98" height="156" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41"/>
+  <!-- column 1 header word (bold black bar) -->
+  <rect x="46" y="66" width="36" height="6" fill="#000000"/>
+  <!-- entry lines -->
+  <line x1="46" y1="80" x2="132" y2="80" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="46" y1="88" x2="120" y2="88" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="46" y1="96" x2="128" y2="96" stroke="#4d4d4d" stroke-width="4.45"/>
+  <rect x="46" y="106" width="32" height="5" fill="#000000"/>
+  <line x1="46" y1="118" x2="130" y2="118" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="46" y1="126" x2="124" y2="126" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="46" y1="134" x2="128" y2="134" stroke="#4d4d4d" stroke-width="4.45"/>
+  <rect x="46" y="144" width="34" height="5" fill="#000000"/>
+  <line x1="46" y1="156" x2="130" y2="156" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="46" y1="164" x2="118" y2="164" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="46" y1="172" x2="128" y2="172" stroke="#4d4d4d" stroke-width="4.45"/>
+  <rect x="46" y="182" width="30" height="5" fill="#000000"/>
+  <line x1="46" y1="194" x2="130" y2="194" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="46" y1="202" x2="120" y2="202" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- RIGHT page -->
+  <rect x="152" y="58" width="98" height="156" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41"/>
+  <rect x="158" y="66" width="36" height="6" fill="#000000"/>
+  <line x1="158" y1="80" x2="244" y2="80" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="158" y1="88" x2="232" y2="88" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="158" y1="96" x2="240" y2="96" stroke="#4d4d4d" stroke-width="4.45"/>
+  <rect x="158" y="106" width="32" height="5" fill="#000000"/>
+  <line x1="158" y1="118" x2="242" y2="118" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="158" y1="126" x2="236" y2="126" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="158" y1="134" x2="240" y2="134" stroke="#4d4d4d" stroke-width="4.45"/>
+  <rect x="158" y="144" width="34" height="5" fill="#000000"/>
+  <line x1="158" y1="156" x2="242" y2="156" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="158" y1="164" x2="230" y2="164" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="158" y1="172" x2="240" y2="172" stroke="#4d4d4d" stroke-width="4.45"/>
+  <rect x="158" y="182" width="30" height="5" fill="#000000"/>
+  <line x1="158" y1="194" x2="242" y2="194" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="158" y1="202" x2="232" y2="202" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- alphabet tab dividers along right edge -->
+  <rect x="254" y="62" width="14" height="20" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="56" y="68" width="3" height="10" fill="#ffffff"/>
+  <rect x="254" y="86" width="14" height="20" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="254" y="110" width="14" height="20" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="254" y="134" width="14" height="20" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="254" y="158" width="14" height="20" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="254" y="182" width="14" height="20" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- alphabet tab letters (block paths) -->
+  <!-- A on red tab -->
+  <path d="M 258,78 L 261,68 L 264,68 L 267,78 L 264,78 L 263,76 L 262,76 L 261,78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.37" stroke-linejoin="round"/>
+  <!-- B on orange -->
+  <path d="M 258,90 L 258,102 L 265,102 Q 268,102 268,99 Q 268,96 265,96 Q 268,96 268,93 Q 268,90 265,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.37" stroke-linejoin="round"/>
+  <!-- C on yellow -->
+  <path d="M 267,116 Q 263,114 261,116 Q 259,120 261,124 Q 263,126 267,124 L 267,122 Q 264,124 263,122 Q 261,120 263,118 Q 264,116 267,118 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.37" stroke-linejoin="round"/>
+  <!-- ribbon bookmark -->
+  <rect x="200" y="40" width="12" height="60" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M 200,100 L 206,92 L 212,100 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+</g></svg>

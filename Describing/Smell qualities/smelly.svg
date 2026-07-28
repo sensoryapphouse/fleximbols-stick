@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="51.67 1.32 461.58 461.58">
+<!-- SMELLY: rubbish bin with bad-smell waves and a fly -->
+<!-- stink waves rising -->
+<g fill="none" stroke="#7a8b53" stroke-width="11" stroke-linecap="round">
+<path d="M 196 150 q -22 -24 0 -48 q 22 -24 0 -48"/>
+<path d="M 256 132 q -22 -24 0 -48 q 22 -24 0 -48"/>
+<path d="M 316 150 q -22 -24 0 -48 q 22 -24 0 -48"/>
+</g>
+<!-- fly -->
+<g>
+<ellipse cx="372" cy="150" rx="14" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 372 142 q -26 -22 -44 -8" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 372 142 q 26 -22 44 -8" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- bin lid -->
+<path d="M 150 196 L 362 196 L 350 232 L 162 232 Z" fill="#7f8a94" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="236" y="172" width="40" height="26" rx="6" fill="#7f8a94" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bin body -->
+<path d="M 168 232 L 344 232 L 326 410 Q 324 430 300 430 L 212 430 Q 188 430 186 410 Z" fill="#aab3bb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ribs -->
+<line x1="232" y1="250" x2="226" y2="412" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="280" y1="250" x2="286" y2="412" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</svg>

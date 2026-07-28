@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ukulele: small figure-8 body, round soundhole, short neck, 4 strings, 4 pegs -->
+  <!-- Lower bout (larger) -->
+  <ellipse cx="145" cy="178" rx="52" ry="42" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Upper bout (smaller) -->
+  <ellipse cx="145" cy="120" rx="38" ry="30" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Waist fill between bouts -->
+  <rect x="114" y="118" width="62" height="62" fill="#e6b98a" stroke="none"/>
+  <!-- Waist outline sides -->
+  <line x1="114" y1="118" x2="107" y2="148" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="176" y1="118" x2="183" y2="148" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Soundhole -->
+  <circle cx="145" cy="165" r="16" fill="none" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Rosette ring -->
+  <circle cx="145" cy="165" r="20" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <!-- Bridge -->
+  <rect x="128" y="196" width="34" height="8" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Neck: short -->
+  <rect x="133" y="50" width="24" height="75" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Fret lines: 5 frets -->
+  <line x1="133" y1="63" x2="157" y2="63" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="133" y1="76" x2="157" y2="76" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="133" y1="89" x2="157" y2="89" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="133" y1="102" x2="157" y2="102" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="133" y1="115" x2="157" y2="115" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Dot inlay -->
+  <circle cx="145" cy="82" r="3" fill="#eed5b6" stroke="none"/>
+  <!-- Nut -->
+  <rect x="133" y="53" width="24" height="5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Headstock: small, 4 pegs -->
+  <path d="M131 22 Q130 14 136 18 L137 53 L153 53 L154 18 Q160 14 159 22 Q154 10 145 10 Q136 10 131 22 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- 4 tuning pegs: 2 per side -->
+  <circle cx="135" cy="24" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="36" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="24" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="36" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 4 nylon strings: bridge to pegs -->
+  <line x1="136" y1="196" x2="135" y2="24" stroke="#efefef" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="140" y1="196" x2="138" y2="24" stroke="#efefef" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="150" y1="196" x2="152" y2="24" stroke="#efefef" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="154" y1="196" x2="155" y2="24" stroke="#efefef" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

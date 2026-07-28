@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sun -->
+  <circle cx="50" cy="45" r="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- sun rays -->
+  <line x1="50" y1="10" x2="50" y2="20" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="20" y1="20" x2="28" y2="28" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="10" y1="45" x2="22" y2="45" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="20" y1="70" x2="28" y2="62" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="80" y1="20" x2="72" y2="28" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="80" y1="70" x2="72" y2="62" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- light beam from sun to leaf -->
+  <line x1="65" y1="60" x2="115" y2="105" stroke="#f2e40d" stroke-width="10.67" stroke-linecap="round"/>
+  <line x1="65" y1="60" x2="115" y2="105" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- green leaf in centre -->
+  <path d="M145 70 Q90 100 100 165 Q110 200 145 200 Q200 200 210 145 Q215 95 145 70 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- leaf central vein -->
+  <path d="M155 80 Q140 130 130 195" fill="none" stroke="#67832d" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- side veins -->
+  <path d="M150 100 Q170 105 180 115" fill="none" stroke="#67832d" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M145 125 Q170 130 185 140" fill="none" stroke="#67832d" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M140 150 Q165 155 175 170" fill="none" stroke="#67832d" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M150 100 Q130 110 120 125" fill="none" stroke="#67832d" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M145 125 Q125 135 115 150" fill="none" stroke="#67832d" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- leaf stem -->
+  <path d="M145 200 L150 220" fill="none" stroke="#5e1f0a" stroke-width="7.11" stroke-linecap="round"/>
+
+  <!-- CO2 IN arrow (dark grey circles + arrow pointing right into leaf) -->
+  <!-- 3 grey CO2 blobs to the left of arrow -->
+  <circle cx="232" cy="200" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="252" cy="195" r="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="248" cy="215" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- arrow IN (pointing left toward leaf) -->
+  <line x1="270" y1="180" x2="220" y2="180" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M220 180 L232 174 L232 186 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- O2 OUT arrow (light blue circles + arrow pointing right out of leaf) -->
+  <!-- arrow OUT pointing right -->
+  <line x1="220" y1="100" x2="270" y2="100" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M270 100 L258 94 L258 106 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- 2 light blue O2 bubbles to the right of arrow tip -->
+  <circle cx="245" cy="75" r="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="265" cy="80" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

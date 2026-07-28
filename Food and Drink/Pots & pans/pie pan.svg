@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Shallow round pan with sloped sides for pies -->
+  <!-- Outer rim (top ellipse - wide) -->
+  <ellipse cx="145" cy="90" rx="115" ry="30" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner cavity ellipse -->
+  <ellipse cx="145" cy="90" rx="100" ry="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pan body - sloped sides converging to smaller bottom -->
+  <path d="M 30 90 L 70 165 L 220 165 L 260 90" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner shadow under rim -->
+  <path d="M 30 90 Q 145 105 260 90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Fluted/crimped rim pattern (pie pan signature) -->
+  <path d="M 30 90 Q 35 82 42 90 Q 49 82 56 90 Q 63 82 70 90 Q 77 82 84 90 Q 91 82 98 90 Q 105 82 112 90 Q 119 82 126 90 Q 133 82 140 90 Q 147 82 154 90 Q 161 82 168 90 Q 175 82 182 90 Q 189 82 196 90 Q 203 82 210 90 Q 217 82 224 90 Q 231 82 238 90 Q 245 82 252 90 Q 256 86 260 90" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pie filling visible in the pan -->
+  <ellipse cx="145" cy="92" rx="95" ry="18" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lattice top of pie -->
+  <path d="M 70 90 L 220 88" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 90 100 L 200 95" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 110 78 L 110 110" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145 76 L 145 108" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 180 78 L 180 108" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bottom edge -->
+  <path d="M 70 165 Q 145 175 220 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="48.48 45.07 415.03 415.03">
+<!-- support legs -->
+<line x1="256" y1="230" x2="176" y2="430" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<line x1="256" y1="230" x2="336" y2="430" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<line x1="150" y1="430" x2="362" y2="430" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- big wheel rim -->
+<circle cx="256" cy="230" r="148" fill="none" stroke="#1a1a1a" stroke-width="11"/>
+<circle cx="256" cy="230" r="148" fill="none" stroke="#3a8fd6" stroke-width="5"/>
+<!-- spokes -->
+<line x1="256" y1="230" x2="256" y2="82" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="230" x2="256" y2="378" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="230" x2="108" y2="230" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="230" x2="404" y2="230" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="230" x2="151" y2="125" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="230" x2="361" y2="125" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="230" x2="151" y2="335" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="230" x2="361" y2="335" stroke="#1a1a1a" stroke-width="7"/>
+<!-- gondolas -->
+<rect x="240" y="74" width="32" height="26" rx="6" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="240" y="360" width="32" height="26" rx="6" fill="#3fae5a" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="86" y="214" width="32" height="26" rx="6" fill="#f4a93c" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="394" y="214" width="32" height="26" rx="6" fill="#9b6bd6" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="123" y="106" width="32" height="26" rx="6" fill="#3fae5a" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="357" y="106" width="32" height="26" rx="6" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="123" y="328" width="32" height="26" rx="6" fill="#3a8fd6" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="357" y="328" width="32" height="26" rx="6" fill="#f4a93c" stroke="#1a1a1a" stroke-width="7"/>
+<!-- hub -->
+<circle cx="256" cy="230" r="16" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

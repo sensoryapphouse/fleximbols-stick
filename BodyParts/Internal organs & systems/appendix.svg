@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Torso ghost -->
+  <path d="M105 30 C90 30 75 45 72 65 L60 160 C58 175 65 195 80 200 L145 210 L210 200 C225 195 232 175 230 160 L218 65 C215 45 200 30 185 30 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="125" y="14" width="40" height="22" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Large intestine frame (context, grey) - ascending right -->
+  <path d="M185 185 L185 115 C185 108 180 103 173 103 L160 103" fill="none" stroke="#7f7f7f" stroke-width="5.19" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- transverse -->
+  <path d="M160 103 L130 103 L115 103" fill="none" stroke="#7f7f7f" stroke-width="5.19" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- descending left -->
+  <path d="M115 103 C108 103 105 108 105 115 L105 185" fill="none" stroke="#7f7f7f" stroke-width="5.19" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- sigmoid/bottom -->
+  <path d="M105 185 C105 192 110 196 117 196 L145 196 L173 196 C180 196 185 192 185 185" fill="none" stroke="#7f7f7f" stroke-width="5.19" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cecum (bottom of ascending colon) -->
+  <ellipse cx="185" cy="188" rx="12" ry="10" fill="#efefef" stroke="#7f7f7f" stroke-width="2.96"/>
+  <!-- APPENDIX: worm-like pouch at lower-right, red -->
+  <path d="M190 192 C196 196 202 198 206 200 C210 202 214 200 214 195 C214 192 212 190 208 190 C205 190 200 190 197 187 C194 185 192 183 193 180 C194 177 196 177 197 175" fill="none" stroke="#f8130d" stroke-width="5.19" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="197" cy="175" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- Pointer line and dot -->
+  <line x1="207" y1="192" x2="222" y2="182" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <circle cx="222" cy="182" r="4" fill="#000000"/>
+</g></svg>

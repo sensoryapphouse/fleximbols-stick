@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Clipboard back -->
+  <rect x="50" y="30" width="190" height="200" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Clip top -->
+  <rect x="120" y="22" width="50" height="22" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="130" y="14" width="30" height="12" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Paper -->
+  <rect x="60" y="45" width="170" height="175" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Underline -->
+  <line x1="70" y1="88" x2="158" y2="88" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bullet 1 (highlighted) -->
+  <rect x="70" y="100" width="6" height="14" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="82" y="103" width="130" height="8" rx="2" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Bullet 2 -->
+  <circle cx="74" cy="128" r="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="82" y1="128" x2="210" y2="128" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Bullet 3 -->
+  <circle cx="74" cy="148" r="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="82" y1="148" x2="195" y2="148" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Bullet 4 (highlighted) -->
+  <rect x="70" y="161" width="6" height="14" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="82" y="164" width="115" height="8" rx="2" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Bullet 5 -->
+  <circle cx="74" cy="188" r="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="82" y1="188" x2="205" y2="188" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Bullet 6 -->
+  <circle cx="74" cy="208" r="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="82" y1="208" x2="185" y2="208" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- clock + checkmark banner (replaces RECAP heading) -->
+  <rect x="70" y="62" width="110" height="24" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="74" r="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M90 68 L90 74 L96 77" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M110 70 L116 76 L126 64" fill="none" stroke="#f2e40d" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

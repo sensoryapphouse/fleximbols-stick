@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- blister pack of pills -->
+<rect x="60" y="150" width="220" height="170" rx="20" fill="#7fc4e8" stroke="#1a1a1a" stroke-width="9"/>
+<g fill="#ffffff" stroke="#1a1a1a" stroke-width="9">
+<circle cx="110" cy="200" r="22"/>
+<circle cx="170" cy="200" r="22"/>
+<circle cx="230" cy="200" r="22"/>
+<circle cx="110" cy="270" r="22"/>
+<circle cx="170" cy="270" r="22"/>
+<circle cx="230" cy="270" r="22"/>
+</g>
+<!-- condom packet -->
+<rect x="300" y="210" width="180" height="180" rx="16" fill="#f4b63d" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 300 250 L 480 250" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="14 12"/>
+<circle cx="390" cy="320" r="46" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="390" cy="320" r="22" fill="#f4b63d" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

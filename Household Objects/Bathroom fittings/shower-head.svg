@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- wall arm pipe -->
+<path d="M 256 96 L 256 150 Q 256 178 228 188" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="256" y1="96" x2="256" y2="96" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="256" cy="96" r="11" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+<!-- shower head disc -->
+<ellipse cx="200" cy="206" rx="78" ry="32" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="200" cy="214" rx="60" ry="20" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<!-- nozzle holes -->
+<circle cx="164" cy="220" r="5" fill="#1a1a1a"/>
+<circle cx="184" cy="223" r="5" fill="#1a1a1a"/>
+<circle cx="204" cy="224" r="5" fill="#1a1a1a"/>
+<circle cx="224" cy="223" r="5" fill="#1a1a1a"/>
+<circle cx="236" cy="220" r="5" fill="#1a1a1a"/>
+<!-- water spray -->
+<line x1="170" y1="246" x2="148" y2="372" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+<line x1="195" y1="248" x2="178" y2="384" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+<line x1="218" y1="246" x2="206" y2="372" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+<line x1="240" y1="244" x2="236" y2="360" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+<!-- droplets -->
+<path d="M 160 396 q -9 13 0 20 q 9 -7 0 -20 Z" fill="#3d7fb5"/>
+<path d="M 200 404 q -9 13 0 20 q 9 -7 0 -20 Z" fill="#3d7fb5"/>
+<path d="M 232 388 q -9 13 0 20 q 9 -7 0 -20 Z" fill="#3d7fb5"/>
+</svg>

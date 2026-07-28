@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Fire pit: round in-ground pit with stone ring + flames -->
+  <!-- Ground shadow/earth surround -->
+  <ellipse cx="145" cy="185" rx="100" ry="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Stone ring outer -->
+  <ellipse cx="145" cy="175" rx="88" ry="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Stone ring top face -->
+  <ellipse cx="145" cy="168" rx="88" ry="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Stone segments on ring -->
+  <ellipse cx="145" cy="168" rx="88" ry="18" fill="none" stroke="#7f7f7f" stroke-width="2.67"/>
+  <line x1="65" y1="162" x2="67" y2="174" stroke="#7f7f7f" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="88" y1="153" x2="90" y2="165" stroke="#7f7f7f" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="115" y1="150" x2="115" y2="162" stroke="#7f7f7f" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="149" x2="145" y2="161" stroke="#7f7f7f" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="175" y1="150" x2="175" y2="162" stroke="#7f7f7f" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="202" y1="153" x2="200" y2="165" stroke="#7f7f7f" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="225" y1="162" x2="223" y2="174" stroke="#7f7f7f" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Pit interior (dark earth) -->
+  <ellipse cx="145" cy="166" rx="70" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Embers/coals -->
+  <ellipse cx="145" cy="167" rx="62" ry="11" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.34"/>
+  <ellipse cx="130" cy="168" rx="20" ry="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <ellipse cx="158" cy="168" rx="18" ry="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <ellipse cx="145" cy="166" rx="15" ry="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Flames -->
+  <path d="M120,165 Q110,145 118,125 Q122,112 115,100 Q128,112 125,128 Q132,110 130,92 Q140,108 138,128 Q145,105 145,85 Q152,108 150,128 Q155,108 158,92 Q158,112 162,128 Q165,112 175,100 Q168,112 172,125 Q178,145 170,165" fill="#f8130d" stroke="none"/>
+  <path d="M126,165 Q118,148 125,132 Q130,118 126,105 Q136,118 134,132 Q140,115 140,98 Q148,115 148,132 Q152,118 156,105 Q154,118 162,132 Q167,148 162,165" fill="#f7de58" stroke="none"/>
+  <path d="M133,165 Q128,152 133,140 Q138,128 135,118 Q142,128 141,140 Q145,125 147,118 Q150,128 148,140 Q152,152 148,165" fill="#fff200" stroke="none"/>
+</g></svg>

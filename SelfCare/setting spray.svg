@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Slim bottle body -->
+  <rect x="108" y="100" width="56" height="118" rx="10" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Label band -->
+  <rect x="108" y="140" width="56" height="30" fill="#90a7d6"/>
+  <!-- Nozzle collar block -->
+  <rect x="103" y="76" width="66" height="28" rx="7" ry="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Trigger arm: horizontal out to the right -->
+  <polyline points="169,88 196,88 196,110" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Trigger guard bar -->
+  <line x1="169" y1="106" x2="196" y2="106" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Nozzle tip protruding left -->
+  <rect x="82" y="84" width="24" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Mist dots fanning left/up-left -->
+  <circle cx="68" cy="78" r="4" fill="#000000"/>
+  <circle cx="56" cy="66" r="3.5" fill="#000000"/>
+  <circle cx="48" cy="54" r="3" fill="#000000"/>
+  <circle cx="58" cy="90" r="3.5" fill="#000000"/>
+  <circle cx="44" cy="80" r="3" fill="#000000"/>
+  <circle cx="36" cy="66" r="2.5" fill="#000000"/>
+  <circle cx="46" cy="100" r="2.5" fill="#000000"/>
+  <circle cx="32" cy="90" r="2" fill="#000000"/>
+  <circle cx="40" cy="50" r="2.5" fill="#000000"/>
+  <!-- Bottle cap line -->
+  <line x1="108" y1="116" x2="164" y2="116" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wide round brim -->
+  <ellipse cx="145" cy="168" rx="120" ry="28" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Brim underside (slightly darker) -->
+  <ellipse cx="145" cy="172" rx="120" ry="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Crown -->
+  <path d="M95,168 Q92,110 145,92 Q198,110 195,168 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Straw weave texture on crown — horizontal lines -->
+  <path d="M98,158 Q145,153 192,158" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M97,146 Q145,141 193,146" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M98,134 Q145,129 192,134" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M100,122 Q145,117 190,122" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M104,112 Q145,107 186,112" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M110,103 Q145,99 180,103" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Straw weave on brim — concentric arcs -->
+  <path d="M38,165 Q145,155 252,165" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M28,170 Q145,160 262,170" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hat band -->
+  <path d="M95,168 Q95,160 95,156 Q145,150 195,156 Q195,160 195,168" fill="#ff9900" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Band bow/knot detail -->
+  <ellipse cx="145" cy="158" rx="14" ry="7" fill="#e65a00" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="158" r="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="13.77 6.09 467.39 467.39"><!-- bangy: firecracker exploding with a sharp BANG starburst -->
+<!-- explosion starburst -->
+<polygon points="256,40 286,150 360,96 322,180 432,170 338,224 430,288 318,278 352,392 270,318 250,440 222,322 132,400 178,290 70,316 168,238 64,184 176,196 132,96 222,162" fill="#f6cf3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inner burst -->
+<polygon points="256,150 282,230 360,238 296,284 320,360 256,312 192,360 216,284 152,238 230,230" fill="#f3902a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- centre -->
+<circle cx="256" cy="262" r="34" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

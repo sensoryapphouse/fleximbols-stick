@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Globe -->
+  <circle cx="105" cy="145" r="75" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Land masses on globe -->
+  <ellipse cx="85" cy="128" rx="28" ry="18" fill="#529929" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <ellipse cx="112" cy="160" rx="22" ry="14" fill="#137827" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <ellipse cx="78" cy="162" rx="14" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Globe latitude lines -->
+  <path d="M30 145 Q67 132 105 145 Q143 158 180 145" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M40 118 Q72 108 105 118 Q138 128 170 118" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M40 172 Q72 182 105 172 Q138 162 170 172" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Globe outline -->
+  <circle cx="105" cy="145" r="75" fill="none" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- Heat shimmer arcs over globe -->
+  <path d="M55 85 Q78 72 100 85" fill="none" stroke="#f8130d" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M65 75 Q88 62 110 75" fill="none" stroke="#ff9900" stroke-width="3.81" stroke-linecap="round"/>
+
+  <!-- Thermometer tube -->
+  <rect x="198" y="45" width="22" height="140" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Mercury fill (high — nearly full) -->
+  <rect x="203" y="68" width="12" height="111" rx="6" fill="#f8130d" stroke="none"/>
+  <!-- Thermometer bulb -->
+  <circle cx="209" cy="192" r="18" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Thermometer scale ticks -->
+  <line x1="220" y1="75" x2="228" y2="75" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="220" y1="95" x2="228" y2="95" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="220" y1="115" x2="228" y2="115" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="220" y1="135" x2="228" y2="135" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="220" y1="155" x2="230" y2="155" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Heat rays from thermometer top -->
+  <line x1="209" y1="40" x2="209" y2="30" stroke="#f8130d" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="222" y1="44" x2="228" y2="36" stroke="#ff9900" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="196" y1="44" x2="190" y2="36" stroke="#ff9900" stroke-width="3.81" stroke-linecap="round"/>
+</g></svg>

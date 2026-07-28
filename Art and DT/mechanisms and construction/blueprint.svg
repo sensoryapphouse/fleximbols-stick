@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Blue drafting sheet (rolled/flat) -->
+  <rect x="30" y="44" width="230" height="162" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Rolled curl left edge -->
+  <ellipse cx="30" cy="125" rx="10" ry="81" fill="#1d0e82" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Rolled curl shadow -->
+  <ellipse cx="30" cy="125" rx="5" ry="76" fill="#2a4ec0"/>
+
+  <!-- House outline (white line-work on blue) -->
+  <!-- House base rect -->
+  <rect x="72" y="96" width="148" height="90" rx="2" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Roof triangle -->
+  <polygon points="60,96 146,54 232,96" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Door -->
+  <rect x="126" y="148" width="26" height="38" rx="2" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Door swing (small arc) -->
+  <path d="M126,148 Q144,138 152,148" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-dasharray="4,3"/>
+  <!-- Window left -->
+  <rect x="82" y="112" width="30" height="24" rx="2" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linejoin="round"/>
+  <line x1="97" y1="112" x2="97" y2="136" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="82" y1="124" x2="112" y2="124" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- Window right -->
+  <rect x="180" y="112" width="30" height="24" rx="2" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linejoin="round"/>
+  <line x1="195" y1="112" x2="195" y2="136" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="180" y1="124" x2="210" y2="124" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- Chimney -->
+  <rect x="168" y="56" width="18" height="28" rx="1" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linejoin="round"/>
+
+  <!-- RULER (bottom of sheet) -->
+  <rect x="50" y="182" width="160" height="12" rx="2" fill="#1d0e82" stroke="#ffffff" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Ruler tick marks -->
+  <line x1="70" y1="182" x2="70" y2="190" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="90" y1="182" x2="90" y2="190" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="110" y1="182" x2="110" y2="190" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="130" y1="182" x2="130" y2="190" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="150" y1="182" x2="150" y2="190" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="170" y1="182" x2="170" y2="190" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="190" y1="182" x2="190" y2="190" stroke="#ffffff" stroke-width="4.45"/>
+
+  <!-- COMPASS (top-right corner of sheet) -->
+  <circle cx="228" cy="74" r="16" fill="#1d0e82" stroke="#ffffff" stroke-width="6.67"/>
+  <!-- N needle -->
+  <polygon points="228,60 224,74 228,70 232,74" fill="#ffffff" stroke="#ffffff" stroke-width="2.22"/>
+  <!-- S needle -->
+  <polygon points="228,88 224,74 228,78 232,74" fill="#90a7d6" stroke="#ffffff" stroke-width="2.22"/>
+  <!-- Cross hairs -->
+  <line x1="220" y1="74" x2="236" y2="74" stroke="#ffffff" stroke-width="4.45"/>
+</g></svg>

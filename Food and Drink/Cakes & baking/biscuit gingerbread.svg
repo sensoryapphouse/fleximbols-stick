@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- gingerbread man shape - warm ginger brown -->
+  <!-- body -->
+  <circle cx="145" cy="148" r="40" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="145" cy="85" r="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left arm -->
+  <ellipse cx="92" cy="128" rx="28" ry="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-30,92,128)"/>
+  <!-- right arm -->
+  <ellipse cx="198" cy="128" rx="28" ry="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round" transform="rotate(30,198,128)"/>
+  <!-- left leg -->
+  <ellipse cx="122" cy="193" rx="16" ry="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-12,122,193)"/>
+  <!-- right leg -->
+  <ellipse cx="168" cy="193" rx="16" ry="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round" transform="rotate(12,168,193)"/>
+  <!-- white icing eyes -->
+  <circle cx="136" cy="80" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <circle cx="154" cy="80" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <!-- white icing smile -->
+  <path d="M 133,93 Q 145,103 157,93" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- white icing buttons on body -->
+  <circle cx="145" cy="132" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <circle cx="145" cy="148" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <circle cx="145" cy="164" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <!-- white icing bow-tie detail at neck -->
+  <path d="M 132,112 L 145,118 L 158,112 L 145,106 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

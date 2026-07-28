@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- open binder, viewed from inside showing 3-ring mechanism -->
+  <!-- left cover (open) -->
+  <path d="M 30 40 L 145 30 L 145 215 L 30 205 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- right cover (open) -->
+  <path d="M 260 40 L 145 30 L 145 215 L 260 205 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- spine strip -->
+  <rect x="138" y="30" width="14" height="186" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- pages on right side -->
+  <path d="M 155 50 L 250 55 L 250 195 L 155 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <line x1="170" y1="80" x2="235" y2="82" stroke="#b8b8b8" stroke-width="3.55"/>
+  <line x1="170" y1="100" x2="235" y2="102" stroke="#b8b8b8" stroke-width="3.55"/>
+  <line x1="170" y1="120" x2="235" y2="122" stroke="#b8b8b8" stroke-width="3.55"/>
+  <line x1="170" y1="140" x2="235" y2="142" stroke="#b8b8b8" stroke-width="3.55"/>
+  <line x1="170" y1="160" x2="235" y2="162" stroke="#b8b8b8" stroke-width="3.55"/>
+  <!-- 3-ring mechanism - rings going through pages -->
+  <!-- metal backing plate -->
+  <rect x="135" y="50" width="20" height="150" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- ring 1 (top) -->
+  <ellipse cx="145" cy="72" rx="16" ry="12" fill="none" stroke="#7f7f7f" stroke-width="10.67"/>
+  <ellipse cx="145" cy="72" rx="16" ry="12" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- ring 2 (middle) -->
+  <ellipse cx="145" cy="123" rx="16" ry="12" fill="none" stroke="#7f7f7f" stroke-width="10.67"/>
+  <ellipse cx="145" cy="123" rx="16" ry="12" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- ring 3 (bottom) -->
+  <ellipse cx="145" cy="174" rx="16" ry="12" fill="none" stroke="#7f7f7f" stroke-width="10.67"/>
+  <ellipse cx="145" cy="174" rx="16" ry="12" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- holes in pages -->
+  <circle cx="160" cy="72" r="3" fill="#000000"/>
+  <circle cx="160" cy="123" r="3" fill="#000000"/>
+  <circle cx="160" cy="174" r="3" fill="#000000"/>
+</g></svg>

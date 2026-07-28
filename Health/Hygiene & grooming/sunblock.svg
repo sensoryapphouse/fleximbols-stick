@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sun -->
+  <circle cx="145" cy="105" r="52" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Sun rays -->
+  <path d="M 145,42 L 145,28 M 145,168 L 145,182 M 82,105 L 68,105 M 208,105 L 222,105 M 100,60 L 90,50 M 190,150 L 200,160 M 190,60 L 200,50 M 100,150 L 90,160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Shield shape over sun -->
+  <path d="M 145,55 Q 105,62 95,92 Q 88,122 100,148 Q 115,175 145,185 Q 175,175 190,148 Q 202,122 195,92 Q 185,62 145,55 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Shield inner highlight -->
+  <path d="M 145,68 Q 115,75 108,100 Q 103,124 114,146 Q 127,168 145,175 Q 163,168 176,146 Q 187,124 182,100 Q 175,75 145,68 Z" fill="#1d0e82" stroke="none"/>
+  <!-- SPF dab / white cream blob on shield -->
+  <path d="M 132,108 Q 125,100 128,92 Q 133,84 145,84 Q 157,84 162,92 Q 165,100 158,108 Q 152,116 145,118 Q 138,116 132,108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cream swirl detail -->
+  <path d="M 138,98 Q 145,94 152,98 Q 155,104 145,108 Q 135,104 138,98 Z" fill="#efefef" stroke="none"/>
+  <!-- Small drip of cream below blob -->
+  <path d="M 145,118 Q 143,128 145,135 Q 147,128 145,118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Sun peeking behind shield - partial arc bottom -->
+  <path d="M 100,148 Q 115,178 145,186 Q 175,178 190,148" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- EM Column base platform -->
+  <rect x="72" y="208" width="100" height="16" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Main column body -->
+  <rect x="96" y="60" width="52" height="152" rx="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Column top cap -->
+  <rect x="90" y="48" width="64" height="20" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Column very top dome -->
+  <ellipse cx="122" cy="48" rx="28" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Column nozzle at bottom -->
+  <rect x="108" y="208" width="28" height="10" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Column mid rings (coils/lenses) -->
+  <rect x="88" y="100" width="68" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <rect x="88" y="130" width="68" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <rect x="88" y="160" width="68" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Column detail stripe -->
+  <rect x="106" y="60" width="12" height="152" rx="2" fill="#b8b8b8" stroke="none"/>
+
+  <!-- Monitor screen -->
+  <rect x="186" y="85" width="78" height="58" rx="8" fill="#000000" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <rect x="192" y="91" width="66" height="46" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Monitor stand -->
+  <rect x="219" y="143" width="12" height="20" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <rect x="208" y="160" width="34" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Screen image (cell/sample cross) -->
+  <circle cx="225" cy="114" r="14" fill="none" stroke="#529929" stroke-width="2.96"/>
+  <line x1="225" y1="100" x2="225" y2="128" stroke="#529929" stroke-width="1.97" stroke-linecap="round"/>
+  <line x1="211" y1="114" x2="239" y2="114" stroke="#529929" stroke-width="1.97" stroke-linecap="round"/>
+  <circle cx="225" cy="114" r="5" fill="#529929" stroke="none"/>
+
+  <!-- Cable from column to monitor -->
+  <path d="M148 115 Q165 115 186 114" fill="none" stroke="#4d4d4d" stroke-width="3.95" stroke-linecap="round"/>
+</g></svg>

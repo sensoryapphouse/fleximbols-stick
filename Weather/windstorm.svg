@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- GROUND LINE -->
+  <line x1="18" y1="218" x2="272" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- TREE severely uprooted / bent hard (left side) -->
+  <!-- Roots lifting out of ground -->
+  <path d="M62 218 Q54 206 44 196" fill="none" stroke="#5e1f0a" stroke-width="6.22" stroke-linecap="round"/>
+  <path d="M62 218 Q68 208 58 196" fill="none" stroke="#5e1f0a" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M62 218 Q58 210 48 208" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Trunk bent nearly horizontal under storm -->
+  <path d="M62 218 Q68 182 80 155 Q90 128 108 110 Q122 95 140 88" fill="none" stroke="#5e1f0a" stroke-width="11.55" stroke-linecap="round"/>
+  <!-- Shredded foliage blown left -->
+  <ellipse cx="124" cy="80" rx="32" ry="22" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="100" cy="72" rx="22" ry="17" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Flying leaf fragments -->
+  <ellipse cx="68" cy="60" rx="10" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="2.66" transform="rotate(-35 68 60)"/>
+  <ellipse cx="46" cy="82" rx="9" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="2.66" transform="rotate(20 46 82)"/>
+  <ellipse cx="35" cy="48" rx="7" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.66" transform="rotate(-15 35 48)"/>
+  <!-- DEBRIS flying through air -->
+  <!-- Plank -->
+  <rect x="158" y="62" width="46" height="11" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" transform="rotate(-28 181 67)"/>
+  <!-- Roof tile -->
+  <polygon points="188,128 208,122 214,138 194,144" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Box / crate fragment -->
+  <rect x="115" y="148" width="20" height="16" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" transform="rotate(18 125 156)"/>
+  <!-- Bucket -->
+  <path d="M240 100 L248 118 L232 118 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- WARNING TRIANGLE (top-right, "!" as paths) -->
+  <polygon points="236,18 278,92 194,92" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="233" y="40" width="7" height="30" rx="3" fill="#000000"/>
+  <circle cx="236" cy="80" r="5" fill="#000000"/>
+  <!-- BOLD STORM MOTION ARCS -->
+  <path d="M16 138 Q48 122 90 130 Q130 138 158 122" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M14 162 Q50 148 96 156 Q138 164 164 150" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M16 186 Q52 172 98 180 Q138 188 162 176" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M18 208 Q54 196 100 204 Q138 210 160 200" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

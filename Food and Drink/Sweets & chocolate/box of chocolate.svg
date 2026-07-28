@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Box lid (heart shape, open/tilted behind) -->
+  <path d="M145,48 C145,48 90,20 75,55 C62,85 100,110 145,140 C190,110 228,85 215,55 C200,20 145,48 145,48 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lid highlight -->
+  <path d="M145,60 C145,60 105,40 95,62 C87,80 112,98 145,118 C178,98 203,80 195,62 C185,40 145,60 145,60 Z" fill="#f8130d" stroke="none"/>
+  <!-- Lid ribbon horizontal -->
+  <line x1="85" y1="78" x2="205" y2="78" stroke="#f7de58" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Box base (heart shape) -->
+  <path d="M145,215 C145,215 52,160 52,115 C52,90 68,75 90,75 C110,75 130,88 145,105 C160,88 180,75 200,75 C222,75 238,90 238,115 C238,160 145,215 145,215 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Chocolate cups - row 1 -->
+  <ellipse cx="100" cy="118" rx="18" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="100" cy="115" rx="14" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="110" rx="18" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="107" rx="14" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="190" cy="118" rx="18" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="190" cy="115" rx="14" ry="10" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Chocolate cups - row 2 -->
+  <ellipse cx="115" cy="158" rx="18" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="115" cy="155" rx="14" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="175" cy="158" rx="18" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="175" cy="155" rx="14" ry="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Chocolate cup - bottom center -->
+  <ellipse cx="145" cy="190" rx="18" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="187" rx="14" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

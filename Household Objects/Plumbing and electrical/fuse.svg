@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- cartridge fuse: ceramic body with metal end caps and visible filament -->
+<!-- body -->
+<rect x="160" y="196" width="192" height="120" rx="14" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left metal cap -->
+<rect x="120" y="190" width="52" height="132" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right metal cap -->
+<rect x="340" y="190" width="52" height="132" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cap highlight bands -->
+<line x1="138" y1="206" x2="138" y2="306" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<line x1="374" y1="206" x2="374" y2="306" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<!-- filament wire (zig-zag) through window -->
+<polyline points="172,256 200,232 228,280 256,232 284,280 312,232 340,256" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- rating label panel -->
+<rect x="216" y="290" width="80" height="22" rx="6" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="232" y1="301" x2="280" y2="301" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

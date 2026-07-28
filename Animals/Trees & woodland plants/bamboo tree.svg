@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground/soil base -->
+  <ellipse cx="145" cy="232" rx="70" ry="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bamboo stalk 1 - far left, slightly tilted left -->
+  <path d="M100 232 Q97 180 100 130 Q103 80 100 30" fill="none" stroke="#529929" stroke-width="20.73" stroke-linecap="round"/>
+  <!-- Nodes on stalk 1 -->
+  <rect x="93" y="82" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="93" y="122" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="93" y="162" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="93" y="200" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bamboo stalk 2 - left center, tall straight -->
+  <path d="M128 232 Q127 180 128 130 Q129 75 126 12" fill="none" stroke="#529929" stroke-width="22.21" stroke-linecap="round"/>
+  <rect x="121" y="70" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="121" y="110" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="121" y="150" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="121" y="190" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bamboo stalk 3 - center, tallest -->
+  <path d="M148 232 Q148 180 148 125 Q148 68 148 8" fill="none" stroke="#67832d" stroke-width="20.73" stroke-linecap="round"/>
+  <rect x="141" y="65" width="14" height="6" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="141" y="108" width="14" height="6" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="141" y="150" width="14" height="6" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="141" y="192" width="14" height="6" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bamboo stalk 4 - right center -->
+  <path d="M168 232 Q169 178 168 128 Q167 75 170 15" fill="none" stroke="#529929" stroke-width="22.21" stroke-linecap="round"/>
+  <rect x="161" y="72" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="161" y="112" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="161" y="152" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="161" y="192" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bamboo stalk 5 - far right, slightly tilted right -->
+  <path d="M193 232 Q196 180 193 130 Q190 78 194 32" fill="none" stroke="#529929" stroke-width="20.73" stroke-linecap="round"/>
+  <rect x="186" y="82" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="186" y="122" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="186" y="162" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="186" y="200" width="14" height="6" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Thin leaves at nodes - stalk 1 -->
+  <path d="M100 82 Q82 72 70 78" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M100 122 Q82 112 68 118" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Thin leaves at nodes - stalk 2 -->
+  <path d="M128 70 Q112 58 100 62" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M128 110 Q145 100 158 105" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Thin leaves at nodes - stalk 3 -->
+  <path d="M148 65 Q130 54 118 58" fill="none" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M148 108 Q165 96 178 100" fill="none" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Thin leaves at nodes - stalk 4 -->
+  <path d="M168 72 Q185 60 198 64" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M168 112 Q152 100 140 105" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Thin leaves at nodes - stalk 5 -->
+  <path d="M194 82 Q212 72 222 78" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M194 122 Q210 112 222 118" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

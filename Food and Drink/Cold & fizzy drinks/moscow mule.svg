@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- copper mug body -->
+  <path d="M85 50 L205 50 L195 215 L95 215 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- mug rim band -->
+  <rect x="85" y="50" width="120" height="14" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- mug bottom band -->
+  <path d="M95 200 L195 200 L195 215 L95 215 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- copper shine highlight -->
+  <path d="M110 80 L115 195" stroke="#f7de58" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- copper texture line -->
+  <path d="M178 75 L184 190" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- D-shape mug handle -->
+  <path d="M205 80 C 245 80 245 175 205 175" fill="none" stroke="#e65a00" stroke-width="17.77" stroke-linecap="round"/>
+  <path d="M205 80 C 245 80 245 175 205 175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- lime wedge on top -->
+  <path d="M120 35 A 18 18 0 0 1 158 35 L150 50 L128 50 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M139 36 L139 48 M130 40 L148 44" stroke="#529929" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- mint sprig leaves -->
+  <ellipse cx="160" cy="32" rx="9" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(25 160 32)"/>
+  <ellipse cx="172" cy="22" rx="8" ry="12" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-15 172 22)"/>
+</g></svg>

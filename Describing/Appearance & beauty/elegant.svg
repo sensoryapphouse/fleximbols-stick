@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="109.11 80.10 343.27 343.27"><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- an elegant tall stemmed glass = elegant -->
+<g transform="translate(256 256)">
+<!-- bowl of the glass -->
+<path d="M -64 -150 L 64 -150 Q 64 -40 0 -16 Q -64 -40 -64 -150 Z" fill="#d8eef6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- liquid -->
+<path d="M -52 -110 L 52 -110 Q 52 -44 0 -26 Q -52 -44 -52 -110 Z" fill="#f6c84a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- rim highlight -->
+<line x1="-64" y1="-150" x2="64" y2="-150" stroke="#ffffff" stroke-width="5"/>
+<!-- stem -->
+<line x1="0" y1="-16" x2="0" y2="120" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- foot -->
+<ellipse cx="0" cy="124" rx="64" ry="18" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bubbles in drink -->
+<g fill="#ffffff" stroke="#1a1a1a" stroke-width="0">
+<circle cx="-18" cy="-86" r="6"/>
+<circle cx="16" cy="-66" r="5"/>
+<circle cx="0" cy="-104" r="5"/>
+</g>
+</g>
+<!-- one sparkle for shine -->
+<g fill="#ffd23f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+<polygon points="350,110 356,128 374,134 356,140 350,158 344,140 326,134 344,128"/>
+</g>
+</svg>

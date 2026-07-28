@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Luther rose: outer 5-petal rose (white) -->
+  <path d="M145 25 Q185 35 195 70 Q220 90 205 130 Q210 170 170 175 Q145 200 120 175 Q80 170 85 130 Q70 90 95 70 Q105 35 145 25 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- inner red heart -->
+  <path d="M145 145 Q120 125 120 105 Q120 90 132 90 Q140 90 145 100 Q150 90 158 90 Q170 90 170 105 Q170 125 145 145 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- cross inside heart -->
+  <rect x="141" y="98" width="8" height="30" fill="#000000"/>
+  <rect x="132" y="108" width="26" height="8" fill="#000000"/>
+  <!-- plain cross (left lower) -->
+  <rect x="35" y="170" width="12" height="55" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="22" y="185" width="38" height="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- open Bible (right lower) -->
+  <path d="M210 205 Q245 192 280 205 L280 230 Q245 218 210 230 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <line x1="245" y1="198" x2="245" y2="226" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

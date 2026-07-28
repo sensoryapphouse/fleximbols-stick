@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Torso ghost -->
+  <path d="M105 30 C90 30 75 45 72 65 L60 160 C58 175 65 195 80 200 L145 210 L210 200 C225 195 232 175 230 160 L218 65 C215 45 200 30 185 30 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="125" y="14" width="40" height="22" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Small intestine context -->
+  <ellipse cx="145" cy="153" rx="32" ry="38" fill="#efefef" stroke="#b8b8b8" stroke-width="2.22"/>
+  <!-- COLON: segmented frame with haustra (pouches) showing ascending/transverse/descending -->
+  <!-- Ascending colon right - segmented with haustra bumps -->
+  <path d="M186 192 C190 184 192 172 190 162 C190 152 186 144 188 134 C190 124 192 116 190 108 C189 104 186 102 183 103" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Haustra (pouches) on ascending right -->
+  <path d="M194 185 C198 183 198 177 194 176" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M194 172 C198 170 198 164 194 163" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M194 159 C198 157 198 151 194 150" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M194 146 C198 144 198 138 194 137" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M193 133 C197 131 197 125 193 124" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hepatic flexure (right bend) -->
+  <path d="M183 103 C178 100 170 100 163 102" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Transverse colon top - segmented with haustra bumps upward -->
+  <path d="M163 102 C155 100 145 100 135 100 C127 100 117 102 107 103" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Haustra on transverse -->
+  <path d="M160 100 C160 96 154 94 150 96" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M148 100 C148 96 142 94 138 96" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M136 100 C136 96 130 94 126 96" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Splenic flexure (left bend) -->
+  <path d="M107 103 C103 102 100 104 99 108" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Descending colon left - segmented -->
+  <path d="M99 108 C97 118 98 128 98 138 C97 148 96 160 98 170 C99 180 100 188 100 192" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Haustra on descending left -->
+  <path d="M95 185 C91 183 91 177 95 176" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 172 C91 170 91 164 95 163" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 159 C91 157 91 151 95 150" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 146 C91 144 91 138 95 137" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Sigmoid colon bottom -->
+  <path d="M100 192 C100 198 106 202 115 202 L145 202 L175 202 C184 202 190 198 186 192" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Outline all colon segments with black border -->
+  <path d="M186 192 C190 184 192 172 190 162 C190 152 186 144 188 134 C190 124 192 116 190 108 C189 104 186 102 183 103 C178 100 170 100 163 102 C155 100 145 100 135 100 C127 100 117 102 107 103 C103 102 100 104 99 108 C97 118 98 128 98 138 C97 148 96 160 98 170 C99 180 100 188 100 192 C100 198 106 202 115 202 L145 202 L175 202 C184 202 190 198 186 192" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pointer dot -->
+  <circle cx="145" cy="102" r="5" fill="#000000"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Base of compact (bottom half, open) -->
+  <ellipse cx="145" cy="195" rx="90" ry="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round"/>
+  <rect x="55" y="170" width="180" height="28" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round"/>
+  <!-- Pressed powder in base -->
+  <ellipse cx="145" cy="170" rx="72" ry="17" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.74" stroke-linejoin="round"/>
+  <!-- Powder surface texture lines -->
+  <ellipse cx="145" cy="170" rx="54" ry="12" fill="none" stroke="#e6b98a" stroke-width="2.96" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="170" rx="34" ry="7" fill="none" stroke="#e6b98a" stroke-width="2.37" stroke-linejoin="round"/>
+  <!-- Hinge (center bottom) -->
+  <rect x="130" y="190" width="30" height="10" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.74"/>
+  <!-- Lid (top half, angled open) -->
+  <!-- Lid body drawn as an elliptical clamshell tilted back -->
+  <path d="M 60 168 Q 55 120 80 85 Q 105 55 145 52 Q 185 55 210 85 Q 235 120 230 168 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round"/>
+  <!-- Mirror inside lid -->
+  <ellipse cx="145" cy="118" rx="62" ry="44" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.74"/>
+  <!-- Mirror shine reflections -->
+  <line x1="112" y1="92" x2="120" y2="105" stroke="#ffffff" stroke-width="4.15" stroke-linecap="round"/>
+  <line x1="122" y1="86" x2="127" y2="96" stroke="#ffffff" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Mirror frame -->
+  <ellipse cx="145" cy="118" rx="62" ry="44" fill="none" stroke="#7f7f7f" stroke-width="3.56"/>
+  <!-- Puff/sponge at bottom right of base -->
+  <ellipse cx="195" cy="174" rx="18" ry="11" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.15"/>
+  <!-- Puff texture dots -->
+  <circle cx="188" cy="171" r="2.5" fill="#f266aa"/>
+  <circle cx="196" cy="168" r="2" fill="#f266aa"/>
+  <circle cx="202" cy="173" r="2.5" fill="#f266aa"/>
+  <circle cx="192" cy="177" r="2" fill="#f266aa"/>
+</g></svg>

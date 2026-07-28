@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="127.03 133.00 257.94 257.94">
+<!-- shiny sphere with bright specular highlight -->
+<circle cx="256" cy="262" r="108" fill="#c8342e" stroke="#1a1a1a" stroke-width="9"/>
+<!-- big soft highlight -->
+<ellipse cx="216" cy="216" rx="42" ry="28" fill="#ffffff" opacity="0.85" transform="rotate(-35 216 216)"/>
+<!-- small glint -->
+<circle cx="300" cy="232" r="11" fill="#ffffff" opacity="0.8"/>
+<!-- bottom soft reflected band -->
+<path d="M 178 318 Q 256 352 334 318" fill="none" stroke="#ff8a7a" stroke-width="12" stroke-linecap="round"/>
+</svg>

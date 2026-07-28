@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- exfoliating-scrub: jar of scrub with visible granules (dots), rough-texture pattern on jar -->
+  <!-- Jar body -->
+  <rect x="65" y="110" width="160" height="105" rx="16" ry="16" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Lid -->
+  <rect x="60" y="82" width="170" height="36" rx="12" ry="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Lid rim line -->
+  <line x1="60" y1="97" x2="230" y2="97" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Granule texture fill on jar front - rows of small dots representing scrub particles -->
+  <!-- Row 1 -->
+  <circle cx="90" cy="133" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="107" cy="128" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="122" cy="135" r="5.5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="138" cy="127" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="153" cy="133" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="128" r="4.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="183" cy="134" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="129" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 2 -->
+  <circle cx="82" cy="151" r="4.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="97" cy="145" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="113" cy="152" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="129" cy="146" r="5.5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="153" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="147" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="176" cy="153" r="4.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="192" cy="147" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="207" cy="153" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 3 -->
+  <circle cx="88" cy="169" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="104" cy="163" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="119" cy="170" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="164" r="4.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="151" cy="170" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="167" cy="164" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="183" cy="170" r="5.5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="199" cy="164" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 4 -->
+  <circle cx="93" cy="188" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="109" cy="182" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="189" r="4.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="141" cy="183" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="189" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="173" cy="183" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="189" cy="189" r="4.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="203" cy="183" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Jar outline on top of fill to keep clean edges -->
+  <rect x="65" y="110" width="160" height="105" rx="16" ry="16" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+</g></svg>

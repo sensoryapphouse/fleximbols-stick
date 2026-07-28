@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Eyeshadow stick (twist-up crayon style) + tip + swatch -->
+  <!-- Stick rotated, large diagonal -->
+  <g transform="rotate(-30 145 120)">
+    <!-- Twist-up base (bottom, has cap/twist mechanism) -->
+    <rect x="48" y="98" width="36" height="44" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+    <!-- Twist dial detail rings -->
+    <line x1="50" y1="108" x2="82" y2="108" stroke="#7f7f7f" stroke-width="2.54" stroke-linecap="round"/>
+    <line x1="50" y1="118" x2="82" y2="118" stroke="#7f7f7f" stroke-width="2.54" stroke-linecap="round"/>
+    <line x1="50" y1="128" x2="82" y2="128" stroke="#7f7f7f" stroke-width="2.54" stroke-linecap="round"/>
+    <!-- Stick barrel (metallic mid-section) -->
+    <rect x="84" y="98" width="100" height="44" rx="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+    <!-- Label band -->
+    <rect x="100" y="106" width="68" height="28" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.81"/>
+    <!-- Twist-up product (the eyeshadow stick poking out, rounded tip) -->
+    <rect x="184" y="106" width="44" height="28" rx="2" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.08"/>
+    <!-- Rounded coloured tip -->
+    <path d="M 228 106 Q 248 120 228 134 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+    <!-- Tip highlight (creamy/pearly) -->
+    <ellipse cx="232" cy="120" rx="6" ry="8" fill="#90a7d6" stroke="none"/>
+  </g>
+  <!-- Colour swatch beneath (smear) -->
+  <path d="M 50 200 Q 100 188 150 196 Q 200 204 240 198 L 240 218 Q 200 224 150 216 Q 100 208 50 220 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Inner lighter swatch streak -->
+  <path d="M 60 206 Q 110 198 160 204 Q 210 210 230 206" fill="none" stroke="#90a7d6" stroke-width="3.81" stroke-linecap="round"/>
+</g></svg>

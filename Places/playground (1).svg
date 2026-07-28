@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Platform deck -->
+  <rect x="100" y="90" width="110" height="14" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left support post -->
+  <rect x="106" y="100" width="10" height="100" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right support post -->
+  <rect x="194" y="100" width="10" height="100" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Slide rail left -->
+  <line x1="100" y1="103" x2="48" y2="185" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Slide rail right -->
+  <line x1="118" y1="103" x2="66" y2="185" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Slide surface fill -->
+  <polygon points="100,103 118,103 66,185 48,185" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Slide bottom foot -->
+  <line x1="44" y1="185" x2="70" y2="185" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Climb rungs (ladder on right) -->
+  <line x1="194" y1="104" x2="230" y2="104" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="194" y1="120" x2="230" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="194" y1="136" x2="230" y2="136" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="194" y1="152" x2="230" y2="152" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Ladder right rail -->
+  <line x1="228" y1="100" x2="228" y2="156" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Ground line -->
+  <line x1="28" y1="200" x2="262" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Roof/canopy over platform -->
+  <polygon points="88,90 212,90 200,68 100,68" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

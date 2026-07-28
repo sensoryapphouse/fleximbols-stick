@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="87.43 69.51 349.09 349.09"><g>
+<!-- diagonal body from top-left mouthpiece to bottom-right bell -->
+<!-- mouthpiece + barrel (top) -->
+<path d="M 168 108 L 188 96 L 206 122 L 188 136 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- main cylindrical body -->
+<path d="M 188 132 L 320 326 L 296 342 L 164 148 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- flared bell (bottom-right) -->
+<path d="M 320 326 L 296 342 L 320 392 Q 348 384 360 360 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- silver keys/rings along body -->
+<line x1="214" y1="160" x2="232" y2="148" stroke="#b9bdc2" stroke-width="9" stroke-linecap="round"/>
+<line x1="238" y1="196" x2="256" y2="184" stroke="#b9bdc2" stroke-width="9" stroke-linecap="round"/>
+<line x1="262" y1="232" x2="280" y2="220" stroke="#b9bdc2" stroke-width="9" stroke-linecap="round"/>
+<line x1="286" y1="268" x2="304" y2="256" stroke="#b9bdc2" stroke-width="9" stroke-linecap="round"/>
+<circle cx="252" cy="208" r="6" fill="#b9bdc2"/>
+<circle cx="276" cy="244" r="6" fill="#b9bdc2"/>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="65.94 65.09 380.12 380.12"><!-- goalpost with net -->
+<!-- net mesh (behind frame) -->
+<g stroke="#b9bdc2" stroke-width="4">
+<line x1="135" y1="170" x2="135" y2="360"/>
+<line x1="165" y1="150" x2="165" y2="360"/>
+<line x1="195" y1="150" x2="195" y2="360"/>
+<line x1="225" y1="150" x2="225" y2="360"/>
+<line x1="256" y1="150" x2="256" y2="360"/>
+<line x1="287" y1="150" x2="287" y2="360"/>
+<line x1="317" y1="150" x2="317" y2="360"/>
+<line x1="347" y1="150" x2="347" y2="360"/>
+<line x1="377" y1="170" x2="377" y2="360"/>
+<line x1="130" y1="190" x2="382" y2="190"/>
+<line x1="128" y1="230" x2="384" y2="230"/>
+<line x1="128" y1="270" x2="384" y2="270"/>
+<line x1="128" y1="310" x2="384" y2="310"/>
+<line x1="128" y1="350" x2="384" y2="350"/>
+</g>
+<!-- goal frame -->
+<path d="M 120 360 L 120 150 L 392 150 L 392 360" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- ground line -->
+<line x1="95" y1="360" x2="417" y2="360" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- depth bars at top corners -->
+<line x1="120" y1="150" x2="148" y2="178" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="392" y1="150" x2="364" y2="178" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

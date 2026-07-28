@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g stroke-linejoin="round" stroke-linecap="round">
+<!-- legs -->
+<line x1="195" y1="232" x2="150" y2="408" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="300" y1="232" x2="345" y2="408" stroke="#1a1a1a" stroke-width="9"/>
+<!-- cross brace -->
+<line x1="173" y1="320" x2="322" y2="320" stroke="#1a1a1a" stroke-width="8"/>
+<!-- board top: rounded wide end on left, tapered point on right -->
+<path d="M 110 200 Q 110 168 142 168 L 360 178 Q 408 184 408 200 Q 408 216 360 222 L 142 232 Q 110 232 110 200 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- iron sitting on board -->
+<path d="M 196 168 L 304 168 Q 320 168 318 152 Q 312 124 256 124 Q 210 124 196 150 Q 192 162 196 168 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- iron handle -->
+<path d="M 214 132 Q 256 104 298 132" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+</g></svg>

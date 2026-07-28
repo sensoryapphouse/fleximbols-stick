@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="93.17 119.62 352.97 352.97"><!-- football boot -->
+<!-- boot body -->
+<path d="M 120 200 L 250 200 Q 290 200 320 220 L 400 270 Q 420 282 420 305 L 420 320 Q 420 335 405 335 L 150 335 Q 120 335 120 305 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ankle collar -->
+<path d="M 120 200 L 120 250 Q 120 260 132 260 L 175 260 Q 188 260 188 248 L 188 200 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- white toe panel -->
+<path d="M 360 250 L 400 270 Q 420 282 420 305 L 420 320 Q 420 335 405 335 L 350 335 Z" fill="#fff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- laces -->
+<line x1="205" y1="215" x2="245" y2="245" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+<line x1="230" y1="210" x2="270" y2="240" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+<line x1="255" y1="207" x2="295" y2="237" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+<!-- sole -->
+<path d="M 150 335 L 405 335 Q 420 335 420 350 L 420 360 Q 420 372 408 372 L 158 372 Q 120 372 120 350 L 120 335 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- studs -->
+<rect x="150" y="372" width="22" height="22" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="225" y="372" width="22" height="22" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="300" y="372" width="22" height="22" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="375" y="372" width="22" height="22" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

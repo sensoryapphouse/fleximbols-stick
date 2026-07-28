@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wings (long, behind body) -->
+  <ellipse cx="100" cy="90" rx="52" ry="16" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-15 100 90)"/>
+  <ellipse cx="190" cy="90" rx="52" ry="16" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round" transform="rotate(15 190 90)"/>
+  <ellipse cx="106" cy="110" rx="34" ry="11" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-8 106 110)"/>
+  <ellipse cx="184" cy="110" rx="34" ry="11" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round" transform="rotate(8 184 110)"/>
+  <!-- long sleek abdomen -->
+  <ellipse cx="145" cy="158" rx="36" ry="60" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- brown/black bands on abdomen -->
+  <path d="M112 118 Q145 110 178 118 L178 130 Q145 122 112 130 Z" fill="#000000"/>
+  <path d="M110 144 Q145 136 180 144 L180 156 Q145 148 110 156 Z" fill="#000000"/>
+  <path d="M112 168 Q145 160 178 168 L176 180 Q145 172 114 180 Z" fill="#000000"/>
+  <path d="M118 190 Q145 183 172 190 L170 200 Q145 193 120 200 Z" fill="#9d7246"/>
+  <!-- sharp stinger -->
+  <path d="M145 215 L148 228 L145 222 L142 228 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- narrow waist/petiole -->
+  <ellipse cx="145" cy="103" rx="14" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- thorax -->
+  <ellipse cx="145" cy="90" rx="26" ry="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- head (larger) -->
+  <circle cx="145" cy="64" r="26" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- jaw markings -->
+  <path d="M134 76 Q145 80 156 76" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- eyes -->
+  <ellipse cx="133" cy="60" rx="6" ry="7" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="157" cy="60" rx="6" ry="7" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- antennae (longer) -->
+  <path d="M137 40 Q126 26 118 18" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="118" cy="18" r="4" fill="#000000"/>
+  <path d="M153 40 Q164 26 172 18" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="172" cy="18" r="4" fill="#000000"/>
+  <!-- legs (3 per side) -->
+  <path d="M122 88 Q106 98 92 108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 100 Q102 108 86 116" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M118 112 Q100 122 84 134" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M168 88 Q184 98 198 108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 100 Q188 108 204 116" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M172 112 Q190 122 206 134" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

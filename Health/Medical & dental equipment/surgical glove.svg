@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Surgical glove: single sterile latex glove, flat lay, right hand -->
+
+  <!-- Cuff rolled rim detail -->
+  <rect x="88" y="188" width="114" height="12" rx="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Cuff / wrist band body -->
+  <rect x="88" y="196" width="114" height="22" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+
+  <!-- Palm / main hand body -->
+  <path d="M 95 200 L 88 132 Q 86 112 95 110 Q 104 108 108 120 L 110 142 L 112 102 Q 112 84 122 82 Q 132 80 133 98 L 134 132 L 136 92 Q 136 74 146 72 Q 156 70 157 88 L 158 132 L 160 98 Q 160 80 170 80 Q 180 80 181 98 L 182 132 L 185 117 Q 188 102 196 104 Q 204 108 202 124 L 195 200 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+
+  <!-- Thumb -->
+  <path d="M 88 132 Q 76 120 70 108 Q 64 94 72 86 Q 82 78 92 88 Q 98 98 95 112" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+
+  <!-- Finger division lines -->
+  <line x1="112" y1="102" x2="110" y2="148" stroke="#90a7d6" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="136" y1="92" x2="134" y2="148" stroke="#90a7d6" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="158" y1="92" x2="158" y2="148" stroke="#90a7d6" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Sterile stippling dots on palm -->
+  <circle cx="145" cy="172" r="3" fill="#90a7d6"/>
+  <circle cx="158" cy="164" r="3" fill="#90a7d6"/>
+  <circle cx="132" cy="164" r="3" fill="#90a7d6"/>
+  <circle cx="168" cy="177" r="3" fill="#90a7d6"/>
+  <circle cx="122" cy="177" r="3" fill="#90a7d6"/>
+
+  <!-- Cuff opening ellipse -->
+  <ellipse cx="145" cy="218" rx="44" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="3.95"/>
+</g></svg>

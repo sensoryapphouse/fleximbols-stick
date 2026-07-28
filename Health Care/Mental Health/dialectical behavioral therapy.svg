@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <rect x="20" y="210" width="250" height="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- yin-yang circle on left -->
+  <circle cx="85" cy="100" r="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.22"/>
+  <!-- yin half (dark) -->
+  <path d="M85 45 A55 55 0 0 1 85 155 A27.5 27.5 0 0 0 85 100 A27.5 27.5 0 0 1 85 45 Z" fill="#392170" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- yin dot in white -->
+  <circle cx="85" cy="72.5" r="7" fill="#392170" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- yang dot in dark -->
+  <circle cx="85" cy="127.5" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- two small heads, one on each side of yin-yang -->
+  <!-- left head (white side) -->
+  <circle cx="62" cy="85" r="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="59" cy="84" r="1.5" fill="#000000"/>
+  <circle cx="65" cy="84" r="1.5" fill="#000000"/>
+  <path d="M58 89 Q62 92 66 89" fill="none" stroke="#1a1a1a" stroke-width="3.20" stroke-linecap="round"/>
+  <!-- right head (dark side) -->
+  <circle cx="108" cy="115" r="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="105" cy="114" r="1.5" fill="#000000"/>
+  <circle cx="111" cy="114" r="1.5" fill="#000000"/>
+  <path d="M104 119 Q108 122 112 119" fill="none" stroke="#1a1a1a" stroke-width="3.20" stroke-linecap="round"/>
+  <!-- balance scale on the right -->
+  <!-- post -->
+  <rect x="208" y="65" width="6" height="125" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- base -->
+  <rect x="188" y="190" width="46" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- top knob -->
+  <circle cx="211" cy="62" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- crossbar -->
+  <rect x="165" y="68" width="92" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left pan strings -->
+  <line x1="175" y1="74" x2="175" y2="105" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- right pan strings -->
+  <line x1="247" y1="74" x2="247" y2="105" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- left pan -->
+  <path d="M158 105 L192 105 L185 120 L165 120 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right pan -->
+  <path d="M230 105 L264 105 L257 120 L237 120 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- emotion-regulation: heart on left pan -->
+  <path d="M175 92 C170 86 162 88 165 96 C168 102 175 105 175 105 C175 105 182 102 185 96 C188 88 180 86 175 92 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- brain/gear on right pan -->
+  <circle cx="247" cy="95" r="9" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M242 92 Q244 88 247 90 Q250 88 252 92 Q254 95 252 98 Q250 102 247 100 Q244 102 242 98 Q240 95 242 92 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

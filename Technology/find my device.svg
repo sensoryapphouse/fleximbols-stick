@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- phone outline -->
+  <rect x="25" y="15" width="240" height="210" rx="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen / map -->
+  <rect x="35" y="33" width="220" height="184" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- map roads -->
+  <path d="M 38 70 Q 100 55 250 78" fill="none" stroke="#b8b8b8" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 38 130 Q 130 115 250 130" fill="none" stroke="#b8b8b8" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 38 190 Q 130 175 250 190" fill="none" stroke="#b8b8b8" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- pin 1: phone -->
+  <path d="M 75 70 C 87 70 95 80 95 89 C 95 102 75 125 75 125 C 75 125 55 102 55 89 C 55 80 63 70 75 70 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="68" y="80" width="14" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- pin 2: laptop -->
+  <path d="M 155 55 C 167 55 175 65 175 74 C 175 87 155 110 155 110 C 155 110 135 87 135 74 C 135 65 143 55 155 55 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="145" y="68" width="20" height="13" rx="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="142" y="81" width="26" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- pin 3: tablet -->
+  <path d="M 220 110 C 232 110 240 120 240 129 C 240 142 220 165 220 165 C 220 165 200 142 200 129 C 200 120 208 110 220 110 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="212" y="120" width="16" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- pin 4: watch -->
+  <path d="M 110 150 C 122 150 130 160 130 169 C 130 182 110 205 110 205 C 110 205 90 182 90 169 C 90 160 98 150 110 150 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="103" y="160" width="14" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="110" y1="156" x2="110" y2="160" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="110" y1="174" x2="110" y2="178" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- magnifying glass overlay -->
+  <circle cx="195" cy="195" r="18" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="195" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="207" y1="207" x2="220" y2="220" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

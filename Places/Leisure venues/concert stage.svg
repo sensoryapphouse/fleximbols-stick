@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Concert stage: stage platform + band silhouettes + big speakers + spotlights -->
+  <!-- Stage platform -->
+  <rect x="20" y="165" width="250" height="55" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Stage front lip -->
+  <rect x="20" y="165" width="250" height="10" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Left speaker stack -->
+  <rect x="22" y="105" width="38" height="62" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <circle cx="41" cy="118" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="41" cy="140" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="41" cy="158" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Right speaker stack -->
+  <rect x="230" y="105" width="38" height="62" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <circle cx="249" cy="118" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="249" cy="140" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="249" cy="158" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Spotlight beams from above -->
+  <polygon points="80,20 55,165 105,165" fill="#f7de58" stroke="none"/>
+  <polygon points="145,20 120,165 170,165" fill="#f7de58" stroke="none"/>
+  <polygon points="210,20 185,165 235,165" fill="#f7de58" stroke="none"/>
+  <!-- Spotlight housings -->
+  <rect x="65" y="14" width="30" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="130" y="14" width="30" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="195" y="14" width="30" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Rig bar -->
+  <line x1="20" y1="20" x2="270" y2="20" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Band silhouettes on stage -->
+  <!-- Guitarist left -->
+  <ellipse cx="90" cy="133" rx="10" ry="10" fill="#000000"/>
+  <rect x="83" y="143" width="14" height="24" rx="4" fill="#000000"/>
+  <line x1="83" y1="148" x2="68" y2="156" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="97" y1="148" x2="108" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="86" y1="167" x2="82" y2="183" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="167" x2="98" y2="183" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Guitar body -->
+  <ellipse cx="108" cy="162" rx="9" ry="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Singer centre -->
+  <ellipse cx="145" cy="128" rx="10" ry="10" fill="#000000"/>
+  <rect x="138" y="138" width="14" height="26" rx="4" fill="#000000"/>
+  <line x1="138" y1="142" x2="122" y2="152" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="152" y1="142" x2="162" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="141" y1="164" x2="137" y2="183" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="149" y1="164" x2="153" y2="183" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mic stand -->
+  <line x1="162" y1="148" x2="168" y2="128" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="169" cy="125" r="4" fill="#000000"/>
+  <!-- Drummer right -->
+  <ellipse cx="200" cy="133" rx="10" ry="10" fill="#000000"/>
+  <rect x="193" y="143" width="14" height="22" rx="4" fill="#000000"/>
+  <line x1="193" y1="146" x2="178" y2="152" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="207" y1="146" x2="220" y2="150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="196" y1="165" x2="192" y2="183" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="204" y1="165" x2="208" y2="183" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Drum kit -->
+  <ellipse cx="215" cy="162" rx="12" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="195" cy="165" rx="8" ry="4" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

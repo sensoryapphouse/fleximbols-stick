@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="61.09 70.48 389.82 389.82">
+<!-- FRAGRANT: rose bloom giving off pleasant scent waves and sparkles -->
+<!-- pleasant scent waves -->
+<g fill="none" stroke="#d76aa8" stroke-width="10" stroke-linecap="round">
+<path d="M 150 196 q -24 -24 0 -48 q 24 -24 0 -48"/>
+<path d="M 362 196 q 24 -24 0 -48 q -24 -24 0 -48"/>
+</g>
+<!-- sparkles -->
+<polygon points="146,150 151,164 165,169 151,174 146,188 141,174 127,169 141,164" fill="#f6d54a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="366,150 371,164 385,169 371,174 366,188 361,174 347,169 361,164" fill="#f6d54a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- stem -->
+<path d="M 256 300 L 256 430" fill="none" stroke="#3f8a3f" stroke-width="11" stroke-linecap="round"/>
+<!-- leaf -->
+<path d="M 256 370 Q 312 352 332 388 Q 290 408 256 370 Z" fill="#7ed957" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rose bloom -->
+<circle cx="256" cy="252" r="74" fill="#e8557f" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 256 200 Q 300 210 300 252 Q 300 296 256 304 Q 212 296 212 252 Q 212 210 256 200 Z" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 256 224 Q 282 230 282 252 Q 282 278 256 282 Q 230 278 230 252 Q 230 230 256 224 Z" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="256" cy="252" r="14" fill="#c23a62" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

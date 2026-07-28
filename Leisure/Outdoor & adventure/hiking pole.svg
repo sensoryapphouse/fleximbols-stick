@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left pole upper segment -->
+  <line x1="95" y1="35" x2="75" y2="155" stroke="#b8b8b8" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- left pole lower segment -->
+  <line x1="75" y1="155" x2="65" y2="218" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- left collar lock -->
+  <rect x="69" y="148" width="16" height="13" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55"/>
+
+  <!-- right pole upper segment -->
+  <line x1="195" y1="35" x2="215" y2="155" stroke="#b8b8b8" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- right pole lower segment -->
+  <line x1="215" y1="155" x2="225" y2="218" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- right collar lock -->
+  <rect x="205" y="148" width="16" height="13" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55"/>
+
+  <!-- left grip handle -->
+  <rect x="83" y="28" width="22" height="58" rx="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right grip handle -->
+  <rect x="185" y="28" width="22" height="58" rx="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- left wrist strap loop -->
+  <path d="M94,42 Q76,60 85,74" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- right wrist strap loop -->
+  <path d="M196,42 Q214,60 205,74" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- left basket ring -->
+  <ellipse cx="68" cy="200" rx="15" ry="6" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="53" y1="200" x2="68" y2="207" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="83" y1="200" x2="68" y2="207" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- left tip -->
+  <line x1="66" y1="212" x2="62" y2="224" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- right basket ring -->
+  <ellipse cx="222" cy="200" rx="15" ry="6" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="207" y1="200" x2="222" y2="207" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="237" y1="200" x2="222" y2="207" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- right tip -->
+  <line x1="224" y1="212" x2="228" y2="224" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

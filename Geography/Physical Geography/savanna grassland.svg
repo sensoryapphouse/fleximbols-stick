@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- warm sky -->
+  <rect x="0" y="0" width="290" height="160" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun -->
+  <circle cx="50" cy="45" r="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- golden grass ground -->
+  <rect x="0" y="180" width="290" height="60" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- distant horizon hint -->
+  <path d="M0,180 Q145,170 290,180" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <!-- acacia trunk -->
+  <path d="M105,180 L102,140 Q100,120 100,90" fill="none" stroke="#5e1f0a" stroke-width="17.78" stroke-linecap="round"/>
+  <!-- acacia branches -->
+  <path d="M100,95 Q80,82 60,80" fill="none" stroke="#5e1f0a" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M100,95 Q120,82 140,80" fill="none" stroke="#5e1f0a" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M100,90 L100,75" stroke="#5e1f0a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- acacia umbrella canopy (flat wide) -->
+  <ellipse cx="100" cy="70" rx="70" ry="20" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="80" cy="65" rx="25" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="125" cy="65" rx="25" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- giraffe body -->
+  <ellipse cx="215" cy="170" rx="22" ry="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- giraffe neck (long) -->
+  <path d="M225,160 L222,90 L235,90 L238,160 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- giraffe head -->
+  <ellipse cx="232" cy="80" rx="9" ry="11" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- giraffe snout -->
+  <ellipse cx="235" cy="86" rx="6" ry="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- giraffe ossicones -->
+  <path d="M228,70 L226,60 L230,62 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M236,70 L238,60 L234,62 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="226" cy="58" r="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="238" cy="58" r="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- giraffe ears -->
+  <ellipse cx="223" cy="74" rx="3" ry="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="241" cy="74" rx="3" ry="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- giraffe eye -->
+  <circle cx="231" cy="78" r="1.5" fill="#000000"/>
+  <!-- giraffe spots (body) -->
+  <ellipse cx="208" cy="167" rx="4" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="220" cy="173" rx="4" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="226" cy="165" rx="3" ry="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- giraffe spots (neck) -->
+  <ellipse cx="228" cy="110" rx="3" ry="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="232" cy="130" rx="3" ry="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="228" cy="145" rx="3" ry="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- giraffe legs -->
+  <rect x="200" y="180" width="5" height="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="210" y="180" width="5" height="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="220" y="180" width="5" height="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="230" y="180" width="5" height="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- giraffe mane -->
+  <path d="M222,95 L218,95 L222,105 L218,110 L222,120 L218,125 L222,135 L218,140 L222,150" stroke="#5e1f0a" stroke-width="5.56" fill="none" stroke-linecap="round"/>
+  <!-- tall grass strands foreground -->
+  <path d="M10,210 L8,195 M18,212 L20,198 M28,210 L26,194" stroke="#7d5e23" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M150,212 L148,196 M158,214 L160,198 M168,212 L166,196" stroke="#7d5e23" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M260,212 L258,196 M268,214 L270,198 M278,212 L276,198" stroke="#7d5e23" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+</g></svg>

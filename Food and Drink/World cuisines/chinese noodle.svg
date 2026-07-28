@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer body -->
+  <path d="M28 130 Q28 210 145 215 Q262 210 262 130 L248 122 Q248 198 145 202 Q42 198 42 122 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Bowl rim ellipse -->
+  <ellipse cx="145" cy="122" rx="117" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Broth surface -->
+  <ellipse cx="145" cy="122" rx="100" ry="17" fill="#e65a00" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Broth golden tone -->
+  <ellipse cx="145" cy="123" rx="92" ry="14" fill="#ff9900" stroke="none"/>
+
+  <!-- Noodle tangle in bowl (loops of long wheat noodles) -->
+  <path d="M62 118 Q80 100 105 112 Q125 122 108 135 Q90 145 75 132 Q62 120 80 108 Q98 96 118 108" fill="none" stroke="#f5e7c4" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M115 105 Q140 92 160 108 Q178 122 158 136 Q138 148 120 134 Q104 120 122 106" fill="none" stroke="#eed5b6" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M155 108 Q178 95 198 110 Q215 124 198 136 Q180 147 162 133 Q148 120 168 107" fill="none" stroke="#f5e7c4" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- Additional noodle strands for density -->
+  <path d="M75 125 Q95 115 115 125 Q132 133 115 140" fill="none" stroke="#eed5b6" stroke-width="3.95" stroke-linecap="round"/>
+  <path d="M145 118 Q165 108 182 118" fill="none" stroke="#f5e7c4" stroke-width="3.95" stroke-linecap="round"/>
+
+  <!-- Chopsticks lifting noodle tangle -->
+  <!-- Chopstick 1 -->
+  <path d="M148 22 L168 118" fill="none" stroke="#9d7246" stroke-width="6.92" stroke-linecap="round"/>
+  <!-- Chopstick 2 -->
+  <path d="M165 18 L178 115" fill="none" stroke="#7d5e23" stroke-width="6.92" stroke-linecap="round"/>
+  <!-- Lifted noodle loop hanging from chopstick tips -->
+  <path d="M164 105 Q172 90 180 98 Q185 106 178 115 Q172 120 165 110 Q160 102 168 98" fill="none" stroke="#f5e7c4" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M162 108 Q155 98 160 92 Q166 86 172 94" fill="none" stroke="#eed5b6" stroke-width="3.95" stroke-linecap="round"/>
+
+  <!-- Scallion/green onion rounds on top of broth -->
+  <circle cx="90" cy="120" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="105" cy="116" r="4" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="200" cy="118" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="215" cy="115" r="4" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Scallion ring details -->
+  <circle cx="90" cy="120" r="2" fill="#137827" stroke="none"/>
+  <circle cx="200" cy="118" r="2" fill="#137827" stroke="none"/>
+</g></svg>

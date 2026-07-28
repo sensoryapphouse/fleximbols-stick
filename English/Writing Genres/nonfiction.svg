@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- book back cover -->
+  <path d="M50 28 L240 28 L240 220 L50 220 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- front cover -->
+  <path d="M58 34 L234 34 L234 214 L58 214 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- spine line -->
+  <line x1="58" y1="34" x2="58" y2="214" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- title plaque NONFICTION -->
+  <rect x="72" y="46" width="148" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="82" y1="57" x2="210" y2="57" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- factual indicator: globe (reality icon) -->
+  <circle cx="146" cy="138" r="42" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- continents (rough shapes) -->
+  <path d="M118 128 Q124 118 138 122 Q146 130 138 138 Q126 142 118 134 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M152 116 Q166 118 174 132 Q170 142 158 138 Q150 130 152 116 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M132 152 Q146 150 162 158 Q170 168 156 174 Q140 170 132 162 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- equator line -->
+  <path d="M104 138 Q146 152 188 138" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- meridian -->
+  <path d="M146 96 Q160 138 146 180" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- checkmark badge (factual / true) -->
+  <circle cx="206" cy="188" r="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polyline points="196,188 204,196 218,180" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

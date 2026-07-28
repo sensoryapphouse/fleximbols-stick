@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Brain outline (two lobes) -->
+  <path d="M88,170 Q52,168 44,138 Q36,108 58,90 Q62,72 82,66 Q88,44 110,42 Q128,28 148,42 Q168,28 188,42 Q210,40 220,60 Q242,68 244,92 Q262,108 254,138 Q248,168 212,170 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Brain centre divide -->
+  <line x1="150" y1="42" x2="150" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8,6"/>
+  <!-- Gear 1 - large, left lobe -->
+  <circle cx="108" cy="108" r="28" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="108" cy="108" r="16" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Gear teeth left -->
+  <rect x="98" y="76" width="20" height="10" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="98" y="134" width="20" height="10" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="76" y="98" width="10" height="20" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="132" y="98" width="10" height="20" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="82" y="82" width="10" height="10" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(45,87,87)"/>
+  <rect x="124" y="82" width="10" height="10" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(45,129,87)"/>
+  <rect x="82" y="124" width="10" height="10" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(45,87,129)"/>
+  <rect x="124" y="124" width="10" height="10" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(45,129,129)"/>
+  <!-- Gear 2 - medium, right lobe -->
+  <circle cx="192" cy="100" r="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="192" cy="100" r="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Gear teeth right -->
+  <rect x="182" y="74" width="20" height="9" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="182" y="117" width="20" height="9" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="166" y="90" width="9" height="20" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="209" y="90" width="9" height="20" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Gear 3 - small, lower right, jamming indicator -->
+  <circle cx="186" cy="148" r="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="186" cy="148" r="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="179" y="130" width="14" height="7" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="179" y="161" width="14" height="7" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="168" y="141" width="7" height="14" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="197" y="141" width="7" height="14" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Jam/spark marks between gears -->
+  <line x1="148" y1="118" x2="162" y2="112" stroke="#f7de58" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="154" y1="124" x2="158" y2="114" stroke="#f7de58" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="160" y1="128" x2="162" y2="118" stroke="#f7de58" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Overload exclamation -->
+  <circle cx="150" cy="196" r="16" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <line x1="150" y1="186" x2="150" y2="198" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="150" cy="203" r="2.5" fill="#ffffff"/>
+</g></svg>

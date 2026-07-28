@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pestle (leaning into mortar) -->
+  <path d="M 175 30 L 195 50 L 145 130 L 125 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Pestle bulbous grinding tip -->
+  <ellipse cx="135" cy="120" rx="14" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-45 135 120)"/>
+  <!-- Veining on pestle -->
+  <path d="M 178 36 L 165 70" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 188 50 L 155 100" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Mortar bowl (marble, white) -->
+  <path d="M 55 130 Q 55 215, 145 215 Q 235 215, 235 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Mortar inner rim -->
+  <ellipse cx="145" cy="130" rx="90" ry="20" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Inner cavity highlight -->
+  <ellipse cx="145" cy="128" rx="78" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Marble veins on exterior (grey, curving) -->
+  <path d="M 70 160 Q 90 175, 110 165 Q 130 158, 150 175" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 155 195 Q 175 185, 195 200 Q 210 205, 225 180" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 80 200 Q 100 195, 115 205" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 195 145 Q 210 155, 220 150" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 65 180 Q 75 200, 90 210" fill="none" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 130 140 Q 145 148, 165 140" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

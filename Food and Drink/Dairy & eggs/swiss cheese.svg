@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Swiss cheese block with large round holes -->
+  <!-- Main block body -->
+  <path d="M 40 65 L 250 65 L 250 190 L 40 190 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Top face of 3D block -->
+  <path d="M 40 65 Q 55 48 265 48 Q 265 48 250 65 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M 250 65 L 265 48 L 265 173 L 250 190 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Large round holes - classic Swiss -->
+  <!-- Hole 1 top-left -->
+  <circle cx="90" cy="108" r="24" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="108" r="18" fill="#9d7246" stroke="none"/>
+  <!-- Hole 2 top-right -->
+  <circle cx="190" cy="100" r="22" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="100" r="16" fill="#9d7246" stroke="none"/>
+  <!-- Hole 3 bottom-center -->
+  <circle cx="145" cy="162" r="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="162" r="14" fill="#9d7246" stroke="none"/>
+  <!-- Hole 4 small right -->
+  <circle cx="215" cy="152" r="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="152" r="9" fill="#9d7246" stroke="none"/>
+  <!-- Hole 5 small left -->
+  <circle cx="68" cy="158" r="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="68" cy="158" r="7" fill="#9d7246" stroke="none"/>
+  <!-- Hole inner highlight -->
+  <ellipse cx="85" cy="100" rx="8" ry="5" fill="#e6b98a" stroke="none"/>
+  <ellipse cx="185" cy="93" rx="7" ry="4" fill="#e6b98a" stroke="none"/>
+</g></svg>

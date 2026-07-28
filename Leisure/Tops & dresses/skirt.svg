@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="104.73 126.91 302.55 302.55">
+<!-- waistband -->
+<rect x="196" y="150" width="120" height="34" rx="8" fill="#9c4a86" stroke="#1a1a1a" stroke-width="9"/>
+<!-- skirt body, A-line flared -->
+<path d="M 200 184 L 312 184 L 384 392 Q 256 420 128 392 Z" fill="#c25fa6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pleat fold left -->
+<line x1="216" y1="200" x2="178" y2="384" stroke="#9c4a86" stroke-width="6" stroke-linecap="round"/>
+<!-- pleat fold centre -->
+<line x1="256" y1="200" x2="256" y2="396" stroke="#9c4a86" stroke-width="6" stroke-linecap="round"/>
+<!-- pleat fold right -->
+<line x1="296" y1="200" x2="334" y2="384" stroke="#9c4a86" stroke-width="6" stroke-linecap="round"/>
+<!-- hem curve accent -->
+<path d="M 132 388 Q 256 414 380 388" fill="none" stroke="#9c4a86" stroke-width="6" stroke-linecap="round"/>
+</svg>

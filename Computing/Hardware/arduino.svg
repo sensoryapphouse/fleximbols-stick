@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Board body (Uno distinctive shape: rectangle with notched top-right) -->
+  <polygon points="45,35 220,35 245,60 245,205 45,205" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- USB port (left edge) -->
+  <rect x="20" y="90" width="30" height="22" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <rect x="24" y="94" width="22" height="14" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Power jack (left edge, below USB) -->
+  <rect x="18" y="130" width="28" height="18" rx="5" fill="#000000" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <circle cx="32" cy="139" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Main MCU chip -->
+  <rect x="105" y="100" width="70" height="60" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Chip notch -->
+  <path d="M128,100 Q140,92 152,100" fill="#000000" stroke="none"/>
+  <!-- Chip pins bottom -->
+  <rect x="112" y="160" width="7" height="10" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <rect x="124" y="160" width="7" height="10" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <rect x="136" y="160" width="7" height="10" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <rect x="148" y="160" width="7" height="10" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Chip pins top -->
+  <rect x="112" y="90" width="7" height="10" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <rect x="124" y="90" width="7" height="10" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <rect x="136" y="90" width="7" height="10" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <rect x="148" y="90" width="7" height="10" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Digital header pins (top edge) -->
+  <rect x="65" y="27" width="155" height="12" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <rect x="70" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="82" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="94" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="106" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="118" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="130" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="142" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="154" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="166" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="178" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="190" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="202" y="22" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Analog header pins (bottom edge) -->
+  <rect x="55" y="201" width="120" height="12" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <rect x="60" y="204" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="72" y="204" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="84" y="204" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="96" y="204" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="108" y="204" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="120" y="204" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="132" y="204" width="6" height="14" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Reset button -->
+  <rect x="62" y="58" width="22" height="18" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Power LED -->
+  <circle cx="65" cy="100" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- TX/RX LEDs -->
+  <circle cx="65" cy="118" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="65" cy="133" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Crystal -->
+  <rect x="195" y="115" width="24" height="12" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+</g></svg>

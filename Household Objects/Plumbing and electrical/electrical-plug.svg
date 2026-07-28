@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- UK 3-pin mains plug, pins pointing up, cable out the bottom -->
+<!-- three pins -->
+<rect x="196" y="96" width="26" height="70" rx="5" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<rect x="290" y="96" width="26" height="70" rx="5" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<rect x="243" y="78" width="26" height="88" rx="5" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- pin insulation sleeves (dark bases) -->
+<rect x="196" y="116" width="26" height="20" fill="#1a1a1a" stroke="none"/>
+<rect x="290" y="116" width="26" height="20" fill="#1a1a1a" stroke="none"/>
+<rect x="243" y="98" width="26" height="20" fill="#1a1a1a" stroke="none"/>
+<!-- plug body -->
+<path d="M 166 166 L 346 166 L 346 326 Q 346 356 316 356 L 196 356 Q 166 356 166 326 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- centre screw -->
+<circle cx="256" cy="258" r="14" fill="#e8b24e" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="246" y1="258" x2="266" y2="258" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- cable strain-relief + flex -->
+<rect x="232" y="346" width="48" height="26" rx="8" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 256 372 Q 232 404 256 426 Q 280 448 256 472" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 256 372 Q 232 404 256 426 Q 280 448 256 472" fill="none" stroke="#6b4a2b" stroke-width="8" stroke-linecap="round"/>
+</svg>

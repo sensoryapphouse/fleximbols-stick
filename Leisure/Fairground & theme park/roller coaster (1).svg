@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- track rails: outer path with loop -->
+  <path d="M22 210 L60 210 Q75 210 80 195 L90 155 Q95 130 110 118 Q125 106 140 118 Q155 130 150 155 L148 175 Q145 195 160 205 L200 210 L265 210"
+        fill="none" stroke="#4d4d4d" stroke-width="6.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- inner rail offset -->
+  <path d="M22 218 L60 218 Q78 218 84 202 L94 162 Q100 136 114 124 Q130 112 146 124 Q162 136 156 162 L154 182 Q152 200 166 210 L204 218 L265 218"
+        fill="none" stroke="#4d4d4d" stroke-width="6.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cross ties -->
+  <line x1="30" y1="210" x2="30" y2="218" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="210" x2="50" y2="218" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="220" y1="210" x2="220" y2="218" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="245" y1="210" x2="245" y2="218" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- loop support struts -->
+  <line x1="90" y1="155" x2="80" y2="218" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="150" y1="155" x2="160" y2="218" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- car body on right section of track -->
+  <rect x="175" y="196" width="50" height="18" rx="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- car wheels -->
+  <circle cx="186" cy="214" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="214" cy="214" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rider 1 head -->
+  <circle cx="188" cy="190" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rider 1 hair -->
+  <path d="M180 187 Q188 180 196 187" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- rider 2 head -->
+  <circle cx="212" cy="190" r="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rider 2 hair -->
+  <path d="M204 186 Q212 179 220 186" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- arms up (excitement) -->
+  <line x1="188" y1="197" x2="180" y2="183" stroke="#eed5b6" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="212" y1="197" x2="220" y2="183" stroke="#e6b98a" stroke-width="5.55" stroke-linecap="round"/>
+</g></svg>

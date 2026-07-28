@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wheat ear stem -->
+  <path d="M 145,215 L 145,60" fill="none" stroke="#9d7246" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Wheat leaves on stem -->
+  <path d="M 145,185 Q 118,175 110,158 Q 118,168 145,170" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 145,185 Q 172,175 180,158 Q 172,168 145,170" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wheat grain clusters left side -->
+  <ellipse cx="122" cy="148" rx="16" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-25,122,148)"/>
+  <ellipse cx="116" cy="125" rx="16" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-30,116,125)"/>
+  <ellipse cx="118" cy="102" rx="15" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-35,118,102)"/>
+  <ellipse cx="126" cy="82" rx="13" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-40,126,82)"/>
+  <!-- Wheat grain clusters right side -->
+  <ellipse cx="168" cy="148" rx="16" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(25,168,148)"/>
+  <ellipse cx="174" cy="125" rx="16" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(30,174,125)"/>
+  <ellipse cx="172" cy="102" rx="15" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(35,172,102)"/>
+  <ellipse cx="164" cy="82" rx="13" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(40,164,82)"/>
+  <!-- Top wheat tip -->
+  <ellipse cx="145" cy="68" rx="10" ry="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Awns (bristles) on top -->
+  <path d="M 145,55 L 145,30" fill="none" stroke="#9d7246" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 138,62 L 128,38" fill="none" stroke="#9d7246" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 152,62 L 162,38" fill="none" stroke="#9d7246" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Red no-circle -->
+  <circle cx="145" cy="120" r="92" fill="none" stroke="#d01424" stroke-width="11.11"/>
+  <line x1="79" y1="54" x2="211" y2="186" stroke="#d01424" stroke-width="11.11" stroke-linecap="round"/>
+</g></svg>

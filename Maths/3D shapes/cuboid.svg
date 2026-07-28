@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="82.93 78.66 352.97 352.97"><!-- cuboid: oblique box, front + top + right faces -->
+<!-- right side face (darker) -->
+<polygon points="330,180 410,130 410,330 330,380" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top face (lighter) -->
+<polygon points="110,180 190,130 410,130 330,180" fill="#bcdcff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- front face -->
+<polygon points="110,180 330,180 330,380 110,380" fill="#7db9ec" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Small round toasted bread (crostini is smaller and rounder than bruschetta) -->
+  <!-- Bread round - bottom crust -->
+  <ellipse cx="145" cy="185" rx="85" ry="28" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
+  <!-- Bread surface -->
+  <ellipse cx="145" cy="172" rx="85" ry="28" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
+  <!-- Crust ring -->
+  <ellipse cx="145" cy="172" rx="85" ry="28" fill="none" stroke="#9d7246" stroke-width="11.31" stroke-linecap="round"/>
+  <!-- Inner bread -->
+  <ellipse cx="145" cy="172" rx="76" ry="21" fill="#eed5b6" stroke="none"/>
+  <!-- Toast browning spots -->
+  <ellipse cx="120" cy="170" rx="10" ry="6" fill="#e6b98a" stroke="none"/>
+  <ellipse cx="155" cy="167" rx="8" ry="5" fill="#e6b98a" stroke="none"/>
+  <ellipse cx="170" cy="174" rx="9" ry="5" fill="#e6b98a" stroke="none"/>
+
+  <!-- Spread (simple pale smooth topping - like cream cheese/ricotta) -->
+  <ellipse cx="145" cy="162" rx="68" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- Spread texture (swirl/knife stroke) -->
+  <path d="M90 162 Q115 155 145 160 Q175 155 200 162" fill="none" stroke="#efefef" stroke-width="6.47" stroke-linecap="round"/>
+  <path d="M95 168 Q120 162 145 166 Q170 162 195 168" fill="none" stroke="#efefef" stroke-width="4.85" stroke-linecap="round"/>
+
+  <!-- Single garnish: a small herb leaf (basil leaf, centered) -->
+  <path d="M145 148 Q158 135 165 148 Q158 158 145 148 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- Leaf vein -->
+  <line x1="145" y1="148" x2="163" y2="148" stroke="#137827" stroke-width="2.43" stroke-linecap="round"/>
+  <line x1="152" y1="140" x2="158" y2="148" stroke="#137827" stroke-width="2.43" stroke-linecap="round"/>
+  <line x1="156" y1="138" x2="160" y2="144" stroke="#137827" stroke-width="1.61" stroke-linecap="round"/>
+
+  <!-- Small dot of color on spread (a drizzle hint) -->
+  <ellipse cx="125" cy="160" rx="5" ry="3" fill="#e65a00" stroke="none"/>
+  <ellipse cx="115" cy="165" rx="3" ry="2" fill="#e65a00" stroke="none"/>
+  <ellipse cx="132" cy="166" rx="4" ry="2.5" fill="#e65a00" stroke="none"/>
+</g></svg>

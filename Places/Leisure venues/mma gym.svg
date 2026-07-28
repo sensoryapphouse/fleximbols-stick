@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd"/>
+  <!-- Building body -->
+  <rect x="20" y="60" width="250" height="155" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Flat roof parapet -->
+  <rect x="15" y="52" width="260" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Door (left) -->
+  <rect x="30" y="155" width="52" height="60" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="56" y1="155" x2="56" y2="215" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Octagon cage ring (main emblem, centre-right area) -->
+  <!-- Octagon fence outline — regular 8-sided polygon centred ~175,148, radius ~62 -->
+  <polygon points="175,86 218,100 243,143 229,186 186,200 132,200 109,157 123,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Cage fence cross-wires (abbreviated) -->
+  <line x1="109" y1="143" x2="243" y2="143" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="145" y1="86" x2="145" y2="200" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="205" y1="86" x2="205" y2="200" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="109" y1="115" x2="243" y2="115" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="109" y1="171" x2="243" y2="171" stroke="#7f7f7f" stroke-width="2.96"/>
+  <!-- Headgear emblem inside octagon (top-centre) -->
+  <!-- Head dome -->
+  <ellipse cx="175" cy="118" rx="18" ry="15" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Headgear cheek guard left -->
+  <rect x="157" y="116" width="8" height="14" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Headgear cheek guard right -->
+  <rect x="178" y="116" width="8" height="14" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Grappling glove (open-finger) emblem inside octagon (lower) -->
+  <!-- Palm -->
+  <ellipse cx="175" cy="168" rx="16" ry="12" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Fingers (stubby open) -->
+  <rect x="159" y="153" width="8" height="16" rx="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="170" y="150" width="8" height="18" rx="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="181" y="153" width="8" height="16" rx="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wrist strap -->
+  <rect x="162" y="176" width="26" height="8" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ground -->
+  <line x1="10" y1="215" x2="280" y2="215" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Vishnu full body silhouette, blue-skinned -->
+  <circle cx="105" cy="55" r="22" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M93 38 Q105 18 117 38 L115 30 Q120 28 122 36 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M85 75 L125 75 L130 160 L120 200 L90 200 L80 160 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- four arms -->
+  <path d="M85 85 L55 110 L48 140" fill="none" stroke="#90a7d6" stroke-width="13.33" stroke-linecap="round"/>
+  <path d="M85 100 L60 145 L70 175" fill="none" stroke="#90a7d6" stroke-width="13.33" stroke-linecap="round"/>
+  <path d="M125 85 L155 110 L165 140" fill="none" stroke="#90a7d6" stroke-width="13.33" stroke-linecap="round"/>
+  <path d="M125 100 L150 145 L140 175" fill="none" stroke="#90a7d6" stroke-width="13.33" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M98 200 L92 230" fill="none" stroke="#90a7d6" stroke-width="13.33" stroke-linecap="round"/>
+  <path d="M115 200 L120 230" fill="none" stroke="#90a7d6" stroke-width="13.33" stroke-linecap="round"/>
+  <!-- conch shell (top right hand) -->
+  <path d="M165 140 Q190 130 200 155 Q195 175 175 175 Q160 175 160 160 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M170 150 Q185 148 192 165" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- discus (top left hand) -->
+  <circle cx="48" cy="140" r="18" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="48" cy="140" r="8" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- lotus (lower hand) -->
+  <path d="M140 175 Q150 165 160 175 Q170 165 175 180 Q165 188 155 185 Q145 188 140 178 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- mace stub (lower left) -->
+  <rect x="65" y="170" width="10" height="20" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="70" cy="168" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

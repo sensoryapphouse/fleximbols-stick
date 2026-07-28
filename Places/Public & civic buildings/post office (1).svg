@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="15" y="210" width="260" height="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Main building body - civic modern -->
+  <rect x="32" y="135" width="226" height="75" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Flat roof parapet -->
+  <rect x="27" y="126" width="236" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Building sign band above windows -->
+  <rect x="32" y="135" width="226" height="16" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Windows (three) -->
+  <rect x="46" y="161" width="44" height="30" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="68" y1="161" x2="68" y2="191" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="46" y1="176" x2="90" y2="176" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="200" y="161" width="44" height="30" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="222" y1="161" x2="222" y2="191" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="200" y1="176" x2="244" y2="176" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Door (glass, double) -->
+  <rect x="118" y="165" width="54" height="45" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="145" y1="165" x2="145" y2="210" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Door handles -->
+  <line x1="136" y1="188" x2="136" y2="196" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="154" y1="188" x2="154" y2="196" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- FLAGPOLE left -->
+  <line x1="55" y1="20" x2="55" y2="126" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Flag on pole -->
+  <polygon points="55,20 90,29 55,38" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ENVELOPE emblem on facade (centre top) -->
+  <!-- Envelope body -->
+  <rect x="105" y="92" width="80" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Envelope flap (top V fold) -->
+  <polyline points="105,92 145,120 225,92" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Envelope bottom corners -->
+  <line x1="105" y1="142" x2="132" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="225" y1="142" x2="198" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Envelope accent colour fill behind flap -->
+  <polygon points="105,92 145,120 225,92 225,98 145,126 105,98" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Steps -->
+  <rect x="110" y="206" width="70" height="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

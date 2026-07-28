@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ramadan: crescent moon + star + fanous lantern -->
+  <!-- Crescent moon top-right -->
+  <circle cx="210" cy="62" r="34" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <circle cx="224" cy="54" r="28" fill="#dff3fd" stroke="none"/>
+  <!-- Occluding disc to carve crescent -->
+  <circle cx="222" cy="56" r="27" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Star -->
+  <polygon points="175,42 178,52 188,52 180,58 183,68 175,62 167,68 170,58 162,52 172,52" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Fanous lantern body -->
+  <!-- Top cap -->
+  <path d="M122 95 Q145 88 168 95 L163 102 Q145 97 127 102Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Hanging chain -->
+  <line x1="145" y1="72" x2="145" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="90" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Lantern upper taper -->
+  <path d="M127 102 Q120 112 118 125 L172 125 Q170 112 163 102Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lantern main body -->
+  <rect x="118" y="125" width="54" height="52" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lantern panels / cut-outs (glowing amber) -->
+  <rect x="124" y="131" width="14" height="40" rx="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="145" y="131" width="14" height="40" rx="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lantern lower taper -->
+  <path d="M118 177 Q120 190 128 198 L145 202 L162 198 Q170 190 172 177Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottom finial -->
+  <ellipse cx="145" cy="202" rx="8" ry="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="145" y1="207" x2="145" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="220" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Decorative arch on lantern -->
+  <path d="M130 131 Q145 120 160 131" fill="none" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Lantern bottom cap -->
+  <path d="M118 177 L172 177" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Glow dot centre -->
+  <circle cx="145" cy="151" r="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

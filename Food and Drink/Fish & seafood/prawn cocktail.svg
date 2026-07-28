@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Glass stem -->
+  <rect x="137" y="185" width="16" height="32" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Glass base -->
+  <rect x="105" y="210" width="80" height="12" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Glass bowl (trapezoid) -->
+  <path d="M75,55 L215,55 L195,188 L95,188Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lettuce inside bottom -->
+  <path d="M100,175 Q120,155 145,168 Q170,155 190,175 L193,188 L97,188Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pink sauce layer -->
+  <path d="M97,140 Q120,125 145,135 Q170,125 193,140 L193,175 Q170,158 145,168 Q120,158 97,175Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Prawn 1 hooked on left rim -->
+  <path d="M75,55 C58,45 48,58 55,72 C62,84 78,82 82,70 C86,58 78,48 70,52" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82,70 Q88,80 86,90" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Prawn 1 tail -->
+  <path d="M86,90 Q80,98 74,102" fill="none" stroke="#f266aa" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M86,90 Q90,100 88,106" fill="none" stroke="#f266aa" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Prawn 2 hooked on right rim -->
+  <path d="M215,55 C232,45 242,58 235,72 C228,84 212,82 208,70 C204,58 212,48 220,52" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M208,70 Q202,80 204,90" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Prawn 2 tail -->
+  <path d="M204,90 Q210,98 216,102" fill="none" stroke="#f266aa" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M204,90 Q200,100 202,106" fill="none" stroke="#f266aa" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Prawn 3 inside centre top -->
+  <path d="M130,60 C118,50 108,62 114,74 C120,86 138,86 144,76 C150,66 144,52 134,56" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

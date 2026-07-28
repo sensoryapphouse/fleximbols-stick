@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Placemat: rectangular decorative mat on a table with plate centered -->
+  <!-- Table surface (background) -->
+  <rect x="10" y="40" width="270" height="180" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Table grain lines -->
+  <path d="M30,60 L260,60 M30,200 L260,200" stroke="#9d7246" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Placemat (rounded rectangle, slightly tilted look) -->
+  <rect x="35" y="65" width="220" height="130" rx="12" ry="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Decorative inner border -->
+  <rect x="48" y="78" width="194" height="104" rx="8" ry="8" fill="none" stroke="#fff200" stroke-width="4.45"/>
+  <!-- Corner decorations -->
+  <circle cx="55" cy="85" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="235" cy="85" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="55" cy="175" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="235" cy="175" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Plate centered on placemat -->
+  <circle cx="145" cy="130" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="145" cy="130" r="34" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Fork to the left of plate -->
+  <path d="M75,100 L75,160 M70,100 L70,118 M80,100 L80,118 M65,100 L65,115" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Fork handle thicker base -->
+  <rect x="71" y="115" width="8" height="50" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Knife to the right of plate -->
+  <path d="M212,100 Q220,100 220,118 L218,165 L212,165 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

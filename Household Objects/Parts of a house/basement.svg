@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- house above ground dimmed -->
+<rect x="140" y="120" width="232" height="80" rx="0" fill="#e9e2d2" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 256 90 L 384 120 L 128 120 Z" fill="#e9e2d2" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- ground line -->
+<line x1="108" y1="200" x2="404" y2="200" stroke="#6b4a2b" stroke-width="10" stroke-linecap="round"/>
+<!-- highlighted lower-level room below ground -->
+<rect x="140" y="200" width="232" height="212" rx="0" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- stairs descending into basement -->
+<path d="M 150 210 L 150 250 L 190 250 L 190 290 L 230 290 L 230 330 L 270 330 L 270 370 L 310 370 L 310 404 L 150 404 Z"
+fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- small high basement window -->
+<rect x="316" y="220" width="46" height="34" rx="3" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="339" y1="220" x2="339" y2="254" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

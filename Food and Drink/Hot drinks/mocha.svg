@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tall glass body -->
+  <path d="M98 55 L104 210 L186 210 L192 55Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Chocolate layer (bottom) -->
+  <path d="M105 175 L106 200 L184 200 L185 175Z" fill="#5e1f0a" stroke="none"/>
+  <!-- Coffee layer (middle) -->
+  <path d="M103 120 L105 175 L185 175 L187 120Z" fill="#9d7246" stroke="none"/>
+  <!-- Chocolate swirl band -->
+  <path d="M103 148 Q120 140 145 148 Q170 156 187 148" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Whipped cream top -->
+  <ellipse cx="145" cy="90" rx="46" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M102 88 Q115 72 130 82 Q140 68 145 78 Q150 65 160 76 Q174 66 188 82 Q190 88 188 92" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cocoa powder dusting (dots) -->
+  <circle cx="132" cy="82" r="3" fill="#5e1f0a"/>
+  <circle cx="145" cy="78" r="3" fill="#5e1f0a"/>
+  <circle cx="158" cy="82" r="3" fill="#5e1f0a"/>
+  <circle cx="138" cy="90" r="2" fill="#5e1f0a"/>
+  <circle cx="152" cy="90" r="2" fill="#5e1f0a"/>
+  <!-- Glass outline over fills -->
+  <path d="M98 55 L104 210 L186 210 L192 55Z" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Straw -->
+  <rect x="162" y="30" width="12" height="100" rx="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

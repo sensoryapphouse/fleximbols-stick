@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dark sky at top -->
+  <rect x="26" y="20" width="238" height="158" rx="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Soft pre-dawn glow band at horizon: purple-pink gradient emulated as layered rects -->
+  <rect x="26" y="120" width="238" height="58" rx="0" fill="#392170" stroke="none"/>
+  <rect x="26" y="140" width="238" height="38" rx="0" fill="#7c3fac" stroke="none"/>
+  <rect x="26" y="155" width="238" height="23" rx="0" fill="#f4a4b2" stroke="none"/>
+  <!-- Horizon ground bar -->
+  <rect x="26" y="168" width="238" height="42" rx="0" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Clip glow to sky panel using outline rect drawn last -->
+  <rect x="26" y="20" width="238" height="148" rx="10" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- A few faint stars in dark upper sky -->
+  <circle cx="55" cy="42" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="35" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="48" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="245" cy="35" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="55" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="78" cy="72" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Soft elliptical glow on horizon (no visible sun disc) -->
+  <ellipse cx="145" cy="168" rx="90" ry="22" fill="#f266aa" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="168" rx="55" ry="12" fill="#f4a4b2" stroke="none"/>
+</g></svg>

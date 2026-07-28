@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="108.61 98.37 294.79 294.79"><g>
+<!-- left cymbal disc (tilted) -->
+<ellipse cx="196" cy="256" rx="44" ry="120" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" transform="rotate(-18 196 256)"/>
+<ellipse cx="196" cy="256" rx="14" ry="40" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7" transform="rotate(-18 196 256)"/>
+<!-- right cymbal disc (tilted) -->
+<ellipse cx="316" cy="256" rx="44" ry="120" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" transform="rotate(18 316 256)"/>
+<ellipse cx="316" cy="256" rx="14" ry="40" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7" transform="rotate(18 316 256)"/>
+<!-- clash sparks at top -->
+<line x1="256" y1="120" x2="256" y2="150" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="216" y1="138" x2="232" y2="162" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="296" y1="138" x2="280" y2="162" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</g></svg>

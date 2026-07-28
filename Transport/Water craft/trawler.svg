@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- water -->
+<path d="M 36 388 Q 82 374 124 388 T 208 388 T 292 388 T 376 388 T 460 388 T 478 388 L 478 430 L 36 430 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- sturdy hull, raised bow at right -->
+<path d="M 70 300 L 360 286 Q 440 282 452 322 Q 446 374 396 374 L 124 374 Q 76 374 70 300 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- white rubrail band -->
+<path d="M 78 308 L 360 294 Q 420 292 432 314 L 86 330 Z" fill="#fff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- forward wheelhouse (towards bow/right) -->
+<rect x="300" y="216" width="96" height="84" rx="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="318" y="232" width="28" height="26" rx="3" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="356" y="232" width="28" height="26" rx="3" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="5"/>
+<!-- short funnel -->
+<rect x="334" y="180" width="28" height="38" rx="4" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<!-- aft A-frame gantry (stern, left) -->
+<line x1="110" y1="300" x2="150" y2="150" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<line x1="220" y1="300" x2="150" y2="150" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<line x1="150" y1="150" x2="150" y2="120" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- net drum reel at stern -->
+<circle cx="165" cy="276" r="34" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="165" cy="276" r="14" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<!-- net mesh hint -->
+<path d="M 150 120 L 110 240 M 150 120 L 200 240" fill="none" stroke="#9aa0a6" stroke-width="4" stroke-linecap="round"/>
+</svg>

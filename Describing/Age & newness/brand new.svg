@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="73.19 69.78 401.45 401.45">
+<!-- box body -->
+<rect x="156" y="240" width="200" height="150" rx="10" fill="#6fc3e8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- box lid -->
+<rect x="142" y="206" width="228" height="50" rx="8" fill="#9bd6f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ribbon vertical -->
+<rect x="240" y="206" width="32" height="184" fill="#f3b13b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bow loops -->
+<path d="M 256 206 C 256 176 214 162 206 188 C 200 208 232 210 256 206 Z" fill="#f3b13b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 206 C 256 176 298 162 306 188 C 312 208 280 210 256 206 Z" fill="#f3b13b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="256" cy="204" r="12" fill="#f3d27a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- price tag string -->
+<line x1="340" y1="252" x2="392" y2="200" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- price tag -->
+<path d="M 384 168 L 432 168 L 446 192 L 416 222 L 386 208 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="402" cy="186" r="7" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<!-- sparkle big -->
+<path d="M 150 150 L 162 182 L 194 194 L 162 206 L 150 238 L 138 206 L 106 194 L 138 182 Z" fill="#ffe14d" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- sparkle small -->
+<path d="M 360 300 L 367 318 L 385 325 L 367 332 L 360 350 L 353 332 L 335 325 L 353 318 Z" fill="#ffe14d" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- tiny sparkle -->
+<path d="M 120 320 L 125 333 L 138 338 L 125 343 L 120 356 L 115 343 L 102 338 L 115 333 Z" fill="#ffe14d" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

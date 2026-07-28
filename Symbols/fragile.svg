@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Teacup body -->
+  <path d="M85,90 L100,185 Q145,198 190,185 L205,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Cup rim -->
+  <ellipse cx="145" cy="90" rx="60" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Saucer -->
+  <ellipse cx="145" cy="192" rx="72" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Handle -->
+  <path d="M205,110 Q238,110 238,145 Q238,178 205,175" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Crack: main jagged line on cup -->
+  <polyline points="145,95 138,120 150,130 135,158 142,178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Crack branch 1 -->
+  <polyline points="138,120 125,112" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Crack branch 2 -->
+  <polyline points="150,130 162,126" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Crack branch 3 -->
+  <polyline points="135,158 120,162" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Handle-with-care down-arrow below -->
+  <!-- Arrow shaft -->
+  <line x1="145" y1="215" x2="145" y2="235" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Arrowhead pointing down (filled triangle) -->
+  <polygon points="145,240 133,222 157,222" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Small cupped hands hint (arc either side of shaft) -->
+  <path d="M125,220 Q135,215 145,218 Q155,215 165,220" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

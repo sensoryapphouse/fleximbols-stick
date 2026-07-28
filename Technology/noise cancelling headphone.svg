@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- headband arc -->
+  <path d="M 55 110 Q 145 25 235 110" fill="none" stroke="#1d0e82" stroke-width="20.73" stroke-linecap="round"/>
+  <path d="M 55 110 Q 145 25 235 110" fill="none" stroke="#1a1a1a" stroke-width="5.18" stroke-linecap="round"/>
+  <!-- adjustment slider on left side -->
+  <rect x="48" y="100" width="14" height="22" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="228" y="100" width="14" height="22" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- left ear cup -->
+  <ellipse cx="55" cy="150" rx="35" ry="42" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <ellipse cx="55" cy="150" rx="22" ry="30" fill="#392170" stroke="#1a1a1a" stroke-width="3.70"/>
+  <ellipse cx="55" cy="150" rx="14" ry="20" fill="#000000"/>
+  <!-- NC indicator badge on left cup -->
+  <circle cx="55" cy="150" r="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 50 145 L 50 155 L 60 145 L 60 155" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right ear cup -->
+  <ellipse cx="235" cy="150" rx="35" ry="42" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <ellipse cx="235" cy="150" rx="22" ry="30" fill="#392170" stroke="#1a1a1a" stroke-width="3.70"/>
+  <ellipse cx="235" cy="150" rx="14" ry="20" fill="#000000"/>
+  <!-- NC indicator badge on right cup -->
+  <circle cx="235" cy="150" r="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 230 145 L 230 155 L 240 145 L 240 155" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- sound-blocking arcs around left ear -->
+  <path d="M 12 130 Q 5 150 12 170" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 0 120 Q -8 150 0 180" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- sound-blocking arcs around right ear (with cross-out implied via slash) -->
+  <path d="M 278 130 Q 285 150 278 170" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 290 120 Q 298 150 290 180" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- diagonal slash across one side to indicate cancellation -->
+  <line x1="278" y1="115" x2="295" y2="185" stroke="#d01424" stroke-width="5.18" stroke-linecap="round"/>
+  <line x1="-5" y1="115" x2="12" y2="185" stroke="#d01424" stroke-width="5.18" stroke-linecap="round"/>
+</g></svg>

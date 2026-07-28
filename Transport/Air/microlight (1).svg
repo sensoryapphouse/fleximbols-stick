@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Delta wing - large triangular fabric wing -->
+  <polygon points="145,88 18,175 272,175" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Delta wing inner surface texture line -->
+  <line x1="145" y1="88" x2="145" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Wing leading edge highlight (lighter shade on top surface) -->
+  <polygon points="145,88 18,175 80,175" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Control bar / A-frame hang -->
+  <line x1="145" y1="130" x2="108" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="130" x2="182" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="108" y1="168" x2="182" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hang wire left -->
+  <line x1="145" y1="100" x2="108" y2="168" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Hang wire right -->
+  <line x1="145" y1="100" x2="182" y2="168" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Trike pod body -->
+  <ellipse cx="145" cy="188" rx="38" ry="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Trike pod nose -->
+  <polygon points="107,188 120,178 120,198" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pusher prop at rear of trike -->
+  <ellipse cx="184" cy="185" rx="5" ry="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Prop hub -->
+  <circle cx="184" cy="188" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Engine on rear of trike -->
+  <rect x="172" y="180" width="12" height="16" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Front wheel (nosewheel) -->
+  <circle cx="118" cy="204" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Front wheel strut -->
+  <line x1="118" y1="195" x2="118" y2="204" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Left rear wheel -->
+  <circle cx="155" cy="206" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right rear wheel -->
+  <circle cx="175" cy="206" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pilot in trike pod -->
+  <circle cx="140" cy="182" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

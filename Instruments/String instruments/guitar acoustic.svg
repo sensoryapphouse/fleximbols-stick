@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Headstock (3+3 style) -->
+  <path d="M 124,22 Q 122,8 128,6 L 162,6 Q 168,8 166,22 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tuning pegs left side -->
+  <circle cx="122" cy="9" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="122" cy="17" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="122" cy="25" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tuning pegs right side -->
+  <circle cx="168" cy="9" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="17" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="25" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Peg shafts -->
+  <line x1="126" y1="9" x2="134" y2="9" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="126" y1="17" x2="134" y2="17" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="126" y1="25" x2="134" y2="25" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="164" y1="9" x2="156" y2="9" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="164" y1="17" x2="156" y2="17" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="164" y1="25" x2="156" y2="25" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="129" y="22" width="32" height="115" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fretboard -->
+  <rect x="131" y="30" width="28" height="100" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Nut -->
+  <line x1="131" y1="30" x2="159" y2="30" stroke="#b8b8b8" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Fret lines -->
+  <line x1="131" y1="44" x2="159" y2="44" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="57" x2="159" y2="57" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="69" x2="159" y2="69" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="80" x2="159" y2="80" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="90" x2="159" y2="90" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="99" x2="159" y2="99" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="107" x2="159" y2="107" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="114" x2="159" y2="114" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="120" x2="159" y2="120" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Dot inlays -->
+  <circle cx="145" cy="63" r="3" fill="#efefef" stroke="none"/>
+  <circle cx="145" cy="85" r="3" fill="#efefef" stroke="none"/>
+  <circle cx="145" cy="103" r="3" fill="#efefef" stroke="none"/>
+  <!-- Hollow body — figure-8 (upper bout, pinched waist, larger lower bout) -->
+  <path d="M 145,124
+    Q 152,124 160,128
+    Q 190,138 195,158
+    Q 197,170 179,177
+    Q 196,186 207,205
+    Q 210,224 182,232
+    Q 145,240 108,232
+    Q 80,224 83,205
+    Q 94,186 111,177
+    Q 93,170 95,158
+    Q 100,138 130,128
+    Q 138,124 145,124 Z"
+    fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top (spruce face), inset, same figure-8 -->
+  <path d="M 145,128
+    Q 151,128 158,131
+    Q 186,141 191,159
+    Q 193,170 176,176
+    Q 192,185 203,205
+    Q 206,222 180,229
+    Q 145,236 110,229
+    Q 84,222 87,205
+    Q 98,185 114,176
+    Q 97,170 99,159
+    Q 104,141 132,131
+    Q 139,128 145,128 Z"
+    fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Body binding accent -->
+  <path d="M 145,128 Q 186,141 191,159 Q 193,170 176,176 Q 192,185 203,205 Q 206,222 180,229 Q 145,236 110,229 Q 84,222 87,205 Q 98,185 114,176 Q 97,170 99,159 Q 104,141 145,128 Z"
+    fill="none" stroke="#9d7246" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sound hole -->
+  <circle cx="145" cy="165" r="26" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rosette rings -->
+  <circle cx="145" cy="165" r="30" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="165" r="32" fill="none" stroke="#f7de58" stroke-width="2.67" stroke-linecap="round"/>
+  <circle cx="145" cy="165" r="34" fill="none" stroke="#9d7246" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- Bridge -->
+  <rect x="126" y="200" width="38" height="10" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bridge saddle -->
+  <rect x="128" y="202" width="34" height="4" rx="1" fill="#efefef" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bridge pins -->
+  <circle cx="131" cy="208" r="2.5" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="137" cy="208" r="2.5" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="143" cy="208" r="2.5" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="149" cy="208" r="2.5" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="155" cy="208" r="2.5" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="161" cy="208" r="2.5" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- 6 strings from bridge pins to headstock -->
+  <line x1="131" y1="205" x2="129" y2="30" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="135" y1="205" x2="133" y2="30" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="139" y1="205" x2="137" y2="30" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="151" y1="205" x2="153" y2="30" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="155" y1="205" x2="157" y2="30" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="159" y1="205" x2="161" y2="30" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Neck block / joint line -->
+  <line x1="131" y1="126" x2="159" y2="126" stroke="#7d5e23" stroke-width="5.33" stroke-linecap="round"/>
+</g></svg>

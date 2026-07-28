@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- receipt at angle with dollar amount, hand handing it over -->
+  <!-- receipt -->
+  <path d="M70 30 L210 30 L210 200 L195 192 L180 200 L165 192 L150 200 L135 192 L120 200 L105 192 L90 200 L75 192 L70 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.02" stroke-linejoin="round"/>
+  <!-- receipt header band -->
+  <rect x="80" y="40" width="120" height="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.85"/>
+  <!-- COPAY letters as paths inside header (centered roughly 88..192) -->
+  <!-- C -->
+  <path d="M96 44 Q88 44 88 51 Q88 58 96 58 Q102 58 104 55 L100 51 Q99 53 96 53 Q93 53 93 51 Q93 49 96 49 Q99 49 100 51 L104 47 Q102 44 96 44 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.21" stroke-linejoin="round"/>
+  <!-- O -->
+  <path d="M114 44 Q106 44 106 51 Q106 58 114 58 Q122 58 122 51 Q122 44 114 44 Z M114 48 Q111 48 111 51 Q111 54 114 54 Q117 54 117 51 Q117 48 114 48 Z" fill="#137827" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="4.21" stroke-linejoin="round"/>
+  <!-- P -->
+  <path d="M126 44 L126 58 L131 58 L131 54 L136 54 Q140 54 140 49 Q140 44 136 44 Z M131 48 L135 48 Q136 48 136 49 Q136 50 135 50 L131 50 Z" fill="#137827" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="4.21" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M144 58 L148 44 L154 44 L158 58 L153 58 L152 55 L150 55 L149 58 Z M150.5 51 L151.5 51 L151 49 Z" fill="#137827" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="4.21" stroke-linejoin="round"/>
+  <!-- Y -->
+  <path d="M162 44 L166 50 L170 44 L175 44 L168 53 L168 58 L163 58 L163 53 L156 44 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.21" stroke-linejoin="round"/>
+  <!-- amount $25 area - just lines + a dollar sign + numeric stripes -->
+  <rect x="82" y="76" width="116" height="44" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.85"/>
+  <!-- $ as path -->
+  <path d="M104 82 Q94 82 94 90 Q94 96 102 97 L108 98 Q110 98 110 100 Q110 103 104 103 Q98 103 95 100 L92 106 Q97 110 104 110 L104 114 L108 114 L108 110 Q118 110 118 102 Q118 96 110 95 L104 94 Q102 94 102 92 Q102 90 106 90 Q111 90 114 92 L116 86 Q112 82 108 82 L108 78 L104 78 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.68" stroke-linejoin="round"/>
+  <!-- 2 as path -->
+  <path d="M128 82 Q120 82 120 90 L126 90 Q126 86 130 86 Q134 86 134 88 Q134 91 130 94 L120 104 L120 110 L140 110 L140 104 L130 104 L138 96 Q140 93 140 89 Q140 82 130 82 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.68" stroke-linejoin="round"/>
+  <!-- 5 as path -->
+  <path d="M148 82 L148 96 L156 96 Q160 96 160 100 Q160 104 156 104 Q152 104 150 102 L146 107 Q150 110 156 110 Q166 110 166 100 Q166 92 158 92 L154 92 L154 88 L166 88 L166 82 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.68" stroke-linejoin="round"/>
+  <!-- item lines -->
+  <rect x="82" y="130" width="116" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.51"/>
+  <rect x="82" y="142" width="90" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.51"/>
+  <rect x="82" y="154" width="116" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.51"/>
+  <rect x="82" y="166" width="70" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.51"/>
+  <!-- coin stack lower right -->
+  <ellipse cx="240" cy="190" rx="22" ry="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.85"/>
+  <ellipse cx="240" cy="180" rx="22" ry="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.85"/>
+  <ellipse cx="240" cy="170" rx="22" ry="7" fill="#fff200" stroke="#1a1a1a" stroke-width="5.85"/>
+</g></svg>

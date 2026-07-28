@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- motorised track / rod at top -->
+  <rect x="35" y="30" width="200" height="14" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.41"/>
+  <!-- motor housing on right end -->
+  <rect x="220" y="26" width="22" height="22" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.41"/>
+  <circle cx="231" cy="37" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- track end caps -->
+  <circle cx="40" cy="37" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- LEFT curtain panel (drawn open, pulling motion) -->
+  <path d="M50 44 Q44 50 50 60 Q44 75 52 90 Q44 110 52 130 Q44 155 52 180 Q44 205 52 220 L90 220 Q86 200 92 180 Q86 155 92 130 Q86 110 92 90 Q86 70 92 50 Q88 46 90 44 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <!-- left curtain folds -->
+  <path d="M62 50 Q60 130 64 220" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M74 50 Q72 130 76 220" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- RIGHT curtain panel (more open, mid-motion) -->
+  <path d="M170 44 Q166 50 170 60 Q164 75 172 90 Q164 110 172 130 Q164 155 172 180 Q164 205 172 220 L210 220 Q204 200 210 180 Q204 155 210 130 Q204 110 210 90 Q204 70 210 50 Q206 46 208 44 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <path d="M182 50 Q180 130 184 220" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M194 50 Q192 130 196 220" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- ring hooks on track -->
+  <circle cx="58" cy="46" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="46" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="178" cy="46" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="46" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pulling-motion arrows showing curtains opening -->
+  <path d="M110 130 L130 130" stroke="#f8130d" stroke-width="10.37" stroke-linecap="round"/>
+  <path d="M125 124 L132 130 L125 136" fill="none" stroke="#f8130d" stroke-width="10.37" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160 130 L140 130" stroke="#f8130d" stroke-width="10.37" stroke-linecap="round"/>
+  <path d="M145 124 L138 130 L145 136" fill="none" stroke="#f8130d" stroke-width="10.37" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- remote bottom right -->
+  <rect x="240" y="155" width="40" height="65" rx="5" fill="#392170" stroke="#1a1a1a" stroke-width="7.41"/>
+  <rect x="246" y="161" width="28" height="16" rx="2" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="260" cy="190" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="260" cy="207" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- WiFi arcs from motor -->
+  <path d="M250 50 Q260 40 270 50" fill="none" stroke="#2a4ec0" stroke-width="7.41" stroke-linecap="round"/>
+  <path d="M254 58 Q260 52 266 58" fill="none" stroke="#2a4ec0" stroke-width="7.41" stroke-linecap="round"/>
+  <circle cx="260" cy="65" r="2.5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

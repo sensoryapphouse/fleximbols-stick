@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bottle body -->
+  <path d="M120 90 L108 195 L182 195 L170 90 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottle shoulder taper -->
+  <path d="M115 90 Q112 75 125 68 L165 68 Q178 75 175 90 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottle neck -->
+  <rect x="130" y="50" width="30" height="20" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cap -->
+  <rect x="127" y="38" width="36" height="16" rx="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Stem growing from bottle side -->
+  <path d="M175 130 Q200 115 195 95" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Large leaf top of stem -->
+  <path d="M195 95 Q215 75 205 58 Q190 68 195 95 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Leaf midrib -->
+  <line x1="195" y1="95" x2="205" y2="63" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Small leaf on stem -->
+  <path d="M185 118 Q198 110 196 100 Q185 106 185 118 Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Highlight on bottle -->
+  <line x1="130" y1="105" x2="128" y2="175" stroke="#ffffff" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

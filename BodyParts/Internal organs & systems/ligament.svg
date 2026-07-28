@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- ligament: tough fibrous straps binding two bones across a joint -->
+<!-- top bone -->
+<g fill="#f2ead4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+<path d="M 256 250 L 256 138"/>
+<circle cx="230" cy="118" r="32"/><circle cx="282" cy="118" r="32"/>
+</g>
+<!-- bottom bone -->
+<g fill="#f2ead4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+<path d="M 256 262 L 256 374"/>
+<circle cx="230" cy="394" r="32"/><circle cx="282" cy="394" r="32"/>
+</g>
+<!-- ligament straps crossing the joint, both sides -->
+<path d="M 214 176 L 250 176 L 298 336 L 262 336 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 298 176 L 262 176 L 214 336 L 250 336 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- fibre texture lines along the straps -->
+<g fill="none" stroke="#e8b24e" stroke-width="5" stroke-linecap="round">
+<path d="M 226 184 L 274 328 M 240 180 L 288 322"/>
+<path d="M 286 184 L 238 328 M 272 180 L 224 322"/>
+</g>
+</svg>

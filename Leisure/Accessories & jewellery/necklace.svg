@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="59.97 103.49 380.12 380.12">
+<!-- chain (open at top, hanging loop) -->
+<path d="M 178 130 q -54 60 -54 150 q 0 70 56 116 q 56 46 132 0 q 56 -46 56 -116 q 0 -90 -54 -150" fill="none" stroke="#1a1a1a" stroke-width="11"/>
+<path d="M 178 130 q -54 60 -54 150 q 0 70 56 116 q 56 46 132 0 q 56 -46 56 -116 q 0 -90 -54 -150" fill="none" stroke="#f2c14e" stroke-width="6"/>
+<!-- beads along chain -->
+<circle cx="146" cy="232" r="13" fill="#e76f8e" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="160" cy="320" r="13" fill="#4ea3d9" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="352" cy="320" r="13" fill="#4ea3d9" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="366" cy="232" r="13" fill="#e76f8e" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pendant teardrop -->
+<path d="M 256 348 q -38 36 -38 70 q 0 38 38 38 q 38 0 38 -38 q 0 -34 -38 -70 Z" fill="#5ec4c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="256" cy="408" r="14" fill="#8fe0e0" stroke="#1a1a1a" stroke-width="5"/>
+<!-- bail loop connecting pendant to chain -->
+<circle cx="256" cy="340" r="13" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

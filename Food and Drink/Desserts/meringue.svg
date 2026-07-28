@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- meringue-modern: single peaked meringue cookie on a small plate: no fruit, just a swirled peak -->
+  <!-- Plate -->
+  <ellipse cx="145" cy="218" rx="80" ry="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Meringue base foot: flat oval -->
+  <ellipse cx="145" cy="200" rx="58" ry="12" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Meringue body: stacked swirled blob -->
+  <path d="M 88,200 Q 84,170 90,155 Q 96,140 110,145 Q 115,130 125,132 Q 130,118 145,118 Q 160,118 165,132 Q 175,130 180,145 Q 194,140 200,155 Q 206,170 202,200 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Swirl ridge lines on the meringue body -->
+  <path d="M 105,192 Q 100,170 108,155 Q 115,142 128,144" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 125,188 Q 120,162 128,148 Q 136,136 145,135" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145,188 Q 140,165 145,148" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 165,188 Q 170,162 162,148 Q 154,136 145,135" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 185,192 Q 190,170 182,155 Q 175,142 162,144" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Meringue peak tip -->
+  <path d="M 135,122 Q 145,100 155,122" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 140,108 Q 145,88 150,108" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Crisp golden-brown base edge -->
+  <path d="M 90,198 Q 145,208 200,198" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

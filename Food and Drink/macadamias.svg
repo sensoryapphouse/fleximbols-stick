@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- whole nut in brown shell (left) -->
+<circle cx="200" cy="262" r="86" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- shell seam + germ point -->
+<path d="M 200 176 L 200 178 Q 196 176 200 176 Z" fill="#1a1a1a"/>
+<circle cx="200" cy="178" r="9" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="200" cy="348" r="8" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 158 220 Q 178 252 168 300" fill="none" stroke="#6b4a2b" stroke-width="6"/>
+<!-- shelled creamy kernel (right) -->
+<circle cx="332" cy="300" r="80" fill="#fff6cf" stroke="#1a1a1a" stroke-width="9"/>
+<!-- kernel split line -->
+<path d="M 300 246 Q 332 300 318 372" fill="none" stroke="#c89a5b" stroke-width="7"/>
+<path d="M 312 256 Q 326 262 320 280" fill="none" stroke="#e8b24e" stroke-width="5" stroke-linecap="round"/>
+</svg>

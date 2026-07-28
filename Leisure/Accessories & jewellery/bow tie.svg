@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.52 83.78 352.97 352.97">
+<!-- left wing -->
+<path d="M 256 256 L 130 196 q -24 -11 -24 16 l 0 96 q 0 27 24 16 L 256 256 Z" fill="#d23c5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right wing -->
+<path d="M 256 256 L 382 196 q 24 -11 24 16 l 0 96 q 0 27 -24 16 L 256 256 Z" fill="#d23c5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inner fold shading -->
+<path d="M 256 256 L 168 214 l 0 84 Z" fill="#b22c48" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 256 256 L 344 214 l 0 84 Z" fill="#b22c48" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- centre knot -->
+<rect x="232" y="214" width="48" height="84" rx="12" fill="#a82440" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

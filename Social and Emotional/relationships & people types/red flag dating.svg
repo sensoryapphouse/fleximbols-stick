@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- flag pole -->
+  <rect x="60" y="30" width="6" height="190" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- pole top knob -->
+  <circle cx="63" cy="28" r="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- red flag (waving) -->
+  <path d="M66 35 L200 30 Q210 55 200 75 Q210 95 200 115 L66 110 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- broken heart on flag -->
+  <path d="M130 50 Q120 40 110 50 Q100 60 133 90 L133 80 L125 78 L135 70 L127 65 L133 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M133 90 Q166 60 156 50 Q146 40 136 50 L130 56 L138 62 L131 68 L139 73 L133 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- crack down center -->
+  <path d="M133 50 L127 60 L137 70 L129 80 L135 90" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- alert / warning triangle bottom right -->
+  <path d="M210 140 L270 220 L150 220 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- exclamation in triangle -->
+  <rect x="206" y="165" width="8" height="30" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="210" cy="205" r="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.67"/>
+
+  <!-- small heart with X (relationship reference) bottom-left -->
+  <path d="M95 165 Q88 158 81 165 Q74 172 95 192 Q116 172 109 165 Q102 158 95 165 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M84 162 L106 184 M106 162 L84 184" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+</g></svg>

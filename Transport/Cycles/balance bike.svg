@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Balance bike: child's bike, NO PEDALS, low seat, 2 wheels -->
+  <!-- Rear wheel -->
+  <circle cx="75" cy="180" r="32" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="180" r="16" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="75" cy="180" r="3" fill="#000000"/>
+  <!-- Front wheel -->
+  <circle cx="215" cy="180" r="32" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="180" r="16" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="215" cy="180" r="3" fill="#000000"/>
+  <!-- Frame (low, simple) -->
+  <path d="M 75 180 L 215 180" fill="none" stroke="#3aa6a0" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M 75 180 L 215 180" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Seat post (low) -->
+  <path d="M 105 180 L 105 135" stroke="#3aa6a0" stroke-width="11.85" stroke-linecap="round"/>
+  <path d="M 105 180 L 105 135" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Head tube and fork -->
+  <path d="M 215 180 L 215 95" stroke="#3aa6a0" stroke-width="11.85" stroke-linecap="round"/>
+  <path d="M 215 180 L 215 95" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Low seat -->
+  <path d="M 85 130 L 130 130 L 125 122 L 90 122 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Handlebars -->
+  <path d="M 185 90 L 245 90" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 185 85 L 185 100 M 245 85 L 245 100" stroke="#d01424" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M 185 85 L 185 100 M 245 85 L 245 100" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- NO PEDALS label with crossed circle to emphasize -->
+  <!-- Empty space where pedals would be - just clean frame -->
+  <!-- Small "no pedals" mark below -->
+  <circle cx="145" cy="180" r="9" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <path d="M 138 173 L 152 187" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

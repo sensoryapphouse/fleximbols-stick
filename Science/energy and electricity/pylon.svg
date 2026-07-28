@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="87.27 119.70 337.45 337.45">
+<!-- steel electricity transmission pylon (lattice tower) -->
+<g fill="none" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<!-- outer legs -->
+<path d="M 168 416 L 226 168"/>
+<path d="M 344 416 L 286 168"/>
+<!-- narrow top -->
+<path d="M 226 168 L 286 168"/>
+<!-- horizontal cross braces -->
+<path d="M 158 380 L 354 380"/>
+<path d="M 188 300 L 324 300"/>
+<path d="M 206 232 L 306 232"/>
+<!-- X braces between rungs -->
+<path d="M 158 380 L 324 300 M 354 380 L 188 300"/>
+<path d="M 188 300 L 306 232 M 324 300 L 206 232"/>
+</g>
+<!-- cross-arms with insulators -->
+<line x1="120" y1="200" x2="392" y2="200" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="150" y1="160" x2="362" y2="160" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="120" cy="216" r="9" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="392" cy="216" r="9" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="150" cy="176" r="9" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="362" cy="176" r="9" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

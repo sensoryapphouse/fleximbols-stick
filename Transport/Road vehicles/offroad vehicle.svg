@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground line -->
+  <line x1="5" y1="215" x2="285" y2="215" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- main offroad truck body (open buggy/jeep style) -->
+  <path d="M 35 185 L 35 150 L 60 130 L 230 130 L 255 150 L 255 185 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- BASH PLATE (skid plate) under front (defining feature) -->
+  <path d="M 35 185 L 60 195 L 235 195 L 255 185 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- bash plate rivets -->
+  <circle cx="70" cy="190" r="2" fill="#000000"/>
+  <circle cx="145" cy="192" r="2" fill="#000000"/>
+  <circle cx="220" cy="190" r="2" fill="#000000"/>
+  <!-- ROLL CAGE (defining feature) - exterior tubes over body -->
+  <path d="M 50 130 L 50 70 L 240 70 L 240 130" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- roll cage cross bar -->
+  <line x1="50" y1="70" x2="240" y2="70" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- roll cage diagonal supports -->
+  <line x1="50" y1="70" x2="80" y2="130" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="240" y1="70" x2="210" y2="130" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="145" y1="70" x2="145" y2="130" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- LED LIGHT BAR on roof (defining feature) -->
+  <rect x="80" y="60" width="130" height="12" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- LED segments -->
+  <line x1="100" y1="60" x2="100" y2="72" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="120" y1="60" x2="120" y2="72" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="140" y1="60" x2="140" y2="72" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="160" y1="60" x2="160" y2="72" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="180" y1="60" x2="180" y2="72" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- LED bar mounts -->
+  <rect x="86" y="72" width="6" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="198" y="72" width="6" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- exposed cockpit/interior (open frame look) -->
+  <rect x="60" y="135" width="170" height="40" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- seat -->
+  <path d="M 90 175 L 90 140 L 120 140 L 120 175 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 165 175 L 165 140 L 195 140 L 195 175 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- headlights -->
+  <circle cx="45" cy="160" r="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- CHUNKY off-road tyres -->
+  <circle cx="80" cy="200" r="28" fill="#000000" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="80" cy="200" r="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- aggressive tread blocks -->
+  <rect x="76" y="172" width="8" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="76" y="222" width="8" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="52" y="196" width="6" height="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="102" y="196" width="6" height="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="210" cy="200" r="28" fill="#000000" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="210" cy="200" r="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="206" y="172" width="8" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="206" y="222" width="8" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="182" y="196" width="6" height="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="232" y="196" width="6" height="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

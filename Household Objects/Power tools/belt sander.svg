@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Main body / motor housing — wide horizontal tool -->
+  <rect x="55" y="85" width="180" height="75" rx="12" ry="12" fill="#f8130d" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Front roller (left) -->
+  <ellipse cx="70" cy="168" rx="18" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="70" cy="168" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rear roller (right) -->
+  <ellipse cx="220" cy="168" rx="18" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="220" cy="168" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sanding belt — top run -->
+  <rect x="70" y="150" width="150" height="18" rx="0" ry="0" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Sanding belt — bottom run (contact surface) -->
+  <rect x="70" y="180" width="150" height="14" rx="0" ry="0" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Belt texture lines -->
+  <line x1="95" y1="182" x2="95" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="120" y1="182" x2="120" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="182" x2="145" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="182" x2="170" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="182" x2="195" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Front grip handle -->
+  <path d="M 72,85 L 72,50 Q 100,36 118,50 L 118,85" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Rear trigger handle -->
+  <path d="M 202,100 L 218,100 L 252,125 L 252,148 L 218,148 L 202,148" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Trigger -->
+  <rect x="224" y="118" width="12" height="24" rx="3" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ventilation slots on body -->
+  <line x1="130" y1="97" x2="195" y2="97" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="130" y1="109" x2="195" y2="109" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Power cord -->
+  <path d="M 145,85 Q 145,55 155,40" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+</g></svg>

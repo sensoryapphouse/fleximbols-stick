@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Fabric cube box sitting inside a shelf cubby opening -->
+
+  <!-- Shelf surround (cubby) - two vertical sides and top beam -->
+  <!-- Left shelf side panel -->
+  <rect x="25" y="22" width="28" height="196" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Right shelf side panel -->
+  <rect x="237" y="22" width="28" height="196" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Top shelf beam -->
+  <rect x="25" y="22" width="240" height="28" rx="4" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Bottom shelf beam -->
+  <rect x="25" y="190" width="240" height="28" rx="4" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+
+  <!-- Fabric cube body inside cubby -->
+  <rect x="62" y="58" width="166" height="132" rx="6" ry="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+
+  <!-- Fabric texture: subtle grid lines to suggest fabric weave -->
+  <line x1="62" y1="91" x2="228" y2="91" stroke="#392170" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="62" y1="124" x2="228" y2="124" stroke="#392170" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="62" y1="157" x2="228" y2="157" stroke="#392170" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="95" y1="58" x2="95" y2="190" stroke="#392170" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="128" y1="58" x2="128" y2="190" stroke="#392170" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="162" y1="58" x2="162" y2="190" stroke="#392170" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="196" y1="58" x2="196" y2="190" stroke="#392170" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Fabric cube top opening rim -->
+  <rect x="62" y="58" width="166" height="16" rx="6" ry="6" fill="#392170" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+
+  <!-- Pull tab handle at top centre -->
+  <rect x="120" y="44" width="50" height="18" rx="9" ry="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- soft fabric drawstring sack: bulging rounded body, cinched neck above -->
+<path d="M 172 250 Q 140 300 152 360 Q 168 408 256 410 Q 344 408 360 360 Q 372 300 340 250 Q 320 226 256 226 Q 192 226 172 250 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cinched gathered neck (pinched in) -->
+<path d="M 214 234 Q 206 210 214 188 L 298 188 Q 306 210 298 234 Q 256 248 214 234 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bunched fabric top above the drawstring -->
+<path d="M 220 190 Q 230 162 220 150 Q 244 168 256 150 Q 268 168 292 150 Q 282 162 292 190 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- drawstring around the neck -->
+<path d="M 210 210 Q 256 224 302 210" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="210" cy="210" r="9" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="302" cy="210" r="9" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<!-- soft vertical fabric folds on the bag body -->
+<path d="M 206 256 Q 192 330 214 392" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+<path d="M 256 250 Q 256 330 256 398" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+<path d="M 306 256 Q 320 330 298 392" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+</svg>

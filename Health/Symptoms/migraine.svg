@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Migraine: head with one-sided throbbing pain burst + zigzag aura beside one eye -->
+
+  <!-- Neck -->
+  <rect x="114" y="172" width="34" height="26" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Head -->
+  <ellipse cx="131" cy="138" rx="50" ry="55" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- One-sided pain burst — RIGHT side of head (radiating spikes) -->
+  <circle cx="178" cy="118" r="18" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Radiating pain spikes -->
+  <line x1="178" y1="96" x2="178" y2="82" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="190" y1="100" x2="200" y2="89" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="196" y1="118" x2="212" y2="118" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="190" y1="136" x2="200" y2="147" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="166" y1="100" x2="156" y2="89" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Throb pulse rings -->
+  <circle cx="178" cy="118" r="26" fill="none" stroke="#d01424" stroke-width="2.66"/>
+  <circle cx="178" cy="118" r="34" fill="none" stroke="#d01424" stroke-width="1.78"/>
+
+  <!-- Zigzag aura arc beside right eye -->
+  <polyline points="148,148 154,140 160,150 166,140 172,150 178,142" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Face features -->
+  <!-- Left eye open (unaffected side) -->
+  <ellipse cx="112" cy="148" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="113" cy="148" r="4" fill="#000000"/>
+
+  <!-- Right eye squinted/closed (pain side) -->
+  <path d="M 140 148 Q 147 143 154 148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 140 148 Q 147 152 154 148" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+
+  <!-- Mouth (grimace) -->
+  <path d="M 110 170 Q 120 165 130 168" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

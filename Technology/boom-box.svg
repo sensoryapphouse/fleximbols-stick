@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- antenna -->
+  <path d="M55 30 L70 75" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <circle cx="55" cy="28" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- handle -->
+  <path d="M100 55 Q145 30 190 55" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- main body -->
+  <rect x="25" y="65" width="240" height="140" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- left speaker -->
+  <circle cx="65" cy="145" r="35" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="65" cy="145" r="22" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="65" cy="145" r="10" fill="#000000"/>
+  <!-- right speaker -->
+  <circle cx="225" cy="145" r="35" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="225" cy="145" r="22" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="145" r="10" fill="#000000"/>
+  <!-- cassette deck center -->
+  <rect x="110" y="100" width="70" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="125" cy="120" r="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="120" r="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="135" y="116" width="20" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- buttons row -->
+  <rect x="110" y="150" width="10" height="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="124" y="150" width="10" height="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="138" y="150" width="10" height="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="152" y="150" width="10" height="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="166" y="150" width="10" height="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- dial -->
+  <rect x="110" y="170" width="70" height="14" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M115 177 L175 177" stroke="#4d4d4d" stroke-width="2.22"/>
+  <circle cx="145" cy="177" r="3" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

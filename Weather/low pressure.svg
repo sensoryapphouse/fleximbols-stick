@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Barometer gauge outer ring -->
+  <circle cx="145" cy="122" r="88" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="145" cy="122" r="75" fill="#ffffff" stroke="#b8b8b8" stroke-width="3.33"/>
+  <!-- Gauge tick marks (semicircle, bottom open) -->
+  <line x1="145" y1="44" x2="145" y2="57" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="57" x2="188" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="228" y1="100" x2="217" y2="107" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="228" y1="145" x2="217" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="95" y1="57" x2="102" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="62" y1="100" x2="73" y2="107" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="62" y1="145" x2="73" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Blue LOW zone arc on left -->
+  <path d="M 70 155 A 80 80 0 0 1 70 88" fill="none" stroke="#2a4ec0" stroke-width="10.00" stroke-linecap="round"/>
+  <!-- Red HIGH zone arc on right -->
+  <path d="M 220 88 A 80 80 0 0 1 220 155" fill="none" stroke="#f8130d" stroke-width="10.00" stroke-linecap="round"/>
+  <!-- Needle pointing LOW-LEFT (9 o'clock direction) -->
+  <line x1="145" y1="122" x2="74" y2="122" stroke="#f8130d" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Counterweight nub -->
+  <line x1="145" y1="122" x2="163" y2="110" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Pivot cap -->
+  <circle cx="145" cy="122" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Mounting plate at bottom -->
+  <rect x="128" y="206" width="34" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Drawn "L" shape — two thick path strokes, lower-left quadrant -->
+  <!-- Vertical stroke -->
+  <line x1="90" y1="160" x2="90" y2="205" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Horizontal stroke -->
+  <line x1="90" y1="205" x2="122" y2="205" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- glucose hexagonal ring -->
+  <polygon points="145,40 215,80 215,160 145,200 75,160 75,80" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- vertex carbon atoms -->
+  <circle cx="145" cy="40" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="80" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="160" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="200" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="160" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="80" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- top OH group line and oxygen -->
+  <line x1="145" y1="28" x2="145" y2="12" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="10" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- top-right OH -->
+  <line x1="225" y1="74" x2="245" y2="62" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="250" cy="60" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bottom-right OH -->
+  <line x1="225" y1="166" x2="245" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="250" cy="180" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bottom OH -->
+  <line x1="145" y1="212" x2="145" y2="228" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="230" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bottom-left OH -->
+  <line x1="65" y1="166" x2="45" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="40" cy="180" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- top-left OH -->
+  <line x1="65" y1="74" x2="45" y2="62" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="40" cy="60" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

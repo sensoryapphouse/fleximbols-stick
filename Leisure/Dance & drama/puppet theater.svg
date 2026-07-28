@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- puppet theatre stage with curtains + puppets + audience -->
+  <!-- ornate theatre frame -->
+  <rect x="20" y="14" width="250" height="180" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- decorative top -->
+  <path d="M20 14 L270 14 L260 30 L30 30 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- star decoration centre top -->
+  <path d="M145 6 L149 16 L160 16 L151 23 L155 34 L145 27 L135 34 L139 23 L130 16 L141 16 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- stage opening -->
+  <rect x="36" y="44" width="218" height="138" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- valance with tassels -->
+  <path d="M36 44 L254 44 L254 76 Q236 86 220 76 Q204 86 188 76 Q172 86 156 76 Q140 86 124 76 Q108 86 92 76 Q76 86 60 76 Q44 86 36 76 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- left curtain pulled -->
+  <path d="M36 44 L36 182 L78 182 Q70 150 78 116 Q68 80 78 50 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- left curtain fold lines -->
+  <path d="M54 60 Q50 100 56 160" fill="none" stroke="#5e1f0a" stroke-width="2.96"/>
+  <!-- right curtain pulled -->
+  <path d="M254 44 L254 182 L212 182 Q220 150 212 116 Q222 80 212 50 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M236 60 Q240 100 234 160" fill="none" stroke="#5e1f0a" stroke-width="2.96"/>
+  <!-- tie-back ropes -->
+  <ellipse cx="78" cy="120" rx="6" ry="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="212" cy="120" rx="6" ry="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- stage floor -->
+  <rect x="78" y="164" width="134" height="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- puppet 1 -->
+  <circle cx="120" cy="128" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M106 124 Q108 110 120 108 Q132 110 134 124 Q128 118 120 118 Q112 118 106 124 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="116" cy="128" r="2" fill="#000000"/>
+  <circle cx="124" cy="128" r="2" fill="#000000"/>
+  <path d="M116 134 Q120 138 124 134" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M110 142 Q106 154 108 164 L132 164 Q134 154 130 142 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- puppet 2 -->
+  <circle cx="170" cy="128" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M156 124 Q158 110 170 108 Q182 110 184 124 Q178 118 170 118 Q162 118 156 124 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="166" cy="128" r="2" fill="#000000"/>
+  <circle cx="174" cy="128" r="2" fill="#000000"/>
+  <path d="M166 134 Q170 138 174 134" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M160 142 Q156 154 158 164 L182 164 Q184 154 180 142 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- audience heads below -->
+  <circle cx="70" cy="222" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="226" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="226" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="222" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

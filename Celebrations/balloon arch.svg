@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground line -->
+  <path d="M20 220 L270 220" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- left base anchor -->
+  <rect x="22" y="200" width="34" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right base anchor -->
+  <rect x="234" y="200" width="34" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- arch structure pole left side -->
+  <path d="M39 200 Q39 60 145 50 Q251 60 251 200" fill="none" stroke="#4d4d4d" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- balloon left bottom red -->
+  <ellipse cx="42" cy="188" rx="18" ry="22" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M40 210 L42 200 L44 210 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- balloon left lower orange -->
+  <ellipse cx="38" cy="148" rx="18" ry="22" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M36 170 L38 160 L40 170 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- balloon left mid yellow -->
+  <ellipse cx="52" cy="108" rx="18" ry="22" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M50 130 L52 120 L54 130 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- balloon left upper green -->
+  <ellipse cx="82" cy="74" rx="18" ry="22" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M80 96 L82 86 L84 96 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- balloon top blue -->
+  <ellipse cx="120" cy="56" rx="18" ry="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M118 78 L120 68 L122 78 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- balloon top centre purple -->
+  <ellipse cx="170" cy="56" rx="18" ry="22" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M168 78 L170 68 L172 78 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- balloon right upper pink -->
+  <ellipse cx="208" cy="74" rx="18" ry="22" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M206 96 L208 86 L210 96 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- balloon right mid teal -->
+  <ellipse cx="238" cy="108" rx="18" ry="22" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M236 130 L238 120 L240 130 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- balloon right lower orange -->
+  <ellipse cx="252" cy="148" rx="18" ry="22" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M250 170 L252 160 L254 170 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- balloon right bottom red -->
+  <ellipse cx="248" cy="188" rx="18" ry="22" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M246 210 L248 200 L250 210 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- highlight on top purple -->
+  <ellipse cx="164" cy="48" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- highlight on top blue -->
+  <ellipse cx="114" cy="48" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

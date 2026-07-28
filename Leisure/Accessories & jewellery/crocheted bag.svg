@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Crocheted handbag with open weave and handles -->
+  <!-- Handles (two loops) -->
+  <path d="M 110 70 Q 105 30 145 30 Q 185 30 180 70" fill="none" stroke="#9d7246" stroke-width="17.78" stroke-linecap="round"/>
+  <path d="M 110 70 Q 105 30 145 30 Q 185 30 180 70" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+
+  <!-- Bag body (rounded trapezoid) -->
+  <path d="M 70 75 L 220 75 Q 235 75 232 90 L 220 200 Q 218 215 200 215 L 90 215 Q 72 215 70 200 L 58 90 Q 55 75 70 75 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+
+  <!-- Open weave: diagonal lattice -->
+  <g stroke="#7d5e23" stroke-width="4.45" fill="none" stroke-linecap="round">
+    <line x1="75" y1="90" x2="225" y2="90"/>
+    <line x1="72" y1="110" x2="228" y2="110"/>
+    <line x1="70" y1="130" x2="230" y2="130"/>
+    <line x1="68" y1="150" x2="232" y2="150"/>
+    <line x1="68" y1="170" x2="232" y2="170"/>
+    <line x1="70" y1="190" x2="230" y2="190"/>
+    <line x1="72" y1="205" x2="228" y2="205"/>
+  </g>
+
+  <!-- Vertical weave -->
+  <g stroke="#7d5e23" stroke-width="4.45" fill="none" stroke-linecap="round">
+    <line x1="90" y1="78" x2="92" y2="212"/>
+    <line x1="115" y1="76" x2="118" y2="213"/>
+    <line x1="145" y1="75" x2="145" y2="215"/>
+    <line x1="175" y1="76" x2="172" y2="213"/>
+    <line x1="200" y1="78" x2="198" y2="212"/>
+  </g>
+
+  <!-- Crochet-stitch X marks (open weave dots) -->
+  <g stroke="#1a1a1a" stroke-width="3.20" fill="none">
+    <path d="M 100 100 l 6 6 M 106 100 l -6 6"/>
+    <path d="M 130 100 l 6 6 M 136 100 l -6 6"/>
+    <path d="M 160 100 l 6 6 M 166 100 l -6 6"/>
+    <path d="M 190 100 l 6 6 M 196 100 l -6 6"/>
+    <path d="M 100 140 l 6 6 M 106 140 l -6 6"/>
+    <path d="M 130 140 l 6 6 M 136 140 l -6 6"/>
+    <path d="M 160 140 l 6 6 M 166 140 l -6 6"/>
+    <path d="M 190 140 l 6 6 M 196 140 l -6 6"/>
+    <path d="M 100 180 l 6 6 M 106 180 l -6 6"/>
+    <path d="M 130 180 l 6 6 M 136 180 l -6 6"/>
+    <path d="M 160 180 l 6 6 M 166 180 l -6 6"/>
+    <path d="M 190 180 l 6 6 M 196 180 l -6 6"/>
+  </g>
+
+  <!-- Top rim band -->
+  <path d="M 70 75 L 220 75 Q 235 75 232 90 L 230 92 L 60 92 L 58 90 Q 55 75 70 75 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+
+  <!-- Decorative tassel hanging from bottom -->
+  <line x1="145" y1="215" x2="145" y2="222" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M 138 222 L 152 222 L 150 235 L 140 235 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="142" y1="225" x2="142" y2="234" stroke="#7d5e23" stroke-width="2.67"/>
+  <line x1="145" y1="225" x2="145" y2="234" stroke="#7d5e23" stroke-width="2.67"/>
+  <line x1="148" y1="225" x2="148" y2="234" stroke="#7d5e23" stroke-width="2.67"/>
+</g></svg>

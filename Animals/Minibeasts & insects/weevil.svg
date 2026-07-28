@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- six legs -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M 220 312 L 158 300 L 122 318"/>
+<path d="M 296 312 L 358 300 L 394 318"/>
+<path d="M 220 352 L 156 360 L 120 386"/>
+<path d="M 296 352 L 360 360 L 396 386"/>
+<path d="M 232 388 L 184 412 L 156 436"/>
+<path d="M 284 388 L 332 412 L 360 436"/>
+</g>
+<!-- rounded ridged brown body -->
+<ellipse cx="256" cy="334" rx="86" ry="98" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- elytra ridges -->
+<g stroke="#1a1a1a" stroke-width="5" fill="none">
+<path d="M 256 244 L 256 426"/>
+<path d="M 216 252 Q 206 334 222 416"/>
+<path d="M 296 252 Q 306 334 290 416"/>
+</g>
+<!-- small pronotum -->
+<ellipse cx="256" cy="244" rx="48" ry="34" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- head -->
+<circle cx="256" cy="196" r="30" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- the signature long downward snout/rostrum -->
+<path d="M 256 222 Q 252 270 256 300" fill="none" stroke="#8a5a2b" stroke-width="20" stroke-linecap="round"/>
+<path d="M 256 222 Q 252 270 256 300" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" opacity="0"/>
+<path d="M 246 226 Q 242 266 248 298 M 266 226 Q 270 266 264 298" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- eyes on head -->
+<circle cx="242" cy="190" r="6" fill="#1a1a1a"/>
+<circle cx="270" cy="190" r="6" fill="#1a1a1a"/>
+<!-- elbowed antennae from the snout -->
+<path d="M 250 250 Q 214 232 198 200" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 262 250 Q 298 232 314 200" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</svg>

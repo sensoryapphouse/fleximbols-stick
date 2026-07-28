@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 82.39 376.24 376.24">
+<!-- crusty: bread roll with hard scored crust and soft interior -->
+<ellipse cx="256" cy="270" rx="160" ry="110" fill="#d99a4e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crust slashes -->
+<path d="M 175 215 Q 215 240 195 295" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 256 198 Q 296 240 276 308" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 337 215 Q 297 240 317 295" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- floury highlights -->
+<ellipse cx="210" cy="225" rx="16" ry="9" fill="#f0c884"/>
+<ellipse cx="305" cy="232" rx="16" ry="9" fill="#f0c884"/>
+<!-- darker baked underside -->
+<path d="M 110 290 Q 256 380 402 290 Q 256 350 110 290 Z" fill="#b0742f"/>
+</svg>

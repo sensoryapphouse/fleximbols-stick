@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Massage table -->
+  <rect x="15" y="145" width="260" height="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="15" y="145" width="260" height="12" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="30" y="175" width="10" height="50" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="250" y="175" width="10" height="50" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Person face-down (head turned to side) -->
+  <!-- Head -->
+  <circle cx="50" cy="125" r="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 32 122 Q 40 102 56 105 Q 68 110 68 122 Q 65 115 55 115 Q 42 116 38 130 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="42" cy="128" r="1.5" fill="#000000"/>
+  <path d="M 38 134 Q 42 136 46 134" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Back/body (face-down profile) -->
+  <path d="M 68 130 Q 80 125 100 125 L 230 125 Q 245 128 250 135 Q 250 148 230 148 L 68 148 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Towel draped over lower body -->
+  <path d="M 175 135 Q 190 130 210 130 L 265 130 Q 270 145 265 148 L 175 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="195" y1="132" x2="195" y2="146" stroke="#1a1a1a" stroke-width="1.48"/>
+  <line x1="225" y1="132" x2="225" y2="146" stroke="#1a1a1a" stroke-width="1.48"/>
+
+  <!-- Smooth dark stones placed in row along spine on back -->
+  <ellipse cx="95" cy="130" rx="13" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="93" cy="128" rx="6" ry="3" fill="#7f7f7f" stroke="none"/>
+  <ellipse cx="125" cy="130" rx="14" ry="9" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="123" cy="128" rx="6" ry="3" fill="#7c3fac" stroke="none"/>
+  <ellipse cx="158" cy="130" rx="13" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="156" cy="128" rx="6" ry="3" fill="#7f7f7f" stroke="none"/>
+
+  <!-- Steam/heat waves rising from stones -->
+  <path d="M 95 115 Q 92 108 96 102 Q 100 96 96 90" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 125 115 Q 122 108 126 102 Q 130 96 126 90" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 158 115 Q 155 108 159 102 Q 163 96 159 90" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

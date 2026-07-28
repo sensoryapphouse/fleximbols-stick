@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tall parfait glass with layered yogurt, granola, berries, spoon -->
+  <!-- Glass outline (tall tulip shape) -->
+  <path d="M95 50 L100 215 L190 215 L195 50 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Glass rim highlight -->
+  <ellipse cx="145" cy="50" rx="50" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Bottom layer: yogurt (white) -->
+  <path d="M101 180 L189 180 L190 215 L100 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Layer: granola (golden) -->
+  <path d="M101 155 L189 155 L189 180 L101 180 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Granola crumb texture -->
+  <circle cx="115" cy="167" r="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="135" cy="172" r="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="155" cy="165" r="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="175" cy="172" r="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- Layer: yogurt -->
+  <path d="M101 125 L189 125 L189 155 L101 155 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Layer: berries (red) -->
+  <path d="M101 95 L189 95 L189 125 L101 125 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Berry shapes -->
+  <circle cx="118" cy="108" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="140" cy="115" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="162" cy="108" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="180" cy="116" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Top yogurt swirl peeking above glass rim -->
+  <path d="M105 60 Q120 35 145 45 Q170 35 188 60 Q175 70 145 65 Q120 70 105 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Berry on top -->
+  <circle cx="145" cy="38" r="8" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Spoon handle sticking out -->
+  <line x1="210" y1="25" x2="190" y2="90" stroke="#7f7f7f" stroke-width="8.88" stroke-linecap="round"/>
+  <line x1="210" y1="25" x2="190" y2="90" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Spoon top knob -->
+  <ellipse cx="213" cy="20" rx="8" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

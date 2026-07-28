@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tall bin unit with downward press plate compressing rubbish + heavy arrows down -->
+
+  <!-- Outer cabinet body -->
+  <rect x="70" y="25" width="150" height="190" rx="8" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Top panel / control area -->
+  <rect x="70" y="25" width="150" height="40" rx="8" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottom of top panel (straight) -->
+  <rect x="70" y="45" width="150" height="20" fill="#b8b8b8" stroke="none"/>
+  <line x1="70" y1="65" x2="220" y2="65" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Control button -->
+  <circle cx="145" cy="45" r="12" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Press ram / compactor plate -->
+  <rect x="85" y="78" width="120" height="18" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ram shaft -->
+  <rect x="128" y="65" width="14" height="15" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- Rubbish pile (compressed) below plate -->
+  <!-- Compressed trash mass -->
+  <rect x="85" y="96" width="120" height="30" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Trash details: crumpled items -->
+  <path d="M95 100 Q110 92 120 100 Q130 108 145 100 Q160 92 175 100 Q190 108 200 100" fill="none" stroke="#5e1f0a" stroke-width="2.66" stroke-linecap="round"/>
+
+  <!-- Door of compactor (lower front, hinged) -->
+  <rect x="75" y="130" width="140" height="80" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Door handle -->
+  <rect x="128" y="195" width="34" height="10" rx="5" ry="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- Heavy downward arrows (x3) -->
+  <!-- Arrow 1 -->
+  <line x1="110" y1="138" x2="110" y2="162" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <polygon points="100,160 110,178 120,160" fill="#000000"/>
+  <!-- Arrow 2 -->
+  <line x1="145" y1="138" x2="145" y2="162" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <polygon points="135,160 145,178 155,160" fill="#000000"/>
+  <!-- Arrow 3 -->
+  <line x1="180" y1="138" x2="180" y2="162" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <polygon points="170,160 180,178 190,160" fill="#000000"/>
+</g></svg>

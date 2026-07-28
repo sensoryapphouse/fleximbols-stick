@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(0.9968) translate(-258.00 -231.00)">
+<g transform="translate(235 268) scale(0.9) translate(-256 -256)"><g transform="translate(10.9,-8.0) scale(0.886)"><!-- Baby bathtub object only (no baby) -->
+  <!-- tub body -->
+  <path d="M40 200 Q22 200 18 232 L10 350 Q8 382 38 392 L242 392 Q272 382 268 350 L260 232 Q256 200 238 200 Z" fill="#4499ee" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- rim -->
+  <path d="M40 200 Q140 186 238 200" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+  <rect x="24" y="190" width="232" height="26" rx="11" fill="#55aaff" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- water -->
+  <path d="M30 300 Q140 286 248 300 L242 382 L38 382 Z" fill="#aaddff" stroke="none"/>
+  <path d="M55 325 Q140 318 225 325" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <path d="M60 348 Q140 341 220 348" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <!-- rubber duck floating -->
+  <ellipse cx="150" cy="300" rx="34" ry="23" fill="#ffdd00" stroke="#1a1a1a" stroke-width="5"/>
+  <ellipse cx="150" cy="284" rx="22" ry="18" fill="#ffdd00" stroke="#1a1a1a" stroke-width="5"/>
+  <path d="M170 284 L190 280 Q198 284 187 289 L170 284" fill="#ff8800" stroke="#1a1a1a" stroke-width="4"/>
+  <circle cx="156" cy="279" r="3" fill="#1a1a1a"/>
+  <!-- tub legs -->
+  <rect x="50" y="388" width="22" height="42" rx="6" fill="#3388ee" stroke="#1a1a1a" stroke-width="6"/>
+  <rect x="205" y="388" width="22" height="42" rx="6" fill="#3388ee" stroke="#1a1a1a" stroke-width="6"/></g>
+<line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#33373d"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#33373d"/>
+<line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffcf33" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#5a3a1f" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/></g>
+
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="hts_ag" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#hts_ag)" stroke="#1a1a1a" stroke-width="17.7809" stroke-linejoin="round"/></g></svg>

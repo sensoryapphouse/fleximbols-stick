@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="96.93 34.64 347.15 347.15">
+<!-- crunchy: cracker with a bite taken, crumbs + crunch marks -->
+<g stroke-linecap="round" stroke-linejoin="round">
+<!-- crunch action sparks behind -->
+<path d="M 256 96 l 0 -34" fill="none" stroke="#f0a92b" stroke-width="11"/>
+<path d="M 150 130 l -26 -22" fill="none" stroke="#f0a92b" stroke-width="11"/>
+<path d="M 362 130 l 26 -22" fill="none" stroke="#f0a92b" stroke-width="11"/>
+<!-- cracker body with a clean rounded bite removed (top-right) -->
+<path d="M 156 158 L 312 158 A 46 46 0 0 0 360 206 L 360 354 L 156 354 Z" fill="#e6b765" stroke="#1a1a1a" stroke-width="9"/>
+<!-- docking holes -->
+<circle cx="208" cy="210" r="8" fill="#1a1a1a"/>
+<circle cx="256" cy="210" r="8" fill="#1a1a1a"/>
+<circle cx="208" cy="262" r="8" fill="#1a1a1a"/>
+<circle cx="256" cy="262" r="8" fill="#1a1a1a"/>
+<circle cx="304" cy="262" r="8" fill="#1a1a1a"/>
+<circle cx="208" cy="314" r="8" fill="#1a1a1a"/>
+<circle cx="256" cy="314" r="8" fill="#1a1a1a"/>
+<circle cx="304" cy="314" r="8" fill="#1a1a1a"/>
+<!-- crumbs falling -->
+<path d="M 386 250 l 16 8 l -6 16 l -16 -6 Z" fill="#e6b765" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 372 320 l 14 10 l -8 14 l -14 -8 Z" fill="#e6b765" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 408 320 l 12 6 l -4 12 l -12 -4 Z" fill="#e6b765" stroke="#1a1a1a" stroke-width="6"/>
+</g>
+</svg>

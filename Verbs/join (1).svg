@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(0.8281)">
+  <!-- left puzzle piece -->
+  <path d="M 46,154 L 216,154 L 216,214 C 238,202 256,220 256,244 C 256,268 238,286 216,274 L 216,340 L 46,340 Z" fill="#4488dd" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round"/>
+  <!-- right puzzle piece (matching notch) -->
+  <path d="M 466,154 L 296,154 L 296,214 C 274,202 256,220 256,244 C 256,268 274,286 296,274 L 296,340 L 466,340 Z" fill="#ff8844" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round"/>
+  <!-- arrows showing pieces coming together -->
+  <line x1="146" y1="418" x2="186" y2="366" stroke="#22aa22" stroke-width="15.70" stroke-linecap="round"/>
+  <line x1="366" y1="418" x2="326" y2="366" stroke="#22aa22" stroke-width="15.70" stroke-linecap="round"/>
+  <polygon points="256,346 232,376 280,376" fill="#22aa22" stroke="#1a1a1a" stroke-width="4.71" stroke-linejoin="round"/>
+</g></svg>

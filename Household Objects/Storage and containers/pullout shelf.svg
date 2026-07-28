@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cabinet carcass -->
+  <rect x="20" y="25" width="170" height="200" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- inner dark cavity -->
+  <rect x="32" y="37" width="146" height="176" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- fixed shelf inside (upper) -->
+  <rect x="32" y="80" width="146" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- open door (hinged at left) showing inside -->
+  <path d="M20 25 L10 35 L10 235 L20 225 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- extended pullout shelf platform -->
+  <rect x="100" y="140" width="170" height="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- shelf depth (side face) -->
+  <path d="M100 140 L100 155 L270 155 L270 150 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- slide rails under shelf -->
+  <rect x="100" y="155" width="170" height="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- items on shelf -->
+  <!-- jar -->
+  <rect x="115" y="115" width="22" height="25" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="113" y="110" width="26" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- can -->
+  <rect x="150" y="118" width="22" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="150" y1="125" x2="172" y2="125" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- box -->
+  <rect x="185" y="108" width="30" height="32" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bottle -->
+  <path d="M230 140 L230 122 L228 118 L228 110 L240 110 L240 118 L238 122 L238 140 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- arrow showing pullout direction -->
+  <path d="M210 200 L260 200" stroke="#d01424" stroke-width="7.40" stroke-linecap="round" fill="none"/>
+  <path d="M252 192 L264 200 L252 208 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

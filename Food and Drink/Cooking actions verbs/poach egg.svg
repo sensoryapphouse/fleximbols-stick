@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Steam -->
+  <path d="M100 60 Q94 48 100 36 Q106 24 100 12" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M190 60 Q184 48 190 36 Q196 24 190 12" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pot body -->
+  <path d="M40 90 Q40 200 60 215 L230 215 Q250 200 250 90 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pot rim -->
+  <ellipse cx="145" cy="90" rx="105" ry="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Water inside -->
+  <ellipse cx="145" cy="90" rx="98" ry="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Handles -->
+  <rect x="8" y="104" width="36" height="14" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="246" y="104" width="36" height="14" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Vinegar swirl (curving spiral on water) -->
+  <path d="M85 90 Q100 80 120 85 Q140 92 160 86 Q180 80 200 88 Q215 94 210 90" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 96 Q115 102 140 96 Q165 90 195 96" fill="none" stroke="#90a7d6" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Poached egg in pot (white blob with yolk) -->
+  <path d="M115 100 Q108 92 118 80 Q130 72 148 76 Q166 72 178 82 Q186 92 178 102 Q186 112 175 118 Q160 124 145 120 Q128 124 115 116 Q108 108 115 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Yolk -->
+  <circle cx="146" cy="98" r="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="142" cy="94" r="4" fill="#fff200" stroke="none"/>
+  <!-- Slotted spoon entering from right -->
+  <ellipse cx="220" cy="100" rx="22" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="214" cy="100" r="2.5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="222" cy="96" r="2.5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="222" cy="104" r="2.5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="228" cy="100" r="2.5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Spoon handle -->
+  <rect x="238" y="80" width="44" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 260 84)"/>
+  <!-- Low flame at bottom -->
+  <path d="M125 232 Q118 222 125 212 Q128 218 132 212 Q134 206 140 200 Q142 210 138 216 Q146 210 144 202 Q150 212 146 222 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M155 232 Q148 222 155 212 Q158 218 162 212 Q164 206 170 200 Q172 210 168 216 Q176 210 174 202 Q180 212 176 222 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

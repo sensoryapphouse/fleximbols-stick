@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Chilli pepper body -->
+  <path d="M 80,80 Q 60,70 55,90 Q 50,110 70,118 Q 90,125 115,138 Q 140,152 148,172 Q 155,192 145,210 Q 162,198 168,175 Q 174,152 162,132 Q 148,110 130,95 Q 112,82 80,80 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Chilli tip -->
+  <path d="M 145,210 Q 148,222 152,220 Q 148,210 148,205 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Chilli stem -->
+  <path d="M 78,79 Q 85,55 90,48 Q 88,62 95,68 Q 88,64 82,80 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Chilli highlight -->
+  <path d="M 90,95 Q 85,115 95,130" fill="none" stroke="#ffffff" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Flame above chilli -->
+  <path d="M 115,70 Q 108,52 118,38 Q 115,50 122,48 Q 118,58 128,52 Q 122,62 132,58 Q 126,70 135,68 Q 128,76 130,85 Q 120,82 115,70 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 120,74 Q 116,62 122,52 Q 120,62 126,60 Q 122,70 128,68 Q 124,76 120,74 Z" fill="#f7de58" stroke="none"/>
+  <!-- Sweating face -->
+  <circle cx="220" cy="100" r="38" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Eyes (wide/stressed) -->
+  <ellipse cx="208" cy="90" rx="5" ry="6" fill="#000000"/>
+  <ellipse cx="232" cy="90" rx="5" ry="6" fill="#000000"/>
+  <!-- Open distressed mouth -->
+  <path d="M 207,110 Q 220,122 233,110" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 207,110 Q 220,108 233,110" fill="#ffffff" stroke="none"/>
+  <!-- Sweat drops -->
+  <path d="M 200,82 Q 196,76 200,72 Q 204,76 200,82 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 244,88 Q 240,82 244,78 Q 248,82 244,88 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 220,60 Q 216,54 220,50 Q 224,54 220,60 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Red flushed cheeks -->
+  <ellipse cx="205" cy="105" rx="8" ry="5" fill="#f8130d" stroke="none"/>
+  <ellipse cx="235" cy="105" rx="8" ry="5" fill="#f8130d" stroke="none"/>
+</g></svg>

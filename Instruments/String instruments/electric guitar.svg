@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="rotate(28 256 256)">
+<!-- neck -->
+<rect x="244" y="70" width="24" height="190" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- frets -->
+<line x1="244" y1="110" x2="268" y2="110" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="244" y1="140" x2="268" y2="140" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="244" y1="170" x2="268" y2="170" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="244" y1="200" x2="268" y2="200" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="244" y1="230" x2="268" y2="230" stroke="#1a1a1a" stroke-width="6"/>
+<!-- headstock -->
+<rect x="236" y="44" width="40" height="42" rx="8" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="230" cy="56" r="6" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="230" cy="74" r="6" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="282" cy="56" r="6" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="282" cy="74" r="6" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<!-- body -->
+<path d="M 256 250
+ C 224 248 214 270 214 300
+ C 198 296 187 312 187 344
+ C 187 384 214 410 238 406
+ C 251 404 253 392 256 392
+ C 259 392 261 404 274 406
+ C 298 410 325 384 325 344
+ C 325 312 314 296 298 300
+ C 298 270 288 248 256 250 Z"
+ fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pickups -->
+<rect x="238" y="296" width="36" height="16" rx="3" fill="#1a1a1a"/>
+<rect x="238" y="324" width="36" height="16" rx="3" fill="#1a1a1a"/>
+<!-- bridge -->
+<rect x="240" y="356" width="32" height="14" rx="3" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="5"/>
+<!-- strings -->
+<line x1="250" y1="86" x2="248" y2="356" stroke="#cfd6dc" stroke-width="3"/>
+<line x1="262" y1="86" x2="264" y2="356" stroke="#cfd6dc" stroke-width="3"/>
+</g></svg>

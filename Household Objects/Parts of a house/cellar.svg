@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- ground / house above dimmed -->
+<rect x="110" y="120" width="292" height="80" rx="0" fill="#e9e2d2" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="226" y="130" width="60" height="70" rx="0" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="110" y1="200" x2="402" y2="200" stroke="#6b4a2b" stroke-width="9" stroke-linecap="round"/>
+<!-- underground cellar room (highlighted, stone walls) -->
+<rect x="110" y="200" width="292" height="212" rx="0" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- stone courses -->
+<line x1="110" y1="262" x2="402" y2="262" stroke="#6b6e72" stroke-width="5"/>
+<line x1="110" y1="324" x2="402" y2="324" stroke="#6b6e72" stroke-width="5"/>
+<line x1="200" y1="200" x2="200" y2="262" stroke="#6b6e72" stroke-width="5"/>
+<line x1="300" y1="262" x2="300" y2="324" stroke="#6b6e72" stroke-width="5"/>
+<!-- wine bottles / barrel storage -->
+<rect x="150" y="332" width="40" height="64" rx="8" fill="#5aa83c" stroke="#1a1a1a" stroke-width="7"/>
+<ellipse cx="300" cy="368" rx="48" ry="34" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="300" y1="334" x2="300" y2="402" stroke="#6b4a2b" stroke-width="6"/>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.9466) translate(-254.00 -303.00)">
+<!-- ===== Egyptian reed boat on the Nile ===== -->
+<!-- water band -->
+<rect x="20" y="372" width="472" height="118" rx="0" fill="#3a9ad0"/>
+<path d="M 30 396 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0" fill="none" stroke="#2576a8" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 30 428 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0" fill="none" stroke="#2576a8" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 30 460 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0" fill="none" stroke="#2576a8" stroke-width="5" stroke-linejoin="round"/>
+
+<!-- shoreline papyrus reeds at the LEFT, to specify the Nile -->
+<g stroke="#3f8f6b" stroke-width="6" stroke-linecap="round" fill="none">
+<path d="M 36 380 Q 32 330 40 300"/>
+<path d="M 52 380 Q 50 336 60 308"/>
+<path d="M 22 380 Q 20 344 26 318"/>
+</g>
+<!-- papyrus umbel tufts on the shore reeds -->
+<g stroke="#3f8f6b" stroke-width="4" stroke-linecap="round">
+<line x1="40" y1="300" x2="30" y2="284"/><line x1="40" y1="300" x2="40" y2="280"/><line x1="40" y1="300" x2="50" y2="284"/>
+<line x1="60" y1="308" x2="52" y2="292"/><line x1="60" y1="308" x2="60" y2="288"/><line x1="60" y1="308" x2="70" y2="294"/>
+<line x1="26" y1="318" x2="18" y2="304"/><line x1="26" y1="318" x2="26" y2="300"/><line x1="26" y1="318" x2="34" y2="304"/>
+</g>
+<!-- a blue lotus flower floating near the shore -->
+<g stroke="#2f5fb0" stroke-width="3" fill="#7fb6e6">
+<path d="M 78 392 Q 70 372 78 366 Q 86 372 78 392 Z"/>
+<path d="M 78 392 Q 62 380 64 370 Q 78 374 78 392 Z"/>
+<path d="M 78 392 Q 94 380 92 370 Q 78 374 78 392 Z"/>
+</g>
+
+<!-- ===== reed hull: a low crescent that sweeps up into very high papyrus-bundle ends ===== -->
+<path d="M 96 388
+         Q 80 350 128 344 L 384 344 Q 432 350 416 388
+         Q 256 420 96 388 Z" fill="#caa45a" stroke="#8a6a2e" stroke-width="5" stroke-linejoin="round"/>
+<!-- horizontal reed-bundle binding lines along the hull -->
+<path d="M 110 366 Q 256 392 402 366" fill="none" stroke="#8a6a2e" stroke-width="3"/>
+<path d="M 120 352 Q 256 374 392 352" fill="none" stroke="#8a6a2e" stroke-width="3"/>
+<!-- vertical lashings -->
+<g stroke="#8a6a2e" stroke-width="3" stroke-linecap="round">
+<line x1="150" y1="348" x2="150" y2="384"/>
+<line x1="200" y1="348" x2="200" y2="392"/>
+<line x1="256" y1="348" x2="256" y2="396"/>
+<line x1="312" y1="348" x2="312" y2="392"/>
+<line x1="362" y1="348" x2="362" y2="384"/>
+</g>
+
+<!-- HIGH upturned papyrus-bundle PROW (left): thick reed bundle curling inward with an umbel tip -->
+<path d="M 96 388 Q 60 340 72 250 Q 78 226 96 210" fill="none" stroke="#caa45a" stroke-width="16" stroke-linecap="round"/>
+<path d="M 96 388 Q 64 342 76 252" fill="none" stroke="#8a6a2e" stroke-width="3" stroke-linecap="round"/>
+<!-- prow umbel (spray of fronds curling back) -->
+<g stroke="#3f8f6b" stroke-width="5" stroke-linecap="round" fill="none">
+<path d="M 96 210 Q 84 192 70 188"/>
+<path d="M 96 210 Q 92 188 86 174"/>
+<path d="M 96 210 Q 104 190 116 182"/>
+<path d="M 96 210 Q 110 196 124 196"/>
+</g>
+
+<!-- HIGH upturned papyrus-bundle STERN (right): thick reed bundle curling inward with an umbel tip -->
+<path d="M 416 388 Q 452 340 440 250 Q 434 226 416 210" fill="none" stroke="#caa45a" stroke-width="16" stroke-linecap="round"/>
+<path d="M 416 388 Q 448 342 436 252" fill="none" stroke="#8a6a2e" stroke-width="3" stroke-linecap="round"/>
+<g stroke="#3f8f6b" stroke-width="5" stroke-linecap="round" fill="none">
+<path d="M 416 210 Q 428 192 442 188"/>
+<path d="M 416 210 Q 420 188 426 174"/>
+<path d="M 416 210 Q 408 190 396 182"/>
+<path d="M 416 210 Q 402 196 388 196"/>
+</g>
+
+<!-- ===== bipod (A-frame) mast carrying a tall narrow square sail ===== -->
+<line x1="232" y1="348" x2="256" y2="120" stroke="#6f4a20" stroke-width="7" stroke-linecap="round"/>
+<line x1="280" y1="348" x2="256" y2="120" stroke="#6f4a20" stroke-width="7" stroke-linecap="round"/>
+<!-- tall narrow square sail on a yard + boom -->
+<rect x="206" y="132" width="100" height="170" rx="3" fill="#f3ead4" stroke="#d9caa0" stroke-width="4"/>
+<line x1="198" y1="132" x2="314" y2="132" stroke="#6f4a20" stroke-width="6" stroke-linecap="round"/>
+<line x1="198" y1="302" x2="314" y2="302" stroke="#6f4a20" stroke-width="6" stroke-linecap="round"/>
+<!-- vertical sail seams -->
+<line x1="232" y1="136" x2="232" y2="298" stroke="#d9caa0" stroke-width="3"/>
+<line x1="256" y1="136" x2="256" y2="298" stroke="#d9caa0" stroke-width="3"/>
+<line x1="280" y1="136" x2="280" y2="298" stroke="#d9caa0" stroke-width="3"/>
+
+<!-- large steering OAR at the stern -->
+<line x1="372" y1="356" x2="430" y2="430" stroke="#6f4a20" stroke-width="7" stroke-linecap="round"/>
+<path d="M 430 430 Q 446 440 442 458 Q 424 456 418 440 Z" fill="#caa45a" stroke="#8a6a2e" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Speech bubble: rounded cloud shape (more circular/puffy), tail pointing down-right, speech lines inside -->
+  <!-- Cloud-like puffy body built from arcs -->
+  <path d="M 60,52 Q 58,28 88,24 Q 104,12 128,20 Q 144,10 166,18 Q 188,10 208,24 Q 234,22 240,48 Q 260,56 256,82 Q 268,100 254,118 Q 260,138 244,152 Q 240,170 220,172 L 198,172 L 238,212 L 182,172 L 76,172 Q 52,170 46,150 Q 28,138 32,116 Q 20,96 36,76 Q 32,54 60,52 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Speech lines representing words being spoken -->
+  <!-- Line 1 -->
+  <path d="M 70,80 L 218,80" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Line 2 -->
+  <path d="M 70,108 L 218,108" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Line 3 shorter (end of speech) -->
+  <path d="M 70,136 L 168,136" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+</g></svg>

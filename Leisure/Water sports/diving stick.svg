@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- water surface at top -->
+  <path d="M 10 30 Q 40 23 70 30 T 130 30 T 190 30 T 250 30 T 290 30" fill="none" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M 10 45 Q 40 38 70 45 T 130 45 T 190 45 T 250 45 T 290 45" fill="none" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- pool floor -->
+  <rect x="0" y="200" width="290" height="40" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="40" y1="200" x2="40" y2="240" stroke="#2a4ec0" stroke-width="4.45"/>
+  <line x1="100" y1="200" x2="100" y2="240" stroke="#2a4ec0" stroke-width="4.45"/>
+  <line x1="160" y1="200" x2="160" y2="240" stroke="#2a4ec0" stroke-width="4.45"/>
+  <line x1="220" y1="200" x2="220" y2="240" stroke="#2a4ec0" stroke-width="4.45"/>
+  <line x1="0" y1="220" x2="290" y2="220" stroke="#2a4ec0" stroke-width="4.45"/>
+  <!-- bubbles -->
+  <circle cx="100" cy="90" r="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="110" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="140" r="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="155" r="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- diving stick body (vertical, weighted bottom) -->
+  <rect x="130" y="70" width="30" height="125" fill="#f8130d" stroke="#1a1a1a" stroke-width="11.86" rx="4"/>
+  <!-- coloured stripes -->
+  <rect x="130" y="95" width="30" height="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="130" y="125" width="30" height="14" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="130" y="155" width="30" height="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- grip handle (ridges at top) -->
+  <rect x="125" y="58" width="40" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" rx="3"/>
+  <line x1="132" y1="62" x2="158" y2="62" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="67" x2="158" y2="67" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="72" x2="158" y2="72" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- weighted base -->
+  <ellipse cx="145" cy="195" rx="28" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- shadow on floor -->
+  <ellipse cx="145" cy="210" rx="35" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

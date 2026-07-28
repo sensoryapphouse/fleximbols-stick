@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="20" y="185" width="250" height="35" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Main rubbish mound -->
+  <ellipse cx="145" cy="175" rx="115" ry="55" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mound highlight layer -->
+  <ellipse cx="145" cy="165" rx="100" ry="45" fill="#b8b8b8" stroke="none"/>
+  <!-- Rubbish bag 1 (dark, left) -->
+  <ellipse cx="90" cy="168" rx="22" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <line x1="90" y1="150" x2="90" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rubbish bag 2 (dark, centre) -->
+  <ellipse cx="145" cy="155" rx="24" ry="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <line x1="145" y1="135" x2="145" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rubbish bag 3 (right) -->
+  <ellipse cx="200" cy="163" rx="21" ry="17" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <line x1="200" y1="146" x2="200" y2="141" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tin can sticking out -->
+  <rect x="115" y="148" width="14" height="20" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cardboard box piece -->
+  <rect x="162" y="150" width="18" height="14" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Gull 1 -->
+  <path d="M60 115 Q68 108 76 115" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M58 114 Q60 110 62 112" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Gull 2 -->
+  <path d="M210 100 Q220 92 230 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M208 99 Q210 95 212 97" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Gull 3 -->
+  <path d="M155 88 Q164 80 173 88" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small bulldozer body -->
+  <rect x="30" y="163" width="52" height="26" rx="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bulldozer cab -->
+  <rect x="52" y="150" width="26" height="17" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Cab window -->
+  <rect x="56" y="154" width="14" height="9" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Bulldozer blade -->
+  <rect x="22" y="162" width="14" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bulldozer tracks -->
+  <rect x="30" y="186" width="52" height="10" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Track wheels -->
+  <circle cx="40" cy="191" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="56" cy="191" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="72" cy="191" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

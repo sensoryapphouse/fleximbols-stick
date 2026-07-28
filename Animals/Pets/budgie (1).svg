@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Branch -->
+  <path d="M 40,198 Q 145,190 248,198" fill="none" stroke="#7d5e23" stroke-width="11.85" stroke-linecap="round"/>
+  <!-- Long tail — key budgie feature, slimmer than lovebird -->
+  <path d="M 128,195 Q 132,215 136,232 Q 145,238 154,232 Q 158,215 162,195" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tail centre stripe -->
+  <line x1="145" y1="200" x2="145" y2="232" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Body — slim, elongated -->
+  <path d="M 112,148 Q 110,168 114,188 Q 124,200 145,202 Q 166,200 176,188 Q 180,168 178,148 Q 165,132 145,130 Q 125,132 112,148 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Barred back markings — key budgie feature -->
+  <path d="M 118,148 Q 145,140 172,148" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 115,158 Q 145,150 175,158" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 113,168 Q 145,160 177,168" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 113,178 Q 145,170 177,178" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Wing panel green -->
+  <path d="M 114,152 Q 108,170 112,190 Q 120,198 128,192 Q 118,175 120,155 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 176,152 Q 182,170 178,190 Q 170,198 162,192 Q 172,175 170,155 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Head small, round -->
+  <ellipse cx="145" cy="110" rx="30" ry="28" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Blue/green cheek patch -->
+  <ellipse cx="126" cy="120" rx="11" ry="9" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="164" cy="120" rx="11" ry="9" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cheek spots (3 per side) -->
+  <circle cx="120" cy="120" r="3" fill="#000000"/>
+  <circle cx="127" cy="124" r="3" fill="#000000"/>
+  <circle cx="134" cy="120" r="3" fill="#000000"/>
+  <circle cx="156" cy="120" r="3" fill="#000000"/>
+  <circle cx="163" cy="124" r="3" fill="#000000"/>
+  <circle cx="170" cy="120" r="3" fill="#000000"/>
+  <!-- Eyes -->
+  <circle cx="134" cy="106" r="6" fill="#000000"/>
+  <circle cx="136" cy="104" r="2" fill="#ffffff"/>
+  <circle cx="156" cy="106" r="6" fill="#000000"/>
+  <circle cx="158" cy="104" r="2" fill="#ffffff"/>
+  <!-- Cere (blue) above beak -->
+  <ellipse cx="145" cy="116" rx="9" ry="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Small hooked beak -->
+  <path d="M 138,122 Q 145,119 152,122 Q 154,128 150,132 Q 145,135 140,132 Q 136,128 138,122 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Feet -->
+  <line x1="133" y1="198" x2="130" y2="208" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="157" y1="198" x2="160" y2="208" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 120,208 L 115,214 M 124,209 L 122,216 M 128,209 L 128,216 M 132,208 L 134,215" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 150,208 L 145,214 M 154,209 L 152,216 M 158,209 L 158,216 M 162,208 L 164,215" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

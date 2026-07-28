@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- playroom: room with toy box, ball, blocks -->
+  <!-- room walls -->
+  <rect x="26" y="28" width="238" height="176" rx="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- floor -->
+  <rect x="26" y="162" width="238" height="42" rx="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- toy box body -->
+  <rect x="44" y="138" width="88" height="46" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- toy box lid (open) -->
+  <path d="M44,138 Q88,108 132,138" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- toy box lock clasp -->
+  <rect x="80" y="148" width="16" height="12" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- toys spilling from box: star -->
+  <polygon points="88,124 91,133 100,133 93,138 96,148 88,142 80,148 83,138 76,133 85,133" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- ball -->
+  <circle cx="180" cy="172" r="24" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M162,158 Q180,168 198,158" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M158,175 Q180,185 202,175" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="180" y1="148" x2="180" y2="196" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- blocks (stack of 2) -->
+  <!-- block bottom -->
+  <rect x="148" y="140" width="32" height="32" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- block top -->
+  <rect x="154" y="110" width="32" height="32" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- dots on blocks -->
+  <circle cx="164" cy="156" r="4" fill="#ffffff" stroke="none"/>
+  <circle cx="172" cy="156" r="4" fill="#ffffff" stroke="none"/>
+  <circle cx="170" cy="126" r="4" fill="#f8130d" stroke="none"/>
+  <!-- small block to side -->
+  <rect x="214" y="150" width="26" height="26" rx="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- window on wall for ambience -->
+  <rect x="186" y="50" width="54" height="44" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="213" y1="50" x2="213" y2="94" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="186" y1="72" x2="240" y2="72" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Smoker box body -->
+  <rect x="40" y="120" width="180" height="100" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Rounded smoker lid -->
+  <path d="M40 125 Q40 92 130 92 Q220 92 220 125 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Lid seam -->
+  <rect x="40" y="118" width="180" height="10" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Door window (showing meat inside) -->
+  <rect x="58" y="138" width="144" height="60" rx="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Meat slabs inside -->
+  <rect x="66" y="148" width="128" height="18" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="100" cy="157" rx="14" ry="4" fill="#7d5e23" stroke="none"/>
+  <ellipse cx="160" cy="158" rx="14" ry="4" fill="#7d5e23" stroke="none"/>
+  <rect x="66" y="172" width="128" height="18" rx="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="110" cy="181" rx="14" ry="4" fill="#5e1f0a" stroke="none"/>
+  <!-- Door handle -->
+  <rect x="208" y="158" width="10" height="22" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Temperature gauge -->
+  <circle cx="74" cy="210" r="9" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="74" y1="210" x2="79" y2="206" stroke="#f8130d" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Wood chips at the base / spilled in front -->
+  <rect x="30" y="218" width="232" height="14" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="50" cy="226" rx="6" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="78" cy="228" rx="7" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="118" cy="226" rx="6" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="160" cy="228" rx="7" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="206" cy="226" rx="6" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="242" cy="228" rx="6" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Chimney -->
+  <rect x="148" y="64" width="22" height="32" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="142" y="58" width="34" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Thick smoke clouds rising -->
+  <circle cx="160" cy="50" r="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="40" r="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="178" cy="36" r="17" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="126" cy="22" r="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="156" cy="18" r="16" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="20" r="15" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="112" cy="34" r="11" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="40" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="22" r="11" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="98" cy="20" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

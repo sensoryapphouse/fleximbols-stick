@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="42.67 42.67 426.67 426.67">
+<!-- spectacles / glasses: two round lenses, bridge and temple arms -->
+<circle cx="172" cy="256" r="74" fill="#cfe8ff" stroke="#1a1a1a" stroke-width="11"/>
+<circle cx="340" cy="256" r="74" fill="#cfe8ff" stroke="#1a1a1a" stroke-width="11"/>
+<!-- bridge -->
+<path d="M 244 244 Q 256 226 268 244" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- left temple arm -->
+<path d="M 100 240 Q 76 232 74 210" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- right temple arm -->
+<path d="M 412 240 Q 436 232 438 210" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- lens shine -->
+<path d="M 150 224 Q 134 240 138 266" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+<path d="M 318 224 Q 302 240 306 266" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+</svg>

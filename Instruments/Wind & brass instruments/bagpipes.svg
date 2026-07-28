@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- three drone pipes rising up -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round">
+<rect x="196" y="100" width="22" height="150" rx="6" fill="#6b4a2b"/>
+<rect x="240" y="84" width="22" height="166" rx="6" fill="#6b4a2b"/>
+<rect x="284" y="108" width="22" height="142" rx="6" fill="#6b4a2b"/>
+</g>
+<!-- ivory rings + bell tops on drones -->
+<g fill="#f0e6cf" stroke="#1a1a1a" stroke-width="6">
+<ellipse cx="207" cy="100" rx="20" ry="13"/>
+<ellipse cx="251" cy="84" rx="20" ry="13"/>
+<ellipse cx="295" cy="108" rx="20" ry="13"/>
+</g>
+<g fill="#c89a5b" stroke="#1a1a1a" stroke-width="5">
+<rect x="194" y="156" width="26" height="14" rx="3"/>
+<rect x="238" y="140" width="26" height="14" rx="3"/>
+<rect x="282" y="164" width="26" height="14" rx="3"/>
+</g>
+<!-- tartan bag -->
+<path d="M 250 244 Q 150 244 130 330 Q 118 408 210 422 Q 290 432 322 376 Q 350 320 318 276 Q 296 246 250 244 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tartan plaid lines (clipped feel via short strokes) -->
+<g stroke="#2e7d40" stroke-width="8" stroke-linecap="round">
+<line x1="170" y1="270" x2="160" y2="410"/>
+<line x1="230" y1="250" x2="226" y2="424"/>
+<line x1="290" y1="262" x2="300" y2="392"/>
+</g>
+<g stroke="#2e5fa8" stroke-width="7" stroke-linecap="round">
+<line x1="138" y1="312" x2="332" y2="296"/>
+<line x1="130" y1="364" x2="320" y2="372"/>
+</g>
+<!-- bag outline redrawn on top so plaid stays inside -->
+<path d="M 250 244 Q 150 244 130 330 Q 118 408 210 422 Q 290 432 322 376 Q 350 320 318 276 Q 296 246 250 244 Z" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- blowpipe to upper left, plugged into the bag -->
+<rect x="170" y="137" width="20" height="158" rx="6" transform="rotate(-23.2 180 295)" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<ellipse cx="117.9" cy="149.7" rx="16" ry="12" transform="rotate(-23.2 117.9 149.7)" fill="#f0e6cf" stroke="#1a1a1a" stroke-width="6"/>
+<!-- chanter hanging below -->
+<path d="M 230 414 L 246 414 L 252 470 Q 238 482 224 470 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<g fill="#1a1a1a">
+<circle cx="237" cy="432" r="4"/>
+<circle cx="237" cy="448" r="4"/>
+<circle cx="237" cy="462" r="4"/>
+</g>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Almanac thick book -->
+  <rect x="50" y="40" width="140" height="170" rx="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="58" y="48" width="124" height="154" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Title band -->
+  <rect x="62" y="55" width="116" height="22" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Calendar grid on cover -->
+  <rect x="68" y="88" width="50" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M68 100 L118 100 M68 112 L118 112 M68 124 L118 124 M68 136 L118 136" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
+  <path d="M80 88 L80 143 M93 88 L93 143 M105 88 L105 143" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
+  <rect x="68" y="88" width="50" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Weather icons cluster -->
+  <!-- Sun -->
+  <circle cx="145" cy="100" r="12" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M145 82 L145 76 M145 124 L145 118 M127 100 L121 100 M169 100 L163 100 M132 87 L128 83 M158 113 L162 117 M158 87 L162 83 M132 113 L128 117" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cloud -->
+  <path d="M135 135 Q132 128 140 126 Q142 120 150 122 Q158 119 162 127 Q172 128 168 138 Q160 142 135 140 Q130 138 135 135 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Raindrops -->
+  <path d="M140 148 L138 155 L142 155 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M152 148 L150 155 L154 155 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M164 148 L162 155 L166 155 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Crops / harvest sheaf bottom -->
+  <path d="M75 195 L100 165 L125 195 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M100 170 L100 195 M90 180 L110 180 M85 187 L115 187" stroke="#7d5e23" stroke-width="4.00"/>
+  <!-- Star/almanac mark -->
+  <path d="M155 175 L160 187 L173 188 L163 196 L166 209 L155 202 L144 209 L147 196 L137 188 L150 187 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bookmark ribbon -->
+  <path d="M210 40 L235 40 L235 100 L222 90 L210 100 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

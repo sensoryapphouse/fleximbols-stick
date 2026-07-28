@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Notebook back cover -->
+  <rect x="90" y="35" width="150" height="185" rx="5" ry="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Notebook front cover -->
+  <rect x="100" y="40" width="140" height="175" rx="5" ry="5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Ruled lines on front cover -->
+  <line x1="115" y1="80" x2="225" y2="80" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="115" y1="95" x2="225" y2="95" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="115" y1="110" x2="225" y2="110" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="115" y1="125" x2="225" y2="125" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="115" y1="140" x2="225" y2="140" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="115" y1="155" x2="225" y2="155" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="115" y1="170" x2="225" y2="170" stroke="#9d7246" stroke-width="4.45"/>
+  <!-- Solid flat glue/heat-bonded spine band (NO wire, NO comb) -->
+  <rect x="88" y="40" width="20" height="175" rx="0" ry="0" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Spine band is plain/flat - single solid strip -->
+  <!-- No teeth, no coil, just a uniform glued band -->
+  <!-- Heat symbol near top of spine: small wavy lines -->
+  <path d="M50 50 Q55 42 60 50 Q65 58 70 50" fill="none" stroke="#f8130d" stroke-width="7.78" stroke-linecap="round"/>
+  <path d="M50 63 Q55 55 60 63 Q65 71 70 63" fill="none" stroke="#f8130d" stroke-width="7.78" stroke-linecap="round"/>
+  <path d="M50 76 Q55 68 60 76 Q65 84 70 76" fill="none" stroke="#f8130d" stroke-width="7.78" stroke-linecap="round"/>
+  <!-- Arrow pointing heat symbol toward spine -->
+  <polygon points="73,63 82,63 78,58 78,68" fill="#f8130d"/>
+  <!-- No punched holes visible - thermal binding has a clean spine -->
+  <!-- Inner glue indicator: thin horizontal lines on spine band -->
+  <line x1="88" y1="75" x2="108" y2="75" stroke="#9d7246" stroke-width="3.33" stroke-dasharray="3,3"/>
+  <line x1="88" y1="100" x2="108" y2="100" stroke="#9d7246" stroke-width="3.33" stroke-dasharray="3,3"/>
+  <line x1="88" y1="125" x2="108" y2="125" stroke="#9d7246" stroke-width="3.33" stroke-dasharray="3,3"/>
+  <line x1="88" y1="150" x2="108" y2="150" stroke="#9d7246" stroke-width="3.33" stroke-dasharray="3,3"/>
+  <line x1="88" y1="175" x2="108" y2="175" stroke="#9d7246" stroke-width="3.33" stroke-dasharray="3,3"/>
+</g></svg>

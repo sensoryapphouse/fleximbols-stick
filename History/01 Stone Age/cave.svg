@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0194) translate(-256.00 -300.00)">
+<!-- craggy rock cliff mass: irregular lumpy top edge, flat base -->
+<path d="M 44 440
+         L 44 300
+         L 78 250 L 70 214 L 116 186 L 150 210
+         L 188 150 L 228 188 L 262 156
+         L 300 196 L 340 162 L 372 206
+         L 420 196 L 442 250 L 470 290
+         L 470 440 Z"
+      fill="#8d99a6" stroke="#5c6773" stroke-width="9" stroke-linejoin="round"/>
+<!-- darker shaded rock facets for craggy depth -->
+<path d="M 116 186 L 150 210 L 130 270 L 84 256 L 78 250 L 70 214 Z" fill="#7a8794" stroke="none"/>
+<path d="M 300 196 L 340 162 L 372 206 L 356 268 L 312 256 Z" fill="#7a8794" stroke="none"/>
+<path d="M 420 196 L 442 250 L 470 290 L 470 360 L 430 320 Z" fill="#7a8794" stroke="none"/>
+<!-- internal rock striations / cracks -->
+<path d="M 96 300 L 150 330" stroke="#5c6773" stroke-width="5" stroke-linecap="round" fill="none"/>
+<path d="M 360 300 L 420 280" stroke="#5c6773" stroke-width="5" stroke-linecap="round" fill="none"/>
+<path d="M 392 350 L 440 372" stroke="#5c6773" stroke-width="5" stroke-linecap="round" fill="none"/>
+<path d="M 84 372 L 130 360" stroke="#5c6773" stroke-width="5" stroke-linecap="round" fill="none"/>
+<path d="M 256 230 L 248 280" stroke="#5c6773" stroke-width="4" stroke-linecap="round" fill="none"/>
+<!-- ground line -->
+<line x1="36" y1="440" x2="476" y2="440" stroke="#5c6773" stroke-width="10" stroke-linecap="round"/>
+<!-- dark cave mouth set into the cliff face: irregular arch, not a clean dome -->
+<path d="M 186 440
+         L 188 360 Q 196 300 240 292
+         Q 264 288 286 300 Q 322 318 326 372
+         L 330 440 Z"
+      fill="#1f2933" stroke="#5c6773" stroke-width="8" stroke-linejoin="round"/>
+<!-- deepest shadow inside -->
+<path d="M 214 440 L 216 372 Q 224 326 256 322 Q 290 320 298 366 L 302 440 Z"
+      fill="#0e1318" stroke="none"/>
+</g></svg>

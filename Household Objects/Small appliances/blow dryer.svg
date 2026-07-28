@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Classic pistol-shape hair dryer: body + handle + nozzle + cord -->
+  <!-- Main body (barrel) -->
+  <path d="M 60,75 L 200,75 Q 225,75 225,105 L 225,148 Q 225,178 200,178 L 60,178 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Nozzle / concentrator at the front -->
+  <path d="M 200,95 L 252,105 L 252,148 L 200,158 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Air intake grille on back -->
+  <ellipse cx="72" cy="127" rx="28" ry="38" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="56" y1="113" x2="88" y2="113" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="52" y1="123" x2="92" y2="123" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="52" y1="133" x2="92" y2="133" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="54" y1="143" x2="90" y2="143" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Handle going downward -->
+  <path d="M 110,178 L 110,215 Q 110,225 125,225 L 155,225 Q 170,225 170,215 L 170,178 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Handle grip lines -->
+  <line x1="116" y1="192" x2="164" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="116" y1="202" x2="164" y2="202" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="116" y1="212" x2="164" y2="212" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Power cord from bottom of handle -->
+  <path d="M 135,225 Q 135,235 120,235 Q 100,235 100,215" fill="none" stroke="#4d4d4d" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Speed/heat switch on handle -->
+  <rect x="118" y="182" width="42" height="8" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cool shot button -->
+  <circle cx="190" cy="175" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

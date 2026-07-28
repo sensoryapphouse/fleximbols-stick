@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Rounded cylinder device body -->
+  <rect x="30" y="60" width="130" height="150" rx="40" ry="40" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Speaker grille on top face (ellipse for cylinder top) -->
+  <ellipse cx="95" cy="62" rx="52" ry="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Grille holes pattern on top -->
+  <circle cx="82" cy="60" r="3" fill="#7f7f7f" stroke="none"/>
+  <circle cx="95" cy="58" r="3" fill="#7f7f7f" stroke="none"/>
+  <circle cx="108" cy="60" r="3" fill="#7f7f7f" stroke="none"/>
+  <circle cx="75" cy="65" r="2.5" fill="#7f7f7f" stroke="none"/>
+  <circle cx="88" cy="63" r="2.5" fill="#7f7f7f" stroke="none"/>
+  <circle cx="102" cy="63" r="2.5" fill="#7f7f7f" stroke="none"/>
+  <circle cx="115" cy="65" r="2.5" fill="#7f7f7f" stroke="none"/>
+  <!-- Front grille vertical slots -->
+  <rect x="54" y="85" width="8" height="100" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="68" y="85" width="8" height="100" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="82" y="85" width="8" height="100" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="96" y="85" width="8" height="100" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="110" y="85" width="8" height="100" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="124" y="85" width="8" height="100" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- White noise wave: flat equal-amplitude high-frequency wave -->
+  <polyline points="175,120 183,108 191,132 199,108 207,132 215,108 223,132 231,108 239,132 247,108 255,132 263,108 271,132" fill="none" stroke="#4d4d4d" stroke-width="7.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wave label area bracket -->
+  <line x1="172" y1="108" x2="172" y2="132" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

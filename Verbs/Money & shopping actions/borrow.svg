@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(0.8281)">
+  <!-- book being borrowed -->
+  <rect x="160" y="196" width="140" height="180" fill="#4488dd" stroke="#1a1a1a" stroke-width="9.81" rx="6"/>
+  <rect x="160" y="196" width="22" height="180" fill="#1a55bb" stroke="#1a1a1a" stroke-width="5.89" rx="4"/>
+  <line x1="194" y1="240" x2="288" y2="240" stroke="#8ab8ee" stroke-width="7.85" stroke-linecap="round"/>
+  <line x1="194" y1="268" x2="288" y2="268" stroke="#8ab8ee" stroke-width="7.85" stroke-linecap="round"/>
+  <line x1="194" y1="296" x2="288" y2="296" stroke="#8ab8ee" stroke-width="7.85" stroke-linecap="round"/>
+  <!-- solid "take" arrow going right -->
+  <line x1="300" y1="286" x2="398" y2="286" stroke="#22aa22" stroke-width="23.55" stroke-linecap="butt"/>
+  <polygon points="422,286 396,268 396,304" fill="#22aa22" stroke="#1a1a1a" stroke-width="5.89" stroke-linejoin="round"/>
+  <!-- dashed return arc (will come back) -->
+  <path d="M 414,258 C 414,126 278,108 228,114 C 176,120 152,152 150,200" fill="none" stroke="#888888" stroke-width="15.70" stroke-dasharray="14,8"/>
+  <polygon points="138,214 137,190 158,204" fill="#888888"/>
+</g></svg>

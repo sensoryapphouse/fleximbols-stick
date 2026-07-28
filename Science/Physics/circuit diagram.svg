@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sheet background -->
+  <rect x="28" y="22" width="234" height="196" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wire: battery - to top-left node -->
+  <line x1="55" y1="120" x2="55" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="55" y1="68" x2="235" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Wire: battery + to bottom-right loop -->
+  <line x1="55" y1="172" x2="55" y2="174" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="55" y1="172" x2="235" y2="172" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Battery symbol (left) -->
+  <!-- long line = + -->
+  <line x1="47" y1="108" x2="63" y2="108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- short line = - -->
+  <line x1="50" y1="120" x2="60" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- long line = + -->
+  <line x1="47" y1="132" x2="63" y2="132" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- short line = - -->
+  <line x1="50" y1="144" x2="60" y2="144" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="55" y1="108" x2="55" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="55" y1="144" x2="55" y2="172" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Resistor zigzag (top wire, centre) -->
+  <!-- node in from left -->
+  <line x1="100" y1="68" x2="112" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polyline points="112,68 118,52 126,84 134,52 142,84 150,52 158,68 170,68" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="170" y1="68" x2="235" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- LED symbol (right vertical branch) -->
+  <!-- vertical wire segment at right -->
+  <line x1="235" y1="68" x2="235" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- LED triangle pointing down (anode top, cathode bottom) -->
+  <polygon points="235,100 215,130 255,130" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cathode bar -->
+  <line x1="215" y1="130" x2="255" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- LED light rays -->
+  <line x1="258" y1="118" x2="270" y2="108" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="258" y1="126" x2="272" y2="120" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="235" y1="130" x2="235" y2="172" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

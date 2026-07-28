@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- card body -->
+  <rect x="25" y="50" width="240" height="150" rx="14" fill="#1d0e82" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- top stripe -->
+  <rect x="25" y="68" width="240" height="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- chip -->
+  <rect x="45" y="100" width="40" height="32" rx="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.35"/>
+  <line x1="45" y1="116" x2="85" y2="116" stroke="#1a1a1a" stroke-width="3.81"/>
+  <line x1="65" y1="100" x2="65" y2="132" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- contactless waves -->
+  <path d="M100 105 Q110 115 100 125" fill="none" stroke="#ffffff" stroke-width="6.35" stroke-linecap="round"/>
+  <path d="M108 100 Q123 115 108 130" fill="none" stroke="#ffffff" stroke-width="6.35" stroke-linecap="round"/>
+  <path d="M116 95 Q136 115 116 135" fill="none" stroke="#ffffff" stroke-width="6.35" stroke-linecap="round"/>
+
+  <!-- airplane symbol (large, right side of card) -->
+  <path d="M165 100 L215 100 L215 88 L240 110 L215 132 L215 120 L165 120 L155 130 L150 130 L155 110 L150 90 L155 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.35" stroke-linejoin="round"/>
+
+  <!-- passport icon bottom-left of card -->
+  <rect x="45" y="148" width="28" height="36" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="59" cy="162" r="5" fill="none" stroke="#f2e40d" stroke-width="3.81"/>
+  <line x1="50" y1="173" x2="68" y2="173" stroke="#f2e40d" stroke-width="3.81"/>
+  <line x1="50" y1="178" x2="65" y2="178" stroke="#f2e40d" stroke-width="3.81"/>
+
+  <!-- miles indicator: stars on card right-bottom -->
+  <polygon points="180,160 184,170 195,170 187,177 190,188 180,182 170,188 173,177 165,170 176,170" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <polygon points="215,165 218,172 226,172 220,177 222,185 215,180 208,185 210,177 204,172 212,172" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <polygon points="245,170 247,176 254,176 249,180 251,187 245,183 239,187 241,180 236,176 243,176" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+</g></svg>

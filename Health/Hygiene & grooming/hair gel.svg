@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80.48 98.40 351.03 351.03"><g transform="translate(256 256) scale(1.1) translate(-256 -256)">
+<!-- tub body -->
+<path d="M 180 220 L 332 220 L 320 396 Q 318 408 304 408 L 208 408 Q 194 408 192 396 Z" fill="#7ec8e3" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- label band -->
+<rect x="190" y="290" width="132" height="58" fill="#eef4f8" stroke="#1a1a1a" stroke-width="6"/>
+<!-- gel droplet on label -->
+<path d="M 256 300 C 240 320 240 338 256 338 C 272 338 272 320 256 300 Z" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- lid -->
+<rect x="170" y="186" width="172" height="40" rx="12" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- gel scoop on top -->
+<path d="M 230 186 q 6 -34 -10 -50 q 26 6 36 26 q 14 -2 18 14 q 12 0 8 16 q -28 6 -52 -2 q -8 -8 0 -20 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</g></svg>

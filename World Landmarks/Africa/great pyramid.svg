@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="170" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun -->
+  <circle cx="55" cy="50" r="20" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- distant small pyramid -->
+  <path d="M210 180 L235 130 L260 180 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- great pyramid (tall, centred) -->
+  <path d="M70 180 L145 35 L220 180 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- shaded side of pyramid -->
+  <path d="M145 35 L220 180 L145 180 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- block lines on pyramid -->
+  <path d="M105 110 L185 110" fill="none" stroke="#9d7246" stroke-width="2.96"/>
+  <path d="M90 140 L200 140" fill="none" stroke="#9d7246" stroke-width="2.96"/>
+  <path d="M80 165 L210 165" fill="none" stroke="#9d7246" stroke-width="2.96"/>
+  <!-- desert sand -->
+  <path d="M10 180 Q80 175 145 180 Q210 178 280 180 L280 230 L10 230 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sphinx (foreground left) -->
+  <!-- body -->
+  <path d="M30 215 L30 195 Q35 188 50 188 L80 188 Q88 188 90 200 L90 215 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sphinx head -->
+  <path d="M85 195 Q80 175 90 170 Q105 168 108 180 Q108 195 100 198 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sphinx headdress stripes -->
+  <path d="M88 178 L106 178 M88 185 L107 185" fill="none" stroke="#1d0e82" stroke-width="2.96"/>
+  <!-- sphinx eye -->
+  <circle cx="100" cy="183" r="1.5" fill="#000000"/>
+  <!-- sphinx paws -->
+  <rect x="32" y="210" width="12" height="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="48" y="210" width="12" height="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- dune curve -->
+  <path d="M150 195 Q200 188 260 195" fill="none" stroke="#e6b98a" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="14.93 17.49 490.67 490.67">
+<!-- heaviest: three weights of increasing size, arrow on the biggest -->
+<!-- ground -->
+<line x1="50" y1="420" x2="462" y2="420" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- small weight (faded) -->
+<g opacity="0.34">
+<g transform="translate(95 420)">
+<path d="M -40 0 L -32 -70 L 32 -70 L 40 0 Z" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="-18" y="-92" width="36" height="24" rx="6" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+</g>
+<!-- medium weight (faded) -->
+<g opacity="0.34">
+<g transform="translate(230 420)">
+<path d="M -58 0 L -46 -118 L 46 -118 L 58 0 Z" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="-22" y="-146" width="44" height="30" rx="7" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+</g>
+<!-- large weight (bold) -->
+<g transform="translate(390 420)">
+<path d="M -80 0 L -64 -200 L 64 -200 L 80 0 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="-28" y="-236" width="56" height="38" rx="8" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<!-- bold green arrow pointing down at the heaviest -->
+<line x1="390" y1="110" x2="390" y2="180" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="390" y1="180" x2="363" y2="150" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="390" y1="180" x2="417" y2="150" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="390" y1="110" x2="390" y2="180" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="390" y1="180" x2="363" y2="150" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="390" y1="180" x2="417" y2="150" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+</svg>

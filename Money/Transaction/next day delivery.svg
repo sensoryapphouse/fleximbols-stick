@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Next-day delivery - package + truck + 1-DAY blocks + calendar with one day marked -->
+  <!-- Truck box body -->
+  <rect x="30" y="100" width="120" height="80" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round"/>
+  <rect x="30" y="90" width="120" height="14" rx="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.74" stroke-linejoin="round"/>
+  <!-- Package on truck side -->
+  <rect x="55" y="120" width="40" height="36" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.74" stroke-linejoin="round"/>
+  <line x1="55" y1="138" x2="95" y2="138" stroke="#7d5e23" stroke-width="3.56"/>
+  <line x1="75" y1="120" x2="75" y2="156" stroke="#7d5e23" stroke-width="3.56"/>
+  <!-- Cab -->
+  <path d="M 150 120 L 175 120 L 200 140 L 200 180 L 150 180 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round"/>
+  <!-- Windshield -->
+  <path d="M 155 126 L 175 126 L 192 140 L 155 140 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.74" stroke-linejoin="round"/>
+  <!-- Speed lines -->
+  <line x1="208" y1="130" x2="225" y2="130" stroke="#1d0e82" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="208" y1="145" x2="230" y2="145" stroke="#1d0e82" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="208" y1="160" x2="222" y2="160" stroke="#1d0e82" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Wheels -->
+  <circle cx="68" cy="188" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.74"/>
+  <circle cx="68" cy="188" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.37"/>
+  <circle cx="175" cy="188" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.74"/>
+  <circle cx="175" cy="188" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.37"/>
+  <!-- Calendar in upper right -->
+  <rect x="220" y="30" width="60" height="60" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.74" stroke-linejoin="round"/>
+  <rect x="220" y="30" width="60" height="14" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.74" stroke-linejoin="round"/>
+  <!-- Calendar rings -->
+  <line x1="232" y1="22" x2="232" y2="38" stroke="#1a1a1a" stroke-width="4.74" stroke-linecap="round"/>
+  <line x1="268" y1="22" x2="268" y2="38" stroke="#1a1a1a" stroke-width="4.74" stroke-linecap="round"/>
+  <!-- Big "1" on calendar drawn as a path -->
+  <path d="M 244 52 L 254 48 L 254 84 L 260 84 L 260 88 L 240 88 L 240 84 L 248 84 L 248 56 L 244 58 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- 1-DAY letter blocks bottom -->
+  <!-- 1 -->
+  <path d="M 38 213 L 44 211 L 48 211 L 48 228 L 52 228 L 52 232 L 40 232 L 40 228 L 44 228 L 44 215 L 40 216 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.37" stroke-linejoin="round"/>
+  <!-- dash -->
+  <rect x="56" y="220" width="6" height="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- delivery hint arrow -->
+  <path d="M 138 220 L 200 220" fill="none" stroke="#137827" stroke-width="5.92" stroke-linecap="round"/>
+  <path d="M 192 213 L 202 220 L 192 227" fill="#137827" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- calendar showing day 1 (replaces DAY text) -->
+  <rect x="186" y="92" width="64" height="60" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="186" y="92" width="64" height="18" rx="4" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M200 86 L200 96 M236 86 L236 96" fill="none" stroke="#1a1a1a" stroke-width="4.15" stroke-linecap="round"/>
+  <!-- big "1" in calendar -->
+  <line x1="218" y1="120" x2="218" y2="145" stroke="#1a1a1a" stroke-width="9.48" stroke-linecap="round"/>
+  <line x1="208" y1="125" x2="218" y2="120" stroke="#1a1a1a" stroke-width="5.92" stroke-linecap="round"/>
+</g></svg>

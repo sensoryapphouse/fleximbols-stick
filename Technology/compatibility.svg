@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left puzzle piece -->
+  <path d="M30 60 L120 60 L120 95 Q135 95 135 110 Q135 125 120 125 L120 165 L30 165 L30 130 Q45 130 45 115 Q45 100 30 100 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- right puzzle piece (fits left tab) -->
+  <path d="M155 60 L255 60 L255 165 L155 165 L155 130 Q170 130 170 115 Q170 100 155 100 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- heart in the joining gap -->
+  <path d="M142 95 Q135 88 128 95 Q121 102 142 125 Q163 102 156 95 Q149 88 142 95 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- match meter bar at bottom -->
+  <rect x="40" y="190" width="210" height="22" rx="11" ry="11" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- filled portion (high match) -->
+  <path d="M51 192 L225 192 Q236 192 236 201 Q236 210 225 210 L51 210 Q40 210 40 201 Q40 192 51 192 Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- check mark above bar -->
+  <circle cx="265" cy="80" r="20" fill="#67832d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M255 80 L262 87 L275 73" fill="none" stroke="#ffffff" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- small hearts above meter as match dots -->
+  <path d="M70 180 Q67 177 64 180 Q61 183 70 190 Q79 183 76 180 Q73 177 70 180 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M110 180 Q107 177 104 180 Q101 183 110 190 Q119 183 116 180 Q113 177 110 180 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M150 180 Q147 177 144 180 Q141 183 150 190 Q159 183 156 180 Q153 177 150 180 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M190 180 Q187 177 184 180 Q181 183 190 190 Q199 183 196 180 Q193 177 190 180 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+</g></svg>

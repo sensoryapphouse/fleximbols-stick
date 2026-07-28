@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.52 82.93 352.97 352.97">
+<!-- playfield (angled tabletop) -->
+<path d="M 168 110 L 344 110 L 372 410 L 140 410 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- plunger lane on right -->
+<line x1="332" y1="120" x2="352" y2="400" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- bumpers -->
+<circle cx="222" cy="185" r="26" fill="#f4c430" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="222" cy="185" r="9" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="298" cy="200" r="22" fill="#d63b46" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="298" cy="200" r="8" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="200" cy="270" r="20" fill="#5aa83c" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="200" cy="270" r="7" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+<!-- ball -->
+<circle cx="288" cy="290" r="15" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<!-- left flipper -->
+<path d="M 178 360 L 244 386 L 240 400 L 176 378 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- right flipper -->
+<path d="M 330 360 L 264 386 L 268 400 L 332 378 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

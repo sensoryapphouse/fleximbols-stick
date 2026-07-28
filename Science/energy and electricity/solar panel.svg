@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="77.27 10.71 418.91 418.91">
+<!-- tilted solar panel with grid of cells and a sun -->
+<!-- sun top-right -->
+<circle cx="392" cy="120" r="40" fill="#f4c430" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="392" y1="56" x2="392" y2="40" stroke="#f4c430" stroke-width="8" stroke-linecap="round"/>
+<line x1="440" y1="72" x2="454" y2="58" stroke="#f4c430" stroke-width="8" stroke-linecap="round"/>
+<line x1="328" y1="120" x2="312" y2="120" stroke="#f4c430" stroke-width="8" stroke-linecap="round"/>
+<!-- panel (parallelogram, tilted) -->
+<polygon points="120 308 332 308 372 198 160 198" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- grid lines -->
+<line x1="190" y1="198" x2="150" y2="308" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="246" y1="198" x2="206" y2="308" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="302" y1="198" x2="262" y2="308" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="146" y1="253" x2="358" y2="253" stroke="#1a1a1a" stroke-width="6"/>
+<!-- support leg -->
+<line x1="226" y1="308" x2="226" y2="400" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="178" y1="400" x2="274" y2="400" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

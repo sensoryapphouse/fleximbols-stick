@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- 8x8 crossword grid. Cell size 20. Grid 160x160. Origin x=65, y=40. -->
+  <rect x="65" y="40" width="160" height="160" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- vertical lines -->
+  <path d="M85 40 L85 200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M105 40 L105 200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M125 40 L125 200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M145 40 L145 200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M165 40 L165 200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M185 40 L185 200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M205 40 L205 200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- horizontal lines -->
+  <path d="M65 60 L225 60" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M65 80 L225 80" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M65 100 L225 100" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M65 120 L225 120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M65 140 L225 140" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M65 160 L225 160" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M65 180 L225 180" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Black squares (crossword pattern) -->
+  <rect x="65" y="40" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="40" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="205" y="40" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="105" y="80" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="185" y="80" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="65" y="120" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="145" y="120" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="85" y="160" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="165" y="160" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="180" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="205" y="180" width="20" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- ===== Letters drawn as path shapes ===== -->
+  <!-- Letter helpers: each letter is in a 20x20 cell. Use 2.5px thick segments. -->
+
+  <!-- "C" at cell (col2,row1) cx=85 cy=40 -->
+  <path d="M91 46 L102 46 L102 49 L94 49 L94 54 L102 54 L102 57 L91 57 Z M91 46 L94 46 L94 57 L91 57 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "A" at cell (col4,row1) cx=145, but col4 is black; use col2 row3 instead -->
+  <!-- Place "A" at (col2,row3) cx=85 cy=80 -->
+  <path d="M86 96 L91 84 L94 84 L99 96 L96 96 L94.7 93 L90.3 93 L89 96 Z M91.3 90 L93.7 90 L92.5 87 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "T" at (col3,row2) cx=105 cy=60 -->
+  <path d="M108 64 L122 64 L122 67 L116.5 67 L116.5 77 L113.5 77 L113.5 67 L108 67 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "S" at (col5,row2) cx=145 cy=60 -->
+  <path d="M148 65 L158 65 L158 68 L151 68 L151 70 L158 70 L158 76 L148 76 L148 73 L155 73 L155 71 L148 71 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "U" at (col7,row3) cx=185 cy=80 -->
+  <path d="M188 84 L191 84 L191 94 L195 94 L195 84 L198 84 L198 97 L188 97 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "N" at (col4,row4) cx=125 cy=100 -->
+  <path d="M128 104 L131 104 L137 113 L137 104 L140 104 L140 117 L137 117 L131 108 L131 117 L128 117 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "O" at (col6,row5) cx=165 cy=120 -->
+  <path d="M169 125 L177 125 L177 137 L169 137 Z M172 128 L174 128 L174 134 L172 134 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "P" at (col3,row6) cx=105 cy=140 -->
+  <path d="M108 144 L117 144 L117 152 L111 152 L111 157 L108 157 Z M111 147 L114 147 L114 149 L111 149 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "L" at (col5,row6) cx=145 cy=140 -->
+  <path d="M148 144 L151 144 L151 154 L158 154 L158 157 L148 157 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "E" at (col4,row7) cx=125 cy=160 -->
+  <path d="M128 164 L138 164 L138 167 L131 167 L131 170 L137 170 L137 173 L131 173 L131 174 L138 174 L138 177 L128 177 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "R" at (col6,row7) cx=165 cy=160 -->
+  <path d="M168 164 L177 164 L177 171 L172 171 L177 177 L173.5 177 L169 172 L171 172 L171 177 L168 177 Z M171 167 L174 167 L174 168 L171 168 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "K" at (col2,row8) cx=85 cy=180 -->
+  <path d="M88 184 L91 184 L91 189 L95 184 L98.5 184 L94 190 L98.5 197 L95 197 L91 192 L91 197 L88 197 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- "I" at (col7,row8) cx=185 cy=180 -->
+  <path d="M188 184 L198 184 L198 187 L194.5 187 L194.5 194 L198 194 L198 197 L188 197 L188 194 L191.5 194 L191.5 187 L188 187 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

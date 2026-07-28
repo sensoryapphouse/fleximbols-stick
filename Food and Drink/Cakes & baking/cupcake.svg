@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- wrapper (liner) -->
+<path d="M 160 268 L 352 268 L 330 408 Q 256 422 182 408 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wrapper ridges -->
+<line x1="214" y1="276" x2="200" y2="404" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="256" y1="276" x2="256" y2="412" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="298" y1="276" x2="312" y2="404" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- frosting swirl -->
+<path d="M 158 268
+ Q 150 220 196 214
+ Q 188 174 244 176
+ Q 240 144 290 158
+ Q 326 142 332 186
+ Q 372 196 348 240
+ Q 372 268 320 270
+ Q 256 282 158 268 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- swirl detail lines -->
+<path d="M 196 250 Q 240 232 300 244" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 224 214 Q 264 200 314 214" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- cherry -->
+<circle cx="256" cy="150" r="24" fill="#d63b46" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 264 130 Q 290 108 286 142" fill="none" stroke="#2e7d40" stroke-width="8" stroke-linecap="round"/>
+</svg>

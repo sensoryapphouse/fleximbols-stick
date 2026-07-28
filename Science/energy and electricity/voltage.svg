@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- battery body -->
+  <rect x="30" y="70" width="120" height="120" rx="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- battery + terminal cap -->
+  <rect x="50" y="55" width="30" height="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- battery - terminal cap -->
+  <rect x="100" y="55" width="30" height="20" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- plus sign -->
+  <g stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round">
+    <line x1="55" y1="120" x2="80" y2="120"/>
+    <line x1="67" y1="108" x2="67" y2="132"/>
+  </g>
+  <!-- minus sign -->
+  <line x1="100" y1="120" x2="130" y2="120" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- lightning bolt accent -->
+  <polygon points="80,150 100,150 92,170 110,170 80,200 90,175 75,175" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- voltmeter dial -->
+  <circle cx="225" cy="130" r="55" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- dial arc -->
+  <path d="M 185 135 Q 225 80 265 135" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tick marks on dial -->
+  <g stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round">
+    <line x1="185" y1="135" x2="192" y2="138"/>
+    <line x1="200" y1="105" x2="206" y2="110"/>
+    <line x1="225" y1="90" x2="225" y2="98"/>
+    <line x1="250" y1="105" x2="244" y2="110"/>
+    <line x1="265" y1="135" x2="258" y2="138"/>
+  </g>
+  <!-- needle pointing to reading -->
+  <line x1="225" y1="135" x2="245" y2="105" stroke="#d01424" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="225" cy="135" r="6" fill="#000000"/>
+  <!-- "V" indicator dot (no text) - small plus mark -->
+  <g stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round">
+    <line x1="215" y1="160" x2="235" y2="160"/>
+    <line x1="225" y1="150" x2="225" y2="170"/>
+  </g>
+</g></svg>

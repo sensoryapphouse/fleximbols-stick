@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- tube body -->
+  <path d="M80 60 L240 60 Q250 60 250 70 L250 175 Q250 200 220 200 L110 200 Q80 200 80 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- crimped end (left) -->
+  <path d="M80 70 L60 60 L60 200 L80 190 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- crimp lines -->
+  <path d="M65 80 L75 85 M65 100 L75 105 M65 120 L75 125 M65 140 L75 145 M65 160 L75 165 M65 180 L75 185" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- stripe band -->
+  <rect x="80" y="105" width="170" height="30" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- accent stripe -->
+  <rect x="80" y="135" width="170" height="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- neck/shoulder -->
+  <path d="M250 95 L265 95 L265 165 L250 165" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cap -->
+  <rect x="262" y="100" width="20" height="60" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cap ridges -->
+  <path d="M262 115 L282 115 M262 130 L282 130 M262 145 L282 145" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- paste squeezing out at top opening (above tube near right) -->
+  <path d="M170 60 Q175 35 185 25 Q195 18 205 22 Q215 28 210 40 Q205 50 200 55 Q195 58 190 60 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- paste stripe accent -->
+  <path d="M188 30 Q195 30 200 35" stroke="#f8130d" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+</g></svg>

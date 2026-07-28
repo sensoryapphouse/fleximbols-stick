@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Building facade -->
+  <rect x="20" y="80" width="250" height="138" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Flat roof parapet -->
+  <rect x="20" y="65" width="250" height="22" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Sign band -->
+  <rect x="20" y="85" width="250" height="32" rx="0" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Lane strip (one lane through glass) -->
+  <rect x="70" y="150" width="150" height="55" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Lane gutters -->
+  <rect x="70" y="150" width="15" height="55" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="205" y="150" width="15" height="55" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Foul line -->
+  <line x1="85" y1="192" x2="205" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bowling PIN emblem - large on sign area -->
+  <!-- Pin body -->
+  <ellipse cx="155" cy="101" rx="12" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pin neck -->
+  <rect x="150" y="94" width="10" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pin head -->
+  <circle cx="155" cy="89" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pin red stripe -->
+  <line x1="148" y1="97" x2="162" y2="97" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bowling BALL emblem - next to pin on sign -->
+  <circle cx="120" cy="98" r="17" fill="#000000" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Ball finger holes -->
+  <circle cx="114" cy="92" r="4" fill="#4d4d4d"/>
+  <circle cx="124" cy="88" r="4" fill="#4d4d4d"/>
+  <circle cx="128" cy="99" r="4" fill="#4d4d4d"/>
+  <!-- Pins at far end of lane - small triangle arrangement -->
+  <circle cx="140" cy="163" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="152" cy="163" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="164" cy="163" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="146" cy="154" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="158" cy="154" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="152" cy="145" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Approach dots -->
+  <circle cx="120" cy="183" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="183" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="170" cy="183" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="195" cy="183" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Side windows -->
+  <rect x="25" y="150" width="38" height="55" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="227" y="150" width="38" height="55" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Entrance door -->
+  <rect x="220" y="150" width="0" height="0" rx="0" fill="none"/>
+  <!-- Ground -->
+  <rect x="20" y="218" width="250" height="8" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+</g></svg>

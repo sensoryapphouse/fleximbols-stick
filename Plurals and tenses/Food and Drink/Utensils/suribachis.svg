@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wooden pestle (surikogi) -->
+  <path d="M 178 25 L 196 43 L 142 132 L 124 114 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pestle wood grain -->
+  <path d="M 180 34 L 145 110" fill="none" stroke="#5e1f0a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 189 42 L 155 118" fill="none" stroke="#5e1f0a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Pestle rounded tip (light wood) -->
+  <ellipse cx="133" cy="123" rx="13" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-45 133 123)"/>
+  <!-- Suribachi ceramic bowl exterior (warm tan/brown ceramic) -->
+  <path d="M 55 130 Q 55 215, 145 215 Q 235 215, 235 130 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Outer rim band darker -->
+  <path d="M 55 130 Q 55 145, 145 150 Q 235 145, 235 130" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Inner cavity rim -->
+  <ellipse cx="145" cy="130" rx="88" ry="19" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Inner bowl visible surface with combed kushime grooves -->
+  <ellipse cx="145" cy="128" rx="78" ry="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Combed pattern (kushime) — radiating fine grooves on inner surface -->
+  <g stroke="#5e1f0a" stroke-width="1.48" stroke-linecap="round" fill="none">
+    <path d="M 80 128 L 88 132"/>
+    <path d="M 90 124 L 96 130"/>
+    <path d="M 100 122 L 105 130"/>
+    <path d="M 112 121 L 116 130"/>
+    <path d="M 124 120 L 127 131"/>
+    <path d="M 136 120 L 138 131"/>
+    <path d="M 148 120 L 148 131"/>
+    <path d="M 160 120 L 158 131"/>
+    <path d="M 172 121 L 169 131"/>
+    <path d="M 184 122 L 180 130"/>
+    <path d="M 196 124 L 191 130"/>
+    <path d="M 208 128 L 202 132"/>
+    <path d="M 85 134 L 92 138"/>
+    <path d="M 100 134 L 105 140"/>
+    <path d="M 115 134 L 118 140"/>
+    <path d="M 130 134 L 132 140"/>
+    <path d="M 145 134 L 145 140"/>
+    <path d="M 160 134 L 158 140"/>
+    <path d="M 175 134 L 172 140"/>
+    <path d="M 190 134 L 185 140"/>
+    <path d="M 205 134 L 198 138"/>
+  </g>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg1645" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg1645)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

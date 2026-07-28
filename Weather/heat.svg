@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pot body -->
+  <rect x="70" y="120" width="150" height="90" rx="10" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pot handles -->
+  <rect x="45" y="130" width="30" height="18" rx="6" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="215" y="130" width="30" height="18" rx="6" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pot lid -->
+  <rect x="65" y="108" width="160" height="18" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Lid knob -->
+  <rect x="130" y="96" width="30" height="16" rx="5" ry="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Food in pot (red stew) -->
+  <ellipse cx="145" cy="148" rx="55" ry="16" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Heat waves rising -->
+  <path d="M100 95 Q108 80 100 65" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 90 Q153 72 145 55" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M190 95 Q198 80 190 65" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Flame beneath pot -->
+  <polygon points="145,230 125,200 135,210 138,190 145,205 152,190 155,210 165,200" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="145,225 130,205 138,212 141,198 145,208 149,198 152,212 160,205" fill="#f8130d" stroke="none"/>
+  <!-- Thermometer going up -->
+  <rect x="222" y="55" width="12" height="60" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="228" cy="120" r="9" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="225" y="75" width="6" height="45" rx="3" ry="3" fill="#f8130d" stroke="none"/>
+  <!-- Up arrow on thermometer -->
+  <polygon points="228,52 222,62 234,62" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+</g></svg>

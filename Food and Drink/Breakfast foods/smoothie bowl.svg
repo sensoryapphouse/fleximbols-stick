@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer - pink/coral -->
+  <path d="M 22,100 Q 22,96 32,96 L 258,96 Q 268,96 268,100 Q 265,162 215,205 Q 145,232 75,205 Q 25,162 22,100 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl inner - bright pink smoothie base -->
+  <path d="M 30,108 Q 145,128 260,108 Q 256,150 210,178 Q 145,202 80,178 Q 34,150 30,108 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="0.00"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="100" rx="123" ry="20" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Decorative toppings arranged in rows -->
+  <!-- Kiwi slice (left) - green circle with pattern -->
+  <circle cx="80" cy="120" r="18" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="80" cy="120" r="12" fill="#67832d" stroke="none"/>
+  <circle cx="80" cy="120" r="5" fill="#f5e7c4" stroke="none"/>
+  <line x1="80" y1="108" x2="80" y2="132" stroke="#f5e7c4" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="68" y1="120" x2="92" y2="120" stroke="#f5e7c4" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="71" y1="111" x2="89" y2="129" stroke="#f5e7c4" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="71" y1="129" x2="89" y2="111" stroke="#f5e7c4" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Strawberry slice -->
+  <path d="M 118,106 Q 126,98 134,106 Q 138,120 126,128 Q 114,120 118,106 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 122,102 Q 126,96 130,100" fill="none" stroke="#529929" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Seeds on strawberry -->
+  <circle cx="124" cy="112" r="2" fill="#f5e7c4" stroke="none"/>
+  <circle cx="130" cy="116" r="2" fill="#f5e7c4" stroke="none"/>
+  <circle cx="124" cy="120" r="2" fill="#f5e7c4" stroke="none"/>
+  <!-- Banana slice centre -->
+  <ellipse cx="145" cy="112" rx="14" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="145" y1="102" x2="145" y2="122" stroke="#9d7246" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Raspberry right -->
+  <path d="M 166,106 Q 174,98 182,106 Q 186,120 174,128 Q 162,120 166,106 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="170" cy="113" r="3" fill="#d01424" stroke="none"/>
+  <circle cx="178" cy="113" r="3" fill="#d01424" stroke="none"/>
+  <circle cx="174" cy="120" r="3" fill="#d01424" stroke="none"/>
+  <!-- Kiwi slice (right) -->
+  <circle cx="210" cy="120" r="18" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="210" cy="120" r="12" fill="#67832d" stroke="none"/>
+  <circle cx="210" cy="120" r="5" fill="#f5e7c4" stroke="none"/>
+  <line x1="210" y1="108" x2="210" y2="132" stroke="#f5e7c4" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="198" y1="120" x2="222" y2="120" stroke="#f5e7c4" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="201" y1="111" x2="219" y2="129" stroke="#f5e7c4" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="201" y1="129" x2="219" y2="111" stroke="#f5e7c4" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Coconut flake strips -->
+  <path d="M 72,145 Q 80,140 88,145" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 78,152 Q 88,147 96,152" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 195,144 Q 203,139 211,144" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 190,152 Q 200,147 208,152" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Chia seeds scattered -->
+  <circle cx="110" cy="148" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="135" cy="155" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="155" cy="152" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="175" cy="148" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="120" cy="162" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="165" cy="160" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="145" cy="165" r="3" fill="#4d4d4d" stroke="none"/>
+</g></svg>

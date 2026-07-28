@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- phone body -->
+<rect x="150" y="95" width="160" height="322" rx="28" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="172" y="135" width="116" height="120" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="230" cy="118" r="6" fill="#1a1a1a"/>
+<!-- keypad dots (number cue, no text) -->
+<g fill="#9aa0a6" stroke="#1a1a1a" stroke-width="5">
+<circle cx="195" cy="290" r="13"/><circle cx="230" cy="290" r="13"/><circle cx="265" cy="290" r="13"/>
+<circle cx="195" cy="330" r="13"/><circle cx="230" cy="330" r="13"/><circle cx="265" cy="330" r="13"/>
+<circle cx="195" cy="370" r="13"/><circle cx="230" cy="370" r="13"/><circle cx="265" cy="370" r="13"/>
+</g>
+<!-- hash / number sign badge -->
+<circle cx="360" cy="150" r="58" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<g stroke="#1a1a1a" stroke-width="11" stroke-linecap="round">
+<line x1="345" y1="125" x2="335" y2="175"/>
+<line x1="378" y1="125" x2="368" y2="175"/>
+<line x1="330" y1="142" x2="385" y2="142"/>
+<line x1="328" y1="160" x2="383" y2="160"/>
+</g>
+</svg>

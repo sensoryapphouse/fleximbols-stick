@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Music streaming: phone/screen playing music with streaming wifi arc + note -->
+  <!-- Phone body -->
+  <rect x="88" y="20" width="114" height="190" rx="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Screen -->
+  <rect x="96" y="36" width="98" height="144" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Home button -->
+  <circle cx="145" cy="197" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Wifi/stream arcs on screen -->
+  <path d="M115,120 A32,32 0 0,1 175,120" fill="none" stroke="#2a4ec0" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M105,108 A42,42 0 0,1 185,108" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95,96 A52,52 0 0,1 195,96" fill="none" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Wifi dot -->
+  <circle cx="145" cy="126" r="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Music note on screen -->
+  <rect x="130" y="50" width="9" height="26" rx="2" fill="#000000"/>
+  <ellipse cx="127" cy="76" rx="8" ry="6" fill="#000000"/>
+  <line x1="139" y1="50" x2="155" y2="44" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cloud shape above phone (streaming from cloud) -->
+  <ellipse cx="220" cy="55" rx="28" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="200" cy="62" rx="18" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="238" cy="64" rx="16" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="196" y="62" width="52" height="14" rx="0" fill="#ffffff" stroke="none"/>
+  <line x1="196" y1="76" x2="248" y2="76" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Stream line from cloud to phone -->
+  <line x1="208" y1="76" x2="185" y2="96" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="6,4"/>
+</g></svg>

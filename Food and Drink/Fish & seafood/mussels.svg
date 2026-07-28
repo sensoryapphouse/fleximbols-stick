@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- back mussel -->
+<path d="M 300 132 C 380 128 434 176 438 250 C 442 320 396 372 320 386 C 300 356 292 300 296 250 C 300 200 300 160 300 132 Z" fill="#2b3852" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- back mussel meat at the wide (hinge) end -->
+<path d="M 320 386 C 356 380 388 348 402 300 C 372 288 336 292 306 306 C 300 336 306 364 320 386 Z" fill="#e8865a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 320 320 C 344 312 372 314 392 322" fill="none" stroke="#f4a06a" stroke-width="6" stroke-linecap="round"/>
+<!-- front mussel: teardrop shell, pointed hinge top-left, round bottom-right -->
+<path d="M 150 150 C 118 210 108 300 152 366 C 210 420 300 400 322 320 C 336 268 320 200 264 168 C 220 142 178 138 150 150 Z" fill="#3a4a6b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- concentric ridge lines following the shell curve -->
+<path d="M 178 178 C 150 232 146 302 184 356" fill="none" stroke="#5a6b8c" stroke-width="6" stroke-linecap="round"/>
+<path d="M 214 172 C 186 226 184 300 224 356" fill="none" stroke="#5a6b8c" stroke-width="6" stroke-linecap="round"/>
+<path d="M 250 176 C 226 226 226 296 262 344" fill="none" stroke="#5a6b8c" stroke-width="6" stroke-linecap="round"/>
+<!-- hinge point marker top-left -->
+<circle cx="152" cy="156" r="10" fill="#1a1a1a"/>
+</g></svg>

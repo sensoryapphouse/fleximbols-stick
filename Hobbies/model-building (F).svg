@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1673) translate(-217.00 -271.00)">
+<line x1="241" y1="303" x2="232" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="271" y1="303" x2="280" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="232" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="280" cy="457" rx="13" ry="7" fill="#33373d"/>
+<polygon points="224,197 288,197 286,305 226,305" fill="#2b6fb0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- far arm steadies the fuselage -->
+<path d="M 226 199 Q 212 236 200 256" fill="none" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<!-- near arm holds the glue tube and applies it to the join -->
+<path d="M 286 199 Q 280 250 240 280" fill="none" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="256" y1="197" x2="256" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 209.0 184.0 L 209.0 128.0 Q 209.0 76.0 256.0 76.0 Q 303.0 76.0 303.0 128.0 L 303.0 184.0 L 290.0 184.0 L 290.0 130.0 Q 290.0 96.0 256.0 96.0 Q 222.0 96.0 222.0 130.0 L 222.0 184.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<circle id="h1" data-fig="fa" class="skin" cx="256" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 218.0 96.0 Q 256.0 82.0 294.0 96.0 Q 256.0 92.0 218.0 96.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<!-- work bench / stand the model sits on -->
+<rect x="56" y="300" width="170" height="14" rx="3" fill="#b98a52" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="74" y1="314" x2="74" y2="346" stroke="#8a5a2a" stroke-width="8" stroke-linecap="round"/>
+<line x1="208" y1="314" x2="208" y2="346" stroke="#8a5a2a" stroke-width="8" stroke-linecap="round"/>
+<!-- a small stand cradling the fuselage -->
+<polygon points="128,300 152,300 146,268 134,268" fill="#cfd6de" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- part-assembled model: fuselage with tail + ONE attached wing -->
+<ellipse cx="140" cy="252" rx="72" ry="16" fill="#cfd6de" stroke="#1a1a1a" stroke-width="4"/>
+<!-- tail fin (attached) -->
+<polygon points="72,252 50,228 56,252 50,276" fill="#cfd6de" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- top wing already attached -->
+<polygon points="128,246 176,206 188,206 158,248" fill="#e0473c" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- cockpit canopy -->
+<circle cx="192" cy="252" r="9" fill="#7ec8f0" stroke="#1a1a1a" stroke-width="3"/>
+<!-- nose cone -->
+<circle cx="208" cy="252" r="7" fill="#39414b" stroke="#1a1a1a" stroke-width="3"/>
+<!-- DETACHED second wing — a loose part lying flat on the bench, waiting to be glued on -->
+<polygon points="60,296 116,288 120,298 64,306" fill="#e0473c" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- large glue tube held in the near hand, nozzle aimed down-left at the seam -->
+<g transform="rotate(150 236 276)">
+  <rect x="236" y="262" width="66" height="28" rx="10" fill="#e0732a" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="226" y="268" width="12" height="16" rx="2" fill="#f0d089" stroke="#1a1a1a" stroke-width="3"/>
+  <polygon points="226,270 206,274 206,278 226,282" fill="#9aa7b3" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="250" y1="270" x2="290" y2="270" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+</g>
+<!-- glue drop falling onto the wing seam -->
+<path d="M 176 290 q -6 8 0 14 q 6 -6 0 -14 Z" fill="#7ec8f0" stroke="#1a1a1a" stroke-width="2"/>
+</g></svg>

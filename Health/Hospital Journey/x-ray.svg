@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1070) translate(-256.00 -291.50)">
+<line x1="120" y1="452" x2="392" y2="452" stroke="#9aa7b5" stroke-width="5" stroke-linecap="round"/>
+<rect x="134.0" y="91.0" width="244.0" height="294.0" rx="10" fill="#2b3a4a" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="146.0" y="103.0" width="220.0" height="270.0" rx="4" fill="#cfe6f2" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="156" y1="115" x2="356" y2="115" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+<line x1="156" y1="125" x2="306" y2="125" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+<!-- HAND X-RAY: forearm bones (radius + ulna) entering from bottom -->
+<line x1="238" y1="366" x2="243" y2="298" stroke="#eef4f8" stroke-width="15" stroke-linecap="round"/>
+<line x1="268" y1="366" x2="263" y2="298" stroke="#eef4f8" stroke-width="15" stroke-linecap="round"/>
+<!-- carpus / wrist + palm block -->
+<path d="M230 302 Q220 286 230 270 Q253 256 280 270 Q290 286 280 302 Q255 316 230 302 Z" fill="#eef4f8" stroke="#7f93a3" stroke-width="3"/>
+<!-- four metacarpals fanning evenly from the palm -->
+<line x1="240" y1="276" x2="219" y2="222" stroke="#eef4f8" stroke-width="11" stroke-linecap="round"/>
+<line x1="249" y1="273" x2="241" y2="216" stroke="#eef4f8" stroke-width="11" stroke-linecap="round"/>
+<line x1="259" y1="273" x2="266" y2="216" stroke="#eef4f8" stroke-width="11" stroke-linecap="round"/>
+<line x1="268" y1="276" x2="288" y2="222" stroke="#eef4f8" stroke-width="11" stroke-linecap="round"/>
+<!-- thumb metacarpal angled out to the side -->
+<line x1="282" y1="290" x2="316" y2="268" stroke="#eef4f8" stroke-width="11" stroke-linecap="round"/>
+<!-- finger phalanges (long tapering bones) -->
+<!-- index -->
+<line x1="219" y1="222" x2="207" y2="180" stroke="#eef4f8" stroke-width="9" stroke-linecap="round"/>
+<line x1="207" y1="180" x2="200" y2="150" stroke="#eef4f8" stroke-width="7" stroke-linecap="round"/>
+<!-- middle (longest) -->
+<line x1="241" y1="216" x2="234" y2="168" stroke="#eef4f8" stroke-width="9" stroke-linecap="round"/>
+<line x1="234" y1="168" x2="230" y2="132" stroke="#eef4f8" stroke-width="7" stroke-linecap="round"/>
+<!-- ring -->
+<line x1="266" y1="216" x2="273" y2="168" stroke="#eef4f8" stroke-width="9" stroke-linecap="round"/>
+<line x1="273" y1="168" x2="277" y2="134" stroke="#eef4f8" stroke-width="7" stroke-linecap="round"/>
+<!-- little -->
+<line x1="288" y1="222" x2="300" y2="182" stroke="#eef4f8" stroke-width="9" stroke-linecap="round"/>
+<line x1="300" y1="182" x2="307" y2="154" stroke="#eef4f8" stroke-width="7" stroke-linecap="round"/>
+<!-- thumb phalanx -->
+<line x1="316" y1="268" x2="342" y2="252" stroke="#eef4f8" stroke-width="9" stroke-linecap="round"/>
+<line x1="96" y1="150" x2="150" y2="176" stroke="#f0c419" stroke-width="3" stroke-linecap="round"/>
+<line x1="96" y1="200" x2="150" y2="210" stroke="#f0c419" stroke-width="3" stroke-linecap="round"/>
+<line x1="96" y1="250" x2="150" y2="244" stroke="#f0c419" stroke-width="3" stroke-linecap="round"/>
+<line x1="416" y1="150" x2="362" y2="176" stroke="#f0c419" stroke-width="3" stroke-linecap="round"/>
+<line x1="416" y1="200" x2="362" y2="210" stroke="#f0c419" stroke-width="3" stroke-linecap="round"/>
+<line x1="416" y1="250" x2="362" y2="244" stroke="#f0c419" stroke-width="3" stroke-linecap="round"/>
+<circle cx="130.0" cy="486.0" r="8.0" fill="#e3e8ec" stroke="#b8c0c8" stroke-width="2"/>
+<circle cx="166.0" cy="486.0" r="8.0" fill="#e3e8ec" stroke="#b8c0c8" stroke-width="2"/>
+<circle cx="202.0" cy="486.0" r="8.0" fill="#e3e8ec" stroke="#b8c0c8" stroke-width="2"/>
+<circle cx="238.0" cy="486.0" r="8.0" fill="#e3e8ec" stroke="#b8c0c8" stroke-width="2"/>
+<circle cx="274.0" cy="486.0" r="8.0" fill="#3fae5a" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="310.0" cy="486.0" r="8.0" fill="#e3e8ec" stroke="#b8c0c8" stroke-width="2"/>
+<circle cx="346.0" cy="486.0" r="8.0" fill="#e3e8ec" stroke="#b8c0c8" stroke-width="2"/>
+<circle cx="382.0" cy="486.0" r="8.0" fill="#e3e8ec" stroke="#b8c0c8" stroke-width="2"/>
+</g></svg>

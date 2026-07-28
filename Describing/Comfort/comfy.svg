@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="88.28 101.08 349.09 349.09" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1">
+<!-- comfy: plump soft armchair -->
+<g transform="translate(0 6)">
+<!-- back cushion -->
+<path d="M 150 200 Q 146 150 200 148 L 312 148 Q 366 150 362 200 L 362 300 L 150 300 Z" fill="#7eb8e0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left arm -->
+<path d="M 116 250 Q 110 218 142 216 Q 172 218 168 252 L 168 360 L 116 360 Z" fill="#5e9fce" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right arm -->
+<path d="M 396 250 Q 402 218 370 216 Q 340 218 344 252 L 344 360 L 396 360 Z" fill="#5e9fce" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- seat cushion (plump) -->
+<path d="M 150 296 Q 256 280 362 296 Q 372 332 362 360 L 150 360 Q 140 332 150 296 Z" fill="#9ecbeb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- back cushion seam -->
+<path d="M 256 158 L 256 296" fill="none" stroke="#3f7fb0" stroke-width="6" stroke-linecap="round"/>
+<!-- legs -->
+<line x1="148" y1="360" x2="142" y2="392" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="364" y1="360" x2="370" y2="392" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- comfort sparkle -->
+<g stroke="#2f9e4a" stroke-width="7" stroke-linecap="round">
+<line x1="398" y1="150" x2="398" y2="178"/>
+<line x1="384" y1="164" x2="412" y2="164"/>
+</g>
+</g></g></svg>

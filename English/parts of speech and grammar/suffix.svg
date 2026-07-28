@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 114.97 345.21 345.21">
+<!-- suffix = a small block joined to the END (right) of a word token -->
+<!-- main word token -->
+<rect x="110" y="206" width="170" height="100" rx="16" fill="#eef2f6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- suffix block (added at the end) -->
+<rect x="306" y="206" width="96" height="100" rx="16" fill="#5aa84b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- join + arrow showing it attaches to the end -->
+<line x1="280" y1="256" x2="306" y2="256" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 224.0 359.0 L 328.0 359.0 L 328.0 370.0 L 356.0 350.0 L 328.0 330.0 L 328.0 341.0 L 224.0 341.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

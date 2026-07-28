@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- saucer seen at a slight angle: shallow round dish with a central cup-ring well -->
+<!-- outer rim thickness (the dish body) -->
+<path d="M 76 300 a 180 64 0 0 0 360 0 l 0 16 a 180 64 0 0 1 -360 0 Z" fill="#dfe5ea" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top face of the saucer -->
+<ellipse cx="256" cy="300" rx="180" ry="64" fill="#f4f7fa" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner shallow well -->
+<ellipse cx="256" cy="302" rx="128" ry="44" fill="#eaeff4" stroke="#cfd6dc" stroke-width="5"/>
+<!-- central cup-ring (where the teacup sits) -->
+<ellipse cx="256" cy="304" rx="58" ry="20" fill="none" stroke="#b9c2cc" stroke-width="8"/>
+<!-- subtle highlight on the rim -->
+<path d="M 120 274 Q 200 250 300 256" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+</svg>

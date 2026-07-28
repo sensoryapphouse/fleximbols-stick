@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="71.87 110.27 366.55 366.55">
+<!-- Harvest cornucopia (horn of plenty) overflowing with produce -->
+<!-- woven horn -->
+<path d="M 392 158 Q 268 120 180 196 Q 104 262 142 338 Q 178 404 286 388 Q 214 372 196 308 Q 182 256 240 224 Q 316 184 366 220 Q 400 196 392 158 Z" fill="#c8801f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- weave lines on horn -->
+<g fill="none" stroke="#8a5616" stroke-width="6" stroke-linecap="round">
+<path d="M 372 168 Q 330 150 300 156"/>
+<path d="M 356 196 Q 300 182 262 196"/>
+<path d="M 232 226 Q 196 252 192 292"/>
+</g>
+<!-- spilling produce cluster at mouth -->
+<!-- pumpkin -->
+<ellipse cx="300" cy="320" rx="52" ry="46" fill="#f0871e" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 300 280 L 300 250" fill="none" stroke="#3fae5a" stroke-width="10" stroke-linecap="round"/>
+<path d="M 300 282 Q 278 320 300 360" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 300 282 Q 322 320 300 360" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<!-- apple -->
+<circle cx="226" cy="350" r="42" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 226 312 Q 234 296 248 298" fill="none" stroke="#5e3d23" stroke-width="9" stroke-linecap="round"/>
+<path d="M 248 298 Q 270 286 282 300" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- grapes -->
+<g fill="#7b4fb0" stroke="#1a1a1a" stroke-width="6">
+<circle cx="346" cy="368" r="17"/>
+<circle cx="380" cy="372" r="17"/>
+<circle cx="362" cy="398" r="17"/>
+<circle cx="396" cy="402" r="17"/>
+<circle cx="378" cy="426" r="17"/>
+</g>
+<!-- corn cob -->
+<ellipse cx="150" cy="300" rx="22" ry="50" fill="#f6c500" stroke="#1a1a1a" stroke-width="8" transform="rotate(-24 150 300)"/>
+<path d="M 132 268 Q 112 250 96 256" fill="#3fae5a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

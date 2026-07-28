@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- chassis -->
+<rect x="78" y="318" width="372" height="34" rx="8" fill="#3a3f44" stroke="#1a1a1a" stroke-width="9"/>
+<!-- cab (at front, left) -->
+<path d="M 78 320 L 78 214 L 156 214 L 182 280 L 182 320 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cab window -->
+<path d="M 94 268 L 94 230 L 146 230 L 165 268 Z" fill="#bfe0f5" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- pivot at the rear -->
+<circle cx="438" cy="322" r="11" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+<!-- tipping bed (raised, tilted up at the back) -->
+<path d="M 196 318 L 178 286 L 396 196 L 444 312 L 224 318 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- load (rubble pouring out the lowered front of the bed) -->
+<path d="M 196 290 Q 230 264 264 278 Q 300 256 336 270 Q 368 252 392 264 L 376 222 L 188 280 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- wheels (on a common baseline) -->
+<circle cx="150" cy="358" r="36" fill="#1a1a1a"/>
+<circle cx="150" cy="358" r="15" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="318" cy="358" r="36" fill="#1a1a1a"/>
+<circle cx="318" cy="358" r="15" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="392" cy="358" r="36" fill="#1a1a1a"/>
+<circle cx="392" cy="358" r="15" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

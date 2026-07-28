@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- standing figure (left) with raised flat WAIT/STOP palm -->
+<line x1="138" y1="333" x2="129" y2="470" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="168" y1="333" x2="177" y2="470" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="129" cy="472" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="177" cy="472" rx="13" ry="7" fill="#33373d"/>
+<polygon points="121,237 185,237 183,335 123,335" fill="#2b6fb0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="123" y1="239" x2="103" y2="335" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="153" y1="237" x2="153" y2="206" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 106.0 224.0 L 106.0 168.0 Q 106.0 116.0 153.0 116.0 Q 200.0 116.0 200.0 168.0 L 200.0 224.0 L 187.0 224.0 L 187.0 170.0 Q 187.0 136.0 153.0 136.0 Q 119.0 136.0 119.0 170.0 L 119.0 224.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<circle id="h1" data-fig="fa" class="skin" cx="153" cy="170" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 115.0 136.0 Q 153.0 122.0 191.0 136.0 Q 153.0 132.0 115.0 136.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<!-- raised forearm + flat STOP palm facing out -->
+<line x1="183" y1="239" x2="213" y2="206" stroke="#2b6fb0" stroke-width="13" stroke-linecap="round"/>
+<path d="M 211 212 L 211 168 Q 211 158 219 158 Q 227 158 227 168 L 227 154 Q 227 144 235 144 Q 243 144 243 154 L 243 158 Q 243 148 251 148 Q 259 148 259 158 L 259 166 Q 267 164 267 176 L 267 196 Q 267 224 239 226 L 225 226 Q 211 224 211 212 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- speech bubble with words RUSHING OUT too fast (right) -->
+<path d="M 322.0 118.0 L 462.0 118.0 Q 484.0 118.0 484.0 140.0 L 484.0 228.0 Q 484.0 250.0 462.0 250.0 L 361.0 250.0 L 338.0 280.0 L 335.0 250.0 L 322.0 250.0 Q 300.0 250.0 300.0 228.0 L 300.0 140.0 Q 300.0 118.0 322.0 118.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- crammed, overlapping word squiggles (too many words at once) -->
+<path d="M 318 158 q 12 -14 24 0 q 12 14 24 0 q 12 -14 24 0 q 12 14 24 0 q 12 -14 24 0 q 12 14 24 0" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 318 186 q 12 -14 24 0 q 12 14 24 0 q 12 -14 24 0 q 12 14 24 0 q 12 -14 24 0 q 12 14 24 0" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 318 214 q 12 -14 24 0 q 12 14 24 0 q 12 -14 24 0 q 12 14 24 0 q 12 -14 24 0 q 12 14 24 0" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- red speed chevrons: speech coming too fast -->
+<g stroke="#e0473c" stroke-width="16" stroke-linecap="round" fill="none">
+<polyline points="232,330 264,360 232,390"/>
+<polyline points="276,330 308,360 276,390"/>
+<polyline points="320,330 352,360 320,390"/>
+</g>
+</g></svg>

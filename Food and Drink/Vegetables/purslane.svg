@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- purslane: succulent fleshy tear-shape green leaves on reddish stems -->
+  <!-- base/ground -->
+  <ellipse cx="145" cy="215" rx="85" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.18"/>
+  <!-- reddish stems sprawling -->
+  <path d="M145,210 Q140,160 100,130 Q70,110 50,85" stroke="#e65a00" stroke-width="6.34" fill="none" stroke-linecap="round"/>
+  <path d="M145,210 Q140,160 100,130 Q70,110 50,85" stroke="#1a1a1a" stroke-width="1.91" fill="none" stroke-linecap="round"/>
+  <path d="M145,210 Q150,160 190,130 Q220,110 240,85" stroke="#e65a00" stroke-width="6.34" fill="none" stroke-linecap="round"/>
+  <path d="M145,210 Q150,160 190,130 Q220,110 240,85" stroke="#1a1a1a" stroke-width="1.91" fill="none" stroke-linecap="round"/>
+  <path d="M145,210 L145,50" stroke="#e65a00" stroke-width="6.34" fill="none" stroke-linecap="round"/>
+  <path d="M145,210 L145,50" stroke="#1a1a1a" stroke-width="1.91" fill="none" stroke-linecap="round"/>
+  <!-- side branches -->
+  <path d="M120,170 Q100,165 80,160" stroke="#e65a00" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M170,170 Q190,165 210,160" stroke="#e65a00" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M115,140 Q95,135 78,135" stroke="#e65a00" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M175,140 Q195,135 212,135" stroke="#e65a00" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M145,110 Q135,100 125,98" stroke="#e65a00" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M145,110 Q155,100 165,98" stroke="#e65a00" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- fleshy tear-shape leaves (paddle/teardrop) -->
+  <g fill="#529929" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round" stroke-linejoin="round">
+    <!-- around left tip -->
+    <path d="M50,85 Q35,80 35,68 Q42,55 52,62 Q58,72 50,85 Z"/>
+    <path d="M55,90 Q45,98 38,92 Q35,80 48,80 Q58,82 55,90 Z"/>
+    <path d="M80,160 Q72,148 80,142 Q92,144 92,155 Q88,165 80,160 Z"/>
+    <path d="M78,135 Q70,125 78,118 Q90,120 90,130 Q86,140 78,135 Z"/>
+    <!-- around right tip -->
+    <path d="M240,85 Q255,80 255,68 Q248,55 238,62 Q232,72 240,85 Z"/>
+    <path d="M235,90 Q245,98 252,92 Q255,80 242,80 Q232,82 235,90 Z"/>
+    <path d="M210,160 Q218,148 210,142 Q198,144 198,155 Q202,165 210,160 Z"/>
+    <path d="M212,135 Q220,125 212,118 Q200,120 200,130 Q204,140 212,135 Z"/>
+    <!-- center stem leaves -->
+    <path d="M125,98 Q115,88 122,78 Q135,80 135,92 Q132,102 125,98 Z"/>
+    <path d="M165,98 Q175,88 168,78 Q155,80 155,92 Q158,102 165,98 Z"/>
+    <path d="M145,50 Q132,42 138,30 Q150,28 152,40 Q152,52 145,50 Z"/>
+    <path d="M145,50 Q158,42 152,30 Q140,28 138,40 Q138,52 145,50 Z"/>
+    <!-- top center pair -->
+    <path d="M132,68 Q120,62 125,52 Q138,52 138,62 Q135,70 132,68 Z"/>
+    <path d="M158,68 Q170,62 165,52 Q152,52 152,62 Q155,70 158,68 Z"/>
+    <!-- middle pair -->
+    <path d="M125,130 Q112,125 118,113 Q132,115 132,125 Q130,132 125,130 Z"/>
+    <path d="M165,130 Q178,125 172,113 Q158,115 158,125 Q160,132 165,130 Z"/>
+    <!-- lower pair -->
+    <path d="M115,180 Q102,175 108,162 Q122,165 122,175 Q120,184 115,180 Z"/>
+    <path d="M175,180 Q188,175 182,162 Q168,165 168,175 Q170,184 175,180 Z"/>
+  </g>
+  <!-- highlight on a few leaves -->
+  <path d="M48,68 Q52,72 50,78" stroke="#67832d" stroke-width="1.91" fill="none"/>
+  <path d="M240,68 Q236,72 238,78" stroke="#67832d" stroke-width="1.91" fill="none"/>
+  <path d="M145,38 L145,48" stroke="#67832d" stroke-width="1.91"/>
+</g></svg>

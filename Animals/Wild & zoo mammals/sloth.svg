@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- branch the sloth hangs from -->
+<line x1="96" y1="120" x2="416" y2="120" stroke="#8a5a2b" stroke-width="20" stroke-linecap="round"/>
+<line x1="96" y1="120" x2="416" y2="120" stroke="#6b4a2b" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 26"/>
+<!-- long arms hooking over branch -->
+<path d="M 206 124 Q 184 168 214 220 M 306 124 Q 328 168 298 220" fill="none" stroke="#8a6a3c" stroke-width="26" stroke-linecap="round"/>
+<!-- claws over branch -->
+<path d="M 196 118 Q 188 104 198 96 M 210 118 Q 204 102 214 96" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 316 118 Q 324 104 314 96 M 302 118 Q 308 102 298 96" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- body hanging -->
+<ellipse cx="256" cy="266" rx="80" ry="92" fill="#a98a5a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- shaggy fur strokes -->
+<path d="M 188 250 L 176 244 M 192 286 L 180 286 M 324 250 L 336 244 M 320 286 L 332 286" fill="none" stroke="#8a6a3c" stroke-width="6" stroke-linecap="round"/>
+<!-- face -->
+<circle cx="256" cy="230" r="56" fill="#d8c298" stroke="#1a1a1a" stroke-width="9"/>
+<!-- dark eye stripes (signature sloth mask) -->
+<path d="M 232 214 Q 212 222 206 248 Q 224 244 234 230 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 280 214 Q 300 222 306 248 Q 288 244 278 230 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- eyes -->
+<circle cx="230" cy="226" r="9" fill="#1a1a1a"/>
+<circle cx="227" cy="223" r="3" fill="#ffffff"/>
+<circle cx="282" cy="226" r="9" fill="#1a1a1a"/>
+<circle cx="279" cy="223" r="3" fill="#ffffff"/>
+<!-- nose -->
+<path d="M 244 244 L 268 244 L 256 256 Z" fill="#1a1a1a"/>
+<!-- gentle smile -->
+<path d="M 234 264 Q 256 278 278 264" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

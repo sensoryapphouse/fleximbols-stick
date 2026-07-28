@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g data-fit="1" transform="translate(256 256) scale(1.1583) translate(-256.00 -268.50)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
+<!-- ===== masseur standing BEHIND the table (drawn first) ===== -->
+<!-- legs (mostly hidden behind table) -->
+<line x1="246" y1="300" x2="238" y2="452" stroke="#2b3a55" stroke-width="20" stroke-linecap="round"/>
+<line x1="282" y1="300" x2="292" y2="452" stroke="#2b3a55" stroke-width="20" stroke-linecap="round"/>
+<ellipse cx="233" cy="455" rx="16" ry="8" fill="#33373d"/>
+<ellipse cx="297" cy="455" rx="16" ry="8" fill="#33373d"/>
+<!-- head + hair -->
+<circle id="h1" data-fig="fa" cx="264" cy="118" r="36" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 228 118 Q 228 76 264 76 Q 300 76 300 118 Q 264 96 228 118 Z" fill="#3a2a1a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- neck -->
+<line x1="264" y1="150" x2="264" y2="172" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<!-- torso (tunic), leaning slightly forward -->
+<path d="M 232 178 Q 264 168 296 178 L 304 306 L 224 306 Z" fill="#3f6fae" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- both arms reaching down to press the client's back -->
+<line x1="240" y1="196" x2="206" y2="300" stroke="#3f6fae" stroke-width="22" stroke-linecap="round"/>
+<line x1="288" y1="196" x2="262" y2="300" stroke="#3f6fae" stroke-width="22" stroke-linecap="round"/>
+<line x1="240" y1="196" x2="206" y2="300" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" opacity="0"/>
+<!-- masseur hands pressing on the client's back -->
+<circle cx="204" cy="304" r="14" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="260" cy="304" r="14" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="7"/>
+
+<!-- ===== massage table ===== -->
+<rect x="70" y="306" width="372" height="30" rx="8" fill="#7aa6d6" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="96" y1="336" x2="96" y2="404" stroke="#5a6e8c" stroke-width="13" stroke-linecap="round"/>
+<line x1="416" y1="336" x2="416" y2="404" stroke="#5a6e8c" stroke-width="13" stroke-linecap="round"/>
+
+<!-- ===== client lying face-down on the table ===== -->
+<!-- towel/sheet over body -->
+<rect x="150" y="270" width="200" height="38" rx="14" fill="#e8821e" stroke="#1a1a1a" stroke-width="9"/>
+<!-- client head resting (face turned, at left) -->
+<path d="M 248.9 106.5 Q 234.0 126.0 249.0 168.0 Q 268.0 132.0 259.8 110.7 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path class="skin" d="M 150 278 Q 110 276 100 296 Q 96 312 116 314 Q 150 314 156 296 Q 158 282 150 278 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 156 270 Q 120 264 104 280 Q 132 274 156 282 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="120" cy="298" r="3.5" fill="#1a1a1a"/>
+<!-- client feet (towel hem) at right -->
+<circle cx="356" cy="288" r="11" fill="#f3c19b" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="356" cy="290" r="0" fill="#1a1a1a"/>
+</g></svg>

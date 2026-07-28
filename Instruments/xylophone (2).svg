@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- XYLOPHONE: narrower darker wooden bars + SHORT resonator tubes + hard ball mallets -->
+
+  <!-- Stand legs -->
+  <line x1="52" y1="195" x2="38" y2="228" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="238" y1="195" x2="252" y2="228" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="38" y1="228" x2="85" y2="228" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="205" y1="228" x2="252" y2="228" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+
+  <!-- Wood frame rails and uprights (dark brown) -->
+  <rect x="44" y="95" width="202" height="9" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="44" y="190" width="202" height="9" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="44" y="95" width="9" height="104" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="237" y="95" width="9" height="104" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- SHORT resonator tubes (about 20-22px tall only; clearly short, lower quarter of frame) -->
+  <!-- 10 tubes, graduated short(left) to very short(right). Bottom at y=190. -->
+  <!-- Bass tube: height=22, treble: height=10. All SHORT vs marimba's long tubes. -->
+
+  <!-- Tube 1 (bass): height=22, top=168 -->
+  <rect x="58" y="168" width="11" height="22" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 2: height=20, top=170 -->
+  <rect x="77" y="170" width="11" height="20" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 3: height=19, top=171 -->
+  <rect x="96" y="171" width="11" height="19" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 4: height=17, top=173 -->
+  <rect x="115" y="173" width="11" height="17" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 5: height=16, top=174 -->
+  <rect x="134" y="174" width="11" height="16" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 6: height=15, top=175 -->
+  <rect x="153" y="175" width="11" height="15" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 7: height=14, top=176 -->
+  <rect x="172" y="176" width="11" height="14" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 8: height=13, top=177 -->
+  <rect x="191" y="177" width="11" height="13" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 9: height=12, top=178 -->
+  <rect x="210" y="178" width="11" height="12" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 10 (treble): height=10, top=180 -->
+  <rect x="222" y="180" width="11" height="10" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- 10 narrower darker brown wooden bars (width=14, gap=5; narrower than marimba's 18px bars) -->
+  <!-- Total: 14*10 + 5*9 = 140+45 = 185. Start x=55. -->
+  <!-- Bar 1 -->
+  <rect x="55" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- Bar 2 -->
+  <rect x="74" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- Bar 3 -->
+  <rect x="93" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- Bar 4 -->
+  <rect x="112" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- Bar 5 -->
+  <rect x="131" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- Bar 6 -->
+  <rect x="150" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- Bar 7 -->
+  <rect x="169" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- Bar 8 -->
+  <rect x="188" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- Bar 9 -->
+  <rect x="207" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- Bar 10 -->
+  <rect x="222" y="103" width="14" height="60" rx="2" fill="#7d5e23" stroke="#5e1f0a" stroke-width="4.45"/>
+
+  <!-- 2 hard-headed mallets (short shafts, small hard ball heads) -->
+  <!-- Mallet 1: bottom-left to upper area -->
+  <line x1="100" y1="228" x2="118" y2="90" stroke="#4d4d4d" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="119" cy="86" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mallet 2: bottom-right to upper area -->
+  <line x1="190" y1="228" x2="172" y2="90" stroke="#4d4d4d" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="171" cy="86" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

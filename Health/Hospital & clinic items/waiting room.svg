@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Door/gate frame (right side) -->
+  <rect x="178" y="60" width="80" height="165" rx="6" ry="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Door panel -->
+  <rect x="188" y="70" width="60" height="145" rx="4" ry="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Door knob/handle -->
+  <circle cx="198" cy="148" r="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Door vertical bars (gate feel) -->
+  <line x1="210" y1="74" x2="210" y2="210" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="226" y1="74" x2="226" y2="210" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="242" y1="74" x2="242" y2="210" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Person silhouette (waiting, left of door) -->
+  <circle cx="110" cy="95" r="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M66,225 Q66,168 110,168 Q154,168 154,225" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Arms down/clasped -->
+  <line x1="80" y1="178" x2="66" y2="210" stroke="#2a4ec0" stroke-width="7.77" stroke-linecap="round"/>
+  <line x1="140" y1="178" x2="154" y2="210" stroke="#2a4ec0" stroke-width="7.77" stroke-linecap="round"/>
+
+  <!-- Clock (top left) -->
+  <circle cx="52" cy="46" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Clock tick marks -->
+  <line x1="52" y1="20" x2="52" y2="28" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="52" y1="64" x2="52" y2="72" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="26" y1="46" x2="34" y2="46" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="70" y1="46" x2="78" y2="46" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Clock hands -->
+  <line x1="52" y1="46" x2="52" y2="28" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="52" y1="46" x2="66" y2="46" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="52" cy="46" r="3" fill="#000000"/>
+
+  <!-- Hourglass (small, near person) -->
+  <polygon points="26,100 60,100 44,126 60,152 26,152 42,126" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sand in top half -->
+  <polygon points="30,103 56,103 44,120" fill="#ff9900"/>
+  <!-- Sand dot in bottom -->
+  <ellipse cx="43" cy="148" rx="8" ry="4" fill="#ff9900"/>
+  <!-- Hourglass rim top -->
+  <rect x="24" y="96" width="38" height="8" rx="3" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Hourglass rim bottom -->
+  <rect x="24" y="150" width="38" height="8" rx="3" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

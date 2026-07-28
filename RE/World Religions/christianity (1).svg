@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- church (background) -->
+  <rect x="170" y="100" width="100" height="110" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- church roof -->
+  <polygon points="165,100 220,55 275,100" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- steeple -->
+  <polygon points="210,55 220,20 230,55" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- small cross on steeple -->
+  <rect x="218" y="5" width="4" height="18" fill="#000000"/>
+  <rect x="214" y="10" width="12" height="4" fill="#000000"/>
+  <!-- church door -->
+  <path d="M205,210 L205,170 Q205,158 220,158 Q235,158 235,170 L235,210 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="230" cy="185" r="1.5" fill="#f7de58" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- church windows -->
+  <path d="M180,140 L195,140 L195,128 Q187.5,118 180,128 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M245,140 L260,140 L260,128 Q252.5,118 245,128 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- large cross (foreground left) -->
+  <rect x="38" y="35" width="20" height="155" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="14" y="75" width="68" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- open Bible (bottom centre) -->
+  <path d="M90,200 L90,165 Q120,158 145,165 L145,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M145,200 L145,165 Q170,158 200,165 L200,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="145" y1="165" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- page lines (no text) -->
+  <line x1="100" y1="175" x2="138" y2="172" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="100" y1="182" x2="138" y2="180" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="100" y1="189" x2="138" y2="187" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="152" y1="172" x2="190" y2="175" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="152" y1="180" x2="190" y2="182" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="152" y1="187" x2="190" y2="189" stroke="#7f7f7f" stroke-width="2.22"/>
+
+  <!-- dove (top centre) -->
+  <ellipse cx="135" cy="50" rx="22" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- head -->
+  <circle cx="155" cy="42" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- beak -->
+  <polygon points="162,42 170,44 162,46" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- eye -->
+  <circle cx="156" cy="40" r="1.3" fill="#000000"/>
+  <!-- wing -->
+  <path d="M125,40 Q135,28 148,40 Q140,48 125,48 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tail -->
+  <polygon points="113,50 105,45 105,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- olive branch -->
+  <line x1="170" y1="44" x2="185" y2="40" stroke="#529929" stroke-width="3.70" stroke-linecap="round"/>
+  <ellipse cx="178" cy="40" rx="3" ry="1.5" fill="#529929" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="183" cy="36" rx="3" ry="1.5" fill="#529929" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

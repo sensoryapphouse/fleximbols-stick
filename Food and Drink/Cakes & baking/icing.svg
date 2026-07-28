@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- cupcake / bun beneath the icing -->
+<path d="M 152 300 L 360 300 L 336 424 Q 332 448 308 448 L 204 448 Q 180 448 176 424 Z" fill="#c98a52" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- fluted wrapper lines -->
+<line x1="216" y1="308" x2="204" y2="440" stroke="#9a6a3a" stroke-width="7" stroke-linecap="round"/>
+<line x1="256" y1="308" x2="256" y2="440" stroke="#9a6a3a" stroke-width="7" stroke-linecap="round"/>
+<line x1="296" y1="308" x2="308" y2="440" stroke="#9a6a3a" stroke-width="7" stroke-linecap="round"/>
+<!-- white swirled icing on top -->
+<path d="M 152 300
+ Q 148 244 200 236
+ Q 196 196 244 190
+ Q 244 158 288 168
+ Q 320 176 314 208
+ Q 356 208 360 250
+ Q 388 262 372 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- swirl definition lines -->
+<path d="M 190 288 Q 236 262 268 250" fill="none" stroke="#d7dbe0" stroke-width="6" stroke-linecap="round"/>
+<path d="M 240 288 Q 292 268 330 262" fill="none" stroke="#d7dbe0" stroke-width="6" stroke-linecap="round"/>
+<!-- cherry on top -->
+<circle cx="268" cy="176" r="16" fill="#e23c3c" stroke="#1a1a1a" stroke-width="8"/>
+</g></svg>

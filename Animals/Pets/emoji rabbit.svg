@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Rabbit face: white, tall pink ears, whiskers, pink nose -->
+  <!-- Left ear -->
+  <ellipse cx="108" cy="62" rx="22" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11"/>
+  <ellipse cx="108" cy="62" rx="11" ry="46" fill="#f4a4b2"/>
+  <!-- Right ear -->
+  <ellipse cx="182" cy="62" rx="22" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11"/>
+  <ellipse cx="182" cy="62" rx="11" ry="46" fill="#f4a4b2"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="148" rx="82" ry="76" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- Eyes -->
+  <circle cx="115" cy="130" r="10" fill="#f266aa"/>
+  <circle cx="175" cy="130" r="10" fill="#f266aa"/>
+  <circle cx="115" cy="130" r="5" fill="#000000"/>
+  <circle cx="175" cy="130" r="5" fill="#000000"/>
+  <circle cx="117" cy="128" r="2" fill="#ffffff"/>
+  <circle cx="177" cy="128" r="2" fill="#ffffff"/>
+  <!-- Snout -->
+  <ellipse cx="145" cy="166" rx="32" ry="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Nose -->
+  <ellipse cx="145" cy="156" rx="10" ry="7" fill="#f266aa"/>
+  <!-- Whiskers left -->
+  <line x1="80" y1="162" x2="132" y2="167" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="80" y1="171" x2="132" y2="172" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Whiskers right -->
+  <line x1="210" y1="162" x2="158" y2="167" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="210" y1="171" x2="158" y2="172" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Smile -->
+  <path d="M128 175 Q145 186 162 175" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+</g></svg>

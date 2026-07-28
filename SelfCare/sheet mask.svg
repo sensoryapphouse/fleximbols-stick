@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sheet-mask: face with flat WHITE FABRIC sheet draped over it, cut-outs for eyes/nose/mouth -->
+  <!-- Neck -->
+  <rect x="126" y="188" width="38" height="40" rx="8" ry="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Head/face base (skin) -->
+  <ellipse cx="145" cy="125" rx="78" ry="88" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- White fabric sheet mask draped over face -->
+  <!-- Sheet drapes down sides slightly differently from mud mask - flat fabric, slightly wider at bottom -->
+  <path d="M68,115 Q65,50 145,42 Q225,50 222,115 Q226,170 216,190 Q200,210 145,212 Q90,210 74,190 Q64,170 68,115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.71" stroke-linejoin="round"/>
+  <!-- Fabric texture: horizontal stitch lines across the sheet -->
+  <line x1="75" y1="100" x2="215" y2="100" stroke="#b8b8b8" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="72" y1="120" x2="218" y2="120" stroke="#b8b8b8" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="72" y1="140" x2="218" y2="140" stroke="#b8b8b8" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="74" y1="160" x2="216" y2="160" stroke="#b8b8b8" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="76" y1="180" x2="214" y2="180" stroke="#b8b8b8" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Eye cut-outs in sheet (oval holes, skin showing through) -->
+  <ellipse cx="113" cy="112" rx="22" ry="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.08"/>
+  <ellipse cx="177" cy="112" rx="22" ry="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- Eyes within cut-outs -->
+  <ellipse cx="113" cy="112" rx="11" ry="11" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="113" cy="112" r="5.5" fill="#000000"/>
+  <circle cx="115" cy="109" r="2.5" fill="#ffffff"/>
+  <ellipse cx="177" cy="112" rx="11" ry="11" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="177" cy="112" r="5.5" fill="#000000"/>
+  <circle cx="179" cy="109" r="2.5" fill="#ffffff"/>
+  <!-- Nose cut-out (small oval) -->
+  <ellipse cx="145" cy="148" rx="10" ry="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mouth cut-out (wide oval) -->
+  <ellipse cx="145" cy="172" rx="20" ry="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Smile in mouth cut-out -->
+  <path d="M133,172 Q145,182 157,172" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Sheet edge tabs/ears sticking out at sides -->
+  <path d="M68,115 Q52,115 50,128 Q52,142 68,140" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <path d="M222,115 Q238,115 240,128 Q238,142 222,140" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+</g></svg>

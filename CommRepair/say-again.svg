@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","mc"],["h2","mc"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- head & shoulders bust (shifted left to leave room for bubble) -->
+<rect x="183" y="306" width="66" height="104" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 48 512 Q 64 380 160 372 L 272 372 Q 368 380 384 512 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<rect x="183" y="306" width="66" height="40" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="0"/>
+<circle id="h1" data-fig="mc" cx="100" cy="244" r="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<circle id="h2" data-fig="mc" cx="332" cy="244" r="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="216" cy="232" r="120" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 98 212 Q 116 94 216 90 Q 316 94 334 212 Q 302 146 216 134 Q 130 146 98 212 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 154 186 Q 172 172 190 182" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 242 182 Q 260 172 278 186" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="172" cy="226" r="16" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="260" cy="226" r="16" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="172" cy="230" r="6" fill="#1a1a1a"/>
+<circle cx="260" cy="230" r="6" fill="#1a1a1a"/>
+<path d="M 196 300 Q 216 312 236 300" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- cupped hand at ear (listening) -->
+<path d="M 102 220 q -34 -6 -34 26 q 0 32 34 28 q -16 -8 -16 -28 q 0 -20 16 -26 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- sound waves coming in -->
+<path d="M 40 210 A 40 40 0 0 1 40 274" fill="none" stroke="#2b6fb0" stroke-width="6"/>
+<path d="M 18 192 A 66 66 0 0 1 18 292" fill="none" stroke="#2b6fb0" stroke-width="6"/>
+<!-- speech bubble with REPEAT loop arrow (right) -->
+<path d="M 350.0 91.0 L 466.0 91.0 Q 488.0 91.0 488.0 113.0 L 488.0 187.0 Q 488.0 209.0 466.0 209.0 L 382.0 209.0 L 359.0 239.0 L 356.0 209.0 L 350.0 209.0 Q 328.0 209.0 328.0 187.0 L 328.0 113.0 Q 328.0 91.0 350.0 91.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 426 124 A 32 32 0 1 0 440 168" fill="none" stroke="#e0473c" stroke-width="12" stroke-linecap="butt"/>
+<polygon points="412,108 444,118 416,138" fill="#e0473c" stroke="#e0473c" stroke-width="2" stroke-linejoin="round"/>
+</g></svg>

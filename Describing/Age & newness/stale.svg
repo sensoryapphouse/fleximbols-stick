@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="90.07 125.05 333.58 333.58">
+<!-- bread slice -->
+<path d="M 170 250 C 170 178 200 150 256 150 C 312 150 342 178 342 250 L 342 360 C 342 372 332 380 320 380 L 192 380 C 180 380 170 372 170 360 Z" fill="#e0b876" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crust line -->
+<path d="M 186 252 C 186 196 210 174 256 174 C 302 174 326 196 326 252" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- dryness cracks -->
+<path d="M 256 268 L 248 300 L 260 326 L 252 356" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 248 300 L 222 308" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 260 326 L 290 318" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 210 280 L 232 290 L 222 312" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 300 280 L 282 292 L 296 312" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- crumbs falling below -->
+<circle cx="210" cy="404" r="8" fill="#c89a52" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="416" r="7" fill="#c89a52" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="300" cy="402" r="6" fill="#c89a52" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="240" cy="430" r="5" fill="#c89a52" stroke="#1a1a1a" stroke-width="5"/>
+<!-- old/smell wavy lines -->
+<path d="M 360 200 C 372 188 352 178 364 166" fill="none" stroke="#8a8a8a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 150 200 C 162 188 142 178 154 166" fill="none" stroke="#8a8a8a" stroke-width="7" stroke-linecap="round"/>
+<!-- green mold spot -->
+<path d="M 300 200 C 318 196 322 214 310 220 C 296 224 288 204 300 200 Z" fill="#9fc06a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="304" cy="210" r="3" fill="#1a1a1a"/>
+<circle cx="312" cy="206" r="2.5" fill="#1a1a1a"/>
+</svg>

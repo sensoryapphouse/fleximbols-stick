@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="11.64 31.26 488.73 488.73"><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- broad board (match, top, full opacity) -->
+<rect x="46" y="170" width="420" height="64" rx="10" fill="#caa15a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- narrow board (contrast, bottom, dimmed) -->
+<g opacity="0.34">
+<rect x="206" y="320" width="100" height="60" rx="10" fill="#caa15a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+<!-- double-headed width arrow under the broad board -->
+<line x1="70" y1="270" x2="442" y2="270" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="70" y1="270" x2="96" y2="252" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="70" y1="270" x2="96" y2="288" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="442" y1="270" x2="416" y2="252" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="442" y1="270" x2="416" y2="288" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="70" y1="270" x2="442" y2="270" stroke="#2f9e4a" stroke-width="14.5" stroke-linecap="round"/>
+<line x1="70" y1="270" x2="96" y2="252" stroke="#2f9e4a" stroke-width="14.5" stroke-linecap="round"/>
+<line x1="70" y1="270" x2="96" y2="288" stroke="#2f9e4a" stroke-width="14.5" stroke-linecap="round"/>
+<line x1="442" y1="270" x2="416" y2="252" stroke="#2f9e4a" stroke-width="14.5" stroke-linecap="round"/>
+<line x1="442" y1="270" x2="416" y2="288" stroke="#2f9e4a" stroke-width="14.5" stroke-linecap="round"/>
+</g></svg>

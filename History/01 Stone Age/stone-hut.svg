@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1208) translate(-256.00 -300.00)">
+<!-- ground line -->
+<line x1="60" y1="430" x2="452" y2="430" stroke="#5c6773" stroke-width="10" stroke-linecap="round"/>
+<!-- stacked-stone cylindrical wall (man-made) -->
+<path d="M 120 430 L 120 300 L 392 300 L 392 430 Z" fill="#9aa6b2" stroke="#5c6773" stroke-width="8" stroke-linejoin="round"/>
+<!-- stacked stone block courses: horizontal mortar lines -->
+<line x1="120" y1="340" x2="392" y2="340" stroke="#5c6773" stroke-width="5"/>
+<line x1="120" y1="386" x2="392" y2="386" stroke="#5c6773" stroke-width="5"/>
+<!-- staggered vertical joints, course by course (brick/stone bond) -->
+<line x1="176" y1="300" x2="176" y2="340" stroke="#5c6773" stroke-width="4"/>
+<line x1="248" y1="300" x2="248" y2="340" stroke="#5c6773" stroke-width="4"/>
+<line x1="320" y1="300" x2="320" y2="340" stroke="#5c6773" stroke-width="4"/>
+<line x1="148" y1="340" x2="148" y2="386" stroke="#5c6773" stroke-width="4"/>
+<line x1="212" y1="340" x2="212" y2="386" stroke="#5c6773" stroke-width="4"/>
+<line x1="356" y1="340" x2="356" y2="386" stroke="#5c6773" stroke-width="4"/>
+<line x1="176" y1="386" x2="176" y2="430" stroke="#5c6773" stroke-width="4"/>
+<line x1="248" y1="386" x2="248" y2="430" stroke="#5c6773" stroke-width="4"/>
+<line x1="320" y1="386" x2="320" y2="430" stroke="#5c6773" stroke-width="4"/>
+<!-- thatch / turf conical roof overhanging the walls, with a clear ridge peak -->
+<path d="M 96 304 L 256 168 L 416 304 Z" fill="#b8863f" stroke="#8a6326" stroke-width="8" stroke-linejoin="round"/>
+<!-- roof ridge / peak cap -->
+<circle cx="256" cy="168" r="13" fill="#8a6326" stroke="#6e4e1c" stroke-width="4"/>
+<!-- thatch combing lines -->
+<line x1="160" y1="280" x2="200" y2="226" stroke="#8a6326" stroke-width="4" stroke-linecap="round"/>
+<line x1="220" y1="290" x2="244" y2="224" stroke="#8a6326" stroke-width="4" stroke-linecap="round"/>
+<line x1="292" y1="290" x2="268" y2="224" stroke="#8a6326" stroke-width="4" stroke-linecap="round"/>
+<line x1="352" y1="280" x2="312" y2="226" stroke="#8a6326" stroke-width="4" stroke-linecap="round"/>
+<!-- low doorway -->
+<path d="M 222 430 L 222 358 Q 222 330 256 330 Q 290 330 290 358 L 290 430 Z" fill="#1f2933" stroke="#5c6773" stroke-width="6" stroke-linejoin="round"/>
+</g></svg>

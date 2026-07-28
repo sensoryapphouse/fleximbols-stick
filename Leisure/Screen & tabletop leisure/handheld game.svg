@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="71.76 71.76 368.48 368.48">
+<!-- body -->
+<rect x="150" y="100" width="212" height="312" rx="34" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- screen bezel -->
+<rect x="180" y="135" width="152" height="130" rx="12" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- screen -->
+<rect x="198" y="153" width="116" height="94" rx="6" fill="#4a90d9" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- D-pad -->
+<path d="M 218 300 h 22 v -22 h 22 v 22 h 22 v 22 h -22 v 22 h -22 v -22 h -22 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- A/B buttons -->
+<circle cx="320" cy="300" r="14" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="320" cy="340" r="14" fill="#5aa83c" stroke="#1a1a1a" stroke-width="7"/>
+<!-- start/select -->
+<rect x="222" y="370" width="34" height="11" rx="5" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="270" y="370" width="34" height="11" rx="5" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

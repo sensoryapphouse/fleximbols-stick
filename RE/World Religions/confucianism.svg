@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- open scroll background -->
+  <g transform="translate(145,170)">
+    <rect x="-110" y="-30" width="220" height="60" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+    <!-- scroll ends (rolls) -->
+    <ellipse cx="-110" cy="0" rx="10" ry="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+    <ellipse cx="110" cy="0" rx="10" ry="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+    <!-- vertical "calligraphy" lines -->
+    <line x1="-80" y1="-22" x2="-80" y2="22" stroke="#1a1a1a" stroke-width="4.45"/>
+    <line x1="-50" y1="-22" x2="-50" y2="22" stroke="#1a1a1a" stroke-width="4.45"/>
+    <line x1="-20" y1="-22" x2="-20" y2="22" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-86" y="-18" width="4" height="6" fill="#000000"/>
+    <rect x="-86" y="-6" width="4" height="6" fill="#000000"/>
+    <rect x="-86" y="6" width="4" height="6" fill="#000000"/>
+    <rect x="-56" y="-18" width="4" height="8" fill="#000000"/>
+    <rect x="-56" y="0" width="4" height="10" fill="#000000"/>
+    <rect x="-26" y="-14" width="4" height="6" fill="#000000"/>
+    <rect x="-26" y="0" width="4" height="12" fill="#000000"/>
+    <!-- red seal -->
+    <rect x="60" y="0" width="20" height="20" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+
+  <!-- scholar full body (Confucius), standing in front of scroll -->
+  <g transform="translate(145,100)">
+    <!-- head -->
+    <ellipse cx="0" cy="-40" rx="18" ry="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67"/>
+    <!-- scholar hat (futou) -->
+    <path d="M-20 -50 L-22 -64 L22 -64 L20 -50 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <rect x="-24" y="-54" width="48" height="6" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- beard -->
+    <path d="M-10 -28 Q-12 -10 0 -8 Q12 -10 10 -28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <!-- eyes -->
+    <circle cx="-7" cy="-42" r="1.5" fill="#000000"/>
+    <circle cx="7" cy="-42" r="1.5" fill="#000000"/>
+    <!-- moustache -->
+    <path d="M-8 -34 Q0 -32 8 -34" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <!-- robe body (full body) -->
+    <path d="M-30 -22 L-36 60 L36 60 L30 -22 Q22 -16 0 -16 Q-22 -16 -30 -22 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+    <!-- robe sash -->
+    <rect x="-36" y="10" width="72" height="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- folded sleeves at front (hands in sleeves) -->
+    <path d="M-20 0 Q-10 14 0 12 Q10 14 20 0 L18 18 L-18 18 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <!-- legs/feet peek below robe -->
+    <rect x="-12" y="60" width="10" height="6" fill="#000000"/>
+    <rect x="2" y="60" width="10" height="6" fill="#000000"/>
+  </g>
+</g></svg>

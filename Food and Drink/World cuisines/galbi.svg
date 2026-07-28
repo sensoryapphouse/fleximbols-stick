@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Grill plate / serving surface -->
+  <rect x="28" y="160" width="234" height="50" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Grill grate lines on plate -->
+  <line x1="28" y1="172" x2="262" y2="172" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="28" y1="182" x2="262" y2="182" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="28" y1="192" x2="262" y2="192" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Short rib #1 — bone visible (left) -->
+  <!-- Rib bone 1 -->
+  <rect x="45" y="90" width="14" height="90" rx="7" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="52" cy="86" rx="12" ry="9" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Meat on bone 1 -->
+  <ellipse cx="52" cy="145" rx="30" ry="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Char stripes -->
+  <line x1="36" y1="138" x2="68" y2="148" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="36" y1="152" x2="68" y2="162" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Short rib #2 — bone visible (center) -->
+  <rect x="128" y="85" width="14" height="90" rx="7" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="135" cy="81" rx="12" ry="9" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="135" cy="140" rx="30" ry="22" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="119" y1="133" x2="151" y2="143" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="119" y1="147" x2="151" y2="157" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Short rib #3 — bone visible (right) -->
+  <rect x="211" y="90" width="14" height="90" rx="7" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="218" cy="86" rx="12" ry="9" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="218" cy="145" rx="30" ry="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="202" y1="138" x2="234" y2="148" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="202" y1="152" x2="234" y2="162" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Sesame seeds -->
+  <circle cx="52" cy="138" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="62" cy="152" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="135" cy="132" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="148" cy="147" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="218" cy="138" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="228" cy="150" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

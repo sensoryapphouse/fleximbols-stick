@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Body silhouette torso ghost -->
+  <path d="M90 25 Q68 34 64 70 L64 210 L226 210 L226 70 Q222 34 200 25 Q175 16 145 16 Q115 16 90 25 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- Sternum (centre reference, bone colour) -->
+  <rect x="137" y="38" width="16" height="120" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Spine (back reference) -->
+  <rect x="139" y="38" width="12" height="120" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- LEFT RIBS (viewer's right) highlighted white -->
+  <!-- Rib 1 -->
+  <path d="M137 46 Q118 44 104 52 Q90 62 88 76 Q88 86 96 88 Q104 88 110 80 Q120 68 135 64" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M137 46 Q118 44 104 52 Q90 62 88 76 Q88 86 96 88 Q104 88 110 80 Q120 68 135 64" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rib 2 -->
+  <path d="M137 62 Q116 60 100 70 Q84 82 82 98 Q82 110 92 112 Q102 112 108 102 Q118 88 135 82" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M137 62 Q116 60 100 70 Q84 82 82 98 Q82 110 92 112 Q102 112 108 102 Q118 88 135 82" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rib 3 -->
+  <path d="M137 78 Q114 76 97 88 Q80 102 80 118 Q80 130 90 133 Q100 134 107 124 Q118 108 136 100" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M137 78 Q114 76 97 88 Q80 102 80 118 Q80 130 90 133 Q100 134 107 124 Q118 108 136 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rib 4 -->
+  <path d="M137 96 Q112 95 95 108 Q78 122 79 138 Q80 150 90 152 Q100 152 108 142 Q120 126 137 118" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M137 96 Q112 95 95 108 Q78 122 79 138 Q80 150 90 152 Q100 152 108 142 Q120 126 137 118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rib 5 floating -->
+  <path d="M137 114 Q110 114 92 128 Q76 142 78 158 Q86 164 96 158 Q110 148 128 138" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M137 114 Q110 114 92 128 Q76 142 78 158 Q86 164 96 158 Q110 148 128 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- RIGHT RIBS (viewer's left) highlighted white -->
+  <!-- Rib 1 -->
+  <path d="M153 46 Q172 44 186 52 Q200 62 202 76 Q202 86 194 88 Q186 88 180 80 Q170 68 155 64" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M153 46 Q172 44 186 52 Q200 62 202 76 Q202 86 194 88 Q186 88 180 80 Q170 68 155 64" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rib 2 -->
+  <path d="M153 62 Q174 60 190 70 Q206 82 208 98 Q208 110 198 112 Q188 112 182 102 Q172 88 155 82" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M153 62 Q174 60 190 70 Q206 82 208 98 Q208 110 198 112 Q188 112 182 102 Q172 88 155 82" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rib 3 -->
+  <path d="M153 78 Q176 76 193 88 Q210 102 210 118 Q210 130 200 133 Q190 134 183 124 Q172 108 154 100" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M153 78 Q176 76 193 88 Q210 102 210 118 Q210 130 200 133 Q190 134 183 124 Q172 108 154 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rib 4 -->
+  <path d="M153 96 Q178 95 195 108 Q212 122 211 138 Q210 150 200 152 Q190 152 182 142 Q170 126 153 118" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M153 96 Q178 95 195 108 Q212 122 211 138 Q210 150 200 152 Q190 152 182 142 Q170 126 153 118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rib 5 floating -->
+  <path d="M153 114 Q180 114 198 128 Q214 142 212 158 Q204 164 194 158 Q180 148 162 138" fill="none" stroke="#efefef" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M153 114 Q180 114 198 128 Q214 142 212 158 Q204 164 194 158 Q180 148 162 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Pointer dot -->
+  <circle cx="88" cy="98" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.7002) translate(-297.50 -294.00)">
+<!-- bread slice: crust outline (classic sandwich-loaf dome top, flat base) -->
+<path d="M 168 250 Q 168 192 256 192 Q 344 192 344 250 L 344 388 Q 344 396 336 396 L 176 396 Q 168 396 168 388 Z" fill="#e8c06a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- soft inner crumb (slightly toasted) -->
+<path d="M 184 252 Q 184 208 256 208 Q 328 208 328 252 L 328 380 L 184 380 Z" fill="#f3dda8" stroke="none"/>
+<!-- spread layer already applied (purple jam) on the left side -->
+<path d="M 188 286 Q 232 274 268 290 Q 272 300 264 308 Q 224 296 190 306 Q 184 296 188 286 Z" fill="#7a3d8c" stroke="#5d2a6e" stroke-width="3" stroke-linejoin="round"/>
+<!-- spread trail / smear streaks left behind the knife -->
+<path d="M 200 300 q 26 -6 52 0" fill="none" stroke="#9a55ad" stroke-width="3" stroke-linecap="round"/>
+<path d="M 198 312 q 22 -4 44 0" fill="none" stroke="#9a55ad" stroke-width="3" stroke-linecap="round"/>
+<!-- a little jam riding ahead of the blade -->
+<path d="M 264 290 q 18 0 30 6 q -16 8 -32 4 Z" fill="#7a3d8c" stroke="#5d2a6e" stroke-width="2" stroke-linejoin="round"/>
+<!-- knife blade, held FLAT against the surface (spreading, not cutting) -->
+<polygon points="294,290 372,278 374,292 296,304" fill="#c3ccd4" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- rounded blade tip -->
+<path d="M 294 290 q -10 6 0 14 Z" fill="#c3ccd4" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- blade highlight -->
+<line x1="308" y1="288" x2="362" y2="281" stroke="#eef4f8" stroke-width="2" stroke-linecap="round"/>
+<!-- handle -->
+<rect x="372" y="272" width="56" height="24" rx="10" fill="#39414b" stroke="#1a1a1a" stroke-width="4"/>
+</g></svg>

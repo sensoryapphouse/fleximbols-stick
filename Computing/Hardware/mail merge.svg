@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left: letter template -->
+  <rect x="18" y="42" width="80" height="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- placeholder name field (highlighted) -->
+  <rect x="26" y="54" width="50" height="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- template body lines -->
+  <line x1="26" y1="76" x2="90" y2="76" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="26" y1="86" x2="84" y2="86" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="26" y1="96" x2="90" y2="96" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="26" y1="106" x2="76" y2="106" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="26" y1="116" x2="88" y2="116" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="26" y1="126" x2="70" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- template label band -->
+  <rect x="18" y="34" width="80" height="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left: database (cylinder) below template? put it as second source -->
+  <g>
+    <!-- cylinder top ellipse -->
+    <ellipse cx="58" cy="166" rx="36" ry="8" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+    <!-- cylinder body -->
+    <path d="M 22 166 L 22 196 Q 22 204 58 204 Q 94 204 94 196 L 94 166" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+    <!-- cylinder mid stripes -->
+    <path d="M 22 176 Q 22 184 58 184 Q 94 184 94 176" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M 22 188 Q 22 196 58 196 Q 94 196 94 188" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+  <!-- merge arrow (center, pointing right) -->
+  <path d="M 104 88 L 104 158 L 138 158 L 138 178 L 174 130 L 138 82 L 138 102 L 104 102 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- right: stack of addressed letters (3 envelopes/letters fanning) -->
+  <!-- letter 3 (back) -->
+  <rect x="190" y="40" width="80" height="60" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M 190 40 L 230 72 L 270 40" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- address line -->
+  <rect x="200" y="80" width="40" height="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- letter 2 (middle) -->
+  <rect x="190" y="98" width="80" height="60" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M 190 98 L 230 130 L 270 98" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="200" y="138" width="40" height="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- letter 1 (front) -->
+  <rect x="190" y="156" width="80" height="60" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M 190 156 L 230 188 L 270 156" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="200" y="196" width="40" height="6" fill="#137827" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- bowel = large intestine (colon): the inverted-U frame with haustra bumps, caecum + appendix bottom-right, rectum bottom-centre -->
+<path d="M 158 392 L 158 206 Q 158 152 212 152 L 300 152 Q 354 152 354 206 L 354 372 L 300 372 L 256 410" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 158 392 L 158 206 Q 158 152 212 152 L 300 152 Q 354 152 354 206 L 354 372 L 300 372 L 256 410" fill="none" stroke="#d98a96" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 158 392 L 158 206 Q 158 152 212 152 L 300 152 Q 354 152 354 206 L 354 372 L 300 372 L 256 410" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 158 392 L 158 206 Q 158 152 212 152 L 300 152 Q 354 152 354 206 L 354 372 L 300 372 L 256 410" fill="none" stroke="#e6a3ae" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- haustra segmentation lines (the colon's pouches) -->
+<line x1="158" y1="250" x2="158" y2="250" stroke="#c47e8a" stroke-width="0"/>
+<path d="M 138 252 L 178 252 M 138 312 L 178 312 M 158 392 L 158 392" stroke="#c06b78" stroke-width="6" stroke-linecap="round"/>
+<path d="M 334 252 L 374 252 M 334 312 L 374 312" stroke="#c06b78" stroke-width="6" stroke-linecap="round"/>
+<path d="M 192 132 L 192 172 M 320 132 L 320 172" stroke="#c06b78" stroke-width="6" stroke-linecap="round"/>
+<!-- appendix: little worm hanging off bottom-right of caecum -->
+<path d="M 158 388 q -16 24 -36 30" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 158 388 q -16 24 -36 30" fill="none" stroke="#e6a3ae" stroke-width="14" stroke-linecap="round"/>
+</svg>

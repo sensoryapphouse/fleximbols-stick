@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- water -->
+<path d="M 44 384 Q 86 370 126 384 T 206 384 T 286 384 T 366 384 T 446 384 T 472 384 L 472 430 L 44 430 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- stout short hull, high bow at right -->
+<path d="M 96 300 L 360 286 Q 416 282 420 322 Q 414 372 366 372 L 150 372 Q 100 372 96 300 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- black topside band -->
+<path d="M 100 308 L 360 294 Q 404 292 412 312 L 108 326 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
+<!-- big chunky wheelhouse -->
+<rect x="150" y="208" width="150" height="92" rx="8" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wheelhouse windows -->
+<rect x="170" y="226" width="40" height="34" rx="4" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="240" y="226" width="40" height="34" rx="4" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6"/>
+<!-- tall fat funnel -->
+<rect x="196" y="138" width="58" height="70" rx="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="196" y="150" width="58" height="16" fill="#1a1a1a"/>
+<!-- big tyre fender on bow -->
+<circle cx="392" cy="330" r="22" fill="none" stroke="#1a1a1a" stroke-width="10"/>
+</svg>

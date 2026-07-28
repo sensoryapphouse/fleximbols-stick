@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- laundry mound inside -->
+<path d="M 168 250 Q 200 200 256 214 Q 300 196 332 232 Q 360 222 356 258 L 156 258 Q 152 240 168 250 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 210 228 q 18 -22 40 -6" fill="none" stroke="#9aa0a6" stroke-width="6" stroke-linecap="round"/>
+<path d="M 286 224 q 16 -16 34 0" fill="none" stroke="#9aa0a6" stroke-width="6" stroke-linecap="round"/>
+<!-- basket body (tapered tub) -->
+<path d="M 150 256 L 362 256 L 340 408 Q 338 420 326 420 L 186 420 Q 174 420 172 408 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- weave verticals -->
+<line x1="196" y1="262" x2="190" y2="414" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<line x1="256" y1="262" x2="256" y2="414" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<line x1="316" y1="262" x2="322" y2="414" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<!-- weave horizontals -->
+<line x1="166" y1="306" x2="346" y2="306" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<line x1="160" y1="362" x2="352" y2="362" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<!-- rim -->
+<rect x="140" y="246" width="232" height="24" rx="12" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- handle cutouts -->
+<rect x="176" y="290" width="44" height="16" rx="8" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="292" y="290" width="44" height="16" rx="8" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6"/>
+</g></svg>

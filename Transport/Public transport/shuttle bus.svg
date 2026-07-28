@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="22" y="196" width="246" height="14" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bus body - short stubby proportions -->
+  <path d="M38 200 L38 110 Q38 95 52 92 L238 92 Q252 92 252 110 L252 200 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Roof curve -->
+  <path d="M52 92 Q38 88 40 76 L58 62 Q72 52 95 50 L210 50 Q230 52 240 62 L252 76 Q254 88 238 92 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Windscreen -->
+  <path d="M50 90 L62 66 Q72 57 95 55 L195 55 Q218 57 228 66 L240 90 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Side windows - 4 windows (small bus feel) -->
+  <rect x="50" y="108" width="40" height="30" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="100" y="108" width="40" height="30" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="150" y="108" width="40" height="30" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="200" y="108" width="40" height="30" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Side stripe -->
+  <rect x="38" y="148" width="214" height="10" rx="0" fill="#1d0e82" stroke="none"/>
+  <!-- Front door -->
+  <rect x="42" y="150" width="30" height="48" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Door handle -->
+  <rect x="68" y="170" width="6" height="14" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Rear door -->
+  <rect x="222" y="150" width="26" height="48" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Headlights -->
+  <rect x="38" y="115" width="14" height="18" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tail lights -->
+  <rect x="238" y="115" width="14" height="18" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Destination board above windscreen -->
+  <rect x="80" y="52" width="130" height="14" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="84" y="54" width="80" height="10" rx="2" fill="#f7de58"/>
+  <!-- Wheels - closer together (short wheelbase) -->
+  <circle cx="82" cy="200" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="82" cy="200" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="200" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="208" cy="200" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bumper front -->
+  <rect x="36" y="182" width="16" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bumper rear -->
+  <rect x="238" y="182" width="16" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

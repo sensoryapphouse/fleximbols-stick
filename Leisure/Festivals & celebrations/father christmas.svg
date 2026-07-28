@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="51.78 43.25 416.97 416.97">
+<!-- Santa hat + face as an OBJECT/emblem (no body figure) -->
+<!-- face circle -->
+<circle cx="256" cy="288" r="120" fill="#ffd9b3" stroke="#1a1a1a" stroke-width="9"/>
+<!-- beard -->
+<path d="M 150 290 Q 150 430 256 430 Q 362 430 362 290 Q 330 360 256 360 Q 182 360 150 290 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- moustache -->
+<path d="M 256 318 Q 224 348 192 326 Q 224 336 256 318 Q 288 336 320 326 Q 288 348 256 318 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- nose -->
+<circle cx="256" cy="300" r="17" fill="#f29bb9" stroke="#1a1a1a" stroke-width="7"/>
+<!-- eyes -->
+<circle cx="216" cy="270" r="9" fill="#1a1a1a"/>
+<circle cx="296" cy="270" r="9" fill="#1a1a1a"/>
+<!-- hat brim -->
+<rect x="140" y="172" width="232" height="34" rx="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- hat cone -->
+<path d="M 156 174 Q 230 86 360 96 L 372 174 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pom pom -->
+<circle cx="362" cy="96" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

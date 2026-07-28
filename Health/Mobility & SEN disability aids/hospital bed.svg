@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 114.11 345.21 345.21">
+<!-- hospital bed: raised head section, side rail, pillow, wheels, IV-free simple -->
+<!-- mattress base -->
+<rect x="110" y="270" width="292" height="40" rx="8" fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- raised head/back rest (left) -->
+<path d="M 110 270 L 110 196 Q 110 186 122 186 L 168 186 Q 178 186 178 196 L 178 270 Z" fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pillow -->
+<rect x="120" y="200" width="56" height="34" rx="12" fill="#fff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- blanket on lower part -->
+<rect x="200" y="252" width="200" height="22" rx="6" fill="#5a9ec9" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- side safety rail -->
+<rect x="230" y="222" width="120" height="34" rx="6" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="290" y1="222" x2="290" y2="256" stroke="#1a1a1a" stroke-width="7"/>
+<!-- legs -->
+<line x1="130" y1="310" x2="130" y2="360" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<line x1="382" y1="310" x2="382" y2="360" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<!-- wheels -->
+<circle cx="130" cy="372" r="16" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="382" cy="372" r="16" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

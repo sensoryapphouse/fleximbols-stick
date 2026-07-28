@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky / icy backdrop -->
+  <rect x="0" y="0" width="290" height="120" fill="#dff3fd" stroke="none"/>
+  <!-- Snow / ice ground -->
+  <rect x="0" y="120" width="290" height="120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Globe / polar circle (left half of canvas) -->
+  <circle cx="100" cy="120" r="85" fill="#90a7d6" stroke="#1a1a1a" stroke-width="7.78"/>
+  <!-- Antarctic landmass (white blob centred on south pole on this globe) -->
+  <path d="M55,135 Q70,115 90,118 Q110,108 130,118 Q150,130 145,150 Q120,170 95,165 Q70,160 60,150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Latitude lines on globe -->
+  <ellipse cx="100" cy="80" rx="78" ry="10" fill="none" stroke="#2a4ec0" stroke-width="3.33"/>
+  <ellipse cx="100" cy="120" rx="85" ry="14" fill="none" stroke="#2a4ec0" stroke-width="3.33"/>
+  <ellipse cx="100" cy="160" rx="78" ry="10" fill="none" stroke="#2a4ec0" stroke-width="3.33"/>
+  <!-- Antarctic Circle highlighted (dashed red circle around south pole) -->
+  <ellipse cx="100" cy="145" rx="55" ry="22" fill="none" stroke="#d01424" stroke-width="6.67" stroke-dasharray="6 4"/>
+  <!-- Longitude meridians -->
+  <path d="M100,35 Q70,120 100,205" fill="none" stroke="#2a4ec0" stroke-width="3.33"/>
+  <path d="M100,35 Q130,120 100,205" fill="none" stroke="#2a4ec0" stroke-width="3.33"/>
+  <!-- South pole marker (star) -->
+  <circle cx="100" cy="148" r="3" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Iceberg right side -->
+  <polygon points="195,165 215,130 235,150 250,135 270,155 280,170 280,200 195,200" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <line x1="215" y1="130" x2="220" y2="170" stroke="#90a7d6" stroke-width="4.45"/>
+  <line x1="250" y1="135" x2="248" y2="170" stroke="#90a7d6" stroke-width="4.45"/>
+  <!-- Penguins (full body) -->
+  <!-- Penguin 1 -->
+  <ellipse cx="200" cy="210" rx="14" ry="20" fill="#000000" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="200" cy="214" rx="8" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="188" r="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="197" cy="187" r="1.5" fill="#ffffff"/>
+  <circle cx="203" cy="187" r="1.5" fill="#ffffff"/>
+  <polygon points="198,192 202,192 200,197" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M186,205 L182,215" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M214,205 L218,215" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="195" y1="230" x2="195" y2="234" stroke="#ff9900" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="205" y1="230" x2="205" y2="234" stroke="#ff9900" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Penguin 2 (smaller, behind) -->
+  <ellipse cx="240" cy="215" rx="11" ry="16" fill="#000000" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="240" cy="218" rx="6" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="198" r="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="238" cy="197" r="1.2" fill="#ffffff"/>
+  <circle cx="242" cy="197" r="1.2" fill="#ffffff"/>
+  <polygon points="238,201 242,201 240,205" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <line x1="237" y1="229" x2="237" y2="232" stroke="#ff9900" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="243" y1="229" x2="243" y2="232" stroke="#ff9900" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- A few snowflakes -->
+  <circle cx="30" cy="30" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="220" cy="40" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="260" cy="80" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

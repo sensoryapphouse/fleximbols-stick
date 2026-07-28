@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="150.11 63.92 314.18 314.18">
+<!-- fruity: cluster of mixed fruit (grapes + cherries + leaf) -->
+<g stroke-linecap="round" stroke-linejoin="round">
+<!-- stems -->
+<path d="M 256 150 Q 250 120 224 110" fill="none" stroke="#7a4a25" stroke-width="9"/>
+<path d="M 256 150 Q 268 122 300 116" fill="none" stroke="#7a4a25" stroke-width="9"/>
+<!-- leaf -->
+<path d="M 224 110 Q 168 92 176 150 Q 224 156 224 110 Z" fill="#5bbf4a" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="200" y1="120" x2="210" y2="142" stroke="#1a1a1a" stroke-width="5"/>
+<!-- bunch of grapes -->
+<circle cx="256" cy="186" r="30" fill="#8e6fc8" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="212" cy="216" r="30" fill="#9d7fd6" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="300" cy="216" r="30" fill="#9d7fd6" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="234" cy="262" r="30" fill="#8e6fc8" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="278" cy="262" r="30" fill="#8e6fc8" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="306" r="30" fill="#9d7fd6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- cherries -->
+<path d="M 354 248 Q 372 210 398 206" fill="none" stroke="#7a4a25" stroke-width="8"/>
+<path d="M 398 248 Q 404 212 398 206" fill="none" stroke="#7a4a25" stroke-width="8"/>
+<circle cx="350" cy="300" r="34" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="406" cy="296" r="34" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="340" cy="290" r="6" fill="#fff"/>
+<circle cx="396" cy="286" r="6" fill="#fff"/>
+</g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Globe circle base -->
+  <circle cx="145" cy="125" r="100" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Left half overlay: green/healthy -->
+  <path d="M145 25 A100 100 0 0 0 145 225 Z" fill="#529929" stroke="none"/>
+  <!-- Dividing line (vertical) -->
+  <line x1="145" y1="25" x2="145" y2="225" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Globe outline on top -->
+  <circle cx="145" cy="125" r="100" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- LEFT side (healthy): green land masses -->
+  <ellipse cx="110" cy="100" rx="28" ry="18" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="100" cy="140" rx="22" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="118" cy="162" rx="16" ry="10" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left side: white clouds -->
+  <ellipse cx="88" cy="78" rx="16" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="100" cy="74" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Left side: blue sea tint already from base circle -->
+  <!-- RIGHT side (hot/cracked): orange-brown land -->
+  <ellipse cx="180" cy="105" rx="30" ry="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="192" cy="148" rx="24" ry="15" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Crack lines on right land mass -->
+  <line x1="172" y1="100" x2="180" y2="112" stroke="#5e1f0a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="180" y1="112" x2="174" y2="122" stroke="#5e1f0a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="185" y1="108" x2="192" y2="118" stroke="#5e1f0a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="186" y1="143" x2="194" y2="156" stroke="#5e1f0a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="194" y1="156" x2="188" y2="163" stroke="#5e1f0a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Right side: heat haze / sun rays at top right -->
+  <circle cx="218" cy="62" r="16" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="218" y1="40" x2="218" y2="32" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="234" y1="46" x2="240" y2="40" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="240" y1="62" x2="248" y2="62" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="234" y1="78" x2="240" y2="84" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Latitude arc lines -->
+  <path d="M45 125 Q95 108 145 125" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M145 125 Q195 142 245 125" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M55 90 Q100 78 145 88" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M55 160 Q100 172 145 162" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

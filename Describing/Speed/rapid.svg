@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="53.57 45.89 486.79 486.79">
+<!-- rapid: rocket blasting straight up with streak lines + upward arrow -->
+<!-- motion streak lines trailing below -->
+<line x1="226" y1="430" x2="226" y2="486" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="256" y1="442" x2="256" y2="498" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="286" y1="430" x2="286" y2="486" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- exhaust flame -->
+<path d="M 224 392 Q 256 414 288 392 Q 278 432 256 462 Q 234 432 224 392 Z"
+      fill="#f6a93b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left fin -->
+<path d="M 218 320 L 176 392 L 218 392 Z"
+      fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right fin -->
+<path d="M 294 320 L 336 392 L 294 392 Z"
+      fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rocket body -->
+<path d="M 256 80 Q 300 140 300 260 L 300 392 L 212 392 L 212 260 Q 212 140 256 80 Z"
+      fill="#e8554e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- nose tip -->
+<path d="M 256 80 Q 280 116 288 168 L 224 168 Q 232 116 256 80 Z"
+      fill="#f4a09a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- window -->
+<circle cx="256" cy="232" r="30" fill="#bfe0f5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- forward (upward) arrow -->
+<path d="M 406.0 320.0 L 406.0 180.0 L 418.0 180.0 L 396.0 146.0 L 374.0 180.0 L 386.0 180.0 L 386.0 320.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

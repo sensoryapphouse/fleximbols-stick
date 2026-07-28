@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- bottom shell (cupped half) -->
+<path d="M 128 300 C 120 260 156 222 210 214 C 268 206 330 214 372 244 C 404 266 410 296 396 318 C 360 336 300 344 246 342 C 190 340 146 330 128 300 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inner nacre of bottom shell -->
+<path d="M 162 296 C 158 270 188 248 232 244 C 286 240 332 250 364 272 C 380 284 382 300 372 312 C 338 324 290 328 246 326 C 200 324 174 314 162 296 Z" fill="#eef2f5" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- oyster meat -->
+<path d="M 224 296 C 216 276 240 262 272 264 C 308 266 332 280 326 300 C 320 318 286 322 258 318 C 236 314 228 308 224 296 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- top shell (lifted lid) -->
+<path d="M 140 214 C 116 182 150 138 214 128 C 280 118 344 128 380 158 C 404 178 398 206 372 218 C 332 200 280 192 232 196 C 188 200 156 204 140 214 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- texture ridges on top shell -->
+<path d="M 176 196 C 200 168 260 156 318 168 M 190 210 C 220 184 282 176 340 190" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+</svg>

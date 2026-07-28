@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky -->
+  <rect x="20" y="20" width="250" height="150" rx="6" fill="#dff3fd" stroke="none"/>
+  <!-- Building left background -->
+  <rect x="20" y="60" width="55" height="160" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Windows left building -->
+  <rect x="30" y="72" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="52" y="72" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="30" y="96" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="52" y="96" width="15" height="14" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="30" y="120" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="52" y="120" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Building right background -->
+  <rect x="215" y="45" width="55" height="175" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Windows right building -->
+  <rect x="225" y="58" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="247" y="58" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="225" y="82" width="15" height="14" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="247" y="82" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="225" y="106" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="247" y="106" width="15" height="14" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Main building / balcony host -->
+  <rect x="75" y="80" width="140" height="140" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Balcony floor -->
+  <rect x="68" y="148" width="154" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Balcony railing -->
+  <rect x="70" y="130" width="150" height="20" rx="3" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <line x1="98" y1="130" x2="98" y2="150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="126" y1="130" x2="126" y2="150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="154" y1="130" x2="154" y2="150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="182" y1="130" x2="182" y2="150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="130" x2="210" y2="150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Plant pot left on balcony -->
+  <rect x="78" y="110" width="26" height="22" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Plant left - bushy -->
+  <circle cx="91" cy="100" r="16" fill="#529929" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="80" cy="106" r="11" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="102" cy="104" r="12" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Plant pot centre -->
+  <rect x="129" y="112" width="26" height="20" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tall plant centre - vertical -->
+  <line x1="142" y1="112" x2="142" y2="85" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M142 98 C128 90 122 78 128 68 C136 72 140 84 142 98 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M142 90 C156 82 162 70 156 60 C148 64 144 76 142 90 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Plant pot right -->
+  <rect x="180" y="110" width="26" height="22" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Flowers right -->
+  <line x1="193" y1="110" x2="193" y2="88" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <circle cx="193" cy="82" r="10" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="183" cy="91" r="7" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="203" cy="89" r="8" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Hanging plant from balcony above -->
+  <line x1="115" y1="130" x2="115" y2="110" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="115" cy="105" r="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M115 115 C105 120 98 128 102 135" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M115 115 C125 122 130 130 125 136" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Ground -->
+  <rect x="20" y="210" width="250" height="20" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+</g></svg>

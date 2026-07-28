@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- smartphone-shaped battery body -->
+  <rect x="95" y="25" width="100" height="180" rx="14" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- top terminal nub -->
+  <rect x="130" y="15" width="30" height="14" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- inner screen/window area -->
+  <rect x="108" y="42" width="74" height="146" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- charge level bars stacked -->
+  <rect x="118" y="150" width="54" height="26" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="118" y="118" width="54" height="26" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="118" y="86" width="54" height="26" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="118" y="54" width="54" height="26" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lightning bolt charge indicator on side -->
+  <path d="M212 95 L228 95 L220 120 L236 120 L210 160 L218 132 L204 132 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

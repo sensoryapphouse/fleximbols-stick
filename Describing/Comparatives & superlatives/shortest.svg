@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="11.52 66.99 490.67 490.67">
+<!-- shortest: three pencils of decreasing length, arrow on the shortest -->
+<!-- long pencil (faded) -->
+<g opacity="0.34">
+<g transform="translate(70 150)">
+<rect x="0" y="0" width="360" height="36" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9"/>
+<polygon points="360,0 360,36 398,18" fill="#e8b89a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="383,11 398,18 383,25" fill="#1a1a1a"/>
+<rect x="-22" y="0" width="22" height="36" fill="#f3a0a0" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+</g>
+<!-- medium pencil (faded) -->
+<g opacity="0.34">
+<g transform="translate(70 240)">
+<rect x="0" y="0" width="230" height="36" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9"/>
+<polygon points="230,0 230,36 268,18" fill="#e8b89a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="253,11 268,18 253,25" fill="#1a1a1a"/>
+<rect x="-22" y="0" width="22" height="36" fill="#f3a0a0" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+</g>
+<!-- short pencil (bold) -->
+<g transform="translate(70 340)">
+<rect x="0" y="0" width="110" height="38" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+<polygon points="110,0 110,38 150,19" fill="#e8b89a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="133,11 150,19 133,27" fill="#1a1a1a"/>
+<rect x="-24" y="0" width="24" height="38" fill="#f3a0a0" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<!-- bold green arrow pointing at the shortest -->
+<line x1="95" y1="430" x2="95" y2="470" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="95" y1="470" x2="68" y2="440" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="95" y1="470" x2="122" y2="440" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="95" y1="430" x2="95" y2="470" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="95" y1="470" x2="68" y2="440" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="95" y1="470" x2="122" y2="440" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+</svg>

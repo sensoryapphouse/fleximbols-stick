@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hand/bench plane: long flat metal body, rear tote handle, front knob, angled blade -->
+
+  <!-- Main body sole (long flat base) -->
+  <rect x="22" y="130" width="246" height="28" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55"/>
+
+  <!-- Body sides/cheeks (the tall body above the sole) -->
+  <rect x="22" y="90" width="246" height="44" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55"/>
+
+  <!-- Frog / blade mouth area - opening in sole -->
+  <rect x="120" y="128" width="30" height="6" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- Blade iron (angled, sticking up through body) -->
+  <polygon points="125,95 145,95 152,125 118,125" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Blade cap iron screw -->
+  <circle cx="135" cy="108" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Rear tote handle (pistol-grip style wooden handle at back) -->
+  <path d="M 195,92 Q 210,80 220,85 Q 235,90 230,110 Q 225,128 215,130 L 205,130 L 195,128 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tote grain lines -->
+  <line x1="198" y1="100" x2="218" y2="96" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="197" y1="112" x2="222" y2="108" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="198" y1="122" x2="218" y2="120" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+
+  <!-- Front knob (round mushroom knob at front) -->
+  <ellipse cx="62" cy="90" rx="18" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55"/>
+  <rect x="56" y="90" width="12" height="20" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="62" cy="110" rx="12" ry="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Lateral adjustment lever on back of body -->
+  <rect x="165" y="95" width="8" height="28" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Depth adjustment knob (brass knob on back) -->
+  <circle cx="190" cy="98" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

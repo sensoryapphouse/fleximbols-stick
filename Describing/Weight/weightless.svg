@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="99.88 85.37 312.24 312.24">
+<!-- floating cube -->
+<g>
+<polygon points="206 232 256 210 306 232 256 254" fill="#bcd6f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="206 232 256 254 256 320 206 298" fill="#7fa8d8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="306 232 256 254 256 320 306 298" fill="#5d8bc4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+<!-- up arrows showing it rises (weightless) -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<!-- centre arrow above -->
+<line x1="256" y1="180" x2="256" y2="110"/>
+<polyline points="234 142 256 110 278 142"/>
+<!-- left arrow -->
+<line x1="160" y1="312" x2="160" y2="248"/>
+<polyline points="140 278 160 248 180 278"/>
+<!-- right arrow -->
+<line x1="352" y1="312" x2="352" y2="248"/>
+<polyline points="332 278 352 248 372 278"/>
+</g>
+<!-- little sparkle dots to suggest lightness/air -->
+<g fill="#1a1a1a">
+<circle cx="196" cy="200" r="6"/>
+<circle cx="320" cy="206" r="6"/>
+<circle cx="256" cy="372" r="6"/>
+</g>
+</svg>

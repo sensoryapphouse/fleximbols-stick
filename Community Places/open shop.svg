@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- shop body -->
+<rect x="130" y="230" width="252" height="180" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- awning -->
+<path d="M 118 180 L 394 180 L 382 230 L 130 230 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<g stroke="#1a1a1a" stroke-width="6">
+<line x1="160" y1="180" x2="156" y2="230"/>
+<line x1="208" y1="180" x2="204" y2="230"/>
+<line x1="256" y1="180" x2="256" y2="230"/>
+<line x1="304" y1="180" x2="308" y2="230"/>
+<line x1="352" y1="180" x2="356" y2="230"/>
+</g>
+<!-- open door (green, ajar) -->
+<rect x="300" y="290" width="70" height="120" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="312" y="305" width="46" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<text x="335" y="323" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#d63b46" text-anchor="middle">OPEN</text>
+<circle cx="312" cy="352" r="6" fill="#1a1a1a"/>
+<!-- shop window with goods -->
+<rect x="150" y="290" width="120" height="90" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="164" y="330" width="20" height="22" fill="#e08a3a" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="194" y="330" width="20" height="22" fill="#5aa83c" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="224" y="330" width="20" height="22" fill="#d63b46" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

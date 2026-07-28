@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Red envelope body -->
+  <rect x="55" y="50" width="180" height="160" rx="6" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Gold decorative border -->
+  <rect x="68" y="63" width="154" height="134" fill="none" stroke="#f2e40d" stroke-width="4.45"/>
+  <!-- Gold ornamental pattern: central diamond -->
+  <path d="M145 90 L175 125 L145 160 L115 125 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Inner gold symbol (stylised fu/good fortune emblem) -->
+  <rect x="130" y="110" width="30" height="30" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M130 125 L160 125 M145 110 L145 140" stroke="#f7de58" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Corner gold dots -->
+  <circle cx="78" cy="73" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="212" cy="73" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="78" cy="187" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="212" cy="187" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Envelope flap line at top -->
+  <path d="M55 65 L145 95 L235 65" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Money/notes peeking out of top -->
+  <rect x="120" y="35" width="50" height="25" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="127" y="42" width="36" height="11" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Coin peeking -->
+  <circle cx="180" cy="48" r="11" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="176" y="44" width="8" height="8" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ceiling mount bar -->
+  <line x1="100" y1="18" x2="190" y2="18" stroke="#4d4d4d" stroke-width="6.34" stroke-linecap="round"/>
+  <!-- Hanging cord -->
+  <line x1="145" y1="18" x2="145" y2="55" stroke="#4d4d4d" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- LED lamp housing: wide flat bar -->
+  <rect x="78" y="55" width="134" height="28" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- LED diode dots: purple/pink LEDs -->
+  <circle cx="100" cy="69" r="5" fill="#7c3fac"/>
+  <circle cx="116" cy="69" r="5" fill="#f266aa"/>
+  <circle cx="132" cy="69" r="5" fill="#7c3fac"/>
+  <circle cx="148" cy="69" r="5" fill="#f266aa"/>
+  <circle cx="164" cy="69" r="5" fill="#7c3fac"/>
+  <circle cx="180" cy="69" r="5" fill="#f266aa"/>
+  <!-- Light beam: expanding trapezoid in purple-pink -->
+  <path d="M92 83 L68 170 L222 170 L198 83 Z" fill="#7c3fac" stroke="none"/>
+  <!-- Beam inner highlight (lighter) -->
+  <path d="M108 83 L90 155 L200 155 L182 83 Z" fill="#f4a4b2" stroke="none"/>
+  <!-- Beam centre highlight -->
+  <path d="M128 83 L118 148 L172 148 L162 83 Z" fill="#ffffff" stroke="none"/>
+  <!-- Beam edge outline -->
+  <path d="M92 83 L68 170 L222 170 L198 83 Z" fill="none" stroke="#7c3fac" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Small plant under light -->
+  <line x1="145" y1="200" x2="145" y2="175" stroke="#529929" stroke-width="5.08" stroke-linecap="round"/>
+  <ellipse cx="127" cy="183" rx="18" ry="10" fill="#67832d" stroke="#1a1a1a" stroke-width="3.81" transform="rotate(-25 127 183)"/>
+  <ellipse cx="163" cy="180" rx="18" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="3.81" transform="rotate(25 163 180)"/>
+  <!-- Pot -->
+  <path d="M128 200 L132 218 L158 218 L162 200 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="125" y="196" width="40" height="9" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.81"/>
+</g></svg>

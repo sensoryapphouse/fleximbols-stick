@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- base -->
+  <rect x="95" y="205" width="100" height="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <rect x="110" y="190" width="70" height="17" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- winged figure body (kneeling/standing pose) -->
+  <!-- head -->
+  <circle cx="145" cy="85" r="12" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- torso -->
+  <path d="M133 95 L157 95 L162 145 L128 145 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- legs/lower body tapering to base -->
+  <path d="M128 145 L162 145 L168 190 L122 190 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- arms raised holding atom above head -->
+  <path d="M133 100 L105 70 L100 50 L108 48 L115 65 L140 95 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M157 100 L185 70 L190 50 L182 48 L175 65 L150 95 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- wings spread wide -->
+  <!-- left wing -->
+  <path d="M128 110 Q70 90 35 110 Q60 120 80 130 Q55 140 40 160 Q80 150 125 140 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M85 110 L95 125 M70 115 L82 130 M55 122 L70 138" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round" fill="none"/>
+  <!-- right wing -->
+  <path d="M162 110 Q220 90 255 110 Q230 120 210 130 Q235 140 250 160 Q210 150 165 140 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M205 110 L195 125 M220 115 L208 130 M235 122 L220 138" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round" fill="none"/>
+  <!-- atom held above (nucleus + orbits) -->
+  <circle cx="145" cy="40" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="145" cy="40" rx="20" ry="8" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="145" cy="40" rx="20" ry="8" fill="none" stroke="#1a1a1a" stroke-width="3.56" transform="rotate(60 145 40)"/>
+  <ellipse cx="145" cy="40" rx="20" ry="8" fill="none" stroke="#1a1a1a" stroke-width="3.56" transform="rotate(-60 145 40)"/>
+  <circle cx="165" cy="40" r="2.5" fill="#1d0e82"/>
+  <circle cx="130" cy="28" r="2.5" fill="#529929"/>
+  <circle cx="135" cy="55" r="2.5" fill="#7c3fac"/>
+</g></svg>

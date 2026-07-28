@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- BRUSHES peeking out of the top of the open zip -->
+  <!-- Brush 1: tall fluffy round (blush brush) -->
+  <rect x="88" y="30" width="10" height="80" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="86" y="96" width="14" height="10" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="93" cy="28" rx="14" ry="16" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Brush 2: medium flat angled -->
+  <rect x="120" y="36" width="10" height="74" rx="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="118" y="98" width="14" height="10" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="114,38 134,38 136,22 112,22" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Brush 3: tapered pencil tip -->
+  <rect x="152" y="32" width="10" height="78" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="150" y="96" width="14" height="10" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="157" cy="30" rx="8" ry="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- SOFT ZIP POUCH body -->
+  <path d="M38 108 Q38 220 50 228 Q145 236 240 228 Q252 220 252 108 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bag crease / soft texture lines -->
+  <path d="M56 136 Q145 130 234 136" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M52 162 Q145 156 238 162" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M54 190 Q145 184 236 190" fill="none" stroke="#f266aa" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- ZIP strip along top of bag -->
+  <rect x="38" y="104" width="214" height="14" rx="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Zip teeth marks -->
+  <line x1="58" y1="104" x2="58" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="74" y1="104" x2="74" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="90" y1="104" x2="90" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="106" y1="104" x2="106" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="122" y1="104" x2="122" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="138" y1="104" x2="138" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="154" y1="104" x2="154" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="170" y1="104" x2="170" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="186" y1="104" x2="186" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="202" y1="104" x2="202" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="218" y1="104" x2="218" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <line x1="234" y1="104" x2="234" y2="118" stroke="#392170" stroke-width="4.45"/>
+  <!-- Zip pull tab -->
+  <rect x="240" y="102" width="10" height="20" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pull tab ring -->
+  <circle cx="245" cy="98" r="5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

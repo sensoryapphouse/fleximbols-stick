@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.52 79.52 352.97 352.97">
+<!-- consonant = a sound token blocked / closed by a bar (contrasts with open vowel) -->
+<circle cx="256" cy="256" r="150" fill="#cfe3d4" stroke="#1a1a1a" stroke-width="9"/>
+<!-- closed mouth (blocked airflow) -->
+<line x1="176" y1="262" x2="336" y2="262" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- blocking bar across the sound -->
+<rect x="232" y="150" width="48" height="212" rx="12" fill="#e2483a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

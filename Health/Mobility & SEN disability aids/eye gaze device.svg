@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="74.67 80.64 362.67 362.67">
+<!-- eye gaze device: screen with eye-tracking bar; a gaze beam from an eye hits a target cell -->
+<rect x="112" y="108" width="288" height="232" rx="16" fill="#33475b" stroke="#1a1a1a" stroke-width="10"/>
+<!-- screen -->
+<rect x="138" y="132" width="236" height="158" rx="8" fill="#cfe8ff" stroke="#1a1a1a" stroke-width="6"/>
+<!-- target cell being selected -->
+<rect x="288" y="150" width="62" height="62" rx="8" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="319" cy="181" r="16" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<!-- eye-tracking sensor bar under the screen -->
+<rect x="138" y="298" width="236" height="34" rx="10" fill="#1f2933" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="180" cy="315" r="8" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="332" cy="315" r="8" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="3"/>
+<!-- the eye looking at the device -->
+<path d="M 150 400 Q 196 366 242 400 Q 196 434 150 400 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="196" cy="400" r="18" fill="#5a6270" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="196" cy="400" r="7" fill="#1a1a1a"/>
+<!-- gaze beam from eye to target -->
+<line x1="214" y1="388" x2="312" y2="196" stroke="#3aa6d6" stroke-width="7" stroke-linecap="round" stroke-dasharray="4 14"/>
+</svg>

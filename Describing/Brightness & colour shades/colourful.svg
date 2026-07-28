@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="81.45 103.64 349.09 349.09">
+<!-- rainbow arcs -->
+<g fill="none" stroke-width="26" stroke-linecap="round">
+<path d="M 116 348 A 140 140 0 0 1 396 348" stroke="#e0463a"/>
+<path d="M 142 348 A 114 114 0 0 1 370 348" stroke="#f0a030"/>
+<path d="M 168 348 A 88 88 0 0 1 344 348" stroke="#f6d23a"/>
+<path d="M 194 348 A 62 62 0 0 1 318 348" stroke="#3aa64a"/>
+<path d="M 220 348 A 36 36 0 0 1 292 348" stroke="#3a7ad6"/>
+</g>
+<!-- outline -->
+<path d="M 116 348 A 140 140 0 0 1 396 348" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 207 348 A 49 49 0 0 1 305 348" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="116" y1="348" x2="207" y2="348" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="305" y1="348" x2="396" y2="348" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

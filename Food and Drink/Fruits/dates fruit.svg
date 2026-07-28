@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dates fruit: cluster of date fruits on a stem in a bowl -->
+
+  <!-- Bowl -->
+  <path d="M68 185 Q68 218 145 222 Q222 218 222 185Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="185" rx="77" ry="16" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bowl rim highlight -->
+  <ellipse cx="138" cy="182" rx="30" ry="6" fill="#eed5b6" stroke="none"/>
+
+  <!-- Main stem -->
+  <path d="M145 178 Q145 148 148 120 Q150 100 155 82" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Branch left -->
+  <path d="M150 130 Q130 115 110 105" fill="none" stroke="#7d5e23" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Branch right -->
+  <path d="M152 115 Q172 100 192 92" fill="none" stroke="#7d5e23" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Branch centre-left -->
+  <path d="M148 145 Q128 135 108 130" fill="none" stroke="#7d5e23" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Branch centre-right -->
+  <path d="M150 142 Q168 130 186 125" fill="none" stroke="#7d5e23" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Branch upper -->
+  <path d="M153 100 Q140 85 132 72" fill="none" stroke="#7d5e23" stroke-width="3.55" stroke-linecap="round"/>
+
+  <!-- Date fruits - left branch (3 dates) -->
+  <ellipse cx="110" cy="103" rx="14" ry="19" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="110" cy="97" rx="9" ry="7" fill="#e6b98a" stroke="none"/>
+  <ellipse cx="90" cy="108" rx="13" ry="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="90" cy="102" rx="8" ry="6" fill="#9d7246" stroke="none"/>
+  <ellipse cx="128" cy="98" rx="13" ry="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="128" cy="92" rx="8" ry="6" fill="#e6b98a" stroke="none"/>
+
+  <!-- Date fruits - right branch (3 dates) -->
+  <ellipse cx="192" cy="90" rx="14" ry="19" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="192" cy="84" rx="9" ry="7" fill="#9d7246" stroke="none"/>
+  <ellipse cx="210" cy="96" rx="13" ry="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="210" cy="90" rx="8" ry="6" fill="#e6b98a" stroke="none"/>
+  <ellipse cx="174" cy="96" rx="13" ry="18" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="174" cy="90" rx="8" ry="6" fill="#9d7246" stroke="none"/>
+
+  <!-- Date fruits - centre-left branch -->
+  <ellipse cx="108" cy="128" rx="13" ry="18" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="108" cy="122" rx="8" ry="6" fill="#9d7246" stroke="none"/>
+  <ellipse cx="90" cy="133" rx="12" ry="17" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="90" cy="127" rx="7" ry="5" fill="#e6b98a" stroke="none"/>
+
+  <!-- Date fruits - centre-right branch -->
+  <ellipse cx="186" cy="123" rx="13" ry="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="186" cy="117" rx="8" ry="6" fill="#e6b98a" stroke="none"/>
+  <ellipse cx="203" cy="128" rx="12" ry="17" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="203" cy="122" rx="7" ry="5" fill="#9d7246" stroke="none"/>
+
+  <!-- Date fruits - upper branch -->
+  <ellipse cx="132" cy="70" rx="12" ry="17" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="132" cy="64" rx="7" ry="5" fill="#e6b98a" stroke="none"/>
+  <ellipse cx="115" cy="76" rx="11" ry="16" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="115" cy="70" rx="7" ry="5" fill="#9d7246" stroke="none"/>
+</g></svg>

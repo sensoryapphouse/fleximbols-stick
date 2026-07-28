@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="59.15 85.60 393.70 393.70"><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a cute teddy bear -->
+<g transform="translate(256 262)" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round">
+<!-- ears -->
+<circle cx="-78" cy="-110" r="38" fill="#b07a44"/>
+<circle cx="78" cy="-110" r="38" fill="#b07a44"/>
+<circle cx="-78" cy="-110" r="17" fill="#d8a86a" stroke-width="0"/>
+<circle cx="78" cy="-110" r="17" fill="#d8a86a" stroke-width="0"/>
+<!-- body -->
+<ellipse cx="0" cy="92" rx="86" ry="78" fill="#c08a4e"/>
+<ellipse cx="0" cy="100" rx="48" ry="44" fill="#e6c590" stroke-width="0"/>
+<!-- arms -->
+<ellipse cx="-92" cy="60" rx="30" ry="40" fill="#b07a44"/>
+<ellipse cx="92" cy="60" rx="30" ry="40" fill="#b07a44"/>
+<!-- legs -->
+<ellipse cx="-48" cy="160" rx="34" ry="28" fill="#b07a44"/>
+<ellipse cx="48" cy="160" rx="34" ry="28" fill="#b07a44"/>
+<!-- head -->
+<circle cx="0" cy="-44" r="80" fill="#c08a4e"/>
+<!-- muzzle -->
+<ellipse cx="0" cy="-18" rx="44" ry="34" fill="#e6c590"/>
+</g>
+<!-- face details (no outline strokes for tiny bits) -->
+<g stroke="#1a1a1a" stroke-linejoin="round">
+<circle cx="226" cy="208" r="9" fill="#1a1a1a" stroke-width="0"/>
+<circle cx="286" cy="208" r="9" fill="#1a1a1a" stroke-width="0"/>
+<ellipse cx="256" cy="236" rx="11" ry="8" fill="#1a1a1a" stroke-width="0"/>
+<path d="M 256 244 Q 240 258 228 250" fill="none" stroke-width="6" stroke-linecap="round"/>
+<path d="M 256 244 Q 272 258 284 250" fill="none" stroke-width="6" stroke-linecap="round"/>
+</g>
+</svg>

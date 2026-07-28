@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- simplified USA map outline -->
+  <path d="M30 70 Q24 90 30 110 Q26 140 40 170 Q56 200 90 210 L210 210 Q244 200 256 175 Q268 145 260 120 Q266 95 254 78 Q220 64 180 68 Q140 60 100 66 Q60 60 30 70 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- USA map subtle lighter inland tone -->
+  <path d="M50 90 Q60 110 56 140 Q70 180 110 190 L200 190 Q230 180 240 150 Q244 110 234 92 Q200 84 160 88 Q120 82 80 86 Q60 82 50 90 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.23" stroke-linejoin="round"/>
+  <!-- winding Mississippi river top-to-bottom -->
+  <path d="M150 60 Q170 90 150 120 Q130 150 155 180 Q165 200 150 220" fill="none" stroke="#2a4ec0" stroke-width="22.63" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 60 Q170 90 150 120 Q130 150 155 180 Q165 200 150 220" fill="none" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round"/>
+  <!-- steamboat hull -->
+  <path d="M82 158 L142 158 L136 178 L88 178 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- steamboat deck cabin -->
+  <rect x="92" y="138" width="40" height="20" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- smokestack -->
+  <rect x="100" y="118" width="6" height="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.85"/>
+  <rect x="116" y="118" width="6" height="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- smoke -->
+  <circle cx="103" cy="112" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.23"/>
+  <circle cx="119" cy="112" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.23"/>
+  <!-- paddle wheel -->
+  <circle cx="80" cy="168" r="12" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.85"/>
+  <path d="M68 168 L92 168 M80 156 L80 180 M71 159 L89 177 M89 159 L71 177" stroke="#1a1a1a" stroke-width="3.23"/>
+  <!-- MISSISSIPPI label at top -->
+  <!-- river delta icon (replaces MISSISSIPPI text) -->
+  <path d="M104 20 L116 12 L128 20 L128 36 L116 42 L104 36 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <line x1="116" y1="12" x2="116" y2="42" stroke="#dff3fd" stroke-width="3.23" stroke-linecap="round"/>
+  <line x1="104" y1="27" x2="128" y2="27" stroke="#dff3fd" stroke-width="3.23" stroke-linecap="round"/>
+</g></svg>

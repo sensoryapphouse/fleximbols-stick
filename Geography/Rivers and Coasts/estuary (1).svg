@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left land bank -->
+  <path d="M 10 60 L 10 230 L 75 230 Q 90 200 95 170 Q 100 130 85 100 Q 70 80 50 70 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right land bank -->
+  <path d="M 280 60 L 280 230 L 215 230 Q 200 200 195 170 Q 190 130 205 100 Q 220 80 240 70 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- wide river mouth water -->
+  <path d="M 100 60 L 190 60 Q 195 130 200 175 Q 205 210 215 230 L 75 230 Q 85 210 90 175 Q 95 130 100 60 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- mixing water (lighter swirls suggest fresh + salt mixing) -->
+  <path d="M 110 130 Q 130 125 145 132 Q 165 138 180 130" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 100 165 Q 125 160 145 168 Q 170 175 190 168" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 90 200 Q 120 195 145 203 Q 175 210 200 200" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- reeds on left bank -->
+  <line x1="55" y1="180" x2="55" y2="155" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="185" x2="60" y2="158" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="65" y1="180" x2="65" y2="150" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="185" x2="50" y2="162" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="55" cy="150" rx="3" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="60" cy="153" rx="3" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="65" cy="145" rx="3" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="50" cy="157" rx="3" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- reeds on right bank -->
+  <line x1="225" y1="180" x2="225" y2="155" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="230" y1="185" x2="230" y2="158" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="235" y1="180" x2="235" y2="150" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="225" cy="150" rx="3" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="230" cy="153" rx="3" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="235" cy="145" rx="3" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- bird in sky -->
+  <path d="M 130 35 Q 138 28 145 35 Q 152 28 160 35" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 195 25 Q 202 19 208 25 Q 214 19 220 25" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

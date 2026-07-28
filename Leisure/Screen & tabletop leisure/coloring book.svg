@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="64.70 94.56 329.70 329.70">
+<!-- book page -->
+<rect x="130" y="120" width="200" height="260" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spiral binding holes -->
+<circle cx="142" cy="155" r="5" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="142" cy="200" r="5" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="142" cy="245" r="5" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="142" cy="290" r="5" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="142" cy="335" r="5" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="4"/>
+<!-- line drawing: a flower, partly coloured -->
+<circle cx="232" cy="200" r="22" fill="#f4c430" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="200" cy="210" r="18" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="264" cy="210" r="18" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="214" cy="245" r="18" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="250" cy="245" r="18" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="232" y1="262" x2="232" y2="330" stroke="#5aa83c" stroke-width="8" stroke-linecap="round"/>
+<!-- crayons lying on/over page -->
+<g transform="rotate(28 230 360)">
+<rect x="178" y="350" width="92" height="20" rx="4" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 270 350 L 286 360 L 270 370 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</g>
+<g transform="rotate(14 250 380)">
+<rect x="196" y="372" width="92" height="20" rx="4" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 288 372 L 304 382 L 288 392 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</g>
+</svg>

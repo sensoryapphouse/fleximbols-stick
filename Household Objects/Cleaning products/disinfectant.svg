@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- disinfectant: bottle with flip cap, germ + tick (kills germs) -->
+<!-- bottle body -->
+<rect x="186" y="206" width="140" height="202" rx="20" fill="#2e7d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- shoulder to neck -->
+<path d="M 220 206 L 220 178 L 292 178 L 292 206 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- flip-top cap -->
+<rect x="214" y="138" width="84" height="44" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="214" y="138" width="84" height="44" rx="8" fill="#5d6770" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="246" y="120" width="20" height="22" rx="5" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- label panel -->
+<rect x="200" y="238" width="112" height="146" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- germ blob -->
+<circle cx="252" cy="290" r="30" fill="#8cc152" stroke="#1a1a1a" stroke-width="7"/>
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
+<line x1="252" y1="252" x2="252" y2="262"/>
+<line x1="252" y1="318" x2="252" y2="328"/>
+<line x1="214" y1="290" x2="224" y2="290"/>
+<line x1="280" y1="290" x2="290" y2="290"/>
+<line x1="226" y1="264" x2="233" y2="271"/>
+<line x1="278" y1="264" x2="271" y2="271"/>
+</g>
+<circle cx="244" cy="284" r="4.5" fill="#1a1a1a"/>
+<circle cx="262" cy="296" r="4.5" fill="#1a1a1a"/>
+<!-- green tick = killed -->
+<path d="M 240 346 L 252 360 L 282 326" fill="none" stroke="#2e7d40" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

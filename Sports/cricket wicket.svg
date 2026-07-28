@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <path d="M30,210 L260,210 L260,222 L30,222 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- grass tufts -->
+  <path d="M50,210 L55,200 L60,210 M120,210 L125,200 L130,210 M195,210 L200,200 L205,210 M240,210 L245,200 L250,210"
+        fill="#67832d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- 3 vertical stumps -->
+  <path d="M85,70 L100,70 L100,210 L85,210 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <path d="M137,70 L152,70 L152,210 L137,210 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <path d="M189,70 L204,70 L204,210 L189,210 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- wood grain -->
+  <path d="M92,90 L92,200 M144,90 L144,200 M196,90 L196,200" fill="none" stroke="#7d5e23" stroke-width="2.67"/>
+  <!-- pointed stump tips (top) -->
+  <path d="M85,70 L92,60 L100,70 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M137,70 L144,60 L152,70 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M189,70 L196,60 L204,70 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- 2 bails balanced across the top -->
+  <path d="M80,52 L155,52 Q160,52 160,58 L160,62 Q160,68 155,68 L80,68 Q75,68 75,62 L75,58 Q75,52 80,52 Z"
+        fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M132,40 L210,40 Q215,40 215,46 L215,50 Q215,56 210,56 L132,56 Q127,56 127,50 L127,46 Q127,40 132,40 Z"
+        fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- bail spindle details -->
+  <circle cx="85" cy="60" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="150" cy="60" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="137" cy="48" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="205" cy="48" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sukkah hut (left/center) -->
+  <!-- back wall -->
+  <rect x="40" y="100" width="140" height="100" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- wood planks (vertical lines on wall) -->
+  <path d="M 70 100 L 70 200 M 100 100 L 100 200 M 130 100 L 130 200 M 160 100 L 160 200" stroke="#9d7246" stroke-width="4.45"/>
+  <!-- doorway opening -->
+  <rect x="90" y="150" width="40" height="50" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- decorative paper chain on side -->
+  <circle cx="150" cy="155" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="150" cy="167" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="150" cy="179" r="4" fill="#137827" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- palm-frond/branch roof -->
+  <path d="M 30 100 L 190 100" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- palm leaves laid over roof -->
+  <path d="M 35 100 Q 50 85 65 100" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 55 100 Q 70 80 95 100" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 85 100 Q 105 78 130 100" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 120 100 Q 140 80 165 100" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 150 100 Q 170 85 188 100" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ground -->
+  <rect x="10" y="200" width="280" height="30" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- lulav bundle (right side, vertical bundle of palm/willow/myrtle) -->
+  <!-- bundle wrap -->
+  <rect x="218" y="155" width="22" height="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tall palm frond (center of bundle) -->
+  <path d="M 229 30 L 229 155" stroke="#137827" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M 229 40 L 220 35 M 229 50 L 220 45 M 229 60 L 220 55 M 229 70 L 220 65 M 229 40 L 238 35 M 229 50 L 238 45 M 229 60 L 238 55 M 229 70 L 238 65 M 229 80 L 220 75 M 229 80 L 238 75 M 229 95 L 220 90 M 229 95 L 238 90 M 229 110 L 220 105 M 229 110 L 238 105 M 229 125 L 220 120 M 229 125 L 238 120 M 229 140 L 220 135 M 229 140 L 238 135" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- willow branch (thin leaf shape, left) -->
+  <path d="M 215 60 L 215 155" stroke="#67832d" stroke-width="6.67" stroke-linecap="round"/>
+  <ellipse cx="210" cy="75" rx="3" ry="8" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="210" cy="95" rx="3" ry="8" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="210" cy="115" rx="3" ry="8" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="210" cy="135" rx="3" ry="8" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- myrtle branch (rounded leaves, right) -->
+  <path d="M 245 60 L 245 155" stroke="#529929" stroke-width="6.67" stroke-linecap="round"/>
+  <circle cx="250" cy="75" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="250" cy="95" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="250" cy="115" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="250" cy="135" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- etrog (citron fruit, bottom right) -->
+  <ellipse cx="225" cy="200" rx="22" ry="28" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- etrog highlight -->
+  <path d="M 215 185 Q 212 200 218 215" fill="none" stroke="#f7de58" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- etrog stem nub -->
+  <path d="M 225 172 L 225 175" stroke="#67832d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- bumpy texture -->
+  <circle cx="220" cy="195" r="1.5" fill="#7d5e23"/>
+  <circle cx="232" cy="200" r="1.5" fill="#7d5e23"/>
+  <circle cx="222" cy="210" r="1.5" fill="#7d5e23"/>
+</g></svg>

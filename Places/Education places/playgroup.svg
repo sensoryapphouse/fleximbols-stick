@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 64.08 411.15 411.15">
+<!-- ground -->
+<line x1="80" y1="420" x2="432" y2="420" stroke="#9ec27a" stroke-width="9" stroke-linecap="round"/>
+<!-- small friendly house -->
+<polygon points="146,205 256,120 366,205" fill="#e8b84b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="160" y="205" width="192" height="215" rx="12" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="9"/>
+<!-- round window -->
+<circle cx="256" cy="250" r="30" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="226" y1="250" x2="286" y2="250" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="256" y1="220" x2="256" y2="280" stroke="#1a1a1a" stroke-width="4"/>
+<!-- arched door -->
+<path d="M 222 420 L 222 332 Q 256 304 290 332 L 290 420 Z" fill="#d6473c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="278" cy="378" r="5" fill="#1a1a1a"/>
+<!-- toy blocks out front (play cue) -->
+<rect x="150" y="356" width="40" height="40" rx="6" fill="#3f7cc4" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="322" y="356" width="40" height="40" rx="6" fill="#7cc4a0" stroke="#1a1a1a" stroke-width="7"/>
+<!-- ball -->
+<circle cx="342" cy="328" r="20" fill="#e0473c" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wipe container box -->
+  <polygon points="65,110 225,110 225,205 65,205" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- lid strip on top of box -->
+  <polygon points="65,90 225,90 225,110 65,110" fill="#90a7d6" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- lid opening oval on top -->
+  <ellipse cx="145" cy="90" rx="38" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- wipe being pulled out - wavy cloth -->
+  <path d="M 125,90 Q 130,55 138,45 Q 145,38 152,45 Q 160,55 158,35 Q 162,25 168,28 Q 174,32 170,50 Q 166,68 162,75 L 165,90" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- texture lines on wipe -->
+  <line x1="132" y1="72" x2="158" y2="68" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="130" y1="80" x2="160" y2="77" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- label on box front -->
+  <rect x="90" y="125" width="110" height="55" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- blue stripe on label -->
+  <rect x="90" y="125" width="110" height="18" rx="5" fill="#2a4ec0" stroke="none"/>
+  <rect x="90" y="135" width="110" height="8" rx="0" fill="#2a4ec0" stroke="none"/>
+  <!-- brand lines on label -->
+  <line x1="100" y1="155" x2="190" y2="155" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="167" x2="170" y2="167" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

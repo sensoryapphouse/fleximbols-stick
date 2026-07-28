@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 49.57 411.15 411.15">
+<!-- ground -->
+<line x1="80" y1="415" x2="432" y2="415" stroke="#9ec27a" stroke-width="9" stroke-linecap="round"/>
+<!-- flag pole + flag -->
+<line x1="256" y1="150" x2="256" y2="95" stroke="#6b7682" stroke-width="7" stroke-linecap="round"/>
+<polygon points="256,99 308,111 256,123" fill="#e0473c" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- roof -->
+<polygon points="150,170 256,108 362,170" fill="#c5b48f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- single-storey friendly building -->
+<rect x="120" y="170" width="272" height="245" rx="10" fill="#f3e2c6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- door -->
+<rect x="226" y="320" width="60" height="95" rx="6" fill="#2b5688" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="256" y1="322" x2="256" y2="413" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- windows -->
+<rect x="148" y="210" width="56" height="50" rx="5" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="176" y1="210" x2="176" y2="260" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="148" y1="235" x2="204" y2="235" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="308" y="210" width="56" height="50" rx="5" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="336" y1="210" x2="336" y2="260" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="308" y1="235" x2="364" y2="235" stroke="#1a1a1a" stroke-width="4"/>
+<!-- ABC toy blocks (primary cue) -->
+<rect x="150" y="320" width="44" height="44" rx="6" fill="#e8b84b" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="318" y="320" width="44" height="44" rx="6" fill="#7cc4a0" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="196" y="345" width="44" height="44" rx="6" fill="#d6473c" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

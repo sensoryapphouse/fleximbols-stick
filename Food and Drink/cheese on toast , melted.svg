@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- plate -->
+<ellipse cx="256" cy="320" rx="170" ry="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="312" rx="120" ry="40" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<!-- toast slice -->
+<path d="M158 270 Q150 210 200 200 L312 188 Q372 196 362 256 Q360 300 300 308 L210 318 Q162 312 158 270 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- melted cheese on top -->
+<path d="M186 250 Q180 218 214 212 L308 202 Q340 210 332 244 Q322 252 318 268 Q310 256 298 268 Q288 256 276 270 Q266 256 252 270 Q242 256 230 268 Q220 256 208 266 Q198 258 186 250 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

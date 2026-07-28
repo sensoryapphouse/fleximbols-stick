@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Globe (left side) -->
+  <!-- Globe outline circle -->
+  <circle cx="95" cy="125" r="85" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="11.11"/>
+
+  <!-- Latitude lines (horizontal) -->
+  <ellipse cx="95" cy="95" rx="83" ry="18" fill="none" stroke="#90a7d6" stroke-width="3.33"/>
+  <ellipse cx="95" cy="125" rx="85" ry="10" fill="none" stroke="#90a7d6" stroke-width="3.33"/>
+  <ellipse cx="95" cy="155" rx="83" ry="18" fill="none" stroke="#90a7d6" stroke-width="3.33"/>
+  <!-- Vertical meridian lines -->
+  <ellipse cx="95" cy="125" rx="30" ry="85" fill="none" stroke="#90a7d6" stroke-width="3.33"/>
+  <ellipse cx="95" cy="125" rx="60" ry="85" fill="none" stroke="#90a7d6" stroke-width="3.33"/>
+
+  <!-- Land masses (simplified continents) -->
+  <!-- North America-like -->
+  <path d="M30,80 Q40,65 55,70 Q68,75 65,95 Q62,112 50,118 Q38,120 28,108 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Europe/Africa-like blob -->
+  <path d="M88,60 Q100,55 108,65 Q115,78 110,95 Q105,110 95,118 Q85,122 80,108 Q75,90 80,75 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Small island -->
+  <ellipse cx="142" cy="100" rx="10" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Globe stand -->
+  <rect x="85" y="208" width="20" height="20" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="65" y="225" width="60" height="10" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Stand pole -->
+  <line x1="95" y1="208" x2="95" y2="210" stroke="#9d7246" stroke-width="17.78" stroke-linecap="round"/>
+
+  <!-- Map/scroll (right side) -->
+  <!-- Scroll body -->
+  <rect x="185" y="50" width="90" height="115" rx="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Scroll roll top -->
+  <ellipse cx="230" cy="50" rx="45" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Scroll roll bottom -->
+  <ellipse cx="230" cy="165" rx="45" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Map lines on scroll -->
+  <line x1="195" y1="80" x2="265" y2="80" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="97" x2="265" y2="97" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="114" x2="265" y2="114" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="131" x2="265" y2="131" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="148" x2="265" y2="148" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Vertical map lines -->
+  <line x1="218" y1="62" x2="218" y2="158" stroke="#9d7246" stroke-width="3.33"/>
+  <line x1="242" y1="62" x2="242" y2="158" stroke="#9d7246" stroke-width="3.33"/>
+  <!-- Map landmass blob -->
+  <path d="M200,88 Q212,82 222,88 Q230,96 225,110 Q218,120 206,115 Q198,106 200,88 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Compass rose (bottom-right corner) -->
+  <circle cx="255" cy="205" r="22" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- N -->
+  <polygon points="255,185 250,200 260,200" fill="#f8130d"/>
+  <!-- S -->
+  <polygon points="255,225 250,210 260,210" fill="#4d4d4d"/>
+  <!-- E -->
+  <polygon points="277,205 262,200 262,210" fill="#4d4d4d"/>
+  <!-- W -->
+  <polygon points="233,205 248,200 248,210" fill="#4d4d4d"/>
+  <!-- Center dot -->
+  <circle cx="255" cy="205" r="4" fill="#000000"/>
+</g></svg>

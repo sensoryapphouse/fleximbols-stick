@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Fire bowl: metal bowl on a stand holding flames above ground -->
+  <!-- Stand legs -->
+  <line x1="145" y1="210" x2="100" y2="230" stroke="#4d4d4d" stroke-width="10.36" stroke-linecap="round"/>
+  <line x1="145" y1="210" x2="190" y2="230" stroke="#4d4d4d" stroke-width="10.36" stroke-linecap="round"/>
+  <line x1="145" y1="210" x2="145" y2="228" stroke="#4d4d4d" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- Stand column -->
+  <rect x="138" y="178" width="14" height="35" rx="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Stand base ring -->
+  <ellipse cx="145" cy="210" rx="28" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bowl underside -->
+  <ellipse cx="145" cy="180" rx="65" ry="15" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bowl body -->
+  <path d="M80,160 Q78,185 145,188 Q212,185 210,160 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bowl rim ellipse -->
+  <ellipse cx="145" cy="160" rx="65" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bowl interior -->
+  <ellipse cx="145" cy="160" rx="55" ry="11" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Embers in bowl -->
+  <ellipse cx="145" cy="160" rx="48" ry="9" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="135" cy="160" rx="18" ry="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="155" cy="160" rx="16" ry="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="159" rx="12" ry="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Flames -->
+  <path d="M108,158 Q98,135 108,112 Q113,98 106,83 Q120,96 117,116 Q124,95 122,75 Q133,93 131,116 Q138,90 138,70 Q146,93 145,116 Q150,90 152,70 Q152,93 159,116 Q156,95 168,75 Q166,98 168,116 Q172,96 175,83 Q168,98 172,112 Q180,135 172,158" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M116,158 Q108,140 115,122 Q120,107 117,93 Q127,107 125,122 Q132,103 132,86 Q140,106 140,122 Q144,103 148,86 Q150,106 150,122 Q155,103 165,93 Q162,107 166,122 Q172,140 165,158" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M124,158 Q118,143 124,130 Q129,118 127,106 Q135,118 134,130 Q138,114 140,106 Q143,116 143,130 Q147,114 151,106 Q152,118 149,130 Q154,143 148,158" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

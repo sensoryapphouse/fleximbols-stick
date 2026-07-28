@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- standing figure (left) with open 'no, let me restate' hand -->
+<line x1="120" y1="356" x2="111" y2="486" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="150" y1="356" x2="159" y2="486" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="111" cy="488" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="159" cy="488" rx="13" ry="7" fill="#33373d"/>
+<polygon points="103,262 167,262 165,358 105,358" fill="#2b6fb0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="105" y1="264" x2="85" y2="360" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="135" y1="262" x2="135" y2="231" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" class="skin" cx="135" cy="195" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 95.0 195.0 Q 95.0 145.0 135 145.0 Q 175.0 145.0 175.0 195.0 Q 135 168.0 95.0 195.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- raised open hand (gesturing toward bubbles) -->
+<line x1="165" y1="264" x2="196" y2="236" stroke="#2b6fb0" stroke-width="13" stroke-linecap="round"/>
+<path d="M 192 244 L 192 206 Q 192 197 200 197 Q 208 197 208 206 L 208 194 Q 208 185 216 185 Q 224 185 224 194 L 224 198 Q 224 189 232 189 Q 240 189 240 198 L 240 206 Q 248 204 248 216 L 248 236 Q 248 260 222 262 L 210 262 Q 192 260 192 244 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- bubble 1: what was said, crossed out -->
+<path d="M 280.0 96.0 L 364.0 96.0 Q 382.0 96.0 382.0 114.0 L 382.0 170.0 Q 382.0 188.0 364.0 188.0 L 311.0 188.0 L 288.0 218.0 L 285.0 188.0 L 280.0 188.0 Q 262.0 188.0 262.0 170.0 L 262.0 114.0 Q 262.0 96.0 280.0 96.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="300" cy="142" r="9" fill="#9aa7b5"/>
+<circle cx="322" cy="142" r="9" fill="#9aa7b5"/>
+<circle cx="344" cy="142" r="9" fill="#9aa7b5"/>
+<line x1="276" y1="116" x2="368" y2="168" stroke="#e0473c" stroke-width="14" stroke-linecap="round"/>
+<line x1="368" y1="116" x2="276" y2="168" stroke="#e0473c" stroke-width="14" stroke-linecap="round"/>
+<!-- correction arrow down to corrected bubble -->
+<path d="M 322 232 Q 322 266 350 280" fill="none" stroke="#2f9e4a" stroke-width="12" stroke-linecap="round"/>
+<polygon points="332,278 360,286 348,260" fill="#2f9e4a"/>
+<!-- bubble 2: corrected version (fresh, with check) -->
+<path d="M 336.0 300.0 L 456.0 300.0 Q 476.0 300.0 476.0 320.0 L 476.0 390.0 Q 476.0 410.0 456.0 410.0 L 447.0 410.0 L 444.0 440.0 L 421.0 410.0 L 336.0 410.0 Q 316.0 410.0 316.0 390.0 L 316.0 320.0 Q 316.0 300.0 336.0 300.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<line x1="343" y1="350" x2="375" y2="350" stroke="#2b6fb0" stroke-width="11" stroke-linecap="round"/>
+<line x1="343" y1="376" x2="367" y2="376" stroke="#2b6fb0" stroke-width="11" stroke-linecap="round"/>
+<line x1="392" y1="352" x2="408" y2="372" stroke="#1a1a1a" stroke-width="21.0" stroke-linecap="round"/><line x1="408" y1="372" x2="446" y2="330" stroke="#1a1a1a" stroke-width="21.0" stroke-linecap="round"/><line x1="392" y1="352" x2="408" y2="372" stroke="#2f9e4a" stroke-width="15.5" stroke-linecap="round"/>
+<line x1="408" y1="372" x2="446" y2="330" stroke="#2f9e4a" stroke-width="15.5" stroke-linecap="round"/>
+</g></svg>

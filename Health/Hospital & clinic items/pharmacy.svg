@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="81.45 94.25 349.09 349.09">
+<!-- pharmacy: shop building with mortar-and-pestle / cross sign -->
+<rect x="118" y="196" width="276" height="220" rx="8" fill="#eef1f4" stroke="#1a1a1a" stroke-width="9"/>
+<!-- awning -->
+<path d="M 108 196 L 404 196 L 404 168 L 108 168 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- awning scallops -->
+<path d="M 108 196 q 24 22 49 0 q 25 22 49 0 q 25 22 49 0 q 25 22 49 0 q 25 22 50 0" fill="#3fae5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- green cross sign panel -->
+<rect x="222" y="120" width="68" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="248" y="126" width="16" height="32" rx="2" fill="#3fae5a"/>
+<rect x="240" y="134" width="32" height="16" rx="2" fill="#3fae5a"/>
+<!-- shop window -->
+<rect x="150" y="240" width="130" height="120" rx="6" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="215" y1="240" x2="215" y2="360" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="150" y1="300" x2="280" y2="300" stroke="#1a1a1a" stroke-width="6"/>
+<!-- door -->
+<rect x="306" y="280" width="62" height="136" rx="4" fill="#c89a5b" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="316" cy="350" r="5" fill="#1a1a1a"/>
+</svg>

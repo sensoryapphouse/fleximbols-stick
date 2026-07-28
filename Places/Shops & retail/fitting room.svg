@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cubicle frame/walls -->
+  <rect x="45" y="30" width="200" height="185" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Left wall -->
+  <rect x="45" y="30" width="18" height="185" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Right wall -->
+  <rect x="227" y="30" width="18" height="185" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Curtain rod -->
+  <rect x="45" y="30" width="200" height="12" rx="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Curtain rings -->
+  <circle cx="75" cy="36" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="100" cy="36" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="125" cy="36" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="150" cy="36" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="175" cy="36" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="200" cy="36" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="220" cy="36" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Curtain (partially drawn to side) -->
+  <path d="M63 42 Q70 80 67 130 Q65 165 70 215" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M63 42 Q80 80 77 130 Q75 165 80 215 L70 215 Q65 165 67 130 Q70 80 63 42 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mirror on back wall -->
+  <rect x="135" y="55" width="70" height="110" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mirror frame highlight -->
+  <rect x="140" y="60" width="60" height="100" rx="4" fill="none" stroke="#90a7d6" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Mirror reflection shimmer -->
+  <line x1="155" y1="68" x2="148" y2="88" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hook on side wall -->
+  <circle cx="100" cy="90" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M100 90 Q100 75 112 72" fill="none" stroke="#7f7f7f" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Garment on hook (simple outline) -->
+  <path d="M95 90 Q85 100 80 130 L88 130 L88 155 L112 155 L112 130 L120 130 Q115 100 105 90" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Floor line -->
+  <line x1="63" y1="215" x2="227" y2="215" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

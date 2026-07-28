@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- backing strip (dark base) -->
+  <path d="M30 60 Q145 30 260 60 L260 180 Q145 210 30 180 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- rainbow gradient via segments (no gradients allowed) -->
+  <rect x="40" y="78" width="26" height="84" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="66" y="76" width="26" height="86" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="92" y="74" width="26" height="88" fill="#fff200" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="118" y="72" width="26" height="90" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="144" y="72" width="26" height="90" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="170" y="74" width="26" height="88" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="196" y="76" width="26" height="86" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="222" y="78" width="26" height="84" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- glow lines coming off top -->
+  <line x1="53" y1="60" x2="48" y2="40" stroke="#f8130d" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="79" y1="58" x2="76" y2="36" stroke="#ff9900" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="105" y1="56" x2="105" y2="32" stroke="#fff200" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="131" y1="54" x2="133" y2="30" stroke="#529929" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="157" y1="54" x2="159" y2="30" stroke="#3aa6a0" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="183" y1="56" x2="186" y2="32" stroke="#2a4ec0" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="209" y1="58" x2="213" y2="36" stroke="#7c3fac" stroke-width="5.34" stroke-linecap="round"/>
+  <line x1="235" y1="60" x2="240" y2="40" stroke="#f266aa" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- sparkle -->
+  <circle cx="145" cy="40" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

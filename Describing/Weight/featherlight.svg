@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80.87 81.73 358.79 358.79">
+<!-- feather, gently tilted -->
+<g transform="rotate(20 256 270)">
+<!-- vane outline -->
+<path d="M 256 110
+         C 198 168 182 262 190 344
+         L 256 388
+         L 322 344
+         C 330 262 314 168 256 110 Z"
+      fill="#cfe6f7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- central shaft (rachis), tip to a touch past the vane base -->
+<line x1="256" y1="118" x2="256" y2="412" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- barbs left -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
+<line x1="256" y1="178" x2="212" y2="196"/>
+<line x1="256" y1="232" x2="200" y2="256"/>
+<line x1="256" y1="286" x2="206" y2="312"/>
+<line x1="256" y1="338" x2="222" y2="360"/>
+</g>
+<!-- barbs right -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
+<line x1="256" y1="178" x2="300" y2="196"/>
+<line x1="256" y1="232" x2="312" y2="256"/>
+<line x1="256" y1="286" x2="306" y2="312"/>
+<line x1="256" y1="338" x2="290" y2="360"/>
+</g>
+</g>
+<!-- tiny up-float arrows to show it drifts up = light -->
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<line x1="398" y1="212" x2="398" y2="162"/>
+<polyline points="383 184 398 162 413 184"/>
+<line x1="120" y1="262" x2="120" y2="220"/>
+<polyline points="107 238 120 220 133 238"/>
+</g>
+</svg>

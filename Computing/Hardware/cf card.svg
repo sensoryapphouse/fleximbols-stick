@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- CompactFlash thicker body -->
+  <rect x="50" y="40" width="190" height="160" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Inner label face -->
+  <rect x="62" y="58" width="166" height="124" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Thick edge band (shows depth) -->
+  <rect x="50" y="194" width="190" height="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.54"/>
+  <!-- Pin holes (front edge, 2 rows x several) -->
+  <circle cx="70" cy="50" r="3" fill="#000000"/>
+  <circle cx="85" cy="50" r="3" fill="#000000"/>
+  <circle cx="100" cy="50" r="3" fill="#000000"/>
+  <circle cx="115" cy="50" r="3" fill="#000000"/>
+  <circle cx="130" cy="50" r="3" fill="#000000"/>
+  <circle cx="145" cy="50" r="3" fill="#000000"/>
+  <circle cx="160" cy="50" r="3" fill="#000000"/>
+  <circle cx="175" cy="50" r="3" fill="#000000"/>
+  <circle cx="190" cy="50" r="3" fill="#000000"/>
+  <circle cx="205" cy="50" r="3" fill="#000000"/>
+  <circle cx="220" cy="50" r="3" fill="#000000"/>
+  <!-- 'C' letter as path -->
+  <path d="M 130 100 Q 110 100 110 120 Q 110 140 130 140" fill="none" stroke="#1a1a1a" stroke-width="7.61" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 'F' letter as path -->
+  <path d="M 150 100 L 150 140 M 150 100 L 180 100 M 150 120 L 175 120" fill="none" stroke="#1a1a1a" stroke-width="7.61" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Capacity strip -->
+  <rect x="100" y="155" width="90" height="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.54"/>
+</g></svg>

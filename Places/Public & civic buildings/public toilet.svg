@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 78.12 376.24 376.24"><!-- toilet-block building with male/female restroom sign on the door -->
+<rect x="112" y="170" width="288" height="242" rx="6" fill="#cdd6df" stroke="#1a1a1a" stroke-width="9"/>
+<polygon points="96 170 256 110 416 170" fill="#9aa7b5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="96" y="406" width="320" height="18" rx="3" fill="#bcc4cd" stroke="#1a1a1a" stroke-width="7"/>
+<!-- restroom sign panel -->
+<rect x="188" y="206" width="136" height="172" rx="6" fill="#3f7ab0" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="256" y1="214" x2="256" y2="370" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+<!-- male figure: head, body, two legs -->
+<circle cx="224" cy="240" r="14" fill="#ffffff"/>
+<rect x="211" y="260" width="26" height="42" rx="8" fill="#ffffff"/>
+<rect x="214" y="298" width="8" height="34" rx="3" fill="#ffffff"/>
+<rect x="226" y="298" width="8" height="34" rx="3" fill="#ffffff"/>
+<!-- female figure: head, triangle dress, two legs -->
+<circle cx="288" cy="240" r="14" fill="#ffffff"/>
+<polygon points="288 258 268 312 308 312" fill="#ffffff"/>
+<rect x="280" y="310" width="7" height="22" rx="3" fill="#ffffff"/>
+<rect x="289" y="310" width="7" height="22" rx="3" fill="#ffffff"/>
+</svg>

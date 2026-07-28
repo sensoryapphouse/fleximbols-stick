@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -256.00)">
+<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#e6c79a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- blazing sun, top right -->
+<line x1="466" y1="120" x2="496" y2="120" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="457" y1="155" x2="483" y2="170" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="431" y1="181" x2="446" y2="207" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="396" y1="190" x2="396" y2="220" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="361" y1="181" x2="346" y2="207" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="335" y1="155" x2="309" y2="170" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="326" y1="120" x2="296" y2="120" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="335" y1="85" x2="309" y2="70" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="361" y1="59" x2="346" y2="33" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="396" y1="50" x2="396" y2="20" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="431" y1="59" x2="446" y2="33" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<line x1="457" y1="85" x2="483" y2="70" stroke="#f37121" stroke-width="10" stroke-linecap="round"/>
+<circle cx="396.0" cy="120.0" r="60.0" fill="#f37121" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="396.0" cy="120.0" r="46.0" fill="#f6a800" stroke="#1a1a1a" stroke-width="0"/>
+
+<!-- dry cracked ground: solid soil slab -->
+<rect x="0.0" y="312.0" width="512.0" height="200.0" rx="0" fill="#c98f42" stroke="#1a1a1a" stroke-width="0"/>
+<!-- top lip of ground, slightly darker, wavy horizon -->
+<path d="M 0 312 Q 130 300 260 312 Q 390 324 512 312 L 512 344 L 0 344 Z" fill="#b97f37" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+
+<!-- CRACK NETWORK cut into the dry ground: lighter-than-soil joined fissures.
+     Wide pale base = the open crack, thin dark line = the depth, so each
+     fissure reads as a gap cut INTO the earth, all joined at nodes. -->
+<g stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <!-- crack network forms joined polygon CELLS across the dry ground,
+       like cracked mud. Same path drawn twice: wide pale = open crack,
+       thin dark = the depth, so every fissure reads as cut INTO the earth. -->
+  <!-- node ring (closed cells) -->
+  <path d="M 24 360 L 150 372 L 286 358 L 392 374 L 488 360
+           M 70 432 L 196 418 L 320 432 L 440 420
+           M 24 360 L 70 432
+           M 150 372 L 196 418
+           M 286 358 L 320 432
+           M 392 374 L 440 420
+           M 70 432 L 60 512
+           M 196 418 L 210 512
+           M 320 432 L 312 512
+           M 440 420 L 462 512
+           M 150 372 L 138 344
+           M 392 374 L 404 346"
+        stroke="#ecd3a6" stroke-width="20"/>
+  <path d="M 24 360 L 150 372 L 286 358 L 392 374 L 488 360
+           M 70 432 L 196 418 L 320 432 L 440 420
+           M 24 360 L 70 432
+           M 150 372 L 196 418
+           M 286 358 L 320 432
+           M 392 374 L 440 420
+           M 70 432 L 60 512
+           M 196 418 L 210 512
+           M 320 432 L 312 512
+           M 440 420 L 462 512
+           M 150 372 L 138 344
+           M 392 374 L 404 346"
+        stroke="#7a5328" stroke-width="6"/>
+</g>
+
+<!-- wilted / drooping plant, growing up from the dry ground, front-left -->
+<!-- small soil mound at the base of the stem (on the soil surface) -->
+<ellipse cx="118" cy="356" rx="46" ry="15" fill="#a9742f" stroke="#1a1a1a" stroke-width="0"/>
+<!-- stem rising then bending over limply (no water) -->
+<path d="M 118 356
+         C 116 280 128 232 168 220
+         C 206 209 200 262 162 262"
+      fill="none" stroke="#8a7b3f" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- drooping leaf, left, hanging down -->
+<path d="M 120 296
+         C 70 292 60 340 100 350
+         C 90 322 104 304 120 296 Z"
+      fill="#9a8a45" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<!-- drooping leaf, right, hanging down -->
+<path d="M 128 270
+         C 178 262 190 308 152 320
+         C 162 292 144 278 128 270 Z"
+      fill="#9a8a45" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<!-- drooping flower head at the limp tip -->
+<path d="M 162 262
+         C 138 252 142 222 170 226
+         C 192 229 188 262 162 262 Z"
+      fill="#b69a3a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+</g></svg>

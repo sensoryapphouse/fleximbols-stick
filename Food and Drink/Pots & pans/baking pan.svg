@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- baking pan: rectangular metal baking pan with handles on sides -->
+  <!-- outer pan rim (perspective trapezoid top view) -->
+  <path d="M40 90 L250 90 L270 200 L20 200 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- inner cavity -->
+  <path d="M55 105 L235 105 L252 185 L38 185 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- inner bottom highlight -->
+  <path d="M70 118 L220 118 L235 170 L55 170 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- left handle -->
+  <path d="M40 100 L10 95 Q0 100 5 110 L40 118 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- left handle hole -->
+  <ellipse cx="18" cy="104" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- right handle -->
+  <path d="M250 100 L280 95 Q290 100 285 110 L250 118 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <ellipse cx="272" cy="104" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- top edge highlight on rim -->
+  <path d="M55 90 L235 90" fill="none" stroke="#efefef" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- subtle corner rivets on rim where handles attach -->
+  <circle cx="44" cy="108" r="2.5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="246" cy="108" r="2.5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.78"/>
+</g></svg>

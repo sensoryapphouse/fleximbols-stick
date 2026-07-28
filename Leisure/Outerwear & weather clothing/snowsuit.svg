@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 95.34 345.21 345.21">
+<!-- one-piece snowsuit laid flat: padded body + arms + legs -->
+<!-- left sleeve -->
+<path d="M 158 178 L 110 222 L 136 284 L 180 256 Z" fill="#2c8fb8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve -->
+<path d="M 354 178 L 402 222 L 376 284 L 332 256 Z" fill="#2c8fb8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- torso + legs as one piece -->
+<path d="M 158 178 L 200 150 L 312 150 L 354 178 L 332 256 L 330 300 L 322 410 L 264 410 L 256 332 L 248 410 L 190 410 L 182 300 L 180 256 Z" fill="#39b0dd" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hood -->
+<path d="M 206 150 Q 256 102 306 150 Q 256 136 206 150 Z" fill="#2c8fb8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hood fur trim -->
+<path d="M 206 150 Q 256 122 306 150" fill="none" stroke="#fff6cf" stroke-width="9" stroke-linecap="round"/>
+<!-- centre zip -->
+<line x1="256" y1="156" x2="256" y2="332" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="256" cy="180" r="9" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="6"/>
+<!-- padding quilt lines -->
+<g stroke="#2c8fb8" stroke-width="6" stroke-linecap="round">
+<line x1="196" y1="220" x2="240" y2="220"/>
+<line x1="272" y1="220" x2="316" y2="220"/>
+<line x1="196" y1="262" x2="240" y2="262"/>
+<line x1="272" y1="262" x2="316" y2="262"/>
+</g>
+<!-- ankle cuffs -->
+<line x1="190" y1="392" x2="248" y2="392" stroke="#2c8fb8" stroke-width="9" stroke-linecap="round"/>
+<line x1="264" y1="392" x2="322" y2="392" stroke="#2c8fb8" stroke-width="9" stroke-linecap="round"/>
+</svg>

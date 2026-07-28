@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 89.91 321.94 321.94"><!-- inflatable swimming armbands (pair) -->
+<!-- left armband -->
+<rect x="120" y="150" width="120" height="130" rx="32" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- left arm hole -->
+<ellipse cx="180" cy="215" rx="34" ry="44" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<!-- left pinch seam -->
+<line x1="120" y1="215" x2="146" y2="215" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="214" y1="215" x2="240" y2="215" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- left valve -->
+<rect x="168" y="138" width="24" height="20" rx="6" fill="#d63b46" stroke="#1a1a1a" stroke-width="6"/>
+<!-- left stripe -->
+<path d="M 132 178 Q 180 168 228 178" fill="none" stroke="#f4c430" stroke-width="9" stroke-linecap="round"/>
+<!-- right armband -->
+<rect x="272" y="232" width="120" height="130" rx="32" fill="#d63b46" stroke="#1a1a1a" stroke-width="9"/>
+<!-- right arm hole -->
+<ellipse cx="332" cy="297" rx="34" ry="44" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<!-- right pinch seam -->
+<line x1="272" y1="297" x2="298" y2="297" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="366" y1="297" x2="392" y2="297" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- right valve -->
+<rect x="320" y="220" width="24" height="20" rx="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<!-- right stripe -->
+<path d="M 284 260 Q 332 250 380 260" fill="none" stroke="#f4c430" stroke-width="9" stroke-linecap="round"/>
+</svg>

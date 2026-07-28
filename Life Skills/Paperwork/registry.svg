@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Clipboard / gift list -->
+  <rect x="64" y="44" width="120" height="160" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Clipboard top clip -->
+  <rect x="100" y="36" width="48" height="18" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Clip ring -->
+  <ellipse cx="124" cy="38" rx="10" ry="6" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Gift list lines with checkboxes -->
+  <!-- Row 1 -->
+  <rect x="80" y="76" width="12" height="12" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <line x1="83" y1="82" x2="89" y2="86" stroke="#529929" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="89" y1="86" x2="96" y2="77" stroke="#529929" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="100" y1="82" x2="172" y2="82" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Row 2 -->
+  <rect x="80" y="98" width="12" height="12" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <line x1="83" y1="104" x2="89" y2="108" stroke="#529929" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="89" y1="108" x2="96" y2="99" stroke="#529929" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="100" y1="104" x2="172" y2="104" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Row 3 -->
+  <rect x="80" y="120" width="12" height="12" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <line x1="100" y1="126" x2="162" y2="126" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Row 4 -->
+  <rect x="80" y="142" width="12" height="12" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <line x1="100" y1="148" x2="168" y2="148" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Barcode scanner (right side) -->
+  <!-- Scanner body -->
+  <rect x="192" y="80" width="54" height="76" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Scanner window -->
+  <rect x="200" y="90" width="38" height="36" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Scan beam -->
+  <line x1="200" y1="108" x2="238" y2="108" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Scanner trigger/handle -->
+  <rect x="206" y="156" width="26" height="22" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Barcode lines on window -->
+  <line x1="206" y1="96" x2="206" y2="122" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="211" y1="96" x2="211" y2="122" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="216" y1="96" x2="216" y2="122" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="220" y1="96" x2="220" y2="122" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="224" y1="96" x2="224" y2="122" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="228" y1="96" x2="228" y2="122" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="233" y1="96" x2="233" y2="122" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Wrapped present (bottom left) -->
+  <!-- Box -->
+  <rect x="32" y="162" width="56" height="42" rx="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lid -->
+  <rect x="28" y="152" width="64" height="14" rx="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Ribbon vertical -->
+  <rect x="56" y="152" width="8" height="52" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Ribbon horizontal -->
+  <rect x="28" y="163" width="64" height="8" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Bow -->
+  <ellipse cx="56" cy="148" rx="12" ry="7" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-20 56 148)"/>
+  <ellipse cx="68" cy="145" rx="12" ry="7" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(20 68 145)"/>
+  <circle cx="60" cy="150" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Ground line -->
+  <line x1="28" y1="208" x2="262" y2="208" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

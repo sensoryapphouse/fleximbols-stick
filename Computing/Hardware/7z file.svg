@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- folder body, looks compressed (squashed top) -->
+  <path d="M 30,75 Q 30,65 42,65 L 100,65 Q 106,65 108,69 L 116,80 Q 118,84 126,84 L 248,84 Q 260,84 260,96 L 260,200 Q 260,212 248,212 L 42,212 Q 30,212 30,200 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- compression arrows pressing in from top and bottom of folder -->
+  <path d="M 100,40 L 100,55 L 90,55 L 110,68 L 130,55 L 120,55 L 120,40 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
+  <path d="M 160,40 L 160,55 L 150,55 L 170,68 L 190,55 L 180,55 L 180,40 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
+  <!-- horizontal compression bands -->
+  <path d="M 50,135 L 240,135" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="6 4"></path>
+  <path d="M 50,155 L 240,155" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="6 4"></path>
+  <!-- '.7Z' as letter paths -->
+  <circle cx="70" cy="195" r="4" fill="#000000"></circle>
+  <!-- 7 -->
+  <path d="M 82,170 L 116,170 L 116,178 L 102,210 L 92,210 L 106,180 L 82,180 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
+  <!-- Z -->
+  <path d="M 124,170 L 158,170 L 158,178 L 138,200 L 158,200 L 158,210 L 124,210 L 124,202 L 144,180 L 124,180 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
+</g></svg>

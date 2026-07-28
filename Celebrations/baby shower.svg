@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cue: wrapped gift box with bow + baby-bottle on top + pink/blue balloons floating -->
+  <!-- pink balloon -->
+  <ellipse cx="60" cy="56" rx="22" ry="26" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M56 80 L60 86 L64 80 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M60 86 Q56 110 64 140 Q56 170 62 196" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- highlight -->
+  <ellipse cx="52" cy="48" rx="5" ry="8" fill="#ffffff"/>
+  <!-- blue balloon -->
+  <ellipse cx="232" cy="48" rx="22" ry="26" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M228 72 L232 78 L236 72 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M232 78 Q236 110 228 140 Q236 170 230 196" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="224" cy="40" rx="5" ry="8" fill="#ffffff"/>
+  <!-- gift box body -->
+  <rect x="92" y="130" width="110" height="86" fill="#fff200" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- vertical ribbon -->
+  <rect x="140" y="130" width="14" height="86" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- horizontal ribbon -->
+  <rect x="92" y="162" width="110" height="14" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bow loops on top of box -->
+  <path d="M147 130 Q120 112 124 124 Q120 134 147 130 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M147 130 Q174 112 170 124 Q174 134 147 130 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="147" cy="130" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- baby bottle on top of the box (sitting on top, behind bow visually = small, to right) -->
+  <!-- nipple -->
+  <path d="M178 70 Q188 62 198 70 L200 86 Q188 90 176 86 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- collar -->
+  <rect x="172" y="84" width="30" height="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- body -->
+  <rect x="174" y="92" width="26" height="38" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- milk -->
+  <rect x="177" y="108" width="20" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

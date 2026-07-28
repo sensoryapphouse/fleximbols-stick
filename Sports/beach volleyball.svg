@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="150" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun -->
+  <circle cx="240" cy="40" r="22" fill="#fff200" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- sand -->
+  <path d="M 0,150 Q 80,140 145,148 Q 210,140 290,150 L 290,240 L 0,240 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- net posts -->
+  <line x1="40" y1="60" x2="40" y2="170" stroke="#5e1f0a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="250" y1="60" x2="250" y2="170" stroke="#5e1f0a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- net top + bottom -->
+  <line x1="40" y1="65" x2="250" y2="65" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="40" y1="115" x2="250" y2="115" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- net mesh -->
+  <line x1="60" y1="65" x2="60" y2="115" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="80" y1="65" x2="80" y2="115" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="100" y1="65" x2="100" y2="115" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="120" y1="65" x2="120" y2="115" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="170" y1="65" x2="170" y2="115" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="190" y1="65" x2="190" y2="115" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="210" y1="65" x2="210" y2="115" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="230" y1="65" x2="230" y2="115" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="40" y1="78" x2="250" y2="78" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="40" y1="92" x2="250" y2="92" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="40" y1="105" x2="250" y2="105" stroke="#4d4d4d" stroke-width="2.22"/>
+  <!-- volleyball above net -->
+  <circle cx="145" cy="46" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M 145,26 Q 138,46 145,66 M 128,38 Q 145,46 162,38 M 128,56 Q 145,46 162,56" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- player FULL BODY left, arms up to spike -->
+  <circle cx="100" cy="158" r="13" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M 88,150 Q 100,138 112,150 L 110,158 L 90,158 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="170" width="24" height="34" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- arms reaching up -->
+  <line x1="88" y1="174" x2="76" y2="140" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="112" y1="174" x2="124" y2="120" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <circle cx="76" cy="138" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="124" cy="118" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- shorts -->
+  <rect x="88" y="204" width="24" height="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- legs -->
+  <line x1="94" y1="218" x2="92" y2="236" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="106" y1="218" x2="108" y2="236" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- beach umbrella far right -->
+  <line x1="275" y1="120" x2="275" y2="180" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 258,120 Q 275,90 290,120 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

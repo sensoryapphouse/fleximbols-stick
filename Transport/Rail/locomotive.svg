@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) scale(0.95) translate(-256 -256)">
+<!-- rails -->
+<line x1="40" y1="406" x2="472" y2="406" stroke="#7d8893" stroke-width="12" stroke-linecap="round"/>
+<line x1="90" y1="398" x2="90" y2="414" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="180" y1="398" x2="180" y2="414" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="270" y1="398" x2="270" y2="414" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="360" y1="398" x2="360" y2="414" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="430" y1="398" x2="430" y2="414" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<!-- chassis / footplate: runs full length under the whole loco -->
+<rect x="70" y="300" width="372" height="58" rx="10" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cowcatcher / buffer at the front, sitting on the chassis -->
+<path d="M 70 312 L 70 350 L 40 358 Z" fill="#7d8893" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- chimney / funnel -->
+<rect x="124" y="108" width="44" height="42" rx="6" fill="#2e2e2e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="146" cy="106" rx="30" ry="11" fill="#3a3d42" stroke="#1a1a1a" stroke-width="8"/>
+<!-- steam dome -->
+<path d="M 196 122 Q 196 104 218 104 Q 240 104 240 122 L 240 150 L 196 150 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- boiler body: sits on the chassis, front rounded nose -->
+<path d="M 110 150 L 286 150 L 286 300 L 110 300 Q 78 300 78 262 L 78 188 Q 78 150 110 150 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- boiler bands -->
+<line x1="150" y1="156" x2="150" y2="294" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="210" y1="156" x2="210" y2="294" stroke="#1a1a1a" stroke-width="6"/>
+<!-- smokebox front ring -->
+<line x1="92" y1="200" x2="92" y2="252" stroke="#1a1a1a" stroke-width="6"/>
+<!-- headlamp on the front of the boiler -->
+<circle cx="96" cy="226" r="20" fill="#f4c430" stroke="#1a1a1a" stroke-width="8"/>
+<!-- cab at the back, on the chassis -->
+<path d="M 290 128 L 412 128 Q 426 128 426 142 L 426 300 L 290 300 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="318" y="156" width="82" height="66" rx="8" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="6"/>
+<!-- big driving wheels -->
+<circle cx="172" cy="358" r="50" fill="#222428" stroke="#1a1a1a" stroke-width="10"/>
+<circle cx="172" cy="358" r="22" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="296" cy="358" r="50" fill="#222428" stroke="#1a1a1a" stroke-width="10"/>
+<circle cx="296" cy="358" r="22" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="6"/>
+<!-- small front wheel, under the boiler nose, on the baseline -->
+<circle cx="104" cy="372" r="26" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="104" cy="372" r="11" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

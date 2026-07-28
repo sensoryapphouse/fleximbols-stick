@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="38.79 38.79 434.42 434.42">
+<!-- outer circle -->
+<circle cx="256" cy="256" r="158" fill="#fde9c8" stroke="#1a1a1a" stroke-width="9"/>
+<!-- petals ring -->
+<g stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
+<ellipse cx="256" cy="116" rx="26" ry="46" fill="#e23c3c"/>
+<ellipse cx="256" cy="396" rx="26" ry="46" fill="#e23c3c"/>
+<ellipse cx="116" cy="256" rx="46" ry="26" fill="#3f6fb0"/>
+<ellipse cx="396" cy="256" rx="46" ry="26" fill="#3f6fb0"/>
+<ellipse cx="157" cy="157" rx="40" ry="26" fill="#f0b400" transform="rotate(45 157 157)"/>
+<ellipse cx="355" cy="157" rx="40" ry="26" fill="#f0b400" transform="rotate(-45 355 157)"/>
+<ellipse cx="157" cy="355" rx="40" ry="26" fill="#f0b400" transform="rotate(-45 157 355)"/>
+<ellipse cx="355" cy="355" rx="40" ry="26" fill="#f0b400" transform="rotate(45 355 355)"/>
+</g>
+<!-- middle ring -->
+<circle cx="256" cy="256" r="84" fill="#e0559e" stroke="#1a1a1a" stroke-width="7"/>
+<!-- inner flower -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+<circle cx="256" cy="216" r="20" fill="#3fae5a"/>
+<circle cx="296" cy="256" r="20" fill="#3fae5a"/>
+<circle cx="256" cy="296" r="20" fill="#3fae5a"/>
+<circle cx="216" cy="256" r="20" fill="#3fae5a"/>
+</g>
+<circle cx="256" cy="256" r="22" fill="#f6c500" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

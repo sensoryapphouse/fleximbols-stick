@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- L-shaped hex key: long arm + short arm, chunky bar -->
+<path d="M 168 110 L 168 360 L 392 360" fill="none" stroke="#1a1a1a" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 168 110 L 168 360 L 392 360" fill="none" stroke="#9aa0a6" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- hex end caps (show it's hexagonal stock) -->
+<polygon points="168 86 187 97 187 119 168 130 149 119 149 97" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<polygon points="412 360 401 379 379 379 368 360 379 341 401 341" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

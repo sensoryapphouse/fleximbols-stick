@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- charging case (open with lid) -->
+  <!-- case lid (open, tilted back) -->
+  <path d="M 55 120 L 170 105 L 175 60 L 60 70 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- inside of lid (slightly darker) -->
+  <path d="M 65 115 L 162 102 L 167 70 L 70 79 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- case base body -->
+  <path d="M 50 120 L 175 120 L 185 195 L 45 195 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- two earbud wells inside the case -->
+  <ellipse cx="85" cy="145" rx="22" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="145" rx="22" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- charging LED on front of case -->
+  <circle cx="115" cy="180" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- LEFT earbud (premium pro style with stem) sitting outside case to the left/above -->
+  <g>
+    <!-- main bud body -->
+    <ellipse cx="215" cy="80" rx="20" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+    <!-- silicone tip -->
+    <ellipse cx="200" cy="75" rx="9" ry="11" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+    <ellipse cx="197" cy="75" rx="4" ry="6" fill="#000000"/>
+    <!-- stem (pro indicator) -->
+    <rect x="208" y="98" width="14" height="55" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+    <!-- mic dot at stem bottom -->
+    <circle cx="215" cy="148" r="2.5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.78"/>
+    <!-- touch sensor band on stem -->
+    <line x1="208" y1="120" x2="222" y2="120" stroke="#4d4d4d" stroke-width="2.67"/>
+  </g>
+  <!-- RIGHT earbud (pro, with stem) -->
+  <g>
+    <ellipse cx="255" cy="165" rx="20" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+    <ellipse cx="240" cy="160" rx="9" ry="11" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+    <ellipse cx="237" cy="160" rx="4" ry="6" fill="#000000"/>
+    <rect x="248" y="183" width="14" height="40" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+    <circle cx="255" cy="218" r="2.5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.78"/>
+    <line x1="248" y1="203" x2="262" y2="203" stroke="#4d4d4d" stroke-width="2.67"/>
+  </g>
+  <!-- small wireless wave indicator near top right corner of case -->
+  <path d="M 180 95 Q 195 95 205 85" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 180 105 Q 200 105 215 90" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

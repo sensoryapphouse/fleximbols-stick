@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bodhran: shallow round frame drum, single skin head, double-ended wooden beater (tipper) -->
+
+  <!-- Frame drum: circular shallow frame -->
+  <!-- Outer frame ring -->
+  <circle cx="145" cy="128" r="98" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Inner frame edge -->
+  <circle cx="145" cy="128" r="88" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- Drumhead skin (animal skin, slightly off-white/cream) -->
+  <circle cx="145" cy="128" r="88" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Skin texture (subtle grain lines) -->
+  <circle cx="145" cy="128" r="70" fill="none" stroke="#e6b98a" stroke-width="2.96"/>
+  <circle cx="145" cy="128" r="50" fill="none" stroke="#e6b98a" stroke-width="2.96"/>
+  <circle cx="145" cy="128" r="28" fill="none" stroke="#e6b98a" stroke-width="2.96"/>
+
+  <!-- Cross brace on back (visible as shadow through skin) -->
+  <line x1="145" y1="42" x2="145" y2="214" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="59" y1="128" x2="231" y2="128" stroke="#7d5e23" stroke-width="4.45"/>
+
+  <!-- Frame depth indicator (shows it's shallow, not flat) -->
+  <!-- Small bottom arc suggesting depth -->
+  <path d="M 48,128 Q 45,148 60,162" fill="none" stroke="#5e1f0a" stroke-width="5.93"/>
+  <path d="M 242,128 Q 245,148 230,162" fill="none" stroke="#5e1f0a" stroke-width="5.93"/>
+
+  <!-- Tipper (double-ended wooden beater): a short stick with knobs on both ends -->
+  <!-- Tipper positioned diagonally near the drum, lower right -->
+  <rect x="185" y="168" width="80" height="8" rx="4" transform="rotate(-35, 225, 172)" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Left knob of tipper -->
+  <circle cx="192" cy="191" r="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right knob of tipper -->
+  <circle cx="254" cy="154" r="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

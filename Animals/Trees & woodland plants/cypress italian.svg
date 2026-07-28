@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Italian/Tuscan cypress — extremely NARROW pencil-thin dark-green column -->
+  <!-- Trunk base -->
+  <rect x="140" y="205" width="10" height="20" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- The pencil-thin column — overall outline first -->
+  <!-- Outer column shape — very narrow, tall, pointed top -->
+  <path d="M145,8 L130,30 Q122,70 120,110 Q118,150 122,185 Q128,208 145,210 Q162,208 168,185 Q172,150 170,110 Q168,70 160,30 Z" fill="#137827" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Cypress column inner texture — feathery layered dark green sections -->
+  <path d="M145,8 L132,35 Q128,55 126,75 Q131,68 145,65 Q159,68 164,75 Q162,55 158,35Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <path d="M126,75 Q124,95 122,115 Q128,105 145,103 Q162,105 168,115 Q166,95 164,75 Q159,68 145,65 Q131,68 126,75Z" fill="#137827" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M122,115 Q120,135 121,155 Q127,143 145,141 Q163,143 169,155 Q170,135 168,115 Q162,105 145,103 Q128,105 122,115Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M121,155 Q122,175 125,192 Q131,182 145,180 Q159,182 165,192 Q168,175 169,155 Q163,143 145,141 Q127,143 121,155Z" fill="#137827" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Very dark shadow side to emphasise narrow column -->
+  <path d="M145,12 L148,32 Q152,72 153,112 Q153,152 151,188 Q149,207 145,210 Q142,207 143,188 Q141,152 141,112 Q142,72 143,32Z" fill="#67832d" stroke="none"/>
+</g></svg>

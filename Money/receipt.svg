@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.4919) translate(-251.00 -244.00)">
+<!-- narrow till-roll receipt body with torn zigzag bottom -->
+<path d="M 188 96 L 324 96 L 324 392 L 308 380 L 292 392 L 276 380 L 260 392 L 244 380 L 228 392 L 212 380 L 196 392 L 188 384 Z" fill="#ffffff" stroke="#5b6b78" stroke-width="6" stroke-linejoin="round"/>
+<!-- BARCODE at top (clear alternating bars) -->
+<rect x="206" y="116" width="6" height="40" fill="#1a1a1a"/>
+<rect x="216" y="116" width="10" height="40" fill="#1a1a1a"/>
+<rect x="230" y="116" width="4" height="40" fill="#1a1a1a"/>
+<rect x="238" y="116" width="8" height="40" fill="#1a1a1a"/>
+<rect x="250" y="116" width="4" height="40" fill="#1a1a1a"/>
+<rect x="258" y="116" width="10" height="40" fill="#1a1a1a"/>
+<rect x="272" y="116" width="6" height="40" fill="#1a1a1a"/>
+<rect x="282" y="116" width="4" height="40" fill="#1a1a1a"/>
+<rect x="290" y="116" width="10" height="40" fill="#1a1a1a"/>
+<rect x="304" y="116" width="6" height="40" fill="#1a1a1a"/>
+<!-- item rows (faint) with little price stubs on the right -->
+<rect x="206" y="184" width="78" height="10" rx="3" fill="#c4ccd3"/>
+<rect x="292" y="184" width="20" height="10" rx="3" fill="#c4ccd3"/>
+<rect x="206" y="210" width="64" height="10" rx="3" fill="#c4ccd3"/>
+<rect x="292" y="210" width="20" height="10" rx="3" fill="#c4ccd3"/>
+<rect x="206" y="236" width="84" height="10" rx="3" fill="#c4ccd3"/>
+<rect x="292" y="236" width="20" height="10" rx="3" fill="#c4ccd3"/>
+<rect x="206" y="262" width="58" height="10" rx="3" fill="#c4ccd3"/>
+<rect x="292" y="262" width="20" height="10" rx="3" fill="#c4ccd3"/>
+<!-- bold total divider -->
+<line x1="204" y1="300" x2="312" y2="300" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="10 7" stroke-linecap="round"/>
+<!-- TOTAL line: bold £ + prominent green amount bar -->
+<g fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="M 224 326 Q 224 312 210 312 Q 192 312 192 334 L 192 360"/><path d="M 180 368 L 234 368"/><path d="M 180 344 L 216 344"/></g>
+<rect x="250" y="318" width="64" height="44" rx="6" fill="#5fae5a" stroke="#3c7a3a" stroke-width="4"/>
+<rect x="262" y="334" width="40" height="12" rx="3" fill="#ffffff"/>
+</g></svg>

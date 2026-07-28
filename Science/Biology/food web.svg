@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- 5 creatures arranged with branching arrows (network) -->
+  <!-- grass top-left -->
+  <path d="M 30 60 L 35 40 L 40 60 M 42 60 L 47 38 L 52 60" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="42" cy="60" rx="20" ry="6" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bug top-right -->
+  <ellipse cx="240" cy="55" rx="16" ry="11" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.56"/>
+  <line x1="240" y1="44" x2="240" y2="66" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="234" cy="53" r="1.5" fill="#000000"/>
+  <circle cx="246" cy="53" r="1.5" fill="#000000"/>
+  <line x1="226" y1="55" x2="219" y2="50" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="254" y1="55" x2="261" y2="50" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- rabbit middle-left -->
+  <ellipse cx="55" cy="135" rx="18" ry="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="72" cy="128" r="9" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M 69 120 L 67 108 L 73 118 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 75 120 L 77 108 L 79 120 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="127" r="1.5" fill="#000000"/>
+  <!-- bird middle-right -->
+  <ellipse cx="235" cy="135" rx="18" ry="11" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="220" cy="129" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M 213 129 L 204 126 L 213 133 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="218" cy="128" r="1.5" fill="#000000"/>
+  <path d="M 245 130 L 255 118 L 250 135 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- fox bottom-centre -->
+  <ellipse cx="145" cy="200" rx="22" ry="14" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="125" cy="195" r="11" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M 119 187 L 117 178 L 123 185 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 130 187 L 132 178 L 128 185 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="121" cy="194" r="1.5" fill="#000000"/>
+  <path d="M 165 198 Q 180 192 178 184" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- arrows (network) -->
+  <!-- grass -> rabbit -->
+  <line x1="48" y1="72" x2="55" y2="115" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M 51 108 L 56 119 L 60 107 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- grass -> bug -->
+  <line x1="65" y1="55" x2="218" y2="55" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M 215 49 L 225 55 L 215 61 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- bug -> bird -->
+  <line x1="240" y1="68" x2="235" y2="118" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M 230 112 L 236 122 L 240 110 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- rabbit -> fox -->
+  <line x1="70" y1="145" x2="120" y2="190" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M 113 183 L 124 192 L 117 195 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- bird -> fox -->
+  <line x1="220" y1="143" x2="165" y2="195" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M 175 188 L 162 197 L 172 200 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- rabbit -> bird (branch) -->
+  <line x1="80" y1="130" x2="215" y2="132" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M 210 126 L 220 132 L 210 138 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

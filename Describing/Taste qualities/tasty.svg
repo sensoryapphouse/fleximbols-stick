@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60.24 33.78 389.82 389.82">
+<!-- tasty: steaming bowl of food with heart + sparkle (delicious) -->
+<g stroke-linecap="round" stroke-linejoin="round">
+<!-- steam -->
+<path d="M 214 150 q 16 -16 0 -32 q -16 -16 0 -32" fill="none" stroke="#bcded6" stroke-width="9"/>
+<path d="M 256 138 q 16 -16 0 -32 q -16 -16 0 -32" fill="none" stroke="#bcded6" stroke-width="9"/>
+<path d="M 298 150 q 16 -16 0 -32 q -16 -16 0 -32" fill="none" stroke="#bcded6" stroke-width="9"/>
+<!-- heart (yum) top-left -->
+<path d="M 138 196 q -22 -24 -44 0 q -22 24 44 56 q 66 -32 44 -56 q -22 -24 -44 0 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="8"/>
+<!-- sparkle top-right -->
+<path d="M 392 180 l 8 22 l 22 8 l -22 8 l -8 22 l -8 -22 l -22 -8 l 22 -8 Z" fill="#f7d83a" stroke="#1a1a1a" stroke-width="6"/>
+<!-- food mound inside bowl -->
+<path d="M 152 268 A 104 104 0 0 1 360 268 Z" fill="#f0a92b" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="206" cy="244" r="14" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="230" r="14" fill="#5bbf4a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="306" cy="244" r="14" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+<!-- bowl -->
+<path d="M 140 268 L 372 268 A 116 116 0 0 1 140 268 Z" fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="132" y1="268" x2="380" y2="268" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bowl foot -->
+<path d="M 226 384 L 286 384" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 256 358 L 256 384" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+</svg>

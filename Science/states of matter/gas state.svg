@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- closed container (jar shape) -->
+  <rect x="55" y="55" width="180" height="170" rx="10" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- lid -->
+  <rect x="75" y="30" width="140" height="30" rx="6" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- widely spaced gas molecule dots -->
+  <circle cx="90" cy="100" r="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="180" cy="90" r="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="135" cy="140" r="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="210" cy="155" r="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="80" cy="180" r="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="170" cy="200" r="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- dashed motion lines indicating fast movement -->
+  <path d="M 100 100 L 115 95" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 100 100 L 118 105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 170 90 L 155 80" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 170 90 L 158 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 145 140 L 160 135" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 145 140 L 158 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 200 155 L 185 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 200 155 L 188 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 90 180 L 105 175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 90 180 L 108 190" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 160 200 L 145 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M 160 200 L 148 210" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="4 4"/>
+</g></svg>

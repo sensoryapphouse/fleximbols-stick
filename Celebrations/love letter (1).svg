@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Envelope body -->
+  <rect x="30" y="70" width="230" height="155" rx="8" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Envelope flap (open, folded back) -->
+  <polygon points="30,70 145,150 260,70" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Envelope bottom fold lines -->
+  <line x1="30" y1="225" x2="145" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="260" y1="225" x2="145" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Letter peeking out from top of envelope -->
+  <rect x="68" y="30" width="154" height="115" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lines on letter -->
+  <line x1="88" y1="60" x2="202" y2="60" stroke="#b8b8b8" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="88" y1="78" x2="202" y2="78" stroke="#b8b8b8" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="88" y1="96" x2="170" y2="96" stroke="#b8b8b8" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Heart seal on envelope flap -->
+  <path d="M145,118 C145,118 124,100 124,89 C124,82 130,76 137,79 C141,80 145,85 145,85 C145,85 149,80 153,79 C160,76 166,82 166,89 C166,100 145,118 145,118 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

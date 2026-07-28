@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- handle -->
+  <path d="M75 110 Q145 30 215 110" fill="none" stroke="#9d7246" stroke-width="22.23" stroke-linecap="round"/>
+  <path d="M75 110 Q145 40 215 110" fill="none" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- basket body -->
+  <path d="M55 110 L235 110 L218 215 L72 215 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- rim -->
+  <ellipse cx="145" cy="110" rx="90" ry="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="145" cy="108" rx="86" ry="10" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- horizontal weave bands -->
+  <path d="M62 135 L228 135" stroke="#9d7246" stroke-width="6.67" fill="none"/>
+  <path d="M65 160 L225 160" stroke="#9d7246" stroke-width="6.67" fill="none"/>
+  <path d="M68 185 L222 185" stroke="#9d7246" stroke-width="6.67" fill="none"/>
+  <path d="M70 210 L220 210" stroke="#9d7246" stroke-width="6.67" fill="none"/>
+  <!-- vertical weave (checkered pattern) -->
+  <path d="M85 122 L83 215" stroke="#7d5e23" stroke-width="4.45" fill="none"/>
+  <path d="M110 120 L107 215" stroke="#7d5e23" stroke-width="4.45" fill="none"/>
+  <path d="M135 119 L133 215" stroke="#7d5e23" stroke-width="4.45" fill="none"/>
+  <path d="M160 119 L162 215" stroke="#7d5e23" stroke-width="4.45" fill="none"/>
+  <path d="M185 120 L188 215" stroke="#7d5e23" stroke-width="4.45" fill="none"/>
+  <path d="M210 122 L213 215" stroke="#7d5e23" stroke-width="4.45" fill="none"/>
+  <!-- small weave dashes for texture -->
+  <path d="M73 147 L97 147" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+  <path d="M123 147 L147 147" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+  <path d="M173 147 L197 147" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+  <path d="M97 172 L123 172" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+  <path d="M147 172 L173 172" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+  <path d="M197 172 L218 172" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+  <path d="M75 197 L100 197" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+  <path d="M125 197 L150 197" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+  <path d="M175 197 L200 197" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+</g></svg>

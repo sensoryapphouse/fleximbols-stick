@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Clapperboard body -->
+  <rect x="28" y="82" width="164" height="140" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Clapperboard stripes panel -->
+  <rect x="28" y="55" width="164" height="40" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="28" y="55" width="164" height="40" rx="8" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Black and white clapper stripes -->
+  <polygon points="28,55 56,55 36,95 28,95" fill="#000000" stroke="none"/>
+  <polygon points="56,55 84,55 64,95 36,95" fill="#ffffff" stroke="none"/>
+  <polygon points="84,55 112,55 92,95 64,95" fill="#000000" stroke="none"/>
+  <polygon points="112,55 140,55 120,95 92,95" fill="#ffffff" stroke="none"/>
+  <polygon points="140,55 168,55 148,95 120,95" fill="#000000" stroke="none"/>
+  <polygon points="168,55 192,55 192,95 148,95" fill="#ffffff" stroke="none"/>
+  <!-- Clip the stripes to the rectangle shape -->
+  <rect x="28" y="55" width="164" height="40" rx="8" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Text lines on board -->
+  <rect x="42" y="102" width="80" height="8" rx="3" fill="#b8b8b8" stroke="none"/>
+  <rect x="42" y="118" width="60" height="8" rx="3" fill="#b8b8b8" stroke="none"/>
+  <rect x="42" y="134" width="70" height="8" rx="3" fill="#b8b8b8" stroke="none"/>
+  <!-- "VFX" label -->
+  <rect x="42" y="152" width="60" height="22" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="50" y="158" width="44" height="10" rx="2" fill="#ffffff" stroke="none"/>
+  <!-- Sparkle burst top-right -->
+  <!-- Centre glow -->
+  <circle cx="218" cy="82" r="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Sparkle rays -->
+  <line x1="218" y1="55" x2="218" y2="46" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="218" y1="109" x2="218" y2="118" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="191" y1="82" x2="182" y2="82" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="245" y1="82" x2="254" y2="82" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="199" y1="63" x2="192" y2="56" stroke="#f7de58" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="237" y1="101" x2="244" y2="108" stroke="#f7de58" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="237" y1="63" x2="244" y2="56" stroke="#f7de58" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="199" y1="101" x2="192" y2="108" stroke="#f7de58" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Inner sparkle star points -->
+  <polygon points="218,68 221,78 231,82 221,86 218,96 215,86 205,82 215,78" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

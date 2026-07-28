@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- toasted sandwich / toastie maker, clam shell, lid open -->
+<!-- bottom plate -->
+<path d="M 120 360 L 392 360 L 372 400 L 140 400 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="120" y="318" width="272" height="48" rx="14" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ridged griddle -->
+<line x1="150" y1="330" x2="362" y2="330" stroke="#6b4a2b" stroke-width="6" stroke-linecap="round"/>
+<line x1="150" y1="346" x2="362" y2="346" stroke="#6b4a2b" stroke-width="6" stroke-linecap="round"/>
+<!-- toastie on plate -->
+<path d="M 196 296 L 316 296 L 300 322 L 212 322 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- open lid, hinged at back left, pivoting up off the base -->
+<g transform="rotate(-30 136 320)">
+<rect x="120" y="262" width="272" height="56" rx="16" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- handle on lid -->
+<rect x="232" y="232" width="48" height="22" rx="10" fill="#d63b46" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<line x1="256" y1="254" x2="256" y2="262" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</g>
+<!-- hinge -->
+<circle cx="136" cy="320" r="13" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+<!-- steam -->
+<path d="M 256 290 Q 248 274 256 258" fill="none" stroke="#9aa0a6" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- grass strip -->
+  <path d="M10 215 L280 215 L280 230 L10 230 Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- house body -->
+  <path d="M70 130 L70 215 L220 215 L220 130 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- roof -->
+  <path d="M55 135 L145 65 L235 135 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- chimney -->
+  <path d="M180 95 L180 60 L200 60 L200 110" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- chimney top rim -->
+  <path d="M178 60 L202 60" fill="none" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- chimney smoke puff -->
+  <circle cx="190" cy="48" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="200" cy="38" r="6" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- door -->
+  <path d="M130 150 L130 215 L170 215 L170 150 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- door panels -->
+  <path d="M150 150 L150 215" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- door knob -->
+  <circle cx="160" cy="183" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- window -->
+  <path d="M85 145 L85 185 L115 185 L115 145 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- window cross -->
+  <path d="M100 145 L100 185 M85 165 L115 165" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- shutters left/right of window -->
+  <path d="M77 145 L77 185 M123 145 L123 185" fill="none" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- heart trim above door -->
+  <path d="M150 138 C146 132 138 133 138 140 C138 146 150 152 150 152 C150 152 162 146 162 140 C162 133 154 132 150 138 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

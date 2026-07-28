@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky (warm African dusk) -->
+  <rect x="10" y="10" width="270" height="120" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun -->
+  <circle cx="220" cy="50" r="14" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- savanna ground -->
+  <rect x="10" y="130" width="270" height="100" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- kilimanjaro broad flat-topped massif -->
+  <path d="M30 170 L90 90 L200 90 L260 170 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- flat snow plateau -->
+  <path d="M86 92 L204 92 Q200 102 196 100 Q188 110 180 100 Q170 110 160 100 Q150 110 140 100 Q130 110 120 100 Q110 110 102 100 Q94 102 90 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- mountain shadow side -->
+  <path d="M145 92 L200 92 L260 170 L200 170 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- acacia tree trunk -->
+  <path d="M50 200 L50 160" fill="none" stroke="#5e1f0a" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- acacia branches -->
+  <path d="M50 160 L36 152 M50 160 L64 152 M50 160 L50 148" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- acacia flat canopy -->
+  <ellipse cx="50" cy="146" rx="32" ry="10" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- giraffe body -->
+  <ellipse cx="240" cy="185" rx="22" ry="12" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- giraffe neck -->
+  <path d="M252 178 L256 150" fill="none" stroke="#f2e40d" stroke-width="13.33" stroke-linecap="round"/>
+  <path d="M252 178 L256 150" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- giraffe head -->
+  <ellipse cx="258" cy="146" rx="7" ry="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- giraffe legs -->
+  <path d="M228 196 L226 218 M236 196 L236 218 M246 196 L246 218 M254 196 L256 218" stroke="#f2e40d" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M228 196 L226 218 M236 196 L236 218 M246 196 L246 218 M254 196 L256 218" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <!-- giraffe spots -->
+  <circle cx="234" cy="184" r="3" fill="#9d7246"/>
+  <circle cx="244" cy="180" r="3" fill="#9d7246"/>
+  <circle cx="248" cy="190" r="3" fill="#9d7246"/>
+  <!-- elephant silhouette mid-ground -->
+  <ellipse cx="110" cy="200" rx="22" ry="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M132 198 Q140 198 142 206 Q140 212 134 212" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="138" cy="200" rx="6" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M144 204 L150 218" fill="none" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M144 204 L150 218" fill="none" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <path d="M100 212 L100 222 M114 212 L114 222 M122 212 L122 222" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M100 212 L100 222 M114 212 L114 222 M122 212 L122 222" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <!-- KILIMANJARO label small bottom -->
+  <!-- K -->
+  <path d="M28 232 L28 222 M28 227 L34 222 M28 227 L34 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- I -->
+  <path d="M40 222 L40 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- L -->
+  <path d="M46 222 L46 232 L52 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- I -->
+  <path d="M58 222 L58 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- M -->
+  <path d="M64 232 L64 222 L70 228 L76 222 L76 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M82 232 L86 222 L90 232 M83 228 L89 228" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- N -->
+  <path d="M96 232 L96 222 L104 232 L104 222" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- J -->
+  <path d="M114 222 L114 230 Q114 234 110 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M120 232 L124 222 L128 232 M121 228 L127 228" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- R -->
+  <path d="M134 232 L134 222 L140 222 Q144 222 144 226 Q144 230 140 230 L134 230 L144 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <ellipse cx="154" cy="227" rx="5" ry="5" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

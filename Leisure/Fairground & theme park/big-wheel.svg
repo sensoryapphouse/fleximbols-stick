@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="46.55 44.84 418.91 418.91">
+<!-- support legs -->
+<line x1="256" y1="236" x2="170" y2="432" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<line x1="256" y1="236" x2="342" y2="432" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<line x1="144" y1="432" x2="368" y2="432" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- outer rim -->
+<circle cx="256" cy="232" r="156" fill="none" stroke="#1a1a1a" stroke-width="12"/>
+<circle cx="256" cy="232" r="156" fill="none" stroke="#e23c3c" stroke-width="6"/>
+<!-- inner rim -->
+<circle cx="256" cy="232" r="122" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<!-- spokes -->
+<line x1="256" y1="232" x2="256" y2="76" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="232" x2="256" y2="388" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="232" x2="100" y2="232" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="232" x2="412" y2="232" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="232" x2="146" y2="122" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="232" x2="366" y2="122" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="232" x2="146" y2="342" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="232" x2="366" y2="342" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pods on inner rim, hanging -->
+<circle cx="256" cy="120" r="20" fill="#f4a93c" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="256" cy="344" r="20" fill="#3fae5a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="144" cy="232" r="20" fill="#3a8fd6" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="368" cy="232" r="20" fill="#9b6bd6" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="170" cy="146" r="20" fill="#3fae5a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="342" cy="146" r="20" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="170" cy="318" r="20" fill="#f4a93c" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="342" cy="318" r="20" fill="#3a8fd6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- hub -->
+<circle cx="256" cy="232" r="18" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

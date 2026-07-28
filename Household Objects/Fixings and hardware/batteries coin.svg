@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Large coin/button cell (side profile, slim cylinder) -->
+  <ellipse cx="100" cy="120" rx="22" ry="60" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 100,60 L 175,60 Q 197,60 197,120 Q 197,180 175,180 L 100,180 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="175" cy="120" rx="22" ry="60" fill="#efefef" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Plus terminal on the right face -->
+  <path d="M 165,108 L 165,118 L 155,118 L 155,122 L 165,122 L 165,132 L 169,132 L 169,122 L 179,122 L 179,118 L 169,118 L 169,108 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Top edge sheen line -->
+  <path d="M 110,72 Q 140,68 165,72" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Round flat disc (top-down view) at bottom right -->
+  <ellipse cx="225" cy="195" rx="38" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="225" cy="193" rx="24" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Plus on disc -->
+  <path d="M 221,189 L 221,193 L 217,193 L 217,195 L 221,195 L 221,199 L 223,199 L 223,195 L 227,195 L 227,193 L 223,193 L 223,189 Z" fill="#000000" stroke="#1a1a1a" stroke-width="1.11"/>
+</g></svg>

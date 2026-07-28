@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Y-shaped bone-style dental chew with textured surface -->
+  <!-- Y-shape main path -->
+  <path d="M 90 50 Q 78 55 78 72 Q 78 86 100 96 L 130 110 L 130 165 Q 130 188 145 188 Q 160 188 160 165 L 160 110 L 190 96 Q 212 86 212 72 Q 212 55 200 50 Q 188 46 178 60 Q 168 76 150 86 Q 145 88 140 86 Q 122 76 112 60 Q 102 46 90 50 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.78" stroke-linejoin="round"/>
+  <!-- bottom bone knobs -->
+  <circle cx="132" cy="190" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="158" cy="190" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- ridged dental texture on stem -->
+  <line x1="132" y1="120" x2="158" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="132" x2="158" y2="132" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="144" x2="158" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="156" x2="158" y2="156" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="168" x2="158" y2="168" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bump texture on Y arms -->
+  <circle cx="100" cy="68" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="115" cy="80" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="190" cy="68" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="175" cy="80" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- highlight bumps on knobs -->
+  <circle cx="128" cy="186" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="154" cy="186" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

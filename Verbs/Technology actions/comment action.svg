@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Horizontal content line (representing something to comment on) -->
+  <rect x="40" y="42" width="210" height="18" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Second content line -->
+  <rect x="40" y="72" width="160" height="14" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Speech bubble body -->
+  <path d="M35 108 Q35 96 47 96 L195 96 Q207 96 207 108 L207 168 Q207 180 195 180 L120 180 L100 200 L95 180 L47 180 Q35 180 35 168 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Pencil inside bubble -->
+  <!-- Pencil body -->
+  <rect x="64" y="124" width="14" height="44" rx="3" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" transform="rotate(-35 71 146)"/>
+  <!-- Pencil tip -->
+  <polygon points="60,167 67,174 72,162" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pencil top eraser band -->
+  <rect x="63" y="124" width="14" height="7" rx="2" ry="2" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-35 70 127)"/>
+  <!-- Three dots in bubble (to the right of pencil) -->
+  <circle cx="128" cy="140" r="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="152" cy="140" r="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="176" cy="140" r="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

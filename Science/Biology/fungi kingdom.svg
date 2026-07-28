@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <path d="M10 210 Q145 200 280 210 L280 230 L10 230 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Button mushroom (left) -->
+  <g>
+    <path d="M30 130 Q60 95 95 130 Q90 138 60 138 Q35 138 30 130 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <circle cx="48" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <circle cx="70" cy="115" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <circle cx="82" cy="125" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <path d="M50 138 L48 210 Q62 215 78 210 L75 138 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  </g>
+  <!-- Flat-cap mushroom (center) -->
+  <g>
+    <path d="M115 130 Q150 105 185 130 Q180 138 150 138 Q120 138 115 130 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M138 138 L135 210 Q150 215 165 210 L162 138 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <!-- gills hint -->
+    <line x1="140" y1="140" x2="142" y2="145" stroke="#5e1f0a" stroke-width="2.22"/>
+    <line x1="148" y1="140" x2="148" y2="145" stroke="#5e1f0a" stroke-width="2.22"/>
+    <line x1="156" y1="140" x2="156" y2="145" stroke="#5e1f0a" stroke-width="2.22"/>
+  </g>
+  <!-- Bracket fungus on log (right) -->
+  <g>
+    <!-- log -->
+    <rect x="200" y="170" width="80" height="35" rx="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="200" cy="187" rx="6" ry="17" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="200" cy="187" r="3" fill="#5e1f0a"/>
+    <!-- bracket shelves -->
+    <path d="M210 168 Q225 150 250 158 Q255 162 248 168 Q230 172 210 168 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M218 158 Q230 142 252 150" fill="none" stroke="#e65a00" stroke-width="2.96"/>
+    <path d="M240 168 Q255 155 275 160 Q278 165 272 170 Q258 172 240 170 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M248 162 Q260 152 272 158" fill="none" stroke="#9d7246" stroke-width="2.96"/>
+  </g>
+</g></svg>

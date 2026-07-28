@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="65.94 85.57 380.12 380.12">
+<!-- LOTS: a big heap / pyramid pile of many balls -->
+<!-- ground line -->
+<line x1="96" y1="398" x2="416" y2="398" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- bottom row (7) -->
+<circle cx="128" cy="368" r="34" fill="#5b9bd5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="192" cy="368" r="34" fill="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="368" r="34" fill="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="320" cy="368" r="34" fill="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="384" cy="368" r="34" fill="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- second row (4) -->
+<circle cx="160" cy="306" r="34" fill="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="224" cy="306" r="34" fill="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="288" cy="306" r="34" fill="#5b9bd5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="352" cy="306" r="34" fill="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- third row (3) -->
+<circle cx="192" cy="244" r="34" fill="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="244" r="34" fill="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="320" cy="244" r="34" fill="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<!-- top (1) -->
+<circle cx="256" cy="182" r="34" fill="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

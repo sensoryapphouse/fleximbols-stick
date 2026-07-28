@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dark club interior panel -->
+  <rect x="26" y="22" width="238" height="176" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Brick wall background - left section -->
+  <!-- Brick rows -->
+  <rect x="26" y="22" width="114" height="176" rx="0" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Brick mortar lines horizontal -->
+  <line x1="20" y1="42" x2="140" y2="42" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="20" y1="62" x2="140" y2="62" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="20" y1="82" x2="140" y2="82" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="20" y1="102" x2="140" y2="102" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="20" y1="122" x2="140" y2="122" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="20" y1="142" x2="140" y2="142" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="20" y1="162" x2="140" y2="162" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="20" y1="182" x2="140" y2="182" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="20" y1="202" x2="140" y2="202" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Brick mortar lines vertical (alternating) -->
+  <line x1="60" y1="22" x2="60" y2="42" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="100" y1="22" x2="100" y2="42" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="40" y1="42" x2="40" y2="62" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="80" y1="42" x2="80" y2="62" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="120" y1="42" x2="120" y2="62" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="60" y1="62" x2="60" y2="82" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="100" y1="62" x2="100" y2="82" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="40" y1="82" x2="40" y2="102" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="80" y1="82" x2="80" y2="102" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="120" y1="82" x2="120" y2="102" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="60" y1="102" x2="60" y2="122" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="100" y1="102" x2="100" y2="122" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="40" y1="122" x2="40" y2="142" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="80" y1="122" x2="80" y2="142" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="120" y1="122" x2="120" y2="142" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="60" y1="142" x2="60" y2="162" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="100" y1="142" x2="100" y2="162" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="40" y1="162" x2="40" y2="182" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="80" y1="162" x2="80" y2="182" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="120" y1="162" x2="120" y2="182" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- Stage platform at bottom -->
+  <rect x="20" y="195" width="250" height="30" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Stage edge highlight -->
+  <rect x="20" y="195" width="250" height="6" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Stage spotlight beam - from upper right -->
+  <polygon points="260,22 240,22 145,195 165,195" fill="#f7de58" stroke="none"/>
+  <!-- Spotlight cone fade - inner warm -->
+  <polygon points="254,22 246,22 148,195 160,195" fill="#fff200" stroke="none"/>
+  <!-- Spotlight source circle -->
+  <circle cx="250" cy="30" r="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="250" cy="30" r="6" fill="#ffffff"/>
+  <!-- Standing microphone on stage - center spotlight -->
+  <!-- Mic stand base -->
+  <ellipse cx="152" cy="210" rx="22" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Mic stand pole -->
+  <rect x="148" y="128" width="8" height="82" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Mic stand arm -->
+  <line x1="152" y1="128" x2="165" y2="110" stroke="#b8b8b8" stroke-width="13.34" stroke-linecap="round"/>
+  <!-- Mic capsule on arm -->
+  <ellipse cx="170" cy="105" rx="14" ry="19" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Mic grille -->
+  <line x1="158" y1="96" x2="182" y2="96" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="157" y1="103" x2="183" y2="103" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="110" x2="182" y2="110" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="161" y1="117" x2="179" y2="117" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Smile / laugh emblem - upper left on brick wall -->
+  <!-- Smiley circle -->
+  <circle cx="68" cy="65" r="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Eyes -->
+  <circle cx="58" cy="58" r="5" fill="#000000"/>
+  <circle cx="78" cy="58" r="5" fill="#000000"/>
+  <!-- Big smile mouth -->
+  <path d="M50,70 Q68,90 86,70" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Laugh lines (curved) -->
+  <path d="M44,58 Q40,68 44,78" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M92,58 Q96,68 92,78" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- spreadsheet column -->
+  <rect x="30" y="30" width="130" height="180" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- header -->
+  <rect x="30" y="30" width="130" height="28" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- rows -->
+  <line x1="30" y1="86" x2="160" y2="86" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="30" y1="124" x2="160" y2="124" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="30" y1="162" x2="160" y2="162" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- descending bars: large to small top to bottom -->
+  <rect x="44" y="64" width="96" height="22" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="44" y="98" width="70" height="20" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="44" y="136" width="44" height="18" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="44" y="176" width="24" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Z top -->
+  <path d="M 196 38 L 224 38 L 196 70 L 224 70" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A bottom -->
+  <path d="M 196 206 L 210 174 L 224 206 M 202 194 L 218 194" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- arrow shaft and head pointing down -->
+  <path d="M 250 80 L 250 190" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
+  <path d="M 240 180 L 250 200 L 260 180" fill="#f2e40d" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lipstick tube body (matte case - flat dark grey, no shine line) -->
+  <rect x="40" y="60" width="70" height="160" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Sleeve ring -->
+  <rect x="38" y="52" width="74" height="14" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Inner cylinder -->
+  <rect x="48" y="22" width="54" height="34" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Bullet of lipstick - flat colour, FLAT TOP (matte, no slant gloss highlight) -->
+  <rect x="52" y="14" width="46" height="14" rx="2" ry="2" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Lip swatch (flat, matte - velvet finish, NO shine line) -->
+  <path d="M150 110 Q165 95 195 95 Q220 95 235 105 Q250 95 265 105 Q275 115 265 130 Q250 150 220 158 Q190 152 175 145 Q160 138 150 125 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- MATTE label as paths (M A T T E) -->
+  <!-- velvet texture swatch (replaces MATTE text) -->
+  <rect x="185" y="175" width="70" height="14" rx="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="188" y1="179" x2="188" y2="186" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="194" y1="179" x2="194" y2="186" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="200" y1="179" x2="200" y2="186" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="206" y1="179" x2="206" y2="186" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="212" y1="179" x2="212" y2="186" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

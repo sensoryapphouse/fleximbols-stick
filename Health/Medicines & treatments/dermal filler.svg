@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- face cross-section showing skin layers (large diagram on left) -->
+  <!-- face profile outline -->
+  <path d="M 70 55 Q 35 75 35 135 Q 35 185 70 210 Q 90 215 100 205 L 100 60 Q 88 50 70 55 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- ear -->
+  <ellipse cx="95" cy="135" rx="6" ry="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- nose -->
+  <path d="M 50 130 Q 30 140 45 155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- mouth -->
+  <path d="M 50 175 Q 60 178 70 175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- eye -->
+  <ellipse cx="55" cy="115" rx="5" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="55" cy="115" r="2" fill="#000000"/>
+  <!-- cross-section panel (right side) -->
+  <rect x="135" y="60" width="135" height="160" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- epidermis layer (top) -->
+  <rect x="135" y="60" width="135" height="22" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- dermis layer (middle, highlighted) -->
+  <rect x="135" y="82" width="135" height="55" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hypodermis (bottom) -->
+  <rect x="135" y="137" width="135" height="83" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- layer labels (drawn as path bars to avoid text) -->
+  <rect x="142" y="68" width="20" height="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="142" y="100" width="28" height="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="142" y="170" width="24" height="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- syringe injected into dermis layer (diagonal from top right) -->
+  <!-- barrel -->
+  <rect x="220" y="35" width="55" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" transform="rotate(40 247 46)"/>
+  <!-- liquid -->
+  <rect x="225" y="38" width="42" height="16" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.56" transform="rotate(40 247 46)"/>
+  <!-- plunger -->
+  <rect x="268" y="32" width="6" height="28" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.33" transform="rotate(40 271 46)"/>
+  <!-- needle entering dermis -->
+  <path d="M 215 80 L 195 105" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- filler dot in dermis -->
+  <ellipse cx="190" cy="110" rx="8" ry="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- arrow pointing to dermis layer label -->
+  <path d="M 110 110 L 130 110" stroke="#d01424" stroke-width="5.33" stroke-linecap="round" fill="none"/>
+  <path d="M 130 110 L 124 106 M 130 110 L 124 114" stroke="#d01424" stroke-width="5.33" stroke-linecap="round" fill="none"/>
+</g></svg>

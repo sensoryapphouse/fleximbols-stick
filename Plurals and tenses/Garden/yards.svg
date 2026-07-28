@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,76.186) scale(0.8512)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2947) translate(-256.00 -251.00)">
+<g transform="translate(57.9,-216.8) scale(1.405)"><!-- grass ground -->
+  <path d="M20 360 Q140 345 260 360 L260 430 Q140 445 20 430 Z" fill="#76bf6a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- grass blades -->
+  <g fill="none" stroke="#3aa040" stroke-width="4" stroke-linecap="round">
+    <path d="M50 360 Q48 340 55 322"/>
+    <path d="M90 362 Q92 342 100 326"/>
+    <path d="M150 360 Q146 336 158 314"/>
+    <path d="M210 362 Q212 340 220 324"/>
+  </g>
+  <!-- white picket fence -->
+  <g fill="#fff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round">
+    <polygon points="40,250 70,250 70,360 40,360 55,228"/>
+    <polygon points="100,250 130,250 130,360 100,360 115,228"/>
+    <polygon points="160,250 190,250 190,360 160,360 175,228"/>
+    <polygon points="220,250 250,250 250,360 220,360 235,228"/>
+  </g>
+  <!-- fence rails -->
+  <rect x="30" y="270" width="232" height="16" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+  <rect x="30" y="320" width="232" height="16" fill="#fff" stroke="#1a1a1a" stroke-width="5"/></g>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg1765" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg1765)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="91.35 100.73 354.91 354.91"><!-- pneumatic: air cylinder barrel with piston rod sliding out, air line + motion arrow -->
+<!-- cylinder barrel -->
+<rect x="118" y="206" width="200" height="120" rx="18" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- end cap rings -->
+<line x1="150" y1="206" x2="150" y2="326" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="286" y1="206" x2="286" y2="326" stroke="#1a1a1a" stroke-width="7"/>
+<!-- piston rod sliding out the right end -->
+<rect x="286" y="248" width="120" height="36" rx="8" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9"/>
+<!-- piston end plate -->
+<rect x="392" y="232" width="28" height="68" rx="8" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- motion arrow showing extension -->
+<path d="M 330.0 189.0 L 386.0 189.0 L 386.0 197.0 L 410.0 180.0 L 386.0 163.0 L 386.0 171.0 L 330.0 171.0 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- compressed-air supply line + bubbles -->
+<path d="M 168 326 L 168 372 L 230 372" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="252" cy="372" r="16" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="288" cy="358" r="11" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="300" cy="388" r="8" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

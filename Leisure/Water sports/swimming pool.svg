@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pool deck surround -->
+  <rect x="26" y="32" width="238" height="176" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pool basin inground -->
+  <rect x="30" y="50" width="230" height="165" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Water surface shimmer -->
+  <rect x="30" y="50" width="230" height="30" rx="6" fill="#90a7d6"/>
+  <!-- Lane markers bottom -->
+  <line x1="85" y1="50" x2="85" y2="215" stroke="#f7de58" stroke-width="4.45" stroke-dasharray="12 8" stroke-linecap="round"/>
+  <line x1="145" y1="50" x2="145" y2="215" stroke="#f7de58" stroke-width="4.45" stroke-dasharray="12 8" stroke-linecap="round"/>
+  <line x1="205" y1="50" x2="205" y2="215" stroke="#f7de58" stroke-width="4.45" stroke-dasharray="12 8" stroke-linecap="round"/>
+  <!-- Ladder right side -->
+  <line x1="242" y1="50" x2="242" y2="95" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="254" y1="50" x2="254" y2="95" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="242" y1="62" x2="254" y2="62" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="242" y1="75" x2="254" y2="75" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Diving board left side -->
+  <rect x="10" y="38" width="50" height="10" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="22" y="24" width="8" height="18" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Water ripple near diving board -->
+  <ellipse cx="55" cy="72" rx="14" ry="5" fill="none" stroke="#dff3fd" stroke-width="2.96"/>
+  <ellipse cx="55" cy="72" rx="7" ry="3" fill="none" stroke="#dff3fd" stroke-width="2.22"/>
+  <!-- Pool light glints -->
+  <circle cx="110" cy="170" r="6" fill="#dff3fd" stroke="#90a7d6" stroke-width="2.22"/>
+  <circle cx="175" cy="170" r="6" fill="#dff3fd" stroke="#90a7d6" stroke-width="2.22"/>
+</g></svg>

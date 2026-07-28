@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="99.88 95.61 312.24 312.24"><g>
+<!-- one-piece swimming costume: torso with straps and high-cut legs -->
+<path d="M 198 158
+         Q 200 140 220 140
+         Q 240 140 246 158
+         Q 256 168 266 158
+         Q 272 140 292 140
+         Q 312 140 314 158
+         Q 320 210 322 250
+         Q 324 300 300 330
+         Q 288 345 280 345
+         Q 268 345 264 320
+         Q 260 292 256 292
+         Q 252 292 248 320
+         Q 244 345 232 345
+         Q 224 345 212 330
+         Q 188 300 190 250
+         Q 192 210 198 158 Z"
+      fill="#e34d8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- scooped neckline detail -->
+<path d="M 246 158 Q 256 170 266 158" fill="none" stroke="#c23b74" stroke-width="6" stroke-linecap="round"/>
+<!-- leg-opening highlight arcs -->
+<path d="M 212 320 Q 224 300 244 306" fill="none" stroke="#c23b74" stroke-width="5" stroke-linecap="round"/>
+<path d="M 300 320 Q 288 300 268 306" fill="none" stroke="#c23b74" stroke-width="5" stroke-linecap="round"/>
+<!-- waist seam / colour band -->
+<path d="M 196 250 Q 256 274 320 250" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+</g></svg>

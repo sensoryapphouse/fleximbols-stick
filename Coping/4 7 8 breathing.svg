@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Person FULL BODY (standing, centred) -->
+  <!-- Head -->
+  <circle cx="100" cy="55" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Hair -->
+  <path d="M82 50 Q85 38 100 35 Q115 38 118 50" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.78" stroke-linejoin="round"/>
+  <!-- Eyes closed (calm) -->
+  <path d="M92 55 Q96 52 100 55" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M104 55 Q108 52 112 55" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Mouth slightly open (breathing) -->
+  <ellipse cx="102" cy="66" rx="3" ry="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Torso -->
+  <path d="M80 78 L80 145 Q100 155 120 145 L120 78 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Arms (one over chest/belly) -->
+  <path d="M82 92 Q70 108 78 130" fill="none" stroke="#eed5b6" stroke-width="10.00" stroke-linecap="round"/>
+  <path d="M118 92 Q132 105 122 128" fill="none" stroke="#eed5b6" stroke-width="10.00" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="83" y="148" width="14" height="60" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="103" y="148" width="14" height="60" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Feet -->
+  <ellipse cx="90" cy="214" rx="9" ry="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.78"/>
+  <ellipse cx="110" cy="214" rx="9" ry="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.78"/>
+  <!-- Breath-in arrow (4) -->
+  <path d="M135 60 Q160 55 180 60" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M173 53 L180 60 L173 67" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 4 numeral (drawn as path) -->
+  <path d="M195 45 L195 65 L220 65 M215 45 L215 80" fill="none" stroke="#137827" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hold arrow (7) - circular hold loop -->
+  <circle cx="155" cy="120" r="14" fill="none" stroke="#ff9900" stroke-width="4.45"/>
+  <path d="M155 134 L150 130" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- 7 numeral -->
+  <path d="M185 105 L215 105 L200 140" fill="none" stroke="#ff9900" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Breath-out arrow (8) -->
+  <path d="M180 180 Q160 185 140 180" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M147 173 L140 180 L147 187" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 8 numeral (two stacked circles) -->
+  <circle cx="200" cy="170" r="9" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <circle cx="200" cy="190" r="11" fill="none" stroke="#d01424" stroke-width="4.45"/>
+</g></svg>

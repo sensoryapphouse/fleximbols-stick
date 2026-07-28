@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- round volume knob with indicator line + numbers around -->
+  <!-- outer knob ring (housing) -->
+  <circle cx="145" cy="120" r="92" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- knob body (the part you grip) -->
+  <circle cx="145" cy="120" r="72" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- grip ridges (radial dashes) -->
+  <path d="M 145 50 L 145 60" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 195 70 L 188 77" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 215 120 L 205 120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 195 170 L 188 163" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145 190 L 145 180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 95 170 L 102 163" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 75 120 L 85 120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 95 70 L 102 77" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- inner face -->
+  <circle cx="145" cy="120" r="50" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- indicator line pointing up-right (~2 o'clock, mid-volume) -->
+  <path d="M 145 120 L 180 90" stroke="#f8130d" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- center cap -->
+  <circle cx="145" cy="120" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Number markers around the knob: '0' bottom-left, '5' top, '10' bottom-right -->
+  <!-- '0' (bottom-left, position 7 o'clock) -->
+  <ellipse cx="55" cy="200" rx="8" ry="11" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 5 top, path strokes only -->
+  <path d="M 152 20 L 138 20 L 138 32 C 145 30, 154 33, 154 40 C 154 47, 145 50, 138 47" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- '10' (bottom-right): '1' then '0' -->
+  <path d="M 220 195 L 220 215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 215 200 L 220 195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="240" cy="205" rx="8" ry="10" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- volume arc indicator (small speaker hint at very edge) -->
+  <path d="M 30 120 C 50 110, 50 130, 30 120" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

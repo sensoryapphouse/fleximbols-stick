@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="54.30 50.04 403.39 403.39"><!-- buzzing: bee with vibration/buzz lines -->
+<!-- wings -->
+<ellipse cx="210" cy="176" rx="52" ry="34" fill="#cfe8f5" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="296" cy="176" rx="52" ry="34" fill="#cfe8f5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- body -->
+<ellipse cx="256" cy="288" rx="96" ry="74" fill="#ffd23f" stroke="#1a1a1a" stroke-width="9"/>
+<!-- stripes -->
+<path d="M 214 222 Q 256 236 298 222" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 176 270 Q 256 290 336 270" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round"/>
+<path d="M 180 318 Q 256 340 332 318" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round"/>
+<!-- head -->
+<circle cx="256" cy="200" r="20" fill="#1a1a1a"/>
+<line x1="246" y1="184" x2="238" y2="166" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="266" y1="184" x2="274" y2="166" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- buzz vibration lines both sides -->
+<g fill="none" stroke="#2f9e4a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="118 250 138 264 118 278 138 292"/>
+<polyline points="84 240 104 256 84 272 104 288"/>
+<polyline points="394 250 374 264 394 278 374 292"/>
+<polyline points="428 240 408 256 428 272 408 288"/>
+</g>
+</svg>

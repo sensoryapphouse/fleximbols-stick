@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fc"],["h2","fc"],["h3","fc"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0148) translate(-281.50 -290.00)">
+<path d="M 128 482 L 128 212 A 128 128 0 0 1 384 212 L 384 482 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+
+<rect x="223" y="286" width="66" height="104" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 88 512 Q 104 360 200 352 L 312 352 Q 408 360 424 512 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<rect x="223" y="286" width="66" height="40" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="0"/>
+<circle id="h1" data-fig="fc" cx="140" cy="224" r="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<circle id="h2" data-fig="fc" cx="372" cy="224" r="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256" cy="212" r="120" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 138 192 Q 156 74 256 70 Q 356 74 374 192 Q 342 126 256 114 Q 170 126 138 192 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 194 166 Q 212 152 230 162" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 282 162 Q 300 152 318 166" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 186 208 Q 212 186 238 208" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 274 208 Q 300 186 326 208" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 220 266 Q 256 296 292 266" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- LET'S GO (together): a small companion beside the figure + bold shared forward arrow -->
+<!-- companion = a second small walking figure at lower-left, mid-stride, same direction -->
+<g stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<!-- companion legs, walking -->
+<line x1="118" y1="404" x2="100" y2="458" stroke-width="11"/>
+<line x1="118" y1="404" x2="140" y2="456" stroke-width="11"/>
+<ellipse cx="96" cy="462" rx="13" ry="7" fill="#33373d" stroke="none"/>
+<ellipse cx="144" cy="460" rx="13" ry="7" fill="#33373d" stroke="none"/>
+<!-- companion body -->
+<path d="M 98 342 L 138 342 L 126 406 L 110 406 Z" fill="#9aa7b3"/>
+<!-- companion arms, swinging with the walk -->
+<line x1="106" y1="354" x2="88" y2="394" stroke-width="10" stroke="#9aa7b3"/>
+<line x1="130" y1="354" x2="150" y2="376" stroke-width="10" stroke="#9aa7b3"/>
+<!-- companion neck + head -->
+<line x1="118" y1="342" x2="118" y2="322" stroke-width="11" stroke="#f1c9a5"/>
+<circle id="h3" data-fig="fc" cx="118" cy="302" r="24" fill="#f1c9a5"/>
+<path d="M 94 298 Q 94 276 118 276 Q 142 276 142 298 Q 118 288 94 298 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="2"/>
+</g>
+<!-- bold shared forward arrow above both = 'we go this way together' (filled arrowhead) -->
+<line x1="300" y1="252" x2="436" y2="252" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="300" y1="252" x2="436" y2="252" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/>
+<polygon points="474,252 430,228 430,276" fill="#2f9e4a" stroke="#2f9e4a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 144 148 Q 128 222 140 482 Q 158 372 158 152 Q 156 134 144 148 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 368 148 Q 384 222 372 482 Q 354 372 354 152 Q 356 134 368 148 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+</g></svg>

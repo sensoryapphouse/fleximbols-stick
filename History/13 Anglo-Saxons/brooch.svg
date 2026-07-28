@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2728) translate(-256.00 -234.00)">
+<!-- back fastening pin sticking out beyond the rim -->
+<line x1="256" y1="120" x2="256" y2="64" stroke="#7a5230" stroke-width="9" stroke-linecap="round"/>
+<polygon points="256.0,51.7 246.0,75.1 266.0,75.1" fill="#7a5230" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- clasp/catch bar across the back at the foot -->
+<rect x="216" y="392" width="80" height="16" rx="8" fill="#7a5230" stroke="#553722" stroke-width="3"/>
+<line x1="256" y1="392" x2="256" y2="408" stroke="#553722" stroke-width="3" stroke-linecap="round"/>
+<!-- gold disc body -->
+<circle cx="256.0" cy="256.0" r="150.0" fill="#e3b23c" stroke="#8a5e14" stroke-width="9"/>
+<circle cx="256.0" cy="256.0" r="136.0" fill="none" stroke="#8a5e14" stroke-width="5"/>
+<!-- twisted-rope inner border (filigree) -->
+<circle cx="256.0" cy="256.0" r="120.0" fill="none" stroke="#c9962b" stroke-width="4" stroke-dasharray="9 7"/>
+<!-- cloisonne quatrefoil: four large garnet cabochons N/E/S/W -->
+<ellipse cx="256.0" cy="158.0" rx="34" ry="40" fill="#9e2b25" stroke="#8a5e14" stroke-width="6"/>
+<ellipse cx="256.0" cy="354.0" rx="34" ry="40" fill="#9e2b25" stroke="#8a5e14" stroke-width="6"/>
+<ellipse cx="158.0" cy="256.0" rx="40" ry="34" fill="#9e2b25" stroke="#8a5e14" stroke-width="6"/>
+<ellipse cx="354.0" cy="256.0" rx="40" ry="34" fill="#9e2b25" stroke="#8a5e14" stroke-width="6"/>
+<!-- garnet highlights -->
+<ellipse cx="248.0" cy="148.0" rx="9" ry="11" fill="#d98a86" stroke="none"/>
+<ellipse cx="248.0" cy="344.0" rx="9" ry="11" fill="#d98a86" stroke="none"/>
+<ellipse cx="148.0" cy="248.0" rx="11" ry="9" fill="#d98a86" stroke="none"/>
+<ellipse cx="344.0" cy="248.0" rx="11" ry="9" fill="#d98a86" stroke="none"/>
+<!-- diagonal gold bosses between the garnets -->
+<circle cx="326.0" cy="186.0" r="14" fill="#f0c95a" stroke="#8a5e14" stroke-width="4"/>
+<circle cx="326.0" cy="326.0" r="14" fill="#f0c95a" stroke="#8a5e14" stroke-width="4"/>
+<circle cx="186.0" cy="326.0" r="14" fill="#f0c95a" stroke="#8a5e14" stroke-width="4"/>
+<circle cx="186.0" cy="186.0" r="14" fill="#f0c95a" stroke="#8a5e14" stroke-width="4"/>
+<!-- central boss: gold ring around one big garnet -->
+<circle cx="256.0" cy="256.0" r="44.0" fill="#f0c95a" stroke="#8a5e14" stroke-width="6"/>
+<circle cx="256.0" cy="256.0" r="30.0" fill="#9e2b25" stroke="#8a5e14" stroke-width="4"/>
+<ellipse cx="247.0" cy="247.0" rx="9" ry="9" fill="#d98a86" stroke="none"/>
+</g></svg>

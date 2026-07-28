@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Long straight main beam/handle -->
+  <rect x="32" y="110" width="210" height="22" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Grip section at base (bottom texture) -->
+  <rect x="32" y="110" width="60" height="22" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Grip knurling lines -->
+  <line x1="50" y1="110" x2="50" y2="132" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="62" y1="110" x2="62" y2="132" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="74" y1="110" x2="74" y2="132" stroke="#7f7f7f" stroke-width="4.45"/>
+  <!-- Measurement/gauge window along the beam -->
+  <rect x="100" y="112" width="100" height="18" rx="3" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Scale markings inside window -->
+  <line x1="110" y1="115" x2="110" y2="121" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="120" y1="115" x2="120" y2="121" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="130" y1="115" x2="130" y2="121" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="115" x2="140" y2="121" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="150" y1="115" x2="150" y2="121" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="160" y1="115" x2="160" y2="121" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="170" y1="115" x2="170" y2="121" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="180" y1="115" x2="180" y2="121" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="190" y1="115" x2="190" y2="121" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Indicator line on scale -->
+  <line x1="155" y1="112" x2="155" y2="130" stroke="#f8130d" stroke-width="6.67"/>
+  <!-- Head/socket end at right -->
+  <circle cx="242" cy="121" r="24" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Square drive hole -->
+  <rect x="234" y="113" width="16" height="16" rx="2" ry="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Socket attached -->
+  <rect x="232" y="142" width="20" height="26" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Socket hex bore -->
+  <rect x="237" y="147" width="10" height="16" rx="1" ry="1" fill="#000000" stroke="none"/>
+</g></svg>

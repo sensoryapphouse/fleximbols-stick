@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="70" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- distant sea strip -->
+  <rect x="0" y="70" width="290" height="20" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- mud flat -->
+  <rect x="0" y="90" width="290" height="150" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- ripple lines in mud -->
+  <path d="M10 115 Q60 108 110 115 T210 115 T280 115" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M10 140 Q60 133 110 140 T210 140 T280 140" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M10 170 Q60 163 110 170 T210 170 T280 170" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M10 205 Q60 198 110 205 T210 205 T280 205" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- small puddles -->
+  <ellipse cx="50" cy="160" rx="22" ry="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="200" cy="190" rx="28" ry="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="120" cy="220" rx="20" ry="5" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- wading bird 1 (left, larger) -->
+  <ellipse cx="90" cy="125" rx="14" ry="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="103" cy="116" r="5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M107 115 L116 113" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M85 132 L83 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M93 132 L95 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- wading bird 2 (centre) -->
+  <ellipse cx="155" cy="150" rx="12" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="166" cy="143" r="4.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M170 142 L177 140" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M151 156 L149 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M158 156 L160 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- wading bird 3 (right) -->
+  <ellipse cx="240" cy="155" rx="13" ry="6.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="228" cy="148" r="4.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M224 147 L217 145" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M236 161 L234 178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M244 161 L246 178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- close-up lips (large) -->
+  <!-- upper lip -->
+  <path d="M 50 130 Q 75 100 110 115 Q 120 120 130 115 Q 165 100 190 130 Q 165 135 130 132 Q 110 130 90 135 Q 70 138 50 130 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- lower lip -->
+  <path d="M 50 130 Q 75 175 120 178 Q 165 175 190 130 Q 165 145 130 145 Q 95 145 50 130 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- lip highlight -->
+  <path d="M 75 122 Q 95 118 110 122" fill="none" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M 95 160 Q 115 165 140 160" fill="none" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- syringe entering from upper right -->
+  <!-- needle into upper lip -->
+  <path d="M 175 105 L 200 80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- hub -->
+  <rect x="195" y="68" width="14" height="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.70" transform="rotate(-45 202 76)"/>
+  <!-- syringe barrel -->
+  <rect x="210" y="35" width="60" height="28" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-45 240 49)"/>
+  <!-- liquid -->
+  <rect x="214" y="38" width="48" height="22" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-45 238 49)"/>
+  <!-- plunger flange -->
+  <rect x="265" y="25" width="6" height="42" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-45 268 46)"/>
+  <!-- plumping arrows around lips -->
+  <path d="M 30 130 L 18 130 M 18 130 L 23 126 M 18 130 L 23 134" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M 210 175 L 222 180 M 222 180 L 219 174 M 222 180 L 216 180" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M 120 200 L 120 215 M 120 215 L 116 211 M 120 215 L 124 211" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M 60 195 L 50 205 M 50 205 L 56 204 M 50 205 L 51 199" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- plumping effect sparkle -->
+  <path d="M 35 90 L 38 95 L 43 98 L 38 101 L 35 106 L 32 101 L 27 98 L 32 95 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

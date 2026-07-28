@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- can body -->
+<path d="M 158 150 L 158 372 Q 158 398 256 398 Q 354 398 354 372 L 354 150 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top rim ellipse -->
+<ellipse cx="256" cy="150" rx="98" ry="30" fill="#eef2f6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner lid ring -->
+<ellipse cx="256" cy="150" rx="78" ry="22" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<!-- top rim seam line -->
+<path d="M 158 162 Q 256 192 354 162" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- wrap-around label band -->
+<path d="M 158 214 L 158 338 Q 158 360 256 360 Q 354 360 354 338 L 354 214 Q 354 236 256 236 Q 158 236 158 214 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- label top edge highlight -->
+<path d="M 158 214 Q 256 236 354 214" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- label motif: spoon/food icon (bowl) -->
+<ellipse cx="256" cy="290" rx="46" ry="26" fill="#f4c430" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 210 286 Q 256 264 302 286" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+<!-- bottom seam line -->
+<path d="M 162 348 Q 256 368 350 348" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g></svg>

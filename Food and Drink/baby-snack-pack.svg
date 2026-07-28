@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1951) translate(-240.50 -281.00)">
+<g transform="translate(11.4,21.1) scale(0.824)"><!-- baby snack pack: snack pouch container with lid, no baby -->
+  <!-- snap-on lid -->
+  <rect x="64" y="150" width="172" height="40" rx="14" fill="#4488ff" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="66" y="156" width="168" height="8" rx="4" fill="#6699ff" stroke="none" />
+  <!-- lid handle tab -->
+  <rect x="132" y="120" width="36" height="34" rx="8" fill="#ffff44" stroke="#1a1a1a" stroke-width="5" />
+
+  <!-- container body (snack cup) -->
+  <path d="M70 188 L230 188 L246 380 Q250 420 246 450 Q242 468 224 472 L76 472 Q58 468 54 450 Q50 420 54 380 Z" fill="#ff8833" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- side ridge lines -->
+  <line x1="84" y1="194" x2="74" y2="460" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="216" y1="194" x2="226" y2="460" stroke="#1a1a1a" stroke-width="4" />
+
+  <!-- clear window showing snacks -->
+  <rect x="84" y="220" width="132" height="200" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <!-- snacks inside -->
+  <circle cx="118" cy="360" r="16" fill="#ff8844" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="150" cy="372" r="14" fill="#ffcc44" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="184" cy="360" r="16" fill="#ff8844" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="134" cy="392" r="13" fill="#ffcc44" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="170" cy="394" r="14" fill="#ff8844" stroke="#1a1a1a" stroke-width="3" />
+  <!-- star label -->
+  <polygon points="150,250 156,266 173,266 159,277 164,294 150,283 136,294 141,277 127,266 144,266" fill="#ff4444" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" /></g>
+<line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#33373d"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#33373d"/>
+<line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffcf33" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#5a3a1f" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

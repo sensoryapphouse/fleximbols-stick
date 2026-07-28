@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ionised glow cloud (outer) -->
+  <path d="M 55 130 Q 40 90 80 75 Q 110 50 150 60 Q 200 50 230 80 Q 260 110 240 145 Q 250 185 210 195 Q 175 215 135 200 Q 90 210 65 180 Q 35 165 55 130 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- inner glow -->
+  <path d="M 75 135 Q 70 100 105 95 Q 135 80 165 90 Q 205 85 220 115 Q 230 145 205 165 Q 180 185 145 180 Q 110 185 90 165 Q 65 155 75 135 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <!-- lightning bolt -->
+  <path d="M 160 50 L 120 130 L 150 130 L 110 210 L 175 110 L 145 110 L 175 50 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- positive charge symbol (plus) top-left -->
+  <line x1="70" y1="90" x2="90" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="80" x2="80" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- negative charge symbol (minus) top-right -->
+  <line x1="210" y1="85" x2="235" y2="85" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- positive charge symbol middle-right -->
+  <line x1="215" y1="145" x2="235" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="225" y1="135" x2="225" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- negative charge symbol bottom-left -->
+  <line x1="60" y1="170" x2="85" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- positive charge symbol bottom-right -->
+  <line x1="195" y1="195" x2="215" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="205" y1="185" x2="205" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- negative charge symbol middle-left -->
+  <line x1="55" y1="135" x2="80" y2="135" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

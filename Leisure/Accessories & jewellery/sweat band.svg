@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- This shows BOTH the sweatband on a wrist AND a forehead context per cue -->
+  <!-- Large central wristband shown on a wrist/forearm -->
+  <!-- forearm (sport context) -->
+  <path d="M60 80 Q56 120 80 160 L130 160 Q150 120 146 80 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- hand at top -->
+  <path d="M60 80 Q60 60 78 56 L128 56 Q146 60 146 80 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- fingers hint -->
+  <line x1="78" y1="56" x2="78" y2="44" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="92" y1="54" x2="92" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="106" y1="54" x2="106" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="120" y1="54" x2="120" y2="44" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- THE SWEATBAND (terry cloth, elastic, on wrist) -->
+  <path d="M52 110 Q50 100 60 96 L146 96 Q156 100 154 110 L156 144 Q156 154 146 156 L60 156 Q50 154 50 144 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- terry cloth texture (loops) -->
+  <circle cx="68" cy="110" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="84" cy="108" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="100" cy="108" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="116" cy="108" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="132" cy="110" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="76" cy="126" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="92" cy="126" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="108" cy="126" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="124" cy="126" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="140" cy="126" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="68" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="84" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="100" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="116" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="132" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- center white stripe (athletic) -->
+  <rect x="50" y="124" width="106" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sweat drops (sport context) -->
+  <path d="M40 100 Q36 108 40 114 Q44 108 40 100 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M30 130 Q26 138 30 144 Q34 138 30 130 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M170 110 Q166 118 170 124 Q174 118 170 110 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small inset: forehead context (head with band) -->
+  <circle cx="232" cy="100" r="32" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- hair under band -->
+  <path d="M204 100 Q200 76 232 72 Q264 76 260 100 Q256 92 232 88 Q208 92 204 100 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- forehead sweatband -->
+  <rect x="202" y="86" width="60" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="202" y="91" width="60" height="4" fill="#ffffff"/>
+  <!-- face -->
+  <circle cx="222" cy="110" r="2" fill="#000000"/>
+  <circle cx="242" cy="110" r="2" fill="#000000"/>
+  <path d="M222 122 Q232 128 242 122" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- sport star -->
+  <path d="M232 200 L236 210 L246 210 L238 216 L242 226 L232 220 L222 226 L226 216 L218 210 L228 210 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

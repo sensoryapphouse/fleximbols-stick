@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cow face: white with black patches, pink nose, small horns -->
+  <!-- Horns -->
+  <path d="M103 52 Q88 20 72 30 Q80 50 103 62" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M187 52 Q202 20 218 30 Q210 50 187 62" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="140" rx="90" ry="84" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- Black patches -->
+  <ellipse cx="105" cy="105" rx="32" ry="28" fill="#000000"/>
+  <ellipse cx="190" cy="120" rx="25" ry="22" fill="#000000"/>
+  <ellipse cx="155" cy="88" rx="20" ry="16" fill="#000000"/>
+  <!-- Ears -->
+  <ellipse cx="60" cy="132" rx="22" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <ellipse cx="230" cy="132" rx="22" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- Head redraw on top to cover ear overlap with patch -->
+  <!-- Eyes -->
+  <circle cx="112" cy="118" r="11" fill="#ffffff"/>
+  <circle cx="112" cy="118" r="7" fill="#000000"/>
+  <circle cx="178" cy="118" r="11" fill="#ffffff"/>
+  <circle cx="178" cy="118" r="7" fill="#000000"/>
+  <circle cx="115" cy="115" r="2.5" fill="#ffffff"/>
+  <circle cx="181" cy="115" r="2.5" fill="#ffffff"/>
+  <!-- Snout -->
+  <ellipse cx="145" cy="174" rx="46" ry="34" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Nostrils -->
+  <ellipse cx="130" cy="175" rx="10" ry="8" fill="#d01424"/>
+  <ellipse cx="160" cy="175" rx="10" ry="8" fill="#d01424"/>
+  <!-- Smile -->
+  <path d="M118 192 Q145 208 172 192" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60.28 29.56 360.73 360.73">
+<!-- better: thumbs-up (bold, marked) vs thumbs-down (faded) -->
+<!-- thumbs-down (faded), left -->
+<g opacity="0.34">
+<g transform="translate(150 256) rotate(180)">
+<path d="M -34 -40 L -34 24 L 44 24 L 60 -44 Q 16 -44 16 -44 L 24 -92 Q 24 -114 -2 -106 L -10 -40 Z" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="-62" y="-40" width="28" height="64" rx="6" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+</g>
+<!-- thumbs-up (bold), right -->
+<g transform="translate(330 256)">
+<path d="M -34 -40 L -34 24 L 44 24 L 60 -44 Q 16 -44 16 -44 L 24 -92 Q 24 -114 -2 -106 L -10 -40 Z" fill="#3fb24a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="-62" y="-40" width="28" height="64" rx="6" fill="#3fb24a" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<!-- bold green arrow pointing at the thumbs-up -->
+<line x1="325" y1="60" x2="325" y2="150" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="325" y1="150" x2="298" y2="120" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="325" y1="150" x2="352" y2="120" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="325" y1="60" x2="325" y2="150" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="325" y1="150" x2="298" y2="120" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="325" y1="150" x2="352" y2="120" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+</svg>

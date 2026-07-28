@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Large circular button background (green active state) -->
+  <circle cx="145" cy="120" r="95" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Microphone body -->
+  <rect x="117" y="42" width="56" height="88" rx="28" ry="28" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Microphone inner highlight -->
+  <rect x="127" y="52" width="36" height="68" rx="18" ry="18" fill="#7f7f7f"/>
+  <!-- Microphone stand arm -->
+  <path d="M90 118 Q90 162 145 162 Q200 162 200 118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Vertical stand line -->
+  <line x1="145" y1="162" x2="145" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Base of stand -->
+  <line x1="112" y1="190" x2="178" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Sound-wave arcs (active/audible state) on the right -->
+  <path d="M210 90 Q228 120 210 150" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M222 76 Q248 120 222 164" fill="none" stroke="#529929" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M236 64 Q268 120 236 176" fill="none" stroke="#529929" stroke-width="2.66" stroke-linecap="round"/>
+</g></svg>

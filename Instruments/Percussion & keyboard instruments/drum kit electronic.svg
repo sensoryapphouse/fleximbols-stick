@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- E-drum kit: rack frame, rubber pads, module screen, kick pedal -->
+
+  <!-- Rack frame: horizontal top bar -->
+  <rect x="22" y="48" width="246" height="10" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Rack vertical left post -->
+  <rect x="22" y="48" width="10" height="170" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Rack vertical right post -->
+  <rect x="258" y="48" width="10" height="170" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lower horizontal bar -->
+  <rect x="22" y="160" width="246" height="10" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Rack feet -->
+  <rect x="18" y="218" width="22" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="250" y="218" width="22" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- Angled arm for snare pad (left) -->
+  <line x1="32" y1="90" x2="72" y2="120" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Snare pad -->
+  <ellipse cx="80" cy="126" rx="30" ry="22" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="80" cy="126" rx="22" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66"/>
+
+  <!-- Angled arm for hi-hat pad (far left) -->
+  <line x1="32" y1="70" x2="55" y2="85" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Hi-hat pad (small) -->
+  <ellipse cx="62" cy="90" rx="18" ry="13" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="62" cy="90" rx="12" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66"/>
+
+  <!-- Arm for tom 1 (center-left) -->
+  <line x1="100" y1="58" x2="118" y2="78" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Tom 1 pad -->
+  <ellipse cx="128" cy="86" rx="28" ry="20" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="128" cy="86" rx="20" ry="12" fill="#d01424" stroke="#1a1a1a" stroke-width="2.66"/>
+
+  <!-- Arm for tom 2 (center-right) -->
+  <line x1="175" y1="58" x2="165" y2="78" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Tom 2 pad -->
+  <ellipse cx="162" cy="86" rx="28" ry="20" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="162" cy="86" rx="20" ry="12" fill="#d01424" stroke="#1a1a1a" stroke-width="2.66"/>
+
+  <!-- Arm for ride/crash (right) -->
+  <line x1="258" y1="75" x2="228" y2="100" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Crash/ride cymbal pad (flat oval) -->
+  <ellipse cx="218" cy="106" rx="28" ry="12" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Brain/module mounted on rack right -->
+  <rect x="196" y="52" width="56" height="36" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="200" y="56" width="36" height="22" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Module buttons -->
+  <circle cx="244" cy="62" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="244" cy="74" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="1.78"/>
+
+  <!-- Kick pedal (bottom center) -->
+  <rect x="108" y="178" width="50" height="12" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="118" y="172" width="30" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Kick pad (small round on floor) -->
+  <ellipse cx="133" cy="196" rx="24" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <ellipse cx="133" cy="196" rx="16" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.66"/>
+
+  <!-- Hi-hat pedal -->
+  <rect x="46" y="190" width="32" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="131.49 91.38 325.82 325.82">
+<g transform="rotate(20 256 256)">
+<!-- thread: passes through the eye and loops out to the side (drawn under the needle) -->
+<path d="M 256 150 Q 330 120 360 175 Q 384 220 330 248 Q 286 272 320 318 Q 344 352 404 348" fill="none" stroke="#d63b46" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- needle shaft: long tapering spike -->
+<path d="M 248 110 Q 240 112 240 124 L 246 372 Q 248 384 256 384 Q 264 384 266 372 L 272 124 Q 272 112 264 110 Z" fill="#d4d8dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- eye of the needle -->
+<ellipse cx="256" cy="150" rx="9" ry="24" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- short thread tail showing through the eye -->
+<line x1="256" y1="138" x2="256" y2="170" stroke="#d63b46" stroke-width="7" stroke-linecap="round"/>
+</g>
+</svg>

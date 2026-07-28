@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor -->
+  <rect x="0" y="195" width="290" height="45" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- corner walls (L-shape suggestion): back wall -->
+  <rect x="20" y="20" width="250" height="180" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- corner divider line for L-corner -->
+  <line x1="50" y1="20" x2="50" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- window on back wall -->
+  <rect x="80" y="38" width="160" height="70" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="160" y1="38" x2="160" y2="108" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="80" y1="73" x2="240" y2="73" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- window frame outer -->
+  <rect x="75" y="33" width="170" height="80" fill="none" stroke="#5e1f0a" stroke-width="6.67"/>
+  <!-- little sun behind window -->
+  <circle cx="200" cy="60" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- built-in corner banquette: L-shape bench -->
+  <!-- left side bench (along left wall) -->
+  <rect x="50" y="140" width="40" height="65" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- left bench cushion -->
+  <rect x="50" y="130" width="40" height="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left backrest -->
+  <rect x="50" y="115" width="14" height="30" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- back bench (along back wall) -->
+  <rect x="90" y="140" width="155" height="35" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- back bench cushion -->
+  <rect x="90" y="130" width="155" height="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- back backrest along wall -->
+  <rect x="90" y="108" width="155" height="22" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- table in front of benches -->
+  <rect x="105" y="170" width="130" height="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- table leg -->
+  <rect x="160" y="180" width="14" height="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- table base foot -->
+  <rect x="148" y="200" width="38" height="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- mug on table -->
+  <rect x="190" y="158" width="16" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M206 161 Q212 161 212 165 Q212 169 206 169" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

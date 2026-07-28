@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="62.37 36.77 411.15 411.15" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1">
+<!-- restful: neatly made bed with pillow + Z Z -->
+<g>
+<!-- headboard -->
+<path d="M 92 196 Q 88 156 128 156 L 196 156 Q 204 196 196 220 L 100 220 Q 92 210 92 196 Z" fill="#9a6b3f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- mattress -->
+<path d="M 96 260 L 432 260 Q 444 260 444 280 L 444 322 L 96 322 Z" fill="#dfeaf2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- duvet -->
+<path d="M 220 280 L 444 280 L 444 322 L 220 322 Q 208 322 208 308 Q 208 280 220 280 Z" fill="#7eb8e0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 220 290 L 432 290" fill="none" stroke="#3f7fb0" stroke-width="5" stroke-linecap="round"/>
+<!-- pillow -->
+<path d="M 116 232 Q 116 220 132 220 L 196 220 Q 212 220 212 234 L 212 260 Q 212 272 196 272 L 132 272 Q 116 272 116 260 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- legs -->
+<line x1="108" y1="322" x2="108" y2="368" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<line x1="432" y1="322" x2="432" y2="368" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- Z Z rest marks -->
+<g stroke="#2f9e4a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M 300 150 L 332 150 L 300 186 L 332 186"/>
+<path d="M 346 116 L 374 116 L 346 148 L 374 148"/>
+</g>
+</g></g></svg>

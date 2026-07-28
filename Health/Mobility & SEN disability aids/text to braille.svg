@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left: paper with text -->
+  <rect x="20" y="40" width="95" height="160" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+  <!-- text lines -->
+  <rect x="30" y="55" width="70" height="6" rx="2" ry="2" fill="#1d0e82"/>
+  <rect x="30" y="70" width="75" height="5" rx="2" ry="2" fill="#000000"/>
+  <rect x="30" y="83" width="60" height="5" rx="2" ry="2" fill="#000000"/>
+  <rect x="30" y="96" width="75" height="5" rx="2" ry="2" fill="#000000"/>
+  <rect x="30" y="109" width="55" height="5" rx="2" ry="2" fill="#000000"/>
+  <rect x="30" y="122" width="70" height="5" rx="2" ry="2" fill="#000000"/>
+  <rect x="30" y="135" width="65" height="5" rx="2" ry="2" fill="#000000"/>
+  <rect x="30" y="148" width="75" height="5" rx="2" ry="2" fill="#000000"/>
+  <rect x="30" y="161" width="50" height="5" rx="2" ry="2" fill="#000000"/>
+  <rect x="30" y="174" width="70" height="5" rx="2" ry="2" fill="#000000"/>
+  <!-- ABC label on top of paper as paths -->
+  <path d="M 38 32 L 43 18 L 48 32 M 40 27 L 46 27" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 55 18 L 55 32 L 62 32 Q 67 32 67 28 Q 67 25 63 25 Q 67 25 67 22 Q 67 18 62 18 Z" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M 85 22 Q 85 18 80 18 Q 75 18 75 25 Q 75 32 80 32 Q 85 32 85 28" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round"/>
+
+  <!-- middle: arrow -->
+  <path d="M 130 110 L 165 110 L 165 100 L 180 120 L 165 140 L 165 130 L 130 130 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+
+  <!-- right: braille page with raised dots -->
+  <rect x="190" y="40" width="80" height="160" rx="4" ry="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+  <!-- braille cells (3 rows, 3 cells per row) -->
+  <!-- row 1 -->
+  <circle cx="202" cy="60" r="3.5" fill="#000000"/>
+  <circle cx="212" cy="60" r="3.5" fill="#000000"/>
+  <circle cx="202" cy="72" r="3.5" fill="#b8b8b8"/>
+  <circle cx="212" cy="72" r="3.5" fill="#000000"/>
+  <circle cx="202" cy="84" r="3.5" fill="#000000"/>
+  <circle cx="212" cy="84" r="3.5" fill="#b8b8b8"/>
+
+  <circle cx="228" cy="60" r="3.5" fill="#000000"/>
+  <circle cx="238" cy="60" r="3.5" fill="#b8b8b8"/>
+  <circle cx="228" cy="72" r="3.5" fill="#000000"/>
+  <circle cx="238" cy="72" r="3.5" fill="#000000"/>
+  <circle cx="228" cy="84" r="3.5" fill="#b8b8b8"/>
+  <circle cx="238" cy="84" r="3.5" fill="#b8b8b8"/>
+
+  <circle cx="254" cy="60" r="3.5" fill="#000000"/>
+  <circle cx="264" cy="60" r="3.5" fill="#000000"/>
+  <circle cx="254" cy="72" r="3.5" fill="#b8b8b8"/>
+  <circle cx="264" cy="72" r="3.5" fill="#000000"/>
+  <circle cx="254" cy="84" r="3.5" fill="#000000"/>
+  <circle cx="264" cy="84" r="3.5" fill="#000000"/>
+
+  <!-- row 2 -->
+  <circle cx="202" cy="110" r="3.5" fill="#b8b8b8"/>
+  <circle cx="212" cy="110" r="3.5" fill="#000000"/>
+  <circle cx="202" cy="122" r="3.5" fill="#000000"/>
+  <circle cx="212" cy="122" r="3.5" fill="#000000"/>
+  <circle cx="202" cy="134" r="3.5" fill="#000000"/>
+  <circle cx="212" cy="134" r="3.5" fill="#b8b8b8"/>
+
+  <circle cx="228" cy="110" r="3.5" fill="#000000"/>
+  <circle cx="238" cy="110" r="3.5" fill="#000000"/>
+  <circle cx="228" cy="122" r="3.5" fill="#b8b8b8"/>
+  <circle cx="238" cy="122" r="3.5" fill="#b8b8b8"/>
+  <circle cx="228" cy="134" r="3.5" fill="#000000"/>
+  <circle cx="238" cy="134" r="3.5" fill="#000000"/>
+
+  <circle cx="254" cy="110" r="3.5" fill="#000000"/>
+  <circle cx="264" cy="110" r="3.5" fill="#b8b8b8"/>
+  <circle cx="254" cy="122" r="3.5" fill="#000000"/>
+  <circle cx="264" cy="122" r="3.5" fill="#000000"/>
+  <circle cx="254" cy="134" r="3.5" fill="#b8b8b8"/>
+  <circle cx="264" cy="134" r="3.5" fill="#000000"/>
+
+  <!-- row 3 -->
+  <circle cx="202" cy="160" r="3.5" fill="#000000"/>
+  <circle cx="212" cy="160" r="3.5" fill="#000000"/>
+  <circle cx="202" cy="172" r="3.5" fill="#000000"/>
+  <circle cx="212" cy="172" r="3.5" fill="#b8b8b8"/>
+  <circle cx="202" cy="184" r="3.5" fill="#b8b8b8"/>
+  <circle cx="212" cy="184" r="3.5" fill="#000000"/>
+
+  <circle cx="228" cy="160" r="3.5" fill="#b8b8b8"/>
+  <circle cx="238" cy="160" r="3.5" fill="#000000"/>
+  <circle cx="228" cy="172" r="3.5" fill="#000000"/>
+  <circle cx="238" cy="172" r="3.5" fill="#000000"/>
+  <circle cx="228" cy="184" r="3.5" fill="#000000"/>
+  <circle cx="238" cy="184" r="3.5" fill="#b8b8b8"/>
+
+  <circle cx="254" cy="160" r="3.5" fill="#000000"/>
+  <circle cx="264" cy="160" r="3.5" fill="#000000"/>
+  <circle cx="254" cy="172" r="3.5" fill="#b8b8b8"/>
+  <circle cx="264" cy="172" r="3.5" fill="#000000"/>
+  <circle cx="254" cy="184" r="3.5" fill="#000000"/>
+  <circle cx="264" cy="184" r="3.5" fill="#b8b8b8"/>
+</g></svg>

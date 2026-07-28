@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- consultant: doctor figure with white coat and stethoscope -->
+<!-- neck -->
+<rect x="240" y="150" width="32" height="92" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<!-- head -->
+<circle cx="256" cy="128" r="44" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<!-- hair -->
+<path d="M 212 128 Q 210 84 256 84 Q 302 84 300 128 Q 300 112 284 108 Q 270 118 256 116 Q 242 118 228 108 Q 212 112 212 128 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- torso: white coat -->
+<path d="M 156 434 Q 160 236 256 230 Q 352 236 356 434 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- coat centre line -->
+<line x1="256" y1="252" x2="256" y2="434" stroke="#1a1a1a" stroke-width="4"/>
+<!-- collar -->
+<path d="M 224 238 L 256 274 L 288 238" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- stethoscope around neck (role cue) -->
+<path d="M 232 244 Q 218 254 218 300 L 218 348 Q 218 384 256 384 Q 294 384 294 348 L 294 326" fill="none" stroke="#4a90d9" stroke-width="12" stroke-linecap="round"/>
+<path d="M 280 244 Q 294 254 294 300 L 294 322" fill="none" stroke="#4a90d9" stroke-width="12" stroke-linecap="round"/>
+<circle cx="294" cy="362" r="24" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="294" cy="362" r="12" fill="#e8eaed" stroke="#1a1a1a" stroke-width="4"/>
+</svg>

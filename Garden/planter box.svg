@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Planter box body: wooden rectangular trough -->
+  <rect x="55" y="145" width="180" height="65" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Wood grain slats -->
+  <line x1="115" y1="145" x2="115" y2="210" stroke="#7d5e23" stroke-width="3.81"/>
+  <line x1="175" y1="145" x2="175" y2="210" stroke="#7d5e23" stroke-width="3.81"/>
+  <!-- Rim/lip at top of box -->
+  <rect x="48" y="136" width="194" height="16" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Soil -->
+  <rect x="60" y="137" width="170" height="12" rx="2" fill="#5e1f0a"/>
+  <!-- Left plant stem + leaves -->
+  <line x1="105" y1="136" x2="105" y2="85" stroke="#529929" stroke-width="5.08" stroke-linecap="round"/>
+  <ellipse cx="86" cy="95" rx="22" ry="13" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 86 95)"/>
+  <ellipse cx="124" cy="82" rx="22" ry="13" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25 124 82)"/>
+  <!-- Right plant stem + leaves -->
+  <line x1="175" y1="136" x2="175" y2="78" stroke="#529929" stroke-width="5.08" stroke-linecap="round"/>
+  <ellipse cx="155" cy="88" rx="20" ry="12" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 155 88)"/>
+  <ellipse cx="195" cy="76" rx="20" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 195 76)"/>
+  <!-- Centre flower -->
+  <circle cx="140" cy="70" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="140" cy="70" r="5" fill="#ff9900"/>
+  <!-- Drainage holes at bottom -->
+  <circle cx="100" cy="205" r="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="145" cy="205" r="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="190" cy="205" r="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.54"/>
+</g></svg>

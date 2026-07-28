@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="92.12 118.57 327.76 327.76"><g>
+<!-- elastic head strap -->
+<path d="M 150 180 Q 256 110 362 180" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- mask cup (covers nose & mouth) -->
+<path d="M 162 200 Q 256 168 350 200 L 332 330 Q 256 392 180 330 Z" fill="#dbeefb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- soft inner seal -->
+<path d="M 196 218 Q 256 198 316 218 L 304 322 Q 256 356 208 322 Z" fill="none" stroke="#9fd0ef" stroke-width="6" stroke-linejoin="round"/>
+<!-- breathing valve disc -->
+<circle cx="256" cy="300" r="30" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="240" y1="300" x2="272" y2="300" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="256" y1="284" x2="256" y2="316" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- supply tube -->
+<path d="M 256 330 Q 256 392 200 420" fill="none" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<path d="M 256 330 Q 256 392 200 420" fill="none" stroke="#9fd0ef" stroke-width="7" stroke-linecap="round"/>
+</g></svg>

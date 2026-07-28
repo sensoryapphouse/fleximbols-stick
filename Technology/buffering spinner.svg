@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- video frame (paused) -->
+  <rect x="40" y="24" width="210" height="130" rx="6" ry="6" fill="#000000" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="48" y="32" width="194" height="114" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- pause icon -->
+  <rect x="118" y="60" width="14" height="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="158" y="60" width="14" height="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- spinning loader (segments) -->
+  <g stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="138" y="166" width="14" height="20" rx="3" ry="3" fill="#ff9900" transform="rotate(0 145 188)"/>
+    <rect x="138" y="166" width="14" height="20" rx="3" ry="3" fill="#e65a00" transform="rotate(45 145 188)"/>
+    <rect x="138" y="166" width="14" height="20" rx="3" ry="3" fill="#7f7f7f" transform="rotate(90 145 188)"/>
+    <rect x="138" y="166" width="14" height="20" rx="3" ry="3" fill="#b8b8b8" transform="rotate(135 145 188)"/>
+    <rect x="138" y="166" width="14" height="20" rx="3" ry="3" fill="#dff3fd" transform="rotate(180 145 188)"/>
+    <rect x="138" y="166" width="14" height="20" rx="3" ry="3" fill="#dff3fd" transform="rotate(225 145 188)"/>
+    <rect x="138" y="166" width="14" height="20" rx="3" ry="3" fill="#dff3fd" transform="rotate(270 145 188)"/>
+    <rect x="138" y="166" width="14" height="20" rx="3" ry="3" fill="#fff200" transform="rotate(315 145 188)"/>
+  </g>
+
+  <!-- 'BUFFERING' path letters at top of video -->
+  <g fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round">
+    <!-- B -->
+    <path d="M58 40 L58 60 L70 60 Q76 60 76 56 Q76 52 72 51 Q76 50 76 46 Q76 40 70 40 Z M62 44 L70 44 Q72 44 72 47 Q72 50 70 50 L62 50 Z M62 54 L70 54 Q72 54 72 57 Q72 56 70 56 L62 56 Z" fill-rule="evenodd"/>
+    <!-- U -->
+    <path d="M80 40 L80 54 Q80 60 86 60 L90 60 Q96 60 96 54 L96 40 L92 40 L92 54 Q92 56 90 56 L86 56 Q84 56 84 54 L84 40 Z"/>
+    <!-- F -->
+    <path d="M100 40 L114 40 L114 44 L104 44 L104 48 L112 48 L112 52 L104 52 L104 60 L100 60 Z"/>
+    <!-- F -->
+    <path d="M118 40 L132 40 L132 44 L122 44 L122 48 L130 48 L130 52 L122 52 L122 60 L118 60 Z"/>
+    <!-- E -->
+    <path d="M136 40 L150 40 L150 44 L140 44 L140 48 L148 48 L148 52 L140 52 L140 56 L150 56 L150 60 L136 60 Z"/>
+    <!-- R -->
+    <path d="M154 40 L154 60 L158 60 L158 53 L160 53 L165 60 L170 60 L164 52 Q168 51 168 46 Q168 40 162 40 Z M158 44 L162 44 Q164 44 164 47 Q164 49 162 49 L158 49 Z" fill-rule="evenodd"/>
+    <!-- I -->
+    <path d="M172 40 L182 40 L182 44 L179 44 L179 56 L182 56 L182 60 L172 60 L172 56 L175 56 L175 44 L172 44 Z"/>
+    <!-- N -->
+    <path d="M186 40 L190 40 L196 53 L196 40 L200 40 L200 60 L196 60 L190 47 L190 60 L186 60 Z"/>
+    <!-- G -->
+    <path d="M204 46 Q204 40 210 40 L214 40 Q220 40 220 46 L216 46 Q216 44 214 44 L210 44 Q208 44 208 46 L208 54 Q208 56 210 56 L214 56 Q216 56 216 54 L216 51 L213 51 L213 47 L220 47 L220 54 Q220 60 214 60 L210 60 Q204 60 204 54 Z" fill-rule="evenodd"/>
+  </g>
+
+  <!-- buffering bar inside video (loading dots) -->
+  <circle cx="100" cy="134" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="134" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="134" r="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="134" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="134" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

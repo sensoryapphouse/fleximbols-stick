@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- BACKGROUND PANEL -->
+  <rect x="22" y="22" width="246" height="196" rx="14" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- CRAFT KIT BOX (open, centre) -->
+  <!-- Box back (lid open) -->
+  <path d="M40 60 L72 38 L240 38 L250 60 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Box body -->
+  <rect x="40" y="60" width="210" height="138" rx="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Box rim -->
+  <rect x="40" y="60" width="210" height="14" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Lid label -->
+  <rect x="100" y="42" width="100" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- SUPPLIES inside -->
+  <!-- SCISSORS (left) -->
+  <!-- Blades -->
+  <path d="M58 90 L100 122 L96 128 L54 96 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M58 134 L100 102 L104 108 L62 140 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Pivot -->
+  <circle cx="80" cy="112" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Handle loops -->
+  <ellipse cx="54" cy="92" rx="10" ry="8" fill="none" stroke="#d01424" stroke-width="8.88"/>
+  <ellipse cx="54" cy="136" rx="10" ry="8" fill="none" stroke="#d01424" stroke-width="8.88"/>
+
+  <!-- GLUE BOTTLE (middle) -->
+  <rect x="130" y="100" width="32" height="60" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Label on bottle -->
+  <rect x="134" y="118" width="24" height="20" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cap -->
+  <path d="M140 100 L140 86 L152 86 L152 100 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Cap tip -->
+  <path d="M142 86 L144 78 L148 78 L150 86 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Glue droplet -->
+  <ellipse cx="146" cy="74" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- COLOURFUL SUPPLIES (right) - pipe cleaners / pom poms -->
+  <!-- Pom pom 1 -->
+  <circle cx="190" cy="100" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pom pom fluff lines -->
+  <path d="M180 100 L182 96 M198 100 L200 96 M186 92 L190 90 M194 92 L194 90" stroke="#5e1f0a" stroke-width="2.22"/>
+  <!-- Pom pom 2 -->
+  <circle cx="220" cy="110" r="10" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pom pom 3 -->
+  <circle cx="200" cy="124" r="9" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pipe cleaner (curly) -->
+  <path d="M180 140 Q190 148 200 144 Q214 138 224 148 Q230 158 218 168 Q210 174 218 184" fill="none" stroke="#f7de58" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M180 140 Q190 148 200 144 Q214 138 224 148 Q230 158 218 168 Q210 174 218 184" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Buttons -->
+  <circle cx="124" cy="178" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="124" cy="178" r="1.5" fill="#000000"/>
+  <circle cx="124" cy="178" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="160" cy="180" r="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="180" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Stars/glitter shapes -->
+  <path d="M76 170 L80 178 L88 180 L82 186 L84 194 L76 190 L68 194 L70 186 L64 180 L72 178 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- 'CRAFT' block letters on lid label -->
+  <!-- C -->
+  <path d="M108 44 L108 54 L118 54 L118 52 L112 52 L112 46 L118 46 L118 44 Z" fill="#000000" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- R -->
+  <path d="M122 44 L122 54 L124 54 L124 50 L126 50 L128 54 L130 54 L128 50 Q130 50 130 47 Q130 44 127 44 Z M124 46 L127 46 L127 48 L124 48 Z" fill="#000000" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- A -->
+  <path d="M134 54 L137 44 L141 44 L144 54 L142 54 L141.4 52 L136.6 52 L136 54 Z M137 50 L141 50 L139 46 Z" fill="#000000" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- F -->
+  <path d="M148 44 L148 54 L150 54 L150 50 L154 50 L154 48 L150 48 L150 46 L156 46 L156 44 Z" fill="#000000" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- T -->
+  <path d="M160 44 L160 46 L162 46 L162 54 L164 54 L164 46 L166 46 L166 44 Z" fill="#000000" stroke="#1a1a1a" stroke-width="1.48"/>
+</g></svg>

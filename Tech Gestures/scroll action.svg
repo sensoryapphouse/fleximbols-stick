@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hand scrolling vertically on a phone, content list shifting, up-down arrow -->
+
+  <!-- Phone/screen device -->
+  <rect x="65" y="15" width="130" height="210" rx="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Screen surface -->
+  <rect x="76" y="28" width="108" height="175" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- List content shifting (items on screen) -->
+  <!-- Item 1 (partially visible top, going up) -->
+  <rect x="82" y="28" width="96" height="25" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="34" width="50" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- Item 2 -->
+  <rect x="82" y="60" width="96" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="66" width="70" height="7" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="88" y="78" width="50" height="6" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- Item 3 -->
+  <rect x="82" y="97" width="96" height="30" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="103" width="60" height="7" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="88" y="115" width="40" height="6" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- Item 4 (partially cut off at bottom — content going off screen) -->
+  <rect x="82" y="134" width="96" height="30" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="140" width="55" height="7" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="82" y="164" width="96" height="20" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Scroll indicator bar on right edge of screen -->
+  <rect x="178" y="28" width="6" height="175" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Thumb position indicator (mid-screen) -->
+  <rect x="178" y="85" width="6" height="40" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Vertical up-down scroll arrow (to the right of phone) -->
+  <!-- Arrow line -->
+  <line x1="224" y1="55" x2="224" y2="185" stroke="#2a4ec0" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Up arrowhead -->
+  <polygon points="224,38 214,62 234,62" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Down arrowhead -->
+  <polygon points="224,202 214,178 234,178" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- Finger on screen scrolling (index finger touching screen vertically) -->
+  <!-- Finger positioned mid-screen going down -->
+  <ellipse cx="130" cy="155" rx="14" ry="10" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Finger body going upward off screen bottom -->
+  <rect x="123" y="155" width="14" height="45" rx="7" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Knuckle lines -->
+  <line x1="124" y1="175" x2="136" y2="175" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="124" y1="190" x2="136" y2="190" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Motion lines on finger (going upward, meaning content scrolling down) -->
+  <line x1="112" y1="162" x2="100" y2="145" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="112" y1="172" x2="100" y2="158" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="112" y1="182" x2="100" y2="170" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="124.00 80.48 351.03 351.03">
+<!-- crocodile / alligator clip with toothed jaws and a wire -->
+<!-- red insulated barrel -->
+<rect x="300" y="232" width="96" height="48" rx="16" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wire trailing right -->
+<path d="M 396 256 Q 444 256 448 300" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- upper jaw (toothed) -->
+<path d="M 300 240 L 150 196 L 150 220 L 296 252 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- lower jaw (toothed) -->
+<path d="M 300 272 L 150 316 L 150 292 L 296 260 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- teeth on upper jaw -->
+<polygon points="200 213 212 224 224 209" fill="#fff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="160 204 172 218 184 201" fill="#fff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- teeth on lower jaw -->
+<polygon points="200 299 212 288 224 303" fill="#fff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="160 308 172 294 184 311" fill="#fff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- pivot -->
+<circle cx="288" cy="256" r="11" fill="#1a1a1a"/>
+</svg>

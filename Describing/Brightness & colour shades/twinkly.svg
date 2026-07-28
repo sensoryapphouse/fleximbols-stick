@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100.00 95.73 352.97 352.97">
+<!-- big star -->
+<polygon points="248,156 282,238 370,244 302,302 324,388 248,340 172,388 194,302 126,244 214,238" fill="#ffd23a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- 4-point sparkle glints (twinkle) -->
+<g fill="#ffe27a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+<polygon points="380,168 388,192 412,200 388,208 380,232 372,208 348,200 372,192"/>
+<polygon points="150,344 156,362 174,368 156,374 150,392 144,374 126,368 144,362"/>
+</g>
+<!-- small companion twinkle star -->
+<polygon points="396,318 405,340 429,342 410,356 416,380 396,366 376,380 382,356 363,342 387,340" fill="#fff0b0" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</svg>

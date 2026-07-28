@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- ballast bed -->
+<polygon points="150 110 362 110 452 410 60 410" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="0"/>
+<!-- sleepers (perspective: wider toward bottom) -->
+<polygon points="162 138 350 138 360 168 152 168" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="148 192 364 192 376 226 136 226" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="131 254 381 254 396 292 116 292" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="112 322 400 322 418 364 94 364" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- left rail: stays on the left, widening downward -->
+<polygon points="198 112 214 112 178 410 146 410" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- right rail: stays on the right, widening downward -->
+<polygon points="298 112 314 112 366 410 334 410" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- rail highlight lines -->
+<line x1="206" y1="120" x2="162" y2="400" stroke="#fff" stroke-width="3"/>
+<line x1="306" y1="120" x2="350" y2="400" stroke="#fff" stroke-width="3"/>
+</g></svg>

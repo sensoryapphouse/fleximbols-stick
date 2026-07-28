@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- AI brain (left small) -->
+  <path d="M30 60 C22 60 16 70 22 80 C16 86 22 100 34 102 C36 114 50 118 60 110 C70 116 84 108 84 96 C92 92 92 80 82 76 C86 64 74 56 62 60 C56 52 40 52 30 60 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M52 70 L52 112 M40 80 C46 80 46 90 40 90 M40 96 C48 96 48 106 40 106 M64 80 C58 80 58 90 64 90 M64 96 C56 96 56 106 64 106" fill="none" stroke="#7c3fac" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Code window -->
+  <rect x="110" y="40" width="170" height="160" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- title bar -->
+  <rect x="110" y="40" width="170" height="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="50" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="132" cy="50" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="144" cy="50" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- code squiggles -->
+  <path d="M120 75 L155 75" stroke="#7c3fac" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M160 75 L195 75" stroke="#1d0e82" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M130 90 L175 90" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M180 90 L220 90" stroke="#e65a00" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M130 105 L165 105" stroke="#1d0e82" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M170 105 L210 105" stroke="#7c3fac" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M120 120 L155 120" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M160 120 L185 120" stroke="#1d0e82" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- auto-complete dropdown -->
+  <rect x="140" y="135" width="110" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M148 145 L240 145 M148 158 L240 158 M148 171 L240 171 M148 184 L240 184" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="140" y="135" width="110" height="15" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M148 142 L210 142" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Sparkles -->
+  <path d="M260 30 L263 40 L273 43 L263 46 L260 56 L257 46 L247 43 L257 40 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M100 150 L102 158 L110 160 L102 162 L100 170 L98 162 L90 160 L98 158 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M270 210 L272 217 L279 219 L272 221 L270 228 L268 221 L261 219 L268 217 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- circuit board base -->
+  <rect x="30" y="60" width="230" height="140" rx="10" ry="10" fill="#137827" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- circuit traces -->
+  <path d="M 50 100 L 90 100 L 90 130 L 140 130" fill="none" stroke="#f2e40d" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 200 80 L 230 80 L 230 160 L 180 160" fill="none" stroke="#f2e40d" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 60 170 L 110 170 L 110 150" fill="none" stroke="#f2e40d" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- solder pads -->
+  <circle cx="50" cy="100" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="130" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="230" cy="80" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="160" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="170" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="110" cy="150" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- code block 1 (red) -->
+  <path d="M 60 30 L 60 20 L 130 20 L 130 30 L 140 30 L 140 60 L 130 60 L 130 70 L 60 70 L 60 60 L 50 60 L 50 30 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- code block 2 (blue) sits below first like puzzle -->
+  <path d="M 150 80 L 150 70 L 220 70 L 220 80 L 230 80 L 230 110 L 220 110 L 220 120 L 150 120 L 150 110 L 140 110 L 140 80 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- IC chip -->
+  <rect x="130" y="155" width="50" height="35" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="124" y="160" width="6" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="124" y="170" width="6" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="124" y="180" width="6" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="180" y="160" width="6" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="180" y="170" width="6" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="180" y="180" width="6" height="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- LED -->
+  <circle cx="70" cy="180" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="68" cy="178" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

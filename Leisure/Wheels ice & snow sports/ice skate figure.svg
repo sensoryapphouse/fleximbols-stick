@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- boot body (white figure skate) -->
+  <path d="M70 50 L70 150 Q70 160 78 162 L210 162 Q220 158 222 148 L226 110 Q226 96 214 92 L130 86 Q120 84 118 76 L114 56 Q112 50 104 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- ankle padding -->
+  <path d="M78 70 Q90 65 110 68" stroke="#1a1a1a" stroke-width="3.56" fill="none"/>
+  <!-- decorative laces (cross pattern) -->
+  <line x1="105" y1="95" x2="130" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="130" y1="95" x2="105" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="105" x2="165" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="165" y1="105" x2="140" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="175" y1="115" x2="200" y2="130" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="200" y1="115" x2="175" y2="130" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- lace eyelets -->
+  <circle cx="105" cy="95" r="2.5" fill="#000000"/>
+  <circle cx="130" cy="95" r="2.5" fill="#000000"/>
+  <circle cx="140" cy="105" r="2.5" fill="#000000"/>
+  <circle cx="165" cy="105" r="2.5" fill="#000000"/>
+  <circle cx="175" cy="115" r="2.5" fill="#000000"/>
+  <circle cx="200" cy="115" r="2.5" fill="#000000"/>
+  <circle cx="105" cy="110" r="2.5" fill="#000000"/>
+  <circle cx="130" cy="110" r="2.5" fill="#000000"/>
+  <circle cx="140" cy="120" r="2.5" fill="#000000"/>
+  <circle cx="165" cy="120" r="2.5" fill="#000000"/>
+  <circle cx="175" cy="130" r="2.5" fill="#000000"/>
+  <circle cx="200" cy="130" r="2.5" fill="#000000"/>
+  <!-- ribbon bow at top -->
+  <path d="M80 50 Q70 42 78 38 Q85 44 88 50 Q92 44 100 38 Q108 42 100 50 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- sole -->
+  <path d="M68 160 L222 160 L220 170 L70 170 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- blade holder -->
+  <path d="M82 170 L210 170 L208 178 L84 178 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- blade -->
+  <path d="M80 178 L212 178 Q214 188 208 192 L88 192 Q80 188 80 178 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- TOE PICK (figure-skate signature) -->
+  <path d="M82 192 L80 200 L86 198 L84 204 L90 200 L88 206 L94 202 L92 208" stroke="#1a1a1a" stroke-width="5.33" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M84 195 L82 202 M88 195 L86 202 M92 195 L90 202" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- toe pick teeth as triangles -->
+  <path d="M78 192 L80 202 L84 192 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <path d="M84 192 L86 202 L90 192 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <path d="M90 192 L92 202 L96 192 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+</g></svg>

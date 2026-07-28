@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="123.31 122.45 362.67 362.67">
+<!-- ICY: blue ice block with icicles + blue thermometer (very low) -->
+<!-- ice cube block (3D) -->
+<polygon points="150 200 300 200 360 150 210 150" fill="#cdeafb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="300 200 360 150 360 320 300 370" fill="#9ad4f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="150" y="200" width="150" height="170" fill="#bfe6fb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- shine lines on front face -->
+<line x1="178" y1="232" x2="178" y2="300" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<line x1="200" y1="232" x2="200" y2="270" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+<!-- icicles hanging from front bottom edge -->
+<g fill="#eaf7ff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
+<polygon points="180 370 198 370 189 416"/>
+<polygon points="226 370 244 370 235 426"/>
+<polygon points="272 370 290 370 281 412"/>
+</g>
+<!-- cold thermometer (blue, low) at right -->
+<rect x="416" y="246" width="30" height="180" rx="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="431" cy="430" r="28" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="422" y="372" width="18" height="62" rx="9" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

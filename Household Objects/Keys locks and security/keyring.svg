@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ===== KEY 1 (gold) drawn first so its head tucks BEHIND the ring's lower arc ===== -->
+<g transform="rotate(24 214 250)">
+<!-- shaft -->
+<rect x="200" y="238" width="28" height="150" rx="10" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- teeth (bit) -->
+<path d="M 228 330 L 250 330 L 250 348 L 228 348 L 228 362 L 244 362 L 244 380 L 228 380 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- round bow (head) with hole through which the ring passes -->
+<circle cx="214" cy="216" r="40" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="214" cy="216" r="15" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+</g>
+<!-- ===== KEY 2 (silver) also tucks behind the ring ===== -->
+<g transform="rotate(-20 300 250)">
+<rect x="288" y="238" width="26" height="136" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 314 322 L 334 322 L 334 338 L 314 338 L 314 350 L 328 350 L 328 366 L 314 366 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="300" cy="216" r="36" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="300" cy="216" r="13" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+</g>
+<!-- ===== split ring drawn LAST so it visibly passes IN FRONT of the key bows, threading them on ===== -->
+<circle cx="256" cy="176" r="82" fill="none" stroke="#1a1a1a" stroke-width="24"/>
+<circle cx="256" cy="176" r="82" fill="none" stroke="#b9bdc2" stroke-width="12"/>
+<!-- split-ring overlap detail at the top -->
+<path d="M 236 96 A 82 82 0 0 1 276 96" fill="none" stroke="#9aa0a6" stroke-width="12" stroke-linecap="round"/>
+</svg>

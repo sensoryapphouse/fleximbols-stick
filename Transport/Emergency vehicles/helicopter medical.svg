@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Main fuselage - white air ambulance body -->
+  <path d="M55 120 Q60 95 80 88 L200 88 Q220 90 235 105 Q245 118 240 135 Q235 150 215 155 L85 155 Q65 152 55 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cockpit bubble window -->
+  <path d="M195 88 Q218 85 232 100 Q240 112 235 125 L200 120 L200 90 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Side window -->
+  <rect x="130" y="97" width="45" height="30" rx="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- RED CROSS marking - prominent on fuselage side -->
+  <rect x="75" y="103" width="36" height="12" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="87" y="92" width="12" height="34" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Tail boom -->
+  <path d="M60 138 Q40 138 20 132 Q10 128 12 122 Q14 118 22 120 Q40 126 60 128" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tail rotor -->
+  <line x1="14" y1="108" x2="14" y2="140" stroke="#b8b8b8" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="4" y1="124" x2="24" y2="124" stroke="#b8b8b8" stroke-width="5.55" stroke-linecap="round"/>
+  <circle cx="14" cy="124" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Tail fin -->
+  <path d="M18 120 Q12 105 16 95 Q22 90 26 98 Q24 108 22 120 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Main rotor mast -->
+  <rect x="140" y="75" width="8" height="15" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Main rotor blades -->
+  <path d="M50 78 Q100 72 144 80 Q148 82 144 84 Q100 86 50 80 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M148 80 Q192 72 240 78 Q245 80 240 82 Q192 88 148 84 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Rotor hub -->
+  <circle cx="144" cy="82" r="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Skids -->
+  <path d="M80 155 L80 170 L190 170 L190 155" stroke="#1a1a1a" stroke-width="5.55" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="75" y="168" width="50" height="6" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="165" y="168" width="50" height="6" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

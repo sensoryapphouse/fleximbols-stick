@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- DHL Van - yellow van with red accent band, back-to-front -->
+  <!-- Shadow -->
+  <ellipse cx="145" cy="208" rx="108" ry="7" fill="#4d4d4d" stroke="none"/>
+  <!-- Main box body -->
+  <rect x="30" y="108" width="170" height="82" rx="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Box roof -->
+  <rect x="30" y="95" width="170" height="18" rx="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Red accent band lower -->
+  <rect x="30" y="162" width="170" height="28" rx="4" fill="#d01424" stroke="none"/>
+  <!-- Re-stroke body outline -->
+  <rect x="30" y="108" width="170" height="82" rx="6" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cab body -->
+  <rect x="200" y="122" width="62" height="68" rx="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cab roof -->
+  <path d="M200 122 Q200 100 222 98 L248 98 Q262 98 262 122" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Windshield -->
+  <path d="M222 100 L258 106 L258 124 L222 124 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cab side window -->
+  <rect x="204" y="126" width="24" height="20" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Cab red band continuation -->
+  <rect x="200" y="162" width="62" height="28" rx="4" fill="#d01424" stroke="none"/>
+  <!-- Re-stroke cab outline -->
+  <rect x="200" y="122" width="62" height="68" rx="8" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Simple diamond motif on yellow body panel -->
+  <path d="M80 130 L102 118 L124 130 L102 142 Z" fill="#f2e40d" stroke="#d01424" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Rear bumper -->
+  <rect x="30" y="182" width="12" height="8" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Front bumper -->
+  <rect x="250" y="182" width="12" height="8" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Front wheel -->
+  <circle cx="228" cy="192" r="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="228" cy="192" r="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Rear wheel -->
+  <circle cx="66" cy="192" r="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="66" cy="192" r="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

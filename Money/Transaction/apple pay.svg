@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Contactless reader (right side, flat box) -->
+  <rect x="192" y="58" width="50" height="124" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Reader screen panel -->
+  <rect x="200" y="68" width="34" height="50" rx="4" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Reader card-slot line -->
+  <rect x="200" y="126" width="34" height="6" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Reader indicator dot -->
+  <circle cx="217" cy="150" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Phone body (tilted via transform, held near reader) -->
+  <g transform="rotate(-10,120,120)">
+    <rect x="58" y="52" width="104" height="168" rx="16" ry="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+    <rect x="68" y="68" width="84" height="136" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- Phone screen content: pay indicator -->
+    <rect x="68" y="68" width="84" height="20" rx="6" ry="6" fill="#4d4d4d" stroke="none"/>
+    <circle cx="110" cy="126" r="22" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="110" cy="126" r="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+    <!-- Coin on screen -->
+    <circle cx="110" cy="126" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+  <!-- NFC arcs between phone and reader -->
+  <path d="M174 90 Q182 100 182 120 Q182 140 174 150" fill="none" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M162 82 Q176 96 176 120 Q176 144 162 158" fill="none" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M150 74 Q170 92 170 120 Q170 148 150 166" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shortwave radio body, boxy with multi-band selector -->
+  <rect x="30" y="70" width="230" height="140" rx="8" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="13.34"/>
+  <rect x="38" y="78" width="214" height="124" rx="4" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- long antenna telescoping up -->
+  <line x1="225" y1="70" x2="265" y2="15" stroke="#1a1a1a" stroke-width="17.78" stroke-linecap="round"/>
+  <line x1="225" y1="70" x2="265" y2="15" stroke="#b8b8b8" stroke-width="8.89" stroke-linecap="round"/>
+  <circle cx="265" cy="15" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- secondary antenna stub -->
+  <line x1="45" y1="70" x2="20" y2="40" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
+  <!-- dial window large -->
+  <rect x="50" y="90" width="135" height="60" rx="3" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="13.34"/>
+  <!-- band scales: three horizontal bands -->
+  <line x1="55" y1="105" x2="180" y2="105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="55" y1="120" x2="180" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="55" y1="135" x2="180" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tick marks band 1 -->
+  <line x1="60" y1="97" x2="60" y2="105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="75" y1="97" x2="75" y2="105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="90" y1="97" x2="90" y2="105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="105" y1="97" x2="105" y2="105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="120" y1="97" x2="120" y2="105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="135" y1="97" x2="135" y2="105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="150" y1="97" x2="150" y2="105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="165" y1="97" x2="165" y2="105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tick marks band 2 -->
+  <line x1="60" y1="112" x2="60" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="80" y1="112" x2="80" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="100" y1="112" x2="100" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="120" y1="112" x2="120" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="112" x2="140" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="160" y1="112" x2="160" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tick marks band 3 -->
+  <line x1="60" y1="127" x2="60" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="85" y1="127" x2="85" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="110" y1="127" x2="110" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="135" y1="127" x2="135" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="160" y1="127" x2="160" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- needle (red vertical) -->
+  <line x1="110" y1="92" x2="110" y2="148" stroke="#f8130d" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- band selector knob upper right -->
+  <circle cx="220" cy="115" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="13.34"/>
+  <circle cx="220" cy="115" r="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- six band positions -->
+  <circle cx="220" cy="98" r="2.5" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="234" cy="106" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="234" cy="124" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="132" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="206" cy="124" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="206" cy="106" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="220" y1="115" x2="220" y2="103" stroke="#f8130d" stroke-width="13.34" stroke-linecap="round"/>
+  <!-- tuning knob bottom right -->
+  <circle cx="220" cy="175" r="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="13.34"/>
+  <circle cx="220" cy="175" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89"/>
+  <line x1="220" y1="167" x2="220" y2="175" stroke="#f7de58" stroke-width="13.34" stroke-linecap="round"/>
+  <!-- speaker grille small left bottom -->
+  <rect x="50" y="160" width="135" height="40" rx="3" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="8.89"/>
+  <line x1="58" y1="170" x2="180" y2="170" stroke="#b8b8b8" stroke-width="8.89"/>
+  <line x1="58" y1="180" x2="180" y2="180" stroke="#b8b8b8" stroke-width="8.89"/>
+  <line x1="58" y1="190" x2="180" y2="190" stroke="#b8b8b8" stroke-width="8.89"/>
+</g></svg>

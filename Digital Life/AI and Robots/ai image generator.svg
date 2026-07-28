@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- AI brain (left) -->
+  <path d="M40 70 C30 70 22 80 28 92 C20 100 26 116 40 118 C42 132 60 138 72 128 C84 138 102 128 102 114 C112 110 112 94 100 90 C104 76 90 64 76 70 C68 60 50 60 40 70 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M65 78 L65 130 M50 90 C58 90 58 102 50 102 M50 108 C60 108 60 120 50 120 M80 90 C72 90 72 102 80 102 M80 108 C70 108 70 120 80 120" fill="none" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Arrow to canvas -->
+  <path d="M112 100 L140 100 L140 92 L160 104 L140 116 L140 108 L112 108 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Canvas / generated image (right) -->
+  <rect x="170" y="55" width="100" height="115" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- mountains -->
+  <path d="M170 140 L195 100 L215 125 L240 95 L270 140 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sun -->
+  <circle cx="245" cy="80" r="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- ground -->
+  <rect x="170" y="140" width="100" height="30" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sparkles -->
+  <path d="M155 50 L158 60 L168 63 L158 66 L155 76 L152 66 L142 63 L152 60 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M260 180 L262 188 L270 190 L262 192 L260 200 L258 192 L250 190 L258 188 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M120 180 L122 187 L129 189 L122 191 L120 198 L118 191 L111 189 L118 187 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- AI label (paths) -->
+  <path d="M30 200 L40 200 L45 220 L40 220 L38 215 L32 215 L30 220 L25 220 Z M34 207 L33 211 L37 211 L36 207 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="50" y="200" width="6" height="20" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Egg being removed from its cracked shell, shell pieces beside it -->
+
+  <!-- Shell piece left (cracked outer, white+brown) -->
+  <path d="M30,120 Q28,75 75,65 Q85,63 88,75 L82,130 Q55,135 30,120 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Shell inner colour (white) on left piece -->
+  <path d="M38,118 Q37,80 75,72 Q82,71 84,78 L79,125 Q57,130 38,118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Crack jagged edge on left shell piece -->
+  <polyline points="84,78 78,88 85,97 79,108 83,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Shell piece right -->
+  <path d="M255,115 Q260,70 210,60 Q200,58 196,72 L202,128 Q228,134 255,115 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Shell inner on right piece -->
+  <path d="M248,112 Q252,72 210,67 Q203,66 201,74 L205,124 Q228,130 248,112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Crack jagged edge on right shell piece -->
+  <polyline points="201,74 207,84 200,94 206,105 202,116" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Egg (inner content, egg-white + yolk visible) being removed/falling out -->
+  <!-- Egg white blob -->
+  <ellipse cx="145" cy="155" rx="55" ry="45" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Egg yolk -->
+  <circle cx="145" cy="155" r="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Yolk highlight -->
+  <circle cx="136" cy="146" r="8" fill="#f2e40d" stroke="none"/>
+
+  <!-- Hands holding shell halves (warm skin tone, partial) -->
+  <!-- Left hand thumb and finger suggestion -->
+  <ellipse cx="52" cy="65" rx="14" ry="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="38" cy="70" rx="12" ry="8" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right hand -->
+  <ellipse cx="238" cy="60" rx="14" ry="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="252" cy="65" rx="12" ry="8" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Motion lines showing shell being pulled apart -->
+  <line x1="88" y1="100" x2="100" y2="100" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="5,4"/>
+  <line x1="190" y1="100" x2="202" y2="100" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="5,4"/>
+  <!-- Arrows pointing outward -->
+  <polygon points="98,96 98,104 108,100" fill="#000000"/>
+  <polygon points="192,96 192,104 182,100" fill="#000000"/>
+</g></svg>

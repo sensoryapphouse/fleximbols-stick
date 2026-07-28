@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- clinic building -->
+<rect x="80" y="180" width="352" height="252" rx="12" fill="#bfe0f2" stroke="#1a1a1a" stroke-width="9"/>
+<!-- roof -->
+<path d="M 64 180 L 256 90 L 448 180 Z" fill="#7fc4e8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- door -->
+<rect x="216" y="332" width="80" height="100" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- windows -->
+<rect x="120" y="250" width="64" height="64" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="328" y="250" width="64" height="64" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- medical + cross sign -->
+<circle cx="256" cy="160" r="56" fill="#e23b3b" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 240 122 L 272 122 L 272 144 L 294 144 L 294 176 L 272 176 L 272 198 L 240 198 L 240 176 L 218 176 L 218 144 L 240 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+<g stroke="#7a3fa0" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="232" cy="280" r="18"/><line x1="245" y1="267" x2="268" y2="244"/><path d="M 248 244 L 268 244 L 268 264"/><circle cx="300" cy="280" r="18"/><line x1="300" y1="298" x2="300" y2="332"/><line x1="284" y1="316" x2="316" y2="316"/></g></svg>

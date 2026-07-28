@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left grass bank -->
+  <path d="M 10 10 L 280 10 L 280 60 Q 230 80 200 100 Q 170 130 140 150 Q 110 175 80 200 Q 50 220 10 230 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- right grass bank -->
+  <path d="M 280 80 L 280 230 L 70 230 Q 110 215 140 195 Q 170 175 200 150 Q 230 125 260 105 Q 275 95 280 80 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- stream water winding diagonal -->
+  <path d="M 10 50 Q 60 70 90 95 Q 120 120 145 145 Q 175 170 215 195 Q 250 215 280 230 L 280 215 Q 250 200 220 180 Q 185 155 155 130 Q 125 105 95 80 Q 60 55 10 35 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- white ripples following the flow -->
+  <path d="M 40 50 Q 70 65 90 80" fill="none" stroke="#dff3fd" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M 110 95 Q 135 115 150 130" fill="none" stroke="#dff3fd" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M 175 145 Q 200 165 220 180" fill="none" stroke="#dff3fd" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- rocks in stream -->
+  <ellipse cx="75" cy="75" rx="12" ry="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="160" cy="140" rx="13" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="225" cy="195" rx="12" ry="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small fish -->
+  <path d="M 110 105 Q 120 100 130 105 Q 120 110 110 105 Z M 130 105 L 138 100 L 138 110 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <circle cx="115" cy="105" r="1.5" fill="#000000"/>
+  <path d="M 195 168 Q 205 163 215 168 Q 205 173 195 168 Z M 215 168 L 222 164 L 222 173 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <circle cx="200" cy="168" r="1.5" fill="#000000"/>
+  <!-- grass tufts -->
+  <path d="M 30 35 L 32 25 L 34 35 M 36 35 L 38 27 L 40 35" fill="none" stroke="#137827" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M 250 215 L 252 205 L 254 215 M 256 215 L 258 207 L 260 215" fill="none" stroke="#137827" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

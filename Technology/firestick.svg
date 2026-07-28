@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Firestick: slim rectangular HDMI stick + remote with circular d-pad -->
+  <!-- HDMI stick body -->
+  <rect x="28" y="100" width="134" height="48" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="36" y="108" width="118" height="32" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- HDMI plug on right end -->
+  <rect x="158" y="108" width="26" height="30" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="164" y="114" width="14" height="18" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Firestick label area / logo hint (orange dot only, no text) -->
+  <circle cx="90" cy="124" r="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Status LED -->
+  <circle cx="44" cy="124" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Remote body -->
+  <rect x="186" y="42" width="58" height="164" rx="20" fill="#000000" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="194" y="50" width="42" height="148" rx="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Circular d-pad (key differentiator) -->
+  <circle cx="215" cy="100" r="26" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- D-pad cross arms -->
+  <rect x="207" y="82" width="16" height="36" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="197" y="92" width="36" height="16" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Centre select dot -->
+  <circle cx="215" cy="100" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Home button -->
+  <circle cx="215" cy="142" r="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Back / menu buttons row -->
+  <rect x="198" y="160" width="16" height="10" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="220" y="160" width="16" height="10" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Volume rocker -->
+  <rect x="204" y="178" width="22" height="20" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="215" y1="178" x2="215" y2="198" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- monitor on right -->
+  <rect x="170" y="30" width="110" height="100" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <rect x="180" y="40" width="90" height="76" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- ultrasound cone sweep arc -->
+  <path d="M225 46 l-32 64 l64 0 z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- baby silhouette on screen (curled fetus) -->
+  <path d="M220 70 q-8 -4 -12 4 q-2 10 6 12 q-2 6 4 10 q8 4 14 -2 q4 -2 6 -8 q8 -4 6 -12 q-2 -8 -10 -8 q-6 -4 -14 4 z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- monitor stand -->
+  <rect x="218" y="130" width="14" height="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <rect x="200" y="148" width="50" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- pregnant belly (profile of expectant mother torso + belly) -->
+  <path d="M30 220 q-4 -50 16 -90 q-4 -14 6 -22 q12 -10 26 0 q4 8 0 14 q14 14 30 30 q14 16 12 36 q-2 18 -10 32 z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- belly bump highlight -->
+  <circle cx="80" cy="160" r="34" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-dasharray="5 4"/>
+  <!-- navel -->
+  <circle cx="78" cy="162" r="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- transducer wand on belly -->
+  <rect x="105" y="148" width="38" height="20" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34" transform="rotate(-15 124 158)"/>
+  <!-- wand cable -->
+  <path d="M138 144 q24 -20 50 -24" fill="none" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- gel/wave lines from transducer to belly -->
+  <path d="M110 168 q-4 6 -4 14" fill="none" stroke="#1d0e82" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M118 170 q-2 8 0 16" fill="none" stroke="#1d0e82" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M126 170 q4 8 6 16" fill="none" stroke="#1d0e82" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

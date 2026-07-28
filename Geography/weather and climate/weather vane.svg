@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="71.21 46.47 391.76 391.76">
+<!-- vertical pole -->
+<line x1="256" y1="150" x2="256" y2="410" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- decorative ball on pole -->
+<circle cx="256" cy="232" r="12" fill="#c0c7cd" stroke="#1a1a1a" stroke-width="8"/>
+<!-- directional cross arms -->
+<line x1="176" y1="200" x2="336" y2="200" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- left arrowhead (W point) -->
+<polygon points="176 200 198 188 198 212" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- right arrowhead (E point) -->
+<polygon points="336 200 314 188 314 212" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- pivot circle at cross -->
+<circle cx="256" cy="200" r="9" fill="#1a1a1a"/>
+<!-- rooster body -->
+<path d="M 230 130 Q 226 96 252 92 Q 262 80 276 90 Q 296 88 296 108 Q 318 116 314 138 Q 300 158 268 154 Q 244 154 230 130 Z" fill="#e08a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rooster comb -->
+<path d="M 252 92 Q 250 78 262 80 Q 264 70 274 76 Q 282 72 284 84" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- rooster tail -->
+<path d="M 314 138 Q 350 120 358 92 Q 338 116 318 116" fill="#b8701c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- rooster eye -->
+<circle cx="248" cy="112" r="5" fill="#1a1a1a"/>
+<!-- rooster beak pointing into wind -->
+<polygon points="226 116 206 122 226 130" fill="#f3c043" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- base mount -->
+<path d="M 232 410 L 280 410 L 270 392 L 242 392 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

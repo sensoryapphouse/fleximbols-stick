@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,16.538) scale(0.9677)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- swallowtail butterfly: large wings, hind-wing tails, bold black/yellow pattern -->
+  <!-- Left hindwing (back layer) with tail -->
+  <path d="M145 130 Q95 145 55 175 Q35 195 45 215 Q55 225 75 210 Q100 190 120 175 Q138 160 145 148" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left hindwing tail extension -->
+  <path d="M75 210 Q68 225 62 232 Q58 238 65 236 Q72 234 78 222 Q82 214 75 210" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right hindwing with tail -->
+  <path d="M145 130 Q195 145 235 175 Q255 195 245 215 Q235 225 215 210 Q190 190 170 175 Q152 160 145 148" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right hindwing tail -->
+  <path d="M215 210 Q222 225 228 232 Q232 238 225 236 Q218 234 212 222 Q208 214 215 210" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left forewing -->
+  <path d="M145 125 Q120 80 85 55 Q60 38 40 50 Q28 62 38 85 Q52 112 90 128 Q118 138 145 132" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right forewing -->
+  <path d="M145 125 Q170 80 205 55 Q230 38 250 50 Q262 62 252 85 Q238 112 200 128 Q172 138 145 132" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bold black forewing markings - left -->
+  <path d="M40 50 Q60 40 85 55 Q100 64 112 80" fill="none" stroke="#1a1a1a" stroke-width="17.77" stroke-linecap="round"/>
+  <path d="M38 85 Q52 112 90 128" fill="none" stroke="#1a1a1a" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- Black band along leading edge left forewing -->
+  <path d="M40 52 Q65 38 88 56 Q102 66 118 84 Q130 100 138 120" fill="#000000" stroke="none"/>
+  <path d="M40 52 Q65 38 88 56 Q102 66 118 84 Q130 100 138 120 Q128 108 112 90 Q96 72 76 58 Q58 46 40 52" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Black band along leading edge right forewing -->
+  <path d="M250 52 Q225 38 202 56 Q188 66 172 84 Q160 100 152 120 Q162 108 178 90 Q194 72 214 58 Q232 46 250 52" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Yellow spots in black band left -->
+  <circle cx="72" cy="50" r="6" fill="#f2e40d"/>
+  <circle cx="88" cy="44" r="5" fill="#f2e40d"/>
+  <circle cx="104" cy="52" r="6" fill="#f2e40d"/>
+  <!-- Yellow spots in black band right -->
+  <circle cx="218" cy="50" r="6" fill="#f2e40d"/>
+  <circle cx="202" cy="44" r="5" fill="#f2e40d"/>
+  <circle cx="186" cy="52" r="6" fill="#f2e40d"/>
+  <!-- Hindwing blue spots row left -->
+  <ellipse cx="72" cy="188" rx="9" ry="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="92" cy="198" rx="8" ry="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="112" cy="200" rx="7" ry="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hindwing blue spots row right -->
+  <ellipse cx="218" cy="188" rx="9" ry="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="198" cy="198" rx="8" ry="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="178" cy="200" rx="7" ry="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Red eyespot on hindwing tails -->
+  <circle cx="68" cy="218" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="222" cy="218" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Body -->
+  <ellipse cx="145" cy="130" rx="7" ry="55" fill="#000000" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="145" cy="72" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Antennae -->
+  <path d="M145 64 Q132 45 124 30" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="124" cy="30" r="5" fill="#000000"/>
+  <path d="M145 64 Q158 45 166 30" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="166" cy="30" r="5" fill="#000000"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg501" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg501)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

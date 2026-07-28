@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- base foot -->
+<path d="M 118 356 Q 112 322 150 322 L 250 322 L 250 396 L 138 396 Q 118 396 118 372 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- upright arm at the back -->
+<path d="M 150 322 L 150 176 Q 150 140 190 140 L 226 140 L 226 322 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tilted motor head reaching forward over the bowl -->
+<path d="M 178 150 Q 172 118 210 116 L 392 130 Q 424 132 420 168 L 412 214 Q 410 240 380 236 L 210 220 Q 178 216 178 184 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- speed dial on the head -->
+<circle cx="378" cy="176" r="19" fill="#f4c430" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="378" y1="176" x2="378" y2="162" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- beater shaft dropping into the bowl -->
+<rect x="286" y="228" width="22" height="44" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- looped whisk beater -->
+<path d="M 264 272 Q 262 344 297 350 Q 332 344 330 272" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 284 272 Q 282 336 297 350 Q 312 336 310 272" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- mixing bowl in front -->
+<path d="M 214 340 L 380 340 Q 366 448 297 448 Q 228 448 214 340 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="297" cy="340" rx="83" ry="20" fill="#e8eef2" stroke="#1a1a1a" stroke-width="9"/>
+</g></svg>

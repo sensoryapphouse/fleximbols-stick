@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Soil / ground mound -->
+  <path d="M 80,210 Q 145,195 210,210 Q 210,225 145,228 Q 80,225 80,210 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Main stem -->
+  <path d="M 145,208 L 145,125" fill="none" stroke="#529929" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left branch of V (forms left arm of sprout V-shape) -->
+  <path d="M 145,155 Q 118,138 95,110 Q 82,90 88,65 Q 105,58 118,72 Q 130,88 135,115 L 145,155" fill="#529929" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right branch of V (forms right arm of sprout V-shape) -->
+  <path d="M 145,155 Q 172,138 195,110 Q 208,90 202,65 Q 185,58 172,72 Q 160,88 155,115 L 145,155" fill="#529929" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left leaf vein -->
+  <path d="M 120,80 Q 128,95 134,118" fill="none" stroke="#137827" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Right leaf vein -->
+  <path d="M 170,80 Q 162,95 156,118" fill="none" stroke="#137827" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Small top bud at centre joining point -->
+  <ellipse cx="145" cy="122" rx="10" ry="8" fill="#67832d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tiny root lines below soil -->
+  <path d="M 135,218 Q 125,228 118,232" fill="none" stroke="#5e1f0a" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M 145,220 L 145,232" fill="none" stroke="#5e1f0a" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M 155,218 Q 165,228 172,232" fill="none" stroke="#5e1f0a" stroke-width="3.81" stroke-linecap="round"/>
+</g></svg>

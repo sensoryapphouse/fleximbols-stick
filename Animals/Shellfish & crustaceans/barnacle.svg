@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- rock / substrate base -->
+<path d="M 96 372 C 140 356 372 356 416 372 C 424 392 416 410 396 410 L 116 410 C 96 410 88 392 96 372 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- small barnacle left -->
+<path d="M 150 372 C 156 320 196 320 202 372 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 168 372 L 176 340 L 184 372 M 176 340 L 168 352 M 176 340 L 184 352" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- big barnacle centre -->
+<path d="M 214 372 C 224 268 296 268 306 372 Z" fill="#dfe4e9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ridged plates on centre -->
+<path d="M 238 360 L 246 300 M 282 360 L 274 300" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- diamond aperture on top of centre -->
+<path d="M 260 286 L 274 300 L 260 318 L 246 300 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- medium barnacle right -->
+<path d="M 318 372 C 326 308 376 308 384 372 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 340 372 L 351 330 L 362 372 M 351 330 L 343 344 M 351 330 L 359 344" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

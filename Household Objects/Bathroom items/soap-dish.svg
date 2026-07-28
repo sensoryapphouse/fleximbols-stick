@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- soap bar sitting in dish -->
+<path d="M 188 214 Q 188 196 210 196 L 302 196 Q 324 196 324 214 L 324 248 Q 324 266 302 266 L 210 266 Q 188 266 188 248 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- soap top highlight -->
+<path d="M 206 224 Q 256 210 306 224" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+<!-- bubble -->
+<circle cx="296" cy="178" r="14" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="320" cy="196" r="9" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+<!-- dish body -->
+<path d="M 130 268 L 382 268 L 360 348 Q 356 364 340 364 L 172 364 Q 156 364 152 348 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- dish rim -->
+<ellipse cx="256" cy="268" rx="126" ry="26" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner rim hollow -->
+<ellipse cx="256" cy="270" rx="98" ry="16" fill="#cfe2f4" stroke="#1a1a1a" stroke-width="6"/>
+<!-- drainage ridges -->
+<line x1="216" y1="290" x2="216" y2="330" stroke="#3d7fb5" stroke-width="6" stroke-linecap="round"/>
+<line x1="256" y1="294" x2="256" y2="336" stroke="#3d7fb5" stroke-width="6" stroke-linecap="round"/>
+<line x1="296" y1="290" x2="296" y2="330" stroke="#3d7fb5" stroke-width="6" stroke-linecap="round"/>
+</g></svg>

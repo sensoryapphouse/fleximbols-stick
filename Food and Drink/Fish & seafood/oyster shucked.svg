@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Shell lower half (cupped) -->
+  <path d="M30,155 Q50,90 145,80 Q240,90 260,155 Q230,195 145,200 Q60,195 30,155Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Shell ridges -->
+  <path d="M145,82 Q160,120 165,195" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,82 Q130,120 125,195" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,82 Q175,115 195,190" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,82 Q115,115 95,190" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,82 Q195,110 225,175" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,82 Q95,110 65,175" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Brine pool inside shell -->
+  <ellipse cx="145" cy="158" rx="88" ry="30" fill="#dff3fd" stroke="none"/>
+  <!-- Oyster meat -->
+  <ellipse cx="145" cy="155" rx="58" ry="24" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="145" cy="152" rx="48" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Oyster texture -->
+  <path d="M115,150 Q130,144 145,150 Q160,144 175,150" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lemon wedge top right -->
+  <path d="M220,68 L262,38 Q272,52 262,68 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <line x1="241" y1="53" x2="233" y2="68" stroke="#529929" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="252" y1="46" x2="242" y2="66" stroke="#529929" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Shell hinge -->
+  <ellipse cx="145" cy="82" rx="14" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

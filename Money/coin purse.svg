@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Coin purse: small rounded soft zip pouch, zipper with pull tab, two coins beside -->
+  <!-- Purse body (soft rounded oval/pouch shape) -->
+  <ellipse cx="148" cy="148" rx="95" ry="72" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Purse texture/seam line (vertical centre) -->
+  <line x1="148" y1="76" x2="148" y2="218" stroke="#d01424" stroke-width="2.96" stroke-dasharray="6,4"/>
+  <!-- Horizontal seam (puffy look) -->
+  <line x1="58" y1="148" x2="240" y2="148" stroke="#d01424" stroke-width="2.96" stroke-dasharray="6,4"/>
+  <!-- Zip track at top of purse -->
+  <rect x="68" y="76" width="162" height="12" rx="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Zip teeth detail -->
+  <line x1="80" y1="82" x2="222" y2="82" stroke="#4d4d4d" stroke-width="2.96" stroke-dasharray="5,5"/>
+  <!-- Zip slider (rectangular metal piece) -->
+  <rect x="152" y="70" width="20" height="20" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Zip pull tab (dangling loop) -->
+  <path d="M162,90 Q168,108 160,115 Q152,108 158,90" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="160" cy="116" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Coin 1 (large gold coin to right of purse) -->
+  <circle cx="230" cy="188" r="26" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="230" cy="188" r="18" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Coin 1 marking -->
+  <line x1="222" y1="182" x2="238" y2="182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="222" y1="188" x2="238" y2="188" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="222" y1="194" x2="238" y2="194" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Coin 2 (smaller silver coin below) -->
+  <circle cx="55" cy="195" r="20" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="55" cy="195" r="13" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Coin 2 marking -->
+  <line x1="48" y1="191" x2="62" y2="191" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="48" y1="197" x2="62" y2="197" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

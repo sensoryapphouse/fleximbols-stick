@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="22" y="200" width="246" height="14" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lower deck body -->
+  <rect x="28" y="130" width="234" height="74" rx="0" fill="#f8130d" stroke="none"/>
+  <!-- Upper deck body -->
+  <rect x="28" y="58" width="234" height="76" rx="0" fill="#f8130d" stroke="none"/>
+  <!-- Full bus outline (one unified shape, two levels) -->
+  <path d="M38 58 Q28 58 28 68 L28 198 Q28 204 34 204 L256 204 Q262 204 262 198 L262 68 Q262 58 252 58 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Roof -->
+  <path d="M38 58 Q28 58 28 58 L262 58 Q262 58 252 58 L38 58 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="28" y="52" width="234" height="12" rx="6" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Deck divider stripe -->
+  <rect x="28" y="128" width="234" height="10" rx="0" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Upper deck windows row -->
+  <rect x="40" y="68" width="36" height="28" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="84" y="68" width="36" height="28" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="128" y="68" width="36" height="28" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="172" y="68" width="36" height="28" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="216" y="68" width="36" height="28" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Upper deck second row windows -->
+  <rect x="40" y="104" width="36" height="22" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="84" y="104" width="36" height="22" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="128" y="104" width="36" height="22" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="172" y="104" width="36" height="22" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="216" y="104" width="36" height="22" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lower deck windscreen -->
+  <rect x="34" y="144" width="52" height="36" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lower deck windows -->
+  <rect x="96" y="144" width="36" height="28" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="140" y="144" width="36" height="28" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="184" y="144" width="36" height="28" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="228" y="144" width="26" height="28" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lower deck door -->
+  <rect x="34" y="164" width="28" height="38" rx="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Headlight -->
+  <rect x="28" y="152" width="10" height="16" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tail light -->
+  <rect x="252" y="152" width="10" height="16" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Destination board -->
+  <rect x="34" y="132" width="148" height="11" rx="3" fill="#000000"/>
+  <rect x="38" y="134" width="90" height="7" rx="2" fill="#f2e40d"/>
+  <!-- Wheels -->
+  <circle cx="72" cy="204" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="72" cy="204" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="204" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="210" cy="204" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="94.60 55.35 385.94 385.94"><g>
+<!-- enteral feeding: pouch of feed up top, tube down to a connector -->
+<!-- feed bag -->
+<path d="M 188 96 L 316 96 L 306 250 Q 252 268 198 250 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hanger hole -->
+<path d="M 236 96 Q 252 72 268 96" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- feed surface highlight -->
+<path d="M 198 150 L 306 150" stroke="#e8c889" stroke-width="6" stroke-linecap="round"/>
+<!-- drip outlet collar -->
+<rect x="236" y="250" width="32" height="34" rx="6" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- long flexible tube down and across -->
+<path d="M 252 284 L 252 360 Q 252 396 300 396 L 348 396" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 252 284 L 252 360 Q 252 396 300 396 L 348 396" fill="none" stroke="#dbeefb" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- connector tip -->
+<rect x="342" y="380" width="46" height="32" rx="6" fill="#7ec24a" stroke="#1a1a1a" stroke-width="9"/>
+</g></svg>

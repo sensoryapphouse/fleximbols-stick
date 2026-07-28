@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="20" width="270" height="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- BARE alpine zone (above tree line) — rocky/snowy -->
+  <rect x="10" y="70" width="270" height="55" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- snow patches in bare zone -->
+  <ellipse cx="60" cy="100" rx="20" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="160" cy="115" rx="24" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="240" cy="98" rx="22" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- a few rocks -->
+  <path d="M30 120 l8 -6 l8 6 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M110 122 l10 -8 l8 8 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M200 120 l8 -8 l10 8 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- TRANSITION ZONE — sparse stunted trees -->
+  <rect x="10" y="125" width="270" height="30" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- stunted small trees -->
+  <path d="M40 152 l-6 0 l3 -6 l-4 0 l4 -8 l-3 0 l5 -8 l5 8 l-3 0 l4 8 l-4 0 l3 6 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M105 152 l-6 0 l3 -6 l-4 0 l4 -8 l-3 0 l5 -8 l5 8 l-3 0 l4 8 l-4 0 l3 6 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M165 152 l-6 0 l3 -6 l-4 0 l4 -8 l-3 0 l5 -8 l5 8 l-3 0 l4 8 l-4 0 l3 6 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M230 152 l-6 0 l3 -6 l-4 0 l4 -8 l-3 0 l5 -8 l5 8 l-3 0 l4 8 l-4 0 l3 6 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- horizontal tree-line indicator (red dashed) -->
+  <line x1="10" y1="125" x2="280" y2="125" stroke="#f8130d" stroke-width="6.67" stroke-dasharray="6 4"/>
+  <!-- FOREST zone below — dense full trees -->
+  <rect x="10" y="155" width="270" height="70" fill="#137827" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- tall conifer trees -->
+  <path d="M40 220 l-10 0 l5 -10 l-7 0 l6 -12 l-5 0 l7 -14 l-4 0 l8 -16 l8 16 l-4 0 l7 14 l-5 0 l6 12 l-7 0 l5 10 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M100 220 l-10 0 l5 -10 l-7 0 l6 -12 l-5 0 l7 -14 l-4 0 l8 -16 l8 16 l-4 0 l7 14 l-5 0 l6 12 l-7 0 l5 10 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M165 220 l-10 0 l5 -10 l-7 0 l6 -12 l-5 0 l7 -14 l-4 0 l8 -16 l8 16 l-4 0 l7 14 l-5 0 l6 12 l-7 0 l5 10 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M230 220 l-10 0 l5 -10 l-7 0 l6 -12 l-5 0 l7 -14 l-4 0 l8 -16 l8 16 l-4 0 l7 14 l-5 0 l6 12 l-7 0 l5 10 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","mc"],["h2","mc"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0148) translate(-264.50 -290.00)">
+<!-- ===== person (left), shown reacting ===== -->
+<!-- shoulders / body -->
+<path d="M 40 512 Q 56 372 150 364 L 250 364 Q 300 368 320 420 L 320 512 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- neck -->
+<rect x="158" y="300" width="56" height="80" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="158" y="300" width="56" height="34" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="0"/>
+<!-- ears -->
+<circle id="h1" data-fig="mc" cx="96" cy="226" r="20" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<circle id="h2" data-fig="mc" cx="276" cy="226" r="20" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<!-- head -->
+<circle cx="186" cy="214" r="110" fill="#f0c0b6" stroke="#1a1a1a" stroke-width="5"/>
+<!-- hair -->
+<path d="M 80 196 Q 96 86 186 82 Q 276 86 292 196 Q 262 130 186 120 Q 110 130 80 196 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- worried eyebrows -->
+<line x1="124" y1="180" x2="158" y2="170" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="214" y1="170" x2="248" y2="180" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- eyes (squeezed / watering from reaction) -->
+<path d="M 128 206 Q 144 196 160 206" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 212 206 Q 228 196 244 206" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- tear / watery eye -->
+<path d="M 130 214 Q 126 226 134 230 Q 142 226 138 214 Z" fill="#7fc4e8" stroke="#3f88b0" stroke-width="2"/>
+<!-- swollen red nose -->
+<circle cx="186" cy="234" r="14" fill="#e0473c" stroke="#a32f25" stroke-width="3"/>
+<!-- open 'achoo' mouth -->
+<ellipse cx="186" cy="276" rx="20" ry="14" fill="#7a3b3b" stroke="#1a1a1a" stroke-width="4"/>
+<!-- a couple of red reaction blotches on cheeks (secondary cue, not measles) -->
+<circle cx="120" cy="248" r="11" fill="#e0473c" opacity="0.55"/>
+<circle cx="252" cy="248" r="11" fill="#e0473c" opacity="0.55"/>
+<!-- sneeze bursts near nose -->
+<line x1="150" y1="250" x2="128" y2="262" stroke="#7fc4e8" stroke-width="5" stroke-linecap="round"/>
+<line x1="222" y1="250" x2="244" y2="262" stroke="#7fc4e8" stroke-width="5" stroke-linecap="round"/>
+
+<!-- ===== DOMINANT allergen-avoidance sign (right) ===== -->
+<!-- prohibition circle -->
+<circle cx="392" cy="300" r="106" fill="#ffffff" stroke="#e0473c" stroke-width="18"/>
+<!-- ===== peanut allergen inside ===== -->
+<g transform="translate(392 300)">
+<!-- peanut shell (figure-8) -->
+<path d="M -46 -34
+         Q -70 -34 -70 -8
+         Q -70 8 -52 14
+         Q -64 26 -64 44
+         Q -64 70 -36 70
+         Q -8 70 -2 46
+         Q 4 24 -8 16
+         Q 2 8 -2 -14
+         Q -8 -34 -46 -34 Z"
+      fill="#e8a33d" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- shell texture lines -->
+<line x1="-58" y1="-6" x2="-18" y2="-6" stroke="#b8782a" stroke-width="3" stroke-linecap="round"/>
+<line x1="-58" y1="20" x2="-12" y2="22" stroke="#b8782a" stroke-width="3" stroke-linecap="round"/>
+<line x1="-56" y1="44" x2="-14" y2="44" stroke="#b8782a" stroke-width="3" stroke-linecap="round"/>
+<!-- second peanut to make legumes clear -->
+<path d="M 8 -28
+         Q 30 -28 30 -6
+         Q 30 8 16 14
+         Q 28 22 28 40
+         Q 28 62 6 62
+         Q -14 62 -16 42
+         Q -18 24 -8 16
+         Q -16 8 -12 -10
+         Q -8 -28 8 -28 Z"
+      fill="#e8a33d" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="-6" y1="-2" x2="22" y2="-2" stroke="#b8782a" stroke-width="3" stroke-linecap="round"/>
+<line x1="-8" y1="22" x2="22" y2="22" stroke="#b8782a" stroke-width="3" stroke-linecap="round"/>
+<line x1="-8" y1="42" x2="20" y2="42" stroke="#b8782a" stroke-width="3" stroke-linecap="round"/>
+</g>
+<!-- prohibition slash ON TOP -->
+<line x1="316" y1="376" x2="468" y2="224" stroke="#e0473c" stroke-width="18" stroke-linecap="round"/>
+</g></svg>

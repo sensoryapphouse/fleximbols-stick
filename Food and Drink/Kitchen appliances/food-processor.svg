@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- motor base -->
+<path d="M 150 372 L 362 372 L 350 410 L 162 410 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="142" y="404" width="228" height="20" rx="8" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- power button -->
+<rect x="306" y="382" width="34" height="20" rx="6" fill="#d63b46" stroke="#1a1a1a" stroke-width="6"/>
+<!-- wide bowl -->
+<path d="M 172 210 L 340 210 L 326 372 L 186 372 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- handle -->
+<path d="M 326 244 Q 374 254 362 320 Q 350 334 328 332" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- twin S-blade on central hub -->
+<line x1="256" y1="276" x2="256" y2="364" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round"/>
+<path d="M 256 296 Q 224 300 214 326 Q 240 320 256 318 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 256 344 Q 288 340 298 314 Q 272 320 256 322 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="256" cy="320" r="9" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+<!-- lid -->
+<rect x="164" y="180" width="184" height="32" rx="12" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- feed chute -->
+<rect x="276" y="118" width="48" height="66" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- pusher -->
+<rect x="288" y="100" width="24" height="26" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+</g></svg>

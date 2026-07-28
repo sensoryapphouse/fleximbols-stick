@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- runway with end markings -->
+<line x1="60" y1="436" x2="452" y2="436" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<line x1="110" y1="436" x2="150" y2="436" stroke="#f4c430" stroke-width="11" stroke-linecap="round"/>
+<line x1="200" y1="436" x2="240" y2="436" stroke="#f4c430" stroke-width="11" stroke-linecap="round"/>
+<line x1="290" y1="436" x2="330" y2="436" stroke="#f4c430" stroke-width="11" stroke-linecap="round"/>
+<!-- climb path arrow, up to the right -->
+<path d="M96 380 L300 190" fill="none" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" stroke-dasharray="3 24"/>
+<path d="M300 190 L268 200 M300 190 L292 228" fill="none" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- airplane, side profile, nose pointing up-right climbing -->
+<g transform="rotate(-22 256 240)">
+<!-- fuselage -->
+<path d="M120 240 Q150 208 250 208 L388 212 Q416 220 416 240 Q416 260 388 268 L250 272 Q150 272 120 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- nose cone -->
+<path d="M388 212 Q430 220 430 240 Q430 260 388 268 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tail fin -->
+<path d="M150 240 L96 164 L150 188 L196 236 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wing -->
+<path d="M250 248 L300 312 L348 312 L300 248 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- windows -->
+<circle cx="250" cy="240" r="9" fill="#3d7fb5"/>
+<circle cx="288" cy="240" r="9" fill="#3d7fb5"/>
+<circle cx="326" cy="240" r="9" fill="#3d7fb5"/>
+</g>
+</svg>

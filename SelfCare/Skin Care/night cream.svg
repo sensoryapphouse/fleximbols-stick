@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- night-cream: round wide JAR (same shape as face-cream) with crescent moon on front -->
+  <!-- Jar body (wide, low) -->
+  <rect x="60" y="110" width="170" height="100" rx="16" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Lid (wide, flat) - dark navy for night theme -->
+  <rect x="55" y="82" width="180" height="36" rx="12" ry="12" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Lid rim detail -->
+  <line x1="55" y1="96" x2="235" y2="96" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Crescent moon on jar front -->
+  <!-- Outer moon circle -->
+  <circle cx="145" cy="155" r="30" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bite out of circle to make crescent -->
+  <circle cx="158" cy="148" r="26" fill="#ffffff" stroke="#ffffff" stroke-width="0.00"/>
+  <!-- Redraw the crescent outline using a path to avoid anti-aliasing artifacts -->
+  <path d="M145,125 A30,30 0 1,1 145,185 A20,20 0 0,0 145,125 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

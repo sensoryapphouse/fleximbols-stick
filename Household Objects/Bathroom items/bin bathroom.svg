@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Small bathroom bin body, tapered, white plastic -->
+  <path d="M 100,85 L 92,210 Q 92,222 104,222 L 186,222 Q 198,222 198,210 L 190,85 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Soft ribs -->
+  <line x1="120" y1="100" x2="116" y2="210" stroke="#b8b8b8" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="100" x2="145" y2="210" stroke="#b8b8b8" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="170" y1="100" x2="174" y2="210" stroke="#b8b8b8" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Lid (step lid, raised slightly with opening visible) -->
+  <path d="M 90,70 L 90,85 L 200,85 L 200,70 Q 200,62 192,62 L 98,62 Q 90,62 90,70 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lid opening showing tissue popping out -->
+  <ellipse cx="145" cy="62" rx="40" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Crumpled tissue inside -->
+  <path d="M 125,60 Q 130,40 142,48 Q 148,32 158,46 Q 170,38 168,58 Q 160,68 145,66 Q 130,68 125,60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tissue crease -->
+  <path d="M 138,55 Q 145,50 154,56" fill="none" stroke="#b8b8b8" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Small step pedal at base -->
+  <rect x="105" y="222" width="35" height="9" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

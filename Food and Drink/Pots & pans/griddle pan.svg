@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Griddle pan: flat rectangular body with raised ridges, single handle -->
+  <!-- Main rectangular body (slight perspective tilt) -->
+  <rect x="55" y="100" width="170" height="105" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Top face (perspective top) -->
+  <polygon points="55,100 225,100 235,88 65,88" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Right face side -->
+  <polygon points="225,100 235,88 235,193 225,205" fill="#000000" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Raised ridges on cooking surface (top face) - parallel lines -->
+  <line x1="85" y1="88" x2="83" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="88" x2="98" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="115" y1="88" x2="113" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="130" y1="88" x2="128" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="88" x2="143" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="88" x2="158" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="175" y1="88" x2="173" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="190" y1="88" x2="188" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="205" y1="88" x2="203" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Ridges on front face of body (grill marks visible on side) -->
+  <line x1="80" y1="110" x2="80" y2="130" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="105" y1="110" x2="105" y2="130" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="130" y1="110" x2="130" y2="130" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="155" y1="110" x2="155" y2="130" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="180" y1="110" x2="180" y2="130" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="205" y1="110" x2="205" y2="130" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Long handle (extending left) -->
+  <rect x="18" y="138" width="40" height="18" rx="9" fill="#000000" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="18" cy="147" rx="8" ry="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+</g></svg>

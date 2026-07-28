@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Box base -->
+  <rect x="45" y="110" width="200" height="108" rx="6" ry="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Box left side face -->
+  <path d="M 45 110 L 25 90 L 25 198 L 45 218" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Box top face -->
+  <path d="M 45 110 L 25 90 L 225 90 L 245 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Ribbon vertical -->
+  <rect x="130" y="90" width="20" height="128" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Ribbon horizontal over top face -->
+  <path d="M 45 100 L 245 100" stroke="#f8130d" stroke-width="19.76" stroke-linecap="square"/>
+  <path d="M 45 100 L 245 100" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="square" fill="none"/>
+  <!-- Bow loops left -->
+  <path d="M 140 90 Q 112 70 118 56 Q 124 44 140 58" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Bow loops right -->
+  <path d="M 150 90 Q 178 70 172 56 Q 166 44 150 58" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Bow knot centre -->
+  <ellipse cx="145" cy="78" rx="10" ry="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Ribbon tails -->
+  <path d="M 135 90 Q 118 110 110 130" fill="none" stroke="#d01424" stroke-width="7.90" stroke-linecap="round"/>
+  <path d="M 155 90 Q 172 110 180 130" fill="none" stroke="#d01424" stroke-width="7.90" stroke-linecap="round"/>
+  <!-- Cycle/recurring arrow -->
+  <circle cx="145" cy="168" r="28" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Arrow arc -->
+  <path d="M 124 160 A 22 22 0 1 1 148 190" fill="none" stroke="#2a4ec0" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- Arrow head -->
+  <polygon points="140,197 155,196 148,184" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

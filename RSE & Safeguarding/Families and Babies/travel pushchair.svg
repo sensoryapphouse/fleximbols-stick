@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Folded stroller body — compact folded form -->
+  <!-- Main folded chassis rectangle (closed/collapsed) -->
+  <rect x="85" y="65" width="120" height="130" rx="14" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Folded panels crease lines showing it is collapsed -->
+  <path d="M85,120 L205,120" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M85,148 L205,148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Folded canopy bump at top -->
+  <path d="M98,65 Q145,35 192,65" fill="#67832d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Handle (folded down along side) -->
+  <rect x="195" y="65" width="14" height="100" rx="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Carry strap -->
+  <path d="M145,65 Q190,45 220,80 Q230,100 220,115 Q208,120 200,110 Q210,100 205,85 Q190,65 155,72 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Strap buckle -->
+  <rect x="212" y="106" width="16" height="12" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Compact small wheels (folded in, visible at bottom) -->
+  <circle cx="102" cy="202" r="13" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="102" cy="202" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.78"/>
+  <circle cx="188" cy="202" r="13" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="188" cy="202" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.78"/>
+  <!-- Frame latch/lock indicator -->
+  <rect x="132" y="113" width="26" height="14" rx="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Fold arrows (visual cue that it is folded) -->
+  <path d="M78,100 L68,115 L78,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M212,100 L222,115 L212,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

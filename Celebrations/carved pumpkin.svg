@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stem -->
+  <rect x="136" y="22" width="18" height="28" rx="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pumpkin left lobe -->
+  <ellipse cx="98" cy="145" rx="42" ry="68" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pumpkin right lobe -->
+  <ellipse cx="192" cy="145" rx="42" ry="68" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pumpkin centre lobe (drawn last to overlap) -->
+  <ellipse cx="145" cy="140" rx="52" ry="72" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Carved eye left (triangle) -->
+  <polygon points="110,118 122,100 134,118" fill="#000000" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <!-- Carved eye right (triangle) -->
+  <polygon points="156,118 168,100 180,118" fill="#000000" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <!-- Carved nose (small triangle) -->
+  <polygon points="138,138 145,126 152,138" fill="#000000" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <!-- Carved mouth -->
+  <path d="M108 158 L120 170 L133 158 L145 170 L157 158 L170 170 L182 158" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Glow inside eyes -->
+  <polygon points="112,116 122,102 132,116" fill="#f7de58"/>
+  <polygon points="158,116 168,102 178,116" fill="#f7de58"/>
+  <!-- Glow inside nose -->
+  <polygon points="140,137 145,128 150,137" fill="#f7de58"/>
+</g></svg>

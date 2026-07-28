@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="71.76 71.76 368.48 368.48">
+<!-- brick wall background panel -->
+<rect x="100" y="120" width="312" height="272" rx="6" fill="#e8d4c0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- brick mortar lines -->
+<line x1="100" y1="188" x2="412" y2="188" stroke="#c9a986" stroke-width="6"/>
+<line x1="100" y1="256" x2="412" y2="256" stroke="#c9a986" stroke-width="6"/>
+<line x1="100" y1="324" x2="412" y2="324" stroke="#c9a986" stroke-width="6"/>
+<line x1="180" y1="120" x2="180" y2="188" stroke="#c9a986" stroke-width="6"/>
+<line x1="300" y1="120" x2="300" y2="188" stroke="#c9a986" stroke-width="6"/>
+<line x1="140" y1="188" x2="140" y2="256" stroke="#c9a986" stroke-width="6"/>
+<line x1="260" y1="188" x2="260" y2="256" stroke="#c9a986" stroke-width="6"/>
+<line x1="360" y1="188" x2="360" y2="256" stroke="#c9a986" stroke-width="6"/>
+<line x1="200" y1="256" x2="200" y2="324" stroke="#c9a986" stroke-width="6"/>
+<line x1="330" y1="256" x2="330" y2="324" stroke="#c9a986" stroke-width="6"/>
+<line x1="160" y1="324" x2="160" y2="392" stroke="#c9a986" stroke-width="6"/>
+<line x1="290" y1="324" x2="290" y2="392" stroke="#c9a986" stroke-width="6"/>
+<!-- spray-painted heart street-art motif -->
+<path d="M 256 360 C 200 312 196 250 232 232 C 256 220 256 252 256 252 C 256 252 256 220 280 232 C 316 250 312 312 256 360 Z" fill="#e2604f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spray drips -->
+<line x1="220" y1="320" x2="220" y2="350" stroke="#e2604f" stroke-width="9" stroke-linecap="round"/>
+<line x1="292" y1="320" x2="292" y2="345" stroke="#e2604f" stroke-width="9" stroke-linecap="round"/>
+<!-- spray mist dots -->
+<circle cx="300" cy="210" r="7" fill="#9b6dd6"/>
+<circle cx="320" cy="225" r="5" fill="#5aa9e6"/>
+<circle cx="200" cy="215" r="6" fill="#f4b740"/>
+</svg>

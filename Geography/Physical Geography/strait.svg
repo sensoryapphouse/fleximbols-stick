@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- whole canvas water (two seas + connecting channel) -->
+  <rect x="26" y="32" width="238" height="176" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- top land mass with bulge narrowing toward center -->
+  <path d="M10 20 L280 20 L280 80 Q230 90 200 100 Q170 108 155 115 Q145 118 130 115 Q110 110 80 100 Q40 90 10 80 Z"
+        fill="#67832d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- bottom land mass with bulge narrowing toward center -->
+  <path d="M10 220 L280 220 L280 160 Q230 150 200 140 Q170 132 155 125 Q145 122 130 125 Q110 130 80 140 Q40 150 10 160 Z"
+        fill="#67832d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- ship sailing through the strait -->
+  <!-- hull -->
+  <path d="M120 118 L175 118 L168 132 L127 132 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- cabin -->
+  <rect x="138" y="105" width="20" height="13" fill="#efefef" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- mast/funnel -->
+  <rect x="146" y="92" width="4" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- small windows -->
+  <rect x="142" y="109" width="4" height="4" fill="#fff200" stroke="#1a1a1a" stroke-width="1.98"/>
+  <rect x="150" y="109" width="4" height="4" fill="#fff200" stroke="#1a1a1a" stroke-width="1.98"/>
+  <!-- wake/ripples -->
+  <path d="M30 130 Q60 125 90 130" fill="none" stroke="#90a7d6" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M200 130 Q230 125 260 130" fill="none" stroke="#90a7d6" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M30 145 Q60 142 90 145" fill="none" stroke="#90a7d6" stroke-width="3.95" stroke-linecap="round"/>
+  <path d="M200 145 Q230 142 260 145" fill="none" stroke="#90a7d6" stroke-width="3.95" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wedge of blue cheese - triangular wedge shape -->
+  <!-- Back top surface of wedge -->
+  <path d="M 68,90 L 222,90 L 222,100 L 68,100 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Main wedge front face (largest visible face) -->
+  <path d="M 68,100 L 68,200 Q 68,212 145,214 Q 222,212 222,200 L 222,100 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Top cut surface of wedge (slightly cream-coloured) -->
+  <path d="M 68,90 L 222,90 L 222,100 Q 145,98 68,100 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Blue-green veins throughout - prominent streaks (key feature) -->
+  <!-- Main diagonal veins -->
+  <path d="M 82,116 Q 108,124 128,148 Q 136,164 130,188" fill="none" stroke="#3aa6a0" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 104,104 Q 130,118 148,136 Q 162,154 168,178" fill="none" stroke="#3aa6a0" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 142,102 Q 165,116 178,140 Q 188,162 186,192" fill="none" stroke="#3aa6a0" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 178,106 Q 196,128 200,158 Q 202,178 196,198" fill="none" stroke="#3aa6a0" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Branching smaller veins -->
+  <path d="M 90,144 Q 112,138 130,148" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 152,120 Q 160,130 148,136" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 170,158 Q 185,152 186,162" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 108,170 Q 125,164 138,172" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Small vein spots/dots in cheese -->
+  <circle cx="94" cy="158" r="4" fill="#3aa6a0" stroke="none"/>
+  <circle cx="156" cy="148" r="4" fill="#3aa6a0" stroke="none"/>
+  <circle cx="118" cy="130" r="3" fill="#3aa6a0" stroke="none"/>
+  <circle cx="202" cy="134" r="3" fill="#3aa6a0" stroke="none"/>
+  <!-- Top surface veins -->
+  <path d="M 90,94 Q 115,92 138,94" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 158,92 Q 182,92 204,95" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Slight crumble texture at wedge edge (blue cheese is crumbly) -->
+  <path d="M 68,160 Q 72,156 76,162 Q 72,168 68,162" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 68,178 Q 72,174 76,180 Q 72,184 68,180" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 222,152 Q 218,148 214,154 Q 218,160 222,154" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

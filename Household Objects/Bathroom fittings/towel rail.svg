@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- left bracket -->
+<path d="M 122 168 L 122 230 L 150 230" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="110" y="158" width="22" height="22" rx="5" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<!-- right bracket -->
+<path d="M 390 168 L 390 230 L 362 230" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="380" y="158" width="22" height="22" rx="5" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<!-- the rail bar -->
+<line x1="112" y1="208" x2="400" y2="208" stroke="#9aa0a6" stroke-width="14" stroke-linecap="round"/>
+<!-- towel: single broad panel draped over the rail, rounded top fold -->
+<path d="M 168 208 Q 168 188 188 188 L 324 188 Q 344 188 344 208 L 344 404 Q 344 414 334 414 L 178 414 Q 168 414 168 404 Z" fill="#d2d6da" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- front fold edge over the rail -->
+<path d="M 168 224 Q 256 240 344 224" fill="none" stroke="#a9adb2" stroke-width="7" stroke-linecap="round"/>
+<!-- woven hem stripes near bottom -->
+<line x1="186" y1="384" x2="326" y2="384" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+<line x1="186" y1="362" x2="326" y2="362" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- easel back leg -->
+  <path d="M155 50 L195 220" fill="none" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- easel left leg -->
+  <path d="M85 50 L65 220" fill="none" stroke="#5e1f0a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- easel right leg -->
+  <path d="M155 50 L175 220" fill="none" stroke="#5e1f0a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- easel cross brace -->
+  <path d="M70 175 L185 175" stroke="#5e1f0a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- easel ledge -->
+  <rect x="62" y="170" width="130" height="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- picture frame outer -->
+  <rect x="55" y="50" width="140" height="125" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- frame inner -->
+  <rect x="65" y="60" width="120" height="105" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- silhouette head -->
+  <circle cx="125" cy="95" r="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- silhouette shoulders -->
+  <path d="M85 165 Q88 130 105 122 Q125 116 145 122 Q162 130 165 165 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- white lily beside (right) -->
+  <!-- stem -->
+  <path d="M240 220 Q235 170 232 130" fill="none" stroke="#529929" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- leaf -->
+  <path d="M236 180 Q220 175 215 188 Q225 195 238 188 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- lily petals (back) -->
+  <path d="M232 130 Q210 110 215 90 Q225 95 232 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M232 130 Q254 110 249 90 Q239 95 232 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M232 130 Q220 105 232 80 Q244 105 232 130 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lily front petals -->
+  <path d="M232 130 Q218 122 215 138 Q225 142 232 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M232 130 Q246 122 249 138 Q239 142 232 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lily centre stamens -->
+  <path d="M232 112 L228 95 M232 112 L232 92 M232 112 L236 95" stroke="#f2e40d" stroke-width="3.56" stroke-linecap="round"/>
+  <circle cx="228" cy="93" r="2" fill="#ff9900"/>
+  <circle cx="232" cy="90" r="2" fill="#ff9900"/>
+  <circle cx="236" cy="93" r="2" fill="#ff9900"/>
+</g></svg>

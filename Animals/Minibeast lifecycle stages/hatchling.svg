@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- egg shell, cracked open, tiny larva emerging -->
+<!-- lower egg shell -->
+<path d="M 150 300 C 150 380 200 420 256 420 C 312 420 362 380 362 300 C 362 296 358 290 348 292 C 320 312 300 300 286 286 C 272 300 250 304 230 290 C 214 302 192 300 168 290 C 158 286 150 292 150 300 Z" fill="#f5ecd6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- detached top shell cap, tilted -->
+<path d="M 168 250 C 180 200 230 178 268 188 C 256 196 250 206 256 216 C 240 210 222 214 214 224 C 200 218 184 224 176 234 C 170 240 166 244 168 250 Z" fill="#f5ecd6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- emerging larva body -->
+<circle cx="232" cy="276" r="34" fill="#8cc152" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="286" cy="256" r="32" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9"/>
+<!-- larva head -->
+<circle cx="328" cy="234" r="34" fill="#2e7d40" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="342" cy="224" r="9" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="343" cy="226" r="4" fill="#1a1a1a"/>
+<path d="M 334 252 q 12 8 24 -2" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- antenna -->
+<path d="M 342 206 q 6 -22 24 -26" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

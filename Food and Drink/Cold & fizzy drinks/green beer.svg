@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Mug body -->
+  <path d="M55,60 L75,215 L215,215 L235,60 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mug handle -->
+  <path d="M215,90 C250,90 265,120 265,145 C265,170 250,185 215,185" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M215,90 C240,90 252,118 252,145 C252,168 240,185 215,185" fill="#efefef" stroke="none"/>
+  <!-- Green beer fill -->
+  <path d="M62,105 L78,210 L212,210 L228,105 Z" fill="#529929" stroke="none"/>
+  <!-- Green beer surface -->
+  <ellipse cx="145" cy="105" rx="83" ry="18" fill="#67832d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Foam on top -->
+  <ellipse cx="145" cy="60" rx="80" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Foam bubbles -->
+  <circle cx="108" cy="55" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="48" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="182" cy="55" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="42" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="43" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mug outline over fill -->
+  <path d="M55,60 L75,215 L215,215 L235,60" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mug top rim -->
+  <line x1="55" y1="60" x2="235" y2="60" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Clover on mug -->
+  <circle cx="140" cy="158" r="11" fill="#137827" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="157" cy="148" r="11" fill="#137827" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="157" cy="168" r="11" fill="#137827" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="149" cy="158" r="7" fill="#137827" stroke="none"/>
+  <line x1="149" y1="168" x2="144" y2="182" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="144" y1="182" x2="148" y2="182" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

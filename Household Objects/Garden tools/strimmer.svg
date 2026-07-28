@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) rotate(14) translate(-256 -256)">
+<!-- long straight shaft -->
+<rect x="246" y="150" width="24" height="238" rx="12" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="258" y1="164" x2="258" y2="374" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+<!-- top grip / trigger handle -->
+<path d="M 232 92 L 288 92 Q 300 92 300 104 L 300 140 Q 300 152 288 152 L 232 152 Q 220 152 220 140 L 220 104 Q 220 92 232 92 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- trigger -->
+<path d="M 220 118 L 202 124 Q 196 126 200 134 L 220 138 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- mid loop grip handle -->
+<path d="M 258 214 Q 320 200 322 250 Q 322 280 258 272" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 258 214 Q 320 200 322 250 Q 322 280 258 272" fill="none" stroke="#e08a3a" stroke-width="10" stroke-linecap="round"/>
+<!-- strimmer head housing at the bottom -->
+<ellipse cx="256" cy="398" rx="58" ry="26" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="398" rx="20" ry="10" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="6"/>
+<!-- spinning cutting line -->
+<line x1="200" y1="404" x2="146" y2="424" stroke="#5aa83c" stroke-width="7" stroke-linecap="round"/>
+<line x1="312" y1="404" x2="366" y2="424" stroke="#5aa83c" stroke-width="7" stroke-linecap="round"/>
+</g></svg>

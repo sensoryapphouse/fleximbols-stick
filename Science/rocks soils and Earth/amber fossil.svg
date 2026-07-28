@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Amber blob outer -->
+  <path d="M145,28 C190,28 235,65 238,110 C242,160 210,205 165,210 C140,213 110,208 88,192 C62,173 50,145 52,112 C55,72 95,28 145,28 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Amber inner lighter highlight facet -->
+  <path d="M145,45 C182,45 215,75 218,110 C222,148 198,185 165,188 C148,190 128,186 112,175 C92,162 82,140 84,112 C87,78 112,45 145,45 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Insect body (trapped bug) — thorax -->
+  <ellipse cx="145" cy="118" rx="22" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="165" cy="115" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Abdomen -->
+  <ellipse cx="120" cy="122" rx="18" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Wings -->
+  <ellipse cx="148" cy="100" rx="22" ry="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-20 148 100)"/>
+  <ellipse cx="142" cy="136" rx="20" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(20 142 136)"/>
+  <!-- Legs -->
+  <line x1="148" y1="122" x2="130" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="120" x2="128" y2="132" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="122" x2="165" y2="138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Antennae -->
+  <line x1="170" y1="108" x2="185" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="167" y1="107" x2="180" y2="92" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

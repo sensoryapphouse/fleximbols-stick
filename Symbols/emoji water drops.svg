@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left drop (slightly smaller, rotated left) -->
+  <path d="M80 210 C56 210 36 190 36 166 C36 148 56 122 80 96 C104 122 124 148 124 166 C124 190 104 210 80 210 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.35" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left drop highlight -->
+  <ellipse cx="66" cy="142" rx="8" ry="13" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.54" transform="rotate(-20 66 142)"/>
+  <!-- right drop (slightly smaller, rotated right) -->
+  <path d="M210 200 C186 200 166 180 166 156 C166 138 186 112 210 86 C234 112 254 138 254 156 C254 180 234 200 210 200 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.35" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right drop highlight -->
+  <ellipse cx="196" cy="132" rx="8" ry="13" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.54" transform="rotate(-20 196 132)"/>
+  <!-- centre drop (largest, upright) -->
+  <path d="M145 228 C116 228 92 204 92 176 C92 152 116 118 145 82 C174 118 198 152 198 176 C198 204 174 228 145 228 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.35" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- centre drop highlight -->
+  <ellipse cx="128" cy="150" rx="9" ry="15" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.54" transform="rotate(-20 128 150)"/>
+</g></svg>

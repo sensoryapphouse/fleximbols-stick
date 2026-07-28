@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- background land -->
+  <path d="M 10 10 L 280 10 L 280 230 L 10 230 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- distant hills -->
+  <path d="M 10 90 Q 50 60 90 90 Q 130 65 170 90 L 170 110 L 10 110 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- reservoir water body (left/center) -->
+  <path d="M 15 115 Q 80 110 150 115 Q 175 118 200 125 L 200 200 Q 170 205 130 202 Q 80 200 15 200 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ripples -->
+  <path d="M 40 135 Q 70 130 100 135" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 60 165 Q 100 160 140 165" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 30 185 Q 70 180 110 185" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- DAM WALL: concrete curved wall on right end -->
+  <path d="M 200 100 Q 215 155 200 210 L 235 210 Q 250 155 235 100 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- dam wall vertical seams -->
+  <path d="M 210 110 Q 222 155 210 200" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 222 105 Q 235 155 222 205" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- dam top roadway / bridge -->
+  <path d="M 195 95 L 250 95 L 250 110 L 195 110 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bridge railing posts on top -->
+  <line x1="200" y1="95" x2="200" y2="82" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="212" y1="95" x2="212" y2="82" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="224" y1="95" x2="224" y2="82" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="236" y1="95" x2="236" y2="82" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="248" y1="95" x2="248" y2="82" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- top railing bar -->
+  <line x1="198" y1="82" x2="250" y2="82" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- downstream ground below dam (right side) -->
+  <path d="M 250 110 L 280 110 L 280 230 L 200 230 Q 210 220 230 215 Q 250 210 250 200 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- small spillway water at base of dam -->
+  <path d="M 215 210 Q 225 220 240 225" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bendy: a rod/straw curved into an arc with motion lines -->
+  <!-- Curved rod/straw arc -->
+  <path d="M 50 200 Q 145 30 240 200" fill="none" stroke="#1a1a1a" stroke-width="26.65" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 50 200 Q 145 30 240 200" fill="none" stroke="#ff9900" stroke-width="14.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rod end caps -->
+  <circle cx="50" cy="200" r="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="240" cy="200" r="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Motion lines suggesting bendiness -->
+  <path d="M 90 80 Q 100 60 115 75" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 100 60 Q 110 40 125 55" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 165 75 Q 175 58 190 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 175 58 Q 185 40 200 52" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Arrow at top of arc indicating bend direction -->
+  <path d="M 140 35 L 155 25 L 150 40" fill="#000000" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

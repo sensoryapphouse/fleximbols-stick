@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Envelope behind card -->
+  <rect x="25" y="60" width="200" height="140" rx="5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Envelope flap (open downward, behind card) -->
+  <path d="M 25,60 L 125,140 L 225,60" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Invitation card (front, slightly offset) -->
+  <rect x="55" y="30" width="170" height="180" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Decorative border outer -->
+  <rect x="63" y="38" width="154" height="164" fill="none" stroke="#7c3fac" stroke-width="6.67"/>
+  <!-- Decorative border inner -->
+  <rect x="70" y="45" width="140" height="150" fill="none" stroke="#f266aa" stroke-width="4.45"/>
+  <!-- Decorative corner flourishes -->
+  <circle cx="70" cy="45" r="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="210" cy="45" r="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="70" cy="195" r="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="210" cy="195" r="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Two interlocking wedding rings at top of card -->
+  <circle cx="130" cy="75" r="13" fill="none" stroke="#f2e40d" stroke-width="8.89"/>
+  <circle cx="148" cy="75" r="13" fill="none" stroke="#f2e40d" stroke-width="8.89"/>
+  <circle cx="130" cy="75" r="13" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="148" cy="75" r="13" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Heart between rings -->
+  <path d="M 140,98 L 134,92 Q 130,88 134,84 Q 138,80 140,86 Q 142,80 146,84 Q 150,88 146,92 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 75,170 Q 145,180 215,170" fill="none" stroke="#7c3fac" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- Small flowers along decoration -->
+  <circle cx="100" cy="178" r="3" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="180" r="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="190" cy="178" r="3" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Date line (decorative) -->
+  <line x1="95" y1="190" x2="195" y2="190" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- wax seal (invitation authenticity) -->
+  <circle cx="75" cy="170" r="16" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M75 158 L78 164 L85 164 L79 168 L81 175 L75 171 L69 175 L71 168 L65 164 L72 164 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

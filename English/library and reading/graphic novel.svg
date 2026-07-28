@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- page block right -->
+  <path d="M230 30 L245 38 L245 210 L230 218 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.06" stroke-linejoin="round"/>
+  <path d="M233 55 L243 55 M233 75 L243 75 M233 95 L243 95 M233 115 L243 115 M233 135 L243 135 M233 155 L243 155 M233 175 L243 175 M233 195 L243 195" stroke="#7f7f7f" stroke-width="2.42"/>
+  <!-- back cover -->
+  <path d="M50 27 L233 30 L237 35 L237 213 L233 218 L50 215 L45 210 L45 32 Z" fill="#000000" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+  <!-- front cover -->
+  <rect x="53" y="30" width="178" height="185" fill="#fff200" stroke="#1a1a1a" stroke-width="8.08"/>
+  <!-- spine -->
+  <rect x="53" y="30" width="13" height="185" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.06"/>
+  <!-- title banner: "GRAPHIC NOVEL" lettering across top -->
+  <rect x="73" y="40" width="150" height="22" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.06"/>
+  <!-- GRAPHIC letters -->
+  <!-- G -->
+  <path d="M82 47 Q76 47 76 51 Q76 55 82 55 L82 53 L80 53" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- R -->
+  <path d="M88 55 L88 47 L92 47 Q95 47 95 49 Q95 51 92 51 L88 51 M92 51 L96 55" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- A -->
+  <path d="M99 55 L102 47 L105 55 M100 52 L104 52" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- P -->
+  <path d="M108 55 L108 47 L112 47 Q115 47 115 49 Q115 51 112 51 L108 51" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- H -->
+  <path d="M118 47 L118 55 M124 47 L124 55 M118 51 L124 51" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- I -->
+  <path d="M129 47 L129 55" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- C -->
+  <path d="M138 47 Q133 47 133 51 Q133 55 138 55" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- NOVEL -->
+  <!-- N -->
+  <path d="M150 55 L150 47 L156 55 L156 47" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- O -->
+  <ellipse cx="163" cy="51" rx="3" ry="4" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- V -->
+  <path d="M170 47 L173 55 L176 47" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- E -->
+  <path d="M181 47 L181 55 M181 47 L186 47 M181 51 L185 51 M181 55 L186 55" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- L -->
+  <path d="M191 47 L191 55 L196 55" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- comic panel grid: 4 panels in a 2x2 layout -->
+  <!-- panel 1 top-left: hero figure -->
+  <rect x="75" y="72" width="68" height="62" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.06"/>
+  <!-- simple hero silhouette inside panel 1 -->
+  <circle cx="109" cy="95" r="8" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.04"/>
+  <rect x="103" y="103" width="12" height="15" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.04"/>
+  <path d="M103 110 L97 118 M115 110 L121 118" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <path d="M105 118 L103 128 M113 118 L115 128" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- panel 2 top-right: action burst "POW" star -->
+  <rect x="151" y="72" width="69" height="62" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.06"/>
+  <path d="M185 80 L191 95 L207 92 L196 105 L205 120 L185 113 L165 120 L174 105 L163 92 L179 95 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.05" stroke-linejoin="round"/>
+  <!-- POW dashes inside burst -->
+  <path d="M178 105 L192 105" stroke="#ffffff" stroke-width="5.05" stroke-linecap="round"/>
+  <!-- panel 3 bottom-left: speech bubble -->
+  <rect x="75" y="142" width="68" height="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.06"/>
+  <path d="M85 150 Q82 150 82 156 L82 175 Q82 181 88 181 L100 181 L98 192 L110 181 L130 181 Q136 181 136 175 L136 156 Q136 150 130 150 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.05" stroke-linejoin="round"/>
+  <path d="M90 162 L128 162 M90 170 L120 170" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- panel 4 bottom-right: villain face -->
+  <rect x="151" y="142" width="69" height="62" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.06"/>
+  <circle cx="185" cy="172" r="18" fill="#529929" stroke="#1a1a1a" stroke-width="5.05"/>
+  <!-- angry eyes -->
+  <path d="M178 168 L182 170 M192 170 L188 168" stroke="#1a1a1a" stroke-width="5.05" stroke-linecap="round"/>
+  <!-- scowl -->
+  <path d="M180 180 Q185 177 190 180" stroke="#1a1a1a" stroke-width="5.05" fill="none" stroke-linecap="round"/>
+</g></svg>

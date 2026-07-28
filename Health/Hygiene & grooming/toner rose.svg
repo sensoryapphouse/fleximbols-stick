@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- toner bottle, pink tint -->
+  <rect x="85" y="50" width="60" height="22" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="80" y="72" width="70" height="160" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- label -->
+  <rect x="87" y="110" width="56" height="90" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- rose petal at top of label -->
+  <path d="M115 140 Q100 130 105 145 Q98 155 115 160 Q132 155 125 145 Q130 130 115 140 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M115 145 Q108 142 112 150 Q108 156 115 156 Q122 156 118 150 Q122 142 115 145 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <circle cx="115" cy="150" r="2" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- ROSE as paths -->
+  <!-- R -->
+  <path d="M92 175 L100 175 L100 182 L98 182 L101 188 L98 188 L96 184 L95 184 L95 188 L92 188 Z M95 178 L97 178 L97 181 L95 181 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" fill-rule="evenodd"/>
+  <!-- O -->
+  <path d="M103 175 L111 175 L111 188 L103 188 Z M106 178 L108 178 L108 185 L106 185 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" fill-rule="evenodd"/>
+  <!-- S -->
+  <path d="M114 175 L122 175 L122 178 L117 178 L117 180 L122 180 L122 188 L114 188 L114 185 L119 185 L119 183 L114 183 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M125 175 L133 175 L133 178 L128 178 L128 180 L132 180 L132 183 L128 183 L128 185 L133 185 L133 188 L125 188 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- delicate pink swatch dot -->
+  <circle cx="115" cy="208" r="7" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- delicate pink swatch (drop falling outside bottle) -->
+  <path d="M220 100 Q210 120 220 135 Q230 120 220 100 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- rose petal floating near bottle -->
+  <path d="M210 170 Q195 158 198 175 Q193 188 215 192 Q235 188 228 175 Q235 158 210 170 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M213 178 Q205 175 209 184 Q205 190 215 190 Q225 190 221 184 Q225 175 213 178 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

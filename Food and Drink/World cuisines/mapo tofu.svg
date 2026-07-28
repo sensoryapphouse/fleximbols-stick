@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer -->
+  <path d="M30 120 Q30 210 145 220 Q260 210 260 120 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="120" rx="115" ry="28" fill="#efefef" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+  <!-- Chili oil sauce (bright red) fills bowl -->
+  <ellipse cx="145" cy="120" rx="108" ry="22" fill="#f8130d" stroke="none"/>
+  <!-- Tofu cubes (soft white) in sauce -->
+  <!-- Row 1 tofu cubes -->
+  <rect x="68" y="105" width="30" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <rect x="108" y="102" width="30" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <rect x="150" y="103" width="30" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <rect x="190" y="105" width="28" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- Row 2 partial tofu cubes visible below sauce surface -->
+  <rect x="88" y="125" width="28" height="12" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.04"/>
+  <rect x="130" y="124" width="28" height="12" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.04"/>
+  <rect x="170" y="125" width="24" height="12" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.04"/>
+  <!-- Minced meat/spice specks on sauce -->
+  <circle cx="85" cy="115" r="4" fill="#5e1f0a" stroke="none"/>
+  <circle cx="160" cy="112" r="3.5" fill="#5e1f0a" stroke="none"/>
+  <circle cx="205" cy="117" r="3" fill="#5e1f0a" stroke="none"/>
+  <circle cx="130" cy="118" r="3" fill="#5e1f0a" stroke="none"/>
+  <!-- Scallion pieces (green) -->
+  <rect x="95" y="108" width="14" height="4" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.23"/>
+  <rect x="165" y="107" width="14" height="4" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.23"/>
+  <rect x="140" y="114" width="12" height="4" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.23"/>
+</g></svg>

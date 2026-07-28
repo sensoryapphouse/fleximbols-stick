@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Glass body -->
+  <path d="M80 55 L68 210 Q68 220 80 220 L175 220 Q187 220 187 210 L175 55 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tonic liquid -->
+  <path d="M71 155 L68 210 Q68 220 80 220 L175 220 Q187 220 187 210 L184 155 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bubbles in glass -->
+  <circle cx="110" cy="180" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="127" cy="168" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="145" cy="185" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="162" cy="172" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="120" cy="195" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="155" cy="195" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Ice cubes -->
+  <rect x="90" y="105" width="38" height="38" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="122" y="100" width="38" height="38" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lime wedge on rim -->
+  <path d="M175 55 Q210 35 222 62 Q210 75 175 65 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M175 55 Q205 58 222 62" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Small tonic bottle beside glass -->
+  <rect x="36" y="130" width="28" height="68" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="40" y="118" width="20" height="16" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="43" y="110" width="14" height="12" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tonic bottle label -->
+  <rect x="39" y="142" width="20" height="28" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

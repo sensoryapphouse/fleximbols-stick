@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Trash can body (tilted, dumped open) -->
+  <!-- Main can body rotated ~25deg, drawn as polygon -->
+  <polygon points="75,210 60,95 140,80 158,195" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Can lid (flipped open/away, top-left) -->
+  <rect x="38" y="62" width="120" height="22" rx="8" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lid hinge pivot -->
+  <circle cx="98" cy="73" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Vertical ribs on can body -->
+  <line x1="88" y1="93" x2="81" y2="202" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="108" y1="90" x2="103" y2="199" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="128" y1="87" x2="127" y2="197" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Handle on lid -->
+  <path d="M78,62 Q98,44 118,62" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Motion lines (showing it was dumped) -->
+  <line x1="175" y1="100" x2="205" y2="88" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="180" y1="125" x2="215" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="172" y1="150" x2="208" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

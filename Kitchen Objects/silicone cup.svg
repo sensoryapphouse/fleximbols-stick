@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- collapsible silicone cup with accordion folds -->
+  <!-- cup body trapezoid -->
+  <path d="M85 50 L205 50 L195 210 L95 210 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- rim opening -->
+  <ellipse cx="145" cy="50" rx="60" ry="12" fill="#392170" stroke="#1a1a1a" stroke-width="7.11"/>
+  <ellipse cx="145" cy="48" rx="50" ry="7" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- accordion fold rings -->
+  <path d="M88 80 Q145 92 202 80" stroke="#1a1a1a" stroke-width="5.34" fill="none" stroke-linecap="round"/>
+  <path d="M88 80 Q145 70 202 80" stroke="#1a1a1a" stroke-width="3.55" fill="none"/>
+  <path d="M90 110 Q145 122 200 110" stroke="#1a1a1a" stroke-width="5.34" fill="none" stroke-linecap="round"/>
+  <path d="M90 110 Q145 100 200 110" stroke="#1a1a1a" stroke-width="3.55" fill="none"/>
+  <path d="M92 140 Q145 152 198 140" stroke="#1a1a1a" stroke-width="5.34" fill="none" stroke-linecap="round"/>
+  <path d="M92 140 Q145 130 198 140" stroke="#1a1a1a" stroke-width="3.55" fill="none"/>
+  <path d="M94 170 Q145 182 196 170" stroke="#1a1a1a" stroke-width="5.34" fill="none" stroke-linecap="round"/>
+  <path d="M94 170 Q145 160 196 170" stroke="#1a1a1a" stroke-width="3.55" fill="none"/>
+  <!-- fold shading bands -->
+  <path d="M88 80 Q145 92 202 80 L200 95 Q145 107 90 95 Z" fill="#392170" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <path d="M92 140 Q145 152 198 140 L196 155 Q145 167 94 155 Z" fill="#392170" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- base -->
+  <ellipse cx="145" cy="210" rx="50" ry="10" fill="#392170" stroke="#1a1a1a" stroke-width="7.11"/>
+</g></svg>

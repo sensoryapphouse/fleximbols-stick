@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pot body (earthy green-tan, no meat) -->
+  <path d="M45,110 L55,200 Q60,220 145,225 Q230,220 235,200 L245,110 Q220,128 145,133 Q70,128 45,110 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pot rim top -->
+  <ellipse cx="145" cy="112" rx="100" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Vegetable broth surface - amber-green -->
+  <ellipse cx="145" cy="118" rx="88" ry="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Broth surface shimmer -->
+  <ellipse cx="112" cy="114" rx="22" ry="10" fill="#fff200" stroke="none"/>
+  <ellipse cx="172" cy="116" rx="18" ry="9" fill="#f7de58" stroke="none"/>
+  <!-- Carrot rounds - bright orange -->
+  <ellipse cx="92" cy="106" rx="12" ry="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- Carrot cross marks -->
+  <line x1="87" y1="106" x2="97" y2="106" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="92" y1="101" x2="92" y2="111" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="118" cy="108" rx="11" ry="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <line x1="113" y1="108" x2="123" y2="108" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Celery pieces - green -->
+  <rect x="135" y="101" width="14" height="8" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="142" y1="101" x2="142" y2="109" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+  <rect x="162" y="104" width="12" height="7" rx="3" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Potato chunk - pale -->
+  <path d="M178,108 Q170,100 173,92 Q176,84 186,86 Q196,88 194,99 Q192,110 178,108 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- Peas dotted in broth -->
+  <circle cx="105" cy="118" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="150" cy="116" r="5" fill="#137827" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="165" cy="120" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="130" cy="122" r="4" fill="#137827" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Tomato piece - red -->
+  <path d="M195,110 Q188,103 191,96 Q194,90 202,91 Q210,93 208,101 Q206,109 195,110 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pot handles -->
+  <path d="M45,110 Q30,108 26,120 Q22,132 35,136 Q45,138 50,130" fill="none" stroke="#7d5e23" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M245,110 Q260,108 264,120 Q268,132 255,136 Q245,138 240,130" fill="none" stroke="#7d5e23" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- Leaf silhouette (small, bottom-right) - identifies as vegetable -->
+  <path d="M240,195 Q252,178 265,172 Q275,168 278,175 Q280,182 270,188 Q262,192 252,198 Q248,202 240,210 Q238,202 240,195 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Leaf vein -->
+  <path d="M240,195 Q258,182 278,175" fill="none" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M246,204 Q255,192 265,184" fill="none" stroke="#137827" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

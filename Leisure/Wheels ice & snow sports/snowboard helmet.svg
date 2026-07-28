@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- main helmet dome -->
+  <path d="M65 130 Q65 55 145 50 Q225 55 225 130 L225 168 Q225 184 208 186 L82 186 Q65 184 65 168 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- center stripe top -->
+  <path d="M140 55 L150 55 L150 130 L140 130 Z" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- vent holes -->
+  <ellipse cx="110" cy="85" rx="8" ry="5" fill="#000000"/>
+  <ellipse cx="180" cy="85" rx="8" ry="5" fill="#000000"/>
+  <ellipse cx="110" cy="115" rx="8" ry="5" fill="#000000"/>
+  <ellipse cx="180" cy="115" rx="8" ry="5" fill="#000000"/>
+  <!-- ear pad -->
+  <ellipse cx="77" cy="158" rx="12" ry="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="213" cy="158" rx="12" ry="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- chin strap -->
+  <path d="M85 172 Q145 205 205 172" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <rect x="135" y="195" width="20" height="8" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- visor brim -->
+  <path d="M65 135 Q145 144 225 135 Q145 138 65 135 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

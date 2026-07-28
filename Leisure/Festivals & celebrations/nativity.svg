@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 67.88 376.24 376.24">
+<!-- stable roof -->
+<polygon points="256,96 410,196 102,196" fill="#8a5a32" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- stable posts -->
+<rect x="120" y="196" width="22" height="216" fill="#a06a3c" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="370" y="196" width="22" height="216" fill="#a06a3c" stroke="#1a1a1a" stroke-width="9"/>
+<!-- hay floor -->
+<rect x="120" y="392" width="272" height="24" rx="8" fill="#f0b400" stroke="#1a1a1a" stroke-width="9"/>
+<!-- manger / crib -->
+<path d="M 196 360 L 316 360 L 296 412 L 216 412 Z" fill="#c98a4a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- swaddled baby (simple bundle, not a free-standing figure) -->
+<ellipse cx="256" cy="350" rx="46" ry="26" fill="#fff6cf" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="338" r="16" fill="#ffd9b3" stroke="#1a1a1a" stroke-width="7"/>
+<!-- star above -->
+<polygon points="256,128 264,150 288,150 269,165 276,188 256,174 236,188 243,165 224,150 248,150" fill="#f6c500" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

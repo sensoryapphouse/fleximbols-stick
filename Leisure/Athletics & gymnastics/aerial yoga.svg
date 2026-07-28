@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ceiling anchor point -->
+  <path d="M 130,8 L 160,8" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" fill="none"/>
+  <circle cx="145" cy="8" r="6" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Hammock/silk fabric - wide loop hanging from anchor, figure inside -->
+  <!-- Left silk panel from anchor down -->
+  <path d="M 138,8 Q 105,35 90,80 Q 82,115 95,148 Q 108,175 120,185 Q 130,190 145,190 Q 160,190 170,185 Q 182,175 195,148 Q 208,115 200,80 Q 185,35 152,8 Z" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner silk fold line (gives 3D feel to hammock) -->
+  <path d="M 145,15 Q 120,50 115,90 Q 112,120 118,155 Q 128,180 145,188 Q 162,180 172,155 Q 178,120 175,90 Q 170,50 145,15 Z" fill="none" stroke="#529929" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Silk gathering at hips of figure -->
+  <path d="M 115,148 Q 130,158 145,158 Q 160,158 175,148" stroke="#529929" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Figure suspended in inverted/hanging position -->
+  <!-- Head hanging down (figure inverted - cocooned in silk) -->
+  <circle cx="145" cy="185" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hair hanging down (inverted) -->
+  <path d="M 127,190 Q 128,205 145,206 Q 162,205 163,190" stroke="#5e1f0a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M 127,190 Q 125,200 128,208 Q 132,215 145,216 Q 158,215 162,208 Q 165,200 163,190 Q 155,198 145,198 Q 135,198 127,190 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Eyes wide / surprised/joyful inverted -->
+  <circle cx="139" cy="183" r="2.5" fill="#000000"/>
+  <circle cx="151" cy="183" r="2.5" fill="#000000"/>
+  <!-- Smile (inverted smile on inverted face reads as expression) -->
+  <path d="M 138,192 Q 145,188 152,192" stroke="#1a1a1a" stroke-width="2.78" fill="none" stroke-linecap="round"/>
+  <!-- Torso in silk, upward from head (figure inverted) -->
+  <path d="M 128,152 Q 128,145 145,143 Q 162,145 162,152 L 160,168 L 130,168 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left arm extended out from silk -->
+  <path d="M 130,155 Q 102,148 85,138" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round" fill="none"/>
+  <circle cx="82" cy="136" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Right arm extended other side -->
+  <path d="M 160,155 Q 188,148 205,138" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round" fill="none"/>
+  <circle cx="208" cy="136" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Legs wrapped in silk going up (inverted - legs up toward anchor) -->
+  <path d="M 135,143 L 128,98" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round" fill="none"/>
+  <ellipse cx="126" cy="94" rx="9" ry="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 155,143 L 162,98" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round" fill="none"/>
+  <ellipse cx="164" cy="94" rx="9" ry="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

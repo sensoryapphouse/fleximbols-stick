@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ski-jacket: bulky insulated jacket, high collar, hood, zip, pass pocket, snow skirt -->
+  <!-- hood (attached, stuffed) -->
+  <path d="M104 28 Q145 14 186 28 L188 62 Q168 48 145 46 Q122 48 102 62 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- hood opening -->
+  <path d="M102 62 Q118 52 145 50 Q172 52 188 62 Q176 76 145 78 Q114 76 102 62 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- high collar -->
+  <path d="M108 72 L114 90 L145 86 L176 90 L182 72 Q166 64 145 62 Q124 64 108 72 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- body (bulky) -->
+  <path d="M66 96 L58 196 L232 196 L224 96 Q210 78 188 72 L166 66 L145 64 L124 66 L102 72 Q80 78 66 96 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- left sleeve (bulky) -->
+  <path d="M66 96 Q46 88 32 106 Q18 126 22 160 L46 168 Q36 140 42 116 Q48 100 66 102 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- right sleeve (bulky) -->
+  <path d="M224 96 Q244 88 258 106 Q272 126 268 160 L244 168 Q254 140 248 116 Q242 100 224 102 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- insulation horizontal lines body -->
+  <line x1="64" y1="118" x2="226" y2="118" stroke="#d01424" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="60" y1="140" x2="230" y2="140" stroke="#d01424" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="58" y1="162" x2="232" y2="162" stroke="#d01424" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- insulation lines left sleeve -->
+  <line x1="24" y1="124" x2="64" y2="116" stroke="#d01424" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="22" y1="144" x2="62" y2="138" stroke="#d01424" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- insulation lines right sleeve -->
+  <line x1="266" y1="124" x2="226" y2="116" stroke="#d01424" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="268" y1="144" x2="228" y2="138" stroke="#d01424" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- snow skirt at hem -->
+  <path d="M58 188 Q145 202 232 188 L232 196 Q145 212 58 196 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- centre zip -->
+  <line x1="145" y1="78" x2="145" y2="196" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- zip pull -->
+  <rect x="138" y="118" width="14" height="8" rx="3" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- left pass/lift ticket pocket (chest) -->
+  <rect x="86" y="100" width="34" height="24" rx="3" ry="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="86" y1="112" x2="120" y2="112" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- left cuff gaiter -->
+  <path d="M22 160 Q18 172 26 176 Q34 180 46 176 L46 168 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- right cuff gaiter -->
+  <path d="M268 160 Q272 172 264 176 Q256 180 244 176 L244 168 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bagpipes: tartan bag, 3 drone pipes over shoulder, chanter, blowpipe -->
+  <!-- Bag body (tartan green) -->
+  <ellipse cx="148" cy="158" rx="78" ry="56" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tartan cross lines on bag -->
+  <line x1="80" y1="140" x2="216" y2="140" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="80" y1="158" x2="216" y2="158" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="80" y1="176" x2="216" y2="176" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="120" y1="105" x2="120" y2="210" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="148" y1="103" x2="148" y2="213" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="176" y1="105" x2="176" y2="210" stroke="#f8130d" stroke-width="4.45"/>
+  <!-- Bag outline on top of tartan -->
+  <ellipse cx="148" cy="158" rx="78" ry="56" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Blowpipe (top-left from bag) -->
+  <line x1="110" y1="108" x2="78" y2="42" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <rect x="72" y="32" width="12" height="18" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Blowpipe ferrules -->
+  <rect x="97" y="82" width="14" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="104" y="64" width="14" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Drone pipe 1 (tallest, centre) -->
+  <line x1="145" y1="108" x2="152" y2="22" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
+  <rect x="144" y="18" width="16" height="12" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Drone 1 ferrules -->
+  <rect x="143" y="48" width="16" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="143" y="72" width="16" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Drone pipe 2 (medium, right of centre) -->
+  <line x1="168" y1="112" x2="178" y2="30" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
+  <rect x="170" y="26" width="16" height="12" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="170" y="54" width="16" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="170" y="76" width="16" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Drone pipe 3 (shorter, further right) -->
+  <line x1="188" y1="120" x2="202" y2="46" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
+  <rect x="196" y="42" width="16" height="12" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="197" y="64" width="16" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Chanter (hangs down from bag) -->
+  <line x1="132" y1="206" x2="128" y2="222" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <rect x="122" y="156" width="14" height="54" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Chanter finger holes -->
+  <circle cx="129" cy="170" r="3" fill="#000000"/>
+  <circle cx="129" cy="182" r="3" fill="#000000"/>
+  <circle cx="129" cy="194" r="3" fill="#000000"/>
+  <!-- Chanter bell -->
+  <ellipse cx="129" cy="222" rx="8" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

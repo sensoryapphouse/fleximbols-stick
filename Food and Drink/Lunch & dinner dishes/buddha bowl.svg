@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wide shallow bowl body -->
+  <path d="M 30,148 Q 30,130 55,128 L 235,128 Q 260,130 260,148 Q 255,205 145,215 Q 35,205 30,148 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="128" rx="115" ry="16" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Segmented veg sections filling the bowl top -->
+  <!-- Purple cabbage segment left -->
+  <path d="M 55,128 Q 80,118 110,120 L 108,142 Q 80,144 55,136 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Carrot/orange segment centre-left -->
+  <path d="M 110,120 Q 130,116 145,116 L 145,140 L 110,142 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Green avocado segment centre-right -->
+  <path d="M 145,116 Q 162,116 180,120 L 180,142 L 145,140 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Red tomato/beet segment right -->
+  <path d="M 180,120 Q 210,118 235,128 L 235,136 Q 210,144 180,142 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Chickpeas centre -->
+  <circle cx="145" cy="128" r="10" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="124" r="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="160" cy="124" r="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Sesame seeds sprinkle -->
+  <ellipse cx="118" cy="132" rx="3" ry="2" fill="#f5e7c4" stroke="none"/>
+  <ellipse cx="170" cy="130" rx="3" ry="2" fill="#f5e7c4" stroke="none"/>
+  <ellipse cx="155" cy="135" rx="3" ry="2" fill="#f5e7c4" stroke="none"/>
+  <!-- Green herb garnish -->
+  <path d="M 100,120 Q 95,112 102,108 Q 108,112 104,120 Z" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 110,118 Q 106,109 113,106 Q 118,110 114,118 Z" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

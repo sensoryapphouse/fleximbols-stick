@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="85.33 109.23 341.33 341.33"><!-- Parade bunting with confetti -->
+<!-- string -->
+<path d="M 110 150 Q 256 210 402 150" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- triangular flags -->
+<path d="M 120 156 L 168 168 L 138 212 Z" fill="#e84545" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 172 169 L 220 174 L 196 222 Z" fill="#ffc83b" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 224 175 L 272 175 L 248 224 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 276 175 L 324 169 L 300 222 Z" fill="#3aa0e8" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 328 168 L 376 156 L 354 212 Z" fill="#9b59d0" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- confetti below -->
+<rect x="150" y="276" width="22" height="22" rx="4" transform="rotate(20 161 287)" fill="#e84545" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="318" y="284" width="22" height="22" rx="4" transform="rotate(-25 329 295)" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="300" r="13" fill="#ffc83b" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="200" cy="356" r="12" fill="#3aa0e8" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="288" y="346" width="22" height="22" rx="4" transform="rotate(15 299 357)" fill="#9b59d0" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="150" cy="398" r="12" fill="#e84e8a" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="232" y="382" width="20" height="20" rx="4" transform="rotate(-18 242 392)" fill="#27c0a8" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="360" cy="392" r="12" fill="#ffc83b" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="89.52 100.62 356.85 356.85">
+<!-- decorative base plate -->
+<ellipse cx="256" cy="404" rx="140" ry="22" fill="#f4d6e6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- clay diya bowl -->
+<path d="M 130 300 Q 256 420 382 300 Q 360 348 256 348 Q 152 348 130 300 Z" fill="#c2691f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bowl rim / oil -->
+<path d="M 130 300 Q 256 336 382 300" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- pinched spout wick -->
+<path d="M 372 296 Q 410 290 420 264 Q 398 282 372 296 Z" fill="#e8b04a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- big flame -->
+<path d="M 256 296 Q 210 220 256 132 Q 302 220 256 296 Z" fill="#f6a800" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inner flame -->
+<path d="M 256 290 Q 232 240 256 186 Q 280 240 256 290 Z" fill="#fff06b" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

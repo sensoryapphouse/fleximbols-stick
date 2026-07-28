@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Board background -->
+  <rect x="26" y="32" width="238" height="176" rx="8" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+
+  <!-- Coordinate axes -->
+  <line x1="35" y1="195" x2="35" y2="35" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
+  <line x1="30" y1="195" x2="265" y2="195" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
+  <!-- Arrow heads -->
+  <polygon points="35,33 30,44 40,44" fill="#000000"/>
+  <polygon points="267,195 256,190 256,200" fill="#000000"/>
+  <!-- Axis tick marks -->
+  <line x1="35" y1="160" x2="42" y2="160" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="35" y1="125" x2="42" y2="125" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="35" y1="90" x2="42" y2="90" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="90" y1="195" x2="90" y2="188" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="145" y1="195" x2="145" y2="188" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="200" y1="195" x2="200" y2="188" stroke="#1a1a1a" stroke-width="3.23"/>
+
+  <!-- Curve (parabola-like) -->
+  <path d="M35,195 Q80,190 120,150 Q160,105 200,65 Q220,48 245,40"
+        fill="none" stroke="#2a4ec0" stroke-width="6.47" stroke-linecap="round"/>
+
+  <!-- Shaded area under the curve between x=90 and x=200 -->
+  <path d="M90,195 L90,160 Q120,130 145,110 Q170,92 200,65 L200,195 Z"
+        fill="#90a7d6" stroke="none"/>
+  <!-- Re-draw curve on top of fill -->
+  <path d="M90,160 Q120,130 145,110 Q170,92 200,65"
+        fill="none" stroke="#2a4ec0" stroke-width="6.47" stroke-linecap="round"/>
+  <!-- Shaded area outline -->
+  <line x1="90" y1="160" x2="90" y2="195" stroke="#2a4ec0" stroke-width="4.04" stroke-linecap="round" stroke-dasharray="5,3"/>
+  <line x1="200" y1="65" x2="200" y2="195" stroke="#2a4ec0" stroke-width="4.04" stroke-linecap="round" stroke-dasharray="5,3"/>
+
+  <!-- Integral sign (drawn as elongated S-curve path, filled) -->
+  <!-- The integral sign occupies the right portion -->
+  <!-- Top serif of integral -->
+  <path d="M225,40 Q238,35 240,42 Q242,52 232,58 Q222,65 220,78 Q218,100 220,118 Q222,136 230,148 Q238,158 238,168 Q238,175 232,180 Q226,184 218,181"
+        fill="none" stroke="#1a1a1a" stroke-width="9.69" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- "d" path shape (representing dx) - drawn as simple geometric path -->
+  <!-- "d" as a circle with a vertical stroke -->
+  <circle cx="251" cy="118" r="10" fill="none" stroke="#4d4d4d" stroke-width="4.85"/>
+  <line x1="261" y1="105" x2="261" y2="132" stroke="#4d4d4d" stroke-width="4.85" stroke-linecap="round"/>
+  <!-- "x" as two crossing diagonals -->
+  <line x1="270" y1="110" x2="282" y2="127" stroke="#4d4d4d" stroke-width="4.85" stroke-linecap="round"/>
+  <line x1="282" y1="110" x2="270" y2="127" stroke="#4d4d4d" stroke-width="4.85" stroke-linecap="round"/>
+
+  <!-- a and b limits on integral (drawn as small geometric shapes) -->
+  <!-- "a" limit bottom: small triangle -->
+  <polygon points="214,185 208,195 220,195" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.43"/>
+  <!-- "b" limit top: small rectangle with top nub -->
+  <rect x="233" y="28" width="10" height="10" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="2.43"/>
+</g></svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- glass -->
+<path d="M 130 196 L 250 196 L 238 400 Q 190 412 142 400 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- purple juice -->
+<path d="M 138 236 L 242 236 L 232 392 Q 190 402 148 392 Z" fill="#7a2f8f" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- glass rim highlight -->
+<path d="M 142 210 Q 190 200 238 210" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+<!-- grape bunch -->
+<g fill="#8a3fa0" stroke="#1a1a1a" stroke-width="6">
+<circle cx="330" cy="250" r="22"/>
+<circle cx="376" cy="250" r="22"/>
+<circle cx="353" cy="288" r="22"/>
+<circle cx="398" cy="288" r="22"/>
+<circle cx="376" cy="326" r="22"/>
+<circle cx="333" cy="326" r="20"/>
+</g>
+<!-- stem + leaf -->
+<path d="M 354 230 L 360 188" fill="none" stroke="#6b4a2b" stroke-width="8" stroke-linecap="round"/>
+<path d="M 360 192 Q 400 176 404 206 Q 374 210 360 192 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

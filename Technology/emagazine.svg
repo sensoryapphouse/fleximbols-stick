@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- emagazine: computer monitor showing an open magazine -->
+<!-- monitor -->
+<rect x="96" y="120" width="320" height="230" rx="16" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="118" y="142" width="276" height="186" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- stand -->
+<rect x="236" y="350" width="40" height="32" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="186" y="382" width="140" height="20" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+<!-- open magazine on screen: centre spine -->
+<line x1="256" y1="166" x2="256" y2="304" stroke="#1a1a1a" stroke-width="7"/>
+<!-- left page -->
+<path d="M150 176 Q200 162 252 176 L252 300 Q200 286 150 300 Z" fill="#f3cd6e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- right page -->
+<path d="M362 176 Q312 162 260 176 L260 300 Q312 286 362 300 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- picture block on left page -->
+<rect x="170" y="190" width="62" height="40" fill="#5aa83c" stroke="#1a1a1a" stroke-width="5"/>
+<!-- text lines left -->
+<line x1="170" y1="246" x2="232" y2="246" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="170" y1="262" x2="232" y2="262" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="170" y1="278" x2="218" y2="278" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- text lines right -->
+<line x1="280" y1="194" x2="342" y2="194" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="280" y1="210" x2="342" y2="210" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="280" y1="226" x2="332" y2="226" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- picture block right -->
+<rect x="280" y="246" width="62" height="40" fill="#d63b46" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="21.33 61.44 426.67 426.67">
+<!-- sun behind cloud -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round">
+<line x1="196" y1="118" x2="196" y2="92"/>
+<line x1="142" y1="140" x2="124" y2="122"/>
+<line x1="120" y1="194" x2="94" y2="194"/>
+<line x1="250" y1="140" x2="268" y2="122"/>
+</g>
+<!-- sun disc -->
+<circle cx="196" cy="194" r="48" fill="#f7c948" stroke="#1a1a1a" stroke-width="9"/>
+<!-- cloud overlapping sun -->
+<path d="M 196 318
+  a 52 52 0 0 1 96 -22
+  a 42 42 0 0 1 54 40
+  a 42 42 0 0 1 -10 82
+  L 196 418
+  a 50 50 0 0 1 -36 -85
+  a 46 46 0 0 1 36 -15 Z"
+  fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- raindrops -->
+<g fill="#5aa9e6" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+<path d="M 214 432 q -10 18 0 26 q 10 -8 0 -26 Z"/>
+<path d="M 264 432 q -10 18 0 26 q 10 -8 0 -26 Z"/>
+<path d="M 314 432 q -10 18 0 26 q 10 -8 0 -26 Z"/>
+</g>
+</svg>

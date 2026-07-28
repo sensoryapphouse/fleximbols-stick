@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- protection shield (background) -->
+  <path d="M145 20 L225 50 L225 130 Q225 180 145 220 Q65 180 65 130 L65 50 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.74" stroke-linejoin="round"/>
+  <path d="M145 32 L213 58 L213 130 Q213 172 145 206 Q77 172 77 130 L77 58 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- brand "logo" inside (abstract burst star = generic brand mark) -->
+  <path d="M145 60 L155 88 L185 88 L160 105 L170 132 L145 115 L120 132 L130 105 L105 88 L135 88 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- TM mark (top right of shield, raised badge) -->
+  <circle cx="215" cy="60" r="32" fill="#d01424" stroke="#1a1a1a" stroke-width="4.15"/>
+  <!-- letter T strokes -->
+  <path d="M198 50 L214 50 M206 50 L206 72" fill="none" stroke="#ffffff" stroke-width="4.74" stroke-linecap="round"/>
+  <!-- letter M strokes -->
+  <path d="M218 50 L218 72 M218 50 L224 62 L230 50 M230 50 L230 72" fill="none" stroke="#ffffff" stroke-width="4.74" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- checkmark at base showing 'protected' -->
+  <circle cx="145" cy="170" r="20" fill="#529929" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M135 170 L143 178 L156 162" fill="none" stroke="#ffffff" stroke-width="4.74" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

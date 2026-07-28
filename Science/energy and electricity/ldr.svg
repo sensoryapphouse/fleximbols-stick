@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Map arc (simplified curved landmass) -->
+  <path d="M44 160 q50 -30 100 -10 q50 20 102 -10" fill="none" stroke="#529929" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Map base fill -->
+  <path d="M44 160 q50 -30 100 -10 q50 20 102 -10 l0 30 q-50 10 -102 -8 q-50 -18 -100 8 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Map land detail dots -->
+  <circle cx="100" cy="148" r="5" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="190" cy="148" r="5" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Dashed line between hearts over the arc -->
+  <path d="M78 112 q68 -50 134 0" fill="none" stroke="#f8130d" stroke-width="5.93" stroke-linecap="round" stroke-dasharray="9,7"/>
+
+  <!-- Left heart -->
+  <path d="M78 112 c0-8 -12-8 -12 0 c0 8 12 16 12 16 c0 0 12-8 12-16 c0-8 -12-8 -12 0" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- Right heart -->
+  <path d="M212 112 c0-8 -12-8 -12 0 c0 8 12 16 12 16 c0 0 12-8 12-16 c0-8 -12-8 -12 0" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- Location pin left -->
+  <ellipse cx="78" cy="158" rx="6" ry="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M78 154 l0 -20" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="78" cy="128" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="78" cy="128" r="3" fill="#ffffff"/>
+
+  <!-- Location pin right -->
+  <ellipse cx="212" cy="148" rx="6" ry="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M212 144 l0 -20" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="212" cy="118" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="212" cy="118" r="3" fill="#ffffff"/>
+</g></svg>

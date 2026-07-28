@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80.83 79.13 387.88 387.88"><g>
+<!-- big round gantry (the donut) -->
+<rect x="110" y="120" width="292" height="240" rx="40" fill="#dbeefb" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bore opening -->
+<circle cx="256" cy="240" r="86" fill="#eef6fc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="240" r="56" fill="#9fd0ef" stroke="#1a1a1a" stroke-width="6"/>
+<!-- patient bed sliding out the front -->
+<rect x="150" y="356" width="290" height="30" rx="8" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bed legs -->
+<rect x="170" y="386" width="20" height="40" rx="4" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="400" y="386" width="20" height="40" rx="4" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- pillow on bed -->
+<rect x="356" y="338" width="56" height="22" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+</g></svg>

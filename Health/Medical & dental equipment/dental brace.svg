@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 58.65 345.21 345.21"><g>
+<!-- row of teeth wearing braces: archwire across bracket squares on each tooth -->
+<!-- gum strip behind teeth -->
+<path d="M 110 150 Q 256 130 402 150 L 402 196 Q 256 178 110 196 Z" fill="#f0a6ad" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- teeth -->
+<rect x="120" y="190" width="58" height="120" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="186" y="194" width="64" height="128" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="258" y="194" width="64" height="128" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="330" y="190" width="58" height="120" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- archwire across all teeth -->
+<path d="M 120 250 Q 256 270 392 250" fill="none" stroke="#6b7480" stroke-width="8" stroke-linecap="round"/>
+<!-- brackets on each tooth -->
+<rect x="135" y="236" width="28" height="28" rx="5" fill="#cdd3da" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="204" y="240" width="28" height="28" rx="5" fill="#cdd3da" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="276" y="240" width="28" height="28" rx="5" fill="#cdd3da" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="345" y="236" width="28" height="28" rx="5" fill="#cdd3da" stroke="#1a1a1a" stroke-width="6"/>
+</g></svg>

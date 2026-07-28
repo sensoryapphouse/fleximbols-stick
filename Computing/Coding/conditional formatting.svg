@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- spreadsheet -->
+  <rect x="26" y="32" width="238" height="176" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- header -->
+  <rect x="20" y="20" width="250" height="30" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- row header column -->
+  <rect x="20" y="20" width="40" height="200" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- column dividers -->
+  <line x1="130" y1="20" x2="130" y2="220" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="200" y1="20" x2="200" y2="220" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row dividers -->
+  <line x1="20" y1="78" x2="270" y2="78" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="20" y1="120" x2="270" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="20" y1="162" x2="270" y2="162" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- traffic-light fills: red=bad, yellow=warn, green=good -->
+  <!-- row 1: low values -> red -->
+  <rect x="60" y="50" width="70" height="28" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="130" y="50" width="70" height="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="50" width="70" height="28" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row 2 -->
+  <rect x="60" y="78" width="70" height="42" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="130" y="78" width="70" height="42" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="78" width="70" height="42" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row 3 -->
+  <rect x="60" y="120" width="70" height="42" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="130" y="120" width="70" height="42" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="120" width="70" height="42" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row 4 -->
+  <rect x="60" y="162" width="70" height="58" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="130" y="162" width="70" height="58" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="162" width="70" height="58" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- traffic-light icons inside each cell as small circles -->
+  <circle cx="95" cy="64" r="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="165" cy="64" r="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="235" cy="64" r="7" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- bigger emphasis on green/yellow/red badge top right -->
+  <g>
+    <rect x="222" y="28" width="40" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="230" cy="35" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+    <circle cx="242" cy="35" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+    <circle cx="254" cy="35" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+</g></svg>

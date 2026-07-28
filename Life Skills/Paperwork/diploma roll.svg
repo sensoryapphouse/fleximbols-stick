@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Scroll body -->
+  <rect x="62" y="90" width="166" height="90" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Left rolled end cap -->
+  <ellipse cx="62" cy="135" rx="18" ry="45" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Left end inner highlight -->
+  <ellipse cx="62" cy="135" rx="9" ry="34" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right rolled end cap -->
+  <ellipse cx="228" cy="135" rx="18" ry="45" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Right end inner highlight -->
+  <ellipse cx="228" cy="135" rx="9" ry="34" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Scroll content lines -->
+  <line x1="90" y1="112" x2="200" y2="112" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="90" y1="126" x2="190" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="90" y1="140" x2="196" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="90" y1="154" x2="186" y2="154" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Ribbon tied around middle -->
+  <rect x="128" y="82" width="34" height="106" rx="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Ribbon bow left loop -->
+  <path d="M128,120 Q100,100 106,84 Q114,72 128,86 Q136,96 128,120" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ribbon bow right loop -->
+  <path d="M162,120 Q190,100 184,84 Q176,72 162,86 Q154,96 162,120" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ribbon knot centre -->
+  <ellipse cx="145" cy="112" rx="12" ry="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Ribbon tails hanging down -->
+  <path d="M134,188 Q128,200 120,210" fill="none" stroke="#d01424" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M156,188 Q162,200 170,210" fill="none" stroke="#d01424" stroke-width="5.55" stroke-linecap="round"/>
+</g></svg>

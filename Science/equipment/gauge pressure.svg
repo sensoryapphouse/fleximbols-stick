@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Gauge bezel -->
+  <circle cx="145" cy="122" r="100" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="145" cy="122" r="92" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Tick marks (major, 7 ticks from ~210° to ~-30°) -->
+  <line x1="145" y1="34" x2="145" y2="50" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" transform="rotate(-120 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="50" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" transform="rotate(-80 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="50" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" transform="rotate(-40 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="50" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" transform="rotate(0 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="50" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" transform="rotate(40 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="50" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" transform="rotate(80 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="50" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" transform="rotate(120 145 122)"/>
+  <!-- Minor ticks -->
+  <line x1="145" y1="34" x2="145" y2="44" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" transform="rotate(-100 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="44" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" transform="rotate(-60 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="44" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" transform="rotate(-20 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="44" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" transform="rotate(20 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="44" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" transform="rotate(60 145 122)"/>
+  <line x1="145" y1="34" x2="145" y2="44" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" transform="rotate(100 145 122)"/>
+  <!-- Red arc zone (high pressure) -->
+  <path d="M 202 60 A 92 92 0 0 1 233 149" fill="none" stroke="#f8130d" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Needle pointing ~60° (mid-high) -->
+  <line x1="145" y1="122" x2="198" y2="68" stroke="#f8130d" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Needle pivot -->
+  <circle cx="145" cy="122" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Pressure drop icon (compressed arrows) bottom centre -->
+  <!-- water drop -->
+  <path d="M145,180 C135,168 125,158 125,150 C125,139 134,132 145,132 C156,132 165,139 165,150 C165,158 155,168 145,180Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- inward arrows on drop -->
+  <line x1="138" y1="160" x2="145" y2="150" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="152" y1="160" x2="145" y2="150" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

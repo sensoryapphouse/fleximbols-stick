@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Symboliser: indigo rounded square with A → asterisk transformation -->
+  <!-- Background -->
+  <rect width="1024" height="1024" rx="184" ry="184" fill="#4f4ce0"/>
+
+  <!-- Letter A (top-left) -->
+  <text x="195" y="395" text-anchor="middle"
+        font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif"
+        font-size="320" font-weight="900" fill="#eef0ff">A</text>
+
+  <!-- Yellow arrow -->
+  <g fill="#f6b920">
+    <rect x="340" y="306" width="190" height="46" rx="10"/>
+    <polygon points="510,260 600,329 510,398"/>
+  </g>
+
+  <!-- Large white asterisk (top-right) -->
+  <g stroke="#ffffff" stroke-width="56" stroke-linecap="round" fill="none">
+    <line x1="780" y1="180" x2="780" y2="478"/>
+    <line x1="631" y1="329" x2="929" y2="329"/>
+    <line x1="675" y1="224" x2="885" y2="434"/>
+    <line x1="885" y1="224" x2="675" y2="434"/>
+  </g>
+
+  <!-- Small asterisks at bottom: yellow, green, salmon -->
+  <g stroke-width="38" stroke-linecap="round" fill="none">
+    <!-- yellow -->
+    <g stroke="#f6b920">
+      <line x1="220" y1="640" x2="220" y2="830"/>
+      <line x1="125" y1="735" x2="315" y2="735"/>
+      <line x1="153" y1="668" x2="287" y2="802"/>
+      <line x1="287" y1="668" x2="153" y2="802"/>
+    </g>
+    <!-- green -->
+    <g stroke="#2eb583">
+      <line x1="498" y1="700" x2="498" y2="850"/>
+      <line x1="423" y1="775" x2="573" y2="775"/>
+      <line x1="445" y1="722" x2="551" y2="828"/>
+      <line x1="551" y1="722" x2="445" y2="828"/>
+    </g>
+    <!-- salmon -->
+    <g stroke="#ee6b6e">
+      <line x1="800" y1="620" x2="800" y2="780"/>
+      <line x1="720" y1="700" x2="880" y2="700"/>
+      <line x1="744" y1="644" x2="856" y2="756"/>
+      <line x1="856" y1="644" x2="744" y2="756"/>
+    </g>
+  </g>
+</svg>

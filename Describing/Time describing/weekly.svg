@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="21.29 -13.69 498.42 498.42" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- weekly: a row of 7 day-boxes (one week) with one ticked + repeat loop = once a week -->
+<g>
+<!-- repeat arrow arcing over the week -->
+<path d="M 96 168 Q 256 60 416 168" fill="none" stroke="#2f9e4a" stroke-width="16" stroke-linecap="round"/>
+<polygon points="416,168 392,150 420,142" fill="#2f9e4a" stroke="#2f9e4a" stroke-width="6" stroke-linejoin="round"/>
+<!-- seven day cells in a strip -->
+<g>
+<rect x="64"  y="232" width="52" height="92" rx="8" fill="#eaf1f7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="124" y="232" width="52" height="92" rx="8" fill="#eaf1f7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="184" y="232" width="52" height="92" rx="8" fill="#eaf1f7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- highlighted day -->
+<rect x="244" y="232" width="52" height="92" rx="8" fill="#ffd23f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="304" y="232" width="52" height="92" rx="8" fill="#eaf1f7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="364" y="232" width="52" height="92" rx="8" fill="#eaf1f7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="424" y="232" width="52" height="92" rx="8" fill="#eaf1f7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tick on highlighted day -->
+<polyline points="252,280 266,296 290,260" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- baseline -->
+<line x1="56" y1="360" x2="484" y2="360" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- joint: two bone ends meeting (a hinge joint, like a knee), bent, with cartilage cushion + motion arc -->
+<!-- upper bone, vertical, with rounded knuckle (condyles) at the joint -->
+<path d="M 224 96 L 288 96 L 288 220 C 288 244 306 250 306 270 C 306 292 282 300 256 300 C 230 300 206 292 206 270 C 206 250 224 244 224 220 Z" fill="#eef1f3" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cartilage cushion gap (pale blue band across the joint) -->
+<path d="M 206 302 Q 256 322 306 302" fill="none" stroke="#9fcdea" stroke-width="14" stroke-linecap="round"/>
+<!-- lower bone, angled away (bent joint), with its rounded head meeting the cushion -->
+<g transform="rotate(34 256 322)">
+<path d="M 224 320 C 224 300 232 296 256 296 C 280 296 288 300 288 320 L 288 420 L 224 420 Z" fill="#eef1f3" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+<!-- motion arc + arrowhead showing the joint flexes -->
+<path d="M 350 250 A 110 110 0 0 1 372 348" fill="none" stroke="#3d7fb5" stroke-width="8" stroke-linecap="round"/>
+<path d="M 372 348 l -16 -10 l 20 -6 Z" fill="#3d7fb5" stroke="#3d7fb5" stroke-width="6" stroke-linejoin="round"/>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg662" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg662)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pan base -->
+  <rect x="25" y="192" width="210" height="14" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.06" stroke-linejoin="round"/>
+  <!-- Pan handle -->
+  <rect x="225" y="195" width="50" height="8" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.05"/>
+  <!-- Pan rim ellipse -->
+  <ellipse cx="130" cy="192" rx="105" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.06"/>
+  <!-- Pan interior -->
+  <ellipse cx="130" cy="189" rx="97" ry="14" fill="#7f7f7f"/>
+  <!-- Scrambled egg curds - irregular yellow chunky blobs, no flat whole egg -->
+  <!-- Large central curd -->
+  <path d="M105,178 Q95,168 100,160 Q108,150 120,156 Q130,148 142,155 Q155,148 162,158 Q170,166 162,176 Q150,186 130,184 Q112,184 105,178 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left curd -->
+  <path d="M60,182 Q52,172 58,163 Q68,154 80,160 Q92,152 98,162 Q104,172 96,180 Q82,188 68,184 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right curd -->
+  <path d="M165,180 Q158,170 163,161 Q172,152 184,158 Q196,152 202,163 Q208,173 200,182 Q188,190 175,186 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small top-right curd -->
+  <path d="M148,162 Q145,153 152,148 Q162,143 168,151 Q173,159 164,164 Q155,168 148,162 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.04"/>
+  <!-- Small top-left curd -->
+  <path d="M78,168 Q75,160 82,155 Q91,150 97,157 Q101,164 94,169 Q86,173 78,168 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.04"/>
+  <!-- Bits of white mixed in -->
+  <path d="M118,174 Q115,168 120,165 Q127,162 132,167 Q135,172 128,175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.03"/>
+  <path d="M155,170 Q153,165 158,162 Q163,160 166,165 Q167,169 162,171 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.03"/>
+  <!-- Highlight texture on curds -->
+  <ellipse cx="125" cy="162" rx="5" ry="3" fill="#fff200"/>
+  <ellipse cx="75" cy="166" rx="4" ry="2.5" fill="#fff200"/>
+  <ellipse cx="185" cy="165" rx="4" ry="2.5" fill="#fff200"/>
+</g></svg>

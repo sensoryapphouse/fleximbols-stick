@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a tiny midge, shown enlarged centre with little dots showing it's a swarm -->
+<!-- swarm dots -->
+<g fill="#9aa0a6">
+<circle cx="150" cy="150" r="7"/>
+<circle cx="372" cy="140" r="6"/>
+<circle cx="392" cy="232" r="7"/>
+<circle cx="132" cy="248" r="6"/>
+<circle cx="360" cy="356" r="7"/>
+<circle cx="146" cy="372" r="6"/>
+<circle cx="256" cy="116" r="6"/>
+</g>
+<!-- main midge body -->
+<ellipse cx="256" cy="288" rx="34" ry="56" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- small wings -->
+<ellipse cx="224" cy="246" rx="40" ry="18" fill="#dfeefc" stroke="#9bb6cf" stroke-width="6" transform="rotate(-26 224 246)"/>
+<ellipse cx="288" cy="246" rx="40" ry="18" fill="#eef6fc" stroke="#9bb6cf" stroke-width="6" transform="rotate(26 288 246)"/>
+<!-- thin legs -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none">
+<path d="M 236 300 Q 196 332 188 376"/>
+<path d="M 240 320 Q 220 360 224 400"/>
+<path d="M 276 300 Q 316 332 324 376"/>
+<path d="M 272 320 Q 292 360 288 400"/>
+</g>
+<!-- head -->
+<circle cx="256" cy="226" r="28" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="247" cy="222" r="5" fill="#1a1a1a"/>
+<circle cx="265" cy="222" r="5" fill="#1a1a1a"/>
+<!-- feathery antennae -->
+<path d="M 240 206 Q 218 182 198 178" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 272 206 Q 294 182 314 178" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

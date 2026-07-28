@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- body (rounded egg-ish) -->
+<path d="M 168 150 Q 168 110 256 110 Q 344 110 344 150 L 336 396 Q 336 416 316 416 L 196 416 Q 176 416 176 396 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- digital control panel -->
+<rect x="200" y="158" width="112" height="62" rx="12" fill="#1a1a1a"/>
+<circle cx="232" cy="189" r="13" fill="#e08a3a"/>
+<rect x="262" y="178" width="34" height="9" rx="4" fill="#4a90d9"/>
+<rect x="262" y="194" width="34" height="9" rx="4" fill="#9aa0a6"/>
+<!-- basket drawer -->
+<path d="M 184 250 L 328 250 L 322 388 Q 322 400 310 400 L 202 400 Q 190 400 190 388 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="184" y1="290" x2="328" y2="290" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- drawer handle -->
+<rect x="226" y="256" width="60" height="22" rx="10" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- food in basket (chips suggestion) -->
+<g stroke="#f4c430" stroke-width="11" stroke-linecap="round">
+<line x1="226" y1="320" x2="234" y2="362"/>
+<line x1="252" y1="318" x2="256" y2="364"/>
+<line x1="280" y1="322" x2="286" y2="360"/>
+</g>
+</g></svg>

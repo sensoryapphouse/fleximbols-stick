@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- globe behind -->
+  <circle cx="145" cy="120" r="78" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M75 110 Q145 90 215 110" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M80 140 Q145 160 210 140" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="145" cy="120" rx="30" ry="78" fill="none" stroke="#137827" stroke-width="4.45"/>
+  <!-- happy human FULL BODY arms raised, in front of globe -->
+  <circle cx="145" cy="70" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- smile -->
+  <path d="M139 72 Q145 78 151 72" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="140" cy="68" r="1.5" fill="#000000"/>
+  <circle cx="150" cy="68" r="1.5" fill="#000000"/>
+  <!-- torso -->
+  <path d="M135 86 L155 86 L160 140 L130 140 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- arms raised -->
+  <path d="M137 90 Q110 60 100 36" fill="none" stroke="#eed5b6" stroke-width="13.33" stroke-linecap="round"/>
+  <path d="M153 90 Q180 60 190 36" fill="none" stroke="#eed5b6" stroke-width="13.33" stroke-linecap="round"/>
+  <path d="M137 90 Q110 60 100 36" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M153 90 Q180 60 190 36" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M135 140 L130 200 L142 200 L146 140 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M146 140 L150 200 L162 200 L155 140 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- book lower left -->
+  <path d="M20 200 L50 200 L50 222 L20 222 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="35" y1="200" x2="35" y2="222" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- atom science lower right -->
+  <circle cx="260" cy="210" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="260" cy="210" rx="18" ry="7" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="260" cy="210" rx="18" ry="7" fill="none" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(60 260 210)"/>
+  <ellipse cx="260" cy="210" rx="18" ry="7" fill="none" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-60 260 210)"/>
+</g></svg>

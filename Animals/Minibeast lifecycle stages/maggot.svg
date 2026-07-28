@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- pale legless fly larva, tapered to a point at head end -->
+<path d="M 120 300 C 120 248 168 226 236 226 C 320 226 388 250 388 300 C 388 350 320 374 236 374 C 168 374 120 352 120 300 Z" fill="#f0e6d2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tapered tail point (left) blends; pointed head right -->
+<path d="M 388 300 C 408 292 420 296 432 300 C 420 304 408 308 388 300 Z" fill="#f0e6d2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- segment rings -->
+<path d="M 176 244 Q 176 300 176 356" fill="none" stroke="#cfc4a8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 224 232 Q 224 300 224 368" fill="none" stroke="#cfc4a8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 272 230 Q 272 300 272 370" fill="none" stroke="#cfc4a8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 320 234 Q 320 300 320 366" fill="none" stroke="#cfc4a8" stroke-width="6" stroke-linecap="round"/>
+<!-- tiny mouth hooks at pointed head -->
+<line x1="396" y1="294" x2="412" y2="290" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="396" y1="306" x2="412" y2="310" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+</svg>

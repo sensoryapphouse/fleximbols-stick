@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- map -->
+  <rect x="26" y="32" width="238" height="176" rx="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- roads -->
+  <path d="M 20 100 Q 100 80 180 110 T 275 130" fill="none" stroke="#b8b8b8" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M 20 190 Q 90 175 160 185 T 275 180" fill="none" stroke="#b8b8b8" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- path -->
+  <path d="M 50 195 Q 100 160 150 165 Q 200 170 240 130" fill="none" stroke="#d01424" stroke-width="5.93" stroke-linecap="round" stroke-dasharray="7 5"/>
+  <!-- destination pin -->
+  <path d="M 240 105 C 252 105 260 115 260 125 C 260 138 240 158 240 158 C 240 158 220 138 220 125 C 220 115 228 105 240 105 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="240" cy="125" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- delivery van body -->
+  <rect x="55" y="135" width="70" height="45" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cab -->
+  <path d="M 125 135 L 160 135 L 175 155 L 175 180 L 125 180 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- window -->
+  <path d="M 130 142 L 155 142 L 165 156 L 130 156 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- door line -->
+  <line x1="90" y1="135" x2="90" y2="180" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- wheels -->
+  <circle cx="75" cy="185" r="11" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="185" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="155" cy="185" r="11" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="185" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- ETA clock badge -->
+  <circle cx="225" cy="55" r="28" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="55" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
+  <line x1="225" y1="55" x2="225" y2="40" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="225" y1="55" x2="237" y2="55" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="225" cy="55" r="2" fill="#000000"/>
+  <!-- start dot -->
+  <circle cx="50" cy="195" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

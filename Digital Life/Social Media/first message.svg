@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- phone body -->
+  <rect x="60" y="15" width="170" height="210" rx="20" ry="20" fill="#392170" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="72" y="32" width="146" height="176" rx="4" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- speaker -->
+  <rect x="135" y="22" width="20" height="4" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- home indicator -->
+  <rect x="135" y="214" width="20" height="4" rx="2" ry="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- header bar -->
+  <rect x="72" y="32" width="146" height="22" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="85" cy="43" r="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M95 41 Q100 39 105 41 M95 46 Q102 44 108 46" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- first message bubble (incoming, big "1" badge) -->
+  <path d="M82 70 Q82 64 88 64 L160 64 Q166 64 166 70 L166 92 Q166 98 160 98 L100 98 L90 108 L92 98 L88 98 Q82 98 82 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- squiggle text in bubble -->
+  <path d="M92 78 Q97 74 102 78 Q107 82 112 78 Q117 74 122 78 Q127 82 132 78 Q137 74 142 78 Q147 82 152 78" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M92 88 Q97 84 102 88 Q107 92 112 88 Q117 84 122 88 Q127 92 132 88" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- "1" badge -->
+  <circle cx="170" cy="68" r="11" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M168 62 L170 62 L170 74 M167 74 L173 74" fill="none" stroke="#ffffff" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- heart emoji floating up -->
+  <path d="M145 130 Q138 122 131 130 Q124 138 145 158 Q166 138 159 130 Q152 122 145 130 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- small hearts -->
+  <path d="M105 155 Q102 152 99 155 Q96 158 105 165 Q114 158 111 155 Q108 152 105 155 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.00" stroke-linejoin="round"/>
+  <path d="M185 165 Q182 162 179 165 Q176 168 185 175 Q194 168 191 165 Q188 162 185 165 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.00" stroke-linejoin="round"/>
+  <!-- send input bar with arrow -->
+  <rect x="82" y="180" width="120" height="20" rx="10" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="190" r="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M191 190 L199 190 M196 187 L199 190 L196 193" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- hurricane glass (curved bulb shape with stem) -->
+  <path d="M95 40 C 70 110 80 165 105 200 L185 200 C 210 165 220 110 195 40 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- creamy white liquid -->
+  <path d="M98 65 C 78 120 85 165 108 195 L182 195 C 205 165 212 120 192 65 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- liquid surface -->
+  <ellipse cx="145" cy="65" rx="48" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- short stem -->
+  <rect x="140" y="200" width="10" height="15" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- foot/base -->
+  <ellipse cx="145" cy="218" rx="30" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- pineapple wedge on rim -->
+  <path d="M75 30 L100 50 L90 70 L65 50 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pineapple rind edge -->
+  <path d="M75 30 L100 50" stroke="#7d5e23" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- pineapple leaf -->
+  <path d="M80 30 L72 10 L82 18 L85 5 L92 22 L100 12 L96 30" fill="#529929" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- cherry on top -->
+  <circle cx="125" cy="38" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M125 29 Q 130 18 138 20" fill="none" stroke="#67832d" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- cocktail umbrella stick -->
+  <path d="M180 20 L160 90" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- umbrella canopy -->
+  <path d="M155 25 L205 25 L180 5 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M180 5 L180 25 M165 25 L172 12 M195 25 L188 12" stroke="#7c3fac" stroke-width="2.67" stroke-linecap="round"/>
+</g></svg>

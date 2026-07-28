@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pouch body (small zippered waterproof pouch) -->
+  <rect x="78" y="90" width="134" height="126" rx="18" ry="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Waterproof texture: horizontal bands -->
+  <line x1="82" y1="122" x2="208" y2="122" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="82" y1="146" x2="208" y2="146" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="82" y1="170" x2="208" y2="170" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="82" y1="194" x2="208" y2="194" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Zip track -->
+  <rect x="78" y="82" width="134" height="16" rx="6" ry="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Zip teeth line -->
+  <line x1="86" y1="90" x2="204" y2="90" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <!-- Zip pull tab -->
+  <rect x="140" y="74" width="10" height="14" rx="3" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Clip/carabiner at top -->
+  <path d="M145 60 L145 38 Q145 26 156 26 Q167 26 167 38 L167 56" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="143" y="56" width="26" height="10" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="152" y="30" width="8" height="26" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Water drop motif (large, centred on pouch) -->
+  <path d="M145 108 Q134 120 134 132 Q134 146 145 148 Q156 146 156 132 Q156 120 145 108 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Water drop highlight -->
+  <path d="M140 126 Q138 132 140 138" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

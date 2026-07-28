@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 58.10 411.15 411.15">
+<!-- ground -->
+<line x1="80" y1="415" x2="432" y2="415" stroke="#9ec27a" stroke-width="9" stroke-linecap="round"/>
+<!-- roof -->
+<polygon points="150,175 256,113 362,175" fill="#c5b48f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- school building -->
+<rect x="120" y="175" width="272" height="240" rx="10" fill="#f3e2c6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- windows -->
+<rect x="146" y="208" width="52" height="48" rx="5" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="172" y1="208" x2="172" y2="256" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="146" y1="232" x2="198" y2="232" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="314" y="208" width="52" height="48" rx="5" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="340" y1="208" x2="340" y2="256" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="314" y1="232" x2="366" y2="232" stroke="#1a1a1a" stroke-width="4"/>
+<!-- door -->
+<rect x="228" y="330" width="56" height="85" rx="6" fill="#2b5688" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="256" y1="332" x2="256" y2="413" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<!-- rainbow arc over door (inclusion / nurturing cue) -->
+<path d="M 198 320 A 58 58 0 0 1 314 320" fill="none" stroke="#e0473c" stroke-width="9" stroke-linecap="round"/>
+<path d="M 210 320 A 46 46 0 0 1 302 320" fill="none" stroke="#e8b84b" stroke-width="9" stroke-linecap="round"/>
+<path d="M 222 320 A 34 34 0 0 1 290 320" fill="none" stroke="#7cc4a0" stroke-width="9" stroke-linecap="round"/>
+<!-- caring heart plaque high on building -->
+<path d="M 256 200 C 244 184 220 192 220 210 C 220 228 248 242 256 250 C 264 242 292 228 292 210 C 292 192 268 184 256 200 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

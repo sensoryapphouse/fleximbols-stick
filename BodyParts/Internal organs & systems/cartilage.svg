@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- cartilage: the smooth glossy cap of connective tissue covering the end of a bone -->
+<!-- bone shaft with a knobbly head at the top -->
+<path d="M 214 430 L 214 250 C 214 220 196 214 196 190 C 196 162 222 150 256 150 C 290 150 316 162 316 190 C 316 214 298 220 298 250 L 298 430 Z" fill="#eef1f3" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cartilage cap: pale glossy blue layer hugging the bone head -->
+<path d="M 188 196 C 184 158 218 132 256 132 C 294 132 328 158 324 196 C 312 176 286 168 256 168 C 226 168 200 176 188 196 Z" fill="#bfe0f2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- glossy highlight on the cartilage -->
+<path d="M 214 156 Q 256 142 298 156" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+<path d="M 224 178 Q 256 168 288 178" fill="none" stroke="#8ec3e2" stroke-width="6" stroke-linecap="round"/>
+</svg>

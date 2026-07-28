@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,41.779) scale(0.9184)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Main vine branch across top -->
+  <path d="M30,38 Q80,20 145,28 Q200,20 260,35" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Woody vine texture marks -->
+  <path d="M60,30 Q65,25 70,32" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M110,24 Q115,19 120,26" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M170,24 Q175,19 180,26" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Green leaf at top left -->
+  <ellipse cx="62" cy="22" rx="18" ry="9" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-20 62 22)"/>
+  <!-- Green leaf at top right -->
+  <ellipse cx="220" cy="26" rx="18" ry="9" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(15 220 26)"/>
+
+  <!-- Left hanging cascade of pea-flowers -->
+  <!-- Peduncle (main rachis) -->
+  <line x1="90" y1="30" x2="78" y2="185" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Pea flowers along left cascade - from top to bottom, getting smaller -->
+  <!-- Top (larger flowers) -->
+  <ellipse cx="78" cy="65" rx="9" ry="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M69,65 Q78,55 87,65" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="66" cy="77" rx="9" ry="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M57,77 Q66,67 75,77" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="90" cy="80" rx="9" ry="6" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M81,80 Q90,70 99,80" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="74" cy="93" rx="8" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M66,93 Q74,84 82,93" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="86" cy="100" rx="8" ry="5" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M78,100 Q86,91 94,100" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="70" cy="112" rx="8" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M62,112 Q70,103 78,112" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="84" cy="120" rx="7" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M77,120 Q84,111 91,120" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="72" cy="133" rx="7" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M65,133 Q72,125 79,133" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="82" cy="142" rx="6" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M76,142 Q82,134 88,142" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="74" cy="155" rx="6" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M68,155 Q74,148 80,155" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="79" cy="167" rx="5" ry="3" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M74,167 Q79,161 84,167" fill="#392170" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="78" cy="178" rx="4" ry="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M74,178 Q78,173 82,178" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Centre cascade -->
+  <line x1="145" y1="28" x2="145" y2="205" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <ellipse cx="145" cy="60" rx="10" ry="7" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M135,60 Q145,48 155,60" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="132" cy="74" rx="9" ry="6" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M123,74 Q132,64 141,74" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="158" cy="78" rx="9" ry="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M149,78 Q158,68 167,78" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="137" cy="92" rx="8" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M129,92 Q137,83 145,92" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="153" cy="97" rx="8" ry="5" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M145,97 Q153,88 161,97" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="138" cy="112" rx="8" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M130,112 Q138,103 146,112" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="152" cy="118" rx="7" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M145,118 Q152,109 159,118" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="140" cy="132" rx="7" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M133,132 Q140,124 147,132" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="150" cy="140" rx="6" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M144,140 Q150,132 156,140" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="142" cy="154" rx="6" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M136,154 Q142,147 148,154" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="148" cy="165" rx="5" ry="3" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M143,165 Q148,159 153,165" fill="#392170" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="144" cy="177" rx="5" ry="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M139,177 Q144,171 149,177" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="145" cy="192" rx="4" ry="3" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M141,192 Q145,187 149,192" fill="#392170" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Right cascade -->
+  <line x1="200" y1="30" x2="210" y2="175" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <ellipse cx="210" cy="62" rx="9" ry="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M201,62 Q210,52 219,62" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="222" cy="75" rx="9" ry="6" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M213,75 Q222,65 231,75" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="206" cy="82" rx="8" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M198,82 Q206,73 214,82" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="218" cy="96" rx="8" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M210,96 Q218,87 226,96" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="207" cy="110" rx="8" ry="5" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M199,110 Q207,101 215,110" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="215" cy="124" rx="7" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M208,124 Q215,116 222,124" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="209" cy="138" rx="6" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M203,138 Q209,131 215,138" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="212" cy="152" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M206,152 Q212,145 218,152" fill="#392170" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="210" cy="163" rx="5" ry="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M205,163 Q210,157 215,163" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg552" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg552)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

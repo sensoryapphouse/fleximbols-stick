@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="71.76 71.76 368.48 368.48">
+<!-- big boxy crate filling the frame -->
+<g stroke-linejoin="round">
+<!-- top face -->
+<polygon points="120 150 312 150 392 100 200 100" fill="#e8c489" stroke="#1a1a1a" stroke-width="9"/>
+<!-- front face -->
+<rect x="120" y="150" width="192" height="262" fill="#d8a85f" stroke="#1a1a1a" stroke-width="9"/>
+<!-- right side face -->
+<polygon points="312 150 392 100 392 362 312 412" fill="#b5863f" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<!-- front-face cross planks -->
+<g stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" fill="none">
+<line x1="120" y1="150" x2="312" y2="412"/>
+<line x1="312" y1="150" x2="120" y2="412"/>
+<rect x="120" y="150" width="192" height="262" fill="none" stroke="none"/>
+</g>
+<!-- right-face plank -->
+<line x1="312" y1="150" x2="392" y2="362" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

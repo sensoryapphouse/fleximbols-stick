@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="35.72 72.42 428.61 428.61">
+<!-- slower: snail (slow, bold + arrow) vs fast car (faded) -->
+<!-- fast car (faded), right -->
+<g opacity="0.34">
+<g transform="translate(300 310)">
+<path d="M 20 40 L 35 10 L 95 10 L 120 40 Z" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="6" y="40" width="128" height="34" rx="10" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="38" cy="80" r="18" fill="#33373d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="102" cy="80" r="18" fill="#33373d" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+</g>
+<!-- snail (bold), left -->
+<g transform="translate(60 300)">
+<!-- body -->
+<path d="M 10 90 Q 0 60 30 58 L 120 58 Q 140 58 140 76 Q 140 92 120 92 Z" fill="#cdb487" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- shell -->
+<circle cx="78" cy="52" r="44" fill="#e0a64a" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 78 52 m 0 0 a 26 26 0 1 1 -18 7" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- head + eye stalks -->
+<line x1="135" y1="78" x2="155" y2="50" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="125" y1="74" x2="138" y2="44" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="157" cy="46" r="7" fill="#1a1a1a"/>
+<circle cx="139" cy="40" r="7" fill="#1a1a1a"/>
+</g>
+<!-- bold green arrow pointing at the snail -->
+<line x1="150" y1="170" x2="150" y2="262" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="150" y1="262" x2="123" y2="232" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="150" y1="262" x2="177" y2="232" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="150" y1="170" x2="150" y2="262" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="150" y1="262" x2="123" y2="232" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="150" y1="262" x2="177" y2="232" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- lid -->
+<path d="M 168 150 L 344 150 Q 354 150 354 160 L 354 182 L 158 182 L 158 160 Q 158 150 168 150 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- lid front lip -->
+<rect x="158" y="178" width="196" height="20" rx="6" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hinge knuckle at back -->
+<rect x="336" y="138" width="22" height="20" rx="8" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="7"/>
+<!-- body (slightly tapered) -->
+<path d="M 172 198 L 340 198 L 326 386 Q 325 396 315 396 L 197 396 Q 187 396 186 386 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- vertical ribs -->
+<line x1="226" y1="206" x2="220" y2="388" stroke="#3d7fb5" stroke-width="7" stroke-linecap="round"/>
+<line x1="256" y1="206" x2="256" y2="388" stroke="#3d7fb5" stroke-width="7" stroke-linecap="round"/>
+<line x1="286" y1="206" x2="292" y2="388" stroke="#3d7fb5" stroke-width="7" stroke-linecap="round"/>
+<!-- wheels -->
+<circle cx="206" cy="408" r="26" fill="#3a3f44" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="306" cy="408" r="26" fill="#3a3f44" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="206" cy="408" r="8" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="306" cy="408" r="8" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

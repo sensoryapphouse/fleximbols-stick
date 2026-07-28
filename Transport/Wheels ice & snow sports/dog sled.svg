@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Snow ground -->
+  <path d="M0 210 Q145 200 290 210 L290 235 L0 235 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Sled (right side) -->
+  <rect x="205" y="155" width="70" height="32" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Sled runner -->
+  <path d="M200 195 L280 195 L275 205 L205 205 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sled upright handle (musher's grip) -->
+  <rect x="265" y="115" width="6" height="50" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="260" y="110" width="16" height="8" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Musher figure (full body) standing behind sled -->
+  <!-- Head -->
+  <circle cx="268" cy="80" r="11" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Hood / hat -->
+  <path d="M256 80 Q258 64 268 62 Q278 64 280 80" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Body coat -->
+  <path d="M256 92 L280 92 L283 130 L253 130 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Arms reaching down to handle -->
+  <path d="M255 100 Q250 115 263 130" fill="none" stroke="#1d0e82" stroke-width="13.34" stroke-linecap="round"/>
+  <path d="M281 100 Q288 115 273 130" fill="none" stroke="#1d0e82" stroke-width="13.34" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="258" y="130" width="8" height="40" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="270" y="130" width="8" height="40" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Boots -->
+  <ellipse cx="262" cy="173" rx="7" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="274" cy="173" rx="7" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Harness gangline running forward -->
+  <line x1="205" y1="170" x2="20" y2="170" stroke="#4d4d4d" stroke-width="6.67" stroke-linecap="round"/>
+
+  <!-- Dog 1 (closest to sled, full body) -->
+  <ellipse cx="170" cy="170" rx="20" ry="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="153" cy="163" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M148 156 L146 148 L152 156 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M156 156 L158 148 L162 156 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="150" cy="163" r="1.5" fill="#000000"/>
+  <circle cx="156" cy="164" r="1" fill="#000000"/>
+  <rect x="155" y="180" width="3" height="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="180" y="180" width="3" height="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M190 165 Q197 158 195 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Dog 2 -->
+  <ellipse cx="125" cy="170" rx="20" ry="11" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="108" cy="163" r="9" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M103 156 L101 148 L107 156 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M111 156 L113 148 L117 156 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="105" cy="163" r="1.5" fill="#000000"/>
+  <circle cx="111" cy="164" r="1" fill="#000000"/>
+  <rect x="110" y="180" width="3" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="135" y="180" width="3" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M145 165 Q152 158 150 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Dog 3 -->
+  <ellipse cx="80" cy="170" rx="20" ry="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="63" cy="163" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M58 156 L56 148 L62 156 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M66 156 L68 148 L72 156 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="60" cy="163" r="1.5" fill="#000000"/>
+  <circle cx="66" cy="164" r="1" fill="#000000"/>
+  <rect x="65" y="180" width="3" height="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="90" y="180" width="3" height="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M100 165 Q107 158 105 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Dog 4 (lead dog) -->
+  <ellipse cx="35" cy="170" rx="18" ry="11" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="20" cy="163" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M15 156 L13 148 L19 156 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M23 156 L25 148 L29 156 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="17" cy="163" r="1.5" fill="#ffffff"/>
+  <circle cx="23" cy="164" r="1" fill="#ffffff"/>
+  <rect x="23" y="180" width="3" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="45" y="180" width="3" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M53 165 Q60 158 58 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

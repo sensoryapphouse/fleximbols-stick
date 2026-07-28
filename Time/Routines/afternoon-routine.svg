@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- AFTERNOON banner: sky bar + sun lowering in the west with a dotted arc -->
+<rect x="36" y="40" width="440" height="92" rx="18" fill="#ffe8c4" stroke="#e8b86a" stroke-width="5"/>
+<!-- dotted afternoon arc (sun descending toward the right/west) -->
+<path d="M 96 110 Q 230 30 360 92" fill="none" stroke="#e08a00" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 18"/>
+<!-- sun, lower on the right -->
+<circle cx="384" cy="92" r="30" fill="#f5b800" stroke="#e08a00" stroke-width="6"/>
+<g stroke="#f5b800" stroke-width="7" stroke-linecap="round">
+<line x1="384" y1="44" x2="384" y2="56"/><line x1="384" y1="128" x2="384" y2="140"/>
+<line x1="336" y1="92" x2="348" y2="92"/><line x1="420" y1="92" x2="432" y2="92"/>
+<line x1="350" y1="58" x2="358" y2="66"/><line x1="410" y1="118" x2="418" y2="126"/>
+<line x1="418" y1="58" x2="410" y2="66"/><line x1="358" y1="118" x2="350" y2="126"/>
+</g>
+<!-- THREE LARGE afternoon-routine activity tiles in a row, chevrons between -->
+<!-- TILE 1: lunch / plate of food -->
+<circle cx="116" cy="300" r="74" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="116" cy="300" r="50" fill="#eef2f6" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 84 296 Q 116 274 148 296" fill="#3fae5a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="120" cy="288" r="11" fill="#e0473c" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 92 314 Q 116 330 140 314" fill="#f0c419" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- chevron 1>2 -->
+<polyline points="206,272 230,300 206,328" fill="none" stroke="#9aa7b5" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- TILE 2: snack / apple -->
+<circle cx="300" cy="300" r="74" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 256 296 Q 280 268 300 296" fill="#c43a30" stroke="none"/>
+<path d="M 344 296 Q 320 268 300 296" fill="#c43a30" stroke="none"/>
+<path d="M 300 262 L 300 240" stroke="#6b3b1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 300 252 Q 330 236 338 262" fill="#3fae5a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 282 268 Q 296 252 312 264" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity="0.5"/>
+<!-- chevron 2>3 -->
+<polyline points="390,272 414,300 390,328" fill="none" stroke="#9aa7b5" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- TILE 3: homework / notepad + pencil -->
+<circle cx="116" cy="300" r="74" fill="none"/>
+<g transform="translate(348 0)">
+<rect x="78" y="244" width="86" height="112" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="92" y1="270" x2="150" y2="270" stroke="#9aa7b5" stroke-width="6" stroke-linecap="round"/>
+<line x1="92" y1="292" x2="150" y2="292" stroke="#9aa7b5" stroke-width="6" stroke-linecap="round"/>
+<line x1="92" y1="314" x2="150" y2="314" stroke="#9aa7b5" stroke-width="6" stroke-linecap="round"/>
+<!-- pencil over the pad -->
+<line x1="120" y1="350" x2="168" y2="252" stroke="#f0c419" stroke-width="13" stroke-linecap="round"/>
+<polygon points="168,252 178,266 160,262" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="172,258 178,250 170,246" fill="#444" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+</g>
+</svg>

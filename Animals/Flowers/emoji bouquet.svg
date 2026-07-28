@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stems (behind flowers) -->
+  <path d="M120 140 Q130 170 135 200" fill="none" stroke="#529929" stroke-width="10.67" stroke-linecap="round"/>
+  <path d="M145 130 L145 200" fill="none" stroke="#529929" stroke-width="10.67" stroke-linecap="round"/>
+  <path d="M170 140 Q160 170 155 200" fill="none" stroke="#529929" stroke-width="10.67" stroke-linecap="round"/>
+  <path d="M105 145 Q120 175 130 205" fill="none" stroke="#529929" stroke-width="10.67" stroke-linecap="round"/>
+  <path d="M185 145 Q170 175 160 205" fill="none" stroke="#529929" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- Stem outlines -->
+  <path d="M120 140 Q130 170 135 200" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M145 130 L145 200" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M170 140 Q160 170 155 200" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M105 145 Q120 175 130 205" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M185 145 Q170 175 160 205" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+
+  <!-- Leaves -->
+  <path d="M115 160 Q95 155 88 170 Q100 175 118 170 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M175 165 Q195 160 202 175 Q190 180 172 175 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Flowers -->
+  <!-- Red flower (top left) -->
+  <g>
+    <circle cx="92" cy="80" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="112" cy="75" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="92" cy="100" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="112" cy="105" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="102" cy="90" r="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+  <!-- Yellow flower (top centre) -->
+  <g>
+    <path d="M145 60 L155 78 L173 78 L160 90 L165 108 L145 98 L125 108 L130 90 L117 78 L135 78 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <circle cx="145" cy="88" r="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+  <!-- Pink/purple flower (top right) -->
+  <g>
+    <circle cx="180" cy="78" r="10" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="200" cy="83" r="10" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="200" cy="103" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="180" cy="108" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="190" cy="93" r="9" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+  <!-- Orange flower (lower left) -->
+  <g>
+    <circle cx="108" cy="125" r="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="122" cy="120" r="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="108" cy="140" r="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="122" cy="138" r="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="115" cy="130" r="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  </g>
+  <!-- Blue flower (lower right) -->
+  <g>
+    <circle cx="172" cy="123" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="187" cy="120" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="172" cy="138" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="187" cy="140" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="180" cy="130" r="6" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  </g>
+
+  <!-- Wrap paper -->
+  <path d="M88 165 L202 165 L185 215 L105 215 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Wrap creases -->
+  <line x1="120" y1="170" x2="128" y2="210" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="170" y1="170" x2="162" y2="210" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+
+  <!-- Ribbon bow -->
+  <path d="M115 178 Q100 168 92 178 Q92 192 115 188 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M175 178 Q190 168 198 178 Q198 192 175 188 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ribbon knot -->
+  <ellipse cx="145" cy="183" rx="12" ry="9" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Ribbon tails -->
+  <path d="M138 192 Q132 210 128 222" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M152 192 Q158 210 162 222" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M138 192 Q132 210 128 222" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M152 192 Q158 210 162 222" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

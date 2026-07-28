@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- deed document with property/land plot drawing + ownership stamp -->
+  <!-- document -->
+  <rect x="40" y="25" width="210" height="190" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- header -->
+  <rect x="55" y="38" width="180" height="16" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="65" y1="46" x2="225" y2="46" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- land plot map -->
+  <rect x="60" y="65" width="170" height="105" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- plot boundary -->
+  <polygon points="75,80 215,80 215,155 130,155 130,130 75,130" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- dashed property lines -->
+  <line x1="75" y1="80" x2="215" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="5,3"/>
+  <line x1="215" y1="80" x2="215" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="5,3"/>
+  <!-- small house marker on plot -->
+  <polygon points="155,100 175,90 195,100 195,120 155,120" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="152,102 175,87 198,102" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="170" y="108" width="10" height="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- trees -->
+  <circle cx="95" cy="110" r="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="93" y="115" width="4" height="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="115" cy="145" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="113" y="148" width="4" height="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- compass N -->
+  <circle cx="210" cy="148" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="210,140 213,150 210,148 207,150" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- ownership stamp -->
+  <circle cx="220" cy="190" r="22" fill="none" stroke="#d01424" stroke-width="6.67"/>
+  <circle cx="220" cy="190" r="16" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <polyline points="211,190 218,197 230,184" fill="none" stroke="#d01424" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- signature line -->
+  <line x1="55" y1="195" x2="155" y2="195" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M60,193 q10,-8 20,0 q10,6 22,-3" fill="none" stroke="#1d0e82" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

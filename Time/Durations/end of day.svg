@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sunset sky gradient substitute: orange rectangle at top -->
+  <rect x="20" y="10" width="250" height="70" rx="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Sun at horizon -->
+  <ellipse cx="145" cy="78" rx="28" ry="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sun rays -->
+  <line x1="145" y1="60" x2="145" y2="52" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="163" y1="66" x2="169" y2="60" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="127" y1="66" x2="121" y2="60" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Floor / ground line -->
+  <rect x="20" y="198" width="250" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Empty desk -->
+  <rect x="30" y="156" width="160" height="10" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="40" y="166" width="10" height="32" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="168" y="166" width="10" height="32" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Desk chair tucked in (empty) -->
+  <rect x="82" y="170" width="50" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="84" y="178" width="8" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="122" y="178" width="8" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Clock showing 5 o'clock on wall -->
+  <ellipse cx="220" cy="120" rx="28" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Clock ticks -->
+  <line x1="220" y1="95" x2="220" y2="101" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="220" y1="139" x2="220" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="120" x2="201" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="239" y1="120" x2="245" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hour hand to 5 (~150 degrees) -->
+  <line x1="220" y1="120" x2="234" y2="134" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Minute hand to 12 (straight up) -->
+  <line x1="220" y1="120" x2="220" y2="99" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Figure walking away (side view, leaving) -->
+  <!-- Torso -->
+  <rect x="43" y="120" width="26" height="42" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Head (facing right — walking away from desk) -->
+  <ellipse cx="56" cy="107" rx="15" ry="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <ellipse cx="56" cy="95" rx="15" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Eyes (side profile suggestion) -->
+  <ellipse cx="62" cy="107" rx="3" ry="3" fill="#000000"/>
+  <!-- Bag on shoulder -->
+  <rect x="24" y="130" width="22" height="18" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <line x1="43" y1="130" x2="35" y2="128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Left arm swinging forward -->
+  <line x1="43" y1="136" x2="26" y2="152" stroke="#eed5b6" stroke-width="13.33" stroke-linecap="round"/>
+  <!-- Right arm back -->
+  <line x1="69" y1="136" x2="82" y2="150" stroke="#eed5b6" stroke-width="13.33" stroke-linecap="round"/>
+  <!-- Legs walking -->
+  <line x1="52" y1="162" x2="40" y2="197" stroke="#1d0e82" stroke-width="14.81" stroke-linecap="round"/>
+  <line x1="62" y1="162" x2="74" y2="190" stroke="#1d0e82" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- Shoes -->
+  <ellipse cx="39" cy="198" rx="9" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="75" cy="191" rx="9" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

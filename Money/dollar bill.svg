@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bill outer (green) -->
+  <rect x="15" y="40" width="260" height="160" rx="6" fill="#67832d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- inner border frame -->
+  <rect x="25" y="50" width="240" height="140" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pale center oval for portrait -->
+  <ellipse cx="145" cy="120" rx="55" ry="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- George Washington portrait - bust -->
+  <!-- shoulders/coat -->
+  <path d="M115 165 Q115 145 145 145 Q175 145 175 165 L175 170 L115 170 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="138" y="135" width="14" height="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- head -->
+  <ellipse cx="145" cy="115" rx="18" ry="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- wig (white powdered) -->
+  <path d="M127 110 Q125 95 135 88 Q145 82 155 88 Q165 95 163 110 Q163 120 158 125 L162 130 L155 135 L150 132 L140 132 L135 135 L128 130 L132 125 Q127 120 127 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- face features -->
+  <circle cx="139" cy="113" r="1.5" fill="#000000"/>
+  <circle cx="151" cy="113" r="1.5" fill="#000000"/>
+  <path d="M143 122 L147 122" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M145 117 L143 121 L147 121 Z" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- corner ONE labels (path stroke) -->
+  <!-- top-left ONE -->
+  <!-- O -->
+  <ellipse cx="42" cy="62" rx="4" ry="5" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- N -->
+  <path d="M50 67 L50 57 L56 67 L56 57" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M65 57 L60 57 L60 67 L65 67 M60 62 L64 62" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top-right ONE -->
+  <ellipse cx="227" cy="62" rx="4" ry="5" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <path d="M235 67 L235 57 L241 67 L241 57" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M250 57 L245 57 L245 67 L250 67 M245 62 L249 62" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bottom-left ONE -->
+  <ellipse cx="42" cy="180" rx="4" ry="5" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <path d="M50 185 L50 175 L56 185 L56 175" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M65 175 L60 175 L60 185 L65 185 M60 180 L64 180" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bottom-right ONE -->
+  <ellipse cx="227" cy="180" rx="4" ry="5" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <path d="M235 185 L235 175 L241 185 L241 175" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M250 175 L245 175 L245 185 L250 185 M245 180 L249 180" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- corner 1 numerals (large) -->
+  <circle cx="42" cy="118" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M40 112 L43 110 L43 125" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="248" cy="118" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M246 112 L249 110 L249 125" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- decorative scrolls -->
+  <path d="M70 95 Q80 100 90 95" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M200 95 Q210 100 220 95" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M70 155 Q80 160 90 155" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M200 155 Q210 160 220 155" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

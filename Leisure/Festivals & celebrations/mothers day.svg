@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="78.55 101.59 354.91 354.91">
+<!-- bouquet wrap -->
+<path d="M 256 280 L 326 430 L 186 430 Z" fill="#f4d6e6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 280 L 326 430 L 186 430 Z" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<!-- ribbon -->
+<path d="M 200 392 Q 256 372 312 392" fill="none" stroke="#e0559e" stroke-width="11" stroke-linecap="round"/>
+<!-- stems -->
+<g stroke="#3fae5a" stroke-width="9" stroke-linecap="round">
+<line x1="256" y1="300" x2="190" y2="200"/>
+<line x1="256" y1="300" x2="256" y2="170"/>
+<line x1="256" y1="300" x2="322" y2="200"/>
+</g>
+<!-- flower 1 (red) -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" fill="#e23c3c">
+<circle cx="190" cy="176" r="20"/><circle cx="220" cy="200" r="20"/><circle cx="160" cy="200" r="20"/><circle cx="178" cy="228" r="20"/><circle cx="208" cy="228" r="20"/>
+</g>
+<circle cx="190" cy="202" r="16" fill="#f6c500" stroke="#1a1a1a" stroke-width="5"/>
+<!-- flower 2 (pink) -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" fill="#e0559e">
+<circle cx="256" cy="146" r="20"/><circle cx="286" cy="170" r="20"/><circle cx="226" cy="170" r="20"/><circle cx="244" cy="198" r="20"/><circle cx="274" cy="198" r="20"/>
+</g>
+<circle cx="256" cy="172" r="16" fill="#f6c500" stroke="#1a1a1a" stroke-width="5"/>
+<!-- flower 3 (blue) -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" fill="#3f6fb0">
+<circle cx="322" cy="176" r="20"/><circle cx="352" cy="200" r="20"/><circle cx="292" cy="200" r="20"/><circle cx="310" cy="228" r="20"/><circle cx="340" cy="228" r="20"/>
+</g>
+<circle cx="322" cy="202" r="16" fill="#f6c500" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

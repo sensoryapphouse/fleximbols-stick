@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="110.55 110.55 290.91 290.91">
+<!-- star shape covered in glitter -->
+<polygon points="256,140 290,222 378,228 310,286 332,372 256,324 180,372 202,286 134,228 222,222" fill="#c98ce6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- glitter specks -->
+<g fill="#fff7b0" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round">
+<polygon points="232,200 236,212 248,216 236,220 232,232 228,220 216,216 228,212"/>
+<polygon points="290,250 293,260 303,263 293,266 290,276 287,266 277,263 287,260"/>
+<polygon points="224,300 227,310 237,313 227,316 224,326 221,316 211,313 221,310"/>
+<polygon points="278,310 280,318 288,320 280,322 278,330 276,322 268,320 276,318"/>
+<polygon points="200,250 203,260 213,263 203,266 200,276 197,266 187,263 197,260"/>
+</g>
+<circle cx="256" cy="248" r="5" fill="#fff"/>
+<circle cx="312" cy="232" r="4" fill="#fff"/>
+<circle cx="208" cy="232" r="4" fill="#fff"/>
+</svg>

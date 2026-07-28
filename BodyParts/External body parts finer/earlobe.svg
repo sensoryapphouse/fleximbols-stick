@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a side-on ear, the lobe at the bottom highlighted with accent + ring -->
+<!-- outer ear -->
+<path d="M196 150 Q316 120 340 240 Q352 320 300 372 Q264 412 224 392 Q196 378 206 344 Q220 312 200 296 Q176 276 196 240 Q176 200 196 150 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inner fold -->
+<path d="M232 196 Q296 184 300 252 Q300 300 264 320" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- tragus / inner curve -->
+<path d="M236 300 Q258 296 262 320" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- earlobe highlighted -->
+<path d="M224 392 Q196 378 206 344 Q216 322 244 330 Q272 340 268 372 Q256 400 224 392 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- callout ring around lobe -->
+<circle cx="238" cy="362" r="58" fill="none" stroke="#d63b46" stroke-width="8"/>
+</svg>

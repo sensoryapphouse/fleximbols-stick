@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- donut-cream: filled round donut (no hole), white cream oozing out, small chocolate drizzle on top -->
+  <!-- Donut filled body: oval, no hole -->
+  <ellipse cx="145" cy="138" rx="108" ry="82" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Small chocolate drizzle on top surface -->
+  <path d="M 88,96 Q 105,84 122,98 Q 140,86 158,100 Q 172,88 192,100 Q 202,92 215,102" fill="none" stroke="#5e1f0a" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 100,112 Q 120,102 140,114 Q 158,104 178,114" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cream slit in the middle of the donut -->
+  <path d="M 118,138 Q 132,132 145,136 Q 158,132 172,138" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- White cream oozing from slit -->
+  <path d="M 116,138 Q 130,148 145,144 Q 160,148 174,138 Q 160,158 145,156 Q 130,158 116,138 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Cream drip down centre -->
+  <path d="M 145,156 Q 143,168 141,180 Q 143,184 145,178 Q 147,168 148,156" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Cream drip right side -->
+  <path d="M 162,150 Q 166,162 165,172 Q 167,176 169,168 Q 170,158 168,150" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Cream highlight -->
+  <path d="M 124,142 Q 145,138 166,142" fill="none" stroke="#eed5b6" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Small chocolate drizzle on top of cream blob -->
+  <path d="M 130,150 Q 145,144 160,150" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

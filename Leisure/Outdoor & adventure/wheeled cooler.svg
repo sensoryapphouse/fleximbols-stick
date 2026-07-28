@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- pull handle -->
+  <path d="M 70 70 L 70 40 Q 70 30 80 30 L 130 30 Q 140 30 140 40 L 140 60" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cooler body -->
+  <rect x="55" y="80" width="180" height="100" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lid -->
+  <rect x="55" y="70" width="180" height="20" rx="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- latch -->
+  <rect x="135" y="85" width="20" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- side handle -->
+  <path d="M 60 110 Q 45 115 45 125 Q 45 135 60 140" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- wheels -->
+  <circle cx="80" cy="190" r="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="190" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="210" cy="190" r="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="190" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- snowflake hint -->
+  <path d="M 100 130 L 110 130 M 105 125 L 105 135 M 101 126 L 109 134 M 109 126 L 101 134" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round" fill="none"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2947) translate(-256.00 -256.00)">
+<g transform="translate(86.0,-16.0) scale(1.133)"><!-- See-no-evil monkey: monkey head with hands over eyes (left region) -->
+  <!-- Head -->
+  <circle cx="150" cy="240" r="120" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="6"/>
+  <!-- Face disc -->
+  <ellipse cx="150" cy="255" rx="84" ry="88" fill="#c4906a" stroke="#1a1a1a" stroke-width="2"/>
+  <!-- Ears -->
+  <circle cx="32" cy="228" r="32" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="6"/>
+  <circle cx="32" cy="228" r="17" fill="#c4906a"/>
+  <circle cx="268" cy="228" r="32" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="6"/>
+  <circle cx="268" cy="228" r="17" fill="#c4906a"/>
+  <!-- Snout -->
+  <ellipse cx="150" cy="300" rx="48" ry="34" fill="#e8b88a" stroke="#1a1a1a" stroke-width="2"/>
+  <ellipse cx="138" cy="300" rx="6" ry="8" fill="#5c3a1e"/>
+  <ellipse cx="162" cy="300" rx="6" ry="8" fill="#5c3a1e"/>
+  <path d="M120 322 Q150 338 180 322" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Left hand over eye -->
+  <ellipse cx="78" cy="230" rx="54" ry="42" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="6"/>
+  <ellipse cx="78" cy="233" rx="40" ry="30" fill="#c4906a"/>
+  <path d="M40 208 Q44 184 60 180" stroke="#8b5e3c" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M64 196 Q68 172 84 168" stroke="#8b5e3c" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M90 192 Q96 168 110 166" stroke="#8b5e3c" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <!-- Right hand over eye -->
+  <ellipse cx="222" cy="230" rx="54" ry="42" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="6"/>
+  <ellipse cx="222" cy="233" rx="40" ry="30" fill="#c4906a"/>
+  <path d="M260 208 Q256 184 240 180" stroke="#8b5e3c" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M236 196 Q232 172 216 168" stroke="#8b5e3c" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M210 192 Q204 168 190 166" stroke="#8b5e3c" stroke-width="16" stroke-linecap="round" fill="none"/></g>
+</g></svg>

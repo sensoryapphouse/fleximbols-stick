@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- piglet: small pink pig, round snout, curly tail -->
+<!-- legs -->
+<g stroke="#1a1a1a" stroke-width="20" stroke-linecap="round">
+<line x1="158" y1="348" x2="156" y2="406"/>
+<line x1="206" y1="350" x2="204" y2="408"/>
+<line x1="252" y1="354" x2="252" y2="410"/>
+<line x1="300" y1="354" x2="302" y2="410"/>
+</g>
+<!-- body -->
+<ellipse cx="250" cy="300" rx="118" ry="80" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<circle cx="356" cy="262" r="62" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ears -->
+<path d="M 322 212 L 308 178 L 344 200 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 392 212 L 406 178 L 370 200 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- snout -->
+<ellipse cx="392" cy="276" rx="34" ry="28" fill="#f06ea0" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="384" cy="276" rx="6" ry="9" fill="#1a1a1a"/>
+<ellipse cx="402" cy="276" rx="6" ry="9" fill="#1a1a1a"/>
+<!-- eyes -->
+<circle cx="344" cy="244" r="8" fill="#1a1a1a"/>
+<circle cx="378" cy="240" r="8" fill="#1a1a1a"/>
+<!-- curly tail -->
+<path d="M 132 286 q -28 -4 -22 18 q 6 16 24 8 q 12 -8 0 -16" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg389" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg389)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

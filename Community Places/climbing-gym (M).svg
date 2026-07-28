@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0552) translate(-216.00 -250.50)">
+<rect x="120" y="40" width="150" height="415" rx="6" fill="#cfd8dc" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="150" cy="120" r="13" fill="#e23b3b" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="230" cy="210" r="13" fill="#3fb24a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="165" cy="320" r="13" fill="#f5a623" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="235" cy="380" r="13" fill="#7a4fd6" stroke="#1a1a1a" stroke-width="0"/>
+<!-- back-view climber facing the wall, reaching up to the holds -->
+<!-- legs: left leg bent up with foot onto the orange hold, right leg extended down -->
+<line x1="196" y1="300" x2="178" y2="320" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<line x1="178" y1="320" x2="165" y2="320" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<line x1="210" y1="300" x2="222" y2="430" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="222" cy="432" rx="13" ry="7" fill="#33373d"/>
+<!-- torso (back) against the wall -->
+<polygon points="178,178 230,178 224,305 184,305" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- arms: both reaching up to the holds -->
+<line x1="186" y1="190" x2="150" y2="120" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="222" y1="190" x2="230" y2="210" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<!-- neck -->
+<line x1="204" y1="178" x2="204" y2="160" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<!-- head: back of head -->
+<circle id="h1" data-fig="ma" cx="204" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<!-- hair covering the whole back of the head -->
+<path d="M 164 130 Q 164 86 204 86 Q 244 86 244 130 Q 244 164 234 168 L 174 168 Q 164 164 164 130 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

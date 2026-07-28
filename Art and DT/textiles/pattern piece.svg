@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100.15 95.03 321.94 321.94">
+<!-- a tissue sewing-pattern piece: irregular garment panel with notches, grainline arrow, dashed seam allowance -->
+<!-- the panel -->
+<path d="M 150 130
+         L 330 120
+         Q 372 150 360 210
+         L 372 330
+         Q 330 392 256 392
+         Q 176 392 150 330
+         Z"
+      fill="#fbe7c2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- dashed seam-allowance line inset -->
+<path d="M 168 152
+         L 322 144
+         Q 352 168 342 214
+         L 352 322
+         Q 318 372 256 372
+         Q 192 372 170 322
+         Z"
+      fill="none" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="10 9"/>
+<!-- grainline double-headed arrow -->
+<line x1="256" y1="200" x2="256" y2="320" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<polyline points="240 218 256 198 272 218" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="240 302 256 322 272 302" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- notch triangles on the edge -->
+<polygon points="204 130 216 152 192 152" fill="#1a1a1a"/>
+<polygon points="300 126 312 148 288 148" fill="#1a1a1a"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Gnarled twisted trunk - multiple curves -->
+  <path d="M130,210 C128,195 120,185 125,170 C130,155 138,150 135,138 C132,126 128,120 132,108" stroke="#1a1a1a" stroke-width="17.78" fill="none" stroke-linecap="round"/>
+  <path d="M158,210 C160,195 168,183 162,168 C156,153 148,149 152,136 C156,123 162,118 158,108" stroke="#1a1a1a" stroke-width="17.78" fill="none" stroke-linecap="round"/>
+  <!-- Trunk fill between curves -->
+  <path d="M130,210 C128,195 120,185 125,170 C130,155 138,150 135,138 C132,126 128,120 132,108 L158,108 C162,118 156,123 152,136 C148,149 156,153 162,168 C168,183 160,195 158,210Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Gnarled root bumps -->
+  <ellipse cx="118" cy="207" rx="18" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="170" cy="207" rx="18" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Silvery-grey canopy with irregular shape (olive trees are wispy) -->
+  <ellipse cx="145" cy="95" rx="85" ry="60" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="11.11"/>
+  <ellipse cx="108" cy="105" rx="40" ry="35" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="182" cy="100" rx="40" ry="35" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="75" rx="45" ry="35" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Narrow silvery leaves -->
+  <ellipse cx="105" cy="92" rx="3" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 105 92)"/>
+  <ellipse cx="125" cy="80" rx="3" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 125 80)"/>
+  <ellipse cx="150" cy="72" rx="3" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-5 150 72)"/>
+  <ellipse cx="172" cy="82" rx="3" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 172 82)"/>
+  <ellipse cx="185" cy="95" rx="3" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 185 95)"/>
+  <ellipse cx="112" cy="112" rx="3" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(5 112 112)"/>
+  <ellipse cx="140" cy="108" rx="3" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 140 108)"/>
+  <ellipse cx="168" cy="110" rx="3" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 168 110)"/>
+  <!-- Small green olives -->
+  <ellipse cx="118" cy="100" rx="5" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="135" cy="90" rx="5" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="158" cy="88" rx="5" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="177" cy="100" rx="5" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Small black olives -->
+  <ellipse cx="128" cy="112" rx="5" ry="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="152" cy="115" rx="5" ry="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="170" cy="108" rx="5" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="108" cy="118" rx="5" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

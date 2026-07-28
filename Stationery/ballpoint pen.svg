@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ballpoint pen: click-top button, slim barrel, thin scratchy ink line -->
+
+  <!-- Click button at top-left -->
+  <rect x="22" y="103" width="18" height="28" rx="7" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Button dome -->
+  <ellipse cx="31" cy="103" rx="9" ry="5" fill="#137827" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Click mechanism ridge -->
+  <rect x="22" y="118" width="18" height="4" rx="1" fill="#67832d" stroke="none"/>
+
+  <!-- Side clip -->
+  <rect x="40" y="106" width="7" height="52" rx="3" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="43" cy="160" rx="4" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Main barrel: slim, classic ballpoint green/black -->
+  <rect x="40" y="103" width="170" height="28" rx="5" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Barrel accent band -->
+  <rect x="155" y="105" width="14" height="24" rx="2" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Grip/tip transition section -->
+  <rect x="210" y="106" width="30" height="22" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- Tip cone (narrow ballpoint) -->
+  <path d="M 240,109 L 262,117 L 240,125 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ballpoint ball -->
+  <circle cx="262" cy="117" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Thin scratchy ink line (thinner than gel, with slight irregularity) -->
+  <path d="M 75,158 L 110,155 L 148,159 L 186,156 L 222,160 L 258,157" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tiny ink skip gap to show scratchy ballpoint quality -->
+  <path d="M 130,158 L 136,158" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Second line below, also thin -->
+  <path d="M 75,170 Q 130,167 200,171 Q 228,173 258,170" fill="none" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

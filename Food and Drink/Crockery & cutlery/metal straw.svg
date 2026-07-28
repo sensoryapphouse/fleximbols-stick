@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- stainless steel straw with slight bend -->
+  <!-- straw shaft (bent near top) -->
+  <path d="M 90 215 L 130 90 Q 135 70, 155 65 L 200 60" fill="none" stroke="#b8b8b8" stroke-width="32.58" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 90 215 L 130 90 Q 135 70, 155 65 L 200 60" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- metallic highlight -->
+  <path d="M 96 210 L 132 95 Q 138 78, 156 73 L 195 68" fill="none" stroke="#efefef" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- shadow line -->
+  <path d="M 100 213 L 138 95" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- end openings -->
+  <ellipse cx="90" cy="215" rx="11" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.70"/>
+  <ellipse cx="200" cy="60" rx="11" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.70" transform="rotate(-10 200 60)"/>
+  <!-- METAL label tag -->
+  <rect x="50" y="30" width="80" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- M -->
+  <path d="M 56 35 L 58 35 L 60 39 L 62 35 L 64 35 L 64 47 L 62 47 L 62 40 L 60 43 L 58 40 L 58 47 L 56 47 Z" fill="#000000"/>
+  <!-- E -->
+  <path d="M 66 35 L 72 35 L 72 37 L 68 37 L 68 40 L 71 40 L 71 42 L 68 42 L 68 45 L 72 45 L 72 47 L 66 47 Z" fill="#000000"/>
+  <!-- T -->
+  <path d="M 74 35 L 82 35 L 82 37 L 79 37 L 79 47 L 77 47 L 77 37 L 74 37 Z" fill="#000000"/>
+  <!-- A -->
+  <path d="M 84 47 L 86 35 L 88 35 L 90 47 L 88 47 L 88 44 L 86 44 L 86 47 Z" fill="#000000"/>
+  <!-- L -->
+  <path d="M 92 35 L 94 35 L 94 45 L 98 45 L 98 47 L 92 47 Z" fill="#000000"/>
+</g></svg>

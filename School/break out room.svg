@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Main large video window (left) -->
+  <rect x="10" y="30" width="155" height="118" rx="8" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Title bar on main window -->
+  <rect x="10" y="30" width="155" height="22" rx="8" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55"/>
+  <rect x="10" y="41" width="155" height="11" fill="#2a4ec0"/>
+  <!-- Head in main window -->
+  <circle cx="88" cy="96" r="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Body in main window -->
+  <path d="M56 148 Q56 124 88 124 Q120 124 120 148" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Arrow pointing right and down toward sub-window -->
+  <line x1="175" y1="120" x2="216" y2="148" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <polygon points="208,142 222,160 226,144" fill="#000000"/>
+  <!-- Sub-window (break-out room) bottom-right -->
+  <rect x="168" y="138" width="112" height="86" rx="7" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Title bar on sub-window -->
+  <rect x="168" y="138" width="112" height="18" rx="7" ry="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.55"/>
+  <rect x="168" y="148" width="112" height="9" fill="#ff9900"/>
+  <!-- Two small head silhouettes inside sub-window -->
+  <circle cx="210" cy="178" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M190 224 Q190 200 210 200 Q230 200 230 224" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="248" cy="178" r="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M228 224 Q228 200 248 200 Q268 200 268 224" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

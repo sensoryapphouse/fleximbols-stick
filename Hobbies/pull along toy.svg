@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- pull-along duck toy on a wheeled base -->
+<!-- base board -->
+<rect x="206" y="320" width="244" height="40" rx="14" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9"/>
+<!-- duck body -->
+<path d="M250 320 Q236 250 300 240 Q356 234 372 280 L372 320 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- duck head -->
+<circle cx="382" cy="234" r="40" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<!-- beak -->
+<path d="M418 226 L448 234 L418 248 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- eye -->
+<circle cx="392" cy="226" r="7" fill="#1a1a1a"/>
+<!-- wing -->
+<path d="M300 280 Q330 264 352 290 Q330 300 300 290 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- wheels -->
+<circle cx="256" cy="372" r="34" fill="#d63b46" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="372" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="396" cy="372" r="34" fill="#d63b46" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="396" cy="372" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<!-- ===== pull cord: from the anchor eyelet on the base, up to the wooden ring handle ===== -->
+<!-- anchor eyelet on the front-left corner of the base -->
+<circle cx="212" cy="340" r="12" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<!-- the string, joined to the eyelet at one end and the ring at the other -->
+<path d="M 200 340 Q 140 300 138 216 Q 138 178 150 160" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- wooden ring pull-handle (drawn last, on top of the string end) -->
+<circle cx="150" cy="138" r="34" fill="none" stroke="#c89a5b" stroke-width="16"/>
+<circle cx="150" cy="138" r="42" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="150" cy="138" r="26" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- fibre optic lamp: cone base with fanned glowing strands and light tips -->
+<!-- fanned fibre strands -->
+<g fill="none" stroke-width="7" stroke-linecap="round">
+<path d="M256 320 Q150 220 120 130" stroke="#e85a8a"/>
+<path d="M256 320 Q180 200 160 110" stroke="#f4c430"/>
+<path d="M256 320 Q215 190 205 98" stroke="#5aa83c"/>
+<path d="M256 320 Q250 185 256 92" stroke="#3d7fb5"/>
+<path d="M256 320 Q297 190 307 98" stroke="#8cc152"/>
+<path d="M256 320 Q332 200 352 110" stroke="#e08a3a"/>
+<path d="M256 320 Q362 220 392 130" stroke="#d63b46"/>
+<path d="M256 320 Q130 250 100 188" stroke="#3d7fb5"/>
+<path d="M256 320 Q382 250 412 188" stroke="#e85a8a"/>
+</g>
+<!-- glowing tips -->
+<g stroke="#1a1a1a" stroke-width="3">
+<circle cx="120" cy="130" r="7" fill="#e85a8a"/>
+<circle cx="160" cy="110" r="7" fill="#f4c430"/>
+<circle cx="205" cy="98" r="7" fill="#5aa83c"/>
+<circle cx="256" cy="92" r="7" fill="#3d7fb5"/>
+<circle cx="307" cy="98" r="7" fill="#8cc152"/>
+<circle cx="352" cy="110" r="7" fill="#e08a3a"/>
+<circle cx="392" cy="130" r="7" fill="#d63b46"/>
+<circle cx="100" cy="188" r="7" fill="#3d7fb5"/>
+<circle cx="412" cy="188" r="7" fill="#e85a8a"/>
+</g>
+<!-- cone base -->
+<path d="M214 320 L298 320 L322 410 L190 410 Z" fill="#9b59b6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="320" rx="42" ry="12" fill="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

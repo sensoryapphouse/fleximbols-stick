@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- UV LED curing lamp (dome with opening at front) -->
+  <path d="M30 80 L260 80 Q270 80 270 95 L270 140 Q270 155 260 155 L30 155 Q20 155 20 140 L20 95 Q20 80 30 80 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- lamp opening (front - dark cavity) -->
+  <rect x="40" y="155" width="210" height="20" fill="#392170" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- inner UV glow -->
+  <rect x="50" y="95" width="190" height="45" rx="6" ry="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- LED dots glowing inside lamp -->
+  <circle cx="75" cy="118" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="110" cy="118" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="118" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="180" cy="118" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="215" cy="118" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- lamp base -->
+  <rect x="35" y="175" width="220" height="20" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- hand sliding into the lamp from below opening -->
+  <path d="M70 230 Q70 195 100 190 L100 175 L200 175 L200 190 Q200 220 165 225 L100 225 Q75 225 70 215 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- visible fingertip nails (glossy gel) above hand inside lamp shadow -->
+  <ellipse cx="115" cy="175" rx="7" ry="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="135" cy="172" rx="7" ry="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="155" cy="172" rx="7" ry="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="175" cy="173" rx="7" ry="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- shine on nails -->
+  <ellipse cx="113" cy="173" rx="2" ry="1.5" fill="#ffffff"/>
+  <ellipse cx="133" cy="170" rx="2" ry="1.5" fill="#ffffff"/>
+  <ellipse cx="153" cy="170" rx="2" ry="1.5" fill="#ffffff"/>
+  <ellipse cx="173" cy="171" rx="2" ry="1.5" fill="#ffffff"/>
+  <!-- UV rays / shine emanating -->
+  <path d="M145 50 L145 70 M120 55 L128 73 M170 55 L162 73 M100 65 L115 78 M190 65 L175 78" stroke="#fff200" stroke-width="6.67" stroke-linecap="round" fill="none"/>
+  <circle cx="145" cy="40" r="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

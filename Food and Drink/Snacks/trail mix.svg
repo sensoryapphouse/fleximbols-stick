@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bowl back rim -->
+  <ellipse cx="145" cy="120" rx="110" ry="22" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- bowl body -->
+  <path d="M35 120 Q35 210 145 220 Q255 210 255 120 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- inner rim shadow -->
+  <ellipse cx="145" cy="120" rx="100" ry="16" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pile of mixed nuts and bits sitting in bowl -->
+  <!-- peanut/almond -->
+  <ellipse cx="80" cy="118" rx="14" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 80 118)"/>
+  <!-- raisin dark -->
+  <ellipse cx="105" cy="112" rx="8" ry="6" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- chocolate chunk -->
+  <rect x="118" y="106" width="16" height="12" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- almond -->
+  <ellipse cx="148" cy="108" rx="12" ry="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 148 108)"/>
+  <!-- raisin -->
+  <ellipse cx="172" cy="112" rx="8" ry="6" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- chocolate M shape -->
+  <circle cx="190" cy="114" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- peanut -->
+  <ellipse cx="210" cy="118" rx="14" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 210 118)"/>
+  <!-- second row, in front -->
+  <circle cx="70" cy="130" r="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="92" cy="128" rx="10" ry="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="108" y="122" width="14" height="11" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="135" cy="128" rx="8" ry="6" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="156" cy="130" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="180" cy="128" rx="10" ry="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="202" cy="130" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="222" cy="128" rx="10" ry="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

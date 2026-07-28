@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- 3D cube isometric: top, left, right faces -->
+  <!-- Top face -->
+  <polygon points="145,25 242,72 145,119 48,72" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Left face -->
+  <polygon points="48,72 145,119 145,215 48,168" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Right face -->
+  <polygon points="145,119 242,72 242,168 145,215" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+
+  <!-- TOP FACE: dial / joystick nub -->
+  <ellipse cx="145" cy="72" rx="18" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="69" rx="10" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- LEFT FACE: button (circular, raised) -->
+  <ellipse cx="82" cy="138" rx="16" ry="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="82" cy="136" rx="10" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Second small button -->
+  <ellipse cx="116" cy="158" rx="10" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="116" cy="157" rx="6" ry="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- RIGHT FACE: toggle switch -->
+  <!-- Switch track -->
+  <rect x="162" y="128" width="36" height="16" rx="8" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="skewY(-25) translate(0,38)"/>
+  <!-- Switch thumb (on position) -->
+  <circle cx="192" cy="151" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Scroll wheel on right face -->
+  <ellipse cx="175" cy="175" rx="14" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 175 175)"/>
+  <line x1="166" y1="171" x2="184" y2="179" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="166" y1="175" x2="184" y2="183" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="166" y1="167" x2="184" y2="175" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

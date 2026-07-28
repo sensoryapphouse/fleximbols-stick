@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dried fruit: bowl with mixed raisins, apricots, figs (wrinkled, shrunken shapes) -->
+
+  <!-- Bowl -->
+  <path d="M50,150 Q50,210 145,218 Q240,210 240,150 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="150" rx="95" ry="18" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Bowl inside rim shadow -->
+  <ellipse cx="145" cy="150" rx="82" ry="11" fill="#9d7246" stroke="none"/>
+  <ellipse cx="145" cy="148" rx="80" ry="9" fill="#7d5e23" stroke="none"/>
+
+  <!-- Dried apricot (large, orange-tan, wrinkled) -->
+  <path d="M85,130 Q72,128 72,118 Q72,106 86,104 Q102,104 104,118 Q104,130 85,130 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M78,118 Q85,114 92,118" fill="none" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M80,124 Q86,120 94,124" fill="none" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Dried apricot 2 -->
+  <path d="M200,128 Q188,126 188,116 Q188,104 202,102 Q218,102 220,116 Q220,128 200,128 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M194,116 Q202,112 210,116" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M194,122 Q202,118 212,122" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Dried fig (purple-brown teardrop with seeds dot pattern) -->
+  <path d="M145,98 Q130,98 128,114 Q128,132 145,134 Q162,132 162,114 Q160,98 145,98 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M143,98 L145,92 L148,98" fill="#67832d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <circle cx="138" cy="116" r="1.5" fill="#f5e7c4"/>
+  <circle cx="148" cy="118" r="1.5" fill="#f5e7c4"/>
+  <circle cx="142" cy="124" r="1.5" fill="#f5e7c4"/>
+  <circle cx="152" cy="124" r="1.5" fill="#f5e7c4"/>
+
+  <!-- Raisins (small dark wrinkled lumps) -->
+  <ellipse cx="115" cy="140" rx="8" ry="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M110,140 Q115,138 120,140" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+
+  <ellipse cx="135" cy="142" rx="7" ry="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M131,142 Q135,140 139,142" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+
+  <ellipse cx="170" cy="142" rx="8" ry="6" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M165,142 Q170,140 175,142" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+
+  <ellipse cx="100" cy="146" rx="7" ry="5" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="185" cy="144" rx="7" ry="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="155" cy="146" rx="6" ry="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="125" cy="148" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Wrinkle line on apricot 1 indicating dried -->
+  <path d="M82,112 Q90,108 96,112" fill="none" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

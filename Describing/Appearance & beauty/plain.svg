@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="66.06 54.96 378.18 378.18"><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- plain cupcake (full, arrow) vs decorated cupcake (faded) -->
+<!-- left: PLAIN cupcake -->
+<g transform="translate(150 300) scale(0.78)">
+<!-- wrapper -->
+<path d="M -64 0 L 64 0 L 50 96 L -50 96 Z" fill="#e0b070" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<g stroke="#1a1a1a" stroke-width="5">
+<line x1="-30" y1="6" x2="-40" y2="90"/>
+<line x1="0" y1="6" x2="0" y2="90"/>
+<line x1="30" y1="6" x2="40" y2="90"/>
+</g>
+<!-- plain dome top, no decoration -->
+<path d="M -72 0 Q -72 -70 0 -70 Q 72 -70 72 0 Z" fill="#d8c4a0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+<!-- right: DECORATED cupcake faded -->
+<g opacity="0.34" transform="translate(360 300) scale(0.78)">
+<path d="M -64 0 L 64 0 L 50 96 L -50 96 Z" fill="#f48fb1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<g stroke="#1a1a1a" stroke-width="5">
+<line x1="-30" y1="6" x2="-40" y2="90"/>
+<line x1="0" y1="6" x2="0" y2="90"/>
+<line x1="30" y1="6" x2="40" y2="90"/>
+</g>
+<!-- swirl frosting -->
+<path d="M -72 0 Q -72 -40 -36 -44 Q -44 -78 0 -78 Q 50 -82 44 -42 Q 78 -44 72 0 Z" fill="#fff0f5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cherry -->
+<circle cx="0" cy="-92" r="16" fill="#e0473c" stroke="#1a1a1a" stroke-width="7"/>
+<!-- sprinkles -->
+<g stroke="#7fd8ec" stroke-width="6" stroke-linecap="round">
+<line x1="-30" y1="-30" x2="-22" y2="-40"/>
+<line x1="20" y1="-26" x2="30" y2="-34"/>
+<line x1="-4" y1="-20" x2="6" y2="-26"/>
+</g>
+</g>
+<!-- green arrow at PLAIN (left) -->
+<line x1="178" y1="118" x2="178" y2="168" stroke="#1a1a1a" stroke-width="23.0" stroke-linecap="round"/><line x1="178" y1="168" x2="154" y2="142" stroke="#1a1a1a" stroke-width="23.0" stroke-linecap="round"/><line x1="178" y1="168" x2="202" y2="142" stroke="#1a1a1a" stroke-width="23.0" stroke-linecap="round"/><line x1="178" y1="118" x2="178" y2="168" stroke="#2f9e4a" stroke-width="17.5" stroke-linecap="round"/>
+<line x1="178" y1="168" x2="154" y2="142" stroke="#2f9e4a" stroke-width="17.5" stroke-linecap="round"/>
+<line x1="178" y1="168" x2="202" y2="142" stroke="#2f9e4a" stroke-width="17.5" stroke-linecap="round"/>
+</svg>

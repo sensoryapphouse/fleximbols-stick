@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 59.35 376.24 376.24">
+<!-- belt strap -->
+<rect x="96" y="216" width="320" height="80" rx="14" fill="#7a4a24" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- stitch line -->
+<rect x="112" y="232" width="288" height="48" rx="8" fill="none" stroke="#5c3417" stroke-width="5" stroke-dasharray="2 16" stroke-linecap="round"/>
+<!-- buckle -->
+<rect x="196" y="196" width="120" height="120" rx="16" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="196" y="196" width="120" height="120" rx="16" fill="none" stroke="#f2c14e" stroke-width="4"/>
+<rect x="220" y="220" width="72" height="72" rx="8" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<!-- prong -->
+<line x1="256" y1="226" x2="256" y2="180" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<circle cx="256" cy="256" r="9" fill="#1a1a1a"/>
+<!-- belt holes -->
+<circle cx="356" cy="256" r="9" fill="#3a2310"/>
+<circle cx="388" cy="256" r="9" fill="#3a2310"/>
+</svg>

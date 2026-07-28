@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Privacy curtain left -->
+  <path d="M10,20 L62,20 L62,220 Q42,210 22,220 Q14,222 10,220 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M22,30 L22,210" fill="none" stroke="#392170" stroke-width="4.45"/>
+  <path d="M36,30 L36,212" fill="none" stroke="#392170" stroke-width="4.45"/>
+  <path d="M50,30 L50,210" fill="none" stroke="#392170" stroke-width="4.45"/>
+  <!-- Privacy curtain right -->
+  <path d="M280,20 L228,20 L228,220 Q248,210 268,220 Q276,222 280,220 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M268,30 L268,210" fill="none" stroke="#392170" stroke-width="4.45"/>
+  <path d="M254,30 L254,212" fill="none" stroke="#392170" stroke-width="4.45"/>
+  <path d="M240,30 L240,210" fill="none" stroke="#392170" stroke-width="4.45"/>
+  <!-- Curtain rod -->
+  <rect x="6" y="14" width="278" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Phone center -->
+  <rect x="100" y="40" width="90" height="170" rx="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="108" y="56" width="74" height="138" rx="3" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Speaker -->
+  <rect x="134" y="46" width="22" height="4" rx="2" fill="#000000"/>
+  <!-- Home button -->
+  <circle cx="145" cy="202" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Private message bubble with heart-emoji -->
+  <path d="M114,72 L172,72 Q178,72 178,78 L178,108 Q178,114 172,114 L130,114 L120,124 L122,114 L114,114 Q108,114 108,108 L108,78 Q108,72 114,72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Heart inside bubble -->
+  <path d="M143,82 Q138,78 134,82 Q130,86 134,92 L143,102 L152,92 Q156,86 152,82 Q148,78 143,82 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Kiss / lips bubble (incoming) -->
+  <path d="M176,128 L118,128 Q112,128 112,134 L112,160 Q112,166 118,166 L160,166 L170,176 L168,166 L176,166 Q182,166 182,160 L182,134 Q182,128 176,128 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lips inside bubble -->
+  <path d="M132,144 Q138,138 145,144 Q152,138 158,144 Q154,154 145,154 Q136,154 132,144 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <line x1="145" y1="144" x2="145" y2="154" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Lock at bottom of screen -->
+  <rect x="132" y="174" width="26" height="20" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M138,174 L138,168 Q138,162 145,162 Q152,162 152,168 L152,174" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="184" r="2.5" fill="#000000"/>
+  <!-- Heart sparkles -->
+  <path d="M76,80 Q72,76 68,80 Q64,84 68,88 L76,96 L84,88 Q88,84 84,80 Q80,76 76,80 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M214,150 Q210,146 206,150 Q202,154 206,158 L214,166 L222,158 Q226,154 222,150 Q218,146 214,150 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+</g></svg>

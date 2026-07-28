@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- clock radio: boxy unit with red digital time + speaker + knob -->
+<!-- body -->
+<rect x="96" y="190" width="320" height="160" rx="16" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9"/>
+<!-- top -->
+<path d="M120 190 L392 190 L416 168 L144 168 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- digital clock display panel -->
+<rect x="120" y="232" width="150" height="80" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<!-- red 7-seg style digits drawn as bars: 8:88 -->
+<g stroke="#e23c3c" stroke-width="9" stroke-linecap="round">
+<line x1="142" y1="252" x2="142" y2="276"/>
+<line x1="142" y1="276" x2="142" y2="298"/>
+<line x1="142" y1="252" x2="160" y2="252"/>
+<line x1="142" y1="298" x2="160" y2="298"/>
+<line x1="160" y1="252" x2="160" y2="276"/>
+<line x1="160" y1="276" x2="160" y2="298"/>
+<line x1="142" y1="275" x2="160" y2="275"/>
+</g>
+<circle cx="178" cy="262" r="5" fill="#e23c3c"/>
+<circle cx="178" cy="288" r="5" fill="#e23c3c"/>
+<g stroke="#e23c3c" stroke-width="9" stroke-linecap="round">
+<line x1="196" y1="252" x2="196" y2="276"/>
+<line x1="196" y1="276" x2="196" y2="298"/>
+<line x1="196" y1="252" x2="214" y2="252"/>
+<line x1="196" y1="298" x2="214" y2="298"/>
+<line x1="214" y1="252" x2="214" y2="276"/>
+<line x1="214" y1="276" x2="214" y2="298"/>
+<line x1="196" y1="275" x2="214" y2="275"/>
+<line x1="232" y1="252" x2="232" y2="276"/>
+<line x1="232" y1="276" x2="232" y2="298"/>
+<line x1="232" y1="252" x2="250" y2="252"/>
+<line x1="232" y1="298" x2="250" y2="298"/>
+<line x1="250" y1="252" x2="250" y2="276"/>
+<line x1="250" y1="276" x2="250" y2="298"/>
+<line x1="232" y1="275" x2="250" y2="275"/>
+</g>
+<!-- speaker grille (right) -->
+<rect x="296" y="232" width="96" height="80" rx="8" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="312" y1="248" x2="376" y2="248" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="312" y1="266" x2="376" y2="266" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="312" y1="284" x2="376" y2="284" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="312" y1="300" x2="376" y2="300" stroke="#1a1a1a" stroke-width="5"/>
+<!-- feet -->
+<rect x="130" y="350" width="24" height="18" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="358" y="350" width="24" height="18" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

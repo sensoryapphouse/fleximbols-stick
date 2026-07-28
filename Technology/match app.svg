@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- background -->
+  <rect x="0" y="200" width="290" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- phone body -->
+  <rect x="90" y="14" width="110" height="200" rx="14" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- screen -->
+  <rect x="100" y="30" width="90" height="170" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- profile photo card -->
+  <rect x="108" y="38" width="74" height="90" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- head on card -->
+  <circle cx="145" cy="76" r="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M129 70 Q131 56 145 56 Q160 56 160 70 Q154 65 145 65 Q136 65 129 70 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <circle cx="140" cy="77" r="1.5" fill="#000000"/>
+  <circle cx="150" cy="77" r="1.5" fill="#000000"/>
+  <path d="M140 84 Q145 88 150 84" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- shoulders on card -->
+  <path d="M125 100 Q145 92 165 100 L168 124 L122 124 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- big heart match indicator overlapping card -->
+  <path d="M155 140 Q150 132 142 132 Q132 132 132 142 Q132 154 155 172 Q178 154 178 142 Q178 132 168 132 Q160 132 155 140 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- check inside heart -->
+  <path d="M146 148 L152 156 L165 144" fill="none" stroke="#ffffff" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- swipe-right arrow below -->
+  <path d="M108 188 L182 188" fill="none" stroke="#137827" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M182 188 L170 180 L170 196 Z" fill="#137827" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- finger swiping (hand) on right side outside phone -->
+  <path d="M210 90 L240 110 L245 130 L235 135 L222 132 L218 145 L208 142 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="218" cy="100" r="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- speaker on phone top -->
+  <rect x="135" y="22" width="20" height="4" rx="2" ry="2" fill="#000000"/>
+  <!-- home indicator -->
+  <rect x="130" y="205" width="30" height="4" rx="2" ry="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- small heart sparkle top left -->
+  <path d="M40 60 Q37 54 31 54 Q24 54 24 60 Q24 68 40 80 Q56 68 56 60 Q56 54 49 54 Q43 54 40 60 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M40 30 L40 42" stroke="#f7de58" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M30 38 L50 38" stroke="#f7de58" stroke-width="5.33" stroke-linecap="round"/>
+</g></svg>

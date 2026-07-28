@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- pointed ears -->
+<path d="M 196 196 L 176 120 L 240 168 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 316 196 L 336 120 L 272 168 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<path d="M 168 232 Q 168 168 256 168 Q 344 168 344 232 Q 344 296 300 320 L 300 320 L 256 372 L 212 320 Q 168 296 168 232 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- snout/muzzle lighter -->
+<path d="M 218 308 L 256 360 L 294 308 Q 280 332 256 332 Q 232 332 218 308 Z" fill="#e6ecf0" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 224 296 Q 256 312 288 296 L 288 314 Q 256 330 224 314 Z" fill="#e6ecf0" stroke="#1a1a1a" stroke-width="0"/>
+<!-- nose -->
+<path d="M 244 318 L 268 318 L 256 332 Z" fill="#1a1a1a"/>
+<!-- eyes (almond) -->
+<path d="M 198 244 Q 214 232 230 244 Q 214 254 198 244 Z" fill="#1a1a1a"/>
+<path d="M 282 244 Q 298 232 314 244 Q 298 254 282 244 Z" fill="#1a1a1a"/>
+<circle cx="210" cy="242" r="3.2" fill="#ffffff"/>
+<circle cx="294" cy="242" r="3.2" fill="#ffffff"/>
+</svg>

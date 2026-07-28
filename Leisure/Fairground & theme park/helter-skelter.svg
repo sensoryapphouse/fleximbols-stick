@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-7.41 18.19 436.36 436.36">
+<!-- tower body (tapered tube) -->
+<path d="M 206 380 L 224 150 L 288 150 L 306 380 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- candy stripes on tower -->
+<path d="M 219 200 L 293 200 L 290 168 L 222 168 Z" fill="#e23c3c" stroke="none"/>
+<path d="M 215 264 L 297 264 L 294 232 L 218 232 Z" fill="#e23c3c" stroke="none"/>
+<path d="M 211 328 L 301 328 L 298 296 L 214 296 Z" fill="#e23c3c" stroke="none"/>
+<path d="M 206 380 L 224 150 L 288 150 L 306 380 Z" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- helical slide wrapping the tower -->
+<path d="M 296 196 Q 150 214 196 250 Q 318 268 300 300 Q 150 318 192 350 Q 330 366 300 392 Q 200 410 150 410" fill="none" stroke="#3a8fd6" stroke-width="15" stroke-linecap="round"/>
+<path d="M 296 196 Q 150 214 196 250 Q 318 268 300 300 Q 150 318 192 350 Q 330 366 300 392 Q 200 410 150 410" fill="none" stroke="#bfe0f5" stroke-width="5" stroke-linecap="round"/>
+<!-- conical roof -->
+<path d="M 256 70 L 214 156 L 298 156 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- flag -->
+<line x1="256" y1="70" x2="256" y2="48" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 50 L 292 60 L 256 70 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- exit mat -->
+<ellipse cx="148" cy="412" rx="36" ry="12" fill="#cfe6c9" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

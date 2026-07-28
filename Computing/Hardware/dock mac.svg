@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- screen (NOT full canvas - inset rounded) -->
+  <rect x="20" y="20" width="250" height="195" rx="14" ry="14" fill="#90a7d6" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"></rect>
+  <!-- sun in upper area -->
+  <circle cx="230" cy="55" r="14" fill="#fff200" stroke="#1a1a1a" stroke-width="6.67"></circle>
+  <!-- mountain wallpaper -->
+  <path d="M 28,165 L 80,110 L 130,150 L 175,95 L 230,160 L 262,140 L 262,170 L 28,170 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
+  <!-- dock bar at bottom: translucent rounded rectangle -->
+  <rect x="40" y="178" width="210" height="32" rx="14" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"></rect>
+  <!-- inner highlight line on dock -->
+  <path d="M 50,184 L 240,184" stroke="#ffffff" stroke-width="3.33"></path>
+  <!-- dock app icons with MAGNIFICATION: middle icon is larger -->
+  <!-- icon 1 (small) -->
+  <rect x="52" y="188" width="18" height="18" rx="4" ry="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <!-- icon 2 (medium) -->
+  <rect x="76" y="184" width="22" height="22" rx="5" ry="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <!-- icon 3 (large - magnified) -->
+  <rect x="104" y="172" width="34" height="34" rx="7" ry="7" fill="#137827" stroke="#1a1a1a" stroke-width="6.67"></rect>
+  <!-- a smiley face on the magnified icon to suggest it's hovered -->
+  <circle cx="115" cy="184" r="2" fill="#ffffff"></circle>
+  <circle cx="127" cy="184" r="2" fill="#ffffff"></circle>
+  <path d="M 114,194 Q 121,200 128,194" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"></path>
+  <!-- icon 4 (medium) -->
+  <rect x="144" y="184" width="22" height="22" rx="5" ry="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <!-- icon 5 (small) -->
+  <rect x="172" y="188" width="18" height="18" rx="4" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <!-- icon 6 (small) -->
+  <rect x="196" y="188" width="18" height="18" rx="4" ry="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <!-- trash can icon on far right -->
+  <rect x="222" y="188" width="18" height="18" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <path d="M 225,188 L 237,188 M 231,191 L 231,203" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"></path>
+  <!-- arrow pointing at the dock from below -->
+  <path d="M 135,232 L 135,222 L 128,222 L 145,212 L 162,222 L 155,222 L 155,232 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"></path>
+</g></svg>

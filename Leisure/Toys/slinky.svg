@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Step surface top -->
+  <rect x="22" y="110" width="130" height="18" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Step riser -->
+  <rect x="130" y="128" width="18" height="100" rx="4" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Step surface bottom -->
+  <rect x="130" y="210" width="138" height="18" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Slinky coils: helical spring stretching from top step down to bottom step -->
+  <!-- Each coil is an ellipse arc pair suggesting a 3D helix -->
+  <!-- Coil 1 (top, resting on upper step) -->
+  <path d="M55,110 Q110,95 165,110" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M55,110 Q110,125 165,110" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Coil 2 -->
+  <path d="M58,122 Q113,107 168,122" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M58,122 Q113,137 168,122" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Coil 3 -->
+  <path d="M65,136 Q120,120 175,136" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M65,136 Q120,151 175,136" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Coil 4 -->
+  <path d="M72,152 Q127,136 182,152" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M72,152 Q127,167 182,152" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Coil 5 -->
+  <path d="M82,169 Q137,153 192,169" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M82,169 Q137,184 192,169" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Coil 6 -->
+  <path d="M92,186 Q147,170 202,186" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M92,186 Q147,201 202,186" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Coil 7 (bottom, resting on lower step) -->
+  <path d="M100,202 Q160,187 220,202" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M100,202 Q160,215 220,210" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

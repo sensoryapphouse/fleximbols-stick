@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="81.45 68.65 349.09 349.09">
+<!-- watercolour: paint box with colour pans + brush -->
+<!-- palette tray -->
+<rect x="108" y="250" width="296" height="130" rx="20" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- colour pans row 1 -->
+<rect x="130" y="270" width="56" height="42" rx="6" fill="#d63b46" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="194" y="270" width="56" height="42" rx="6" fill="#e08a3a" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="258" y="270" width="56" height="42" rx="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="322" y="270" width="56" height="42" rx="6" fill="#5aa83c" stroke="#1a1a1a" stroke-width="6"/>
+<!-- colour pans row 2 -->
+<rect x="162" y="320" width="56" height="42" rx="6" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="226" y="320" width="56" height="42" rx="6" fill="#4a90d9" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="290" y="320" width="56" height="42" rx="6" fill="#e85a8a" stroke="#1a1a1a" stroke-width="6"/>
+<!-- brush handle -->
+<line x1="318" y1="108" x2="232" y2="262" stroke="#8a5a2b" stroke-width="14" stroke-linecap="round"/>
+<!-- ferrule -->
+<line x1="244" y1="240" x2="232" y2="262" stroke="#9aa0a6" stroke-width="15" stroke-linecap="round"/>
+<!-- bristles -->
+<path d="M 232 262 L 218 286 L 234 288 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- water drop accent -->
+<path d="M 150 160 Q 168 188 150 200 Q 132 188 150 160 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

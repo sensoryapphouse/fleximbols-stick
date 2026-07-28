@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Laptop base -->
+  <rect x="35" y="148" width="220" height="18" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Laptop hinge -->
+  <rect x="120" y="140" width="50" height="12" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Laptop screen bezel -->
+  <rect x="55" y="32" width="180" height="118" rx="10" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Screen surface -->
+  <rect x="65" y="42" width="160" height="98" rx="6" ry="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Code: </> on screen -->
+  <!-- < bracket -->
+  <polyline points="90,75 72,91 90,107" fill="none" stroke="#f7de58" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- > bracket -->
+  <polyline points="130,75 148,91 130,107" fill="none" stroke="#f7de58" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- / slash -->
+  <line x1="118" y1="72" x2="102" y2="110" stroke="#f8130d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Fast-forward / intensity motif: double chevrons bottom-right of screen -->
+  <polyline points="162,100 175,91 162,82" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="174,100 187,91 174,82" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Clock face (intensity: time pressure) -->
+  <circle cx="210" cy="55" r="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="210" y1="55" x2="210" y2="43" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="210" y1="55" x2="220" y2="60" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Clock speed lines -->
+  <line x1="228" y1="44" x2="236" y2="38" stroke="#f8130d" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="230" y1="55" x2="240" y2="55" stroke="#f8130d" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="228" y1="66" x2="236" y2="72" stroke="#f8130d" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

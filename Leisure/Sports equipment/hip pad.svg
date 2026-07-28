@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- hip pad: protective insert at waist, sports context -->
+  <!-- compression shorts silhouette (upper body waist + thighs) -->
+  <path d="M 60 40 L 230 40 L 240 130 L 220 220 L 165 220 L 145 150 L 125 220 L 70 220 L 50 130 Z" fill="#000000" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- shorts inner panel -->
+  <path d="M 70 50 L 220 50 L 228 125 L 212 210 L 175 210 L 145 145 L 115 210 L 78 210 L 62 125 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- waistband -->
+  <rect x="55" y="35" width="180" height="22" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- waistband stitching -->
+  <path d="M 60 50 L 230 50" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- LEFT hip protective insert (visible through fabric outline) -->
+  <path d="M 65 75 C 55 95, 55 130, 70 150 C 90 158, 105 150, 108 130 C 110 105, 105 80, 95 70 C 85 65, 72 65, 65 75 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- left insert internal padding lines -->
+  <path d="M 70 90 C 75 85, 95 85, 100 90" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 67 110 C 75 105, 100 105, 105 112" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 70 130 C 78 128, 100 128, 105 132" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- RIGHT hip protective insert -->
+  <path d="M 225 75 C 235 95, 235 130, 220 150 C 200 158, 185 150, 182 130 C 180 105, 185 80, 195 70 C 205 65, 218 65, 225 75 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M 220 90 C 215 85, 195 85, 190 90" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 223 110 C 215 105, 190 105, 185 112" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 220 130 C 212 128, 190 128, 185 132" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- TAILBONE / center insert -->
+  <ellipse cx="145" cy="100" rx="22" ry="32" fill="#ff9900" stroke="#1a1a1a" stroke-width="8.89"/>
+  <path d="M 145 80 L 145 120" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- patio: a paved slabbed area with a planter, shown in slight perspective -->
+<!-- paved area (perspective slab field) -->
+<path d="M 120 360 L 392 360 L 350 200 L 162 200 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- horizontal slab lines -->
+<line x1="150" y1="307" x2="362" y2="307" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="170" y1="253" x2="342" y2="253" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- vertical slab lines (front row) -->
+<line x1="190" y1="360" x2="200" y2="307" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="256" y1="360" x2="256" y2="307" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="322" y1="360" x2="312" y2="307" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- vertical slab lines (back row) -->
+<line x1="222" y1="253" x2="218" y2="307" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="290" y1="253" x2="294" y2="307" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- terracotta planter pot on patio: wide rim, tapering bowl (clearly a pot, not a chimney) -->
+<path d="M 286 158 L 348 158 L 336 200 L 298 200 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<rect x="278" y="144" width="78" height="20" rx="6" fill="#c96f28" stroke="#1a1a1a" stroke-width="8"/>
+<!-- bushy plant in planter -->
+<circle cx="300" cy="126" r="20" fill="#5aa83c" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="334" cy="126" r="20" fill="#5aa83c" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="317" cy="108" r="22" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Phone body -->
+  <rect x="82" y="22" width="126" height="196" rx="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Phone screen -->
+  <rect x="92" y="36" width="106" height="172" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Camera notch -->
+  <circle cx="145" cy="30" r="4" fill="#000000" stroke="none"/>
+  <!-- Flame icon top-centre of screen -->
+  <path d="M 145 52 Q 138 62 136 72 Q 134 82 140 88 Q 136 78 144 76 Q 140 86 145 92 Q 150 86 146 76 Q 154 78 150 88 Q 156 82 154 72 Q 152 62 145 52 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Flame inner highlight -->
+  <path d="M 145 64 Q 141 72 142 78 Q 145 74 148 78 Q 149 72 145 64 Z" fill="#f7de58" stroke="none"/>
+  <!-- Calorie digits "1 8 4 0" in 7-segment style, fill=#f8130d -->
+  <!-- Digit "1" at x=108 -->
+  <line x1="115" y1="103" x2="115" y2="110" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="115" y1="111" x2="115" y2="118" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- comma -->
+  <circle cx="119" cy="117" r="1.5" fill="#f8130d"/>
+  <!-- Digit "8" at x=122 -->
+  <line x1="123" y1="102" x2="129" y2="102" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="122" y1="103" x2="122" y2="109" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="130" y1="103" x2="130" y2="109" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="123" y1="110" x2="129" y2="110" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="122" y1="111" x2="122" y2="117" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="130" y1="111" x2="130" y2="117" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="123" y1="118" x2="129" y2="118" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Digit "4" at x=133 -->
+  <line x1="133" y1="103" x2="133" y2="109" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="141" y1="103" x2="141" y2="109" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="133" y1="110" x2="140" y2="110" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="141" y1="111" x2="141" y2="117" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Digit "0" at x=144 -->
+  <line x1="145" y1="102" x2="151" y2="102" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="144" y1="103" x2="144" y2="109" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="152" y1="103" x2="152" y2="109" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="144" y1="111" x2="144" y2="117" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="152" y1="111" x2="152" y2="117" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="118" x2="151" y2="118" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- kcal indicator: small flame-like drawn mark (two short rising lines) -->
+  <line x1="130" y1="138" x2="128" y2="130" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="137" y1="138" x2="137" y2="129" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="144" y1="138" x2="146" y2="130" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Divider line -->
+  <line x1="100" y1="152" x2="190" y2="152" stroke="#efefef" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Macro bars row -->
+  <!-- Carbs colour swatch dot + bar -->
+  <circle cx="104" cy="173" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="100" y="170" width="80" height="7" rx="3" fill="#efefef" stroke="none"/>
+  <rect x="100" y="170" width="52" height="7" rx="3" fill="#f7de58" stroke="none"/>
+  <!-- Protein colour swatch dot + bar -->
+  <circle cx="104" cy="191" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="100" y="188" width="80" height="7" rx="3" fill="#efefef" stroke="none"/>
+  <rect x="100" y="188" width="38" height="7" rx="3" fill="#2a4ec0" stroke="none"/>
+  <!-- Fat colour swatch dot + bar -->
+  <circle cx="104" cy="209" r="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="100" y="206" width="80" height="7" rx="3" fill="#efefef" stroke="none"/>
+  <rect x="100" y="206" width="28" height="7" rx="3" fill="#ff9900" stroke="none"/>
+  <!-- Ring gauge around flame (progress circle) -->
+  <circle cx="145" cy="72" r="28" fill="none" stroke="#efefef" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 145 44 A 28 28 0 1 1 120 90" fill="none" stroke="#f8130d" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

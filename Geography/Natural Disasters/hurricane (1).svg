@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ocean background -->
+  <rect x="26" y="16" width="238" height="208" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Deep ocean bottom -->
+  <path d="M26,198 Q56,190 86,198 Q116,206 146,198 Q176,190 206,198 Q236,206 264,198 L264,224 L26,224 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Coastline strip -->
+  <path d="M26,210 Q80,204 130,214 Q162,220 200,210 L264,216 L264,224 L26,224 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Palm tree left (leaning in wind) -->
+  <line x1="44" y1="220" x2="50" y2="184" stroke="#5e1f0a" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M50,184 Q34,174 28,162 Q42,166 50,176" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M50,184 Q56,168 68,162 Q64,174 54,180" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M50,184 Q42,170 36,158 Q48,164 52,176" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Palm tree right (bent hard right in storm) -->
+  <path d="M242,222 Q246,198 250,178" fill="none" stroke="#5e1f0a" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M250,178 Q236,168 230,156 Q244,160 252,172" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M250,178 Q256,162 268,158 Q264,170 254,174" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Hurricane warning triangle sign -->
+  <polygon points="216,220 226,202 236,220" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="226" y1="208" x2="226" y2="213" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="226" cy="216" r="1.5" fill="#000000"/>
+  <!-- Hurricane spiral from above: large outer spiral band -->
+  <path d="M145,110 Q222,56 244,112 Q264,168 222,200 Q176,226 128,210 Q70,192 50,146 Q30,96 70,58 Q106,24 145,38 Q202,52 220,98" fill="none" stroke="#7f7f7f" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- Middle spiral band -->
+  <path d="M145,110 Q200,74 214,110 Q228,148 200,174 Q172,196 138,186 Q96,170 82,140 Q68,108 92,82 Q116,58 145,68 Q192,80 204,112" fill="none" stroke="#b8b8b8" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Inner spiral band -->
+  <path d="M145,110 Q178,90 186,112 Q194,136 172,152 Q150,168 130,160 Q106,150 102,128 Q98,106 118,94 Q136,82 145,92 Q168,100 172,118" fill="none" stroke="#7f7f7f" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Eye wall ring -->
+  <circle cx="145" cy="116" r="26" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Clear eye of the storm -->
+  <circle cx="145" cy="116" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="116" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

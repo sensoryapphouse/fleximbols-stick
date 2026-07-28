@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Universal remote: multiple device-selector buttons at top + 'UNIVERSAL' label as paths -->
+  <!-- Body -->
+  <rect x="80" y="10" width="130" height="220" rx="18" ry="18" fill="#000000" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <rect x="84" y="14" width="122" height="212" rx="15" ry="15" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Device selector row (4 buttons: TV, DVD, AUX, SAT) -->
+  <rect x="92" y="22" width="24" height="18" rx="3" ry="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="120" y="22" width="24" height="18" rx="3" ry="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="148" y="22" width="24" height="18" rx="3" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="176" y="22" width="24" height="18" rx="3" ry="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tiny letters on devices: dots -->
+  <circle cx="104" cy="31" r="2" fill="#ffffff"/>
+  <circle cx="132" cy="31" r="2" fill="#ffffff"/>
+  <circle cx="160" cy="31" r="2" fill="#ffffff"/>
+  <circle cx="188" cy="31" r="2" fill="#ffffff"/>
+  <!-- Power button -->
+  <circle cx="145" cy="86" r="11" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="145" y1="79" x2="145" y2="88" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- D-pad -->
+  <circle cx="145" cy="125" r="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="125" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Channel/Vol rockers -->
+  <rect x="98" y="155" width="34" height="20" rx="10" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="115" y1="155" x2="115" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="158" y="155" width="34" height="20" rx="10" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="175" y1="155" x2="175" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Number pad 3x3 -->
+  <circle cx="108" cy="190" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="190" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="182" cy="190" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="108" cy="208" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="208" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="182" cy="208" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- multi-device icon (replaces UNIVERSAL label) -->
+  <rect x="30" y="185" width="230" height="42" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="42" y="192" width="26" height="20" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="75" y="195" width="20" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="120" cy="202" r="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="138" y="192" width="22" height="20" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M172 202 Q180 194 188 202 Q180 210 172 202 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

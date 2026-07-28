@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Linear accelerator machine aiming beam at patient on table -->
+  <!-- Floor -->
+  <path d="M10 220 L280 220" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Gantry arm (linac) - large C-arm -->
+  <!-- Gantry mount on left -->
+  <rect x="14" y="40" width="40" height="160" rx="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Indicator -->
+  <circle cx="34" cy="58" r="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="34" cy="74" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Rotating gantry head -->
+  <rect x="50" y="50" width="100" height="40" rx="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Beam aperture (nozzle pointing down) -->
+  <path d="M100 90 L130 90 L122 112 L108 112 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Radiation beam (yellow triangle) -->
+  <path d="M108 112 L122 112 L150 168 L80 168 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Beam inner accent -->
+  <path d="M111 116 L119 116 L138 162 L92 162 Z" fill="#fff200" stroke="none"/>
+  <!-- Radiation symbol on beam -->
+  <circle cx="115" cy="140" r="6" fill="#000000"/>
+  <path d="M115 140 L115 128 L122 134 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M115 140 L126 146 L122 152 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M115 140 L104 146 L108 152 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+
+  <!-- Patient table -->
+  <rect x="60" y="170" width="220" height="18" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Table base -->
+  <rect x="200" y="188" width="20" height="32" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Patient lying on table (full body in profile from above) -->
+  <!-- Head -->
+  <circle cx="252" cy="160" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hair tuft -->
+  <path d="M242 152 Q252 144 262 152" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Torso -->
+  <rect x="155" y="152" width="92" height="22" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <rect x="80" y="156" width="76" height="16" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <path d="M80 158 L70 162 L70 170 L80 172 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Arm visible at side -->
+  <path d="M210 174 L215 188" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

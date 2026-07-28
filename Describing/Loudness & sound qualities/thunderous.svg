@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="63.15 80.21 426.67 426.67"><!-- thunderous: storm cloud with a big lightning bolt -->
+<!-- cloud -->
+<path d="M 132 232 Q 110 168 176 156 Q 196 110 256 120 Q 300 96 344 136 Q 410 130 410 196 Q 452 206 440 256 Q 432 292 388 290 L 156 290 Q 108 286 112 252 Q 114 234 132 232 Z" fill="#9aa7b5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- darker underside -->
+<path d="M 160 290 L 388 290 Q 420 290 432 270 L 150 270 Q 128 280 160 290 Z" fill="#6b7682" stroke="#1a1a1a" stroke-width="0"/>
+<!-- lightning bolt -->
+<polygon points="262,288 210,392 256,392 214,476 332,356 280,356 322,288" fill="#f6cf3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rumble waves -->
+<g fill="none" stroke="#2f9e4a" stroke-width="9" stroke-linecap="round">
+<path d="M 372 350 Q 404 384 372 418"/>
+<path d="M 408 332 Q 456 384 408 436"/>
+</g>
+</svg>

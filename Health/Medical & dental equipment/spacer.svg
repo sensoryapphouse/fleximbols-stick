@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="94.60 74.98 300.61 300.61"><g>
+<!-- spacer chamber tube (asthma spacer holding an inhaler) -->
+<rect x="150" y="216" width="180" height="80" rx="40" fill="#dbeefb" stroke="#1a1a1a" stroke-width="9"/>
+<!-- chamber ribs -->
+<line x1="196" y1="222" x2="196" y2="290" stroke="#9fd0ef" stroke-width="5" stroke-linecap="round"/>
+<line x1="236" y1="220" x2="236" y2="292" stroke="#9fd0ef" stroke-width="5" stroke-linecap="round"/>
+<line x1="276" y1="222" x2="276" y2="290" stroke="#9fd0ef" stroke-width="5" stroke-linecap="round"/>
+<!-- mouthpiece end -->
+<path d="M 330 230 Q 372 230 372 256 Q 372 282 330 282 Z" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inhaler canister socketed in the back end -->
+<rect x="120" y="232" width="36" height="48" rx="6" fill="#4a8cc8" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="118" y="170" width="40" height="66" rx="10" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="126" y="152" width="24" height="24" rx="4" fill="#39414b" stroke="#1a1a1a" stroke-width="7"/>
+</g></svg>

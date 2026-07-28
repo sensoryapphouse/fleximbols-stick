@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground mound -->
+  <path d="M20 200 Q145 175 270 200 L270 220 L20 220 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- grass tufts -->
+  <path d="M40 200 L45 188 L50 200 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M230 200 L235 188 L240 200 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- planted sapling trunk (central) -->
+  <rect x="138" y="120" width="14" height="70" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- sapling leaves -->
+  <ellipse cx="120" cy="110" rx="22" ry="18" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="170" cy="105" rx="24" ry="20" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="145" cy="85" rx="26" ry="22" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- shovel/spade planted in ground -->
+  <rect x="55" y="100" width="6" height="80" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M48 180 L68 180 L65 205 L51 205 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- seven species around -->
+  <!-- wheat sheaf left -->
+  <path d="M30 130 L30 165" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <ellipse cx="30" cy="125" rx="5" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="25" cy="135" rx="4" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="35" cy="135" rx="4" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- barley -->
+  <path d="M75 60 L75 95" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <ellipse cx="75" cy="55" rx="5" ry="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- grape cluster top -->
+  <circle cx="145" cy="28" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="32" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="32" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="40" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="40" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="48" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- fig top right -->
+  <path d="M215 45 Q220 35 230 38 Q240 35 245 45 Q245 60 230 65 Q215 60 215 45 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pomegranate right -->
+  <circle cx="255" cy="100" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M250 86 L252 92 L258 90 L255 95" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- olive -->
+  <ellipse cx="260" cy="150" rx="8" ry="11" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- date fruit -->
+  <ellipse cx="25" cy="80" rx="7" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

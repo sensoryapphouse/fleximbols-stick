@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ceiling line -->
+  <rect x="20" y="20" width="250" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="20" y1="34" x2="270" y2="34" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- mounting plate -->
+  <circle cx="145" cy="60" r="28" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- main detector disc -->
+  <ellipse cx="145" cy="120" rx="92" ry="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="118" rx="92" ry="56" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- rim -->
+  <ellipse cx="145" cy="118" rx="78" ry="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- speaker vents -->
+  <circle cx="110" cy="108" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="124" cy="100" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="166" cy="100" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="180" cy="108" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="110" cy="128" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="180" cy="128" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- CO label panel -->
+  <rect x="125" y="118" width="40" height="22" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- CO indicator dots, forming letters via shapes -->
+  <circle cx="135" cy="129" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="155" cy="129" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- status LED blinking red (alert) -->
+  <circle cx="145" cy="152" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- alert signal arcs (WiFi) -->
+  <path d="M 215 70 q 14 0 24 10" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 215 58 q 22 0 38 16" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 215 46 q 30 0 52 22" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- alert sound waves -->
+  <path d="M 55 170 q -10 -10 -16 -22" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 65 184 q -16 -8 -28 -16" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 230 170 q 10 -10 16 -22" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 225 184 q 16 -8 28 -16" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

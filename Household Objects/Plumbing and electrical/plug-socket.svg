@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- UK twin wall socket faceplate with switches -->
+<!-- faceplate -->
+<rect x="116" y="146" width="280" height="220" rx="22" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- mounting screws -->
+<circle cx="256" cy="172" r="8" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="340" r="8" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="4"/>
+<!-- LEFT outlet block -->
+<!-- earth (top) -->
+<rect x="158" y="206" width="22" height="40" rx="4" fill="#3a3f45" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- live + neutral (bottom pair) -->
+<rect x="138" y="262" width="36" height="20" rx="4" fill="#3a3f45" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="166" y="262" width="36" height="20" rx="4" fill="#3a3f45" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- RIGHT outlet block -->
+<rect x="332" y="206" width="22" height="40" rx="4" fill="#3a3f45" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="310" y="262" width="36" height="20" rx="4" fill="#3a3f45" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="338" y="262" width="36" height="20" rx="4" fill="#3a3f45" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- rocker switches -->
+<rect x="150" y="306" width="60" height="30" rx="8" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<rect x="302" y="306" width="60" height="30" rx="8" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

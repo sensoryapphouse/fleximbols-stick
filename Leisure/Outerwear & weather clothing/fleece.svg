@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="87.27 94.95 337.45 337.45">
+<!-- left sleeve -->
+<path d="M 156 172 L 112 214 L 136 274 L 178 244 Z" fill="#b65a8e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve -->
+<path d="M 356 172 L 400 214 L 376 274 L 334 244 Z" fill="#b65a8e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cuffs -->
+<path d="M 112 214 L 136 274" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- body -->
+<path d="M 156 172 L 200 144 L 312 144 L 356 172 L 334 244 L 338 396 L 256 406 L 174 396 L 178 244 Z" fill="#d873ab" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- stand-up collar -->
+<path d="M 200 144 L 226 122 L 286 122 L 312 144 Z" fill="#b65a8e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- half zip -->
+<line x1="256" y1="124" x2="256" y2="250" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="256" cy="244" r="9" fill="#fff6cf" stroke="#1a1a1a" stroke-width="6"/>
+<!-- fleece texture dashes -->
+<g stroke="#b65a8e" stroke-width="5" stroke-linecap="round">
+<line x1="196" y1="300" x2="216" y2="300"/>
+<line x1="296" y1="300" x2="316" y2="300"/>
+<line x1="196" y1="340" x2="216" y2="340"/>
+<line x1="296" y1="340" x2="316" y2="340"/>
+</g>
+</svg>

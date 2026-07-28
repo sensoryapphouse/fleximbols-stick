@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- doorway on the right -->
+<rect x="372" y="92" width="92" height="328" rx="0" fill="#eaf6ec" stroke="#2f9e4a" stroke-width="13"/>
+<rect x="382" y="240" width="14" height="36" rx="3" fill="#2f9e4a"/>
+<!-- running figure (green), facing left toward the exit, well clear of the door -->
+<g fill="#2f9e4a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+<circle cx="252" cy="116" r="30"/>
+<!-- torso -->
+<polygon points="236,158 286,170 270,268 224,254" />
+</g>
+<g stroke="#1a1a1a" stroke-width="26" stroke-linecap="round" fill="none">
+<!-- legs -->
+<path d="M 246 252 L 286 312 L 320 322"/>
+<path d="M 240 256 L 206 312 L 184 360"/>
+<!-- arms -->
+<path d="M 270 196 L 318 178"/>
+<path d="M 256 188 L 210 176"/>
+</g>
+<g stroke="#2f9e4a" stroke-width="18" stroke-linecap="round" fill="none">
+<path d="M 246 252 L 286 312 L 320 322"/>
+<path d="M 240 256 L 206 312 L 184 360"/>
+<path d="M 270 196 L 318 178"/>
+<path d="M 256 188 L 210 176"/>
+</g>
+<!-- left arrow, bottom-left, clear of the figure -->
+<g stroke="#2f9e4a" stroke-width="34" stroke-linecap="round" fill="none">
+<line x1="158" y1="406" x2="62" y2="406"/>
+<line x1="62" y1="406" x2="104" y2="378"/>
+<line x1="62" y1="406" x2="104" y2="434"/>
+</g>
+</svg>

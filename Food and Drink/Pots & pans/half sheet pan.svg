@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Rectangular metal sheet pan with low rim on all sides -->
+  <!-- Inner pan surface -->
+  <path d="M 35 90 L 255 90 L 268 170 L 22 170 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Outer rim - low, visible on all 4 sides -->
+  <path d="M 20 85 L 270 85 L 285 180 L 5 180 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner pan surface on top -->
+  <path d="M 35 95 L 255 95 L 265 165 L 25 165 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rim thickness lines (low rim emphasis) -->
+  <path d="M 20 85 L 35 95" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 270 85 L 255 95" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 5 180 L 25 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 285 180 L 265 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Subtle reflection lines on surface -->
+  <path d="M 60 110 L 240 105" fill="none" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 50 145 L 250 145" fill="none" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Corner rounding hints -->
+  <circle cx="35" cy="95" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="255" cy="95" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="25" cy="165" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="265" cy="165" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

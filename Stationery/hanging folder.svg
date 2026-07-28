@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- drawer rail (top bar) -->
+  <rect x="25" y="42" width="240" height="14" rx="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- left hook -->
+  <path d="M68 42 L68 30 Q68 22 78 22 Q88 22 88 30 L88 42" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right hook -->
+  <path d="M202 42 L202 30 Q202 22 212 22 Q222 22 222 30 L222 42" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- folder body (trapezoid) -->
+  <path d="M60 56 L230 56 L218 210 L72 210 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- folder tab at top left -->
+  <path d="M60 56 L60 44 L112 44 L118 56 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- inner folder back (slightly lighter) -->
+  <path d="M75 72 L215 72 L205 196 L85 196 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- papers inside -->
+  <path d="M88 80 L202 80 L196 188 L94 188 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <line x1="100" y1="100" x2="190" y2="100" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="102" y1="118" x2="188" y2="118" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="104" y1="136" x2="186" y2="136" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

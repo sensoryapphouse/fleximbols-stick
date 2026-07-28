@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<ellipse cx="256" cy="270" rx="170" ry="120" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="270" rx="128" ry="86" fill="none" stroke="#b9bdc2" stroke-width="6"/>
+<!-- sausage -->
+<path d="M 150 220 Q 170 188 210 200 Q 232 208 220 236 Q 206 264 168 256 Q 138 248 150 220 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bacon -->
+<path d="M 286 200 Q 330 188 360 206 Q 372 214 360 226 Q 326 214 300 230 Q 288 238 280 226 Q 274 210 286 200 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 300 230 Q 330 220 358 232" fill="none" stroke="#d63b46" stroke-width="7" stroke-linecap="round"/>
+<!-- fried egg white -->
+<path d="M 196 296 Q 188 256 232 258 Q 250 230 286 250 Q 326 244 320 288 Q 344 312 312 332 Q 300 360 264 344 Q 226 360 212 330 Q 178 322 196 296 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- yolk -->
+<circle cx="262" cy="298" r="30" fill="#f4c430" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

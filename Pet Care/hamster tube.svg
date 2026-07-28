@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- horizontal tube -->
+  <rect x="60" y="100" width="170" height="60" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- tube ridges -->
+  <path d="M90 100 L90 160 M120 100 L120 160 M150 100 L150 160 M180 100 L180 160 M210 100 L210 160" stroke="#90a7d6" stroke-width="3.55"/>
+  <!-- left elbow joint -->
+  <path d="M60 100 Q40 100 40 80 L40 40 Q40 30 50 30 L80 30 Q90 30 90 40 L90 80" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <path d="M40 100 L90 100" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- right elbow joint -->
+  <path d="M230 160 Q250 160 250 180 L250 215 Q250 225 240 225 L210 225 Q200 225 200 215 L200 180" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <path d="M250 160 L200 160" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- joint rings -->
+  <path d="M60 100 L60 160 M230 100 L230 160" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- hamster inside -->
+  <ellipse cx="145" cy="135" rx="38" ry="22" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- head -->
+  <circle cx="180" cy="130" r="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- ears -->
+  <circle cx="172" cy="115" r="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="188" cy="113" r="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- eye -->
+  <circle cx="186" cy="128" r="3" fill="#000000"/>
+  <circle cx="186" cy="127" r="1" fill="#ffffff"/>
+  <!-- nose -->
+  <circle cx="198" cy="134" r="2.5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- mouth -->
+  <path d="M196 138 Q193 142 190 140" stroke="#1a1a1a" stroke-width="3.55" fill="none" stroke-linecap="round"/>
+  <!-- cheek tuft / belly -->
+  <ellipse cx="135" cy="142" rx="22" ry="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- little feet -->
+  <ellipse cx="120" cy="158" rx="6" ry="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.55"/>
+  <ellipse cx="155" cy="158" rx="6" ry="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

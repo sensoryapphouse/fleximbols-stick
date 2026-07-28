@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- document with both names -->
+  <rect x="100" y="138" width="90" height="80" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="110" y1="156" x2="180" y2="156" stroke="#2a4ec0" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="110" y1="172" x2="180" y2="172" stroke="#f4a4b2" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="110" y1="188" x2="170" y2="188" stroke="#7f7f7f" stroke-width="1.78"/>
+  <line x1="110" y1="200" x2="170" y2="200" stroke="#7f7f7f" stroke-width="1.78"/>
+  <!-- signature lines -->
+  <path d="M 112 210 Q 122 204 132 210" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
+  <path d="M 152 210 Q 162 204 172 210" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
+
+  <!-- Parent A (left, full body, blue) -->
+  <circle cx="50" cy="58" r="16" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="34" y="76" width="32" height="44" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="34" y1="84" x2="22" y2="114" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="66" y1="84" x2="78" y2="114" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="38" y1="120" x2="36" y2="156" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="62" y1="120" x2="64" y2="156" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Parent B (right, full body, pink) -->
+  <circle cx="240" cy="58" r="16" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="222,76 258,76 268,120 212,120" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="222" y1="84" x2="210" y2="114" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="258" y1="84" x2="270" y2="114" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="224" y1="120" x2="218" y2="156" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="254" y1="120" x2="260" y2="156" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Child (full body, yellow, between parents) -->
+  <circle cx="145" cy="60" r="13" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="76" width="26" height="36" rx="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="132" y1="84" x2="120" y2="104" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="84" x2="170" y2="104" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="135" y1="112" x2="130" y2="138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="112" x2="160" y2="138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- heart connecting parents above the child -->
+  <path d="M 145 28 C 145 22, 137 16, 133 22 C 129 28, 137 38, 145 46 C 153 38, 161 28, 157 22 C 153 16, 145 22, 145 28 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- joining arc from parent A to parent B over the heart -->
+  <path d="M 70 40 Q 145 4 220 40" fill="none" stroke="#529929" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

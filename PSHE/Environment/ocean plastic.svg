@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky -->
+  <rect x="25" y="25" width="240" height="110" rx="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ocean body -->
+  <rect x="25" y="135" width="240" height="80" rx="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wave 1 -->
+  <path d="M25,140 Q65,125 105,140 Q145,155 185,140 Q225,125 265,140" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Wave 2 -->
+  <path d="M25,162 Q65,147 105,162 Q145,177 185,162 Q225,147 265,162" fill="none" stroke="#90a7d6" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Plastic bottle floating -->
+  <rect x="60" y="118" width="22" height="42" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="65" y="112" width="12" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="63" y="108" width="16" height="7" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottle label stripe -->
+  <rect x="62" y="128" width="18" height="6" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <!-- Plastic bag floating -->
+  <path d="M170,110 Q160,120 158,135 Q160,148 175,150 Q190,148 192,135 Q190,120 180,110 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bag handles -->
+  <path d="M165,112 Q163,100 168,96" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M185,112 Q187,100 182,96" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Fish underwater -->
+  <ellipse cx="120" cy="185" rx="22" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M142,185 L156,175 L156,195 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="110" cy="182" r="3" fill="#000000"/>
+  <!-- Fish bubbles -->
+  <circle cx="98" cy="175" r="4" fill="none" stroke="#dff3fd" stroke-width="2.66"/>
+  <circle cx="92" cy="165" r="3" fill="none" stroke="#dff3fd" stroke-width="2.66"/>
+</g></svg>

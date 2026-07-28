@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pot base -->
+  <path d="M100 210 L190 210 L178 175 L112 175 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pot rim -->
+  <rect x="98" y="168" width="94" height="14" rx="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Soil -->
+  <ellipse cx="145" cy="168" rx="44" ry="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Main stem -->
+  <line x1="145" y1="168" x2="145" y2="110" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Stem left branch -->
+  <line x1="145" y1="140" x2="105" y2="110" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Stem right branch -->
+  <line x1="145" y1="125" x2="185" y2="95" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Aerial root left -->
+  <path d="M125 155 C115 160 108 168 110 175" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Aerial root right -->
+  <path d="M155 148 C165 155 170 165 165 175" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Large leaf back-left (big monstera leaf with splits) -->
+  <path d="M105 110 C75 80 62 45 82 28 C100 22 118 40 125 65 C130 82 125 98 105 110 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Splits / holes on back-left leaf -->
+  <path d="M92 70 C88 62 90 54 96 52 C96 58 94 65 92 70 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M104 88 C98 82 98 74 104 72 C106 78 106 84 104 88 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hole cut-outs on back-left leaf (filled to show through) -->
+  <ellipse cx="93" cy="60" rx="7" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="106" cy="79" rx="6" ry="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Mid vein back-left leaf -->
+  <line x1="82" y1="28" x2="105" y2="110" stroke="#137827" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Large leaf front-right (big monstera leaf) -->
+  <path d="M185 95 C220 65 242 32 222 20 C202 14 178 35 168 60 C160 80 165 90 185 95 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Holes front-right leaf -->
+  <ellipse cx="210" cy="48" rx="8" ry="11" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="192" cy="68" rx="7" ry="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Mid vein front-right leaf -->
+  <line x1="222" y1="20" x2="185" y2="95" stroke="#529929" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Centre top leaf (upright, fresh) -->
+  <path d="M145 110 C130 75 132 45 145 30 C158 45 160 75 145 110 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Centre leaf vein -->
+  <line x1="145" y1="30" x2="145" y2="110" stroke="#529929" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Centre leaf splits -->
+  <path d="M138 60 C133 56 132 50 136 48 C138 52 138 57 138 60 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M152 60 C157 56 158 50 154 48 C152 52 152 57 152 60 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

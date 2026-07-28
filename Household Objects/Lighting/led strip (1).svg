@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- LED strip: a flexible ribbon with multicolour LED dots, partly coiled -->
+  <!-- Coiled loop at bottom-left, then strip runs up and curves right -->
+  <!-- Coil -->
+  <ellipse cx="100" cy="175" rx="42" ry="28" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="100" cy="175" rx="28" ry="16" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Strip body running from coil up and curving right -->
+  <path d="M100 147 C100 130 120 110 150 105 C180 100 210 108 230 120 C245 130 250 148 248 165" fill="none" stroke="#4d4d4d" stroke-width="19.99" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Strip top edge highlight -->
+  <path d="M100 147 C100 130 120 110 150 105 C180 100 210 108 230 120 C245 130 250 148 248 165" fill="none" stroke="#7f7f7f" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- LED dots along the strip -->
+  <circle cx="120" cy="131" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="143" cy="117" r="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="167" cy="109" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="192" cy="109" r="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="115" r="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="234" cy="128" r="7" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="246" cy="147" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Connector plug at end -->
+  <rect x="238" y="158" width="20" height="14" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="244" y="172" width="5" height="8" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="252" y="172" width="5" height="8" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Coil inner dots -->
+  <circle cx="84" cy="179" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="100" cy="183" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="116" cy="179" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

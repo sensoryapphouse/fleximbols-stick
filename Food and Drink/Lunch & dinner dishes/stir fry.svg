@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- High flame -->
+  <path d="M75 228 Q68 212 78 200 Q70 190 80 178 Q85 192 80 202 Q92 186 90 170 Q102 186 98 198 Q108 182 107 166 Q118 182 114 196 Q122 182 122 168 Q130 184 126 198 Q133 183 133 170 Q139 185 135 198 Q142 183 143 171 Q148 186 144 198 Q150 185 150 174 Q155 187 151 198 Q155 186 156 176 Q161 188 157 198 Q162 190 162 200 Q168 212 162 228 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M83 228 Q80 215 84 205 Q93 190 98 198 Q107 183 107 170 Q116 183 114 196 Q124 183 122 170 Q130 184 126 198 Q134 184 133 172 Q139 185 136 198 Q143 185 143 175 Q148 186 145 198 Q152 187 156 178 Q160 190 157 200 Q160 212 156 228 Z" fill="#ff9900" stroke="none"/>
+  <!-- Wok body (wider curved pan) -->
+  <path d="M52 200 Q50 228 145 228 Q240 228 238 200 Q230 195 220 190 L70 190 Q60 195 52 200 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Wok interior -->
+  <path d="M68 195 Q66 222 145 222 Q224 222 222 195 Z" fill="#7f7f7f" stroke="none"/>
+  <!-- Wok rim -->
+  <path d="M52 195 Q50 198 52 200 Q60 192 70 190 L220 190 Q230 192 238 200 Q240 198 238 195 L220 186 L70 186 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Wok handle (long) -->
+  <rect x="220" y="188" width="60" height="14" rx="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Wok short handle left -->
+  <path d="M52 195 Q30 195 28 205 Q28 215 52 213" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Vegetables in wok (some on surface) -->
+  <ellipse cx="105" cy="198" rx="14" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="135" cy="200" rx="12" ry="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="160" cy="197" rx="11" ry="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="185" cy="200" rx="10" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Food pieces in air (being tossed) -->
+  <ellipse cx="95" cy="160" rx="10" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="120" cy="145" rx="9" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="148" cy="135" rx="8" ry="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="175" cy="148" rx="9" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="195" cy="162" rx="8" ry="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Spatula -->
+  <rect x="80" y="108" width="10" height="62" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-30 85 140)"/>
+  <rect x="78" y="168" width="14" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-30 85 179)"/>
+  <!-- Steam/smoke wisps -->
+  <path d="M110 180 Q107 170 110 162 Q113 155 110 148" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150 178 Q147 168 150 160 Q153 153 150 145" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

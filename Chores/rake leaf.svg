@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Fan/leaf rake: wide spread of thin springy tines, long shaft -->
+  <!-- Long shaft (slightly angled) -->
+  <rect x="138" y="10" width="12" height="148" rx="5" ry="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Crossbar at head -->
+  <rect x="68" y="150" width="154" height="12" rx="4" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Fan tines - thin springy spreading out wide in a fan, curving down to tips -->
+  <!-- Left outer tine -->
+  <path d="M 72,156 Q 55,185 45,220" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 2 -->
+  <path d="M 82,156 Q 70,185 62,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 3 -->
+  <path d="M 95,156 Q 87,185 82,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 4 -->
+  <path d="M 108,156 Q 104,186 102,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 5 -->
+  <path d="M 120,156 Q 119,186 118,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 6 (left of centre) -->
+  <path d="M 132,156 Q 133,186 133,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 7 (right of centre) -->
+  <path d="M 144,156 Q 146,186 147,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 8 -->
+  <path d="M 156,156 Q 159,186 162,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 9 -->
+  <path d="M 168,156 Q 174,186 178,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 10 -->
+  <path d="M 180,156 Q 188,186 196,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine 11 -->
+  <path d="M 193,156 Q 203,185 215,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Right outer tine -->
+  <path d="M 208,156 Q 222,185 238,218" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tine tip curved hooks (springy tines curl slightly at bottom) -->
+  <!-- A few representative hooks at tine ends -->
+  <path d="M 45,220 Q 40,228 48,230" fill="none" stroke="#4d4d4d" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M 62,218 Q 57,226 65,228" fill="none" stroke="#4d4d4d" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M 238,218 Q 244,226 237,230" fill="none" stroke="#4d4d4d" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M 215,218 Q 220,226 213,229" fill="none" stroke="#4d4d4d" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Handle top end knob -->
+  <circle cx="144" cy="14" r="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

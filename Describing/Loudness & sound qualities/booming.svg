@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="27.46 72.69 395.64 395.64"><!-- booming: big bass drum with large rolling sound waves -->
+<g fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+<!-- big rolling sound waves on left -->
+<path d="M 168 196 Q 120 256 168 316" stroke="#2f9e4a"/>
+<path d="M 134 168 Q 64 256 134 344" stroke="#2f9e4a"/>
+<path d="M 100 144 Q 12 256 100 368" stroke="#2f9e4a"/>
+</g>
+<!-- drum rim back / depth -->
+<ellipse cx="356" cy="256" rx="20" ry="120" fill="#c23a30" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bass drum body -->
+<ellipse cx="316" cy="256" rx="78" ry="120" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+<!-- drum head front circle -->
+<ellipse cx="316" cy="256" rx="64" ry="104" fill="#f6cf7a" stroke="#1a1a1a" stroke-width="7"/>
+<!-- beater / strike mark -->
+<circle cx="316" cy="256" r="20" fill="#1a1a1a"/>
+<line x1="316" y1="256" x2="248" y2="220" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="240" cy="216" r="16" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- legs -->
+<line x1="280" y1="360" x2="264" y2="404" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="352" y1="360" x2="368" y2="404" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

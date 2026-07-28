@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- handle poles -->
+  <line x1="120" y1="30" x2="100" y2="135" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="170" y1="30" x2="190" y2="135" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- crossbar handle grip -->
+  <line x1="120" y1="30" x2="170" y2="30" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- frame connecting to drum -->
+  <line x1="100" y1="135" x2="75" y2="155" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="190" y1="135" x2="215" y2="155" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- aerator drum cylinder -->
+  <rect x="50" y="145" width="190" height="55" rx="27" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- drum end caps -->
+  <ellipse cx="50" cy="172" rx="10" ry="27" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="240" cy="172" rx="10" ry="27" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- hollow spikes/prongs in a row on drum -->
+  <rect x="80" y="197" width="10" height="25" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="110" y="197" width="10" height="25" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="140" y="197" width="10" height="25" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="170" y="197" width="10" height="25" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="200" y="197" width="10" height="25" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- ground line -->
+  <line x1="30" y1="222" x2="260" y2="222" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg1771" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg1771)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

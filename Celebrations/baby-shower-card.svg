@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.2692) translate(-251.50 -316.50)">
+<g transform="translate(55.3,135.1) scale(0.687)"><!-- baby shower card: greeting card with baby-face illustration, no real person -->
+  <rect x="30" y="80" width="230" height="320" rx="14" fill="#FFF5FB" stroke="#1a1a1a" stroke-width="5" />
+  <!-- header band -->
+  <rect x="30" y="80" width="230" height="50" rx="14" fill="#F4B0C7" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="30" y1="130" x2="260" y2="130" stroke="#1a1a1a" stroke-width="4" />
+  <!-- decorative rattle illustration on the card -->
+  <g transform="translate(145 270)">
+    <circle r="62" fill="#5BB6E8" stroke="#1a1a1a" stroke-width="5" />
+    <circle cx="-20" cy="-14" r="8" fill="#FFFFFF" />
+    <circle cx="18" cy="-4" r="8" fill="#FFFFFF" />
+    <circle cx="-6" cy="18" r="8" fill="#FFFFFF" />
+    <rect x="-10" y="52" width="20" height="64" rx="8" fill="#F4C233" stroke="#1a1a1a" stroke-width="5" />
+    <circle cy="124" r="16" fill="#F4C233" stroke="#1a1a1a" stroke-width="5" />
+  </g>
+  <!-- little hearts -->
+  <path d="M62 360 Q58 352 50 356 Q44 360 50 368 L62 378 L74 368 Q80 360 74 356 Q66 352 62 360 Z" fill="#ef7fae" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" /></g>
+<line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#33373d"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#33373d"/>
+<line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffcf33" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#5a3a1f" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

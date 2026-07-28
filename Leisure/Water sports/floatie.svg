@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- water ripples -->
+  <path d="M 20 200 Q 50 192 80 200 T 140 200 T 200 200 T 270 200" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 30 215 Q 60 207 90 215 T 150 215 T 210 215 T 270 215" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- floatie outer ring -->
+  <ellipse cx="145" cy="135" rx="115" ry="70" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- yellow stripe band -->
+  <path d="M 30 135 Q 30 90 145 90 Q 260 90 260 135" fill="none" stroke="#f2e40d" stroke-width="23.69"/>
+  <path d="M 30 135 Q 30 90 145 90 Q 260 90 260 135" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- inner hole -->
+  <ellipse cx="145" cy="135" rx="55" ry="32" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- person head and shoulders centre -->
+  <circle cx="145" cy="120" r="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hair -->
+  <path d="M 125 115 Q 130 95 145 95 Q 162 95 167 115 Q 160 105 145 105 Q 132 105 125 115 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="138" cy="120" r="2.2" fill="#000000"/>
+  <circle cx="152" cy="120" r="2.2" fill="#000000"/>
+  <!-- smile -->
+  <path d="M 138 128 Q 145 133 152 128" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- arms gripping floatie -->
+  <path d="M 124 142 Q 110 148 100 152" fill="none" stroke="#eed5b6" stroke-width="11.85" stroke-linecap="round"/>
+  <path d="M 124 142 Q 110 148 100 152" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 166 142 Q 180 148 190 152" fill="none" stroke="#eed5b6" stroke-width="11.85" stroke-linecap="round"/>
+  <path d="M 166 142 Q 180 148 190 152" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- highlight on red -->
+  <path d="M 50 160 Q 70 175 100 178" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

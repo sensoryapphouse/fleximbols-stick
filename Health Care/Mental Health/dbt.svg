@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <rect x="20" y="210" width="250" height="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- yin-yang large on left -->
+  <circle cx="90" cy="115" r="70" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11"/>
+  <path d="M90 45 A70 70 0 0 1 90 185 A35 35 0 0 0 90 115 A35 35 0 0 1 90 45 Z" fill="#392170" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <circle cx="90" cy="80" r="9" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="150" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- balance scale on right -->
+  <rect x="218" y="70" width="6" height="120" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="196" y="190" width="50" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <circle cx="221" cy="68" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="172" y="73" width="98" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="182" y1="79" x2="182" y2="110" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="258" y1="79" x2="258" y2="110" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M164 110 L200 110 L193 126 L171 126 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M240 110 L276 110 L269 126 L247 126 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- heart on left pan -->
+  <path d="M182 96 C176 90 168 92 171 100 C174 107 182 110 182 110 C182 110 190 107 193 100 C196 92 188 90 182 96 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- brain on right pan -->
+  <circle cx="258" cy="98" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M253 95 Q255 91 258 93 Q261 91 263 95 Q265 98 263 101 Q261 105 258 103 Q255 105 253 101 Q251 98 253 95 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

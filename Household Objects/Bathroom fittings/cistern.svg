@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- cistern tank body -->
+<rect x="148" y="150" width="216" height="170" rx="18" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- lid -->
+<rect x="138" y="132" width="236" height="34" rx="12" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- flush button on lid -->
+<ellipse cx="256" cy="149" rx="34" ry="13" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="140" x2="256" y2="158" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- water level inside (accent) -->
+<rect x="170" y="250" width="172" height="48" rx="6" fill="#4a90d9" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="170" y="250" width="172" height="48" rx="6" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pipe down to bowl -->
+<rect x="240" y="320" width="32" height="30" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<!-- bowl hint below -->
+<path d="M 196 350 L 316 350 L 300 410 Q 296 432 256 432 Q 216 432 212 410 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

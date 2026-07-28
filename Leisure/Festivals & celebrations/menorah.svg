@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="48.48 41.66 415.03 415.03">
+<!-- base -->
+<rect x="216" y="404" width="80" height="22" rx="8" fill="#f0b400" stroke="#1a1a1a" stroke-width="9"/>
+<polygon points="236,360 276,360 296,404 216,404" fill="#f6c500" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- central stem -->
+<rect x="247" y="150" width="18" height="214" fill="#f6c500" stroke="#1a1a1a" stroke-width="9"/>
+<!-- branch arms -->
+<path d="M 256 220 Q 196 220 196 150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 256 248 Q 156 248 156 150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 256 276 Q 116 276 116 150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 256 220 Q 316 220 316 150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 256 248 Q 356 248 356 150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 256 276 Q 396 276 396 150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- candles -->
+<g fill="#fff6cf" stroke="#1a1a1a" stroke-width="6">
+<rect x="108" y="120" width="16" height="34"/>
+<rect x="148" y="120" width="16" height="34"/>
+<rect x="188" y="120" width="16" height="34"/>
+<rect x="248" y="106" width="16" height="48"/>
+<rect x="308" y="120" width="16" height="34"/>
+<rect x="348" y="120" width="16" height="34"/>
+<rect x="388" y="120" width="16" height="34"/>
+</g>
+<!-- flames -->
+<g fill="#f6a800" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round">
+<path d="M 116 118 Q 108 104 116 90 Q 124 104 116 118 Z"/>
+<path d="M 156 118 Q 148 104 156 90 Q 164 104 156 118 Z"/>
+<path d="M 196 118 Q 188 104 196 90 Q 204 104 196 118 Z"/>
+<path d="M 256 104 Q 248 86 256 70 Q 264 86 256 104 Z"/>
+<path d="M 316 118 Q 308 104 316 90 Q 324 104 316 118 Z"/>
+<path d="M 356 118 Q 348 104 356 90 Q 364 104 356 118 Z"/>
+<path d="M 396 118 Q 388 104 396 90 Q 404 104 396 118 Z"/>
+</g>
+</svg>

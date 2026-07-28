@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cloud shape -->
+  <path d="M210,118 Q230,118 230,98 Q230,78 210,78 Q208,58 188,52 Q168,44 152,58 Q138,44 118,50 Q96,56 96,78 Q76,80 76,100 Q76,120 100,120 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Document below cloud -->
+  <rect x="105" y="152" width="80" height="68" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Document fold corner -->
+  <polyline points="160,152 160,170 178,170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="160,152 178,170 178,152" fill="#90a7d6" stroke="none"/>
+  <!-- Lines on document -->
+  <line x1="115" y1="182" x2="170" y2="182" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="115" y1="196" x2="158" y2="196" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bold up arrow from document into cloud -->
+  <rect x="137" y="118" width="16" height="40" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,92 166,122 124,122" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

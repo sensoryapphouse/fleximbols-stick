@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wider premium body -->
+  <path d="M 58,82 Q 44,72 30,90 Q 14,114 22,150 Q 30,182 56,200 Q 76,212 100,198 L 122,170 L 168,170 L 190,198 Q 214,212 234,200 Q 260,182 268,150 Q 276,114 260,90 Q 246,72 232,82 L 208,70 L 82,70 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- face plate -->
+  <ellipse cx="145" cy="118" rx="72" ry="54" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left grip -->
+  <ellipse cx="60" cy="166" rx="24" ry="32" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right grip -->
+  <ellipse cx="230" cy="166" rx="24" ry="32" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left thumbstick -->
+  <circle cx="96" cy="110" r="19" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="96" cy="110" r="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right thumbstick -->
+  <circle cx="182" cy="132" r="19" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="182" cy="132" r="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- d-pad -->
+  <rect x="118" y="124" width="28" height="9" rx="4" ry="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="127" y="115" width="9" height="28" rx="4" ry="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- face buttons -->
+  <circle cx="196" cy="100" r="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="214" cy="109" r="9" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="178" cy="109" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="118" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left bumper -->
+  <path d="M 34,86 Q 52,72 86,76 L 78,92 Q 54,88 44,98 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right bumper -->
+  <path d="M 256,86 Q 238,72 204,76 L 212,92 Q 236,88 246,98 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- back paddle left -->
+  <path d="M 36,156 Q 24,150 20,164 Q 16,178 30,182 Q 44,184 50,170 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- back paddle right -->
+  <path d="M 254,156 Q 266,150 270,164 Q 274,178 260,182 Q 246,184 240,170 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- centre home -->
+  <circle cx="145" cy="108" r="11" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screenshot / capture button -->
+  <circle cx="145" cy="130" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

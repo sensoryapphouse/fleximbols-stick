@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Left speech bubble (English: A) -->
+  <path d="M 20 50 L 130 50 Q 138 50 138 58 L 138 105 Q 138 113 130 113 L 70 113 L 55 130 L 60 113 L 20 113 Q 12 113 12 105 L 12 58 Q 12 50 20 50 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Letter A in left bubble -->
+  <path d="M 50 95 L 65 65 L 80 95 M 55 85 L 75 85" fill="none" stroke="#ffffff" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Flag icon left (national hint) -->
+  <rect x="95" y="62" width="30" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="95" y="62" width="30" height="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="95" y1="73" x2="125" y2="73" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Big arrow -->
+  <path d="M 130 130 L 165 110 L 165 120 L 195 120 L 195 140 L 165 140 L 165 150 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Right speech bubble (Spanish/other: B) -->
+  <path d="M 165 125 L 275 125 Q 283 125 283 133 L 283 180 Q 283 188 275 188 L 235 188 L 220 205 L 225 188 L 165 188 Q 157 188 157 180 L 157 133 Q 157 125 165 125 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Letter B in right bubble -->
+  <path d="M 195 145 L 195 175 L 210 175 Q 218 175 218 168 Q 218 161 210 161 L 195 161 M 210 161 Q 217 161 217 154 Q 217 145 210 145 L 195 145" fill="none" stroke="#ffffff" stroke-width="10.00" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Flag right -->
+  <rect x="232" y="148" width="30" height="22" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="232" y="148" width="10" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="252" y="148" width="10" height="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

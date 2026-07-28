@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bamboo steamer (round basket) -->
+  <!-- Bottom slat -->
+  <ellipse cx="135" cy="200" rx="105" ry="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Steamer body sides -->
+  <path d="M 30,200 L 30,160 Q 30,145 135,140 Q 240,145 240,160 L 240,200" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Top rim -->
+  <ellipse cx="135" cy="155" rx="105" ry="18" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Bamboo slat horizontal lines -->
+  <line x1="32" y1="175" x2="238" y2="175" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="32" y1="190" x2="238" y2="190" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bamboo vertical slat marks -->
+  <line x1="65" y1="160" x2="65" y2="200" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="100" y1="160" x2="100" y2="200" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="135" y1="158" x2="135" y2="200" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="170" y1="160" x2="170" y2="200" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="205" y1="160" x2="205" y2="200" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Three dumplings sitting in the steamer -->
+  <!-- Dumpling 1 (left) -->
+  <ellipse cx="78" cy="140" rx="30" ry="28" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Pleats radiating from top -->
+  <path d="M 78,114 L 65,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 78,114 L 72,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 78,114 L 78,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 78,114 L 84,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 78,114 L 91,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Top knot -->
+  <circle cx="78" cy="116" r="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dumpling 2 (centre, slightly behind) -->
+  <ellipse cx="140" cy="130" rx="32" ry="28" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M 140,103 L 125,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 140,103 L 132,118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 140,103 L 140,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 140,103 L 148,118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 140,103 L 155,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="140" cy="105" r="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dumpling 3 (right) -->
+  <ellipse cx="200" cy="140" rx="30" ry="28" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M 200,114 L 187,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 200,114 L 194,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 200,114 L 200,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 200,114 L 206,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 200,114 L 213,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="200" cy="116" r="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Steam wisps -->
+  <path d="M 100,90 Q 105,75 100,60 Q 95,50 105,40" fill="none" stroke="#b8b8b8" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M 140,82 Q 145,68 140,55 Q 135,45 145,32" fill="none" stroke="#b8b8b8" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M 180,90 Q 185,75 180,60 Q 175,50 185,40" fill="none" stroke="#b8b8b8" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Chopsticks beside the steamer (right side) -->
+  <line x1="248" y1="50" x2="278" y2="215" stroke="#7d5e23" stroke-width="13.34" stroke-linecap="round"/>
+  <line x1="262" y1="50" x2="284" y2="215" stroke="#9d7246" stroke-width="13.34" stroke-linecap="round"/>
+  <!-- Chopstick tips -->
+  <circle cx="278" cy="215" r="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="284" cy="215" r="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

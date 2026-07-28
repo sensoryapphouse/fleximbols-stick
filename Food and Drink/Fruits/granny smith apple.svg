@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- granny smith: UNIFORMLY BRIGHT GREEN apple + green stem + green leaf -->
+  <!-- apple body - bright green -->
+  <path d="M145 60 Q90 60 70 110 Q55 160 95 200 Q120 215 145 210 Q170 215 195 200 Q235 160 220 110 Q200 60 145 60 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bright lighter green highlight -->
+  <path d="M95 100 Q85 140 100 180" fill="none" stroke="#67832d" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- small highlight on top right -->
+  <path d="M175 90 Q190 110 180 130" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- white dot speckles for that classic granny smith look -->
+  <circle cx="120" cy="120" r="2" fill="#ffffff"/>
+  <circle cx="150" cy="110" r="2" fill="#ffffff"/>
+  <circle cx="170" cy="150" r="2" fill="#ffffff"/>
+  <circle cx="130" cy="170" r="2" fill="#ffffff"/>
+  <circle cx="190" cy="170" r="2" fill="#ffffff"/>
+  <circle cx="110" cy="150" r="2" fill="#ffffff"/>
+  <!-- green stem -->
+  <path d="M145 62 Q142 50 138 35" fill="none" stroke="#137827" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- green leaf -->
+  <path d="M138 40 Q170 25 185 45 Q165 55 145 50 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M145 48 Q165 42 180 45" fill="none" stroke="#137827" stroke-width="2.22"/>
+</g></svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd"/>
+  <!-- Building body -->
+  <rect x="20" y="55" width="250" height="160" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Awning -->
+  <polygon points="15,55 275,55 260,80 30,80" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Awning stripes -->
+  <line x1="60" y1="55" x2="50" y2="80" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="100" y1="55" x2="90" y2="80" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="140" y1="55" x2="130" y2="80" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="180" y1="55" x2="170" y2="80" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="220" y1="55" x2="210" y2="80" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- Shop window -->
+  <rect x="30" y="90" width="130" height="90" rx="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Door (right) -->
+  <rect x="185" y="155" width="55" height="60" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="197" cy="187" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Tattoo machine emblem (in window) -->
+  <!-- Machine body -->
+  <rect x="44" y="104" width="45" height="28" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Coil top -->
+  <rect x="50" y="95" width="15" height="12" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="68" y="97" width="12" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Needle/tip -->
+  <line x1="88" y1="118" x2="110" y2="125" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="110,123 117,126 110,129" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Power cord -->
+  <path d="M44,120 Q30,130 35,150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Heart-banner tattoo design (lower window) -->
+  <!-- Banner ribbon -->
+  <polygon points="50,148 110,148 118,158 110,168 50,168 42,158" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Heart on banner -->
+  <path d="M74,153 Q74,147 80,147 Q86,147 86,153 Q86,147 92,147 Q98,147 98,153 Q98,160 86,168 L86,167 Q80,172 74,167 L74,168 Q62,160 62,153 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ground -->
+  <line x1="10" y1="215" x2="280" y2="215" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

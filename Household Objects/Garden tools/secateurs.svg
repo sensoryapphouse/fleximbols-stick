@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- secateurs / bypass pruners: short curved cutting head + two stout red handles + spring -->
+<!-- upper curved cutting blade (hooked) -->
+<path d="M 256 252 L 208 158 Q 192 126 222 116 Q 250 108 260 142 L 282 232 Z" fill="#c7ccd1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cutting edge highlight -->
+<line x1="226" y1="142" x2="252" y2="208" stroke="#eef1f3" stroke-width="5" stroke-linecap="round"/>
+<!-- lower curved counter-blade / hook -->
+<path d="M 256 252 L 308 162 Q 326 132 300 120 Q 276 112 266 144 L 248 228 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pivot bolt -->
+<circle cx="256" cy="252" r="15" fill="#6b7178" stroke="#1a1a1a" stroke-width="8"/>
+<!-- left handle (red grip) -->
+<path d="M 244 266 L 200 386 Q 190 414 218 420 Q 244 424 252 396 L 268 282 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right handle (red grip) -->
+<path d="M 268 266 L 312 386 Q 322 414 294 420 Q 268 424 260 396 L 244 282 Z" fill="#c93a30" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spring coil between handles -->
+<path d="M 256 288 q -15 8 0 17 q 15 8 0 17 q -15 8 0 17" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g></svg>

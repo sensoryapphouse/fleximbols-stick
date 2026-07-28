@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- blue-check: scalloped/starburst circle badge (blue) with white check -->
+  <!-- scalloped badge: built from overlapping circles around a central disc -->
+  <!-- petal circles at 12 positions -->
+  <circle cx="145" cy="44" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="51" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="72" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="204" cy="100" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="128" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="149" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="156" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="116" cy="149" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="94" cy="128" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="86" cy="100" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="94" cy="72" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="116" cy="51" r="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- central disc to fill in and cover stroke gaps -->
+  <circle cx="145" cy="100" r="72" fill="#2a4ec0" stroke="none"/>
+  <!-- outer ring stroke -->
+  <circle cx="145" cy="100" r="90" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- white checkmark -->
+  <polyline points="98,98 130,136 196,60" fill="none" stroke="#ffffff" stroke-width="17.77" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- base -->
+  <rect x="100" y="200" width="90" height="20" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="115" y="184" width="60" height="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- stand stem -->
+  <rect x="140" y="130" width="10" height="56" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- circular medallion -->
+  <circle cx="145" cy="100" r="42" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="100" r="34" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- comedy mask (left) on medallion -->
+  <path d="M118 85 Q115 95 120 110 Q130 118 138 110 Q140 95 135 85 Q125 80 118 85 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- comedy eyes/smile -->
+  <circle cx="124" cy="93" r="2" fill="#000000"/>
+  <circle cx="132" cy="93" r="2" fill="#000000"/>
+  <path d="M122 102 Q128 108 134 102" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- tragedy mask (right) on medallion -->
+  <path d="M155 85 Q152 95 157 110 Q167 118 175 110 Q177 95 172 85 Q162 80 155 85 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tragedy eyes/frown -->
+  <path d="M159 91 L163 95 M163 91 L159 95" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M167 91 L171 95 M171 91 L167 95" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M159 108 Q165 102 171 108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- star at top -->
+  <path d="M145 25 L150 38 L164 38 L153 47 L157 60 L145 52 L133 60 L137 47 L126 38 L140 38 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

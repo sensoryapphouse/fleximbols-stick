@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Series B: bigger growing plant with TWO-THREE coins + taller bars (visibly larger than A) -->
+
+  <!-- Soil/ground -->
+  <ellipse cx="145" cy="195" rx="85" ry="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Pot (larger) -->
+  <polygon points="105,195 185,195 172,222 118,222" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Plant stem (taller) -->
+  <line x1="145" y1="195" x2="145" y2="100" stroke="#529929" stroke-width="7.11" stroke-linecap="round"/>
+
+  <!-- Branch stem left -->
+  <path d="M 145 145 Q 118 130 105 108" fill="none" stroke="#529929" stroke-width="6.22" stroke-linecap="round"/>
+  <!-- Branch stem right -->
+  <path d="M 145 128 Q 170 110 182 88" fill="none" stroke="#529929" stroke-width="6.22" stroke-linecap="round"/>
+
+  <!-- Larger leaves -->
+  <!-- Left big leaf -->
+  <path d="M 110 115 Q 78 92 82 62 Q 118 88 112 118" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right big leaf -->
+  <path d="M 178 95 Q 212 70 208 42 Q 174 68 175 98" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Top leaf -->
+  <path d="M 145 105 Q 128 80 135 55 Q 158 75 148 105" fill="#137827" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- THREE coins (stack of 3) -->
+  <ellipse cx="145" cy="45" rx="22" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="37" rx="22" ry="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="29" rx="22" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="123" y1="29" x2="123" y2="45" stroke="#1a1a1a" stroke-width="2.66"/>
+  <line x1="167" y1="29" x2="167" y2="45" stroke="#1a1a1a" stroke-width="2.66"/>
+
+  <!-- Taller bar chart (3 bars, taller than series-a) -->
+  <rect x="40" y="158" width="16" height="25" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="60" y="143" width="16" height="40" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="80" y="125" width="16" height="58" fill="#137827" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Baseline -->
+  <line x1="37" y1="183" x2="100" y2="183" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+
+  <!-- Up arrow above bars -->
+  <line x1="88" y1="118" x2="88" y2="100" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="88,93 79,107 97,107" fill="#529929" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="15" y="210" width="260" height="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Main building - retail storefront -->
+  <rect x="28" y="130" width="234" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Fascia sign band top - ORANGE (FedEx orange) -->
+  <rect x="28" y="100" width="234" height="32" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Purple accent stripe below fascia -->
+  <rect x="28" y="128" width="234" height="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Roof cap -->
+  <rect x="22" y="93" width="246" height="9" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Storefront glass display window left -->
+  <rect x="38" y="148" width="70" height="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Window dividers -->
+  <line x1="73" y1="148" x2="73" y2="198" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Storefront glass display window right -->
+  <rect x="182" y="148" width="70" height="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="217" y1="148" x2="217" y2="198" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Door (glass centre) -->
+  <rect x="122" y="158" width="46" height="52" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Door handle -->
+  <line x1="138" y1="182" x2="138" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- CARDBOARD BOX emblem (left of fascia, on sign band) -->
+  <!-- Box body -->
+  <rect x="44" y="103" width="36" height="24" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Box top flaps -->
+  <polyline points="44,103 44,97 62,94 80,97 80,103" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="62" y1="94" x2="62" y2="103" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Box tape stripe -->
+  <line x1="62" y1="103" x2="62" y2="127" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- FORWARD ARROW emblem (right of fascia, on sign band) - bold -->
+  <!-- Arrow body -->
+  <polygon points="175,106 205,106 205,110 215,118 205,126 205,128 175,128" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Arrow shaft highlight -->
+  <line x1="178" y1="117" x2="203" y2="117" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Steps -->
+  <rect x="114" y="206" width="62" height="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

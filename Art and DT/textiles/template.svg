@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="91.15 91.15 329.70 329.70">
+<!-- a stencil/template sheet with a shape cut out of it -->
+<!-- outer card sheet -->
+<rect x="116" y="120" width="280" height="272" rx="14" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cut-out shape: a symmetric star/cog hole so it reads as a cut template, not a pin -->
+<path d="M 256 158
+         L 277 196 L 318 188 L 304 226 L 340 248
+         L 304 270 L 318 308 L 277 300 L 256 338
+         L 235 300 L 194 308 L 208 270 L 172 248
+         L 208 226 L 194 188 L 235 196 Z"
+      fill="#fff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- dashed cut-edge echo -->
+<path d="M 256 158
+         L 277 196 L 318 188 L 304 226 L 340 248
+         L 304 270 L 318 308 L 277 300 L 256 338
+         L 235 300 L 194 308 L 208 270 L 172 248
+         L 208 226 L 194 188 L 235 196 Z"
+      fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="7 7"/>
+<!-- corner crop marks to read as a template -->
+<path d="M 140 150 L 140 134 L 156 134" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 372 150 L 372 134 L 356 134" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 140 362 L 140 378 L 156 378" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 372 362 L 372 378 L 356 378" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shallow bowl shape under the wire mesh -->
+  <ellipse cx="105" cy="135" rx="78" ry="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.41"/>
+  <!-- round wire-mesh strainer bowl -->
+  <path d="M 27 125 Q 27 70 105 70 Q 183 70 183 125 Q 183 145 105 145 Q 27 145 27 125 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="10.37" stroke-linejoin="round"/>
+  <!-- wire mesh web pattern - radial lines -->
+  <path d="M 105 70 L 105 145" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M 35 110 L 175 110" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M 45 80 L 165 140" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M 45 140 L 165 80" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M 60 73 L 150 142" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M 60 142 L 150 73" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- concentric web rings -->
+  <ellipse cx="105" cy="108" rx="60" ry="30" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <ellipse cx="105" cy="108" rx="38" ry="19" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <ellipse cx="105" cy="108" rx="18" ry="9" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- rim of strainer (top edge) -->
+  <ellipse cx="105" cy="107" rx="78" ry="38" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- connector between bowl and bamboo handle -->
+  <path d="M 178 115 L 195 105 L 200 120 L 183 130 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <!-- bamboo handle -->
+  <path d="M 195 105 L 270 50 L 280 60 L 205 120 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- bamboo node rings -->
+  <path d="M 220 90 L 232 102" fill="none" stroke="#9d7246" stroke-width="7.41" stroke-linecap="round"/>
+  <path d="M 245 70 L 257 82" fill="none" stroke="#9d7246" stroke-width="7.41" stroke-linecap="round"/>
+</g></svg>

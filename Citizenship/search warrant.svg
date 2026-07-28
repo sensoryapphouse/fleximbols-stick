@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- House being searched (right side) -->
+  <polygon points="200,118 245,80 290,118 290,118 200,118" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="208" y="118" width="74" height="70" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="218" y="135" width="18" height="18" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="252" y="135" width="18" height="18" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="234" y="160" width="22" height="28" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Warrant document (left) -->
+  <rect x="20" y="40" width="120" height="150" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="20" y="40" width="120" height="22" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <line x1="30" y1="80" x2="120" y2="80" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="30" y1="94" x2="130" y2="94" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="30" y1="108" x2="110" y2="108" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="30" y1="122" x2="125" y2="122" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="30" y1="136" x2="100" y2="136" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- Stamp -->
+  <circle cx="100" cy="170" r="14" fill="none" stroke="#d01424" stroke-width="5.93"/>
+
+  <!-- Magnifying glass over house -->
+  <circle cx="230" cy="155" r="32" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="230" cy="155" r="32" fill="none" stroke="#90a7d6" stroke-width="2.96"/>
+  <line x1="252" y1="178" x2="278" y2="208" stroke="#4d4d4d" stroke-width="11.85" stroke-linecap="round"/>
+  <line x1="252" y1="178" x2="278" y2="208" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" fill="none"/>
+
+  <!-- Officer FULL BODY (front of warrant, bottom-left) -->
+  <circle cx="62" cy="160" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 50,151 Q 50,140 62,140 Q 74,140 74,151 L 76,158 Q 78,162 74,162 L 50,162 Q 46,162 48,158 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="48" y="173" width="28" height="34" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="48" y1="207" x2="55" y2="222" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="76" y1="207" x2="69" y2="222" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="48" y1="180" x2="38" y2="200" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="76" y1="180" x2="86" y2="200" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="62" cy="155" r="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="1.48"/>
+</g></svg>

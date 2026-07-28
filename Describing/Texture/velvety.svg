@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 86.50 321.94 321.94">
+<!-- velvety: soft draped cloth with sheen -->
+<path d="M 120 170
+         Q 256 140 392 170
+         L 392 300
+         Q 360 312 360 340
+         Q 330 322 300 340
+         Q 270 322 240 340
+         Q 210 322 180 340
+         Q 150 322 120 340 Z"
+      fill="#8a5cc4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- soft sheen bands -->
+<path d="M 150 200 Q 256 178 362 200" fill="none" stroke="#c2a3e8" stroke-width="16" stroke-linecap="round"/>
+<path d="M 150 250 Q 256 230 362 250" fill="none" stroke="#c2a3e8" stroke-width="12" stroke-linecap="round"/>
+<path d="M 160 295 Q 256 280 352 295" fill="none" stroke="#6a3fa0" stroke-width="10" stroke-linecap="round"/>
+</svg>

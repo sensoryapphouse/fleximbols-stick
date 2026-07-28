@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="73.54 59.89 395.64 395.64">
+<!-- pair of tall green wellington rubber boots, classic L-shaped side profile facing right -->
+<!-- BACK welly (offset up/right) -->
+<g>
+<path d="M 286 110 Q 286 96 304 96 L 350 96 Q 368 96 368 114 L 368 300 Q 368 320 388 326 L 420 336 Q 440 342 440 364 L 440 372 Q 440 382 428 382 L 296 382 Q 274 382 274 360 L 274 200 Q 274 180 280 168 Q 286 156 286 138 Z" fill="#2f8f3e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- back cuff line -->
+<line x1="286" y1="134" x2="368" y2="134" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- FRONT welly (lower/left) -->
+<g>
+<!-- tall shaft + forward foot, single closed L silhouette -->
+<path d="M 150 132 Q 150 116 168 116 L 222 116 Q 240 116 240 134 L 240 320 Q 240 342 260 350 L 360 388 Q 384 397 384 408 Q 384 420 368 420 L 124 420 Q 102 420 102 398 L 102 220 Q 102 198 110 184 Q 118 170 118 150 Z" fill="#3aa84d" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- sole strip under foot -->
+<path d="M 110 404 L 372 404" fill="none" stroke="#1f6e2c" stroke-width="10" stroke-linecap="round"/>
+<!-- front cuff line -->
+<line x1="150" y1="154" x2="240" y2="154" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- highlight stripe down shaft -->
+<path d="M 132 190 L 132 320" fill="none" stroke="#7ed68c" stroke-width="8" stroke-linecap="round"/>
+<!-- toe seam -->
+<path d="M 300 360 Q 348 374 356 402" fill="none" stroke="#1f6e2c" stroke-width="6" stroke-linecap="round"/>
+</g>
+</svg>

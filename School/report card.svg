@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Paper sheet -->
+  <rect x="42" y="28" width="186" height="196" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Top header band -->
+  <rect x="42" y="28" width="186" height="38" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Header band bottom edge square override -->
+  <rect x="42" y="52" width="186" height="14" fill="#2a4ec0"/>
+  <line x1="42" y1="66" x2="228" y2="66" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Column header dividers -->
+  <line x1="158" y1="28" x2="158" y2="224" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="194" y1="28" x2="194" y2="224" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Column header labels (shapes not text) -->
+  <!-- Subject column indicator: horizontal lines in header -->
+  <line x1="56" y1="44" x2="146" y2="44" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Grade column indicator: small square in header -->
+  <rect x="164" y="36" width="22" height="18" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tick column indicator: tick mark in header -->
+  <polyline points="200,52 206,58 218,36" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Row 1 -->
+  <rect x="42" y="66" width="186" height="30" fill="#efefef" stroke="none"/>
+  <line x1="42" y1="96" x2="228" y2="96" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="56" y1="80" x2="146" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="164" y="72" width="22" height="16" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polyline points="200,88 206,94 218,72" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Row 2 -->
+  <line x1="42" y1="126" x2="228" y2="126" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="56" y1="110" x2="140" y2="110" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="164" y="102" width="22" height="16" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polyline points="200,118 206,124 218,102" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Row 3 -->
+  <rect x="42" y="126" width="186" height="30" fill="#efefef" stroke="none"/>
+  <line x1="42" y1="156" x2="228" y2="156" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="56" y1="140" x2="144" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="164" y="132" width="22" height="16" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polyline points="200,148 206,154 218,132" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Row 4 -->
+  <line x1="42" y1="186" x2="228" y2="186" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="56" y1="170" x2="148" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="164" y="162" width="22" height="16" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polyline points="200,178 206,184 218,162" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Star bottom right (achievement) -->
+  <polygon points="210,196 213,207 224,207 215,213 218,224 210,218 202,224 205,213 196,207 207,207" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

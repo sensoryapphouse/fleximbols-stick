@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="54.85 77.03 422.79 422.79">
+<!-- NEAREST: a row of trees receding down a path. Big tree at the front (closest to viewer) is highlighted; smaller, higher ones faded. Green arrow points at the nearest. -->
+<!-- receding path: wide at bottom (near), narrow at top (far) -->
+<polygon points="206,140 306,140 392,470 120,470" fill="#e9d9b8" stroke="#9aa7b5" stroke-width="6" stroke-linejoin="round"/>
+
+<!-- FAR tree (small, top, faded) -->
+<g opacity="0.34">
+  <rect x="251" y="150" width="10" height="26" fill="#7a4a22" stroke="#1a1a1a" stroke-width="6"/>
+  <polygon points="256,108 232,154 280,154" fill="#3fb24a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+
+<!-- MID tree (medium, faded) -->
+<g opacity="0.34">
+  <rect x="247" y="250" width="18" height="44" fill="#7a4a22" stroke="#1a1a1a" stroke-width="6"/>
+  <polygon points="256,176 216,256 296,256" fill="#3fb24a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+
+<!-- NEAR tree = NEAREST (big, bottom-front, highlighted) -->
+<rect x="240" y="402" width="32" height="56" fill="#7a4a22" stroke="#1a1a1a" stroke-width="9"/>
+<polygon points="256,290 196,410 316,410" fill="#3fb24a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+
+<!-- bold green arrow pointing at the nearest (front) tree -->
+<line x1="408" y1="350" x2="350" y2="392" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="350" y1="392" x2="384" y2="386" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="350" y1="392" x2="356" y2="358" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="408" y1="350" x2="350" y2="392" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="350" y1="392" x2="384" y2="386" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="350" y1="392" x2="356" y2="358" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+</svg>

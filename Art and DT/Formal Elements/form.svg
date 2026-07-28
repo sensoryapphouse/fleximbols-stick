@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1494) translate(-257.00 -271.00)">
+<rect x="70.0" y="150.0" width="118.0" height="118.0" rx="0" fill="#cdd3da" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 70 150 L 188 150 L 188 268 L 70 268 Z" fill="#000" fill-opacity="0.1" stroke="none"/>
+<polygon points="70,150 108,112 226,112 188,150" fill="#eef2f6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="188,150 226,112 226,230 188,268" fill="#9aa7b3" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<defs><radialGradient id="sph" cx="38%" cy="34%" r="72%"><stop offset="0%" stop-color="#ffffff"/><stop offset="45%" stop-color="#c7ced6"/><stop offset="100%" stop-color="#5f6b78"/></radialGradient></defs>
+<circle cx="372" cy="150" r="72" fill="url(#sph)" stroke="#1a1a1a" stroke-width="5"/>
+<ellipse cx="378" cy="240" rx="58" ry="14" fill="#000" fill-opacity="0.12" stroke="none"/>
+<defs><linearGradient id="cyl" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#8d99a6"/><stop offset="32%" stop-color="#f0f3f6"/><stop offset="62%" stop-color="#c2cad2"/><stop offset="100%" stop-color="#6f7b88"/></linearGradient></defs>
+<rect x="196.0" y="320.0" width="120.0" height="126.0" rx="0" fill="url(#cyl)" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="196" y1="320" x2="196" y2="446" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="316" y1="320" x2="316" y2="446" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="256" cy="446" rx="60" ry="18" fill="url(#cyl)" stroke="#1a1a1a" stroke-width="5"/>
+<ellipse cx="256" cy="320" rx="60" ry="18" fill="#eef2f6" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

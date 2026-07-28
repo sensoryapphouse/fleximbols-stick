@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- single dryer sheet (rectangular, slightly skewed for depth) with wavy soft corner -->
+  <path d="M45 50 L245 35 Q252 36 252 44 L242 210 Q241 218 234 218 L52 215 Q45 215 45 208 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- subtle quilted weave lines (diagonals) -->
+  <path d="M70 70 L235 60 M65 100 L238 90 M62 130 L240 120 M58 160 L240 150 M55 190 L240 180" fill="none" stroke="#f266aa" stroke-width="4.45"/>
+  <!-- perforated edges (top dashes) -->
+  <circle cx="60" cy="45" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="44" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="43" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="42" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="40" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- perforated edges (bottom) -->
+  <circle cx="60" cy="210" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="211" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="212" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="213" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="213" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="213" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small sparkle for freshness -->
+  <path d="M70 175 L70 190 M62 182 L78 182" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M225 175 L225 190 M217 182 L233 182" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- flower freshness icon (replaces DRYER text) -->
+  <circle cx="145" cy="140" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="133" cy="137" rx="10" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 133 137)"/>
+  <ellipse cx="157" cy="137" rx="10" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 157 137)"/>
+  <ellipse cx="145" cy="128" rx="10" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="152" rx="10" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

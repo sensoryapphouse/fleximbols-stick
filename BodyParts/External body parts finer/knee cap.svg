@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Front-view leg: kneecap (patella) highlighted at front of knee -->
+  <!-- Upper thigh base -->
+  <path d="M110 14 Q145 6 180 14 L186 44 Q165 52 145 54 Q125 52 104 44 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Thigh (upper leg, not highlighted) -->
+  <path d="M110 16 Q94 34 90 68 Q88 90 92 110 L104 118 L145 122 L186 118 L198 110 Q202 90 200 68 Q196 34 180 16 Q145 8 110 16 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Lower leg (not highlighted) -->
+  <path d="M104 146 Q94 162 92 184 Q92 202 98 218 L112 228 L145 232 L178 228 L192 218 Q198 202 198 184 Q196 162 186 146 L145 140 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Knee joint background (rounded) -->
+  <ellipse cx="145" cy="132" rx="44" ry="24" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- KNEECAP (patella) highlighted bone-white with red outline - round, prominent -->
+  <ellipse cx="145" cy="130" rx="26" ry="20" fill="#efefef" stroke="#d01424" stroke-width="6.34"/>
+  <!-- Patella surface detail -->
+  <ellipse cx="145" cy="130" rx="16" ry="12" fill="none" stroke="#1a1a1a" stroke-width="2.54"/>
+  <!-- Quad tendon above kneecap -->
+  <line x1="145" y1="110" x2="145" y2="110" stroke="#1a1a1a" stroke-width="1.27"/>
+  <path d="M132 112 Q145 108 158 112 L156 118 Q145 114 134 118 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Patellar tendon below kneecap -->
+  <path d="M134 150 Q145 154 156 150 L158 158 Q145 162 132 158 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Pointer -->
+  <line x1="171" y1="124" x2="232" y2="104" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <circle cx="232" cy="104" r="5" fill="#000000"/>
+</g></svg>

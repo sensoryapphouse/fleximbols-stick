@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Surface being scrubbed -->
+  <rect x="30" y="160" width="230" height="30" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Suds/foam on surface -->
+  <ellipse cx="110" cy="160" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="157" rx="22" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="180" cy="161" rx="16" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="130" cy="154" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Scrub brush -->
+  <rect x="95" y="115" width="90" height="32" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Brush bristles -->
+  <line x1="108" y1="147" x2="108" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="120" y1="147" x2="120" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="147" x2="132" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="144" y1="147" x2="144" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="156" y1="147" x2="156" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="168" y1="147" x2="168" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hand/arm holding brush -->
+  <path d="M140 115 L140 80 Q140 70 150 70 L170 70 Q180 70 180 80 L180 115 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Forearm -->
+  <path d="M145 70 L155 35 Q158 25 168 28 L175 70" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Back-and-forth motion lines -->
+  <path d="M60 132 Q75 125 90 132" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M55 145 Q72 138 88 145" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M192 132 Q207 125 222 132" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M195 145 Q210 138 225 145" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Effort arrows left/right -->
+  <polygon points="65,120 50,113 50,127" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <polygon points="220,120 235,113 235,127" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

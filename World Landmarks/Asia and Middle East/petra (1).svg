@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- canyon walls (rose-pink rock) -->
+  <path d="M0 0 L0 240 L50 240 L40 180 L55 120 L40 60 L50 0 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M290 0 L290 240 L240 240 L250 180 L235 120 L250 60 L240 0 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sand ground -->
+  <rect x="0" y="200" width="290" height="40" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Treasury facade carved into rock -->
+  <rect x="75" y="60" width="140" height="150" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pediment top triangle -->
+  <path d="M75 80 L145 50 L215 80 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- central tholos (round element) -->
+  <rect x="130" y="80" width="30" height="35" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M125 80 Q145 65 165 80" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- columns (4) -->
+  <rect x="85" y="115" width="14" height="80" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="110" y="115" width="14" height="80" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="166" y="115" width="14" height="80" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="191" y="115" width="14" height="80" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- column capitals -->
+  <rect x="83" y="110" width="18" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="108" y="110" width="18" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="164" y="110" width="18" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="189" y="110" width="18" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- central entrance doorway -->
+  <path d="M130 200 L130 140 Q145 125 160 140 L160 200 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- entablature band -->
+  <rect x="75" y="100" width="140" height="12" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun above canyon -->
+  <circle cx="145" cy="25" r="12" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

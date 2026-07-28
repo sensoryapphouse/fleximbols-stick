@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- water -->
+<path d="M 56 392 Q 92 378 128 392 T 200 392 T 272 392 T 344 392 T 416 392 T 456 392 L 456 430 L 56 430 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- lower hull -->
+<path d="M 86 338 L 426 338 L 392 384 L 120 384 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- mid white hull body -->
+<path d="M 110 280 L 402 280 L 402 338 L 86 338 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- upper deck cabin -->
+<path d="M 150 214 L 360 214 L 384 280 L 130 280 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bridge windows (tinted band) -->
+<path d="M 178 226 L 332 226 L 346 262 L 168 262 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- top sun deck -->
+<rect x="206" y="160" width="118" height="54" rx="8" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- antenna mast -->
+<line x1="265" y1="108" x2="265" y2="160" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+</svg>

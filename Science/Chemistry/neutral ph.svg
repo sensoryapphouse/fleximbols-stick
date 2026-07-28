@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- test tube body -->
+  <path d="M 95 30 L 95 180 Q 95 215 130 215 Q 165 215 165 180 L 165 30 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- rim -->
+  <rect x="88" y="25" width="84" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- green neutral liquid -->
+  <path d="M 95 100 L 95 180 Q 95 215 130 215 Q 165 215 165 180 L 165 100 Q 130 90 95 100 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- liquid surface highlight -->
+  <path d="M 95 100 Q 130 90 165 100" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- pH paper strip (green) -->
+  <rect x="195" y="55" width="40" height="140" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- top fold of paper -->
+  <rect x="190" y="45" width="50" height="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- numeral 7 as path -->
+  <path d="M 25 95 L 65 95 L 40 170" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

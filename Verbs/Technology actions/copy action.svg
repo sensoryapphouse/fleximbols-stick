@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Two overlapping identical document pages with duplicate/copy cue and + symbol -->
+
+  <!-- Back document (offset slightly up-right) -->
+  <rect x="115" y="22" width="130" height="165" rx="8" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Back doc page fold (top-right corner) -->
+  <polygon points="225,22 245,42 225,42" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="225" y1="22" x2="245" y2="42" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Back doc lines (content) -->
+  <rect x="125" y="56" width="90" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="72" width="80" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="88" width="90" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="104" width="65" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="120" width="80" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="136" width="55" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="152" width="70" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Front document (offset down-left, on top) -->
+  <rect x="45" y="52" width="130" height="165" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Front doc page fold (top-right corner) -->
+  <polygon points="155,52 175,72 155,72" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="155" y1="52" x2="175" y2="72" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Front doc content lines -->
+  <rect x="58" y="88" width="90" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="58" y="104" width="80" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="58" y="120" width="90" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="58" y="136" width="65" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="58" y="152" width="80" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="58" y="168" width="55" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="58" y="184" width="70" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- "Copy/duplicate" cue: a bold "+" badge on the top-right of the back document -->
+  <circle cx="236" cy="38" r="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Plus sign drawn as paths (no text) -->
+  <line x1="236" y1="24" x2="236" y2="52" stroke="#ffffff" stroke-width="15.56" stroke-linecap="round"/>
+  <line x1="222" y1="38" x2="250" y2="38" stroke="#ffffff" stroke-width="15.56" stroke-linecap="round"/>
+</g></svg>

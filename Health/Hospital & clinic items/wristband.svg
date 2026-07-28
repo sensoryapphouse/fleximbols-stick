@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="85.33 88.75 341.33 341.33">
+<!-- hospital ID wristband: a band loop with a label panel -->
+<!-- band loop -->
+<path d="M 160 180 C 96 200 96 320 160 340 L 160 300 C 140 290 140 230 160 220 Z" fill="#e8edf2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 352 180 C 416 200 416 320 352 340 L 352 300 C 372 290 372 230 352 220 Z" fill="#e8edf2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- white ID label -->
+<rect x="150" y="186" width="212" height="140" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- info lines (bars, no letters) -->
+<line x1="182" y1="222" x2="330" y2="222" stroke="#9aa7b2" stroke-width="10" stroke-linecap="round"/>
+<line x1="182" y1="254" x2="300" y2="254" stroke="#9aa7b2" stroke-width="10" stroke-linecap="round"/>
+<!-- barcode block -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
+<line x1="186" y1="284" x2="186" y2="306"/>
+<line x1="200" y1="284" x2="200" y2="306"/>
+<line x1="210" y1="284" x2="210" y2="306"/>
+<line x1="224" y1="284" x2="224" y2="306"/>
+<line x1="234" y1="284" x2="234" y2="306"/>
+<line x1="250" y1="284" x2="250" y2="306"/>
+<line x1="260" y1="284" x2="260" y2="306"/>
+<line x1="274" y1="284" x2="274" y2="306"/>
+</g>
+</svg>

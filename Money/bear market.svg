@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- red falling graph background panel (not full-canvas) -->
+  <rect x="155" y="30" width="125" height="180" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- axes -->
+  <line x1="165" y1="40" x2="165" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="165" y1="200" x2="275" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- falling red line graph -->
+  <polyline points="170,55 190,80 205,95 225,140 245,170 270,195" fill="none" stroke="#d01424" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- downward arrow at end -->
+  <polygon points="270,195 260,182 280,182" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- big downward arrow overlay across the middle -->
+  <path d="M115 40 L140 40 L140 110 L160 110 L127 150 L94 110 L115 110 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- bear silhouette full body bottom-left -->
+  <!-- body -->
+  <ellipse cx="70" cy="190" rx="55" ry="32" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- head -->
+  <circle cx="38" cy="165" r="24" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- ears -->
+  <circle cx="24" cy="148" r="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="50" cy="146" r="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="24" cy="148" r="3" fill="#9d7246"/>
+  <circle cx="50" cy="146" r="3" fill="#9d7246"/>
+  <!-- snout -->
+  <ellipse cx="22" cy="172" rx="10" ry="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="18" cy="170" rx="2.5" ry="2" fill="#000000"/>
+  <!-- eye -->
+  <circle cx="36" cy="161" r="2.2" fill="#000000"/>
+  <!-- mouth (frown) -->
+  <path d="M16 178 Q22 182 28 178" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- legs (front + back) -->
+  <ellipse cx="40" cy="215" rx="10" ry="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="70" cy="218" rx="10" ry="9" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="100" cy="218" rx="10" ry="9" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="120" cy="215" rx="10" ry="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- claws -->
+  <line x1="36" y1="222" x2="36" y2="226" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="40" y1="223" x2="40" y2="227" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="44" y1="222" x2="44" y2="226" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="116" y1="222" x2="116" y2="226" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="120" y1="223" x2="120" y2="227" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="124" y1="222" x2="124" y2="226" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- tail -->
+  <circle cx="124" cy="178" r="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

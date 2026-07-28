@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sandbox low walls (isometric-style square pit) -->
+  <!-- Bottom/front wall -->
+  <polygon points="55,175 235,175 220,198 40,198" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left wall -->
+  <polygon points="55,100 55,175 40,198 40,123" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right wall -->
+  <polygon points="235,100 235,175 220,198 220,123" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Back/top wall top edge -->
+  <polygon points="55,100 235,100 220,123 40,123" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sand fill inside -->
+  <polygon points="58,103 232,103 217,122 43,122" fill="#f5e7c4" stroke="none"/>
+  <polygon points="43,124 217,124 217,173 43,173" fill="#f5e7c4" stroke="none"/>
+  <!-- Sand texture mounds -->
+  <ellipse cx="145" cy="155" rx="50" ry="16" fill="#eed5b6" stroke="none"/>
+  <ellipse cx="90" cy="165" rx="24" ry="10" fill="#eed5b6" stroke="none"/>
+  <!-- Bucket -->
+  <rect x="154" y="115" width="30" height="32" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="156" y1="115" x2="182" y2="115" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Bucket handle -->
+  <path d="M160,115 Q169,104 178,115" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Spade -->
+  <line x1="110" y1="100" x2="110" y2="168" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="110" cy="95" rx="11" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Ground line -->
+  <line x1="28" y1="205" x2="262" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

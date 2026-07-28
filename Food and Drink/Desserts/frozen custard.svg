@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Waffle cone - slightly shorter/wider for denser look -->
+  <path d="M 80,162 Q 138,172 196,162 L 166,228 Q 138,238 110,228 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cone crosshatch lines -->
+  <path d="M 85,167 L 112,227 M 100,165 L 125,228 M 116,163 L 138,228 M 138,163 L 152,228 M 158,163 L 165,227 M 175,165 L 172,224" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 80,172 Q 138,180 196,172 M 86,184 Q 138,192 190,184 M 94,198 Q 138,205 178,198 M 104,212 Q 138,218 166,212" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Denser swirled custard - fuller/rounder coils with warm yellow tint -->
+  <!-- Bottom coil - very full/dense -->
+  <path d="M 82,162 Q 68,146 72,128 Q 76,112 100,112 Q 114,112 124,124 Q 134,112 148,112 Q 172,112 176,128 Q 180,146 168,162" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Middle coil - dense, wide -->
+  <path d="M 90,116 Q 78,100 82,84 Q 86,68 108,68 Q 122,68 132,80 Q 142,68 156,68 Q 178,68 182,84 Q 186,100 174,116" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Upper coil - still fairly wide/dense -->
+  <path d="M 100,72 Q 90,58 94,44 Q 98,30 118,30 Q 132,30 140,42 Q 148,30 162,30 Q 182,30 186,44 Q 190,58 178,72" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Rounded dense top peak -->
+  <ellipse cx="140" cy="26" rx="20" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Egg icon beside cone - egg shape -->
+  <ellipse cx="228" cy="165" rx="22" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Yolk circle inside egg -->
+  <circle cx="228" cy="170" r="11" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

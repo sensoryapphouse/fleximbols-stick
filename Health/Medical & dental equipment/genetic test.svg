@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- genetic-test: saliva collection tube + DNA helix + genetic report with bars -->
+
+  <!-- saliva tube (left) -->
+  <rect x="30" y="70" width="44" height="140" rx="12" ry="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- liquid inside tube -->
+  <path d="M 35,160 Q 52,155 69,160 L 69,200 Q 52,205 35,200 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tube cap -->
+  <rect x="26" y="55" width="52" height="22" rx="5" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- tube label -->
+  <rect x="34" y="100" width="36" height="30" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="110" x2="64" y2="110" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="40" y1="118" x2="60" y2="118" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="40" y1="126" x2="62" y2="126" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- DNA helix (middle) -->
+  <path d="M 110,55 Q 140,80 110,105 Q 80,130 110,155 Q 140,180 110,205" fill="none" stroke="#2a4ec0" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 110,55 Q 80,80 110,105 Q 140,130 110,155 Q 80,180 110,205" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- helix rungs -->
+  <line x1="92" y1="70" x2="128" y2="70" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="92" y1="90" x2="128" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="92" y1="120" x2="128" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="92" y1="140" x2="128" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="92" y1="170" x2="128" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="92" y1="190" x2="128" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- genetic report (right) -->
+  <rect x="155" y="55" width="110" height="150" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- header -->
+  <rect x="155" y="55" width="110" height="22" rx="6" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- bar chart bars -->
+  <rect x="168" y="160" width="14" height="32" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="188" y="140" width="14" height="52" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="208" y="125" width="14" height="67" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="228" y="150" width="14" height="42" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- baseline -->
+  <line x1="162" y1="195" x2="252" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- title lines on report -->
+  <line x1="167" y1="90" x2="252" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="167" y1="102" x2="240" y2="102" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="167" y1="112" x2="232" y2="112" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

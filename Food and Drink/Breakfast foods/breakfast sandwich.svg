@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Top bun (english muffin - top half) -->
+  <ellipse cx="145" cy="82" rx="95" ry="40" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Top bun dome -->
+  <path d="M50,82 Q50,30 145,30 Q240,30 240,82 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Muffin texture top -->
+  <line x1="80" y1="52" x2="90" y2="74" stroke="#9d7246" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="110" y1="40" x2="116" y2="70" stroke="#9d7246" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="36" x2="145" y2="68" stroke="#9d7246" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="178" y1="40" x2="172" y2="70" stroke="#9d7246" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="210" y1="52" x2="200" y2="74" stroke="#9d7246" stroke-width="3.55" stroke-linecap="round"/>
+
+  <!-- Cheese slice (yellow, melting over edge) -->
+  <path d="M56,110 L60,92 L234,92 L234,110 Q200,122 145,118 Q90,122 56,110 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Cheese melting drips -->
+  <path d="M70,110 Q68,122 72,118" fill="none" stroke="#f7de58" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M220,110 Q222,122 218,118" fill="none" stroke="#f7de58" stroke-width="7.11" stroke-linecap="round"/>
+
+  <!-- Bacon strip -->
+  <path d="M58,118 Q90,112 120,120 Q150,128 175,118 Q200,108 232,118 L232,130 Q200,120 172,130 Q145,140 118,132 Q88,124 58,132 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- Bacon fat streaks -->
+  <path d="M80,120 Q100,116 115,122" fill="none" stroke="#e6b98a" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M160,120 Q178,114 200,122" fill="none" stroke="#e6b98a" stroke-width="3.55" stroke-linecap="round"/>
+
+  <!-- Fried egg (round egg white + yolk) -->
+  <ellipse cx="145" cy="154" rx="70" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- Yolk -->
+  <circle cx="145" cy="154" r="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="145" cy="154" r="12" fill="#f7de58"/>
+
+  <!-- Bottom bun (english muffin - bottom half) -->
+  <path d="M50,184 Q50,215 145,215 Q240,215 240,184 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="184" rx="95" ry="16" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Bottom muffin nook/cranny texture -->
+  <line x1="90" y1="186" x2="95" y2="200" stroke="#7d5e23" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="188" x2="145" y2="206" stroke="#7d5e23" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="198" y1="186" x2="193" y2="200" stroke="#7d5e23" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

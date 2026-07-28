@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="112.33 120.01 275.39 275.39">
+<!-- back spoon (smaller, offset) -->
+<g transform="rotate(-26 256 256)">
+<rect x="244" y="150" width="26" height="150" rx="13" fill="#f4c430" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="257" cy="160" r="11" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<ellipse cx="257" cy="316" rx="58" ry="34" fill="#f4c430" stroke="#1a1a1a" stroke-width="8"/>
+<ellipse cx="257" cy="313" rx="40" ry="22" fill="#e0a91f" stroke="#1a1a1a" stroke-width="0"/>
+</g>
+<!-- front spoon (larger) -->
+<g transform="rotate(16 256 256)">
+<rect x="241" y="138" width="30" height="172" rx="15" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="256" cy="150" r="13" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="332" rx="74" ry="42" fill="#d63b46" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="328" rx="52" ry="27" fill="#b22f39" stroke="#1a1a1a" stroke-width="0"/>
+</g>
+</svg>

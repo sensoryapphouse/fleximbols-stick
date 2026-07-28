@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- lower handle (grey) -->
+<path d="M 150 356 L 316 300 Q 340 292 348 316 Q 356 340 332 348 L 166 404 Q 142 412 134 388 Q 126 364 150 356 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- upper handle (red) -->
+<path d="M 150 260 L 316 216 Q 340 210 346 234 Q 352 258 328 264 L 162 308 Q 138 314 132 290 Q 126 266 150 260 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pivot rivet joining the two handles at the head end -->
+<circle cx="322" cy="286" r="12" fill="#1a1a1a"/>
+<!-- cutting head -->
+<path d="M 300 200 L 360 200 Q 384 200 384 226 L 384 276 Q 384 300 358 300 L 306 300 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cutting wheel -->
+<circle cx="342" cy="250" r="26" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="342" cy="250" r="9" fill="#1a1a1a"/>
+<!-- turning knob (butterfly key) top right -->
+<circle cx="404" cy="176" r="30" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="404" y1="176" x2="404" y2="152" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="404" y1="176" x2="425" y2="188" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="404" y1="176" x2="383" y2="188" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- knob stem connecting to head -->
+<line x1="384" y1="220" x2="404" y2="200" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+</g></svg>

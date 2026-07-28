@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><metadata id="sah">{"v":1,"fig":[["h1","mc"]]}</metadata>
+<!-- clinical close-up: chest area with nipple indicated -->
+<!-- skin patch (rounded square chest area) -->
+<rect x="116" y="116" width="280" height="280" rx="44" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9"/>
+<!-- areola ring -->
+<circle cx="256" cy="256" r="78" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<!-- nipple (raised centre) -->
+<circle id="h1" data-fig="mc" cx="256" cy="256" r="30" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="256" r="10" fill="#1a1a1a"/>
+</svg>

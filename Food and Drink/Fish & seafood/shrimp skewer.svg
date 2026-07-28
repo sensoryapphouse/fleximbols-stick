@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Skewer stick -->
+  <line x1="145" y1="20" x2="145" y2="225" stroke="#9d7246" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Skewer tip -->
+  <polygon points="145,15 140,28 150,28" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+
+  <!-- Shrimp 1 (top) -->
+  <path d="M145,55 C120,48 105,62 112,78 C118,92 138,95 145,88 C152,95 172,92 178,78 C185,62 170,48 145,55Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M112,78 Q118,100 130,105 Q145,108 160,105 Q172,100 178,78" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shrimp 1 tail -->
+  <path d="M138,108 Q133,118 125,122" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M152,108 Q157,118 165,122" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Shrimp 2 (middle) -->
+  <path d="M145,128 C120,121 105,135 112,151 C118,165 138,168 145,161 C152,168 172,165 178,151 C185,135 170,121 145,128Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M112,151 Q118,173 130,178 Q145,181 160,178 Q172,173 178,151" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shrimp 2 tail -->
+  <path d="M138,181 Q133,191 125,195" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M152,181 Q157,191 165,195" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Antennae shrimp 1 -->
+  <line x1="135" y1="55" x2="115" y2="35" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="155" y1="55" x2="175" y2="35" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Antennae shrimp 2 -->
+  <line x1="135" y1="128" x2="115" y2="115" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="155" y1="128" x2="175" y2="115" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

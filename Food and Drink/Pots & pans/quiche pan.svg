@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- deeper fluted quiche pan, with removable bottom; same family as tart but taller walls -->
+  <ellipse cx="145" cy="200" rx="118" ry="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- taller side body -->
+  <path d="M 27 105 Q 27 200 145 215 Q 263 200 263 105" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top rim -->
+  <ellipse cx="145" cy="105" rx="118" ry="36" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- inner cavity -->
+  <ellipse cx="145" cy="108" rx="100" ry="28" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- fluted ridges down side (deeper pan) -->
+  <path d="M 35 135 L 45 195 M 65 142 L 73 200 M 100 148 L 105 207 M 145 152 L 145 213 M 190 148 L 185 207 M 225 142 L 217 200 M 255 135 L 245 195" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" fill="none"/>
+  <!-- removable bottom tab -->
+  <rect x="258" y="100" width="10" height="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- tail (long tapering, gently curved up) -->
+<path d="M 178 268 C 120 280 86 262 70 222 C 88 230 108 238 132 240 C 152 244 168 250 182 256 Z" fill="#6b8e23" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body -->
+<path d="M 160 240 C 220 214 300 214 360 246 C 392 264 396 300 360 312 C 300 330 220 330 168 300 C 140 284 138 252 160 240 Z" fill="#6b8e23" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<path d="M 348 246 C 392 240 416 256 414 280 C 412 302 388 312 350 306 C 330 290 330 262 348 246 Z" fill="#6b8e23" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- back legs -->
+<path d="M 220 312 L 200 360 M 200 360 L 188 374 M 200 360 L 206 376 M 200 360 L 214 372" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 224 312 L 206 358" fill="none" stroke="#6b8e23" stroke-width="14" stroke-linecap="round"/>
+<!-- front legs -->
+<path d="M 330 312 L 314 360 M 314 360 L 302 374 M 314 360 L 320 376 M 314 360 L 328 372" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 334 312 L 320 358" fill="none" stroke="#6b8e23" stroke-width="14" stroke-linecap="round"/>
+<!-- belly stripe -->
+<path d="M 180 300 C 240 318 300 318 356 300" fill="none" stroke="#e08a3a" stroke-width="12" stroke-linecap="round"/>
+<!-- eye -->
+<circle cx="384" cy="270" r="11" fill="#1a1a1a"/>
+<circle cx="388" cy="266" r="3.5" fill="#ffffff"/>
+<!-- crest dots -->
+<circle cx="250" cy="226" r="6" fill="#e08a3a"/>
+<circle cx="290" cy="222" r="6" fill="#e08a3a"/>
+<circle cx="210" cy="234" r="6" fill="#e08a3a"/>
+</svg>

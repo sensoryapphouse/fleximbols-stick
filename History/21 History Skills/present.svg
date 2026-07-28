@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0552) translate(-256.00 -256.00)">
+<!-- PRESENT / NOW: a "you-are-here" marker planted on the present point of a past<->future timeline -->
+<!-- timeline running past (left) to future (right) -->
+<line x1="48" y1="336" x2="464" y2="336" stroke="#34404e" stroke-width="10" stroke-linecap="round"/>
+<polygon points="480.0,336.0 452.0,320.0 452.0,352.0" fill="#34404e" stroke="#1a1a1a" stroke-width="6"/>
+<polygon points="32 336 60 320 60 352" fill="#9aa6b2"/>
+<!-- past-side ticks (greyed, behind) -->
+<g stroke="#9aa6b2" stroke-width="6" stroke-linecap="round">
+<line x1="96"  y1="336" x2="96"  y2="358"/>
+<line x1="152" y1="336" x2="152" y2="358"/>
+<line x1="208" y1="336" x2="208" y2="358"/>
+</g>
+<!-- future-side ticks (blue, ahead) -->
+<g stroke="#7fb6cc" stroke-width="6" stroke-linecap="round">
+<line x1="304" y1="336" x2="304" y2="358"/>
+<line x1="360" y1="336" x2="360" y2="358"/>
+<line x1="416" y1="336" x2="416" y2="358"/>
+</g>
+<!-- the NOW point on the timeline -->
+<circle cx="256" cy="336" r="13" fill="#d6533f" stroke="#a83a2a" stroke-width="4"/>
+<!-- big "you-are-here" map pin marking the present, pointing down at NOW -->
+<path d="M 256 304
+         C 214 232 184 214 184 162
+         A 72 72 0 1 1 328 162
+         C 328 214 298 232 256 304 Z"
+      fill="#d6533f" stroke="#a83a2a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="256" cy="162" r="34" fill="#fbf5e4" stroke="#a83a2a" stroke-width="7"/>
+<!-- small clock face inside the pin = this exact moment in time -->
+<circle cx="256" cy="162" r="23" fill="#fbf5e4" stroke="#34404e" stroke-width="4"/>
+<line x1="256" y1="162" x2="256" y2="146" stroke="#34404e" stroke-width="5" stroke-linecap="round"/>
+<line x1="256" y1="162" x2="270" y2="162" stroke="#34404e" stroke-width="5" stroke-linecap="round"/>
+<circle cx="256" cy="162" r="4" fill="#34404e"/>
+</g></svg>

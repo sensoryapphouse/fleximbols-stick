@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- house body dimmed below -->
+<rect x="140" y="300" width="232" height="112" rx="0" fill="#e9e2d2" stroke="#1a1a1a" stroke-width="8"/>
+<!-- highlighted roof attic space -->
+<path d="M 256 100 L 384 300 L 128 300 Z" fill="#f3efe6" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- attic floor line -->
+<line x1="140" y1="300" x2="372" y2="300" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- round attic window -->
+<circle cx="256" cy="206" r="34" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="256" y1="172" x2="256" y2="240" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="222" y1="206" x2="290" y2="206" stroke="#1a1a1a" stroke-width="6"/>
+<!-- stored boxes in attic -->
+<rect x="160" y="252" width="46" height="48" rx="3" fill="#c89a5b" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="306" y="258" width="44" height="42" rx="3" fill="#c89a5b" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

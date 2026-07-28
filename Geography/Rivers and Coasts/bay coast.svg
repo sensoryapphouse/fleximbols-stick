@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- curved indentation of coast forming a wide bay with land on three sides -->
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="60" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- sun -->
+  <circle cx="240" cy="35" r="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- land mass (green) - U-shape with bay cut out -->
+  <path d="M 0 60 L 290 60 L 290 240 L 0 240 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.33"/>
+
+  <!-- water (the bay) - curved indentation with land on three sides (left, top via opening at top, right). Bay opens to top -->
+  <path d="M 60 60 Q 60 100 80 130 Q 100 170 145 175 Q 190 170 210 130 Q 230 100 230 60 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+
+  <!-- inner lighter water -->
+  <path d="M 80 65 Q 80 105 100 135 Q 120 165 145 165 Q 170 165 190 135 Q 210 105 210 65 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- sandy beach rim inside the bay -->
+  <path d="M 60 60 Q 60 100 80 130 Q 100 170 145 175 Q 190 170 210 130 Q 230 100 230 60" fill="none" stroke="#eed5b6" stroke-width="8.89"/>
+  <path d="M 60 60 Q 60 100 80 130 Q 100 170 145 175 Q 190 170 210 130 Q 230 100 230 60" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- waves in the bay -->
+  <path d="M 100 110 Q 110 105 120 110 Q 130 115 140 110" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 150 130 Q 160 125 170 130 Q 180 135 190 130" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 120 145 Q 130 140 140 145 Q 150 150 160 145" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- trees on land (left headland) -->
+  <circle cx="30" cy="110" r="14" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="27" y="120" width="6" height="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="35" cy="180" r="14" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="32" y="190" width="6" height="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- trees on land (right headland) -->
+  <circle cx="260" cy="110" r="14" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="257" y="120" width="6" height="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="255" cy="180" r="14" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="252" y="190" width="6" height="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- bottom land (third side) tree -->
+  <circle cx="145" cy="210" r="14" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="142" y="220" width="6" height="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

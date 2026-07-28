@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g transform="translate(0.000,13.619) scale(0.9734)">
+<!-- menu card -->
+<rect x="140" y="96" width="232" height="320" rx="14" fill="#fff6cf" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- sundae glass -->
+<path d="M 222 196 L 290 196 L 274 248 Q 256 258 238 248 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<line x1="256" y1="256" x2="256" y2="286" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<ellipse cx="256" cy="292" rx="26" ry="8" fill="#c89a5b" stroke="#1a1a1a" stroke-width="7"/>
+<!-- ice cream scoops -->
+<circle cx="238" cy="188" r="22" fill="#f3cd6e" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="274" cy="188" r="22" fill="#e85a8a" stroke="#1a1a1a" stroke-width="8"/>
+<!-- cherry -->
+<circle cx="256" cy="160" r="11" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 256 150 Q 268 134 282 138" fill="none" stroke="#5aa83c" stroke-width="6" stroke-linecap="round"/>
+<!-- menu lines -->
+<g stroke="#9aa0a6" stroke-width="9" stroke-linecap="round">
+<line x1="172" y1="320" x2="340" y2="320"/>
+<line x1="172" y1="352" x2="340" y2="352"/>
+<line x1="172" y1="384" x2="300" y2="384"/>
+</g>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg1175" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg1175)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

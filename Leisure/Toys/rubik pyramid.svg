@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pyraminx: a tetrahedron with 2 visible triangular faces, each divided into 9 small triangles -->
+  <!-- Apex top, base across bottom. Left face and right face visible. -->
+  <!-- Apex: (145, 30). Base-left: (50, 210). Base-right: (240, 210). Centre-back point (visual seam): (145, 175) to suggest 3D -->
+  <!-- Left face: apex (145,30), base-left (50,210), centre (145,175) -->
+  <!-- Right face: apex (145,30), centre (145,175), base-right (240,210) -->
+  <!-- We'll subdivide each face into 9 small triangles (3 rows). -->
+
+  <!-- ===== LEFT FACE ===== outline -->
+  <path d="M145 30 L50 210 L145 175 Z" fill="#000000" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Row 1 (apex, 1 small triangle): vertices A=(145,30), L1=(113,90.67), R1=(145,78.33) -->
+  <path d="M145 30 L113 90.67 L145 78.33 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Row 2 (3 triangles): use points along edges at 2/3 from apex
+       Apex edge to base-left points: 1/3 -> (113,90.67), 2/3 -> (81.67,151.33)
+       Apex edge to centre points: 1/3 -> (145,78.33), 2/3 -> (145,126.67) -->
+  <!-- middle row left-up triangle: (113,90.67)(81.67,151.33)(113,138.67) -->
+  <path d="M113 90.67 L81.67 151.33 L113 138.67 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- middle row inverted triangle: (113,90.67)(113,138.67)(145,78.33) -->
+  <path d="M113 90.67 L113 138.67 L145 78.33 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- middle row right-up triangle: (145,78.33)(113,138.67)(145,126.67) -->
+  <path d="M145 78.33 L113 138.67 L145 126.67 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Row 3 (5 triangles) base row: (81.67,151.33)(50,210)(81.67,199)(113,138.67)(145,126.67)(113,187.33)(145,175) etc -->
+  <!-- bottom-left up: (81.67,151.33)(50,210)(81.67,199) -->
+  <path d="M81.67 151.33 L50 210 L81.67 199 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- inv: (81.67,151.33)(81.67,199)(113,138.67) -->
+  <path d="M81.67 151.33 L81.67 199 L113 138.67 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- up: (113,138.67)(81.67,199)(113,187.33) -->
+  <path d="M113 138.67 L81.67 199 L113 187.33 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- inv: (113,138.67)(113,187.33)(145,126.67) -->
+  <path d="M113 138.67 L113 187.33 L145 126.67 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- up: (145,126.67)(113,187.33)(145,175) -->
+  <path d="M145 126.67 L113 187.33 L145 175 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- ===== RIGHT FACE ===== outline -->
+  <path d="M145 30 L145 175 L240 210 Z" fill="#000000" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Apex-to-centre points 1/3 (145,78.33) 2/3 (145,126.67)
+       Apex-to-base-right points 1/3 (176.67,90) 2/3 (208.33,150) -->
+  <!-- Row 1 apex: (145,30)(145,78.33)(176.67,90) -->
+  <path d="M145 30 L145 78.33 L176.67 90 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Row 2 -->
+  <!-- centre points along centre-base edge: 1/3 -> (176.67,186.67) approx? centre(145,175) base(240,210); 1/3 (176.67,186.67), 2/3 (208.33,198.33). Apex-base-right 2/3 (208.33,150). -->
+  <!-- left-up tri: (145,78.33)(145,126.67)(176.67,138.33) -->
+  <path d="M145 78.33 L145 126.67 L176.67 138.33 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- inv: (145,78.33)(176.67,138.33)(176.67,90) -->
+  <path d="M145 78.33 L176.67 138.33 L176.67 90 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right-up: (176.67,90)(176.67,138.33)(208.33,150) -->
+  <path d="M176.67 90 L176.67 138.33 L208.33 150 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Row 3 (5 triangles) -->
+  <!-- (145,126.67)(145,175)(176.67,186.67) -->
+  <path d="M145 126.67 L145 175 L176.67 186.67 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- inv (145,126.67)(176.67,186.67)(176.67,138.33) -->
+  <path d="M145 126.67 L176.67 186.67 L176.67 138.33 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- (176.67,138.33)(176.67,186.67)(208.33,198.33) -->
+  <path d="M176.67 138.33 L176.67 186.67 L208.33 198.33 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- inv (176.67,138.33)(208.33,198.33)(208.33,150) -->
+  <path d="M176.67 138.33 L208.33 198.33 L208.33 150 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- (208.33,150)(208.33,198.33)(240,210) -->
+  <path d="M208.33 150 L208.33 198.33 L240 210 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

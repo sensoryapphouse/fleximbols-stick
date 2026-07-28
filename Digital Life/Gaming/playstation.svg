@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- slim vertical console tower -->
+  <rect x="115" y="25" width="48" height="115" rx="12" ry="12" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- subtle curve indent on tower -->
+  <rect x="125" y="35" width="28" height="70" rx="8" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- disc slot horizontal -->
+  <rect x="110" y="90" width="58" height="9" rx="4" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small power button on tower -->
+  <circle cx="139" cy="122" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- controller body — slim with two low thumbsticks -->
+  <path d="M 52,168 Q 42,162 36,176 Q 28,194 40,204 Q 54,212 68,204 L 82,188 L 206,188 L 220,204 Q 234,212 248,204 Q 260,194 252,176 Q 246,162 236,168 L 220,160 L 68,160 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- d-pad -->
+  <rect x="68" y="166" width="26" height="8" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="77" y="157" width="8" height="26" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- face buttons -->
+  <circle cx="205" cy="168" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="219" cy="174" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="191" cy="174" r="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="205" cy="180" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- LEFT thumbstick — LOW position -->
+  <circle cx="110" cy="188" r="11" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- RIGHT thumbstick — LOW position -->
+  <circle cx="168" cy="188" r="11" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- touch pad centre -->
+  <rect x="133" y="167" width="22" height="14" rx="5" ry="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

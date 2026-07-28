@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="93.60 67.14 416.97 416.97"><g>
+<!-- IV fluid bag (hanging) -->
+<path d="M 196 110 L 316 110 L 304 300 Q 256 320 208 300 Z" fill="#dbeefb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- fluid level -->
+<path d="M 200 190 L 312 190 L 304 300 Q 256 320 208 300 Z" fill="#9fd0ef" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="196" y1="190" x2="316" y2="190" stroke="#1a1a1a" stroke-width="6"/>
+<!-- hanger hole -->
+<path d="M 240 110 Q 256 84 272 110" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- drip chamber -->
+<rect x="240" y="318" width="32" height="48" rx="8" fill="#eef6fc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="340" r="5" fill="#4a8cc8"/>
+<!-- tube down then to a cannula -->
+<path d="M 256 366 L 256 410 Q 256 440 300 440 L 372 440" fill="none" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<path d="M 256 366 L 256 410 Q 256 440 300 440 L 372 440" fill="none" stroke="#9fd0ef" stroke-width="7" stroke-linecap="round"/>
+<!-- cannula tip -->
+<rect x="364" y="426" width="44" height="28" rx="6" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+</g></svg>

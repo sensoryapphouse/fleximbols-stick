@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 95.03 321.94 321.94">
+<!-- wall socket / power outlet faceplate (UK 3-hole) -->
+<rect x="142" y="120" width="228" height="272" rx="30" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- fixing screws -->
+<circle cx="256" cy="152" r="9" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256" cy="360" r="9" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="5"/>
+<!-- top earth slot -->
+<rect x="244" y="190" width="24" height="40" rx="5" fill="#1a1a1a"/>
+<!-- two lower slots -->
+<rect x="190" y="262" width="44" height="20" rx="5" fill="#1a1a1a"/>
+<rect x="278" y="262" width="44" height="20" rx="5" fill="#1a1a1a"/>
+<!-- on/off switch -->
+<rect x="190" y="312" width="44" height="26" rx="6" fill="#d63b46" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

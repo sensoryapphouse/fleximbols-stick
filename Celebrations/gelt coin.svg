@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Back coins (stack depth) -->
+  <ellipse cx="148" cy="185" rx="72" ry="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="148" cy="172" rx="72" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coin 3 (bottom) full -->
+  <ellipse cx="145" cy="168" rx="72" ry="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="162" rx="65" ry="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Gold foil crinkle lines coin 3 -->
+  <path d="M 95 162 Q 120 155 145 162 Q 170 155 195 162" fill="none" stroke="#f7de58" stroke-width="2.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coin 2 edge (stack) -->
+  <ellipse cx="145" cy="138" rx="72" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coin 2 face -->
+  <ellipse cx="145" cy="130" rx="72" ry="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="125" rx="65" ry="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Foil crinkle lines coin 2 -->
+  <path d="M 88 125 Q 115 116 145 125 Q 175 116 202 125" fill="none" stroke="#f7de58" stroke-width="2.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coin 1 edge -->
+  <ellipse cx="145" cy="102" rx="72" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coin 1 face (top) -->
+  <ellipse cx="145" cy="93" rx="72" ry="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="88" rx="65" ry="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Star of David impression on top coin -->
+  <polygon points="145,74 151,84 162,84 154,92 157,103 145,97 133,103 136,92 128,84 139,84" fill="none" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Foil crinkle lines top coin -->
+  <path d="M 88 88 Q 115 79 145 88 Q 175 79 202 88" fill="none" stroke="#f7de58" stroke-width="2.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Gold sheen highlight top coin -->
+  <path d="M 110 80 Q 130 73 150 80" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Foil wrapper peeking at side of top coin -->
+  <path d="M 73 93 Q 68 88 73 82" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 217 93 Q 222 88 217 82" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

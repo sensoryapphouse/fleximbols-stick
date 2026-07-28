@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Skull decoration: plainer decorative ornamental skull, less floral than calavera -->
+  <!-- Skull cranium -->
+  <ellipse cx="145" cy="108" rx="78" ry="80" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Jaw -->
+  <rect x="103" y="165" width="84" height="38" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Teeth dividers -->
+  <line x1="122" y1="165" x2="122" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="165" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="168" y1="165" x2="168" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Left eye socket: rounded square -->
+  <rect x="88" y="98" width="46" height="40" rx="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right eye socket: rounded square -->
+  <rect x="156" y="98" width="46" height="40" rx="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Nose cavity: heart-shaped upside down -->
+  <path d="M 145 152 C 138 144 128 140 128 133 C 128 126 136 123 145 130 C 154 123 162 126 162 133 C 162 140 152 144 145 152 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Decorative band across forehead -->
+  <rect x="67" y="72" width="156" height="14" rx="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dots on band -->
+  <circle cx="95" cy="79" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="115" cy="79" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="135" cy="79" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="145" cy="79" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="155" cy="79" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="175" cy="79" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="195" cy="79" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Crown / top ornament -->
+  <path d="M 115 33 L 125 55 L 145 38 L 165 55 L 175 33 L 165 48 L 145 32 L 125 48 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Crown jewel -->
+  <circle cx="145" cy="38" r="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Cheek scroll left -->
+  <path d="M 75 120 C 68 112 70 100 80 98" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 75 130 C 65 122 66 108 78 105" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Cheek scroll right -->
+  <path d="M 215 120 C 222 112 220 100 210 98" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 215 130 C 225 122 224 108 212 105" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Chin decoration: small diamond -->
+  <path d="M 145 185 L 152 193 L 145 201 L 138 193 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

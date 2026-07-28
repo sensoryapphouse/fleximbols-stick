@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="73.70 85.64 364.61 364.61">
+<!-- sick note: medical certificate sheet with red cross stamp -->
+<!-- paper sheet, slight tilt -->
+<g transform="rotate(-4 256 268)">
+<rect x="146" y="120" width="220" height="296" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- header bar -->
+<rect x="146" y="120" width="220" height="44" rx="10" fill="#7fb5e6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- red cross stamp -->
+<circle cx="312" cy="206" r="34" fill="none" stroke="#d63b46" stroke-width="7"/>
+<rect x="304" y="188" width="16" height="36" rx="2" fill="#d63b46"/>
+<rect x="294" y="198" width="36" height="16" rx="2" fill="#d63b46"/>
+<!-- text lines -->
+<g stroke="#9aa7b2" stroke-width="10" stroke-linecap="round">
+<line x1="172" y1="200" x2="266" y2="200"/>
+<line x1="172" y1="232" x2="256" y2="232"/>
+<line x1="172" y1="272" x2="340" y2="272"/>
+<line x1="172" y1="304" x2="340" y2="304"/>
+<line x1="172" y1="336" x2="300" y2="336"/>
+</g>
+<!-- signature scribble -->
+<path d="M 184 378 q 18 -20 34 0 q 14 18 30 -2 q 14 -14 28 4" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="123.15 147.90 265.70 265.70">
+<!-- verruca: sole of a foot with a wart (verruca) ringed in red -->
+
+<!-- foot / forefoot pad (drawn first, toes overlap onto it) -->
+<path d="M 196 400
+         Q 182 320 196 250
+         Q 206 214 256 214
+         Q 306 214 316 250
+         Q 330 320 316 400
+         Q 256 424 196 400 Z"
+      fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+
+<!-- toes: a clean graded row, each an ellipse whose base sinks into the foot pad -->
+<ellipse cx="216" cy="220" rx="16" ry="24" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="245" cy="210" rx="14" ry="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="271" cy="208" rx="13" ry="21" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="294" cy="212" rx="11" ry="19" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="313" cy="220" rx="10" ry="17" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6"/>
+<!-- foot-pad top edge drawn OVER the toe bases (fills, hiding lower toe outlines) -->
+<path d="M 196 248 Q 206 214 256 214 Q 306 214 316 248 Q 256 258 196 248 Z"
+      fill="#f1c9a5" stroke="none"/>
+<path d="M 200 244 Q 256 222 312 244" fill="none" stroke="#1a1a1a" stroke-width="0"/>
+
+<!-- verruca: the wart -->
+<circle cx="252" cy="322" r="27" fill="#e7c9a0" stroke="#9a6a3a" stroke-width="4"/>
+<circle cx="252" cy="322" r="27" fill="none" stroke="#caa46a" stroke-width="3"/>
+<!-- black seed dots -->
+<circle cx="246" cy="318" r="3" fill="#6b4a2b"/>
+<circle cx="257" cy="324" r="3" fill="#6b4a2b"/>
+<circle cx="250" cy="328" r="3" fill="#6b4a2b"/>
+<circle cx="259" cy="316" r="2.5" fill="#6b4a2b"/>
+<!-- red inflammation ring -->
+<circle cx="252" cy="322" r="42" fill="none" stroke="#e0473c" stroke-width="5"/>
+</svg>

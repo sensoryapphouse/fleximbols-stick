@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="63.15 43.52 384.00 384.00">
+<!-- shaker tube -->
+<rect x="176" y="210" width="120" height="190" rx="10" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- lid -->
+<rect x="166" y="178" width="140" height="40" rx="8" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- glitter level inside tube -->
+<path d="M 181 330 L 291 330 L 291 392 Q 291 395 288 395 L 184 395 Q 181 395 181 392 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- sparkles pouring out, four-point stars -->
+<g fill="#f4c430" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round">
+<path d="M 236 70 L 244 96 L 270 104 L 244 112 L 236 138 L 228 112 L 202 104 L 228 96 Z"/>
+<path d="M 320 110 L 326 128 L 344 134 L 326 140 L 320 158 L 314 140 L 296 134 L 314 128 Z"/>
+<path d="M 168 130 L 173 146 L 189 151 L 173 156 L 168 172 L 163 156 L 147 151 L 163 146 Z"/>
+</g>
+<!-- small dot sparkles -->
+<g fill="#e85a8a" stroke="#1a1a1a" stroke-width="4">
+<circle cx="360" cy="170" r="8"/>
+<circle cx="150" cy="200" r="8"/>
+<circle cx="300" cy="160" r="7"/>
+</g>
+</svg>

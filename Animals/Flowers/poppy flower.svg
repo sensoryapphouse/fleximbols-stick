@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- stem -->
+  <line x1="145" y1="185" x2="145" y2="230" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- hairy stem detail -->
+  <line x1="145" y1="210" x2="135" y2="204" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
+  <line x1="145" y1="220" x2="157" y2="213" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
+  <line x1="145" y1="198" x2="133" y2="191" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
+  <!-- petal top-left -->
+  <ellipse cx="110" cy="108" rx="38" ry="32" transform="rotate(-35 110 108)" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- petal top-right -->
+  <ellipse cx="180" cy="108" rx="38" ry="32" transform="rotate(35 180 108)" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- petal bottom-left -->
+  <ellipse cx="110" cy="155" rx="38" ry="32" transform="rotate(35 110 155)" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- petal bottom-right -->
+  <ellipse cx="180" cy="155" rx="38" ry="32" transform="rotate(-35 180 155)" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- dark centre -->
+  <circle cx="145" cy="130" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- centre dot -->
+  <circle cx="145" cy="130" r="10" fill="#000000"/>
+</g></svg>

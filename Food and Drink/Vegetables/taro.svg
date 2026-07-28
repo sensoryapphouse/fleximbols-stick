@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- round taro root, brown skin -->
+  <ellipse cx="110" cy="130" rx="65" ry="78" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- horizontal ring patterns on skin -->
+  <path d="M55 95 C 80 90, 140 90, 165 96" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M50 115 C 78 110, 142 110, 170 116" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M48 135 C 78 130, 142 130, 172 136" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M50 155 C 78 152, 142 152, 170 158" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M55 175 C 80 172, 140 172, 165 178" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- tuft of small leaves on top -->
+  <path d="M100 60 C 95 40, 105 30, 110 50 C 115 30, 125 40, 120 60 Z"
+        fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cut slice showing white-purple speckled flesh -->
+  <ellipse cx="220" cy="155" rx="42" ry="48" fill="#efefef" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- skin ring on cut slice -->
+  <ellipse cx="220" cy="155" rx="42" ry="48" fill="none" stroke="#9d7246" stroke-width="7.11"/>
+  <ellipse cx="220" cy="155" rx="42" ry="48" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- purple speckles in flesh -->
+  <circle cx="205" cy="135" r="2.5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="225" cy="140" r="2.5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="215" cy="160" r="2.5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="235" cy="165" r="2.5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="210" cy="175" r="2.5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="228" cy="180" r="2.5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="1.78"/>
+</g></svg>

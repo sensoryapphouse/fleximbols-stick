@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- electric sharpener: boxy body, insertion hole on front, cord with plug -->
+  <!-- main body, boxy with rounded corners -->
+  <rect x="70" y="70" width="150" height="130" rx="10" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- top vent slats -->
+  <line x1="90" y1="85" x2="200" y2="85" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="90" y1="95" x2="200" y2="95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- front face panel -->
+  <rect x="85" y="105" width="120" height="80" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- insertion hole, conical/funnel look -->
+  <ellipse cx="145" cy="145" rx="22" ry="14" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="143" rx="15" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- power LED -->
+  <circle cx="190" cy="170" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- motor label area at top of front -->
+  <rect x="100" y="115" width="30" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="105" y1="122" x2="125" y2="122" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- shavings tray bottom seam -->
+  <line x1="70" y1="180" x2="220" y2="180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- cord, snaking out right side -->
+  <path d="M 220 130 Q 250 130 250 160 Q 250 195 230 200 Q 215 205 230 215" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- plug at end -->
+  <rect x="220" y="210" width="22" height="18" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="226" y1="207" x2="226" y2="212" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="236" y1="207" x2="236" y2="212" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

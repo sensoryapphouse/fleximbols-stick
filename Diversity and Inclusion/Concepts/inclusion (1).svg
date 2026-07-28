@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Large ring -->
+  <circle cx="145" cy="122" r="95" fill="none" stroke="#2a4ec0" stroke-width="6.66"/>
+
+  <!-- Figure 1: top (skin #eed5b6, blue shirt) -->
+  <ellipse cx="145" cy="28" rx="11" ry="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="135" y="41" width="20" height="32" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- arms holding ring neighbours -->
+  <line x1="135" y1="48" x2="118" y2="62" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="48" x2="172" y2="62" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="135" y1="73" x2="130" y2="98" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="73" x2="160" y2="98" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Figure 2: top-right (skin #e6b98a, red shirt) -->
+  <ellipse cx="212" cy="55" rx="11" ry="11" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="68" width="20" height="32" rx="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="202" y1="75" x2="186" y2="86" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="222" y1="75" x2="236" y2="86" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="202" y1="100" x2="198" y2="122" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="222" y1="100" x2="226" y2="122" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Figure 3: right (skin #9d7246, green shirt) -->
+  <ellipse cx="244" cy="122" rx="11" ry="11" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="234" y="135" width="20" height="32" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="234" y1="142" x2="218" y2="148" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="254" y1="142" x2="266" y2="148" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="234" y1="167" x2="230" y2="195" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="254" y1="167" x2="258" y2="195" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Figure 4: bottom (skin #5e1f0a, orange shirt) -->
+  <ellipse cx="145" cy="210" rx="11" ry="11" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="135" y="177" width="20" height="32" rx="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="135" y1="184" x2="118" y2="172" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="184" x2="172" y2="172" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Figure 5: left (skin #eed5b6, purple shirt, hijab) -->
+  <ellipse cx="46" cy="122" rx="11" ry="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 35,116 Q 35,102 46,102 Q 57,102 57,116 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="36" y="135" width="20" height="32" rx="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="36" y1="142" x2="24" y2="148" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="56" y1="142" x2="72" y2="148" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="36" y1="167" x2="32" y2="195" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="56" y1="167" x2="60" y2="195" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- spray: trigger spray bottle with droplet fan -->
+<!-- bottle body -->
+<rect x="170" y="234" width="128" height="174" rx="22" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- liquid level -->
+<path d="M 170 300 L 298 300 L 298 386 Q 298 408 276 408 L 192 408 Q 170 408 170 386 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="170" y="234" width="128" height="174" rx="22" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<!-- neck -->
+<rect x="206" y="210" width="56" height="28" rx="6" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- trigger head body -->
+<path d="M 196 210 L 272 210 L 272 178 L 196 178 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- nozzle pointing left -->
+<rect x="160" y="180" width="40" height="20" rx="5" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9"/>
+<!-- trigger lever -->
+<path d="M 226 210 L 214 250 L 232 250 L 240 210 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- droplet fan to the left -->
+<g fill="#8cc152" stroke="#1a1a1a" stroke-width="5">
+<path d="M 132 190 C 124 198 124 204 132 208 C 140 204 140 198 132 190 Z"/>
+<path d="M 110 162 C 102 170 102 176 110 180 C 118 176 118 170 110 162 Z"/>
+<path d="M 108 218 C 100 226 100 232 108 236 C 116 232 116 226 108 218 Z"/>
+<path d="M 84 192 C 76 200 76 206 84 210 C 92 206 92 200 84 192 Z"/>
+</g>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2331" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2331)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

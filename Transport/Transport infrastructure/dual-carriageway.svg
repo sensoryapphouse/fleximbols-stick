@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- left carriageway (converges to vanishing point) -->
+<path d="M 128 420 L 226 116 L 250 116 L 244 420 Z" fill="#5a5f64" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right carriageway (converges to vanishing point) -->
+<path d="M 384 420 L 286 116 L 262 116 L 268 420 Z" fill="#5a5f64" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tapering central reservation (green median) -->
+<path d="M 244 420 L 250 116 L 262 116 L 268 420 Z" fill="#8cc152" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- left lane dashes -->
+<line x1="186" y1="420" x2="238" y2="126" stroke="#fff" stroke-width="8" stroke-dasharray="26 24" stroke-linecap="round"/>
+<!-- right lane dashes -->
+<line x1="326" y1="420" x2="274" y2="126" stroke="#fff" stroke-width="8" stroke-dasharray="26 24" stroke-linecap="round"/>
+</g></svg>

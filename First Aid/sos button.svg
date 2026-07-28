@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Signal arcs left -->
+  <path d="M108 130 Q88 110 108 88" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M96 138 Q68 110 96 80" fill="none" stroke="#f8130d" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Signal arcs right -->
+  <path d="M182 130 Q202 110 182 88" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M194 138 Q222 110 194 80" fill="none" stroke="#f8130d" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Button body -->
+  <circle cx="145" cy="110" r="38" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Button highlight -->
+  <ellipse cx="133" cy="97" rx="13" ry="8" fill="#ffffff" stroke="none"/>
+  <!-- Base -->
+  <rect x="100" y="148" width="90" height="22" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small call triangle icon below button -->
+  <polygon points="145,162 136,175 154,175" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+</g></svg>

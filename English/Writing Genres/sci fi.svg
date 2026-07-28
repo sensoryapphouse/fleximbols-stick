@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- book back cover -->
+  <path d="M55 35 L235 35 L235 215 L55 215 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- book front cover - deep space -->
+  <path d="M62 30 L228 30 L228 210 L62 210 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- spine -->
+  <path d="M62 30 L62 210" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- planet -->
+  <circle cx="190" cy="70" r="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- planet ring -->
+  <path d="M168 70 Q190 78 212 70" fill="none" stroke="#f5e7c4" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- stars -->
+  <circle cx="85" cy="60" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="110" cy="80" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="200" cy="120" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="80" cy="120" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="215" cy="155" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- rocket body -->
+  <path d="M135 100 Q135 90 145 80 Q155 90 155 100 L155 165 L135 165 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- rocket window -->
+  <circle cx="145" cy="115" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rocket fin left -->
+  <path d="M135 145 L120 175 L135 170 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- rocket fin right -->
+  <path d="M155 145 L170 175 L155 170 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- rocket band -->
+  <path d="M135 130 L155 130" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- flame -->
+  <path d="M138 165 L145 195 L152 165 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M141 165 L145 185 L149 165 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

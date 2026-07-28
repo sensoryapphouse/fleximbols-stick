@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Small plate -->
+  <ellipse cx="145" cy="208" rx="112" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="204" rx="112" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dusting of rice flour on plate -->
+  <ellipse cx="145" cy="202" rx="95" ry="10" fill="#efefef" stroke="none"/>
+
+  <!-- Mochi 1 - pink (strawberry) back left -->
+  <ellipse cx="95" cy="172" rx="42" ry="32" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Soft pinch at top of pink mochi -->
+  <path d="M85 145 Q95 138 105 145" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Flour dusting on pink mochi -->
+  <ellipse cx="95" cy="162" rx="18" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- Mochi 2 - green (matcha) back right -->
+  <ellipse cx="200" cy="170" rx="42" ry="32" fill="#67832d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Soft pinch on green mochi -->
+  <path d="M190 143 Q200 136 210 143" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Flour dusting on green mochi -->
+  <ellipse cx="200" cy="160" rx="18" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- Mochi 3 - white (plain) front center -->
+  <ellipse cx="148" cy="183" rx="45" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Soft pinch on white mochi -->
+  <path d="M136 154 Q148 147 160 154" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Flour dusting on white mochi -->
+  <ellipse cx="148" cy="174" rx="20" ry="9" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Subtle belly crease on white mochi -->
+  <path d="M118 185 Q148 192 178 185" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

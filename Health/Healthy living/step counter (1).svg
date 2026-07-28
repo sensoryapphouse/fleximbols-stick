@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Watch body -->
+  <rect x="88" y="62" width="114" height="126" rx="22" fill="#529929" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Watch screen -->
+  <rect x="98" y="74" width="94" height="102" rx="14" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Watch band top -->
+  <rect x="110" y="40" width="70" height="28" rx="8" fill="#67832d" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="118" y1="46" x2="174" y2="46" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="118" y1="62" x2="174" y2="62" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Watch band bottom -->
+  <rect x="110" y="188" width="70" height="28" rx="8" fill="#67832d" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="118" y1="194" x2="174" y2="194" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="118" y1="210" x2="174" y2="210" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Crown button -->
+  <rect x="202" y="112" width="10" height="26" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Step count digits (7-segment style): "8 4 3 2" drawn as polylines, fill=#000000, stroke-width=2 -->
+  <!-- Digit "8" at x=107 -->
+  <!-- top seg --> <line x1="109" y1="79" x2="115" y2="79" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- top-left seg --> <line x1="108" y1="80" x2="108" y2="86" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- top-right seg --> <line x1="116" y1="80" x2="116" y2="86" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- mid seg --> <line x1="109" y1="87" x2="115" y2="87" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- bot-left seg --> <line x1="108" y1="88" x2="108" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- bot-right seg --> <line x1="116" y1="88" x2="116" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- bot seg --> <line x1="109" y1="95" x2="115" y2="95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- comma dot after 8 -->
+  <circle cx="119" cy="94" r="1.5" fill="#000000"/>
+  <!-- Digit "4" at x=122 -->
+  <!-- top-left seg --> <line x1="122" y1="80" x2="122" y2="86" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- top-right seg --> <line x1="130" y1="80" x2="130" y2="86" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- mid seg --> <line x1="123" y1="87" x2="129" y2="87" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- bot-right seg --> <line x1="130" y1="88" x2="130" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Digit "3" at x=133 -->
+  <!-- top seg --> <line x1="134" y1="79" x2="140" y2="79" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- top-right seg --> <line x1="141" y1="80" x2="141" y2="86" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- mid seg --> <line x1="134" y1="87" x2="140" y2="87" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- bot-right seg --> <line x1="141" y1="88" x2="141" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- bot seg --> <line x1="134" y1="95" x2="140" y2="95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Digit "2" at x=144 -->
+  <!-- top seg --> <line x1="145" y1="79" x2="151" y2="79" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- top-right seg --> <line x1="152" y1="80" x2="152" y2="86" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- mid seg --> <line x1="145" y1="87" x2="151" y2="87" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- bot-left seg --> <line x1="144" y1="88" x2="144" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- bot seg --> <line x1="145" y1="95" x2="151" y2="95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- "steps" indicator: three small step bars below digits -->
+  <rect x="118" y="110" width="10" height="4" rx="1" fill="#7f7f7f"/>
+  <rect x="130" y="106" width="10" height="8" rx="1" fill="#7f7f7f"/>
+  <rect x="142" y="102" width="10" height="12" rx="1" fill="#7f7f7f"/>
+  <!-- Shoe silhouette on screen -->
+  <path d="M 108 148 Q 110 136 122 132 Q 134 128 148 130 Q 160 132 164 126 Q 168 120 176 122 Q 182 126 180 134 Q 178 140 164 142 Q 148 144 132 144 Q 120 144 116 150 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shoe sole -->
+  <path d="M 108 148 Q 110 155 130 156 Q 155 157 174 152 Q 182 148 180 142 Q 178 148 164 150 Q 145 153 120 152 Q 112 152 108 148 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shoe laces -->
+  <line x1="126" y1="132" x2="128" y2="142" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="136" y1="130" x2="138" y2="142" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="146" y1="130" x2="148" y2="142" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="124" y1="136" x2="150" y2="136" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Progress bar below shoe -->
+  <rect x="106" y="160" width="78" height="8" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="106" y="160" width="56" height="8" rx="4" fill="#529929" stroke="none"/>
+  <!-- Goal flag at end of bar -->
+  <line x1="184" y1="156" x2="184" y2="172" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="184,156 184,163 191,160" fill="#f8130d" stroke="none"/>
+</g></svg>

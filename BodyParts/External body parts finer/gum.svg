@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- an open mouth showing pink gums above the white teeth, gums highlighted -->
+<!-- lips/mouth outer -->
+<path d="M110 232 Q256 168 402 232 Q256 296 110 232 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- upper gum band (pink, highlighted) -->
+<path d="M140 232 Q256 188 372 232 L372 260 Q256 222 140 260 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- teeth row -->
+<path d="M140 258 Q256 224 372 258 L368 300 Q256 268 144 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- tooth divisions -->
+<line x1="196" y1="248" x2="194" y2="288" stroke="#9aa0a6" stroke-width="5" stroke-linecap="round"/>
+<line x1="256" y1="240" x2="256" y2="284" stroke="#9aa0a6" stroke-width="5" stroke-linecap="round"/>
+<line x1="316" y1="248" x2="318" y2="288" stroke="#9aa0a6" stroke-width="5" stroke-linecap="round"/>
+<!-- callout ring on gum -->
+<circle cx="256" cy="226" r="44" fill="none" stroke="#d63b46" stroke-width="8"/>
+</svg>

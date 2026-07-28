@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ergonomic curved body -->
+  <path d="M30 80 Q145 60 260 80 L260 180 Q145 200 30 180 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- inner panel -->
+  <path d="M44 92 Q145 76 246 92 L246 168 Q145 184 44 168 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- backlit keys row 1 -->
+  <rect x="56" y="98" width="20" height="16" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="80" y="96" width="20" height="16" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="104" y="94" width="20" height="16" rx="2" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="128" y="92" width="20" height="16" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="152" y="92" width="20" height="16" rx="2" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="176" y="94" width="20" height="16" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="96" width="20" height="16" rx="2" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="224" y="98" width="20" height="16" rx="2" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row 2 -->
+  <rect x="56" y="118" width="20" height="16" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="80" y="118" width="20" height="16" rx="2" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="104" y="118" width="20" height="16" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="128" y="118" width="20" height="16" rx="2" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="152" y="118" width="20" height="16" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="176" y="118" width="20" height="16" rx="2" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="118" width="20" height="16" rx="2" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="224" y="118" width="20" height="16" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row 3 -->
+  <rect x="56" y="138" width="20" height="16" rx="2" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="80" y="138" width="20" height="16" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="104" y="138" width="20" height="16" rx="2" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="128" y="138" width="20" height="16" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="152" y="138" width="20" height="16" rx="2" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="176" y="138" width="20" height="16" rx="2" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="138" width="20" height="16" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="224" y="138" width="20" height="16" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- spacebar -->
+  <rect x="92" y="158" width="106" height="14" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- glow underneath -->
+  <path d="M44 168 Q145 184 246 168" fill="none" stroke="#7c3fac" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

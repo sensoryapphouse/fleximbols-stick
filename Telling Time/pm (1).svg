@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- PM: crescent moon + stars + clock showing evening ~6 o'clock -->
+  <!-- Clock face -->
+  <circle cx="145" cy="148" r="72" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="145" cy="148" r="60" fill="#dff3fd" stroke="none"/>
+  <!-- Clock hour markers -->
+  <rect x="142" y="96" width="6" height="12" rx="3" fill="#4d4d4d"/>
+  <rect x="142" y="180" width="6" height="12" rx="3" fill="#4d4d4d"/>
+  <rect x="88" y="145" width="12" height="6" rx="3" fill="#4d4d4d"/>
+  <rect x="190" y="145" width="12" height="6" rx="3" fill="#4d4d4d"/>
+  <!-- Hour hand pointing ~6 (straight down) -->
+  <rect x="141" y="148" width="8" height="44" rx="4" ry="4" fill="#000000"/>
+  <!-- Minute hand pointing ~12 (straight up) -->
+  <rect x="142" y="102" width="6" height="46" rx="3" ry="3" fill="#000000"/>
+  <!-- Centre dot -->
+  <circle cx="145" cy="148" r="5" fill="#000000"/>
+  <!-- Crescent moon top-right -->
+  <circle cx="192" cy="52" r="32" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="206" cy="44" r="28" fill="#1d0e82" stroke="none"/>
+  <!-- Stars -->
+  <polygon points="132,30 135,40 145,40 137,46 140,56 132,50 124,56 127,46 119,40 129,40" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="62,52 64,58 70,58 65,62 67,68 62,64 57,68 59,62 54,58 60,58" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="80,18 82,24 88,24 83,28 85,34 80,30 75,34 77,28 72,24 78,24" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

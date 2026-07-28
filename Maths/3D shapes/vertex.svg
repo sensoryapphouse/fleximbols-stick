@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="104.80 109.92 329.70 329.70"><!-- vertex: a cube with one corner point highlighted by a red dot -->
+<!-- oblique cube, depth offset (+80,-50) -->
+<!-- right side face (darker) -->
+<polygon points="330,200 410,150 410,350 330,400" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top face (lighter) -->
+<polygon points="130,200 210,150 410,150 330,200" fill="#bcdcff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- front face -->
+<polygon points="130,200 330,200 330,400 130,400" fill="#7db9ec" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- highlighted vertex: front-top-right corner of cube -->
+<circle cx="330" cy="200" r="26" fill="#e8473f" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

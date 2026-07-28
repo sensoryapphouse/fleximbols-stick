@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="70" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun -->
+  <circle cx="55" cy="38" r="14" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rainbow arcs over the falls -->
+  <path d="M40 110 Q145 30 250 110" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M55 110 Q145 45 235 110" fill="none" stroke="#ff9900" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M70 110 Q145 60 220 110" fill="none" stroke="#f2e40d" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M85 110 Q145 72 205 110" fill="none" stroke="#529929" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M100 110 Q145 85 190 110" fill="none" stroke="#2a4ec0" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- cliff edge - wide horizontal ledge -->
+  <rect x="10" y="100" width="270" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- waterfall curtain (wide) -->
+  <path d="M15 122 L20 215 L275 215 L270 122 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- vertical water streaks -->
+  <path d="M50 125 L52 210" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M90 125 L92 210" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 125 L132 210" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M170 125 L172 210" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M210 125 L212 210" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M250 125 L252 210" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- mist clouds at base -->
+  <ellipse cx="60" cy="218" rx="30" ry="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="222" rx="40" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="225" cy="218" rx="30" ry="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- riverbank vegetation -->
+  <path d="M10 100 L10 122 L18 122 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M280 100 L280 122 L272 122 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

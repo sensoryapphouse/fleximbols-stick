@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Base/dish of tagine -->
+  <ellipse cx="145" cy="198" rx="95" ry="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 198 Q50 178 145 178 Q240 178 240 198Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Base dish rim detail -->
+  <ellipse cx="145" cy="178" rx="95" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Decorative band on base -->
+  <path d="M65 190 Q145 185 225 190" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Conical lid -->
+  <path d="M60 178 Q80 130 145 60 Q210 130 230 178Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lid colour bands / decoration -->
+  <path d="M80 158 Q145 145 210 158" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 140 Q145 130 195 140" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M115 118 Q145 110 175 118" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lid-base seam highlight -->
+  <ellipse cx="145" cy="178" rx="90" ry="10" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Knob at top of lid -->
+  <circle cx="145" cy="62" r="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="62" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Steam wisps from lid seam -->
+  <path d="M120 165 Q116 152 120 140" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 163 Q141 149 145 136" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M170 165 Q166 152 170 140" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Base shadow -->
+  <ellipse cx="145" cy="214" rx="90" ry="8" fill="#b8b8b8" stroke="none"/>
+</g></svg>

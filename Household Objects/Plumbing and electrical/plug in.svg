@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wall socket on the right -->
+  <rect x="180" y="38" width="88" height="164" rx="10" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Socket face plate screw holes (top and bottom) -->
+  <circle cx="224" cy="56" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="224" cy="184" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Left socket hole -->
+  <rect x="200" y="96" width="16" height="26" rx="5" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right socket hole -->
+  <rect x="232" y="96" width="16" height="26" rx="5" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Plug body being inserted — moving right (connection made, prongs entering) -->
+  <rect x="60" y="78" width="110" height="84" rx="12" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Plug face plate detail -->
+  <rect x="72" y="90" width="86" height="60" rx="8" ry="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Left prong -->
+  <rect x="117" y="102" width="14" height="26" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right prong -->
+  <rect x="139" y="102" width="14" height="26" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cord going left from plug -->
+  <path d="M60 120 Q30 120 18 120" fill="none" stroke="#4d4d4d" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Motion arrow indicating plug moving right (inserting) -->
+  <polygon points="168,108 184,120 168,132" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

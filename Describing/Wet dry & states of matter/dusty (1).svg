@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Shelf back panel -->
+  <rect x="30" y="70" width="230" height="120" rx="8" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Box on shelf -->
+  <rect x="56" y="90" width="66" height="70" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small vase/cylinder on shelf -->
+  <rect x="170" y="106" width="40" height="54" rx="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="190" cy="106" rx="20" ry="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dust layer on top of shelf surface (shelf board) -->
+  <rect x="30" y="180" width="230" height="14" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dust layer on top of box -->
+  <rect x="56" y="88" width="66" height="10" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dust layer on top of vase -->
+  <rect x="170" y="98" width="40" height="10" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Finger swipe streak through dust on shelf board -->
+  <path d="M60,187 Q145,183 230,187" fill="none" stroke="#efefef" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M60,187 Q145,183 230,187" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <!-- Floating dust specks -->
+  <circle cx="110" cy="58" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="170" cy="48" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="68" cy="45" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="218" cy="54" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="144" cy="42" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="244" cy="62" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="46" cy="60" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Shelf bracket supports -->
+  <rect x="44" y="184" width="12" height="40" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="234" y="184" width="12" height="40" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- pectoral flipper: one clean convex leading edge (top), broad belly (bottom),
+     narrow rounded base top-left, rounded tip lower-right -->
+<path d="M 160 122
+         C 236 130 322 200 368 302
+         C 388 344 380 372 346 372
+         C 278 374 196 322 152 244
+         C 126 198 126 152 140 132
+         C 145 125 152 121 160 122 Z"
+      fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- finger-bone hint lines fanning toward the tip -->
+<path d="M 178 174 C 228 238 296 308 338 344" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+<path d="M 210 162 C 260 216 314 280 348 320" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+<path d="M 248 158 C 292 198 328 248 356 296" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+</svg>

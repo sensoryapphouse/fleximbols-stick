@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sleeping-mask: soft padded EYE-MASK for sleep, blue/purple, adjustable strap -->
+  <!-- Strap going around (two horizontal lines each side) -->
+  <!-- Left strap -->
+  <path d="M20,118 Q45,108 68,112" fill="none" stroke="#392170" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M20,130 Q45,122 68,124" fill="none" stroke="#392170" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Right strap -->
+  <path d="M222,112 Q245,108 270,118" fill="none" stroke="#392170" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M222,124 Q245,122 270,130" fill="none" stroke="#392170" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Strap adjuster buckle on left side -->
+  <rect x="28" y="110" width="18" height="22" rx="4" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="37" y1="110" x2="37" y2="132" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Main mask body (wide soft padded shape) -->
+  <!-- Convex top/bottom padding shape with eye cavities -->
+  <path d="M68,90 Q90,68 145,68 Q200,68 222,90 Q240,108 235,130 Q228,152 210,158 Q190,165 145,165 Q100,165 80,158 Q62,152 55,130 Q50,108 68,90 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Padding highlight (lighter strip across top) -->
+  <path d="M80,82 Q145,70 210,82 Q215,88 210,92 Q145,80 80,92 Q75,88 80,82 Z" fill="#9d7246" stroke="none"/>
+  <!-- Soft quilted indentations (suggest padded fabric) -->
+  <path d="M90,120 Q105,106 120,120 Q105,134 90,120 Z" fill="#392170" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M170,120 Q185,106 200,120 Q185,134 170,120 Z" fill="#392170" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Centre nose bridge contour -->
+  <path d="M120,128 Q145,140 170,128" fill="none" stroke="#392170" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mask bottom edge decorative piping -->
+  <path d="M80,158 Q145,168 210,158" fill="none" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Trunk -->
+  <rect x="133" y="170" width="24" height="55" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Main branches -->
+  <line x1="145" y1="175" x2="90" y2="130" stroke="#9d7246" stroke-width="11.85" stroke-linecap="round"/>
+  <line x1="145" y1="172" x2="200" y2="130" stroke="#9d7246" stroke-width="11.85" stroke-linecap="round"/>
+  <line x1="145" y1="170" x2="145" y2="115" stroke="#9d7246" stroke-width="10.36" stroke-linecap="round"/>
+  <line x1="145" y1="165" x2="70" y2="155" stroke="#9d7246" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="145" y1="165" x2="220" y2="155" stroke="#9d7246" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Green foliage base (behind flowers) -->
+  <ellipse cx="145" cy="120" rx="90" ry="65" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Dogwood flower bracts — 4-petal, notched at tip -->
+  <!-- Flower 1: center top -->
+  <g transform="translate(145,88)">
+    <ellipse cx="0" cy="-14" rx="10" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="14" cy="0" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="0" cy="14" rx="10" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="-14" cy="0" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="0" cy="0" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  </g>
+  <!-- Flower 2: upper left -->
+  <g transform="translate(98,105)">
+    <ellipse cx="0" cy="-12" rx="9" ry="12" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="12" cy="0" rx="12" ry="9" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="0" cy="12" rx="9" ry="12" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="-12" cy="0" rx="12" ry="9" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="0" cy="0" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  </g>
+  <!-- Flower 3: upper right -->
+  <g transform="translate(192,105)">
+    <ellipse cx="0" cy="-12" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="12" cy="0" rx="12" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="0" cy="12" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="-12" cy="0" rx="12" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="0" cy="0" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  </g>
+  <!-- Flower 4: mid left -->
+  <g transform="translate(73,140)">
+    <ellipse cx="0" cy="-11" rx="8" ry="11" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="11" cy="0" rx="11" ry="8" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="0" cy="11" rx="8" ry="11" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="-11" cy="0" rx="11" ry="8" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="0" cy="0" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  </g>
+  <!-- Flower 5: mid right -->
+  <g transform="translate(217,140)">
+    <ellipse cx="0" cy="-11" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="0" cy="11" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="-11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="0" cy="0" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  </g>
+  <!-- Flower 6: lower left -->
+  <g transform="translate(108,155)">
+    <ellipse cx="0" cy="-11" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="0" cy="11" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="-11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="0" cy="0" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  </g>
+  <!-- Flower 7: lower right -->
+  <g transform="translate(182,155)">
+    <ellipse cx="0" cy="-11" rx="8" ry="11" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="11" cy="0" rx="11" ry="8" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="0" cy="11" rx="8" ry="11" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="-11" cy="0" rx="11" ry="8" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="0" cy="0" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  </g>
+</g></svg>

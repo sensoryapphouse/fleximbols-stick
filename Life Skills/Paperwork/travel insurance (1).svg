@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- globe base -->
+  <circle cx="145" cy="148" r="62" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- globe latitude lines -->
+  <ellipse cx="145" cy="148" rx="62" ry="20" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <ellipse cx="145" cy="148" rx="62" ry="40" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <!-- globe longitude lines -->
+  <ellipse cx="145" cy="148" rx="20" ry="62" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <ellipse cx="145" cy="148" rx="40" ry="62" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <!-- globe clip (circle mask via path) -->
+  <circle cx="145" cy="148" r="62" fill="none" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- land mass blobs on globe -->
+  <ellipse cx="130" cy="135" rx="18" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="158" cy="155" rx="14" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- suitcase body -->
+  <rect x="100" y="158" width="72" height="50" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- suitcase handle -->
+  <path d="M122 158 L122 146 a14 14 0 0 1 28 0 L150 158" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- suitcase stripe -->
+  <rect x="100" y="177" width="72" height="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- suitcase latch -->
+  <rect x="132" y="171" width="8" height="6" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- umbrella canopy -->
+  <path d="M54 98 a91 91 0 0 1 182 0 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- umbrella panels -->
+  <path d="M145 98 a91 91 0 0 1 46 -38" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 98 a91 91 0 0 0 -46 -38" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="98" x2="145" y2="44" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- umbrella shaft -->
+  <line x1="145" y1="98" x2="145" y2="172" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- umbrella hook -->
+  <path d="M145 172 a10 10 0 0 1 0 18" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

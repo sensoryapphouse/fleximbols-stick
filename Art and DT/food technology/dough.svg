@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="44.61 91.54 422.79 422.79">
+<!-- floured board -->
+<ellipse cx="256" cy="392" rx="180" ry="34" fill="#e3d8bf" stroke="#1a1a1a" stroke-width="9"/>
+<!-- dough ball -->
+<path d="M 140 350 C 130 286 188 244 256 244 C 324 244 382 286 372 350 C 360 392 300 404 256 404 C 212 404 152 392 140 350 Z" fill="#f1e4c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rolling pin across top -->
+<g transform="rotate(-12 256 220)">
+<rect x="150" y="196" width="212" height="48" rx="24" fill="#c2924f" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="104" y="208" width="50" height="24" rx="12" fill="#a9743c" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="358" y="208" width="50" height="24" rx="12" fill="#a9743c" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<!-- flour dusting -->
+<circle cx="200" cy="300" r="5" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="300" cy="316" r="5" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256" cy="344" r="5" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="150" cy="392" r="5" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="356" cy="392" r="5" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

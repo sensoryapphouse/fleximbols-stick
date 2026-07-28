@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tall glass body -->
+  <path d="M98 45 L104 215 L186 215 L192 45Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dark coffee body -->
+  <path d="M103 110 L105 205 L185 205 L187 110Z" fill="#4d4d4d" stroke="none"/>
+  <!-- Cascade streaks (nitro effect — lighter vertical bands falling through dark coffee) -->
+  <path d="M118 112 Q115 135 118 165 Q120 185 117 205" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M135 110 Q132 140 136 170 Q138 190 135 205" fill="none" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M155 112 Q153 138 156 168 Q158 192 155 205" fill="none" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M172 110 Q170 132 173 160 Q175 185 172 205" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Creamy nitro head (top layer, thick) -->
+  <path d="M103 110 L187 110 L185 85 L105 85Z" fill="#eed5b6" stroke="none"/>
+  <!-- Nitro head bubbles / texture -->
+  <ellipse cx="120" cy="97" rx="8" ry="5" fill="#f5e7c4" stroke="none"/>
+  <ellipse cx="145" cy="94" rx="10" ry="6" fill="#f5e7c4" stroke="none"/>
+  <ellipse cx="168" cy="97" rx="8" ry="5" fill="#f5e7c4" stroke="none"/>
+  <ellipse cx="132" cy="104" rx="7" ry="4" fill="#e6b98a" stroke="none"/>
+  <ellipse cx="158" cy="104" rx="7" ry="4" fill="#e6b98a" stroke="none"/>
+  <!-- Head rim line -->
+  <path d="M103 110 L187 110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Glass outline over fills -->
+  <path d="M98 45 L104 215 L186 215 L192 45Z" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Glass top rim -->
+  <ellipse cx="145" cy="45" rx="47" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55"/>
+</g></svg>

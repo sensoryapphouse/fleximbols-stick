@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Party hat: conical hat with pom-pom and stripes, modern style -->
+  <!-- Hat cone body -->
+  <path d="M 145 25 L 55 205 L 235 205 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Stripe 1 (wide, lower) -->
+  <path d="M 72 170 L 218 170 L 225 190 L 65 190 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Stripe 2 (mid) -->
+  <path d="M 93 130 L 197 130 L 205 150 L 85 150 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Stripe 3 (upper, narrow) -->
+  <path d="M 113 92 L 177 92 L 182 108 L 108 108 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hat brim band -->
+  <rect x="55" y="198" width="180" height="16" rx="8" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Elastic chin strap suggestion -->
+  <path d="M 65 210 C 60 218 80 228 100 225" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Pom-pom at tip -->
+  <circle cx="145" cy="25" r="20" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pom-pom texture circles -->
+  <circle cx="135" cy="18" r="7" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="152" cy="16" r="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="158" cy="28" r="7" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="32" r="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="28" r="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dot decorations on hat body -->
+  <circle cx="130" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="115" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="160" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="158" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="162" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Star accent -->
+  <path d="M 165 75 L 168 67 L 171 75 L 179 75 L 173 80 L 175 88 L 168 83 L 161 88 L 163 80 L 157 75 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

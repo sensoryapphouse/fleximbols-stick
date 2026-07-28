@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- green grassy ground (no snow) -->
+  <rect x="0" y="200" width="290" height="40" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun -->
+  <circle cx="245" cy="40" r="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- pine 1 (tall pointed left) -->
+  <rect x="32" y="190" width="8" height="18" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M36,30 L18,75 L28,75 L14,115 L26,115 L10,155 L22,155 L4,190 L68,190 L50,155 L62,155 L46,115 L58,115 L44,75 L54,75 Z" fill="#137827" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pine 2 (taller middle) -->
+  <rect x="118" y="200" width="10" height="20" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M123,15 L102,60 L114,60 L98,100 L112,100 L92,145 L108,145 L86,200 L160,200 L138,145 L154,145 L134,100 L148,100 L132,60 L144,60 Z" fill="#137827" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pine 3 (right) -->
+  <rect x="210" y="195" width="8" height="18" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M214,40 L196,80 L206,80 L192,118 L204,118 L188,155 L200,155 L182,195 L246,195 L228,155 L240,155 L224,118 L236,118 L222,80 L232,80 Z" fill="#137827" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pine cone hints / small green tufts ground -->
+  <ellipse cx="20" cy="215" rx="6" ry="3" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="80" cy="220" rx="6" ry="3" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="170" cy="225" rx="6" ry="3" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="265" cy="220" rx="6" ry="3" fill="#67832d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- small pine cones -->
+  <ellipse cx="50" cy="225" rx="3" ry="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="200" cy="228" rx="3" ry="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

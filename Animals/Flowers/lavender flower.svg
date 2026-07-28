@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground base with some tiny leaves -->
+  <!-- Left outer stem -->
+  <line x1="90" y1="225" x2="80" y2="95" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="90" y1="225" x2="80" y2="95" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Left inner stem -->
+  <line x1="112" y1="225" x2="105" y2="90" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="112" y1="225" x2="105" y2="90" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Centre stem -->
+  <line x1="145" y1="225" x2="145" y2="78" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="145" y1="225" x2="145" y2="78" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Right inner stem -->
+  <line x1="178" y1="225" x2="185" y2="90" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="178" y1="225" x2="185" y2="90" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Right outer stem -->
+  <line x1="200" y1="225" x2="210" y2="95" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="200" y1="225" x2="210" y2="95" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Small narrow leaves on stems -->
+  <ellipse cx="85" cy="175" rx="12" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 85 175)"/>
+  <ellipse cx="108" cy="168" rx="12" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-5 108 168)"/>
+  <ellipse cx="145" cy="165" rx="12" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="182" cy="168" rx="12" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(5 182 168)"/>
+  <ellipse cx="205" cy="175" rx="12" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 205 175)"/>
+
+  <ellipse cx="83" cy="145" rx="10" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 83 145)"/>
+  <ellipse cx="107" cy="138" rx="10" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-5 107 138)"/>
+  <ellipse cx="145" cy="132" rx="10" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="183" cy="138" rx="10" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(5 183 138)"/>
+  <ellipse cx="207" cy="145" rx="10" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 207 145)"/>
+
+  <!-- Flower spikes - elongated dense cylinder of tiny florets -->
+  <!-- Left outer spike -->
+  <rect x="72" y="42" width="16" height="55" rx="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Floret marks on spike -->
+  <ellipse cx="80" cy="52" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="80" cy="63" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="80" cy="74" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="80" cy="85" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Left inner spike -->
+  <rect x="97" y="36" width="16" height="56" rx="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="105" cy="46" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="105" cy="57" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="105" cy="68" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="105" cy="79" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Centre spike (tallest) -->
+  <rect x="137" y="24" width="16" height="58" rx="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="145" cy="34" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="45" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="56" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="67" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="78" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Right inner spike -->
+  <rect x="177" y="36" width="16" height="56" rx="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="185" cy="46" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="185" cy="57" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="185" cy="68" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="185" cy="79" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Right outer spike -->
+  <rect x="202" y="42" width="16" height="55" rx="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="210" cy="52" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="210" cy="63" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="210" cy="74" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="210" cy="85" rx="6" ry="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

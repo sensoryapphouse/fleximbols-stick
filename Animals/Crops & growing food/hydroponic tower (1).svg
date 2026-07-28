@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- water reservoir base -->
+  <rect x="85" y="195" width="120" height="28" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- tower cylinder body -->
+  <rect x="105" y="45" width="80" height="158" rx="12" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- tower top cap -->
+  <ellipse cx="145" cy="45" rx="40" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- water pipe inside (visible at top) -->
+  <rect x="138" y="30" width="14" height="26" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- water droplets from top -->
+  <ellipse cx="145" cy="27" rx="5" ry="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- planting holes + plants left side -->
+  <ellipse cx="105" cy="85" rx="10" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="98" y1="85" x2="68" y2="72" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="58" cy="67" rx="19" ry="11" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 58 67)"/>
+  <ellipse cx="72" cy="58" rx="17" ry="10" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 72 58)"/>
+
+  <ellipse cx="105" cy="120" rx="10" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="98" y1="120" x2="65" y2="112" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="55" cy="107" rx="19" ry="11" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 55 107)"/>
+
+  <ellipse cx="105" cy="158" rx="10" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="98" y1="158" x2="68" y2="148" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="58" cy="143" rx="18" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 58 143)"/>
+
+  <!-- planting holes + plants right side -->
+  <ellipse cx="185" cy="100" rx="10" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="192" y1="100" x2="222" y2="88" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="232" cy="83" rx="19" ry="11" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 232 83)"/>
+  <ellipse cx="218" cy="74" rx="17" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 218 74)"/>
+
+  <ellipse cx="185" cy="138" rx="10" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="192" y1="138" x2="225" y2="128" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="235" cy="123" rx="19" ry="11" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 235 123)"/>
+
+  <ellipse cx="185" cy="172" rx="10" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="192" y1="172" x2="222" y2="162" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="232" cy="157" rx="18" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 232 157)"/>
+
+  <!-- water flow lines on reservoir -->
+  <line x1="100" y1="205" x2="100" y2="215" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="115" y1="205" x2="115" y2="218" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="130" y1="205" x2="130" y2="220" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

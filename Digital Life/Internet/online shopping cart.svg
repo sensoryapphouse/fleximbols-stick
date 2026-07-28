@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- desk surface -->
+  <rect x="10" y="200" width="270" height="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- monitor stand -->
+  <rect x="130" y="180" width="30" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="110" y="195" width="70" height="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- monitor frame -->
+  <rect x="30" y="20" width="230" height="170" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- screen -->
+  <rect x="40" y="30" width="210" height="150" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- browser bar -->
+  <rect x="40" y="30" width="210" height="20" fill="#efefef" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="50" cy="40" r="3" fill="#d01424" stroke="#1a1a1a" stroke-width="2.13"/>
+  <circle cx="60" cy="40" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.13"/>
+  <circle cx="70" cy="40" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.13"/>
+  <rect x="82" y="35" width="160" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+
+  <!-- big shopping cart icon on screen -->
+  <g transform="translate(108 80)">
+    <!-- cart body -->
+    <path d="M0 12 L8 12 L18 50 L60 50 L70 18 L20 18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- handle -->
+    <path d="M0 12 L-6 4" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" fill="none"/>
+    <!-- wheels -->
+    <circle cx="24" cy="58" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="54" cy="58" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- items piled in cart -->
+    <rect x="20" y="22" width="14" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+    <rect x="36" y="26" width="14" height="18" fill="#529929" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+    <rect x="52" y="22" width="12" height="22" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+    <!-- quantity badge -->
+    <circle cx="68" cy="6" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- number 3 (as path) -->
+    <path d="M64 2 Q72 -2 72 4 Q72 7 68 7 Q72 7 72 11 Q72 16 64 13" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- checkout button -->
+  <rect x="58" y="148" width="80" height="24" rx="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- arrow on button -->
+  <path d="M76 160 L116 160 M108 154 L116 160 L108 166" fill="none" stroke="#ffffff" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cart mini on button -->
+  <path d="M68 156 L74 156 L78 166 L92 166" fill="none" stroke="#ffffff" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- price tag -->
+  <path d="M158 152 L208 152 L228 168 L208 184 L158 184 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="168" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.20"/>
+  <!-- dollar sign as path -->
+  <path d="M195 158 L195 178 M201 162 Q189 162 189 168 Q189 173 201 173 Q207 173 207 178 Q207 182 195 182" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

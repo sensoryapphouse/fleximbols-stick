@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- underside of sink (cutaway) -->
+  <rect x="30" y="20" width="200" height="30" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="30" y="20" width="200" height="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- flange to disposal -->
+  <rect x="100" y="50" width="60" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- disposal cylinder body -->
+  <rect x="85" y="60" width="90" height="110" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- horizontal band ridges -->
+  <line x1="85" y1="85" x2="175" y2="85" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="85" y1="120" x2="175" y2="120" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="85" y1="150" x2="175" y2="150" stroke="#7f7f7f" stroke-width="4.45"/>
+  <!-- bottom motor cap -->
+  <rect x="85" y="170" width="90" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- drain pipe out side -->
+  <path d="M175 130 L210 130 L210 200 L195 200 L195 145 L175 145 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- power cord -->
+  <path d="M130 190 Q130 210 110 215 L70 215" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- wall switch -->
+  <rect x="30" y="195" width="35" height="40" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="42" y="207" width="11" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- switch lever toggle -->
+  <rect x="44" y="200" width="7" height="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

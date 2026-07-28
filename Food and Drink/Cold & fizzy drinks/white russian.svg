@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- rocks glass body -->
+  <path d="M85 50 L205 50 L200 210 L90 210 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- dark coffee liquid lower layer -->
+  <path d="M90 130 L200 130 L196 200 L94 200 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cream upper layer (distinctive of white russian) -->
+  <path d="M90 75 L200 75 L200 130 L90 130 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- swirl between layers -->
+  <path d="M95 130 Q 115 122, 140 132 Q 165 142, 195 130" fill="none" stroke="#eed5b6" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- ice cube 1 (in cream) -->
+  <rect x="105" y="82" width="32" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ice cube 2 -->
+  <rect x="148" y="92" width="30" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="81.45 91.69 349.09 349.09">
+<!-- cabinet body -->
+<path d="M 168 150 L 344 150 L 344 415 L 168 415 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- angled top / marquee section -->
+<path d="M 168 150 L 168 118 L 344 118 L 344 150 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- marquee panel -->
+<rect x="186" y="125" width="140" height="20" rx="5" fill="#f4c430" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- screen bezel -->
+<rect x="188" y="165" width="136" height="106" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- screen -->
+<rect x="202" y="178" width="108" height="80" rx="5" fill="#4a90d9" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- control panel (sloped) -->
+<path d="M 168 290 L 344 290 L 344 330 L 168 320 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- joystick -->
+<line x1="210" y1="307" x2="210" y2="282" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="210" cy="276" r="12" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<!-- buttons -->
+<circle cx="270" cy="307" r="11" fill="#5aa83c" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="305" cy="307" r="11" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<!-- coin slot -->
+<rect x="238" y="355" width="36" height="30" rx="4" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<line x1="256" y1="362" x2="256" y2="378" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

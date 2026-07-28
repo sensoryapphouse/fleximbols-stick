@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Queso blanco - simple round white cheese disk stack, plainer than queso-fresco -->
+  <!-- Bottom disk side -->
+  <path d="M 50,188 L 50,202 Q 50,218 145,218 Q 240,218 240,202 L 240,188" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottom disk top -->
+  <ellipse cx="145" cy="188" rx="95" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+  <!-- Top disk side -->
+  <path d="M 50,158 L 50,172 Q 50,188 145,188 Q 240,188 240,172 L 240,158" fill="#efefef" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Top disk top face -->
+  <ellipse cx="145" cy="158" rx="95" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+  <!-- Smooth surface on top - fewer texture marks than queso-fresco (simpler) -->
+  <!-- Just a couple subtle texture lines -->
+  <path d="M 80,154 Q 112,148 145,150 Q 178,148 210,154" fill="none" stroke="#efefef" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- Small label/tag on the side of the bottom disk - white cheese label cue -->
+  <path d="M 80,200 L 80,192 L 130,192 L 130,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- Label lines to indicate text label -->
+  <path d="M 86,196 L 124,196" fill="none" stroke="#b8b8b8" stroke-width="3.23" stroke-linecap="round"/>
+  <path d="M 86,193 L 115,193" fill="none" stroke="#b8b8b8" stroke-width="3.23" stroke-linecap="round"/>
+  <!-- Very few crumbles - less crumbly/rustic than queso-fresco -->
+  <ellipse cx="42" cy="215" rx="5" ry="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23" transform="rotate(-10 42 215)"/>
+  <ellipse cx="248" cy="212" rx="4.5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23" transform="rotate(15 248 212)"/>
+</g></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.9546) translate(-256.00 -256.00)">
+<circle cx="256.00" cy="256.00" r="232.00" fill="#fbf0df" stroke="#e6cfa6" stroke-width="8"/>
+<g fill="none" stroke="#e08a1e" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+<!-- upper hook of the '3' (top loop of ओ) -->
+<path d="M 120 234 C 120 196 168 188 196 210 C 220 230 214 262 184 270 C 168 274 150 270 142 258"/>
+<!-- lower large bulb of the '3' joining the upper hook -->
+<path d="M 184 270 C 232 262 252 290 252 322 C 252 372 206 398 162 386 C 122 374 110 336 124 308"/>
+<!-- tail / curl sweeping right then down off the lower right of the body -->
+<path d="M 252 312 C 296 296 332 312 348 344 C 362 372 350 404 318 412 C 296 416 280 406 274 390"/>
+<!-- the 'ओ' diacritic stroke rising up from the top right -->
+<path d="M 300 250 C 318 214 356 198 384 218 C 408 234 408 270 386 288"/>
+</g>
+<!-- chandra (crescent moon) above -->
+<path d="M 320 150 C 296 150 280 134 280 116 C 280 134 296 150 320 150 C 344 150 360 134 360 116" fill="none" stroke="#1a1a1a" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/><path d="M 320 150 C 296 150 280 134 280 116 C 280 134 296 150 320 150 C 344 150 360 134 360 116" fill="none" stroke="#e08a1e" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- bindu (dot) above the crescent -->
+<circle cx="320.00" cy="92.00" r="17.00" fill="#e08a1e" stroke="#1a1a1a" stroke-width="4"/>
+</g></svg>

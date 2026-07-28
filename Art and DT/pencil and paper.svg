@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- stacked paper sheets -->
+<rect x="118" y="130" width="170" height="220" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="138" y="150" width="170" height="220" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ruled lines on front sheet -->
+<g stroke="#b9bdc2" stroke-width="5">
+<line x1="160" y1="200" x2="286" y2="200"/>
+<line x1="160" y1="234" x2="286" y2="234"/>
+<line x1="160" y1="268" x2="286" y2="268"/>
+</g>
+<!-- pencil diagonal -->
+<g transform="rotate(45 300 300)">
+<rect x="276" y="170" width="48" height="200" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="276 170 324 170 300 120" fill="#e8c79a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="288 142 312 142 300 120" fill="#1a1a1a"/>
+<rect x="276" y="370" width="48" height="24" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+</svg>

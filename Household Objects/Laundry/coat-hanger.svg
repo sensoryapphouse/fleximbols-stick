@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- hook at top -->
+<path d="M 256 150 Q 256 120 282 120 Q 304 120 304 142 Q 304 158 288 162" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- vertical neck from hook to the shoulder apex -->
+<line x1="256" y1="150" x2="256" y2="206" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- triangular hanger body (wooden bar) -->
+<path d="M 256 196 L 132 318 Q 124 326 132 334 L 380 334 Q 388 326 380 318 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wood grain highlight on the bottom bar -->
+<line x1="150" y1="324" x2="362" y2="324" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<!-- the two sloping shoulders accent -->
+<line x1="248" y1="208" x2="150" y2="304" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+<line x1="264" y1="208" x2="362" y2="304" stroke="#8a5a2b" stroke-width="5" stroke-linecap="round"/>
+</svg>

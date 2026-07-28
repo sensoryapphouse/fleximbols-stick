@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl -->
+  <ellipse cx="145" cy="215" rx="118" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <path d="M27 155 Q22 215 145 228 Q268 215 263 155 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="155" rx="118" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Red tomato sauce base in bowl -->
+  <ellipse cx="145" cy="165" rx="108" ry="18" fill="#f8130d" stroke="none"/>
+  <!-- Spaghetti nest - layered noodle strands -->
+  <!-- Noodle layer 1 - base nest shape -->
+  <path d="M52 172 Q80 155 110 168 Q140 180 170 165 Q200 150 238 168" fill="none" stroke="#f7de58" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M45 180 Q78 163 112 176 Q144 188 174 174 Q204 160 242 178" fill="none" stroke="#f7de58" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M50 188 Q82 172 115 184 Q146 196 176 182 Q206 168 240 186" fill="none" stroke="#e6b98a" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M55 196 Q88 180 118 192 Q148 204 178 190 Q208 177 238 194" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- More noodle strands cross-woven -->
+  <path d="M65 200 Q95 185 128 198 Q158 210 188 196 Q218 183 245 200" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M70 170 Q95 182 110 175 Q128 167 145 178 Q162 189 180 178 Q198 167 220 175" fill="none" stroke="#e6b98a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Sauce ladles over pasta -->
+  <ellipse cx="145" cy="175" rx="88" ry="30" fill="#d01424" stroke="none"/>
+  <!-- Red sauce puddles showing through -->
+  <ellipse cx="100" cy="178" rx="28" ry="12" fill="#f8130d" stroke="none"/>
+  <ellipse cx="185" cy="176" rx="24" ry="10" fill="#f8130d" stroke="none"/>
+  <!-- Three large brown meatballs piled on top -->
+  <!-- Back meatball centre-ish -->
+  <circle cx="145" cy="140" r="32" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Back meatball surface texture/sheen -->
+  <circle cx="135" cy="130" r="9" fill="#9d7246" stroke="none"/>
+  <path d="M132 128 Q140 124 148 128" fill="none" stroke="#9d7246" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Front-left meatball -->
+  <circle cx="104" cy="163" r="28" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="96" cy="154" r="7" fill="#9d7246" stroke="none"/>
+  <path d="M93 152 Q100 148 108 152" fill="none" stroke="#9d7246" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Front-right meatball -->
+  <circle cx="186" cy="163" r="28" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="177" cy="154" r="7" fill="#9d7246" stroke="none"/>
+  <path d="M174 152 Q181 148 189 152" fill="none" stroke="#9d7246" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Sauce drizzle over meatballs -->
+  <path d="M128 128 Q145 118 162 128" fill="none" stroke="#f8130d" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M88 152 Q104 143 120 152" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M170 152 Q185 143 200 152" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Basil garnish on top -->
+  <ellipse cx="145" cy="108" rx="11" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" transform="rotate(-20 145 108)"/>
+  <ellipse cx="158" cy="111" rx="9" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" transform="rotate(15 158 111)"/>
+</g></svg>

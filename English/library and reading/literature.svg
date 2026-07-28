@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bookshelf plank -->
+  <rect x="15" y="185" width="185" height="14" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55"/>
+
+  <!-- Book 1 (tall, dark blue) -->
+  <rect x="22" y="105" width="28" height="82" rx="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="22" y="105" width="8" height="82" rx="2" fill="#2a4ec0" stroke="none"/>
+
+  <!-- Book 2 (red, slightly shorter) -->
+  <rect x="54" y="115" width="24" height="72" rx="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="54" y="115" width="7" height="72" rx="2" fill="#f8130d" stroke="none"/>
+
+  <!-- Book 3 (green, tall) -->
+  <rect x="82" y="100" width="26" height="87" rx="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="82" y="100" width="7" height="87" rx="2" fill="#529929" stroke="none"/>
+
+  <!-- Book 4 (amber/brown) -->
+  <rect x="112" y="118" width="22" height="69" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="112" y="118" width="6" height="69" rx="2" fill="#eed5b6" stroke="none"/>
+
+  <!-- Book 5 (purple, tall) -->
+  <rect x="138" y="108" width="26" height="79" rx="3" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="138" y="108" width="7" height="79" rx="2" fill="#7c3fac" stroke="none"/>
+
+  <!-- Feather quill (right side) -->
+  <path d="M225,28 Q265,12 272,8 Q258,32 246,52 Q238,68 230,84 L218,68 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Quill barbs -->
+  <path d="M252,22 Q245,35 238,50" fill="none" stroke="#eed5b6" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M258,18 Q250,30 242,46" fill="none" stroke="#eed5b6" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Quill nib -->
+  <path d="M218,68 L230,84 L224,76 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+
+  <!-- Ink pot -->
+  <rect x="210" y="160" width="52" height="42" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Ink pot opening -->
+  <ellipse cx="236" cy="160" rx="26" ry="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Ink surface -->
+  <ellipse cx="236" cy="160" rx="18" ry="6" fill="#1d0e82"/>
+  <!-- Ink pot highlight -->
+  <rect x="218" y="165" width="10" height="24" rx="4" fill="#7f7f7f" stroke="none"/>
+</g></svg>

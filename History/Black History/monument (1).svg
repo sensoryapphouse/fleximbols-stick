@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <rect x="25" y="198" width="240" height="14" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- plinth base -->
+  <rect x="88" y="175" width="114" height="28" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- plinth step -->
+  <rect x="100" y="157" width="90" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- obelisk lower -->
+  <polygon points="125,155 165,155 158,80 132,80" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- obelisk upper shaft -->
+  <polygon points="132,80 158,80 153,38 137,38" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- obelisk cap / pyramidion -->
+  <polygon points="145,18 137,38 153,38" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- carved panel on obelisk -->
+  <rect x="136" y="95" width="18" height="42" rx="2" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- decorative line on panel -->
+  <line x1="140" y1="107" x2="150" y2="107" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="140" y1="118" x2="150" y2="118" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="140" y1="129" x2="150" y2="129" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+</g></svg>

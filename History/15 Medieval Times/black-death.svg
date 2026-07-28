@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2481) translate(-247.50 -246.00)">
+<!-- skull (death cue) upper-left, near the patient -->
+<g transform="translate(118 132) scale(1.7)">
+<circle cx="0" cy="-4" r="22" fill="#ece6d6" stroke="#6f6a60" stroke-width="3"/>
+<path d="M -16 12 Q 0 32 16 12 L 10 24 L 3 14 L 0 26 L -4 14 L -11 24 Z" fill="#ece6d6" stroke="#6f6a60" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="-8" cy="-4" r="6.5" fill="#2a2620"/>
+<circle cx="8" cy="-4" r="6.5" fill="#2a2620"/>
+<polygon points="0,2 -5,11 5,11" fill="#2a2620" stroke-linejoin="round"/>
+</g>
+<!-- straw pallet / bed base -->
+<rect x="70" y="316" width="320" height="60" rx="10" fill="#a9853f" stroke="#6f5526" stroke-width="6"/>
+<line x1="86" y1="376" x2="86" y2="402" stroke="#6f5526" stroke-width="10" stroke-linecap="round"/>
+<line x1="374" y1="376" x2="374" y2="402" stroke="#6f5526" stroke-width="10" stroke-linecap="round"/>
+<!-- pillow -->
+<rect x="84" y="280" width="92" height="54" rx="14" fill="#ece6d6" stroke="#9b8f74" stroke-width="5"/>
+<!-- blanket over the sick body -->
+<path d="M 160 332 Q 168 292 222 294 L 376 302 Q 392 306 386 336 L 382 374 Q 270 388 160 374 Z" fill="#7d4a8c" stroke="#5a3466" stroke-width="6" stroke-linejoin="round"/>
+<line x1="240" y1="310" x2="234" y2="374" stroke="#5a3466" stroke-width="4" stroke-linecap="round"/>
+<line x1="310" y1="308" x2="306" y2="374" stroke="#5a3466" stroke-width="4" stroke-linecap="round"/>
+<!-- sick patient's head resting on pillow -->
+<circle cx="132" cy="280" r="42" fill="#e7c39a" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 94 274 Q 92 240 132 238 Q 172 240 170 274 Q 132 260 94 274 Z" fill="#5a4a32" stroke="#3a3026" stroke-width="3" stroke-linejoin="round"/>
+<!-- closed weary eyes -->
+<path d="M 112 278 q 9 8 18 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 136 278 q 9 8 18 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<!-- pained mouth -->
+<path d="M 120 304 q 12 -8 24 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<!-- BUBOES (dark plague spots) on the neck -->
+<circle cx="166" cy="308" r="10" fill="#3a1530" stroke="#1a0a16" stroke-width="3"/>
+<circle cx="158" cy="328" r="8" fill="#3a1530" stroke="#1a0a16" stroke-width="3"/>
+<!-- bare arm lying out over blanket with buboes -->
+<path d="M 176 336 Q 224 328 264 350 Q 268 362 260 366 Q 220 348 176 354 Z" fill="#e7c39a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="216" cy="342" r="10" fill="#3a1530" stroke="#1a0a16" stroke-width="3"/>
+<circle cx="242" cy="350" r="8" fill="#3a1530" stroke="#1a0a16" stroke-width="3"/>
+<!-- rat (plague carrier) on the floor at bedside -->
+<g transform="translate(352 366)">
+<ellipse cx="0" cy="0" rx="36" ry="18" fill="#4a443c" stroke="#2a2620" stroke-width="4"/>
+<circle cx="-32" cy="-4" r="14" fill="#4a443c" stroke="#2a2620" stroke-width="4"/>
+<circle cx="-38" cy="-14" r="6" fill="#4a443c" stroke="#2a2620" stroke-width="3"/>
+<circle cx="-44" cy="-3" r="2.8" fill="#1a1a1a"/>
+<path d="M 32 4 Q 64 8 74 -10" fill="none" stroke="#2a2620" stroke-width="4" stroke-linecap="round"/>
+</g>
+</g></svg>

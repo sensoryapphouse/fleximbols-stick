@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Feta Modern: white block/slab of feta with crumbles, olive oil, oregano, olive -->
+  <!-- Serving board/plate base -->
+  <rect x="30" y="185" width="230" height="30" rx="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Feta block - main slab, white, rectangular with depth -->
+  <!-- 3D block: right side face (darker) -->
+  <path d="M210,85 L230,105 L230,185 L210,185 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- 3D block: top face -->
+  <path d="M70,85 L210,85 L230,105 L90,105 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- 3D block: front face (main) -->
+  <rect x="70" y="105" width="140" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Feta texture - slightly crumbly surface on front face -->
+  <rect x="80" y="115" width="16" height="12" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="108" y="112" width="20" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="118" width="14" height="11" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="165" y="113" width="18" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="140" width="22" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="128" y="142" width="16" height="11" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="138" width="20" height="12" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Crumbles scattered around base -->
+  <rect x="55" y="175" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="225" y="172" width="10" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="42" y="182" width="8" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="240" y="180" width="9" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Olive oil drizzle on top of block -->
+  <path d="M90,97 Q120,92 150,97 Q135,102 90,97" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Oregano specks on top -->
+  <circle cx="170" cy="95" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="100" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="162" cy="100" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="91" r="3" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Kalamata olive (dark oval) on board -->
+  <ellipse cx="240" cy="160" rx="14" ry="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="240" cy="160" rx="6" ry="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- monitor on right -->
+  <rect x="170" y="30" width="110" height="100" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="180" y="40" width="90" height="76" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- ultrasound cone sweep -->
+  <path d="M225 46 l-32 64 l64 0 z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- organ outline on screen (kidney-like blob) -->
+  <path d="M210 76 q-8 6 -6 18 q2 12 12 14 q8 2 16 -2 q12 -4 12 -16 q0 -10 -10 -14 q-12 -8 -24 0 z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- secondary organ outline (smaller, distinguishes from pregnancy: organ not baby) -->
+  <path d="M205 96 q-4 8 4 14" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- monitor stand -->
+  <rect x="218" y="130" width="14" height="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="200" y="148" width="50" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- flat abdomen (lying patient - flat torso) -->
+  <path d="M20 160 q40 -30 100 -28 q40 2 60 8 q4 30 -4 50 q-50 16 -120 8 q-30 -2 -36 -38 z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- navel -->
+  <circle cx="80" cy="156" r="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- ribcage hint -->
+  <path d="M40 142 q12 -6 24 -2" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M44 152 q14 -6 24 -2" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- transducer wand on abdomen -->
+  <rect x="100" y="138" width="40" height="20" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- cable -->
+  <path d="M140 148 q26 -16 50 -22" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- wave lines from wand into abdomen -->
+  <path d="M108 160 q-2 8 0 16" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M118 160 q0 8 2 16" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 160 q2 8 4 14" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

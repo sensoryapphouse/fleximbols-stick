@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- thick bold permanent stroke cue (indelible dark mark) -->
+  <line x1="28" y1="188" x2="260" y2="188" stroke="#1a1a1a" stroke-width="13.83" stroke-linecap="round"/>
+  <!-- second thick stroke for emphasis -->
+  <line x1="28" y1="210" x2="200" y2="210" stroke="#4d4d4d" stroke-width="9.88" stroke-linecap="round"/>
+  <!-- Sharpie-style fat marker body (vertical, centre) -->
+  <!-- cap top with clip -->
+  <rect x="106" y="16" width="56" height="68" rx="12" fill="#000000" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- cap clip -->
+  <rect x="120" y="12" width="10" height="58" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- body (fat barrel) -->
+  <rect x="106" y="78" width="56" height="90" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- label band -->
+  <rect x="106" y="102" width="56" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- label lines -->
+  <line x1="114" y1="112" x2="154" y2="112" stroke="#1a1a1a" stroke-width="2.47" stroke-linecap="round"/>
+  <line x1="114" y1="122" x2="148" y2="122" stroke="#1a1a1a" stroke-width="2.47" stroke-linecap="round"/>
+  <!-- shoulder taper to bullet tip -->
+  <path d="M 106,168 L 118,178 L 150,178 L 162,168 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- bullet tip (round) -->
+  <ellipse cx="134" cy="180" rx="16" ry="8" fill="#000000" stroke="#1a1a1a" stroke-width="3.95"/>
+</g></svg>

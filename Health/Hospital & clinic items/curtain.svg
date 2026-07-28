@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="87.27 92.39 337.45 337.45">
+<!-- hospital privacy curtain hanging from a ceiling rail -->
+<!-- rail -->
+<rect x="112" y="120" width="288" height="22" rx="11" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- rings -->
+<g fill="none" stroke="#1a1a1a" stroke-width="7">
+<circle cx="150" cy="150" r="9"/>
+<circle cx="194" cy="150" r="9"/>
+<circle cx="238" cy="150" r="9"/>
+<circle cx="282" cy="150" r="9"/>
+<circle cx="326" cy="150" r="9"/>
+<circle cx="362" cy="150" r="9"/>
+</g>
+<!-- curtain fabric with wavy hem -->
+<path d="M 134 160 L 380 160 L 380 392 Q 360 372 340 392 Q 320 412 300 392 Q 280 372 260 392 Q 240 412 220 392 Q 200 372 180 392 Q 160 412 134 392 Z" fill="#8fd0a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- vertical pleat folds -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none">
+<path d="M 178 168 L 178 384"/>
+<path d="M 222 168 L 222 384"/>
+<path d="M 266 168 L 266 384"/>
+<path d="M 310 168 L 310 384"/>
+<path d="M 350 168 L 350 384"/>
+</g>
+</svg>

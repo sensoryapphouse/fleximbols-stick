@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="88.98 156.39 337.45 337.45"><!-- spoonful: spoon holding a mound of red medicine -->
+<!-- handle (drawn first, behind the bowl) as a filled tapering shape -->
+<path d="M 250 300 L 402 424 L 384 448 L 232 328 Z" fill="#e8eef3" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spoon bowl -->
+<ellipse cx="200" cy="290" rx="92" ry="62" fill="#e8eef3" stroke="#1a1a1a" stroke-width="9"/>
+<!-- red medicine filling the front of the bowl (a domed liquid surface) -->
+<path d="M 122 282 Q 200 214 278 282 Q 200 316 122 282 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

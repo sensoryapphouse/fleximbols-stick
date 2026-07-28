@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- macOS-style soft round trash can -->
+  <!-- Lid -->
+  <rect x="58" y="58" width="174" height="18" rx="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Lid handle -->
+  <rect x="125" y="48" width="40" height="12" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Body (slightly tapered, rounded) -->
+  <path d="M70 78 Q66 78 66 84 L80 200 Q82 215 96 215 L194 215 Q208 215 210 200 L224 84 Q224 78 220 78 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Vertical line accents on body -->
+  <line x1="110" y1="92" x2="115" y2="205" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="92" x2="145" y2="205" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="180" y1="92" x2="175" y2="205" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Files poking out the top -->
+  <polygon points="92,90 116,90 116,75 110,75 116,68 92,68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="96" y1="75" x2="111" y2="75" stroke="#b8b8b8" stroke-width="2.96"/>
+  <polygon points="125,90 150,90 150,60 144,54 125,54" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="144,54 144,60 150,60" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="162,90 188,90 188,72 162,72" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Big red delete X overlay on bin face -->
+  <circle cx="220" cy="160" r="26" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <line x1="208" y1="148" x2="232" y2="172" stroke="#ffffff" stroke-width="10.36" stroke-linecap="round"/>
+  <line x1="232" y1="148" x2="208" y2="172" stroke="#ffffff" stroke-width="10.36" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- IPO: bell on podium + big rocketing chart (stock exchange opening bell) -->
+
+  <!-- Podium base -->
+  <rect x="30" y="185" width="100" height="30" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Podium body -->
+  <polygon points="40,185 120,185 112,148 48,148" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Podium front face -->
+  <rect x="48" y="148" width="64" height="38" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- Bell shape -->
+  <!-- Bell body -->
+  <path d="M 80 60 Q 45 78 42 118 Q 42 130 80 135 Q 118 130 118 118 Q 115 78 80 60 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bell dome highlight -->
+  <path d="M 80 60 Q 65 72 62 90 Q 70 82 80 80 Q 90 82 98 90 Q 95 72 80 60 Z" fill="#fff200" stroke="none"/>
+  <!-- Bell bottom opening (dome bottom) -->
+  <path d="M 42 118 Q 42 135 80 140 Q 118 135 118 118" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bell clapper -->
+  <line x1="80" y1="118" x2="80" y2="135" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="80" cy="140" r="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bell cap/ring at top -->
+  <rect x="74" y="50" width="12" height="16" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ringing motion lines -->
+  <path d="M 38 90 Q 28 78 32 62" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 122 90 Q 132 78 128 62" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Big chart (right half) -->
+  <!-- Chart axes -->
+  <line x1="155" y1="210" x2="155" y2="40" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="210" x2="265" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Chart bars (TALL — IPO scale) -->
+  <rect x="163" y="158" width="16" height="52" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="185" y="128" width="16" height="82" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="207" y="88" width="16" height="122" fill="#529929" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="229" y="50" width="16" height="160" fill="#137827" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- Rocket trajectory line -->
+  <polyline points="163,170 193,138 215,98 248,48" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rocket arrowhead -->
+  <polygon points="248,48 236,52 242,64" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

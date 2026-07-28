@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Correction tape dispenser: flat rectangular body -->
+  <rect x="60" y="85" width="130" height="72" rx="12" ry="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Internal spool window (oval cutout) -->
+  <ellipse cx="115" cy="121" rx="28" ry="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Spool hub -->
+  <ellipse cx="115" cy="121" rx="10" ry="10" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="115" cy="121" rx="4" ry="4" fill="#1d0e82" stroke="none"/>
+  <!-- Guide arm extending from right side -->
+  <rect x="190" y="107" width="28" height="10" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Guide tip (narrow nozzle) -->
+  <path d="M 218,108 L 238,112 L 218,117 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- White tape strip being applied (horizontal, exiting guide tip) -->
+  <rect x="238" y="111" width="30" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tape edge detail line -->
+  <line x1="238" y1="114" x2="268" y2="114" stroke="#b8b8b8" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Paper below with text lines (showing tape being applied over text) -->
+  <rect x="195" y="145" width="78" height="50" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Text lines on paper -->
+  <line x1="203" y1="158" x2="265" y2="158" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="203" y1="168" x2="265" y2="168" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- White tape covering part of top text line -->
+  <rect x="225" y="153" width="40" height="10" rx="2" fill="#ffffff" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="203" y1="178" x2="250" y2="178" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bottom label stripe on dispenser -->
+  <rect x="60" y="140" width="130" height="17" rx="0" ry="0" fill="#1d0e82" stroke="none"/>
+  <rect x="60" y="140" width="130" height="17" rx="0" ry="0" fill="#1d0e82" stroke="none"/>
+  <!-- Rounded bottom corners of label match body -->
+  <path d="M 60,140 L 60,149 Q 60,157 72,157 L 178,157 Q 190,157 190,149 L 190,140 Z" fill="#1d0e82" stroke="none"/>
+</g></svg>

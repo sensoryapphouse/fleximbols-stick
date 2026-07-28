@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- long shaft + curved hooked claw at top, slight angle -->
+<g transform="rotate(18 256 256)">
+<!-- shaft -->
+<path d="M 256 150 L 256 408" fill="none" stroke="#1a1a1a" stroke-width="42" stroke-linecap="round"/>
+<path d="M 256 150 L 256 408" fill="none" stroke="#d63b46" stroke-width="28" stroke-linecap="round"/>
+<!-- curved hooked head (gooseneck claw) -->
+<path d="M 256 158 Q 250 110 206 110 Q 178 110 174 138" fill="none" stroke="#1a1a1a" stroke-width="42" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M 256 158 Q 250 110 206 110 Q 178 110 174 138" fill="none" stroke="#d63b46" stroke-width="28" stroke-linecap="butt" stroke-linejoin="round"/>
+<!-- flat splayed pry/chisel end on the curved head (matches the bottom foot) -->
+<path d="M 188 150 L 160 158 L 152 134 L 180 126 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- V-notch slot in the pry tip -->
+<path d="M 156 146 L 168 142" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- chisel foot at bottom -->
+<path d="M 240 406 L 272 406 L 280 430 L 232 430 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg1926" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg1926)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

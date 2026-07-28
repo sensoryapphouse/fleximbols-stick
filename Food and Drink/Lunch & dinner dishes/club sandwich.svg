@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Club sandwich: TRIPLE-DECKER (3 bread slices) turkey+bacon+lettuce+tomato + frilly toothpick -->
+
+  <!-- Bottom toast slice -->
+  <rect x="44" y="206" width="202" height="22" rx="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="44" y="206" width="202" height="5" rx="2" fill="#9d7246" stroke="none"/>
+
+  <!-- Lower filling: bacon strips + lettuce frills -->
+  <!-- Bacon strips lower section (wavy crispy) -->
+  <path d="M48,194 Q70,185 92,194 Q112,184 132,194 Q152,184 172,194 Q192,185 212,194 Q226,188 242,194 L242,206 Q226,200 212,206 Q192,197 172,206 Q152,196 132,206 Q112,196 92,206 Q70,198 48,206 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62,190 Q82,184 102,190" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M148,187 Q168,182 188,187" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lettuce frilly leaves (lower) -->
+  <path d="M46,180 Q54,169 64,176 Q74,164 84,172 Q96,162 108,170 Q118,160 130,168 Q140,159 152,167 Q162,160 174,168 Q184,163 196,170 Q208,163 220,172 Q230,167 244,176 L244,194 Q230,186 220,188 Q208,180 196,186 Q184,179 174,184 Q162,178 152,183 Q140,177 130,183 Q118,177 108,183 Q96,177 84,183 Q74,179 64,183 Q54,181 46,186 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- MIDDLE BREAD SLICE (the defining triple-decker feature) -->
+  <rect x="44" y="158" width="202" height="22" rx="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="44" y="158" width="202" height="5" rx="2" fill="#9d7246" stroke="none"/>
+
+  <!-- Upper filling: turkey + tomato slice -->
+  <!-- Turkey slices (pale deli meat) -->
+  <path d="M46,146 Q46,134 145,132 Q244,134 244,146 L244,160 Q244,150 145,148 Q46,150 46,160 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Turkey grain texture -->
+  <path d="M64,139 Q100,136 136,139" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M152,137 Q188,134 224,137" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tomato slice (round, red) -->
+  <ellipse cx="145" cy="128" rx="44" ry="11" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tomato segments -->
+  <line x1="145" y1="117" x2="145" y2="139" stroke="#f8130d" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="123" y1="121" x2="167" y2="135" stroke="#f8130d" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="123" y1="135" x2="167" y2="121" stroke="#f8130d" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- TOP TOAST SLICE -->
+  <rect x="44" y="102" width="202" height="22" rx="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="44" y="102" width="202" height="5" rx="2" fill="#9d7246" stroke="none"/>
+
+  <!-- Toothpick with frilly flag (KEY club-sandwich identifier) -->
+  <!-- Toothpick stick (ivory) -->
+  <line x1="200" y1="50" x2="200" y2="118" stroke="#eed5b6" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Frilly cellophane flag on toothpick -->
+  <path d="M200,50 L228,56 L200,70 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Flag ruffles -->
+  <path d="M200,50 Q210,53 228,56" fill="none" stroke="#f8130d" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M200,58 Q212,61 226,59" fill="none" stroke="#f8130d" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

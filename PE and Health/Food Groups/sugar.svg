@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(2.0480) translate(-256.00 -292.50)">
+<!-- spilled pile of sugar granules (base, behind bowl) -->
+<path d="M120 372 Q150 332 192 340 Q236 330 286 342 Q346 332 392 372 Z" fill="#fbfbfd" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- granule dots on the spilled pile -->
+<g fill="#1a1a1a">
+<circle cx="150" cy="362" r="2.4"/><circle cx="168" cy="352" r="2.4"/><circle cx="186" cy="360" r="2.4"/><circle cx="204" cy="350" r="2.4"/><circle cx="222" cy="360" r="2.4"/><circle cx="240" cy="350" r="2.4"/><circle cx="258" cy="360" r="2.4"/><circle cx="276" cy="350" r="2.4"/><circle cx="296" cy="360" r="2.4"/><circle cx="316" cy="352" r="2.4"/><circle cx="340" cy="362" r="2.4"/><circle cx="362" cy="364" r="2.4"/>
+<circle cx="160" cy="370" r="2.4"/><circle cx="196" cy="368" r="2.4"/><circle cx="232" cy="369" r="2.4"/><circle cx="268" cy="369" r="2.4"/><circle cx="306" cy="369" r="2.4"/><circle cx="346" cy="370" r="2.4"/>
+</g>
+<!-- a couple of scattered granules outside the pile -->
+<g fill="#1a1a1a"><circle cx="110" cy="372" r="2.6"/><circle cx="100" cy="366" r="2.6"/><circle cx="402" cy="370" r="2.6"/><circle cx="412" cy="364" r="2.6"/></g>
+
+<!-- sugar bowl -->
+<path d="M196 296 L316 296 L304 360 Q256 370 208 360 Z" fill="#eef0f4" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- bowl rim -->
+<ellipse cx="256" cy="296" rx="62" ry="14" fill="#dde1e8" stroke="#1a1a1a" stroke-width="5"/>
+<!-- mound of white granular sugar heaped in the bowl -->
+<path d="M200 294 Q220 268 256 264 Q292 268 312 294 Q284 302 256 302 Q228 302 200 294 Z" fill="#fbfbfd" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- granule texture on the mound -->
+<g fill="#1a1a1a">
+<circle cx="224" cy="288" r="2.3"/><circle cx="240" cy="280" r="2.3"/><circle cx="256" cy="276" r="2.3"/><circle cx="272" cy="280" r="2.3"/><circle cx="288" cy="288" r="2.3"/>
+<circle cx="232" cy="294" r="2.3"/><circle cx="248" cy="290" r="2.3"/><circle cx="264" cy="290" r="2.3"/><circle cx="280" cy="294" r="2.3"/><circle cx="256" cy="286" r="2.3"/>
+</g>
+
+<!-- teaspoon scooping granules, dipping in from upper right -->
+<!-- spoon handle -->
+<path d="M300 222 L356 184" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<path d="M300 222 L356 184" fill="none" stroke="#c9ced6" stroke-width="6" stroke-linecap="round"/>
+<!-- spoon bowl -->
+<ellipse cx="290" cy="232" rx="26" ry="17" transform="rotate(-34 290 232)" fill="#dde1e8" stroke="#1a1a1a" stroke-width="4"/>
+<!-- heaped granules on the spoon -->
+<path d="M270 226 Q282 210 296 212 Q310 214 308 230 Q290 232 270 226 Z" fill="#fbfbfd" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round"/>
+<g fill="#1a1a1a"><circle cx="280" cy="222" r="2"/><circle cx="290" cy="216" r="2"/><circle cx="300" cy="220" r="2"/><circle cx="286" cy="226" r="2"/><circle cx="296" cy="226" r="2"/></g>
+</g></svg>

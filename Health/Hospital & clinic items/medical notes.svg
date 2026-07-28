@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="72.73 76.99 366.55 366.55">
+<!-- medical notes: clipboard chart with red cross + lines -->
+<!-- clipboard board -->
+<rect x="140" y="120" width="232" height="296" rx="14" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- paper -->
+<rect x="160" y="150" width="192" height="246" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<!-- clip -->
+<rect x="226" y="104" width="60" height="34" rx="8" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8"/>
+<!-- red cross header -->
+<rect x="183" y="172" width="34" height="34" rx="4" fill="#d63b46"/>
+<rect x="195" y="166" width="10" height="46" rx="2" fill="#d63b46"/>
+<rect x="178" y="183" width="44" height="12" rx="2" fill="#d63b46"/>
+<!-- chart lines -->
+<g stroke="#9aa7b2" stroke-width="9" stroke-linecap="round">
+<line x1="240" y1="186" x2="332" y2="186"/>
+<line x1="240" y1="210" x2="332" y2="210"/>
+</g>
+<!-- vital-signs zigzag -->
+<polyline points="180,270 210,270 224,244 244,300 262,256 282,284 300,270 332,270" fill="none" stroke="#d63b46" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- text lines lower -->
+<g stroke="#9aa7b2" stroke-width="9" stroke-linecap="round">
+<line x1="180" y1="334" x2="332" y2="334"/>
+<line x1="180" y1="360" x2="300" y2="360"/>
+</g>
+</svg>

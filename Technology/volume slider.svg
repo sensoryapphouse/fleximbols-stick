@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Horizontal volume slider: track + position knob + min/max icons -->
+  <!-- Min speaker icon (left) -->
+  <rect x="20" y="105" width="14" height="30" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 34 105 L 50 92 L 50 148 L 34 135 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small wave for min -->
+  <path d="M 54 112 Q 60 120 54 128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Track (long pill) -->
+  <rect x="70" y="110" width="160" height="20" rx="10" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Filled portion of track -->
+  <rect x="70" y="110" width="100" height="20" rx="10" ry="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Tick marks under track -->
+  <line x1="90" y1="138" x2="90" y2="146" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="120" y1="138" x2="120" y2="146" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="150" y1="138" x2="150" y2="146" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="180" y1="138" x2="180" y2="146" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="210" y1="138" x2="210" y2="146" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Position knob -->
+  <circle cx="170" cy="120" r="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <circle cx="170" cy="120" r="9" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Max speaker icon (right) -->
+  <rect x="240" y="100" width="14" height="40" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 254 100 L 272 84 L 272 156 L 254 140 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Big waves for max -->
+  <path d="M 276 100 Q 286 120 276 140" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 270 108 Q 278 120 270 132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Min/max labels: small minus and plus glyphs above track -->
+  <line x1="80" y1="80" x2="92" y2="80" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="212" y1="80" x2="224" y2="80" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="218" y1="74" x2="218" y2="86" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

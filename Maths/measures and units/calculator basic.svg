@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- calculator body (small handheld, portrait) -->
+  <rect x="72" y="18" width="146" height="206" rx="12" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- screen (small, top) -->
+  <rect x="86" y="32" width="118" height="50" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- screen display (number) -->
+  <rect x="94" y="40" width="102" height="34" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- solar strip -->
+  <rect x="86" y="88" width="40" height="8" rx="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- 4x5 grid of large square buttons -->
+  <!-- row 1 -->
+  <rect x="82" y="104" width="30" height="20" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="104" width="30" height="20" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="150" y="104" width="30" height="20" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="184" y="104" width="26" height="20" rx="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row 2 -->
+  <rect x="82" y="128" width="30" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="128" width="30" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="150" y="128" width="30" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="184" y="128" width="26" height="20" rx="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row 3 -->
+  <rect x="82" y="152" width="30" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="152" width="30" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="150" y="152" width="30" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="184" y="152" width="26" height="20" rx="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row 4 -->
+  <rect x="82" y="176" width="30" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="176" width="30" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="150" y="176" width="30" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="184" y="176" width="26" height="20" rx="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- row 5 (bottom: 0 wide + decimal + equals) -->
+  <rect x="82" y="200" width="64" height="18" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="150" y="200" width="30" height="18" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="184" y="200" width="26" height="18" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

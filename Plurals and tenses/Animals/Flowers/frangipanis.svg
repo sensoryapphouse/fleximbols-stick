@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- stem -->
+  <line x1="145" y1="178" x2="145" y2="230" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- 5 broad overlapping pinwheel petals (pink-blushed) -->
+  <!-- petal 1 top wide -->
+  <path d="M125 115 Q120 80 145 40 Q170 80 165 115 Q155 125 145 128 Q135 125 125 115Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- petal 2 upper-right wide -->
+  <path d="M160 108 Q185 88 212 68 Q205 100 185 118 Q172 125 165 120 Q160 115 160 108Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- petal 3 lower-right wide -->
+  <path d="M158 130 Q180 148 198 178 Q168 170 150 152 Q142 140 145 132 Q151 127 158 130Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- petal 4 lower-left wide -->
+  <path d="M132 130 Q110 148 92 178 Q122 170 140 152 Q148 140 145 132 Q139 127 132 130Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- petal 5 upper-left wide -->
+  <path d="M130 108 Q105 88 78 68 Q85 100 105 118 Q118 125 125 120 Q130 115 130 108Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- yellow throat centre -->
+  <circle cx="145" cy="118" r="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="118" r="11" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- pink blush lines on petals from centre -->
+  <line x1="145" y1="110" x2="145" y2="70" stroke="#f266aa" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="178" y2="90" stroke="#f266aa" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="122" x2="170" y2="148" stroke="#f266aa" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="122" x2="120" y2="148" stroke="#f266aa" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="112" y2="90" stroke="#f266aa" stroke-width="2.22" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg204" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg204)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

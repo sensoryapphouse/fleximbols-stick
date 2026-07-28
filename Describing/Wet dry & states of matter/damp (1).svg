@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Background panel -->
+  <rect x="26" y="22" width="238" height="196" rx="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Cloth/towel -->
+  <rect x="58" y="78" width="174" height="110" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Towel texture stripes -->
+  <line x1="58" y1="108" x2="232" y2="108" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="58" y1="130" x2="232" y2="130" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="58" y1="152" x2="232" y2="152" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- A few scattered small water dots on the cloth (slightly wet) -->
+  <!-- Dot 1 -->
+  <circle cx="90" cy="120" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dot 2 -->
+  <circle cx="130" cy="145" r="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dot 3 -->
+  <circle cx="175" cy="115" r="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dot 4 (small) -->
+  <circle cx="205" cy="145" r="5" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dot 5 (small) -->
+  <circle cx="108" cy="158" r="5" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Small droplet top of cloth -->
+  <path d="M155 90 C155 90 148 99 148 104 C148 108 151 111 155 111 C159 111 162 108 162 104 C162 99 155 90 155 90 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

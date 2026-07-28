@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- monitor body -->
+  <rect x="40" y="30" width="210" height="150" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen -->
+  <rect x="52" y="42" width="186" height="126" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- stand -->
+  <rect x="125" y="180" width="40" height="22" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="95" y="200" width="100" height="14" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- frozen spinner (hourglass/clock) -->
+  <circle cx="118" cy="92" r="22" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- clock hands stuck -->
+  <path d="M118 92 L118 76" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M118 92 L132 96" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="118" cy="92" r="3" fill="#000000"/>
+  <!-- spin arrows around clock -->
+  <path d="M96 92 A22 22 0 0 1 104 74" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M104 74 L100 78 L108 78 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M140 92 A22 22 0 0 1 132 110" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M132 110 L136 106 L128 106 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- 'NOT RESPONDING' as path letters (simple block) -->
+  <!-- N -->
+  <path d="M156 78 L156 96 L160 96 L160 86 L166 96 L170 96 L170 78 L166 78 L166 88 L160 78 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- O -->
+  <path d="M174 78 L186 78 L186 96 L174 96 Z M178 82 L182 82 L182 92 L178 92 Z" fill="#d01424" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- T -->
+  <path d="M190 78 L204 78 L204 82 L199 82 L199 96 L195 96 L195 82 L190 82 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- second row: FROZEN bar -->
+  <rect x="62" y="124" width="166" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="64" y="126" width="60" height="10" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- snowflake (frozen indicator) -->
+  <g stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round">
+    <path d="M210 92 L210 110" stroke="#2a4ec0"/>
+    <path d="M201 101 L219 101" stroke="#2a4ec0"/>
+    <path d="M204 95 L216 107" stroke="#2a4ec0"/>
+    <path d="M216 95 L204 107" stroke="#2a4ec0"/>
+  </g>
+  <circle cx="210" cy="101" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

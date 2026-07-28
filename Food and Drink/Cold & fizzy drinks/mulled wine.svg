@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- steam swirls -->
+  <path d="M100 60 Q95 40 105 22 M145 60 Q140 40 150 22 M190 60 Q185 40 195 22" fill="none" stroke="#b8b8b8" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- mug body -->
+  <path d="M70 80 Q70 70 80 70 L210 70 Q220 70 220 80 L218 210 Q216 224 200 224 L90 224 Q74 224 72 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- deep red wine -->
+  <path d="M78 90 Q145 108 212 90 L210 210 Q145 218 80 210 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="0.00"/>
+  <path d="M78 90 Q145 108 212 90" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- orange slice floating -->
+  <ellipse cx="105" cy="100" rx="20" ry="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="105" cy="100" rx="14" ry="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="95" y1="100" x2="115" y2="100" stroke="#ffffff" stroke-width="3.33"/>
+  <!-- cloves (small dark dots) -->
+  <circle cx="145" cy="105" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="160" cy="115" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="135" cy="118" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- star anise on top -->
+  <path d="M175 95 L180 102 L188 102 L182 108 L184 115 L175 112 L166 115 L168 108 L162 102 L170 102 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cinnamon stick -->
+  <rect x="155" y="50" width="10" height="80" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" transform="rotate(20 160 90)"/>
+  <line x1="172" y1="68" x2="178" y2="85" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- mug handle -->
+  <path d="M220 108 Q260 108 260 150 Q260 192 220 192" fill="none" stroke="#1a1a1a" stroke-width="17.78" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <radialGradient id="dodG" cx="40%" cy="35%" r="70%">
+    <stop offset="0%" stop-color="#d0e0f8"/>
+    <stop offset="100%" stop-color="#3a6ab6"/>
+  </radialGradient>
+</defs>
+<!-- Outer pentagonal silhouette -->
+<polygon points="145,10 249.6,86 209.7,207.2 80.3,207.2 40.4,86" fill="#3a6ab6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- Inner front pentagon with shading -->
+<polygon points="145,72 190.6,105.4 174.7,156.8 115.3,156.8 99.4,105.4" fill="url(#dodG)" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- Five surrounding trapezoid faces with varied shading -->
+<polygon points="145,10 249.6,86 190.6,105.4 145,72" fill="#7aaae8" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="249.6,86 209.7,207.2 174.7,156.8 190.6,105.4" fill="#5a8ad6" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="209.7,207.2 80.3,207.2 115.3,156.8 174.7,156.8" fill="#3a6ab6" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="80.3,207.2 40.4,86 99.4,105.4 115.3,156.8" fill="#5a8ad6" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="40.4,86 145,10 145,72 99.4,105.4" fill="#7aaae8" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</svg>

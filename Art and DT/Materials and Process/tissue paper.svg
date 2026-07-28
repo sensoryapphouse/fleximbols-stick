@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Gift bag body -->
+  <path d="M 65,80 L 225,80 L 235,220 L 55,220 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bag rim/fold -->
+  <rect x="60" y="74" width="170" height="14" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bag handles -->
+  <path d="M 95,74 Q 95,40 120,40 Q 145,40 145,74" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 145,74 Q 145,40 170,40 Q 195,40 195,74" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Crumpled tissue paper sticking out (3 colored puffs) -->
+  <path d="M 80,95 Q 70,60 90,55 Q 100,50 110,62 Q 120,52 130,65 Q 140,55 145,70 Q 138,85 120,88 Q 100,92 80,95 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 130,90 Q 122,55 145,52 Q 158,50 165,65 Q 175,55 185,70 Q 195,58 205,72 Q 210,90 188,92 Q 165,95 130,90 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 155,85 Q 150,40 175,38 Q 190,38 198,55 Q 215,48 220,68 Q 222,82 205,88 Q 180,92 155,85 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tissue crinkle lines -->
+  <path d="M 100,75 Q 105,70 110,78" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 165,70 Q 172,62 178,72" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 130,72 Q 135,65 140,73" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Sparkle highlights -->
+  <path d="M 78,130 L 82,138 L 90,142 L 82,146 L 78,154 L 74,146 L 66,142 L 74,138 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M 210,170 L 213,176 L 219,179 L 213,182 L 210,188 L 207,182 L 201,179 L 207,176 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Decorative band on bag -->
+  <line x1="75" y1="160" x2="215" y2="160" stroke="#1d0e82" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

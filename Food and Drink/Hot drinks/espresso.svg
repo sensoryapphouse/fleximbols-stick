@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Saucer -->
+  <ellipse cx="145" cy="205" rx="90" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="202" rx="72" ry="10" fill="#b8b8b8" stroke="none"/>
+  <!-- Cup body -->
+  <path d="M108 145 Q105 198 118 200 L172 200 Q185 198 182 145Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cup handle -->
+  <path d="M182 158 Q210 160 208 178 Q206 196 182 190" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coffee (dark espresso) -->
+  <path d="M111 145 Q112 175 118 185 L172 185 Q178 175 179 145Z" fill="#5e1f0a" stroke="none"/>
+  <!-- Crema layer -->
+  <ellipse cx="145" cy="145" rx="37" ry="10" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="140" cy="143" rx="18" ry="5" fill="#ff9900" stroke="none"/>
+  <!-- Cup rim -->
+  <ellipse cx="145" cy="145" rx="37" ry="10" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Steam wisps -->
+  <path d="M132 130 Q128 120 132 110 Q136 100 132 90" fill="none" stroke="#b8b8b8" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M145 128 Q141 118 145 108 Q149 98 145 88" fill="none" stroke="#b8b8b8" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M158 130 Q154 120 158 110 Q162 100 158 90" fill="none" stroke="#b8b8b8" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

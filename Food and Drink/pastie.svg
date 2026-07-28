@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- pasty body (D-shape) -->
+<path d="M 120 300 Q 130 196 256 192 Q 382 196 392 300 Q 392 320 372 322 L 140 322 Q 120 320 120 300 Z" fill="#f3cd6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crimped edge along the top curve -->
+<path d="M 120 300 Q 130 196 256 192 Q 382 196 392 300" fill="none" stroke="#e08a3a" stroke-width="7" stroke-dasharray="2 0"/>
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
+<path d="M 138 280 q 12 -10 22 0"/>
+<path d="M 168 250 q 12 -10 22 0"/>
+<path d="M 206 226 q 12 -10 22 0"/>
+<path d="M 250 216 q 12 -10 22 0"/>
+<path d="M 296 226 q 12 -10 22 0"/>
+<path d="M 334 250 q 12 -10 22 0"/>
+<path d="M 364 280 q 12 -10 22 0"/>
+</g>
+<!-- a couple of vent slits -->
+<line x1="240" y1="270" x2="240" y2="290" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<line x1="272" y1="270" x2="272" y2="290" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+</svg>

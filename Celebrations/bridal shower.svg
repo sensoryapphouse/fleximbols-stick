@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bride figure -->
+  <!-- Head -->
+  <circle cx="90" cy="65" r="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Veil -->
+  <path d="M68,55 Q60,40 80,38 Q90,35 100,38 Q118,42 110,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M68,55 Q55,80 62,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M110,55 Q122,80 116,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Hair bun under veil -->
+  <ellipse cx="90" cy="46" rx="16" ry="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Face -->
+  <circle cx="82" cy="65" r="3" fill="#000000"/>
+  <circle cx="98" cy="65" r="3" fill="#000000"/>
+  <path d="M83,76 Q90,82 97,76" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Rosy cheeks -->
+  <ellipse cx="78" cy="72" rx="6" ry="4" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="102" cy="72" rx="6" ry="4" fill="#f4a4b2" stroke="none"/>
+  <!-- Body / wedding dress -->
+  <path d="M70,88 L65,185 L115,185 L110,88 Q90,100 70,88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dress flare -->
+  <path d="M65,185 L50,215 L130,215 L115,185 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dress detail -->
+  <path d="M72,120 Q90,128 108,120" fill="none" stroke="#f4a4b2" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Arms -->
+  <line x1="70" y1="95" x2="52" y2="130" stroke="#eed5b6" stroke-width="11.11" stroke-linecap="round"/>
+  <line x1="110" y1="95" x2="128" y2="130" stroke="#eed5b6" stroke-width="11.11" stroke-linecap="round"/>
+
+  <!-- Heart "she's getting married" -->
+  <path d="M185,55 Q185,40 195,40 Q205,40 205,55 Q205,40 215,40 Q225,40 225,55 Q225,72 205,85 Q185,72 185,55 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+
+  <!-- Gift stack -->
+  <!-- Bottom gift -->
+  <rect x="155" y="155" width="80" height="55" rx="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <line x1="195" y1="155" x2="195" y2="210" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="173" x2="235" y2="173" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bow -->
+  <path d="M185,155 Q192,142 195,155" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M195,155 Q198,142 205,155" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Top gift -->
+  <rect x="165" y="115" width="60" height="42" rx="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <line x1="195" y1="115" x2="195" y2="157" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="165" y1="130" x2="225" y2="130" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M186,115 Q192,104 195,115" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M195,115 Q198,104 204,115" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

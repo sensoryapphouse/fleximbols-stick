@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.52 101.70 352.97 352.97"><!-- sports net on two posts -->
+<!-- left post -->
+<rect x="118" y="130" width="20" height="290" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- right post -->
+<rect x="374" y="130" width="20" height="290" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- top band -->
+<rect x="138" y="150" width="236" height="26" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<!-- net mesh body -->
+<rect x="138" y="176" width="236" height="170" fill="none" stroke="#1a1a1a" stroke-width="7"/>
+<g stroke="#1a1a1a" stroke-width="4">
+<line x1="168" y1="176" x2="168" y2="346"/>
+<line x1="198" y1="176" x2="198" y2="346"/>
+<line x1="228" y1="176" x2="228" y2="346"/>
+<line x1="258" y1="176" x2="258" y2="346"/>
+<line x1="288" y1="176" x2="288" y2="346"/>
+<line x1="318" y1="176" x2="318" y2="346"/>
+<line x1="348" y1="176" x2="348" y2="346"/>
+<line x1="138" y1="210" x2="374" y2="210"/>
+<line x1="138" y1="244" x2="374" y2="244"/>
+<line x1="138" y1="278" x2="374" y2="278"/>
+<line x1="138" y1="312" x2="374" y2="312"/>
+</g>
+<!-- post bases -->
+<rect x="104" y="412" width="48" height="16" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="360" y="412" width="48" height="16" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

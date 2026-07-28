@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate -->
+  <ellipse cx="145" cy="202" rx="118" ry="24" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="200" rx="112" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Tuna tartare mound - cylinder/dome shape, raw pink-red finely diced -->
+  <ellipse cx="145" cy="185" rx="62" ry="18" fill="#d01424" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Cylinder body -->
+  <path d="M 83 185 L 83 148 Q 83 135 145 132 Q 207 135 207 148 L 207 185 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Top of cylinder dome -->
+  <ellipse cx="145" cy="148" rx="62" ry="18" fill="#d01424" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Diced cube texture on top (fine grid of raw tuna pieces) -->
+  <line x1="108" y1="148" x2="108" y2="158" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="125" y1="145" x2="125" y2="157" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="144" x2="145" y2="156" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="165" y1="145" x2="165" y2="157" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="182" y1="148" x2="182" y2="157" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 90 151 Q 145 147 200 151" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 86 154 Q 145 150 204 154" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Avocado dice pieces on top - green cubes -->
+  <rect x="114" y="132" width="14" height="10" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="132" y="128" width="14" height="10" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="150" y="128" width="14" height="10" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="168" y="132" width="12" height="10" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Sesame seeds scattered on top -->
+  <ellipse cx="108" cy="143" rx="4" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(15 108 143)"/>
+  <ellipse cx="125" cy="140" rx="4" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-20 125 140)"/>
+  <ellipse cx="165" cy="140" rx="4" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(10 165 140)"/>
+  <ellipse cx="185" cy="143" rx="4" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-15 185 143)"/>
+  <!-- Capers (small dark-green rounds) -->
+  <circle cx="120" cy="137" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="158" cy="135" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="138" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Microgreen garnish on top -->
+  <path d="M 142 126 Q 138 118 134 114 M 145 124 Q 145 115 145 110 M 148 126 Q 152 118 156 114" fill="none" stroke="#137827" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

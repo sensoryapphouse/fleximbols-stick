@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- handheld rotary nail grinder for pets -->
+  <!-- main body (handle) -->
+  <rect x="60" y="95" width="130" height="50" rx="12" ry="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- grip pad on handle -->
+  <rect x="78" y="108" width="60" height="24" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- power button -->
+  <circle cx="160" cy="120" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- collar between handle and tip -->
+  <rect x="188" y="100" width="14" height="40" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- cylindrical grinding tip (shaft) -->
+  <rect x="202" y="112" width="22" height="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- grinding drum (cylinder) -->
+  <rect x="224" y="104" width="34" height="32" rx="3" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- grit texture lines on drum -->
+  <line x1="230" y1="110" x2="252" y2="110" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="230" y1="116" x2="252" y2="116" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="230" y1="122" x2="252" y2="122" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="230" y1="128" x2="252" y2="128" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- end cap of drum -->
+  <ellipse cx="258" cy="120" rx="4" ry="16" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cable from rear -->
+  <path d="M 60 120 Q 40 130 35 155 Q 32 175 50 190" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- motion dust flecks near drum -->
+  <circle cx="240" cy="92" r="2.5" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="252" cy="86" r="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="246" cy="150" r="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

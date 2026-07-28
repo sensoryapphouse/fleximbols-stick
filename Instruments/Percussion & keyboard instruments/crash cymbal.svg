@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Single large brass cymbal on a thin tall stand, slightly tilted, with drumstick -->
+
+  <!-- Stand base - tripod feet -->
+  <line x1="100" y1="220" x2="130" y2="185" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="160" y1="220" x2="138" y2="185" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="130" y1="220" x2="134" y2="185" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+
+  <!-- Stand pole - thin tall -->
+  <rect x="129" y="95" width="8" height="95" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Wing nut / tilter on stand -->
+  <ellipse cx="133" cy="98" rx="12" ry="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Cymbal - tilted slightly, large, thin -->
+  <!-- Using a parallelogram-like shape via path for tilt effect -->
+  <ellipse cx="133" cy="88" rx="72" ry="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(-10, 133, 88)"/>
+  <!-- Cymbal top surface highlight (inner ellipse for depth) -->
+  <ellipse cx="133" cy="88" rx="60" ry="14" fill="none" stroke="#f2e40d" stroke-width="2.22" transform="rotate(-10, 133, 88)"/>
+  <!-- Cymbal bell center -->
+  <ellipse cx="133" cy="86" rx="18" ry="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10, 133, 86)"/>
+  <ellipse cx="133" cy="84" rx="9" ry="5" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-10, 133, 84)"/>
+
+  <!-- Drumstick - thin, angled hitting the cymbal edge -->
+  <!-- Stick handle -->
+  <line x1="230" y1="30" x2="165" y2="75" stroke="#9d7246" stroke-width="7.77" stroke-linecap="round"/>
+  <!-- Stick tip (small round bead) -->
+  <circle cx="163" cy="77" r="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Motion lines at impact point -->
+  <line x1="155" y1="68" x2="148" y2="58" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="162" y1="64" x2="158" y2="52" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="170" y1="62" x2="168" y2="50" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

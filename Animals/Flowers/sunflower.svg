@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="translate(256 256)">
+<!-- stem -->
+<line x1="0" y1="60" x2="0" y2="212" stroke="#2e7d40" stroke-width="16" stroke-linecap="round"/>
+<!-- leaves -->
+<path d="M 0 150 Q -82 118 -96 184 Q -34 192 0 150 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 0 178 Q 82 146 96 212 Q 34 220 0 178 Z" fill="#8cc152" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- gold petals (16) -->
+<g fill="#f4c430" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
+<ellipse cx="0" cy="-104" rx="18" ry="46"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(22.5)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(45)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(67.5)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(90)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(112.5)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(135)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(157.5)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(180)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(202.5)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(225)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(247.5)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(270)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(292.5)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(315)"/>
+<ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(337.5)"/>
+</g>
+<!-- brown seed centre -->
+<circle cx="0" cy="0" r="58" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="0" cy="0" r="38" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="0"/>
+</g>
+</svg>

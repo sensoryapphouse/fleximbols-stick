@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl base -->
+  <ellipse cx="145" cy="200" rx="100" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bowl body -->
+  <path d="M52 140 Q46 200 145 214 Q244 200 238 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="140" rx="93" ry="15" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Broth/cream in bowl - pale cream -->
+  <ellipse cx="145" cy="158" rx="76" ry="35" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Tortellini 1 - navel/ring shape, top left -->
+  <!-- Outer ring -->
+  <ellipse cx="100" cy="152" rx="26" ry="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Inner hole (navel indent) -->
+  <ellipse cx="100" cy="152" rx="9" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Folded edge (the pinched fold line) -->
+  <path d="M76 152 Q100 140 124 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tortellini 2 - top right -->
+  <ellipse cx="190" cy="148" rx="26" ry="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="190" cy="148" rx="9" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M166 148 Q190 136 214 148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tortellini 3 - bottom center -->
+  <ellipse cx="145" cy="178" rx="26" ry="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="178" rx="9" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M121 178 Q145 166 169 178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tortellini 4 - middle between 1 and 2 -->
+  <ellipse cx="145" cy="148" rx="22" ry="17" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="148" rx="7" ry="5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.78"/>
+  <path d="M124 148 Q145 138 166 148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Parsley sprig -->
+  <ellipse cx="108" cy="128" rx="10" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-20 108 128)"/>
+  <ellipse cx="122" cy="126" rx="10" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(15 122 126)"/>
+</g></svg>

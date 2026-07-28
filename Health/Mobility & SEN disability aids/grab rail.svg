@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="110.55 99.45 290.91 290.91">
+<!-- grab rail: wall-mounted safety bar with two mounting flanges -->
+<!-- wall mounting plates -->
+<circle cx="160" cy="200" r="26" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="160" cy="200" r="7" fill="#1a1a1a"/>
+<circle cx="352" cy="200" r="26" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="352" cy="200" r="7" fill="#1a1a1a"/>
+<!-- bar uprights from plates -->
+<line x1="160" y1="200" x2="160" y2="280" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
+<line x1="352" y1="200" x2="352" y2="280" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
+<!-- horizontal grab bar -->
+<line x1="150" y1="300" x2="362" y2="300" stroke="#5a9ec9" stroke-width="30" stroke-linecap="round"/>
+<line x1="150" y1="300" x2="362" y2="300" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" opacity="0"/>
+<!-- bar outline -->
+<rect x="138" y="284" width="236" height="32" rx="16" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="150" y1="300" x2="362" y2="300" stroke="#5a9ec9" stroke-width="22" stroke-linecap="round"/>
+</svg>

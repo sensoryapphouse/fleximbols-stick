@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Oval platter -->
+  <ellipse cx="145" cy="168" rx="128" ry="50" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <ellipse cx="145" cy="162" rx="128" ry="50" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <ellipse cx="145" cy="162" rx="120" ry="43" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Row 1: 3 eggs (back row) -->
+  <!-- Egg 1 -->
+  <ellipse cx="78" cy="142" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
+  <ellipse cx="78" cy="140" rx="14" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M69 137 Q78 128 87 137" fill="#f2e40d" stroke="none"/>
+  <path d="M69 137 Q78 128 87 137" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Egg 2 -->
+  <ellipse cx="145" cy="136" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
+  <ellipse cx="145" cy="134" rx="14" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M136 131 Q145 122 154 131" fill="#f2e40d" stroke="none"/>
+  <path d="M136 131 Q145 122 154 131" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Egg 3 -->
+  <ellipse cx="212" cy="142" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
+  <ellipse cx="212" cy="140" rx="14" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M203 137 Q212 128 221 137" fill="#f2e40d" stroke="none"/>
+  <path d="M203 137 Q212 128 221 137" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Row 2: 3 eggs (middle row) -->
+  <!-- Egg 4 -->
+  <ellipse cx="100" cy="163" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
+  <ellipse cx="100" cy="161" rx="14" ry="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M91 158 Q100 149 109 158" fill="#f7de58" stroke="none"/>
+  <path d="M91 158 Q100 149 109 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Paprika dot -->
+  <circle cx="100" cy="158" r="3" fill="#f8130d"/>
+
+  <!-- Egg 5 -->
+  <ellipse cx="145" cy="168" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
+  <ellipse cx="145" cy="166" rx="14" ry="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M136 163 Q145 154 154 163" fill="#f7de58" stroke="none"/>
+  <path d="M136 163 Q145 154 154 163" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="163" r="3" fill="#f8130d"/>
+
+  <!-- Egg 6 -->
+  <ellipse cx="190" cy="163" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
+  <ellipse cx="190" cy="161" rx="14" ry="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M181 158 Q190 149 199 158" fill="#f7de58" stroke="none"/>
+  <path d="M181 158 Q190 149 199 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="190" cy="158" r="3" fill="#f8130d"/>
+
+  <!-- Row 3: 2 eggs (front row) -->
+  <!-- Egg 7 -->
+  <ellipse cx="110" cy="185" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
+  <ellipse cx="110" cy="183" rx="14" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M101 180 Q110 171 119 180" fill="#f2e40d" stroke="none"/>
+  <path d="M101 180 Q110 171 119 180" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Egg 8 -->
+  <ellipse cx="180" cy="185" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
+  <ellipse cx="180" cy="183" rx="14" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M171 180 Q180 171 189 180" fill="#f2e40d" stroke="none"/>
+  <path d="M171 180 Q180 171 189 180" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

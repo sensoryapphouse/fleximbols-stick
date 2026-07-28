@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Open bin/box on right -->
+  <rect x="185" y="148" width="80" height="72" rx="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Box front flap open -->
+  <path d="M185 148 L185 128 L265 128 L265 148" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Box label lines -->
+  <line x1="198" y1="170" x2="252" y2="170" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="198" y1="182" x2="240" y2="182" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Messy pile on left -->
+  <!-- Random items in pile -->
+  <!-- Book -->
+  <rect x="38" y="155" width="38" height="28" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-12 57 169)"/>
+  <!-- Bottle -->
+  <rect x="75" y="150" width="18" height="38" rx="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(8 84 169)"/>
+  <!-- Box shape -->
+  <rect x="30" y="178" width="45" height="32" rx="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Shirt shape -->
+  <path d="M80 178 Q80 168 90 165 Q100 162 105 168 Q110 162 120 165 Q130 168 130 178 L125 208 L85 208 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sleeves of shirt -->
+  <path d="M80 178 L65 185 L70 195 L85 190" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M130 178 L145 185 L140 195 L125 190" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Items flying toward bin with arrows -->
+  <!-- Flying book -->
+  <rect x="125" y="118" width="30" height="22" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-20 140 129)"/>
+  <!-- Flying cup -->
+  <path d="M155" fill="none"/>
+  <path d="M158 100 Q154 88 162 84 Q170 80 173 92 L171 100 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Motion arrows pointing right toward bin -->
+  <path d="M132 152 Q155 145 178 140" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="178,140 166,134 168,147" fill="#000000"/>
+  <path d="M145 125 Q162 118 178 118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="178,118 167,112 167,124" fill="#000000"/>
+  <path d="M148 104 Q163 98 178 100" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <polygon points="178,100 167,94 167,106" fill="#000000"/>
+</g></svg>

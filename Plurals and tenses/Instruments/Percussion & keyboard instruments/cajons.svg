@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cajon: plain rectangular wooden box drum, sat upon, round sound hole on back -->
+
+  <!-- Main box body: simple rectangle, slight 3D perspective showing top and front face -->
+  <!-- Top face (3D perspective top) -->
+  <polygon points="80,45 210,45 230,62 100,62" fill="#e6b98a" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Front face (main face/tapa, the playing side) -->
+  <rect x="80" y="62" width="130" height="160" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Right side face -->
+  <polygon points="210,45 230,62 230,222 210,222" fill="#7d5e23" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+
+  <!-- Front face (tapa) — slightly different color suggesting thin front panel -->
+  <rect x="86" y="68" width="118" height="148" rx="2" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- Sound hole on back: shown as visible through the box shape (represented on side) -->
+  <!-- We show it as a circle on the right side face to indicate it's on the back -->
+  <circle cx="220" cy="140" r="16" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- Wood grain lines on front face (subtle) -->
+  <line x1="90" y1="85" x2="200" y2="85" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="90" y1="105" x2="200" y2="105" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="90" y1="125" x2="200" y2="125" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="90" y1="145" x2="200" y2="145" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="90" y1="165" x2="200" y2="165" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="90" y1="185" x2="200" y2="185" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="90" y1="205" x2="200" y2="205" stroke="#7d5e23" stroke-width="4.45"/>
+
+  <!-- Corner screws/bolts (typical cajon detail) -->
+  <circle cx="94" cy="76" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="76" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="94" cy="208" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="208" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2461" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2461)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- jail cell with door opening (left) -->
+  <rect x="20" y="40" width="120" height="170" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="28" y="48" width="104" height="154" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- bars (vertical) -->
+  <line x1="44" y1="48" x2="44" y2="202" stroke="#b8b8b8" stroke-width="5.93"/>
+  <line x1="60" y1="48" x2="60" y2="202" stroke="#b8b8b8" stroke-width="5.93"/>
+  <line x1="76" y1="48" x2="76" y2="202" stroke="#b8b8b8" stroke-width="5.93"/>
+  <!-- door opening: swung open (right portion swung outward) -->
+  <g transform="rotate(-25 92 125)">
+    <rect x="86" y="48" width="50" height="154" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+    <line x1="102" y1="48" x2="102" y2="202" stroke="#b8b8b8" stroke-width="5.93"/>
+    <line x1="118" y1="48" x2="118" y2="202" stroke="#b8b8b8" stroke-width="5.93"/>
+    <line x1="134" y1="48" x2="134" y2="202" stroke="#b8b8b8" stroke-width="5.93"/>
+    <!-- hinge -->
+    <circle cx="86" cy="125" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  </g>
+  <!-- horizontal cross bars -->
+  <line x1="28" y1="75" x2="80" y2="75" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="28" y1="175" x2="80" y2="175" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- money bag (top right) -->
+  <path d="M195 70 q-25 15 -25 50 q0 30 30 30 q30 0 30 -30 q0 -35 -25 -50 z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bag tie -->
+  <rect x="185" y="58" width="30" height="14" rx="2" ry="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="190" y1="58" x2="190" y2="72" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="200" y1="58" x2="200" y2="72" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="210" y1="58" x2="210" y2="72" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- $ sign on bag -->
+  <path d="M205 100 q-10 0 -10 8 q0 8 10 8 q10 0 10 8 q0 8 -10 8 M205 95 v37" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- bail amount placard below bag -->
+  <rect x="160" y="160" width="110" height="28" rx="3" ry="3" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- $ -->
+  <path d="M178 168 q-6 0 -6 5 q0 5 6 5 q6 0 6 5 q0 5 -6 5 M178 165 v22" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- coin stack indicators -->
+  <ellipse cx="205" cy="175" rx="14" ry="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="205" cy="180" rx="14" ry="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="205" cy="185" rx="14" ry="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- "1000" hint with three small bars -->
+  <line x1="232" y1="170" x2="232" y2="184" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="240" y1="170" x2="240" y2="184" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="248" y1="170" x2="248" y2="184" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="256" y1="170" x2="256" y2="184" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- clock (bottom right) -->
+  <circle cx="230" cy="210" r="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="230" y1="210" x2="230" y2="196" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="230" y1="210" x2="242" y2="214" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="230" cy="210" r="2.5" fill="#000000"/>
+  <line x1="230" y1="193" x2="230" y2="196" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="230" y1="224" x2="230" y2="227" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="213" y1="210" x2="216" y2="210" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="244" y1="210" x2="247" y2="210" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

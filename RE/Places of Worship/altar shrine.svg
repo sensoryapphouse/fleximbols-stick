@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Altar shrine: draped table, two candles, offering bowl, decorative cloth -->
+  <!-- Altar table top -->
+  <rect x="42" y="148" width="206" height="18" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Draped cloth over table front -->
+  <path d="M42 166 Q80 178 145 172 Q210 178 248 166 L248 188 Q210 200 145 196 Q80 200 42 188 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cloth fringe detail -->
+  <path d="M42 188 Q55 196 68 188 Q81 196 94 188 Q107 196 120 188 Q133 196 145 188 Q157 196 170 188 Q183 196 196 188 Q209 196 222 188 Q235 196 248 188" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Table left leg -->
+  <rect x="55" y="164" width="14" height="52" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Table right leg -->
+  <rect x="221" y="164" width="14" height="52" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Offering bowl on table -->
+  <path d="M118 148 Q145 136 172 148 Q168 162 145 164 Q122 162 118 148 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Offering fruit in bowl -->
+  <circle cx="138" cy="146" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="152" cy="145" r="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="143" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Left candle holder cup -->
+  <ellipse cx="82" cy="150" rx="10" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Left candle -->
+  <rect x="76" y="100" width="12" height="50" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left wick -->
+  <line x1="82" y1="100" x2="82" y2="92" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Left flame outer -->
+  <path d="M82 92 Q74 80 76 70 Q79 62 82 66 Q85 62 88 70 Q90 80 82 92 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left flame inner -->
+  <path d="M82 88 Q77 78 79 70 Q81 65 82 68 Q83 65 85 70 Q87 78 82 88 Z" fill="#f7de58" stroke="none"/>
+  <!-- Right candle holder cup -->
+  <ellipse cx="208" cy="150" rx="10" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right candle -->
+  <rect x="202" y="100" width="12" height="50" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right wick -->
+  <line x1="208" y1="100" x2="208" y2="92" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Right flame outer -->
+  <path d="M208 92 Q200 80 202 70 Q205 62 208 66 Q211 62 214 70 Q216 80 208 92 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right flame inner -->
+  <path d="M208 88 Q203 78 205 70 Q207 65 208 68 Q209 65 211 70 Q213 78 208 88 Z" fill="#f7de58" stroke="none"/>
+</g></svg>

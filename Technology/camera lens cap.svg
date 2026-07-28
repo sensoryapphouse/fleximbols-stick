@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- camera body behind (partial) -->
+  <rect x="40" y="80" width="80" height="100" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- viewfinder hump -->
+  <rect x="65" y="65" width="35" height="18" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- shutter button -->
+  <circle cx="100" cy="92" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- lens barrel (cylinder from side) -->
+  <rect x="115" y="105" width="55" height="50" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- lens rings -->
+  <line x1="125" y1="105" x2="125" y2="155" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="105" x2="145" y2="155" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="160" y1="105" x2="160" y2="155" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- round lens cap in front of lens (face-on, larger, dominant) -->
+  <circle cx="200" cy="130" r="58" fill="#000000" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="200" cy="130" r="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- pinch grip tabs (center-pinch lens cap) -->
+  <rect x="175" y="125" width="16" height="10" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="209" y="125" width="16" height="10" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pinch arrows pointing inward -->
+  <polygon points="195,130 188,126 188,134" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <polygon points="205,130 212,126 212,134" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- protective shine -->
+  <ellipse cx="185" cy="110" rx="10" ry="5" fill="#7f7f7f"/>
+  <!-- protective shield indicator -->
+  <path d="M250 70 L270 75 L268 95 Q258 105 248 95 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M254 82 L259 87 L266 78" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

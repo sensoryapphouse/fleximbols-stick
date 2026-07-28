@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cream-mask: creamy mask jar + soft texture + cosmetic brush dabbed in cream -->
+  <!-- Jar body (soft cream pink, round modern) -->
+  <rect x="50" y="105" width="170" height="115" rx="20" ry="20" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Jar highlight -->
+  <line x1="62" y1="120" x2="62" y2="205" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="207" y1="120" x2="207" y2="205" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lid (open behind, showing cream inside) -->
+  <ellipse cx="135" cy="103" rx="88" ry="13" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Jar opening filled with creamy mask -->
+  <ellipse cx="135" cy="110" rx="78" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Soft cream texture swirl on top -->
+  <path d="M80 110 Q100 102 135 108 Q170 114 190 108" fill="none" stroke="#efefef" stroke-width="5.18" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cream peak (soft dollop rising) -->
+  <path d="M125 110 Q130 96 140 100 Q142 108 138 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Soft sparkle on cream -->
+  <path d="M155 95 L157 99 L161 100 L157 102 L155 106 L153 102 L149 100 L153 99 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Jar label band -->
+  <rect x="80" y="145" width="110" height="36" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- "MASK" label letters as paths -->
+  <!-- Cosmetic brush (resting on jar, right side, angled) -->
+  <!-- Brush handle -->
+  <rect x="225" y="40" width="12" height="70" rx="3" ry="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" transform="rotate(15 231 75)"/>
+  <!-- Ferrule -->
+  <rect x="226" y="105" width="22" height="10" rx="2" ry="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 237 110)"/>
+  <!-- Soft brush bristles -->
+  <path d="M228 113 L222 138 Q222 148 235 150 Q248 148 248 138 L246 116 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round" transform="rotate(15 237 130)"/>
+  <!-- Cream dab on brush tip -->
+  <ellipse cx="245" cy="150" rx="12" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 245 150)"/>
+  <!-- flower petals + jar spatula (replaces CREAM text) -->
+  <circle cx="145" cy="165" r="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="132" cy="162" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 132 162)"/>
+  <ellipse cx="158" cy="162" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 158 162)"/>
+  <ellipse cx="145" cy="152" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="178" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Crock body (dark ceramic) -->
+  <path d="M55,105 Q50,200 145,218 Q240,200 235,105 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.83" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Crock rim (lip) -->
+  <ellipse cx="145" cy="105" rx="90" ry="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.83" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dark brown broth / caramelized onion base visible at rim -->
+  <ellipse cx="145" cy="110" rx="76" ry="13" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Caramelized onion strands visible in broth -->
+  <path d="M90,114 Q108,106 126,114 Q140,120 155,112 Q170,104 185,113" fill="none" stroke="#9d7246" stroke-width="5.47" stroke-linecap="round"/>
+  <path d="M95,122 Q112,114 128,122 Q142,128 158,120 Q172,112 186,121" fill="none" stroke="#9d7246" stroke-width="4.79" stroke-linecap="round"/>
+  <!-- Cheese-covered toast RAFT on top -->
+  <!-- Toast base (bread shape) - floats across the full opening -->
+  <rect x="72" y="60" width="146" height="28" rx="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.47" stroke-linejoin="round"/>
+  <!-- Broiled cheese layer on top - bubbly and golden-brown -->
+  <rect x="68" y="42" width="154" height="22" rx="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.47" stroke-linejoin="round"/>
+  <!-- Broiled cheese bubbles (darker golden brown spots) -->
+  <ellipse cx="92" cy="52" rx="12" ry="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="120" cy="49" rx="14" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="152" cy="52" rx="13" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="185" cy="50" rx="11" ry="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Broiled dark spots on cheese (oven crust cue) -->
+  <ellipse cx="105" cy="51" rx="7" ry="4" fill="#9d7246" stroke="none"/>
+  <ellipse cx="140" cy="48" rx="8" ry="4" fill="#9d7246" stroke="none"/>
+  <ellipse cx="170" cy="51" rx="7" ry="4" fill="#9d7246" stroke="none"/>
+  <!-- Cheese draping over sides of crock -->
+  <path d="M68,55 Q58,70 62,90 Q62,95 68,98" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M222,55 Q232,70 228,90 Q228,95 222,98" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Crock handles -->
+  <path d="M55,130 Q36,128 32,145 Q28,162 45,167 Q55,170 58,158" fill="none" stroke="#7d5e23" stroke-width="12.30" stroke-linecap="round"/>
+  <path d="M235,130 Q254,128 258,145 Q262,162 245,167 Q235,170 232,158" fill="none" stroke="#7d5e23" stroke-width="12.30" stroke-linecap="round"/>
+  <!-- Crock base -->
+  <ellipse cx="145" cy="215" rx="74" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

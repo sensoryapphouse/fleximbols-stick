@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stick handle -->
+  <rect x="200" y="155" width="14" height="70" rx="7" ry="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mask body -->
+  <path d="M30,100 C30,60 70,35 145,35 C220,35 260,60 260,100 C260,140 230,165 195,160 C175,158 165,145 145,145 C125,145 115,158 95,160 C60,165 30,140 30,100 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mask ornate border top -->
+  <path d="M30,100 C30,60 70,35 145,35 C220,35 260,60 260,100" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Left eye hole -->
+  <ellipse cx="95" cy="98" rx="32" ry="22" fill="#000000" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="95" cy="98" rx="26" ry="16" fill="#dff3fd" stroke="none"/>
+  <!-- Right eye hole -->
+  <ellipse cx="195" cy="98" rx="32" ry="22" fill="#000000" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="195" cy="98" rx="26" ry="16" fill="#dff3fd" stroke="none"/>
+  <!-- Left eyebrow flourish -->
+  <path d="M63,72 C75,60 110,58 127,68" fill="none" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Right eyebrow flourish -->
+  <path d="M163,68 C180,58 215,60 227,72" fill="none" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Decorative swirl left -->
+  <path d="M45,110 C38,125 42,140 55,142" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Decorative swirl right -->
+  <path d="M245,110 C252,125 248,140 235,142" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Gem left eye corner -->
+  <circle cx="63" cy="98" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Gem right eye corner -->
+  <circle cx="227" cy="98" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Gem center forehead -->
+  <circle cx="145" cy="55" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Feather accent top left -->
+  <path d="M55,55 C40,30 30,20 25,30 C20,42 40,50 55,55 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M55,55 C45,28 38,18 32,26" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Feather accent top right -->
+  <path d="M235,55 C250,30 260,20 265,30 C270,42 250,50 235,55 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M235,55 C245,28 252,18 258,26" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

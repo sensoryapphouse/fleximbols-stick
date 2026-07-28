@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Eyeliner liquid: slim bottle + fine brush/wand with very pointed thin tip -->
+  <!-- Bottle body (slim, tall) -->
+  <rect x="118" y="60" width="54" height="120" rx="10" fill="#000000" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bottle label band -->
+  <rect x="120" y="98" width="50" height="36" rx="0" fill="#1d0e82" stroke="none"/>
+  <!-- Label text implied by thin lines -->
+  <line x1="126" y1="108" x2="164" y2="108" stroke="#90a7d6" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="126" y1="116" x2="164" y2="116" stroke="#90a7d6" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Cap / top section -->
+  <rect x="122" y="32" width="46" height="30" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Cap-to-bottle collar -->
+  <rect x="118" y="58" width="54" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Wand/brush stem emerging from cap bottom -->
+  <line x1="145" y1="32" x2="145" y2="195" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Fine brush: tapers to very fine point at bottom -->
+  <!-- Brush bristle body (short, oval) -->
+  <ellipse cx="145" cy="188" rx="5" ry="14" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Fine tip (very narrow triangle) -->
+  <polygon points="140,195 150,195 145,228" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small liquid dot at the very tip -->
+  <circle cx="145" cy="230" r="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Wand visible below bottle bottom (wand pulled out visual) -->
+  <!-- Bottle shine highlight -->
+  <line x1="124" y1="68" x2="124" y2="170" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

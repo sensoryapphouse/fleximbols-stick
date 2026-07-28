@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="91.15 96.27 329.70 329.70">
+<!-- crinkly: crumpled / wrinkled foil sheet, many irregular creases -->
+<path d="M 118 168
+         L 250 150 L 372 172 L 396 268
+         L 318 372 L 188 360 L 116 272 Z"
+      fill="#dfe4e9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- shading facets for crumpled look -->
+<polygon points="250,150 206,236 296,210" fill="#c4cbd2"/>
+<polygon points="116,272 206,236 188,360" fill="#eef2f5"/>
+<polygon points="296,210 396,268 318,372" fill="#c4cbd2"/>
+<polygon points="206,236 318,372 188,360" fill="#d6dce2"/>
+<!-- irregular crease lines radiating / zigzag -->
+<path d="M 250 150 L 206 236 L 296 210 L 372 172" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 116 272 L 206 236 L 296 210 L 396 268" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 206 236 L 188 360" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 206 236 L 318 372" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 250 150 L 264 198 L 296 210" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 152 220 L 196 248" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 330 230 L 300 268" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 240 300 L 270 330" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80.37 101.70 310.30 310.30">
+<!-- special/orthopaedic boot: rounded toe at left, tall padded ankle collar at back, chunky sole + velcro straps -->
+<path d="M 116 326 Q 110 232 168 222 L 250 222 Q 266 222 270 200 L 282 150 Q 286 132 312 132 Q 348 132 348 168 L 348 300 Q 348 326 348 326 Z" fill="#4a78b8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- padded ankle-collar opening -->
+<path d="M 280 150 Q 300 168 344 162" fill="none" stroke="#2b537e" stroke-width="14" stroke-linecap="round"/>
+<!-- thick orthopaedic sole -->
+<rect x="104" y="322" width="262" height="42" rx="16" fill="#2b2b2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- raised heel wedge -->
+<rect x="296" y="356" width="70" height="26" rx="8" fill="#2b2b2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- velcro strap 1 (upper) -->
+<rect x="150" y="244" width="170" height="26" rx="8" fill="#d9d24a" stroke="#1a1a1a" stroke-width="8"/>
+<!-- velcro strap 2 (lower) -->
+<rect x="138" y="286" width="150" height="26" rx="8" fill="#d9d24a" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

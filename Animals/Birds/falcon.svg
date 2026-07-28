@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Perch branch -->
+  <rect x="60" y="195" width="170" height="16" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tail -->
+  <polygon points="145,185 120,215 170,215" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Body -->
+  <ellipse cx="145" cy="155" rx="38" ry="52" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Wing left -->
+  <polygon points="107,140 48,185 110,170" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wing right -->
+  <polygon points="183,140 242,185 180,170" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Belly pale -->
+  <ellipse cx="145" cy="168" rx="22" ry="28" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Belly streaks -->
+  <line x1="138" y1="158" x2="136" y2="178" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="156" x2="143" y2="180" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="152" y1="158" x2="150" y2="178" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="145" cy="108" r="28" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Moustache malar stripe left -->
+  <path d="M128,118 Q122,126 124,132" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Moustache malar stripe right -->
+  <path d="M162,118 Q168,126 166,132" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- White cheek left -->
+  <ellipse cx="128" cy="116" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- White cheek right -->
+  <ellipse cx="162" cy="116" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Beak -->
+  <path d="M145,103 Q138,108 140,116 L150,116 Q152,108 145,103Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Eye left -->
+  <circle cx="132" cy="107" r="5" fill="#000000"/>
+  <circle cx="133" cy="106" r="2" fill="#ffffff"/>
+  <!-- Eye right -->
+  <circle cx="158" cy="107" r="5" fill="#000000"/>
+  <circle cx="159" cy="106" r="2" fill="#ffffff"/>
+  <!-- Feet -->
+  <line x1="132" y1="203" x2="115" y2="210" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="203" x2="118" y2="206" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="203" x2="120" y2="214" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="203" x2="175" y2="210" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="203" x2="172" y2="206" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="203" x2="170" y2="214" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

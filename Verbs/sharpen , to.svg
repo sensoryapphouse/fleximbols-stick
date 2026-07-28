@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- pencil body (pointing down-left, being sharpened) -->
+<g transform="rotate(35 256 256)">
+  <rect x="236" y="120" width="40" height="200" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <!-- wood tip -->
+  <polygon points="236 320 276 320 256 372" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <!-- graphite point -->
+  <polygon points="248 352 264 352 256 372" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <!-- eraser end -->
+  <rect x="236" y="104" width="40" height="20" rx="6" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<!-- sharpener -->
+<rect x="300" y="300" width="92" height="64" rx="10" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- sharpener blade -->
+<rect x="316" y="318" width="60" height="14" rx="4" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<!-- shaving curl -->
+<path d="M300 332 Q270 312 286 288 Q300 268 276 258" fill="none" stroke="#c89a5b" stroke-width="9" stroke-linecap="round"/>
+</svg>

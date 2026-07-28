@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lip mask product jar (left) + sleeping mask on lips (right) + before/after plump -->
+  <!-- Jar of lip mask -->
+  <ellipse cx="55" cy="100" rx="32" ry="8" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M23 100 L26 175 Q55 188 84 175 L87 100" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Jar lid -->
+  <ellipse cx="55" cy="92" rx="34" ry="9" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Jar label -->
+  <rect x="32" y="125" width="46" height="20" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Lip icon on jar label -->
+  <path d="M40 135 Q45 130 50 132 Q55 130 60 132 Q65 130 70 135 Q65 140 55 140 Q45 140 40 135 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Before lip (smaller, dry) -->
+  <path d="M115 145 Q125 138 138 142 Q150 138 160 145 Q155 155 138 156 Q120 155 115 145 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Before arrow -->
+  <path d="M170 148 L195 148 M188 142 L195 148 L188 154" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- After lip (plump with mask coating glossy on top) -->
+  <path d="M200 150 Q215 135 235 138 Q255 135 270 150 Q260 168 235 170 Q210 168 200 150 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Mask coating layer (visible coating sitting on top of lips) -->
+  <path d="M205 145 Q220 130 235 132 Q250 130 265 145" fill="none" stroke="#dff3fd" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Shine highlight on plumped lips (glossy mask) -->
+  <ellipse cx="225" cy="148" rx="10" ry="3" fill="#ffffff"/>
+  <ellipse cx="250" cy="150" rx="5" ry="2" fill="#ffffff"/>
+  <!-- Plump indicator: small upward sparkle stars -->
+  <path d="M210 105 L213 110 L218 110 L214 113 L216 118 L210 115 L204 118 L206 113 L202 110 L207 110 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M260 110 L262 114 L266 114 L263 117 L264 121 L260 119 L256 121 L257 117 L254 114 L258 114 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Small applicator spatula sticking out of jar -->
+  <rect x="60" y="60" width="6" height="40" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="63" cy="58" rx="6" ry="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- LEFT HALF: English muffin bottom -->
+  <path d="M20,200 Q20,225 75,225 Q130,225 130,200 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="75" cy="200" rx="55" ry="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- LEFT: Spinach layer (green, leafy) -->
+  <ellipse cx="75" cy="183" rx="46" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Spinach leaf shapes -->
+  <path d="M36,182 Q50,172 60,180 Q52,188 36,184 Z" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M58,175 Q72,165 82,173 Q74,183 58,179 Z" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M80,177 Q94,168 104,176 Q96,186 80,182 Z" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Leaf veins -->
+  <line x1="46" y1="183" x2="50" y2="176" stroke="#529929" stroke-width="1.48" stroke-linecap="round"/>
+  <line x1="70" y1="176" x2="74" y2="169" stroke="#529929" stroke-width="1.48" stroke-linecap="round"/>
+  <line x1="92" y1="178" x2="96" y2="171" stroke="#529929" stroke-width="1.48" stroke-linecap="round"/>
+
+  <!-- LEFT: Poached egg white -->
+  <ellipse cx="75" cy="163" rx="44" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Left yolk -->
+  <circle cx="75" cy="159" r="14" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="159" r="9" fill="#f7de58"/>
+
+  <!-- RIGHT HALF: English muffin bottom -->
+  <path d="M160,200 Q160,225 215,225 Q270,225 270,200 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="215" cy="200" rx="55" ry="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- RIGHT: Spinach layer -->
+  <ellipse cx="215" cy="183" rx="46" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Spinach leaf shapes right -->
+  <path d="M176,182 Q190,172 200,180 Q192,188 176,184 Z" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M198,175 Q212,165 222,173 Q214,183 198,179 Z" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M220,177 Q234,168 244,176 Q236,186 220,182 Z" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Leaf veins right -->
+  <line x1="186" y1="183" x2="190" y2="176" stroke="#529929" stroke-width="1.48" stroke-linecap="round"/>
+  <line x1="210" y1="176" x2="214" y2="169" stroke="#529929" stroke-width="1.48" stroke-linecap="round"/>
+  <line x1="232" y1="178" x2="236" y2="171" stroke="#529929" stroke-width="1.48" stroke-linecap="round"/>
+
+  <!-- RIGHT: Poached egg white -->
+  <ellipse cx="215" cy="163" rx="44" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Right yolk -->
+  <circle cx="215" cy="159" r="14" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="159" r="9" fill="#f7de58"/>
+
+  <!-- Hollandaise sauce drizzle (yellow, over both) -->
+  <!-- Left drizzle -->
+  <path d="M38,169 Q52,153 75,146 Q98,139 112,151 Q118,159 114,169" fill="none" stroke="#f2e40d" stroke-width="10.36" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44,173 Q60,163 75,159" fill="none" stroke="#f2e40d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Right drizzle -->
+  <path d="M178,169 Q192,153 215,146 Q238,139 252,151 Q258,159 254,169" fill="none" stroke="#f2e40d" stroke-width="10.36" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184,173 Q200,163 215,159" fill="none" stroke="#f2e40d" stroke-width="7.40" stroke-linecap="round"/>
+
+  <!-- Sauce pools -->
+  <ellipse cx="75" cy="171" rx="38" ry="7" fill="#f7de58" stroke="#f2e40d" stroke-width="2.96"/>
+  <ellipse cx="215" cy="171" rx="38" ry="7" fill="#f7de58" stroke="#f2e40d" stroke-width="2.96"/>
+
+  <!-- Plate hint -->
+  <ellipse cx="145" cy="228" rx="128" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

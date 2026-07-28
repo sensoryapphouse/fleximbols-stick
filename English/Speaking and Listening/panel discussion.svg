@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stage platform -->
+  <rect x="22" y="188" width="246" height="18" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Panel table -->
+  <rect x="30" y="152" width="230" height="14" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="30" y="163" width="230" height="28" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Panellist 1 (far left) -->
+  <circle cx="60" cy="112" r="13" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M47,122 Q50,118 60,118 Q70,118 73,122" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="47" y="122" width="26" height="30" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="47" y1="132" x2="34" y2="144" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="73" y1="132" x2="80" y2="148" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mic 1 -->
+  <line x1="60" y1="148" x2="60" y2="130" stroke="#4d4d4d" stroke-width="2.66" stroke-linecap="round"/>
+  <ellipse cx="60" cy="127" rx="5" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Panellist 2 -->
+  <circle cx="110" cy="110" r="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M97,106 Q98,96 110,97 Q122,96 123,106" fill="#000000" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="97" y="124" width="26" height="30" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M97,120 Q100,116 110,116 Q120,116 123,120" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="97" y1="132" x2="84" y2="146" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="123" y1="134" x2="134" y2="148" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mic 2 -->
+  <line x1="110" y1="148" x2="110" y2="128" stroke="#4d4d4d" stroke-width="2.66" stroke-linecap="round"/>
+  <ellipse cx="110" cy="125" rx="5" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Panellist 3 (center, slightly forward / speaking) -->
+  <circle cx="160" cy="108" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Open mouth indicator -->
+  <path d="M154,116 Q160,120 166,116" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <rect x="147" y="122" width="26" height="32" rx="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M147,120 Q150,116 160,116 Q170,116 173,120" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left arm gesturing -->
+  <line x1="147" y1="130" x2="128" y2="122" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="173" y1="132" x2="186" y2="146" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mic 3 (closer, bigger - this one is speaking) -->
+  <line x1="160" y1="148" x2="160" y2="124" stroke="#4d4d4d" stroke-width="3.55" stroke-linecap="round"/>
+  <ellipse cx="160" cy="120" rx="6" ry="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Speech bubble -->
+  <ellipse cx="196" cy="86" rx="28" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="172,96 180,104 184,96" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="180" y1="102" x2="180" y2="97" stroke="#ffffff" stroke-width="1.78"/>
+  <line x1="183" y1="82" x2="209" y2="82" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="183" y1="90" x2="209" y2="90" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+
+  <!-- Panellist 4 (far right) -->
+  <circle cx="230" cy="112" r="13" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M217,118 Q220,114 230,114 Q240,114 243,118" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="217" y="118" width="26" height="34" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="217" y1="128" x2="204" y2="144" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="243" y1="130" x2="254" y2="144" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mic 4 -->
+  <line x1="230" y1="148" x2="230" y2="130" stroke="#4d4d4d" stroke-width="2.66" stroke-linecap="round"/>
+  <ellipse cx="230" cy="127" rx="5" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

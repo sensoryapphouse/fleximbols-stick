@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- horizontal bar -->
+<line x1="140" y1="150" x2="372" y2="150" stroke="#b9bdc2" stroke-width="14" stroke-linecap="round"/>
+<!-- uprights -->
+<line x1="150" y1="150" x2="150" y2="420" stroke="#9aa0a6" stroke-width="12" stroke-linecap="round"/>
+<line x1="362" y1="150" x2="362" y2="420" stroke="#9aa0a6" stroke-width="12" stroke-linecap="round"/>
+<!-- feet -->
+<line x1="120" y1="420" x2="180" y2="420" stroke="#9aa0a6" stroke-width="12" stroke-linecap="round"/>
+<line x1="332" y1="420" x2="392" y2="420" stroke="#9aa0a6" stroke-width="12" stroke-linecap="round"/>
+<!-- hanger 1 (shirt) -->
+<path d="M 215 150 L 200 196 L 230 196 Z" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 196 200 L 188 280 L 242 280 L 234 200 L 230 196 L 200 196 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- hanger 2 (shirt) -->
+<path d="M 297 150 L 282 196 L 312 196 Z" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 278 200 L 270 290 L 324 290 L 316 200 L 312 196 L 282 196 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

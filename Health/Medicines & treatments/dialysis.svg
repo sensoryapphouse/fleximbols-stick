@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dialysis machine with tubes connected to patient's arm + filter cartridge -->
+  <!-- Floor line -->
+  <path d="M10 222 L280 222" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+
+  <!-- Machine body -->
+  <rect x="20" y="40" width="120" height="170" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Screen -->
+  <rect x="32" y="52" width="96" height="50" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Waveform on screen -->
+  <path d="M40 80 L52 80 L58 68 L66 92 L74 76 L86 76 L92 64 L100 88 L108 76 L120 76" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Filter cartridge (dialyzer) -->
+  <rect x="44" y="115" width="22" height="80" rx="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Filter fibers/lines -->
+  <path d="M50 125 L50 188" stroke="#d01424" stroke-width="4.45"/>
+  <path d="M55 125 L55 188" stroke="#d01424" stroke-width="4.45"/>
+  <path d="M60 125 L60 188" stroke="#d01424" stroke-width="4.45"/>
+
+  <!-- Knobs/dials -->
+  <circle cx="92" cy="130" r="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M92 130 L97 125" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="118" cy="130" r="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M118 130 L113 125" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Indicator lights -->
+  <circle cx="85" cy="155" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="155" r="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="115" cy="155" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Tubes going from machine to arm -->
+  <path d="M66 140 Q180 130 220 150" fill="none" stroke="#d01424" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M66 140 Q180 130 220 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M66 170 Q180 180 220 175" fill="none" stroke="#2a4ec0" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M66 170 Q180 180 220 175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Patient's arm (forearm + hand) -->
+  <path d="M180 155 L268 145 L278 175 L188 188 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Hand/fist -->
+  <circle cx="270" cy="160" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Knuckle lines -->
+  <path d="M268 152 L274 156" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M266 158 L272 162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Needle/access site on arm -->
+  <rect x="218" y="156" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="225" cy="163" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Machine wheels -->
+  <circle cx="42" cy="212" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="118" cy="212" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+</g></svg>

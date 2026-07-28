@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="31.03 75.40 449.94 449.94">
+<!-- ground -->
+<line x1="64" y1="430" x2="448" y2="430" stroke="#9ec27a" stroke-width="9" stroke-linecap="round"/>
+<!-- big curved (arched) roof hall -->
+<path d="M 96 220 Q 256 120 416 220 L 416 250 L 96 250 Z" fill="#7cb0d6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hall body -->
+<rect x="96" y="250" width="320" height="180" rx="6" fill="#eef1f4" stroke="#1a1a1a" stroke-width="9"/>
+<!-- big double sports-hall doors -->
+<rect x="208" y="320" width="96" height="110" rx="4" fill="#2b5688" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="256" y1="322" x2="256" y2="428" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="244" y1="372" x2="244" y2="392" stroke="#cdd3da" stroke-width="5" stroke-linecap="round"/>
+<line x1="268" y1="372" x2="268" y2="392" stroke="#cdd3da" stroke-width="5" stroke-linecap="round"/>
+<!-- side windows -->
+<rect x="124" y="300" width="60" height="44" rx="4" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="328" y="300" width="60" height="44" rx="4" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="7"/>
+<!-- basketball hoop on the wall (sports cue) -->
+<line x1="150" y1="378" x2="150" y2="410" stroke="#6b7682" stroke-width="7" stroke-linecap="round"/>
+<rect x="132" y="372" width="36" height="12" rx="2" fill="#e0473c" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 136 384 L 140 402 L 160 402 L 164 384" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- ball -->
+<circle cx="356" cy="392" r="22" fill="#e8862b" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 356 370 L 356 414 M 334 392 L 378 392" stroke="#1a1a1a" stroke-width="4"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Two halves of soft-boiled egg, cut in half showing runny yolk -->
+  <!-- Left half egg white -->
+  <path d="M75,185 Q48,182 38,155 Q30,128 48,108 Q65,88 88,88 Q108,88 120,105 L120,185 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Left cut face flat -->
+  <line x1="120" y1="105" x2="120" y2="185" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Left half runny yolk - molten golden, not solid -->
+  <circle cx="88" cy="145" r="30" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="145" r="24" fill="#f7de58"/>
+  <!-- Liquid yolk highlight - runny look, bright center -->
+  <ellipse cx="88" cy="140" rx="16" ry="14" fill="#fff200"/>
+  <ellipse cx="84" cy="136" rx="7" ry="5" fill="#ffffff"/>
+  <!-- Drip/flow indication - yolk is liquid -->
+  <path d="M88,175 Q78,172 76,162 Q88,168 100,162 Q98,172 88,175 Z" fill="#f7de58"/>
+  <!-- Right half egg white -->
+  <path d="M175,185 Q202,182 212,155 Q220,128 202,108 Q185,88 162,88 Q142,88 132,105 L132,185 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Right cut face flat -->
+  <line x1="132" y1="105" x2="132" y2="185" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right half runny yolk -->
+  <circle cx="175" cy="145" r="30" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="145" r="24" fill="#f7de58"/>
+  <ellipse cx="175" cy="140" rx="16" ry="14" fill="#fff200"/>
+  <ellipse cx="171" cy="136" rx="7" ry="5" fill="#ffffff"/>
+  <!-- Drip indication right half -->
+  <path d="M175,175 Q165,172 163,162 Q175,168 187,162 Q185,172 175,175 Z" fill="#f7de58"/>
+  <!-- Egg white surface sheen -->
+  <ellipse cx="72" cy="108" rx="10" ry="6" fill="#ffffff"/>
+  <ellipse cx="185" cy="108" rx="10" ry="6" fill="#ffffff"/>
+</g></svg>

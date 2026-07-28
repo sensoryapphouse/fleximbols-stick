@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Paper container - red and white striped bag -->
+  <path d="M85,145 L95,220 L195,220 L205,145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Red stripes on container -->
+  <path d="M98,145 L106,220" fill="none" stroke="#d01424" stroke-width="14.23" stroke-linecap="round"/>
+  <path d="M118,145 L122,220" fill="none" stroke="#d01424" stroke-width="14.23" stroke-linecap="round"/>
+  <path d="M145,145 L145,220" fill="none" stroke="#d01424" stroke-width="14.23" stroke-linecap="round"/>
+  <path d="M172,145 L168,220" fill="none" stroke="#d01424" stroke-width="14.23" stroke-linecap="round"/>
+  <path d="M192,145 L184,220" fill="none" stroke="#d01424" stroke-width="14.23" stroke-linecap="round"/>
+  <!-- Container top rim fold -->
+  <path d="M82,145 Q145,136 208,145" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Waffle fry 1 - crosscut lattice fry (left, angled) -->
+  <g transform="rotate(-18,110,95)">
+    <rect x="88" y="50" width="44" height="22" rx="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+    <!-- Horizontal cut lines -->
+    <line x1="88" y1="57" x2="132" y2="57" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="88" y1="64" stroke="#9d7246" x2="132" y2="64" stroke-width="4.45" stroke-linecap="round"/>
+    <!-- Vertical cut lines -->
+    <line x1="99" y1="50" x2="99" y2="72" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="110" y1="50" x2="110" y2="72" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="121" y1="50" x2="121" y2="72" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Waffle fry 2 - crosscut lattice fry (centre, upright) -->
+  <rect x="122" y="42" width="46" height="22" rx="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <line x1="122" y1="50" x2="168" y2="50" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="122" y1="57" x2="168" y2="57" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="133" y1="42" x2="133" y2="64" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="42" x2="145" y2="64" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="157" y1="42" x2="157" y2="64" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Waffle fry 3 - crosscut lattice fry (right, angled) -->
+  <g transform="rotate(16,178,90)">
+    <rect x="156" y="50" width="44" height="22" rx="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+    <line x1="156" y1="57" x2="200" y2="57" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="156" y1="64" x2="200" y2="64" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="167" y1="50" x2="167" y2="72" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="178" y1="50" x2="178" y2="72" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="189" y1="50" x2="189" y2="72" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Waffle fry 4 - taller behind (centre-left, showing above container) -->
+  <g transform="rotate(-8,118,80)">
+    <rect x="104" y="38" width="28" height="60" rx="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+    <line x1="104" y1="50" x2="132" y2="50" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="104" y1="62" x2="132" y2="62" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="104" y1="74" x2="132" y2="74" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="104" y1="86" x2="132" y2="86" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="116" y1="38" x2="116" y2="98" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Waffle fry 5 - taller behind (centre-right) -->
+  <g transform="rotate(10,165,78)">
+    <rect x="151" y="30" width="28" height="62" rx="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+    <line x1="151" y1="44" x2="179" y2="44" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="151" y1="56" x2="179" y2="56" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="151" y1="68" x2="179" y2="68" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="151" y1="80" x2="179" y2="80" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="165" y1="30" x2="165" y2="92" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+</g></svg>

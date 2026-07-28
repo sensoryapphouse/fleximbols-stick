@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- DJ Deck / Turntable: circular platter with record, tonearm, pitch slider, buttons -->
+
+  <!-- Main unit body -->
+  <rect x="20" y="50" width="250" height="170" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Top surface panel -->
+  <rect x="20" y="50" width="250" height="10" rx="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+
+  <!-- Platter / record area background circle -->
+  <circle cx="118" cy="148" r="88" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55"/>
+
+  <!-- Vinyl record: outer groove area -->
+  <circle cx="118" cy="148" r="80" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Groove rings -->
+  <circle cx="118" cy="148" r="72" fill="none" stroke="#4d4d4d" stroke-width="2.22"/>
+  <circle cx="118" cy="148" r="62" fill="none" stroke="#4d4d4d" stroke-width="2.22"/>
+  <circle cx="118" cy="148" r="52" fill="none" stroke="#4d4d4d" stroke-width="2.22"/>
+  <circle cx="118" cy="148" r="42" fill="none" stroke="#4d4d4d" stroke-width="2.22"/>
+  <!-- Record label (centre) -->
+  <circle cx="118" cy="148" r="28" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Label detail rings -->
+  <circle cx="118" cy="148" r="20" fill="none" stroke="#d01424" stroke-width="2.22"/>
+  <circle cx="118" cy="148" r="12" fill="none" stroke="#d01424" stroke-width="2.22"/>
+  <!-- Spindle centre -->
+  <circle cx="118" cy="148" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Tonearm base -->
+  <circle cx="222" cy="82" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Tonearm: angled arm from base to record edge -->
+  <line x1="222" y1="82" x2="180" y2="118" stroke="#b8b8b8" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Headshell -->
+  <rect x="168" y="112" width="18" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stylus -->
+  <line x1="178" y1="122" x2="176" y2="132" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Pitch slider: right side -->
+  <rect x="240" y="80" width="12" height="100" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="236" y="118" width="20" height="12" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Start/Stop button -->
+  <circle cx="210" cy="168" r="14" fill="#529929" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Cue button -->
+  <circle cx="210" cy="200" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- 33/45 RPM selector -->
+  <rect x="28" y="68" width="28" height="12" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="34" cy="74" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- base bowl -->
+  <ellipse cx="145" cy="205" rx="110" ry="25" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M35 190 Q35 228 145 228 Q255 228 255 190 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="145" cy="190" rx="110" ry="25" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- fountain column/tower -->
+  <rect x="118" y="95" width="54" height="100" rx="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- tower top spout -->
+  <path d="M118 95 Q118 70 145 65 Q172 70 172 95" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- water cascade stream -->
+  <path d="M145 68 Q138 105 128 145 Q122 165 130 182" fill="none" stroke="#2a4ec0" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- water splashes -->
+  <path d="M126 180 Q118 170 122 162" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 183 Q140 172 148 178" fill="none" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- water surface shimmer -->
+  <path d="M90 188 Q112 183 130 188" fill="none" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M155 188 Q172 183 195 188" fill="none" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- base rim -->
+  <ellipse cx="145" cy="190" rx="110" ry="25" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

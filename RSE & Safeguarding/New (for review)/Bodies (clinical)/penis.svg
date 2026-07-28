@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- simple clinical front-view outline: penis shaft + glans + scrotum, plain educational -->
+<!-- scrotum (sac behind/below) -->
+<path d="M 256 318 Q 196 318 196 388 Q 196 446 256 446 Q 316 446 316 388 Q 316 318 256 318 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- central seam line on scrotum -->
+<path d="M 256 332 L 256 440" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- shaft -->
+<path d="M 234 318 L 234 156 Q 234 130 256 130 Q 278 130 278 156 L 278 318 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- glans (rounded tip) with simple ridge line -->
+<path d="M 234 148 Q 234 96 256 96 Q 278 96 278 148 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 234 150 Q 256 162 278 150" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

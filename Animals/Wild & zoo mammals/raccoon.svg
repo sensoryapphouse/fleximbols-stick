@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ringed tail -->
+<path d="M 250 392 Q 416 396 426 300 Q 432 212 360 210 Q 318 212 318 250 L 350 250 Q 388 252 384 300 Q 380 350 330 356 L 250 360 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 322 250 Q 360 248 372 270" fill="none" stroke="#1a1a1a" stroke-width="14"/>
+<path d="M 384 300 Q 372 332 344 344" fill="none" stroke="#1a1a1a" stroke-width="14"/>
+<path d="M 318 356 L 348 356" fill="none" stroke="#1a1a1a" stroke-width="14"/>
+<!-- body -->
+<path d="M 184 404 Q 140 404 140 326 Q 140 248 222 248 Q 296 248 296 326 Q 296 404 256 404 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="210" cy="350" rx="46" ry="50" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="196" cy="404" rx="24" ry="13" fill="#5a5e62" stroke="#1a1a1a" stroke-width="7"/>
+<!-- head -->
+<circle cx="200" cy="196" r="72" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9"/>
+<!-- ears -->
+<path d="M 150 150 Q 138 108 168 116 Q 180 134 178 158 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 250 150 Q 262 108 232 116 Q 220 134 222 158 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- black bandit mask -->
+<path d="M 138 196 Q 138 168 176 168 Q 196 168 200 188 Q 204 168 224 168 Q 262 168 262 196 Q 262 222 224 222 Q 204 222 200 206 Q 196 222 176 222 Q 138 222 138 196 Z" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- white brow above mask -->
+<path d="M 150 168 Q 200 150 250 168" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+<!-- eyes on mask -->
+<circle cx="176" cy="194" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="224" cy="194" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="176" cy="194" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="224" cy="194" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- snout -->
+<path d="M 176 232 Q 200 252 224 232 Q 214 258 200 258 Q 186 258 176 232 Z" fill="#e0e4e8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<ellipse cx="200" cy="236" rx="13" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

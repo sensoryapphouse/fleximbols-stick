@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="20" y1="195" x2="270" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Snake body in S-curve along ground — whole snake visible -->
+  <!-- Body — thick S-shape path -->
+  <path d="M50,185 Q75,165 110,175 Q145,185 175,165 Q205,145 240,160 Q255,168 260,178"
+        stroke="#529929" stroke-width="24.44" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Body outline -->
+  <path d="M50,185 Q75,165 110,175 Q145,185 175,165 Q205,145 240,160 Q255,168 260,178"
+        stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Scale pattern on body (darker green stripes) -->
+  <path d="M80,170 Q95,168 108,174" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M120,178 Q138,180 152,175" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M165,168 Q182,160 196,162" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M215,152 Q228,150 242,158" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- Belly (lighter stripe) -->
+  <path d="M55,183 Q78,168 110,176 Q143,185 173,167 Q202,148 238,162 Q252,169 258,178"
+        stroke="#f5e7c4" stroke-width="8.88" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head at right end -->
+  <ellipse cx="262" cy="178" rx="18" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Eye -->
+  <circle cx="268" cy="174" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="269" cy="174" r="2" fill="#000000"/>
+  <!-- Forked tongue -->
+  <path d="M278,178 L286,176 M286,176 L290,174 M286,176 L290,178" stroke="#f8130d" stroke-width="3.33" fill="none" stroke-linecap="round"/>
+  <!-- Tail tip (tapered at left) -->
+  <path d="M50,185 Q42,183 36,184" stroke="#529929" stroke-width="11.11" fill="none" stroke-linecap="round"/>
+  <path d="M36,184 Q30,183 25,185" stroke="#529929" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <!-- Motion trail dots behind tail -->
+  <circle cx="18" cy="186" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="10" cy="187" r="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+</g><g transform="translate(460,5) scale(0.4825) translate(-166,-5)"><polygon points="82,149 83,157 84,166 86,174 89,182 92,189 97,196 101,202 107,208 113,214 119,219 126,223 134,226 141,229 149,231 158,232 166,233 175,232 183,231 191,229 199,226 206,223 213,219 220,214 226,208 231,202 236,196 240,189 244,182 246,174 249,166 250,157 250,149 250,140 249,132 246,124 244,116 240,109 236,102 231,95 226,89 220,84 213,79 206,75 199,71 191,69 183,67 175,65 166,65 158,65 149,67 141,69 134,71 126,75 119,79 113,84 107,89 101,95 97,102 92,109 89,116 86,124 84,132 83,140 82,149" fill="#ffffff" stroke="#000000" stroke-width="8" fill-rule="evenodd"/><polyline points="166,209 166,225" fill="none" stroke="#000000" stroke-width="8"/><polyline points="106,149 90,149"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="243,149 226,149" fill="none" stroke="#000000" stroke-width="8"/><polyline points="124,191 112,203" fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,95 209,106"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,203 209,191" fill="none" stroke="#000000" stroke-width="8"/><polyline points="112,95 123,106"  fill="none" stroke="#000000" stroke-width="8"/><polygon points="158,81 159,84 161,87 164,89 167,90 171,89 173,87 175,84 176,81 175,77 173,74 171,72 167,72 164,72 161,74 159,77 158,81" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="168,98 174,153 159,151 168,98" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="157,149 158,152 160,155 163,157 166,158 170,157 173,155 175,152 175,149 175,145 173,142 170,141 166,140 163,141 160,142 158,145 157,149" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="135,33 170,5 180,17 145,45 153,55 104,66 127,23 135,33" fill="#e03734" stroke="#000000" stroke-width="6"/></g></svg>

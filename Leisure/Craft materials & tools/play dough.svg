@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100.62 89.52 356.85 356.85">
+<!-- tub body -->
+<path d="M 150 250 L 362 250 L 348 410 Q 347 420 337 420 L 175 420 Q 165 420 164 410 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tub rim -->
+<rect x="138" y="226" width="236" height="34" rx="10" fill="#e0b020" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- lid lifted, tilted above -->
+<ellipse cx="300" cy="150" rx="120" ry="34" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- mound of dough rising out of the tub -->
+<path d="M 168 250 Q 175 175 230 172 Q 250 130 290 160 Q 340 150 338 230 L 338 250 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- highlight crease on dough -->
+<path d="M 215 230 Q 250 200 295 222" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

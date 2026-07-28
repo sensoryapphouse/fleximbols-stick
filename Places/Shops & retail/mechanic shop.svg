@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="0" y="205" width="290" height="35" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Building body -->
+  <rect x="10" y="55" width="270" height="155" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Roof band -->
+  <rect x="5" y="38" width="280" height="24" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Roller door frame -->
+  <rect x="30" y="80" width="145" height="130" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Roller door panels (open = just frame showing) -->
+  <rect x="30" y="80" width="145" height="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="30" y="98" width="145" height="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Interior of garage (dark) -->
+  <rect x="35" y="108" width="135" height="97" fill="#4d4d4d" stroke="none"/>
+  <!-- Hydraulic lift platform -->
+  <rect x="45" y="172" width="115" height="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Lift post left -->
+  <rect x="55" y="148" width="10" height="34" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lift post right -->
+  <rect x="140" y="148" width="10" height="34" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Car on lift (side view) -->
+  <rect x="52" y="148" width="108" height="28" rx="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Car cabin -->
+  <rect x="70" y="130" width="72" height="22" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Windows -->
+  <rect x="76" y="134" width="26" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="108" y="134" width="26" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Wheels raised (car is up on lift) -->
+  <circle cx="80" cy="178" r="10" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="178" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="132" cy="178" r="10" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="132" cy="178" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Lift scissor/column below platform -->
+  <rect x="95" y="182" width="12" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right side: sign panel -->
+  <rect x="192" y="80" width="78" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Wrench emblem (drawn) -->
+  <!-- Wrench shaft -->
+  <rect x="224" y="90" width="12" height="55" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30,230,118)"/>
+  <!-- Wrench head top ring -->
+  <circle cx="218" cy="99" r="12" fill="none" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="218" cy="99" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Wrench head bottom fork -->
+  <path d="M240 147 L244 138 L248 147" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Door/window bottom right -->
+  <rect x="192" y="170" width="78" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+</g></svg>

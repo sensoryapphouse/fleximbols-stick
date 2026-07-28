@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- left rim plateau (viewing rim) -->
+  <path d="M 10 50 L 10 230 L 90 230 L 90 130 L 105 120 L 95 50 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- right rim plateau -->
+  <path d="M 280 50 L 280 230 L 200 230 L 200 130 L 185 120 L 195 50 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- left layered cliff bands -->
+  <path d="M 10 90 L 95 90 L 95 105 L 10 105 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 10 130 L 90 130 L 90 145 L 10 145 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 10 170 L 90 170 L 90 185 L 10 185 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right layered cliff bands -->
+  <path d="M 195 90 L 280 90 L 280 105 L 195 105 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 200 130 L 280 130 L 280 145 L 200 145 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 200 170 L 280 170 L 280 185 L 200 185 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- canyon floor / river -->
+  <path d="M 90 220 Q 130 210 145 218 Q 165 226 200 218 L 200 230 L 90 230 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- viewing rim figure (tiny silhouette) on left rim -->
+  <circle cx="50" cy="42" r="4" fill="#000000"/>
+  <rect x="47" y="45" width="6" height="10" fill="#000000"/>
+</g></svg>

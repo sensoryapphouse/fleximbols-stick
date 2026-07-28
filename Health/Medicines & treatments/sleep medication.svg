@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Z's -->
+  <path d="M30 60 L55 60 L30 90 L55 90" fill="none" stroke="#1d0e82" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M245 50 L268 50 L245 75 L268 75" fill="none" stroke="#1d0e82" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 130 L48 130 L30 152 L48 152" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- pill bottle cap -->
+  <rect x="95" y="70" width="100" height="28" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bottle body -->
+  <rect x="85" y="98" width="120" height="120" rx="10" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- label -->
+  <rect x="95" y="120" width="100" height="70" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- moon on label -->
+  <path d="M165 138 A20 20 0 1 1 145 175 A16 16 0 0 0 165 138 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- loose pill -->
+  <ellipse cx="225" cy="205" rx="22" ry="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M210 201 L240 209" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.52 79.52 352.97 352.97">
+<!-- vowel = an open mouth token (open / voiced sound) -->
+<circle cx="256" cy="256" r="150" fill="#ffd9b0" stroke="#1a1a1a" stroke-width="9"/>
+<!-- open mouth (open vocal sound) -->
+<ellipse cx="256" cy="262" rx="78" ry="92" fill="#c0392b" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="318" rx="46" ry="30" fill="#e8746a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- sound openness mark -->
+<path d="M 196 210 C 232 196 280 196 316 210" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- smooth pink wiggling body, head at top-right -->
+<path d="M 360 150 Q 410 196 364 244 Q 318 292 366 340 Q 408 384 332 408 Q 256 426 200 392 Q 140 356 168 308" fill="none" stroke="#e85a8a" stroke-width="56" stroke-linecap="round"/>
+<!-- saddle band (clitellum) -->
+<path d="M 360 150 Q 410 196 364 244" fill="none" stroke="#c8456f" stroke-width="58" stroke-linecap="round" stroke-dasharray="0 70 26 400"/>
+<!-- redraw body over band edges for clean rounded ends -->
+<path d="M 364 244 Q 318 292 366 340 Q 408 384 332 408 Q 256 426 200 392 Q 140 356 168 308" fill="none" stroke="#e85a8a" stroke-width="56" stroke-linecap="round"/>
+<!-- segment rings -->
+<g stroke="#c8456f" stroke-width="4">
+<path d="M 348 286 q 24 8 36 -4" fill="none"/>
+<path d="M 346 330 q 24 12 40 0" fill="none"/>
+<path d="M 300 404 q 20 16 44 6" fill="none"/>
+<path d="M 232 408 q 24 12 44 0" fill="none"/>
+</g>
+<!-- head tip -->
+<circle cx="360" cy="150" r="29" fill="#e85a8a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="372" cy="142" r="6" fill="#1a1a1a"/>
+</svg>

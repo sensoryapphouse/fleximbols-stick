@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shirt body -->
+  <path d="M75 50 L115 40 L130 55 L160 55 L175 40 L215 50 L235 95 L210 105 L210 215 L80 215 L80 105 L55 95 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- collar V -->
+  <path d="M130 55 L145 80 L160 55" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- sleeves cuff -->
+  <path d="M55 95 L78 105 L80 115 L60 110 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M235 95 L212 105 L210 115 L230 110 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bottom hem -->
+  <path d="M80 205 L210 205" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <!-- embroidered floral pattern on chest -->
+  <!-- left flower -->
+  <circle cx="110" cy="120" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="110" cy="106" rx="6" ry="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="110" cy="134" rx="6" ry="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="96" cy="120" rx="9" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="124" cy="120" rx="9" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right flower -->
+  <circle cx="180" cy="120" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="180" cy="106" rx="6" ry="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="180" cy="134" rx="6" ry="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="166" cy="120" rx="9" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="194" cy="120" rx="9" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- center flower below collar -->
+  <circle cx="145" cy="150" r="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="138" rx="5" ry="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="162" rx="5" ry="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="133" cy="150" rx="8" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="157" cy="150" rx="8" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- connecting vine stems -->
+  <path d="M118 124 Q132 138 138 148" fill="none" stroke="#529929" stroke-width="5.56"/>
+  <path d="M172 124 Q158 138 152 148" fill="none" stroke="#529929" stroke-width="5.56"/>
+  <!-- leaves -->
+  <ellipse cx="128" cy="135" rx="6" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-30 128 135)"/>
+  <ellipse cx="162" cy="135" rx="6" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(30 162 135)"/>
+  <!-- visible stitches around flowers -->
+  <path d="M88 175 L92 178 M98 175 L102 178 M108 175 L112 178 M118 175 L122 178 M128 175 L132 178 M138 175 L142 178 M148 175 L152 178 M158 175 L162 178 M168 175 L172 178 M178 175 L182 178 M188 175 L192 178 M198 175 L202 178" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
+  <!-- decorative band -->
+  <path d="M85 185 Q90 180 95 185 Q100 180 105 185 Q110 180 115 185 Q120 180 125 185 Q130 180 135 185 Q140 180 145 185 Q150 180 155 185 Q160 180 165 185 Q170 180 175 185 Q180 180 185 185 Q190 180 195 185 Q200 180 205 185" fill="none" stroke="#1d0e82" stroke-width="4.45"/>
+</g></svg>

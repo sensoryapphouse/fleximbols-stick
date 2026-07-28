@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lead-acid battery: vent caps in a row on top, terminals, classic vented case -->
+  <!-- Battery body -->
+  <rect x="45" y="85" width="200" height="125" rx="8" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Top surface -->
+  <rect x="45" y="78" width="200" height="14" rx="0" ry="0" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Terminals -->
+  <rect x="85" y="55" width="28" height="28" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="177" y="55" width="28" height="28" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- + on positive terminal -->
+  <line x1="191" y1="61" x2="191" y2="75" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="184" y1="68" x2="198" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- - on negative terminal -->
+  <line x1="92" y1="68" x2="106" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Vent caps: 6 round caps in a row across the top — KEY differentiator -->
+  <circle cx="72" cy="78" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="102" cy="78" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="132" cy="78" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="162" cy="78" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="192" cy="78" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="218" cy="78" r="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cell dividers inside body -->
+  <line x1="97" y1="95" x2="97" y2="200" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="95" x2="145" y2="200" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="193" y1="95" x2="193" y2="200" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Electrolyte level indicator lines -->
+  <line x1="60" y1="130" x2="235" y2="130" stroke="#2a4ec0" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

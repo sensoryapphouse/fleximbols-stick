@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- nursery-modern: room scene — crib + mobile + dresser -->
+  <!-- Floor -->
+  <rect x="28" y="182" width="234" height="30" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Back wall -->
+  <rect x="28" y="30" width="234" height="154" rx="0" fill="#dff3fd" stroke="none"/>
+  <!-- Wall outline -->
+  <rect x="28" y="30" width="234" height="152" rx="3" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- === CRIB (left-centre) === -->
+  <!-- Crib end panels -->
+  <rect x="52" y="112" width="16" height="72" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="152" y="112" width="16" height="72" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Crib top rails -->
+  <rect x="44" y="108" width="32" height="12" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="144" y="108" width="32" height="12" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Crib side rails (top) -->
+  <rect x="52" y="110" width="116" height="10" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Crib mattress -->
+  <rect x="60" y="152" width="100" height="30" rx="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Crib vertical slats (6) -->
+  <rect x="72"  y="122" width="8" height="58" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="90"  y="122" width="8" height="58" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="108" y="122" width="8" height="58" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="126" y="122" width="8" height="58" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="144" y="122" width="8" height="58" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- === MOBILE (above crib) === -->
+  <!-- Mobile arm -->
+  <line x1="110" y1="58" x2="110" y2="78" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="82" y1="78" x2="138" y2="78" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Ceiling mount -->
+  <circle cx="110" cy="54" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mobile dangles -->
+  <line x1="88" y1="78" x2="88" y2="96" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="88" cy="104" r="9" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="110" y1="78" x2="110" y2="92" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <polygon points="110,92 120,108 100,108" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="132" y1="78" x2="132" y2="94" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <polygon points="126,94 138,94 132,108" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- === DRESSER (right) === -->
+  <rect x="192" y="120" width="62" height="64" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dresser top surface -->
+  <rect x="188" y="114" width="70" height="10" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Drawer 1 (top) -->
+  <rect x="198" y="126" width="50" height="20" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="223" cy="136" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Drawer 2 (bottom) -->
+  <rect x="198" y="152" width="50" height="20" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="223" cy="162" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Dresser legs -->
+  <rect x="198" y="182" width="10" height="12" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="236" y="182" width="10" height="12" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Item on dresser (baby monitor) -->
+  <rect x="204" y="102" width="24" height="16" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="212" cy="96" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

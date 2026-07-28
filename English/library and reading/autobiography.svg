@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Book cover -->
+  <rect x="55" y="30" width="180" height="190" rx="6" fill="#137827" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Inner panel -->
+  <rect x="68" y="42" width="154" height="166" rx="3" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Title band -->
+  <rect x="68" y="42" width="154" height="26" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Self portrait (full color, suggesting "self") -->
+  <!-- Shoulders/torso -->
+  <path d="M95 200 Q95 160 145 155 Q195 160 195 200 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="145" cy="125" r="30" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Hair -->
+  <path d="M118 120 Q120 95 145 92 Q172 95 172 120 Q172 110 158 105 Q145 100 132 105 Q118 110 118 120 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="136" cy="125" r="2.5" fill="#000000"/>
+  <circle cx="154" cy="125" r="2.5" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M138 138 Q145 144 152 138" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- Pointing arrow at self (first-person indicator) -->
+  <path d="M205 145 L185 145 L185 138 L170 152 L185 166 L185 159 L205 159 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Frame around portrait -->
+  <rect x="82" y="80" width="126" height="118" fill="none" stroke="#7d5e23" stroke-width="6.67"/>
+  <!-- Bookmark ribbon -->
+  <path d="M195 30 L215 30 L215 80 L205 72 L195 80 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

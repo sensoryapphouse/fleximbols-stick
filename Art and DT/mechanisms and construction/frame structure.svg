@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="77.58 81.84 356.85 356.85"><!-- frame structure: triangulated truss / braced frame with joint nodes -->
+<g fill="none" stroke="#8a5a2b" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+<!-- bottom chord -->
+<line x1="120" y1="380" x2="392" y2="380"/>
+<!-- top chord (apex) -->
+<polyline points="120 380 256 140 392 380"/>
+<!-- internal braces -->
+<line x1="256" y1="140" x2="256" y2="380"/>
+<line x1="188" y1="260" x2="256" y2="380"/>
+<line x1="324" y1="260" x2="256" y2="380"/>
+</g>
+<!-- joint nodes -->
+<g fill="#f4c430" stroke="#1a1a1a" stroke-width="7">
+<circle cx="120" cy="380" r="16"/>
+<circle cx="392" cy="380" r="16"/>
+<circle cx="256" cy="380" r="16"/>
+<circle cx="256" cy="140" r="16"/>
+<circle cx="188" cy="260" r="13"/>
+<circle cx="324" cy="260" r="13"/>
+</g>
+</svg>

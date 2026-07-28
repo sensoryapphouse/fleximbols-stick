@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Rounded cylinder device body (brown tint) -->
+  <rect x="30" y="60" width="130" height="150" rx="40" ry="40" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Speaker grille on top face -->
+  <ellipse cx="95" cy="62" rx="52" ry="16" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Grille holes -->
+  <circle cx="82" cy="60" r="3" fill="#7d5e23" stroke="none"/>
+  <circle cx="95" cy="58" r="3" fill="#7d5e23" stroke="none"/>
+  <circle cx="108" cy="60" r="3" fill="#7d5e23" stroke="none"/>
+  <circle cx="75" cy="65" r="2.5" fill="#7d5e23" stroke="none"/>
+  <circle cx="88" cy="63" r="2.5" fill="#7d5e23" stroke="none"/>
+  <circle cx="102" cy="63" r="2.5" fill="#7d5e23" stroke="none"/>
+  <circle cx="115" cy="65" r="2.5" fill="#7d5e23" stroke="none"/>
+  <!-- Front grille vertical slots -->
+  <rect x="54" y="85" width="8" height="100" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="68" y="85" width="8" height="100" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="82" y="85" width="8" height="100" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="96" y="85" width="8" height="100" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="110" y="85" width="8" height="100" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="124" y="85" width="8" height="100" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Brown noise wave: THICK slow LOW-FREQUENCY deep undulating bass wave - very few cycles, big amplitude -->
+  <path d="M172,120 Q190,80 210,120 Q230,160 250,120 Q265,95 278,110" fill="none" stroke="#5e1f0a" stroke-width="15.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Second slow undulation to show low frequency -->
+  <path d="M172,135 Q195,100 215,135 Q235,170 255,135" fill="none" stroke="#5e1f0a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left bracket -->
+  <line x1="172" y1="78" x2="172" y2="170" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- hopper (trapezoid top) -->
+  <polygon points="95,30 195,30 175,110 115,110" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- hopper cap -->
+  <rect x="90" y="20" width="110" height="18" rx="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- feeder body -->
+  <rect x="95" y="108" width="100" height="80" rx="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- button on body -->
+  <circle cx="145" cy="148" r="12" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- kibble chute arrow -->
+  <path d="M138 165 L152 165 L145 175 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bowl at bottom -->
+  <ellipse cx="145" cy="210" rx="70" ry="17" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M75 200 Q75 227 145 227 Q215 227 215 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="145" cy="200" rx="70" ry="17" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

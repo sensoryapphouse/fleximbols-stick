@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground patio -->
+  <rect x="20" y="205" width="250" height="14" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dining table -->
+  <ellipse cx="145" cy="145" rx="58" ry="24" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="132" y1="162" x2="132" y2="205" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="158" y1="162" x2="158" y2="205" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Chair top -->
+  <rect x="116" y="65" width="58" height="46" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="56" width="58" height="14" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="124" y1="111" x2="120" y2="124" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="166" y1="111" x2="170" y2="124" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Chair bottom -->
+  <rect x="116" y="177" width="58" height="40" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="215" width="58" height="12" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="124" y1="177" x2="120" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="166" y1="177" x2="170" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Chair left -->
+  <rect x="40" y="120" width="48" height="42" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="28" y="120" width="14" height="42" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="47" y1="162" x2="44" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="162" x2="83" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Chair right -->
+  <rect x="202" y="120" width="48" height="42" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="248" y="120" width="14" height="42" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="209" y1="162" x2="206" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="242" y1="162" x2="245" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

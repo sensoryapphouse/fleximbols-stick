@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- PCB board body -->
+  <rect x="60" y="45" width="170" height="115" rx="8" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- USB port cluster (left side, 2 stacked) -->
+  <rect x="22" y="65" width="40" height="20" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="22" y="90" width="40" height="20" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- USB port inner slots -->
+  <rect x="28" y="69" width="28" height="12" rx="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="28" y="94" width="28" height="12" rx="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- HDMI port (bottom) -->
+  <rect x="90" y="158" width="32" height="18" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- micro-USB power (bottom right) -->
+  <rect x="150" y="158" width="22" height="14" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- GPIO header (right side, 2 rows of pins) -->
+  <rect x="228" y="55" width="22" height="95" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- GPIO pin dots row 1 -->
+  <circle cx="234" cy="68" r="3" fill="#000000"/>
+  <circle cx="234" cy="80" r="3" fill="#000000"/>
+  <circle cx="234" cy="92" r="3" fill="#000000"/>
+  <circle cx="234" cy="104" r="3" fill="#000000"/>
+  <circle cx="234" cy="116" r="3" fill="#000000"/>
+  <circle cx="234" cy="128" r="3" fill="#000000"/>
+  <circle cx="234" cy="140" r="3" fill="#000000"/>
+  <!-- GPIO pin dots row 2 -->
+  <circle cx="244" cy="68" r="3" fill="#000000"/>
+  <circle cx="244" cy="80" r="3" fill="#000000"/>
+  <circle cx="244" cy="92" r="3" fill="#000000"/>
+  <circle cx="244" cy="104" r="3" fill="#000000"/>
+  <circle cx="244" cy="116" r="3" fill="#000000"/>
+  <circle cx="244" cy="128" r="3" fill="#000000"/>
+  <circle cx="244" cy="140" r="3" fill="#000000"/>
+  <!-- Main SoC chip -->
+  <rect x="110" y="72" width="65" height="55" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Chip label lines (decorative) -->
+  <line x1="120" y1="88" x2="165" y2="88" stroke="#7f7f7f" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="120" y1="99" x2="165" y2="99" stroke="#7f7f7f" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="120" y1="110" x2="155" y2="110" stroke="#7f7f7f" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- SD card slot (bottom left of board) -->
+  <rect x="70" y="157" width="18" height="14" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ethernet port (right bottom of board) -->
+  <rect x="198" y="158" width="32" height="22" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="202" y="163" width="24" height="12" rx="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

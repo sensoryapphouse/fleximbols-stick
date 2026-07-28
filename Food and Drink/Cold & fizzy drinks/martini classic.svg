@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- V-shape glass -->
+  <path d="M55 40 L145 150 L235 40 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- clear liquid -->
+  <path d="M85 60 L145 135 L205 60 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- liquid surface line -->
+  <line x1="85" y1="60" x2="205" y2="60" stroke="#90a7d6" stroke-width="2.96"/>
+  <!-- toothpick -->
+  <line x1="125" y1="30" x2="170" y2="100" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- green olive on toothpick -->
+  <ellipse cx="155" cy="78" rx="11" ry="9" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 155 78)"/>
+  <!-- red pimento -->
+  <ellipse cx="159" cy="82" rx="3" ry="2.5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- stem -->
+  <rect x="140" y="150" width="10" height="55" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- base -->
+  <ellipse cx="145" cy="212" rx="45" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- glass shine -->
+  <line x1="75" y1="55" x2="135" y2="125" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-5.28 -59.04 543.03 543.03">
+<!-- Chinese festival dragon, head upright on the right, body trailing left -->
+<!-- BODY: thick green serpentine trailing to the left -->
+<path d="M 84 286 Q 150 230 210 286 Q 268 340 326 300" fill="none" stroke="#3fae5a" stroke-width="46" stroke-linecap="round"/>
+<path d="M 84 286 Q 150 230 210 286 Q 268 340 326 300" fill="none" stroke="#7fd29a" stroke-width="12" stroke-linecap="round"/>
+<path d="M 84 286 Q 150 230 210 286 Q 268 340 326 300" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-dasharray="0.1 52"/>
+<!-- dorsal spikes -->
+<g fill="#f0b400" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+<path d="M 120 250 l 16 -26 l 16 26 Z"/>
+<path d="M 196 252 l 16 -26 l 16 26 Z"/>
+<path d="M 272 300 l 16 -26 l 16 26 Z"/>
+</g>
+<!-- tail flame tuft (far left) -->
+<path d="M 84 286 q -34 -8 -52 14 q 28 4 38 -4 q -4 26 16 34" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- HEAD region (right) -->
+<!-- mane tufts behind head -->
+<g fill="#f0b400" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+<path d="M 318 150 l 28 -18 l -2 30 Z"/>
+<path d="M 318 196 l 32 -8 l -14 28 Z"/>
+<path d="M 322 244 l 28 8 l -24 22 Z"/>
+</g>
+<!-- head (upright circle) -->
+<circle cx="372" cy="208" r="86" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9"/>
+<!-- snout pushing forward to the right -->
+<path d="M 430 176 Q 470 180 472 214 Q 470 246 432 250 Q 444 214 430 176 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- nostril -->
+<circle cx="452" cy="200" r="7" fill="#1a1a1a"/>
+<!-- mouth + tongue -->
+<path d="M 432 240 Q 470 248 492 236" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 462 244 Q 478 268 500 262" fill="none" stroke="#f0b400" stroke-width="9" stroke-linecap="round"/>
+<!-- horns up top -->
+<path d="M 344 138 Q 326 96 352 80" fill="none" stroke="#f0b400" stroke-width="13" stroke-linecap="round"/>
+<path d="M 398 136 Q 420 96 396 80" fill="none" stroke="#f0b400" stroke-width="13" stroke-linecap="round"/>
+<circle cx="352" cy="80" r="9" fill="#f0b400" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="396" cy="80" r="9" fill="#f0b400" stroke="#1a1a1a" stroke-width="5"/>
+<!-- brow -->
+<path d="M 356 176 q 20 -16 44 -4" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- eye -->
+<circle cx="392" cy="196" r="19" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="400" cy="196" r="8" fill="#1a1a1a"/>
+<!-- chin whiskers -->
+<path d="M 360 280 Q 352 320 372 344" fill="none" stroke="#f0b400" stroke-width="8" stroke-linecap="round"/>
+<path d="M 398 286 Q 410 322 396 352" fill="none" stroke="#f0b400" stroke-width="8" stroke-linecap="round"/>
+</svg>

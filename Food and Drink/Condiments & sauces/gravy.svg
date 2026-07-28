@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- gravy boat -->
+<!-- boat bowl -->
+<path d="M 150 250 L 330 250 Q 360 250 348 300 Q 336 350 280 358 L 230 358 Q 174 350 162 300 Q 156 274 150 250 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pouring spout -->
+<path d="M 330 250 L 372 240 L 358 272 Q 344 256 330 258 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- gravy surface inside -->
+<path d="M 168 262 Q 250 250 330 262 Q 322 286 256 290 Q 190 286 168 262 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- gravy pouring from spout -->
+<path d="M 366 258 Q 374 296 360 330" fill="none" stroke="#8a5a2b" stroke-width="11" stroke-linecap="round"/>
+<!-- handle -->
+<path d="M 150 268 Q 110 272 116 312 Q 120 338 150 332" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- base -->
+<ellipse cx="252" cy="368" rx="74" ry="18" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

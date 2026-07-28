@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- box body -->
+<path d="M 90 340 L 90 150 L 360 150 L 360 340 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- sloped front (towing) nose -->
+<path d="M 360 150 L 440 230 L 440 340 L 360 340 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- side rail line -->
+<line x1="90" y1="248" x2="360" y2="248" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- ramp/door seam -->
+<line x1="200" y1="150" x2="200" y2="340" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- open top window where horse looks out -->
+<rect x="250" y="172" width="92" height="58" rx="6" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- horse head/neck -->
+<path d="M 268 230 L 272 196 Q 274 178 292 176 L 320 174 Q 332 180 330 196 L 326 230 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- horse muzzle -->
+<path d="M 326 230 L 322 210 L 300 210 L 296 230 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- ear -->
+<path d="M 292 176 L 288 162 L 300 170 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- eye -->
+<circle cx="313" cy="194" r="5" fill="#1a1a1a"/>
+<!-- towbar -->
+<line x1="440" y1="330" x2="478" y2="330" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="478" cy="330" r="11" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+<!-- wheels -->
+<circle cx="180" cy="350" r="40" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="180" cy="350" r="15" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="300" cy="350" r="40" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="300" cy="350" r="15" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+</g></svg>

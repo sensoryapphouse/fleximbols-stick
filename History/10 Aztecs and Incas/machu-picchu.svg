@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -243.50)">
+<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#cfe6f2" stroke="#1a1a1a" stroke-width="0"/>
+<!-- Huayna Picchu: steep, distinctive twin-peak silhouette behind the city -->
+<polygon points="250 360 360 30 410 200 470 110 512 360" fill="#8a939d" stroke="#5f6873" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="360 30 392 150 360 150" fill="#6f7882" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="470 110 492 200 470 200" fill="#6f7882" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<!-- low green ridge the city sits on (kept small so it does not read as 'terraces') -->
+<path d="M 0 360 Q 130 320 280 360 L 512 360 L 512 512 L 0 512 Z" fill="#6fb35f" stroke="#1a1a1a" stroke-width="0"/>
+<!-- a couple of thin terrace strips only -->
+<path d="M 30 372 Q 150 350 270 372" fill="none" stroke="#3c7c33" stroke-width="5" stroke-linecap="round"/>
+<path d="M 60 400 Q 170 382 290 400" fill="none" stroke="#3c7c33" stroke-width="5" stroke-linecap="round"/>
+<!-- INCA STONEWORK: 3 large blocky stone buildings with flat roofs + trapezoidal Inca doorways -->
+<!-- left building -->
+<rect x="44.0" y="300.0" width="118.0" height="118.0" rx="2" fill="#b9b2a6" stroke="#7c7468" stroke-width="7"/>
+<rect x="44.0" y="290.0" width="118.0" height="18.0" rx="1" fill="#9a9286" stroke="#7c7468" stroke-width="6"/>
+<polygon points="78 418 128 418 120 348 86 348" fill="#5a534a" stroke="#3f3a33" stroke-width="4" stroke-linejoin="round"/>
+<line x1="44" y1="340" x2="162" y2="340" stroke="#7c7468" stroke-width="4"/>
+<line x1="103" y1="300" x2="103" y2="340" stroke="#7c7468" stroke-width="4"/>
+<!-- centre building (largest, foreground) -->
+<rect x="170.0" y="282.0" width="150.0" height="136.0" rx="2" fill="#cabfa9" stroke="#7c7468" stroke-width="8"/>
+<rect x="170.0" y="270.0" width="150.0" height="20.0" rx="1" fill="#a89e8c" stroke="#7c7468" stroke-width="7"/>
+<polygon points="218 418 272 418 263 332 227 332" fill="#5a534a" stroke="#3f3a33" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="180 338 210 338 206 304 184 304" fill="#7c7468" stroke="#5f584d" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="280 338 310 338 306 304 284 304" fill="#7c7468" stroke="#5f584d" stroke-width="4" stroke-linejoin="round"/>
+<!-- right building -->
+<rect x="328.0" y="304.0" width="120.0" height="114.0" rx="2" fill="#b9b2a6" stroke="#7c7468" stroke-width="7"/>
+<rect x="328.0" y="294.0" width="120.0" height="18.0" rx="1" fill="#9a9286" stroke="#7c7468" stroke-width="6"/>
+<polygon points="364 418 414 418 406 352 372 352" fill="#5a534a" stroke="#3f3a33" stroke-width="4" stroke-linejoin="round"/>
+<line x1="328" y1="346" x2="448" y2="346" stroke="#7c7468" stroke-width="4"/>
+<line x1="388" y1="304" x2="388" y2="346" stroke="#7c7468" stroke-width="4"/>
+</g></svg>

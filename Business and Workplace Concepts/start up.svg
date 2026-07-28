@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- monitor -->
+  <rect x="35" y="30" width="190" height="130" rx="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="48" y="42" width="164" height="100" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="115" y="160" width="30" height="18" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="85" y="178" width="90" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- launching app icons popping up -->
+  <rect x="60" y="55" width="22" height="22" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="90" y="55" width="22" height="22" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="120" y="55" width="22" height="22" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="150" y="55" width="22" height="22" rx="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="180" y="55" width="22" height="22" rx="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- arrows up (launching) -->
+  <path d="M71 88 L71 100 M65 94 L71 88 L77 94" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M101 88 L101 100 M95 94 L101 88 L107 94" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M131 88 L131 100 M125 94 L131 88 L137 94" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- light bulb (idea / start) -->
+  <circle cx="245" cy="70" r="22" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="237" y="90" width="16" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="239" y="100" width="12" height="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- bulb rays -->
+  <path d="M245 38 L245 30" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M270 55 L278 50" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M220 55 L212 50" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M270 90 L278 95" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M220 90 L212 95" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- power symbol (green = on) -->
+  <circle cx="245" cy="180" r="20" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M245 170 L245 182" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M234 182 a11 11 0 1 0 22 0" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- rocket launch (replaces START text) -->
+  <path d="M100 95 L110 72 L128 68 L148 75 L148 95 L130 108 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M110 95 L104 105 L110 110 L120 100" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M148 95 L154 105 L148 110 L138 100" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M124 108 L118 125 L124 122 L118 140 L134 122 L128 126" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <circle cx="128" cy="84" r="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.70"/>
+</g></svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- 4 identical narrow houses in a continuous row sharing walls -->
+  <!-- Continuous roofline with 4 peaks -->
+  <!-- House 1 roof -->
+  <polygon points="22,120 55,58 88,120" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House 2 roof -->
+  <polygon points="88,120 121,58 154,120" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House 3 roof -->
+  <polygon points="154,120 187,58 220,120" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House 4 roof -->
+  <polygon points="220,120 253,58 268,120" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Continuous wall band (all 4 houses share) -->
+  <rect x="22" y="120" width="246" height="84" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Shared interior walls (party walls) -->
+  <line x1="88" y1="120" x2="88" y2="204" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="154" y1="120" x2="154" y2="204" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="220" y1="120" x2="220" y2="204" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- House 1 door -->
+  <rect x="38" y="162" width="20" height="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House 2 door -->
+  <rect x="104" y="162" width="20" height="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House 3 door -->
+  <rect x="170" y="162" width="20" height="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House 4 door -->
+  <rect x="236" y="162" width="20" height="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- House 1 window -->
+  <rect x="62" y="130" width="20" height="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House 2 window -->
+  <rect x="128" y="130" width="20" height="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House 3 window -->
+  <rect x="194" y="130" width="20" height="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House 4 window: smaller last bay -->
+  <rect x="244" y="130" width="16" height="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Chimney 1 -->
+  <rect x="42" y="72" width="12" height="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Chimney 2 -->
+  <rect x="108" y="72" width="12" height="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Chimney 3 -->
+  <rect x="174" y="72" width="12" height="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Chimney 4 -->
+  <rect x="240" y="72" width="12" height="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+
+  <!-- Ground line -->
+  <line x1="18" y1="204" x2="272" y2="204" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2806" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2806)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

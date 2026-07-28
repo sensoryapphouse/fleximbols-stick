@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Folded crocheted blanket made of granny squares -->
+  <!-- Back / shadow side of folded blanket -->
+  <path d="M 30 175 L 30 95 Q 30 85 40 85 L 250 85 Q 260 85 260 95 L 260 175 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Main quilt face: 4 rows x 6 cols of granny squares -->
+  <!-- Row 1 -->
+  <rect x="30" y="95" width="36" height="36" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="66" y="95" width="36" height="36" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="102" y="95" width="36" height="36" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="138" y="95" width="36" height="36" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="95" width="36" height="36" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="210" y="95" width="40" height="36" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 2 -->
+  <rect x="30" y="131" width="36" height="36" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="66" y="131" width="36" height="36" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="102" y="131" width="36" height="36" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="138" y="131" width="36" height="36" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="131" width="36" height="36" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="210" y="131" width="40" height="36" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Granny-square centre motifs: small diamond + dot in each cell -->
+  <g stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round">
+    <polygon points="48,103 56,113 48,123 40,113" fill="#ffffff"/>
+    <polygon points="84,103 92,113 84,123 76,113" fill="#ffffff"/>
+    <polygon points="120,103 128,113 120,123 112,113" fill="#ffffff"/>
+    <polygon points="156,103 164,113 156,123 148,113" fill="#ffffff"/>
+    <polygon points="192,103 200,113 192,123 184,113" fill="#ffffff"/>
+    <polygon points="230,103 238,113 230,123 222,113" fill="#ffffff"/>
+    <polygon points="48,139 56,149 48,159 40,149" fill="#ffffff"/>
+    <polygon points="84,139 92,149 84,159 76,149" fill="#ffffff"/>
+    <polygon points="120,139 128,149 120,159 112,149" fill="#ffffff"/>
+    <polygon points="156,139 164,149 156,159 148,149" fill="#ffffff"/>
+    <polygon points="192,139 200,149 192,159 184,149" fill="#ffffff"/>
+    <polygon points="230,139 238,149 230,159 222,149" fill="#ffffff"/>
+  </g>
+
+  <!-- Folded front lip (rolled edge) -->
+  <path d="M 25 167 Q 145 200 265 167 L 265 195 Q 145 225 25 195 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Crochet edge: scalloped fringe -->
+  <g fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96">
+    <circle cx="35" cy="200" r="6"/>
+    <circle cx="55" cy="206" r="6"/>
+    <circle cx="75" cy="210" r="6"/>
+    <circle cx="95" cy="213" r="6"/>
+    <circle cx="115" cy="215" r="6"/>
+    <circle cx="135" cy="216" r="6"/>
+    <circle cx="155" cy="216" r="6"/>
+    <circle cx="175" cy="215" r="6"/>
+    <circle cx="195" cy="213" r="6"/>
+    <circle cx="215" cy="210" r="6"/>
+    <circle cx="235" cy="206" r="6"/>
+    <circle cx="255" cy="200" r="6"/>
+  </g>
+
+  <!-- Yarn ball with hook, top-left -->
+  <circle cx="55" cy="55" r="22" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 38 50 Q 55 40 72 55 M 40 60 Q 58 50 70 65 M 43 68 Q 58 60 68 72" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Crochet hook -->
+  <path d="M 75 35 L 110 18 Q 116 14 116 22 Q 116 27 110 27" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="75" y1="35" x2="78" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

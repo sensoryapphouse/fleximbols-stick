@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <ellipse cx="145" cy="220" rx="120" ry="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- yurt body (round cylinder) -->
+  <path d="M60 130 L60 210 L230 210 L230 130 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- conical roof -->
+  <path d="M50 130 L145 60 L240 130 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- chimney/smoke hole at top -->
+  <rect x="135" y="48" width="20" height="16" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- smoke -->
+  <path d="M140 48 C135 38 150 32 145 22 C140 14 155 10 150 0" fill="none" stroke="#b8b8b8" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- decorative band -->
+  <rect x="60" y="138" width="170" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- diamond pattern on band -->
+  <polygon points="85,144 92,138 99,144 92,150" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67"/>
+  <polygon points="125,144 132,138 139,144 132,150" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67"/>
+  <polygon points="165,144 172,138 179,144 172,150" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67"/>
+  <polygon points="205,144 212,138 219,144 212,150" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- door -->
+  <rect x="125" y="160" width="40" height="50" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- door cross-pattern -->
+  <line x1="145" y1="160" x2="145" y2="210" stroke="#fff200" stroke-width="4.45"/>
+  <line x1="125" y1="185" x2="165" y2="185" stroke="#fff200" stroke-width="4.45"/>
+  <!-- roof radial lines -->
+  <line x1="145" y1="60" x2="80" y2="130" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="145" y1="60" x2="110" y2="130" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="145" y1="60" x2="180" y2="130" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="145" y1="60" x2="210" y2="130" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

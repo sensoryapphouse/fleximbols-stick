@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.32 17.03 413.09 413.09"><g data-fit="1">
+<!-- green down arrow over the mucky boot (left) -->
+<line x1="140" y1="60" x2="140" y2="110" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="110" x2="116" y2="86" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="110" x2="164" y2="86" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="60" x2="140" y2="110" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="140" y1="110" x2="116" y2="86" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="140" y1="110" x2="164" y2="86" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<!-- MUCKY wellington boot (left) -->
+<path d="M 110 160 L 175 160 L 178 300 L 230 300 L 230 360 L 110 360 Z" fill="#3fb24a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="110" y1="190" x2="175" y2="190" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- mud caked on -->
+<path d="M 108 320 Q 150 300 230 318 L 230 362 L 108 362 Z" fill="#6e4a24" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="150" cy="330" rx="16" ry="11" fill="#5e3a1c" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="200" cy="336" rx="13" ry="9" fill="#5e3a1c" stroke="#1a1a1a" stroke-width="0"/>
+<!-- mud drips/splats -->
+<ellipse cx="130" cy="384" rx="10" ry="7" fill="#6e4a24" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="180" cy="390" rx="8" ry="6" fill="#6e4a24" stroke="#1a1a1a" stroke-width="0"/>
+<!-- CLEAN boot (right, faded) -->
+<g opacity="0.34">
+<path d="M 342 160 L 407 160 L 410 300 L 462 300 L 462 360 L 342 360 Z" fill="#7fd089" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="342" y1="190" x2="407" y2="190" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</g>
+</g></svg>

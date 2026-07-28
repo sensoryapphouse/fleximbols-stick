@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.2446) translate(-288.00 -292.50)">
+<line x1="241" y1="303" x2="232" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="271" y1="303" x2="280" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="232" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="280" cy="457" rx="13" ry="7" fill="#33373d"/>
+<polygon points="252,219 316,219 286,305 226,305" fill="#e0473c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- near arm cradles the bowl rim -->
+<path d="M 254 221 Q 232 296 252 348" fill="none" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<!-- far arm reaches to grip the whisk handle and stir -->
+<path d="M 300 221 Q 276 244 240 252" fill="none" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="284" y1="219" x2="316" y2="209" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 269.0 227.0 L 269.0 171.0 Q 269.0 119.0 316.0 119.0 Q 363.0 119.0 363.0 171.0 L 363.0 227.0 L 350.0 227.0 L 350.0 173.0 Q 350.0 139.0 316.0 139.0 Q 282.0 139.0 282.0 173.0 L 282.0 227.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<circle id="h1" data-fig="fa" class="skin" cx="316" cy="173" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 278.0 139.0 Q 316.0 125.0 354.0 139.0 Q 316.0 135.0 278.0 139.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<!-- deep round mixing bowl held in the arm -->
+<path d="M 138 352 A 70 70 0 0 0 270 352 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<ellipse cx="204" cy="352" rx="66" ry="20" fill="#eef2f6" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="204" cy="352" rx="50" ry="13" fill="#f0d089" stroke="#e7b85a" stroke-width="4"/>
+<!-- whisk being stirred inside the bowl -->
+<line x1="186" y1="352" x2="236" y2="252" stroke="#9aa7b3" stroke-width="9" stroke-linecap="round"/>
+<path d="M 186 354 Q 174 376 188 392" fill="none" stroke="#9aa7b3" stroke-width="4"/>
+<path d="M 196 356 Q 188 378 200 396" fill="none" stroke="#9aa7b3" stroke-width="4"/>
+<path d="M 206 356 Q 204 378 212 396" fill="none" stroke="#9aa7b3" stroke-width="4"/>
+<path d="M 216 354 Q 220 376 222 392" fill="none" stroke="#9aa7b3" stroke-width="4"/>
+<line x1="186" y1="392" x2="222" y2="392" stroke="#9aa7b3" stroke-width="4" stroke-linecap="round"/>
+<path d="M 364.6 400 L 451.4 400 L 444.022 443.4 L 371.978 443.4 Z" fill="#c98a3a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="408" cy="400" rx="43" ry="11" fill="#e7b85a" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M 364.6 400 q 9.92 9.92 21.7 0 q 11.16 9.92 21.7 0 q 11.16 9.92 21.7 0 q 11.16 9.92 21.7 0 q 8.68 7.4399999999999995 16.12 1.24" fill="#f4d6e6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- cherry on top instead of a birthday candle -->
+<circle cx="408" cy="389" r="6" fill="#e0473c" stroke="#1a1a1a" stroke-width="2"/>
+</g></svg>

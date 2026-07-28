@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- back hazelnut (tan) -->
+<path d="M 300 196 Q 268 200 264 252 Q 262 312 312 332 Q 366 340 386 296 Q 398 256 372 224 Q 364 196 332 192 Q 316 190 300 196 Z" fill="#f3cd6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- husk cap on back nut -->
+<path d="M 300 196 Q 316 190 332 192 Q 364 196 372 224 Q 330 236 290 224 Q 290 206 300 196 Z" fill="#8cc152" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- groove -->
+<path d="M 320 232 Q 318 286 336 326" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+<!-- front hazelnut (orange, with point) -->
+<path d="M 178 224 Q 132 232 130 296 Q 130 360 192 374 Q 252 380 262 320 Q 268 272 232 244 L 212 200 Q 200 184 188 200 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- point tuft -->
+<path d="M 200 200 L 196 168 M 200 200 L 214 176" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<!-- shell base ring -->
+<path d="M 142 348 Q 196 366 250 346" fill="none" stroke="#c89a5b" stroke-width="8"/>
+</svg>

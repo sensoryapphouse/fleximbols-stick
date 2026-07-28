@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -252.50)">
+<!-- sky -->
+<rect x="0" y="0" width="512" height="120" rx="0" fill="#bcd6e6" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="430" cy="58" r="24" fill="#f6c84c" stroke="#1a1a1a" stroke-width="0"/>
+<!-- ground mass -->
+<rect x="0" y="104" width="512" height="408" rx="0" fill="#9a774a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="0" y="104" width="512" height="20" rx="0" fill="#8a6838" stroke="#1a1a1a" stroke-width="0"/>
+<!-- ===== the dug channel: one dark cut-earth recess down the middle ===== -->
+<rect x="150" y="118" width="212" height="394" fill="#3a2a18" stroke="#231708" stroke-width="6"/>
+<!-- darker shadow at the very bottom of the cut so depth reads -->
+<rect x="156" y="124" width="200" height="382" fill="#2e2113" stroke="#1a1a1a" stroke-width="0"/>
+<!-- ===== wooden plank revetment lining the inner side walls (vertical boards) ===== -->
+<!-- left wall boards -->
+<g stroke="#5f4326" stroke-width="3">
+<rect x="158" y="150" width="40" height="300" fill="#8a6a40"/>
+<line x1="168" y1="150" x2="168" y2="450"/>
+<line x1="178" y1="150" x2="178" y2="450"/>
+<line x1="188" y1="150" x2="188" y2="450"/>
+</g>
+<!-- right wall boards -->
+<g stroke="#5f4326" stroke-width="3">
+<rect x="314" y="150" width="40" height="300" fill="#8a6a40"/>
+<line x1="324" y1="150" x2="324" y2="450"/>
+<line x1="334" y1="150" x2="334" y2="450"/>
+<line x1="344" y1="150" x2="344" y2="450"/>
+</g>
+<!-- horizontal retaining rails across the revetment boards -->
+<line x1="158" y1="210" x2="198" y2="210" stroke="#5f4326" stroke-width="5"/>
+<line x1="158" y1="330" x2="198" y2="330" stroke="#5f4326" stroke-width="5"/>
+<line x1="314" y1="210" x2="354" y2="210" stroke="#5f4326" stroke-width="5"/>
+<line x1="314" y1="330" x2="354" y2="330" stroke="#5f4326" stroke-width="5"/>
+<!-- ===== duckboards: horizontal slatted walkway on the trench floor ===== -->
+<g stroke="#5f4326" stroke-width="3" stroke-linecap="round">
+<rect x="198" y="450" width="116" height="58" fill="#a9824c"/>
+<line x1="200" y1="462" x2="312" y2="462"/>
+<line x1="200" y1="474" x2="312" y2="474"/>
+<line x1="200" y1="486" x2="312" y2="486"/>
+<line x1="200" y1="498" x2="312" y2="498"/>
+<!-- side stringers -->
+<line x1="226" y1="450" x2="226" y2="508"/>
+<line x1="286" y1="450" x2="286" y2="508"/>
+</g>
+<!-- ===== stacked sandbag parapet along the top lip of both sides (light tan, in courses) ===== -->
+<!-- helper: each bag is a rounded rect with a centre seam -->
+<!-- LEFT parapet block -->
+<g>
+<!-- course 1 (top) -->
+<rect x="2"  y="58" width="48" height="26" rx="12" fill="#d8b878" stroke="#a07c3c" stroke-width="3"/>
+<rect x="50" y="58" width="48" height="26" rx="12" fill="#cfae6e" stroke="#a07c3c" stroke-width="3"/>
+<rect x="98" y="58" width="48" height="26" rx="12" fill="#d8b878" stroke="#a07c3c" stroke-width="3"/>
+<line x1="26"  y1="60" x2="26"  y2="82" stroke="#a07c3c" stroke-width="2"/>
+<line x1="74"  y1="60" x2="74"  y2="82" stroke="#a07c3c" stroke-width="2"/>
+<line x1="122" y1="60" x2="122" y2="82" stroke="#a07c3c" stroke-width="2"/>
+<!-- course 2 (offset) -->
+<rect x="-22" y="82" width="48" height="26" rx="12" fill="#cfae6e" stroke="#a07c3c" stroke-width="3"/>
+<rect x="26"  y="82" width="48" height="26" rx="12" fill="#d8b878" stroke="#a07c3c" stroke-width="3"/>
+<rect x="74"  y="82" width="48" height="26" rx="12" fill="#cfae6e" stroke="#a07c3c" stroke-width="3"/>
+<rect x="122" y="82" width="48" height="26" rx="12" fill="#d8b878" stroke="#a07c3c" stroke-width="3"/>
+<line x1="2"   y1="84" x2="2"   y2="106" stroke="#a07c3c" stroke-width="2"/>
+<line x1="50"  y1="84" x2="50"  y2="106" stroke="#a07c3c" stroke-width="2"/>
+<line x1="98"  y1="84" x2="98"  y2="106" stroke="#a07c3c" stroke-width="2"/>
+<line x1="146" y1="84" x2="146" y2="106" stroke="#a07c3c" stroke-width="2"/>
+</g>
+<!-- RIGHT parapet block -->
+<g>
+<!-- course 1 (top) -->
+<rect x="366" y="58" width="48" height="26" rx="12" fill="#d8b878" stroke="#a07c3c" stroke-width="3"/>
+<rect x="414" y="58" width="48" height="26" rx="12" fill="#cfae6e" stroke="#a07c3c" stroke-width="3"/>
+<rect x="462" y="58" width="48" height="26" rx="12" fill="#d8b878" stroke="#a07c3c" stroke-width="3"/>
+<line x1="390" y1="60" x2="390" y2="82" stroke="#a07c3c" stroke-width="2"/>
+<line x1="438" y1="60" x2="438" y2="82" stroke="#a07c3c" stroke-width="2"/>
+<line x1="486" y1="60" x2="486" y2="82" stroke="#a07c3c" stroke-width="2"/>
+<!-- course 2 (offset) -->
+<rect x="342" y="82" width="48" height="26" rx="12" fill="#cfae6e" stroke="#a07c3c" stroke-width="3"/>
+<rect x="390" y="82" width="48" height="26" rx="12" fill="#d8b878" stroke="#a07c3c" stroke-width="3"/>
+<rect x="438" y="82" width="48" height="26" rx="12" fill="#cfae6e" stroke="#a07c3c" stroke-width="3"/>
+<rect x="486" y="82" width="48" height="26" rx="12" fill="#d8b878" stroke="#a07c3c" stroke-width="3"/>
+<line x1="366" y1="84" x2="366" y2="106" stroke="#a07c3c" stroke-width="2"/>
+<line x1="414" y1="84" x2="414" y2="106" stroke="#a07c3c" stroke-width="2"/>
+<line x1="462" y1="84" x2="462" y2="106" stroke="#a07c3c" stroke-width="2"/>
+<line x1="510" y1="84" x2="510" y2="106" stroke="#a07c3c" stroke-width="2"/>
+</g>
+</g></svg>

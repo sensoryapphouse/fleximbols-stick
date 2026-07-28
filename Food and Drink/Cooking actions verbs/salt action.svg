@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Salt shaker body -->
+  <rect x="105" y="55" width="60" height="100" rx="12" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Shaker cap/top (metal) -->
+  <rect x="108" y="42" width="54" height="22" rx="8" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Shaker holes on cap -->
+  <circle cx="122" cy="52" r="3" fill="#000000"/>
+  <circle cx="135" cy="52" r="3" fill="#000000"/>
+  <circle cx="148" cy="52" r="3" fill="#000000"/>
+  <circle cx="161" cy="52" r="3" fill="#000000"/>
+  <circle cx="129" cy="57" r="3" fill="#000000"/>
+  <circle cx="142" cy="57" r="3" fill="#000000"/>
+  <circle cx="155" cy="57" r="3" fill="#000000"/>
+  <!-- Shaker label area (S) — drawn as path/rect, no text -->
+  <rect x="118" y="95" width="34" height="34" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- S drawn as path -->
+  <path d="M131 106 Q124 106 124 113 Q124 120 135 120 Q146 120 146 128 Q146 135 135 135" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Salt shaker base -->
+  <ellipse cx="135" cy="155" rx="32" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- White salt grains falling out (from top, tilted slightly) -->
+  <ellipse cx="100" cy="38" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="80" cy="55" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="68" cy="75" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="88" cy="40" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="72" cy="62" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="62" cy="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Food (plate) below -->
+  <ellipse cx="145" cy="205" rx="95" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="145" cy="200" rx="80" ry="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Salt grains on food -->
+  <ellipse cx="118" cy="198" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="140" cy="195" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="162" cy="200" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="130" cy="204" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="155" cy="194" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

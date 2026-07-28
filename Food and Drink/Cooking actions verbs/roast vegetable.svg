@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Oven backdrop suggestion -->
+  <rect x="14" y="18" width="262" height="60" rx="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="22" y="26" width="246" height="44" rx="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Heating element glow line -->
+  <path d="M30 36 Q60 32 90 36 Q120 40 150 36 Q180 32 210 36 Q240 40 260 36" fill="none" stroke="#f8130d" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Sheet pan -->
+  <path d="M30 178 L40 210 L250 210 L260 178 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="26" y="170" width="238" height="14" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Diced vegetables (browned cubes) -->
+  <!-- Carrot cubes (orange) -->
+  <rect x="50" y="150" width="22" height="22" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="54" y="154" width="10" height="6" rx="1" fill="#e65a00" stroke="none"/>
+  <rect x="80" y="148" width="20" height="22" rx="3" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Potato cubes (browned) -->
+  <rect x="108" y="150" width="24" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="120" cy="158" rx="6" ry="3" fill="#7d5e23" stroke="none"/>
+  <rect x="142" y="148" width="22" height="24" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="153" cy="156" rx="5" ry="3" fill="#7d5e23" stroke="none"/>
+  <!-- Pepper / broccoli (green) -->
+  <rect x="174" y="150" width="22" height="22" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="184" cy="158" rx="6" ry="3" fill="#67832d" stroke="none"/>
+  <rect x="204" y="148" width="20" height="24" rx="3" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Red onion / tomato cube -->
+  <rect x="232" y="150" width="20" height="22" rx="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Second row (smaller, behind) -->
+  <rect x="64" y="128" width="18" height="20" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="92" y="126" width="18" height="22" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="120" y="128" width="18" height="20" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="126" width="18" height="22" rx="3" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="176" y="128" width="18" height="20" rx="3" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="204" y="126" width="18" height="22" rx="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Browning shimmer / steam -->
+  <path d="M90 118 Q87 108 90 100 Q93 92 90 84" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150 118 Q147 108 150 100 Q153 92 150 84" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M210 118 Q207 108 210 100 Q213 92 210 84" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- ROAST label band -->
+  <rect x="78" y="215" width="134" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- R -->
+  <path d="M88 220 L88 234 M88 220 L96 220 Q100 220 100 224 Q100 228 96 228 L88 228 M96 228 L100 234" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <path d="M108 220 Q104 220 104 227 Q104 234 108 234 Q114 234 114 227 Q114 220 108 220 Z" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M120 234 L125 220 L130 234 M122 230 L128 230" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- S -->
+  <path d="M144 221 Q138 220 138 224 Q138 227 142 227 Q146 227 146 230 Q146 234 140 233" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- T -->
+  <path d="M152 220 L162 220 M157 220 L157 234" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

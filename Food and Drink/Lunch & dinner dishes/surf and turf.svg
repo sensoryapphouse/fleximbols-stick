@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate - large to hold both items -->
+  <ellipse cx="145" cy="208" rx="130" ry="24" fill="#efefef" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="206" rx="124" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Dividing line suggestion - subtle center area -->
+  <!-- LEFT SIDE: STEAK -->
+  <!-- Steak - thick seared cut, dark crust, juicy interior -->
+  <path d="M 22 185 Q 20 162 32 148 Q 46 136 72 134 Q 98 134 110 148 Q 120 162 116 184 Q 110 196 72 198 Q 30 196 22 185 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Steak interior - visible red/brown medium rare -->
+  <path d="M 32 183 Q 30 164 40 152 Q 52 142 72 140 Q 92 140 102 152 Q 110 164 108 182 Q 102 192 72 194 Q 38 192 32 183 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Pink/red rare center -->
+  <path d="M 44 181 Q 42 166 50 156 Q 60 148 72 147 Q 84 148 92 156 Q 100 166 98 180 Q 92 188 72 189 Q 48 188 44 181 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Steak grill marks -->
+  <path d="M 40 148 L 32 178" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <path d="M 56 143 L 46 178" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <path d="M 74 141 L 64 180" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <path d="M 92 143 L 84 180" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <path d="M 108 150 L 102 178" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <!-- Steak fat marbling -->
+  <path d="M 48 158 Q 60 152 72 155 Q 84 153 96 158" fill="none" stroke="#f5e7c4" stroke-width="3.18" stroke-linecap="round"/>
+  <path d="M 46 168 Q 58 162 72 165 Q 86 163 98 168" fill="none" stroke="#f5e7c4" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- RIGHT SIDE: LOBSTER TAIL -->
+  <!-- Lobster tail shell - red curved shape -->
+  <path d="M 175 185 Q 172 160 186 142 Q 202 124 228 120 Q 252 122 264 140 Q 272 155 268 180 Q 260 194 225 198 Q 185 196 175 185 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Shell segment bands -->
+  <path d="M 180 162 Q 210 150 260 162" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 178 173 Q 208 161 262 173" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 178 182 Q 208 170 262 182" fill="none" stroke="#5e1f0a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- White meat exposed interior -->
+  <path d="M 192 188 Q 190 168 202 152 Q 216 138 228 136 Q 244 140 252 155 Q 260 168 256 185 Q 248 194 225 196 Q 196 194 192 188 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Meat center vein -->
+  <path d="M 228 136 Q 226 165 228 196" fill="none" stroke="#b8b8b8" stroke-width="3.18" stroke-linecap="round"/>
+  <path d="M 196 178 Q 215 170 228 168 Q 242 170 256 178" fill="none" stroke="#f5e7c4" stroke-width="3.18" stroke-linecap="round"/>
+  <!-- Shell tail fan -->
+  <path d="M 188 122 Q 182 108 176 100 Q 172 110 180 120" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 202 118 Q 200 103 203 96 Q 210 100 210 116" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 218 116 Q 218 100 222 94 Q 228 99 226 115" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 238 118 Q 242 102 240 95 Q 246 101 244 116" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Side garnish - small herbs between the two items -->
+  <circle cx="144" cy="186" r="7" fill="#137827" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="137" cy="182" r="6" fill="#137827" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="151" cy="182" r="6" fill="#137827" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="144" cy="178" r="5" fill="#137827" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Lemon wedge garnish -->
+  <path d="M 128 160 Q 122 145 132 138 Q 144 133 152 143 Q 157 153 148 162 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <path d="M 128 160 Q 140 150 152 143" fill="none" stroke="#7d5e23" stroke-width="2.54" stroke-linecap="round"/>
+</g></svg>

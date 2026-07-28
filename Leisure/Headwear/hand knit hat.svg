@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- knitted beanie with pompom + visible knit stitches -->
+  <!-- pompom -->
+  <circle cx="145" cy="35" r="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- pompom fluff lines -->
+  <path d="M145 13 L142 22 M145 13 L148 22 M127 25 L135 30 M127 25 L132 22 M163 25 L155 30 M163 25 L158 22 M125 45 L135 45 M165 45 L155 45 M145 57 L142 48 M145 57 L148 48 M132 55 L138 50 M158 55 L152 50" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <!-- hat dome -->
+  <path d="M55 175 Q55 70 145 60 Q235 70 235 175 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- ribbed brim -->
+  <rect x="50" y="165" width="190" height="40" rx="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- brim vertical ribs -->
+  <path d="M65 165 L65 205 M80 165 L80 205 M95 165 L95 205 M110 165 L110 205 M125 165 L125 205 M140 165 L140 205 M155 165 L155 205 M170 165 L170 205 M185 165 L185 205 M200 165 L200 205 M215 165 L215 205 M225 165 L225 205" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
+  <!-- knit V stitches on dome -->
+  <g stroke="#1a1a1a" stroke-width="2.22" fill="none">
+    <path d="M75 100 L79 105 L83 100 M90 95 L94 100 L98 95 M105 92 L109 97 L113 92 M120 90 L124 95 L128 90 M135 88 L139 93 L143 88 M150 88 L154 93 L158 88 M165 90 L169 95 L173 90 M180 92 L184 97 L188 92 M195 95 L199 100 L203 95 M210 100 L214 105 L218 100"/>
+    <path d="M70 120 L74 125 L78 120 M85 117 L89 122 L93 117 M100 115 L104 120 L108 115 M115 113 L119 118 L123 113 M130 112 L134 117 L138 112 M145 112 L149 117 L153 112 M160 113 L164 118 L168 113 M175 115 L179 120 L183 115 M190 117 L194 122 L198 117 M205 120 L209 125 L213 120 M220 122 L224 127 L228 122"/>
+    <path d="M65 140 L69 145 L73 140 M80 138 L84 143 L88 138 M95 137 L99 142 L103 137 M110 136 L114 141 L118 136 M125 135 L129 140 L133 135 M140 135 L144 140 L148 135 M155 135 L159 140 L163 135 M170 136 L174 141 L178 136 M185 137 L189 142 L193 137 M200 138 L204 143 L208 138 M215 140 L219 145 L223 140"/>
+    <path d="M60 158 L64 163 L68 158 M75 158 L79 163 L83 158 M90 157 L94 162 L98 157 M105 157 L109 162 L113 157 M120 156 L124 161 L128 156 M135 156 L139 161 L143 156 M150 156 L154 161 L158 156 M165 157 L169 162 L173 157 M180 157 L184 162 L188 157 M195 158 L199 163 L203 158 M210 158 L214 163 L218 158 M225 158 L229 163 L233 158"/>
+  </g>
+  <!-- pompom string to hat -->
+  <path d="M145 57 L145 65" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+</g></svg>

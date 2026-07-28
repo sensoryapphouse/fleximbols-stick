@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- yellow worksheet, slightly tilted -->
+<g transform="rotate(-8 256 256)">
+  <rect x="132" y="110" width="248" height="300" rx="10" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <!-- ruled answer lines -->
+  <line x1="176" y1="186" x2="336" y2="186" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+  <line x1="176" y1="246" x2="336" y2="246" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+  <line x1="176" y1="306" x2="336" y2="306" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+  <line x1="176" y1="366" x2="300" y2="366" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+  <!-- bullet dots down the left margin -->
+  <circle cx="156" cy="186" r="7" fill="#1a1a1a"/>
+  <circle cx="156" cy="246" r="7" fill="#1a1a1a"/>
+  <circle cx="156" cy="306" r="7" fill="#1a1a1a"/>
+  <circle cx="156" cy="366" r="7" fill="#1a1a1a"/>
+</g>
+<!-- pencil writing on the sheet -->
+<g transform="rotate(40 350 300)">
+  <rect x="330" y="120" width="40" height="210" rx="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <rect x="330" y="120" width="40" height="34" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <!-- wood tip + lead -->
+  <polygon points="330,330 370,330 350,392" fill="#f3cd6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <polygon points="343,365 357,365 350,392" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</g>
+</svg>

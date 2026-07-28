@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky panel -->
+  <rect x="26" y="32" width="238" height="176" rx="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Storm cloud (dark grey) -->
+  <circle cx="120" cy="72" r="34" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="84" cy="88" r="28" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="153" cy="85" r="30" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="100" r="24" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="56" y="94" width="142" height="32" fill="#4d4d4d"/>
+  <line x1="56" y1="126" x2="198" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="56" y1="96" x2="56" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="198" y1="102" x2="198" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lightning bolt (bold, yellow with black outline) -->
+  <polygon points="118,130 100,162 116,162 98,192 140,152 124,152 142,130" fill="#fff200" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- "?" drawn as paths -->
+  <path d="M238 52 Q238 36 252 36 Q266 36 266 50 Q266 62 252 68 L252 78" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="252" cy="88" r="5" fill="#000000"/>
+  <!-- "%" drawn as paths -->
+  <circle cx="238" cy="118" r="8" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="230" y1="146" x2="266" y2="108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="258" cy="146" r="8" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

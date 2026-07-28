@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- data shield (EU blue) -->
+  <path d="M145 18 L230 48 L230 130 Q230 182 145 222 Q60 182 60 130 L60 48 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- EU stars circle around upper area -->
+  <g fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.67">
+    <path d="M145 35 L147 41 L153 41 L148 45 L150 51 L145 47 L140 51 L142 45 L137 41 L143 41 Z"/>
+    <path d="M175 42 L177 48 L183 48 L178 52 L180 58 L175 54 L170 58 L172 52 L167 48 L173 48 Z"/>
+    <path d="M115 42 L117 48 L123 48 L118 52 L120 58 L115 54 L110 58 L112 52 L107 48 L113 48 Z"/>
+    <path d="M195 60 L197 66 L203 66 L198 70 L200 76 L195 72 L190 76 L192 70 L187 66 L193 66 Z"/>
+    <path d="M95 60 L97 66 L103 66 L98 70 L100 76 L95 72 L90 76 L92 70 L87 66 L93 66 Z"/>
+    <path d="M205 85 L207 91 L213 91 L208 95 L210 101 L205 97 L200 101 L202 95 L197 91 L203 91 Z"/>
+    <path d="M85 85 L87 91 L93 91 L88 95 L90 101 L85 97 L80 101 L82 95 L77 91 L83 91 Z"/>
+  </g>
+  <!-- privacy padlock (focal, center) -->
+  <path d="M125 125 Q125 105 145 105 Q165 105 165 125 L165 140 L155 140 L155 128 Q155 115 145 115 Q135 115 135 128 L135 140 L125 140 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <rect x="115" y="140" width="60" height="50" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <circle cx="145" cy="160" r="6" fill="#000000"/>
+  <rect x="142" y="160" width="6" height="14" fill="#000000"/>
+  <!-- GDPR letters block (under lock) -->
+  <rect x="100" y="195" width="90" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- G -->
+  <path d="M110 200 Q104 200 104 205 Q104 210 110 210 Q114 210 114 207 L111 207" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- D -->
+  <path d="M122 200 L122 210 L127 210 Q132 210 132 205 Q132 200 127 200 Z" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- P -->
+  <path d="M140 210 L140 200 L146 200 Q150 200 150 203 Q150 206 146 206 L140 206" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- R -->
+  <path d="M158 210 L158 200 L164 200 Q168 200 168 203 Q168 206 164 206 L158 206 M164 206 L169 210" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

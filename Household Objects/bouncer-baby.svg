@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0883) translate(-222.00 -281.00)">
+<g transform="translate(-12.1,10.7) scale(1.051)"><g stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- curved bouncer seat -->
+    <path d="M40 180 Q150 150 250 200 L235 320 Q150 360 60 320 Q35 250 40 180 Z" fill="#66aaff"/>
+    <path d="M58 200 Q150 175 232 215 L222 300 Q150 332 78 302 Q56 250 58 200 Z" fill="#aaccff"/>
+    <!-- bouncing frame -->
+    <path d="M30 380 Q140 300 250 370" fill="none" stroke-width="8"/>
+    <line x1="40" y1="190" x2="55" y2="380" stroke-width="6"/>
+    <line x1="245" y1="205" x2="235" y2="375" stroke-width="6"/>
+    <!-- toy bar with hanging toys -->
+    <path d="M55 195 Q150 110 245 205" fill="none" stroke-width="8"/>
+    <line x1="110" y1="148" x2="110" y2="128"/>
+    <circle cx="110" cy="118" r="14" fill="#ff4444"/>
+    <line x1="190" y1="150" x2="190" y2="130"/>
+    <circle cx="190" cy="120" r="14" fill="#ffdd44"/>
+  </g></g>
+<line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#33373d"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#33373d"/>
+<line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffcf33" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#5a3a1f" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

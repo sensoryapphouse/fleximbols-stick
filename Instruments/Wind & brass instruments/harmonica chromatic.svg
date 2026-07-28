@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Harmonica chromatic: longer, more holes, distinctive SLIDE BUTTON on right end -->
+  <!-- Main body (wider than blues) -->
+  <rect x="28" y="82" width="218" height="76" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Top cover plate -->
+  <rect x="28" y="82" width="218" height="26" rx="6" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Bottom cover plate -->
+  <rect x="28" y="132" width="218" height="26" rx="6" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- 12 holes (chromatic has more holes) -->
+  <rect x="38" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="55" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="72" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="89" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="106" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="123" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="157" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="191" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="208" y="110" width="5" height="20" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Holes dark fill -->
+  <rect x="43" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="60" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="77" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="94" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="111" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="128" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="145" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="162" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="179" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="196" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <rect x="213" y="112" width="10" height="16" rx="2" ry="2" fill="#000000" stroke="none"/>
+  <!-- SLIDE BUTTON on right end — key distinguishing feature -->
+  <rect x="246" y="96" width="20" height="48" rx="6" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Button protrusion connecting to body -->
+  <rect x="236" y="108" width="20" height="24" rx="3" ry="3" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Slide button label line -->
+  <line x1="256" y1="115" x2="256" y2="125" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

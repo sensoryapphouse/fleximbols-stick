@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground disc base -->
+  <ellipse cx="145" cy="210" rx="62" ry="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- spherical body (slightly flattened) -->
+  <ellipse cx="145" cy="138" rx="78" ry="70" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- fabric mesh stipple lines -->
+  <path d="M 80 120 Q 145 110 210 120" fill="none" stroke="#b8b8b8" stroke-width="4.45"/>
+  <path d="M 72 140 Q 145 130 218 140" fill="none" stroke="#b8b8b8" stroke-width="4.45"/>
+  <path d="M 76 160 Q 145 150 214 160" fill="none" stroke="#b8b8b8" stroke-width="4.45"/>
+  <path d="M 86 180 Q 145 172 204 180" fill="none" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- top flat disc with light ring -->
+  <ellipse cx="145" cy="76" rx="44" ry="11" fill="#dff3fd" stroke="#1a1a1a" stroke-width="11.11"/>
+  <ellipse cx="145" cy="76" rx="30" ry="7" fill="none" stroke="#7c3fac" stroke-width="8.89"/>
+  <ellipse cx="145" cy="76" rx="18" ry="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tiny apple-style leaf on top -->
+  <path d="M 150 64 Q 154 60 156 64" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

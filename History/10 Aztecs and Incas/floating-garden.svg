@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -256.00)">
+<!-- lake water -->
+<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 0 70 q 64 -12 128 0 q 64 12 128 0 q 64 -12 128 0 q 64 12 128 0" fill="none" stroke="#7fc4e6" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 0 300 q 64 -12 128 0 q 64 12 128 0 q 64 -12 128 0 q 64 12 128 0" fill="none" stroke="#7fc4e6" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 0 470 q 64 -12 128 0 q 64 12 128 0 q 64 -12 128 0 q 64 12 128 0" fill="none" stroke="#7fc4e6" stroke-width="5" stroke-linejoin="round"/>
+
+<!-- ===== TOP chinampa: a raised planted plot floating IN the water ===== -->
+<!-- woven willow / wattle side wall (under the soil, shows it is edged & raised) -->
+<rect x="96.0" y="150.0" width="320.0" height="40.0" rx="4" fill="#7a5230" stroke="#4f351f" stroke-width="6"/>
+<line x1="120" y1="150" x2="120" y2="190" stroke="#4f351f" stroke-width="3"/>
+<line x1="152" y1="150" x2="152" y2="190" stroke="#4f351f" stroke-width="3"/>
+<line x1="184" y1="150" x2="184" y2="190" stroke="#4f351f" stroke-width="3"/>
+<line x1="216" y1="150" x2="216" y2="190" stroke="#4f351f" stroke-width="3"/>
+<line x1="248" y1="150" x2="248" y2="190" stroke="#4f351f" stroke-width="3"/>
+<line x1="280" y1="150" x2="280" y2="190" stroke="#4f351f" stroke-width="3"/>
+<line x1="312" y1="150" x2="312" y2="190" stroke="#4f351f" stroke-width="3"/>
+<line x1="344" y1="150" x2="344" y2="190" stroke="#4f351f" stroke-width="3"/>
+<line x1="376" y1="150" x2="376" y2="190" stroke="#4f351f" stroke-width="3"/>
+<line x1="96" y1="170" x2="416" y2="170" stroke="#4f351f" stroke-width="3"/>
+<!-- soil bed on top -->
+<rect x="96.0" y="120.0" width="320.0" height="34.0" rx="4" fill="#6b4a2b" stroke="#4f351f" stroke-width="6"/>
+<rect x="104.0" y="124.0" width="304.0" height="14.0" rx="3" fill="#5a3d23" stroke="#1a1a1a" stroke-width="0"/>
+<!-- sprouting maize / veg plants growing on the plot -->
+<path d="M 150 120 L 150 70" fill="none" stroke="#2f9e6b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 150 88 q -26 -8 -34 -30" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<path d="M 150 98 q 26 -8 34 -30" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 120 L 256 60" fill="none" stroke="#2f9e6b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 80 q -26 -8 -34 -30" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 92 q 26 -8 34 -30" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<ellipse cx="256.0" cy="58.0" rx="9.0" ry="16.0" fill="#e3a72b" stroke="#b07e16" stroke-width="3"/>
+<path d="M 362 120 L 362 70" fill="none" stroke="#2f9e6b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 362 88 q -26 -8 -34 -30" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<path d="M 362 98 q 26 -8 34 -30" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+
+<!-- ===== BOTTOM chinampa ===== -->
+<rect x="96.0" y="360.0" width="320.0" height="40.0" rx="4" fill="#7a5230" stroke="#4f351f" stroke-width="6"/>
+<line x1="120" y1="360" x2="120" y2="400" stroke="#4f351f" stroke-width="3"/>
+<line x1="152" y1="360" x2="152" y2="400" stroke="#4f351f" stroke-width="3"/>
+<line x1="184" y1="360" x2="184" y2="400" stroke="#4f351f" stroke-width="3"/>
+<line x1="216" y1="360" x2="216" y2="400" stroke="#4f351f" stroke-width="3"/>
+<line x1="248" y1="360" x2="248" y2="400" stroke="#4f351f" stroke-width="3"/>
+<line x1="280" y1="360" x2="280" y2="400" stroke="#4f351f" stroke-width="3"/>
+<line x1="312" y1="360" x2="312" y2="400" stroke="#4f351f" stroke-width="3"/>
+<line x1="344" y1="360" x2="344" y2="400" stroke="#4f351f" stroke-width="3"/>
+<line x1="376" y1="360" x2="376" y2="400" stroke="#4f351f" stroke-width="3"/>
+<line x1="96" y1="380" x2="416" y2="380" stroke="#4f351f" stroke-width="3"/>
+<rect x="96.0" y="330.0" width="320.0" height="34.0" rx="4" fill="#6b4a2b" stroke="#4f351f" stroke-width="6"/>
+<rect x="104.0" y="334.0" width="304.0" height="14.0" rx="3" fill="#5a3d23" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 150 330 L 150 286" fill="none" stroke="#2f9e6b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 150 300 q -24 -8 -32 -28" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<path d="M 150 308 q 24 -8 32 -28" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 330 L 256 280" fill="none" stroke="#2f9e6b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 296 q -24 -8 -32 -28" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 304 q 24 -8 32 -28" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<path d="M 362 330 L 362 286" fill="none" stroke="#2f9e6b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 362 300 q -24 -8 -32 -28" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+<path d="M 362 308 q 24 -8 32 -28" fill="none" stroke="#3cba80" stroke-width="7" stroke-linecap="round"/>
+
+<!-- ===== canoe in the water channel between the two plots ===== -->
+<path d="M 150 250 Q 256 290 362 250 Q 256 268 150 250 Z" fill="#8a5a30" stroke="#4f351f" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 168 254 Q 256 278 344 254" fill="none" stroke="#5a3d23" stroke-width="4"/>
+<line x1="312" y1="258" x2="372" y2="222" stroke="#4f351f" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="376.0" cy="218.0" rx="12.0" ry="6.0" fill="#7a5230" stroke="#4f351f" stroke-width="3" transform="rotate(-32 376 218)"/>
+</g></svg>

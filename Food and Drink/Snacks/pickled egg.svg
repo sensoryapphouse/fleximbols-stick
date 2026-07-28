@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Glass jar body -->
+  <path d="M82,58 L82,198 Q82,212 96,212 L194,212 Q208,212 208,198 L208,58 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Jar glass highlight (left edge) -->
+  <rect x="87" y="65" width="8" height="130" rx="4" fill="#ffffff"/>
+  <!-- Brine liquid fill - pinkish from beet pickling -->
+  <rect x="83" y="91" width="124" height="120" fill="#f4a4b2"/>
+  <!-- Jar top neck/rim narrowing -->
+  <path d="M76,48 Q80,35 96,32 L194,32 Q210,35 214,48 L214,68 Q210,72 194,74 L96,74 Q80,72 76,68 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Jar lid -->
+  <rect x="78" y="26" width="134" height="20" rx="8" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Brine surface line inside jar -->
+  <line x1="83" y1="90" x2="207" y2="90" stroke="#f266aa" stroke-width="4.45"/>
+  <!-- Pickled egg inside jar - pink-tinged from beet brine -->
+  <ellipse cx="145" cy="152" rx="42" ry="52" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Egg inner lighter area -->
+  <ellipse cx="145" cy="148" rx="34" ry="42" fill="#eed5b6"/>
+  <ellipse cx="145" cy="145" rx="26" ry="32" fill="#f4a4b2"/>
+  <!-- Egg highlight -->
+  <ellipse cx="135" cy="128" rx="10" ry="7" fill="#ffffff"/>
+  <!-- Vinegar bubbles in brine -->
+  <circle cx="100" cy="112" r="4" fill="none" stroke="#f266aa" stroke-width="3.33"/>
+  <circle cx="190" cy="105" r="3" fill="none" stroke="#f266aa" stroke-width="3.33"/>
+  <circle cx="170" cy="198" r="3" fill="none" stroke="#f266aa" stroke-width="3.33"/>
+  <circle cx="108" cy="195" r="2.5" fill="none" stroke="#f266aa" stroke-width="3.33"/>
+  <!-- Jar bottom curve -->
+  <ellipse cx="145" cy="210" rx="62" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

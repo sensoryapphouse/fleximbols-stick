@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Glitter eyeshadow with chunky particles + sparkles + brush -->
+  <!-- Round glitter pan -->
+  <circle cx="120" cy="140" r="76" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Inner rim -->
+  <circle cx="120" cy="140" r="66" fill="#392170" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Glittery base (deep gold / champagne) -->
+  <circle cx="120" cy="140" r="56" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Chunky glitter particles (hexagonal-ish polygons, varied colours) -->
+  <polygon points="90,108 96,106 100,110 98,116 92,118 88,114" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="138,114 144,112 148,116 146,122 140,124 136,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="100,134 106,132 110,136 108,142 102,144 98,140" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="140,138 146,136 150,140 148,146 142,148 138,144" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="108,160 114,158 118,162 116,168 110,170 106,166" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="80,148 86,146 90,150 88,156 82,158 78,154" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="148,164 154,162 158,166 156,172 150,174 146,170" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="122,176 128,174 132,178 130,184 124,186 120,182" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="124,118 130,116 134,120 132,126 126,128 122,124" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bright sparkle bursts -->
+  <path d="M 70 130 L 72 134 L 76 136 L 72 138 L 70 142 L 68 138 L 64 136 L 68 134 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 160 150 L 162 154 L 166 156 L 162 158 L 160 162 L 158 158 L 154 156 L 158 154 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Brush (right side, slanted) -->
+  <g transform="rotate(20 230 130)">
+    <rect x="216" y="118" width="100" height="14" rx="6" fill="#392170" stroke="#1a1a1a" stroke-width="11.11"/>
+    <rect x="210" y="114" width="12" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+    <ellipse cx="194" cy="125" rx="22" ry="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="8.89"/>
+    <line x1="178" y1="118" x2="172" y2="112" stroke="#392170" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="174" y1="126" x2="166" y2="128" stroke="#392170" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="180" y1="134" x2="174" y2="140" stroke="#392170" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+</g></svg>

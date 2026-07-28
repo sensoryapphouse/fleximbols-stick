@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Phone -->
+  <rect x="60" y="24" width="120" height="200" rx="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Screen -->
+  <rect x="70" y="44" width="100" height="160" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Speaker -->
+  <rect x="106" y="32" width="28" height="5" rx="2" fill="#000000"/>
+  <!-- Home -->
+  <circle cx="120" cy="214" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Incoming text bubble (left, grey) -->
+  <path d="M82,60 L142,60 Q148,60 148,66 L148,90 Q148,96 142,96 L92,96 L82,106 L84,96 L82,96 Q76,96 76,90 L76,66 Q76,60 82,60 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <line x1="86" y1="72" x2="138" y2="72" stroke="#4d4d4d" stroke-width="3.56"/>
+  <line x1="86" y1="80" x2="132" y2="80" stroke="#4d4d4d" stroke-width="3.56"/>
+  <line x1="86" y1="88" x2="128" y2="88" stroke="#4d4d4d" stroke-width="3.56"/>
+  <!-- Outgoing reply bubble (right, green) -->
+  <path d="M158,112 L98,112 Q92,112 92,118 L92,142 Q92,148 98,148 L148,148 L158,158 L156,148 L158,148 Q164,148 164,142 L164,118 Q164,112 158,112 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <line x1="102" y1="124" x2="154" y2="124" stroke="#ffffff" stroke-width="3.56"/>
+  <line x1="102" y1="132" x2="150" y2="132" stroke="#ffffff" stroke-width="3.56"/>
+  <line x1="102" y1="140" x2="146" y2="140" stroke="#ffffff" stroke-width="3.56"/>
+  <!-- Reply arrow (curved, big, prominent, right of phone) -->
+  <path d="M218,90 Q256,90 256,130 Q256,170 218,170" fill="none" stroke="#f8130d" stroke-width="14.23" stroke-linecap="round"/>
+  <polygon points="228,76 208,90 228,104" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <path d="M192,184 L264,184 L264,218 L192,218 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- reply arrow on bubble (replaces BACK banner) -->
+  <path d="M82 195 L58 182 L82 170 L82 178 L105 178 L105 190 L82 190 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

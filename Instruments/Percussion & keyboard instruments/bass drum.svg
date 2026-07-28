@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Large upright marching/concert bass drum standing vertically, big soft mallet -->
+
+  <!-- Drum shell (upright cylinder - viewed from slight angle, tall and round) -->
+  <!-- Shell rim left -->
+  <ellipse cx="145" cy="130" rx="20" ry="100" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Shell body fill -->
+  <rect x="125" y="30" width="100" height="200" fill="#2a4ec0" stroke="none"/>
+  <!-- Shell rim right -->
+  <ellipse cx="225" cy="130" rx="20" ry="100" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Connect top and bottom of shell -->
+  <line x1="145" y1="30" x2="225" y2="30" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="230" x2="225" y2="230" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Front drumhead (visible batter side - ellipse on left) -->
+  <ellipse cx="145" cy="130" rx="20" ry="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hoop on front head -->
+  <ellipse cx="145" cy="130" rx="20" ry="100" fill="none" stroke="#4d4d4d" stroke-width="3.55"/>
+  <!-- Logo/vent on front head -->
+  <ellipse cx="145" cy="130" rx="12" ry="60" fill="none" stroke="#b8b8b8" stroke-width="1.78"/>
+
+  <!-- Lug casings on visible shell rim -->
+  <rect x="118" y="45" width="14" height="18" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <rect x="118" y="80" width="14" height="18" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <rect x="118" y="115" width="14" height="18" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <rect x="118" y="150" width="14" height="18" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <rect x="118" y="185" width="14" height="18" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+
+  <!-- Floor stand feet (drum standing upright) -->
+  <line x1="145" y1="228" x2="125" y2="240" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="225" y1="228" x2="245" y2="240" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Big soft mallet - long handle with large felt ball head -->
+  <!-- Mallet handle -->
+  <line x1="60" y1="40" x2="118" y2="120" stroke="#9d7246" stroke-width="6.22" stroke-linecap="round"/>
+  <!-- Soft mallet head (large felt ball) -->
+  <circle cx="122" cy="126" r="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Felt texture hint (inner circle) -->
+  <circle cx="122" cy="126" r="12" fill="#7f7f7f" stroke="none"/>
+</g></svg>

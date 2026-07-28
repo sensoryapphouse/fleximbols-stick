@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <defs>
+    <!-- 5-point star r_outer=40, r_inner=16, centred 0,0 -->
+    <path id="bigstar" d="M0,-40 L9.4,-12.9 L38,-12.4 L15.4,5 L23.5,34.4 L0,18 L-23.5,34.4 L-15.4,5 L-38,-12.4 L-9.4,-12.9 Z"/>
+  </defs>
+  <!-- Pole -->
+  <rect x="38" y="48" width="6" height="146" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Red field -->
+  <rect x="44" y="50" width="210" height="138" fill="#d01424"/>
+  <!-- Flag outline -->
+  <rect x="44" y="50" width="210" height="138" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Yellow star centred on flag -->
+  <use href="#bigstar" transform="translate(149,119)" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

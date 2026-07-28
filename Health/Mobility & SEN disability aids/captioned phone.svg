@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- phone base -->
+  <rect x="35" y="120" width="220" height="90" rx="10" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- caption screen on phone base -->
+  <rect x="50" y="135" width="190" height="60" rx="4" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- caption text lines -->
+  <rect x="58" y="143" width="120" height="5" rx="1.5" ry="1.5" fill="#000000"/>
+  <rect x="58" y="154" width="160" height="5" rx="1.5" ry="1.5" fill="#000000"/>
+  <rect x="58" y="165" width="140" height="5" rx="1.5" ry="1.5" fill="#000000"/>
+  <!-- highlighted current caption -->
+  <rect x="55" y="174" width="170" height="12" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="60" y="179" width="155" height="3" rx="1" ry="1" fill="#000000"/>
+
+  <!-- keypad hint dots -->
+  <circle cx="60" cy="203" r="2.5" fill="#b8b8b8"/>
+  <circle cx="75" cy="203" r="2.5" fill="#b8b8b8"/>
+  <circle cx="90" cy="203" r="2.5" fill="#b8b8b8"/>
+
+  <!-- phone handset on top -->
+  <path d="M 80 65 Q 80 40 110 40 L 200 40 Q 230 40 230 65 L 230 75 Q 230 85 215 85 L 200 85 Q 195 85 192 80 L 188 70 Q 185 65 175 65 L 135 65 Q 125 65 122 70 L 118 80 Q 115 85 110 85 L 95 85 Q 80 85 80 75 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- handset earpiece detail -->
+  <circle cx="100" cy="62" r="6" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="210" cy="62" r="6" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- cord from handset to base -->
+  <path d="M 210 85 Q 215 100 222 110 Q 225 115 230 118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- CC badge -->
+  <rect x="20" y="20" width="50" height="32" rx="6" ry="6" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- C 1 -->
+  <path d="M 40 30 Q 32 30 32 36 Q 32 42 40 42" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- C 2 -->
+  <path d="M 58 30 Q 50 30 50 36 Q 50 42 58 42" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Single music staff showing stacked notes forming MAJOR triad: root + maj 3rd + 5th -->
+
+  <!-- Staff page -->
+  <rect x="20" y="40" width="250" height="160" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- Five staff lines -->
+  <line x1="32" y1="70" x2="258" y2="70" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="32" y1="92" x2="258" y2="92" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="32" y1="114" x2="258" y2="114" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="32" y1="136" x2="258" y2="136" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="32" y1="158" x2="258" y2="158" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+
+  <!-- Treble clef -->
+  <path d="M44 56 Q60 56 60 78 Q60 112 50 132 Q44 150 60 164 Q78 164 78 142 Q78 114 60 96" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="60" cy="154" r="4" fill="#000000"/>
+
+  <!-- MAJOR triad: stacked notes - root (low) + major 3rd (skip one space) + 5th -->
+  <!-- Root note on bottom line (low) -->
+  <ellipse cx="148" cy="158" rx="11" ry="8" fill="#d01424" stroke="#1a1a1a" stroke-width="5.18" transform="rotate(-15 148 158)"/>
+  <!-- Major 3rd - skipping space (note on the middle line area) -->
+  <ellipse cx="148" cy="125" rx="11" ry="8" fill="#137827" stroke="#1a1a1a" stroke-width="5.18" transform="rotate(-15 148 125)"/>
+  <!-- 5th -->
+  <ellipse cx="148" cy="92" rx="11" ry="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.18" transform="rotate(-15 148 92)"/>
+
+  <!-- Shared stem -->
+  <line x1="158" y1="88" x2="158" y2="158" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+
+  <!-- Brackets showing MAJOR interval span (wider 3rd vs minor) on the right -->
+  <path d="M180 158 L200 158 L200 125 L180 125" fill="none" stroke="#ff9900" stroke-width="5.18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 125 L210 125 L210 92 L180 92" fill="none" stroke="#7c3fac" stroke-width="5.18" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Plus sign indicators between notes (showing summation/major) -->
+  <line x1="120" y1="138" x2="120" y2="148" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="115" y1="143" x2="125" y2="143" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="120" y1="105" x2="120" y2="115" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="115" y1="110" x2="125" y2="110" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Smiling face above to denote MAJOR (happy/bright) -->
+  <circle cx="234" cy="60" r="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.18"/>
+  <circle cx="226" cy="56" r="3" fill="#000000"/>
+  <circle cx="242" cy="56" r="3" fill="#000000"/>
+  <path d="M222 66 Q234 76 246 66" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Bar line -->
+  <line x1="254" y1="70" x2="254" y2="158" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+
+  <!-- Upward arrow showing wider major interval -->
+  <line x1="218" y1="185" x2="218" y2="170" stroke="#ff9900" stroke-width="5.18" stroke-linecap="round"/>
+  <polygon points="218,170 212,178 224,178" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

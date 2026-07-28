@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="102.79 129.24 306.42 306.42"><!-- pivot: a bar that rotates about a fixed central point, with curved arrows -->
+<!-- fixed base -->
+<polygon points="256 338 198 410 314 410" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rotating bar -->
+<rect x="120" y="306" width="272" height="40" rx="20" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" transform="rotate(-18 256 326)"/>
+<!-- pivot pin -->
+<circle cx="256" cy="326" r="26" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="326" r="7" fill="#1a1a1a"/>
+<!-- rotation arrow (single house-style path) --><path d="M 168.00 200.00 L 175.07 168.13 L 181.76 176.22 A 116.50 116.50 0 0 1 330.24 176.22 L 336.93 168.13 L 344.00 200.00 L 315.26 194.33 L 321.96 186.24 A 103.50 103.50 0 0 0 190.04 186.24 L 196.74 194.33 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</svg>

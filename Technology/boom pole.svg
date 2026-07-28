@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- hand grip on pole (handheld) -->
+  <rect x="35" y="160" width="40" height="28" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <line x1="45" y1="166" x2="65" y2="166" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="45" y1="174" x2="65" y2="174" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="45" y1="182" x2="65" y2="182" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- telescoping segments showing extension -->
+  <rect x="70" y="165" width="50" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <rect x="118" y="153" width="55" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <rect x="170" y="142" width="55" height="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- joint rings -->
+  <rect x="115" y="161" width="6" height="22" fill="#000000"/>
+  <rect x="167" y="150" width="6" height="18" fill="#000000"/>
+  <!-- mic at end (windscreen/blimp shape) -->
+  <ellipse cx="245" cy="140" rx="22" ry="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <ellipse cx="245" cy="140" rx="22" ry="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- fluffy texture lines -->
+  <path d="M228 134 L226 130 M232 132 L230 128 M238 132 L237 127 M245 131 L245 127 M252 132 L253 128 M258 134 L260 130" stroke="#5e1f0a" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M228 146 L226 150 M232 148 L230 152 M238 148 L237 153 M245 149 L245 153 M252 148 L253 152 M258 146 L260 150" stroke="#5e1f0a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- extension arrow indicator -->
+  <path d="M130 100 L210 100" stroke="#d01424" stroke-width="5.34" stroke-linecap="round"/>
+  <polygon points="210,100 200,95 200,105" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55"/>
+  <polygon points="130,100 140,95 140,105" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

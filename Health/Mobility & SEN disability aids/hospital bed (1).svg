@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Drip stand pole -->
+  <rect x="240" y="50" width="8" height="150" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Drip stand base (feet) -->
+  <line x1="220" y1="198" x2="268" y2="198" stroke="#b8b8b8" stroke-width="7.11" stroke-linecap="round"/>
+  <line x1="220" y1="198" x2="268" y2="198" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Drip stand hook -->
+  <path d="M244 52 Q260 42 258 55" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- IV bag -->
+  <rect x="248" y="55" width="20" height="28" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- IV tube -->
+  <line x1="258" y1="83" x2="258" y2="115" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+
+  <!-- Bed frame base -->
+  <rect x="30" y="155" width="195" height="18" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Mattress -->
+  <rect x="35" y="120" width="185" height="38" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pillow -->
+  <rect x="170" y="123" width="42" height="28" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sheet / blanket -->
+  <rect x="35" y="130" width="135" height="28" rx="5" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Bed head board -->
+  <rect x="195" y="100" width="20" height="58" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bed foot board -->
+  <rect x="28" y="113" width="18" height="62" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Side rails -->
+  <rect x="55" y="112" width="100" height="10" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Rail uprights -->
+  <line x1="80" y1="112" x2="80" y2="122" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="110" y1="112" x2="110" y2="122" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="140" y1="112" x2="140" y2="122" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+
+  <!-- Bed legs -->
+  <rect x="40" y="172" width="12" height="30" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="200" y="172" width="12" height="30" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wheels -->
+  <ellipse cx="46" cy="204" rx="8" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <ellipse cx="206" cy="204" rx="8" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

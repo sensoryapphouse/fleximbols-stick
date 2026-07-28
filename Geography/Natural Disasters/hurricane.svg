@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.9710) translate(-258.00 -267.50)">
+<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#16344f" stroke="#1a1a1a" stroke-width="0"/>
+<!-- sea backdrop -->
+<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#1d6fa5"/>
+<!-- subtle deep-sea swirl tint under the storm -->
+<circle cx="256" cy="256" r="232" fill="#1a5d8c"/>
+<!-- thick spiral cloud bands wrapping the eye (drawn dark base + light cloud on top) -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<!-- outer band -->
+<path d="M 256 40
+         C 382 40 472 130 472 256
+         C 472 356 398 424 308 424" stroke="#9fb4c2" stroke-width="92"/>
+<path d="M 256 40
+         C 382 40 472 130 472 256
+         C 472 356 398 424 308 424" stroke="#f3f7fa" stroke-width="74"/>
+<!-- middle band (opposite arm) -->
+<path d="M 256 472
+         C 130 472 40 382 40 256
+         C 40 156 114 88 204 88" stroke="#9fb4c2" stroke-width="88"/>
+<path d="M 256 472
+         C 130 472 40 382 40 256
+         C 40 156 114 88 204 88" stroke="#f3f7fa" stroke-width="70"/>
+<!-- inner band wrapping toward eye, arm 1 -->
+<path d="M 308 424
+         C 244 436 184 408 158 352
+         C 138 314 146 268 188 246" stroke="#a9bdca" stroke-width="66"/>
+<path d="M 308 424
+         C 244 436 184 408 158 352
+         C 138 314 146 268 188 246" stroke="#fbfdff" stroke-width="50"/>
+<!-- inner band wrapping toward eye, arm 2 -->
+<path d="M 204 88
+         C 268 76 328 104 354 160
+         C 374 198 366 244 324 266" stroke="#a9bdca" stroke-width="66"/>
+<path d="M 204 88
+         C 268 76 328 104 354 160
+         C 374 198 366 244 324 266" stroke="#fbfdff" stroke-width="50"/>
+<!-- tight inner curl arm 1, hugging the eye -->
+<path d="M 188 246
+         C 166 278 176 318 214 330
+         C 244 339 274 322 286 296" stroke="#fbfdff" stroke-width="40"/>
+<!-- tight inner curl arm 2, hugging the eye -->
+<path d="M 324 266
+         C 346 234 336 194 298 182
+         C 268 173 238 190 226 216" stroke="#fbfdff" stroke-width="40"/>
+</g>
+<!-- clear dark central EYE -->
+<circle cx="256" cy="256" r="40" fill="#0e4f78"/>
+<circle cx="256" cy="256" r="40" fill="none" stroke="#fbfdff" stroke-width="10"/>
+<circle cx="256" cy="256" r="20" fill="#0b3f60"/>
+</g></svg>

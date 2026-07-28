@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="120.75 84.91 320.00 320.00"><g transform="rotate(30 256 256)">
+<!-- dental handpiece / drill: pen-grip body with angled head + bur -->
+
+<!-- main body grip -->
+<rect x="226" y="176" width="60" height="224" rx="28" fill="#eef1f4" stroke="#1a1a1a" stroke-width="9"/>
+<!-- grip knurling band -->
+<rect x="226" y="248" width="60" height="60" rx="6" fill="#cdd3da" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="240" y1="256" x2="240" y2="300" stroke="#9aa7b1" stroke-width="4" stroke-linecap="round"/>
+<line x1="256" y1="256" x2="256" y2="300" stroke="#9aa7b1" stroke-width="4" stroke-linecap="round"/>
+<line x1="272" y1="256" x2="272" y2="300" stroke="#9aa7b1" stroke-width="4" stroke-linecap="round"/>
+
+<!-- angled head: a neck that bends forward off the body top, ending in the head -->
+<!-- neck bend (forward-leaning trapezoid off the body's top-left) -->
+<path d="M 230 182 L 286 182 L 300 138 L 258 122 Z"
+      fill="#cdd3da" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head bulb at the tip -->
+<circle cx="279" cy="130" r="22" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- chuck collar -->
+<circle cx="279" cy="130" r="9" fill="#9aa7b1" stroke="#1a1a1a" stroke-width="5"/>
+<!-- the bur sticks out of the head, perpendicular to the head (points up-left) -->
+<line x1="279" y1="130" x2="255" y2="82" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- bur cutting head -->
+<ellipse cx="252" cy="76" rx="11" ry="15" transform="rotate(-25 252 76)" fill="#6b7480" stroke="#1a1a1a" stroke-width="6"/>
+</g></svg>

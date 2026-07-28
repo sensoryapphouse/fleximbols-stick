@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- hanging string -->
+  <path d="M145 20 L145 60" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- loop at top -->
+  <ellipse cx="145" cy="22" rx="10" ry="8" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- mesh pouf body - layered scrunched mesh circles -->
+  <circle cx="145" cy="140" r="80" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="105" cy="115" r="35" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="185" cy="110" r="38" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="115" cy="175" r="32" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="180" r="34" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="140" r="28" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- mesh texture lines -->
+  <path d="M95 100 Q145 115 200 95" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M85 140 Q145 155 210 140" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M95 180 Q145 195 200 180" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M115 80 Q125 145 130 205" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M165 80 Q160 145 165 205" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <!-- central tie knot -->
+  <circle cx="145" cy="140" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

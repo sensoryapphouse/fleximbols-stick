@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- outermost pulse ring -->
+  <path d="M145 215 C110 195 22 148 22 82 C22 46 50 18 86 18 C112 18 134 32 145 50 C156 32 178 18 204 18 C240 18 268 46 268 82 C268 148 180 195 145 215 Z" fill="none" stroke="#f4a4b2" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- middle pulse ring -->
+  <path d="M145 207 C116 188 36 144 36 84 C36 52 58 30 88 30 C112 30 132 43 145 61 C158 43 178 30 202 30 C232 30 254 52 254 84 C254 144 174 188 145 207 Z" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- main heart (central, bold) -->
+  <path d="M145 198 C120 178 40 136 40 88 C40 60 60 40 88 40 C110 40 130 54 145 72 C160 54 180 40 202 40 C230 40 250 60 250 88 C250 136 170 178 145 198 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- heart highlight -->
+  <ellipse cx="112" cy="72" rx="17" ry="10" fill="#ffffff" transform="rotate(-30 112 72)"/>
+</g></svg>

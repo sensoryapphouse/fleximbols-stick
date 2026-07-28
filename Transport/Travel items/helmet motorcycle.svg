@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Full-face shell outer -->
+  <path d="M55 150 Q55 55 145 55 Q235 55 235 150 L235 170 Q235 195 210 200 L80 200 Q55 195 55 170 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Chin bar lower curve -->
+  <path d="M80 200 Q145 215 210 200" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Visor opening cutout (lighter) -->
+  <path d="M78 115 Q78 80 145 80 Q212 80 212 115 L212 148 Q212 158 145 160 Q78 158 78 148 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Visor glare highlight -->
+  <path d="M90 92 Q120 82 165 87" fill="none" stroke="#ffffff" stroke-width="3.95" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Visor bottom edge reinforcement -->
+  <path d="M78 148 Q145 162 212 148" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Air intake vent left -->
+  <rect x="85" y="165" width="30" height="10" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Air intake vent right -->
+  <rect x="175" y="165" width="30" height="10" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top ridge -->
+  <path d="M145 55 Q165 52 185 58" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ice cube partially melted -->
+  <polygon points="60,80 150,80 140,140 70,140" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- top shine -->
+  <polygon points="75,88 130,88 125,98 80,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- puddle below -->
+  <ellipse cx="100" cy="165" rx="55" ry="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- drips -->
+  <path d="M 80 140 Q 78 152 82 158 Q 86 152 84 140 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <path d="M 110 140 Q 108 154 112 160 Q 116 154 114 140 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <path d="M 130 140 Q 128 150 132 156 Q 136 150 134 140 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- thermometer rising -->
+  <rect x="200" y="40" width="28" height="140" rx="13" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="214" cy="190" r="24" fill="#d01424" stroke="#1a1a1a" stroke-width="5.34"/>
+  <rect x="207" y="90" width="14" height="100" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- rising arrow on thermometer -->
+  <g stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round" fill="#f8130d">
+    <line x1="245" y1="150" x2="245" y2="70"/>
+    <polygon points="240,75 250,75 245,60"/>
+  </g>
+</g></svg>

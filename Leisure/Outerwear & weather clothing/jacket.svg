@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 101.31 345.21 345.21">
+<!-- left sleeve -->
+<path d="M 156 168 L 110 210 L 134 268 L 176 240 Z" fill="#5a86c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve -->
+<path d="M 356 168 L 402 210 L 378 268 L 336 240 Z" fill="#5a86c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body -->
+<path d="M 156 168 L 200 138 L 312 138 L 356 168 L 336 240 L 340 400 L 256 410 L 172 400 L 176 240 Z" fill="#6f9ad8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- collar left -->
+<path d="M 200 138 L 256 176 L 240 200 L 212 158 Z" fill="#5a86c4" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- collar right -->
+<path d="M 312 138 L 256 176 L 272 200 L 300 158 Z" fill="#5a86c4" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- zip -->
+<line x1="256" y1="176" x2="256" y2="402" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- zip pull -->
+<circle cx="256" cy="200" r="9" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pocket left -->
+<line x1="198" y1="320" x2="240" y2="320" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- pocket right -->
+<line x1="272" y1="320" x2="314" y2="320" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</svg>

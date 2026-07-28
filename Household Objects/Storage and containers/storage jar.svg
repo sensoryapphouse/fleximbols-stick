@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Glass pantry jar with clamp/bail lid -->
+  <!-- Lid top cap -->
+  <rect x="105" y="38" width="80" height="18" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rubber seal band -->
+  <rect x="100" y="54" width="90" height="10" rx="4" ry="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Clamp wire bail left -->
+  <path d="M108 48 Q82 48 82 90 Q82 132 108 132" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Clamp wire bail right -->
+  <path d="M182 48 Q208 48 208 90 Q208 132 182 132" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Jar neck -->
+  <rect x="100" y="64" width="90" height="20" rx="4" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Jar body -->
+  <path d="M90 84 Q82 95 80 130 L80 185 Q80 200 145 200 Q210 200 210 185 L210 130 Q208 95 200 84 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Contents: golden honey/jam fill -->
+  <path d="M84 145 Q84 190 145 192 Q206 190 206 145 Q175 158 145 156 Q115 158 84 145 Z" fill="#f7de58" stroke="none"/>
+  <!-- Shine highlight on glass -->
+  <path d="M95 100 Q100 90 108 100" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

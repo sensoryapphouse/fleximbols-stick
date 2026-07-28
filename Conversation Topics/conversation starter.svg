@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left figure FULL BODY -->
+  <circle cx="50" cy="65" r="15" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M36 64 Q38 50 50 50 Q62 50 64 64 Q58 57 50 57 Q42 57 36 64 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="45" cy="65" r="1.5" fill="#000000"/>
+  <circle cx="55" cy="65" r="1.5" fill="#000000"/>
+  <path d="M44 72 Q50 76 56 72" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M34 80 L66 80 L64 140 L36 140 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M34 84 L22 120 L28 140" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <circle cx="28" cy="142" r="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M66 84 L78 110 L72 130" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <circle cx="72" cy="132" r="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M42 140 L40 200" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M58 140 L60 200" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <rect x="34" y="200" width="14" height="6" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="53" y="200" width="14" height="6" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- right figure FULL BODY -->
+  <circle cx="240" cy="65" r="15" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M225 65 Q225 48 240 48 Q255 48 255 65 L253 78 Q255 60 240 60 Q225 60 227 78 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="235" cy="65" r="1.5" fill="#000000"/>
+  <circle cx="245" cy="65" r="1.5" fill="#000000"/>
+  <path d="M234 72 Q240 76 246 72" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M224 80 L256 80 L254 140 L226 140 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M224 84 L212 110 L218 130" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <circle cx="218" cy="132" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M256 84 L268 120 L262 140" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <circle cx="262" cy="142" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M232 140 L230 200" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M248 140 L250 200" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <rect x="224" y="200" width="14" height="6" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="243" y="200" width="14" height="6" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- speech bubble (left tail) -->
+  <path d="M90 40 L200 40 Q210 40 210 50 L210 100 Q210 110 200 110 L120 110 L105 125 L110 110 L90 110 Q80 110 80 100 L80 50 Q80 40 90 40 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- chat bubbles icon inside speech bubble -->
+  <rect x="100" y="60" width="40" height="26" rx="6" ry="6" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="112" cy="73" r="2" fill="#ffffff"/>
+  <circle cx="120" cy="73" r="2" fill="#ffffff"/>
+  <circle cx="128" cy="73" r="2" fill="#ffffff"/>
+  <rect x="125" y="80" width="40" height="22" rx="6" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="91" r="2" fill="#ffffff"/>
+  <circle cx="143" cy="91" r="2" fill="#ffffff"/>
+  <circle cx="151" cy="91" r="2" fill="#ffffff"/>
+  <!-- lightbulb idea -->
+  <path d="M180 50 Q170 50 170 62 Q170 70 176 75 L176 82 L188 82 L188 75 Q194 70 194 62 Q194 50 184 50 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="178" y="84" width="8" height="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="179" y="89" width="6" height="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- lightbulb rays -->
+  <path d="M165 45 L160 40 M199 45 L204 40 M182 38 L182 33" fill="none" stroke="#f2e40d" stroke-width="5.56" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Smooth aerodynamic streak lines (tapering left to right) -->
+  <path d="M15,108 Q80,98 145,100" fill="none" stroke="#90a7d6" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M10,120 Q75,115 140,118" fill="none" stroke="#90a7d6" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M15,132 Q80,138 145,136" fill="none" stroke="#90a7d6" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M25,94 Q78,86 130,90" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M25,148" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M25,148 Q78,154 130,150" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Swift bird - sleek body -->
+  <!-- Main body - elongated aerodynamic teardrop -->
+  <ellipse cx="195" cy="118" rx="55" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Pointed beak/nose -->
+  <polygon points="248,118 268,115 268,121" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Swept-back wings -->
+  <!-- Upper wing sweeping back -->
+  <polygon points="175,110 145,68 210,100" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lower wing sweeping back -->
+  <polygon points="175,126 145,168 210,136" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wing tips lighter -->
+  <polygon points="145,68 130,60 160,82 175,110" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,168 130,176 160,154 175,126" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Forked tail -->
+  <polygon points="140,112 115,95 138,118" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="140,124 115,141 138,118" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <circle cx="240" cy="116" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="241" cy="116" r="2.5" fill="#000000"/>
+  <!-- Throat/chin white patch -->
+  <ellipse cx="252" cy="121" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

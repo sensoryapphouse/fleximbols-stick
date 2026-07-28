@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- base shoe / sole plate the blade cuts through -->
+<path d="M 70 372 L 360 372 L 360 400 L 70 400 Z" fill="#c9cfd5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="92" y1="386" x2="338" y2="386" stroke="#9aa0a6" stroke-width="5" stroke-linecap="round"/>
+<!-- blade -->
+<circle cx="210" cy="270" r="120" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- teeth -->
+<g fill="#9aa0a6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round">
+<polygon points="210,140 222,166 198,166"/>
+<polygon points="302,178 296,206 274,188"/>
+<polygon points="340,270 314,282 314,258"/>
+<polygon points="302,362 274,352 296,334"/>
+<polygon points="210,400 198,374 222,374"/>
+<polygon points="118,362 146,334 168,352"/>
+<polygon points="80,270 106,258 106,282"/>
+<polygon points="118,178 146,188 124,206"/>
+</g>
+<!-- hub -->
+<circle cx="210" cy="270" r="26" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="210" cy="270" r="9" fill="#1a1a1a"/>
+<!-- blade guard cover over upper half of blade -->
+<path d="M 90 270 A 120 120 0 0 1 330 270 L 330 230 Q 330 196 296 196 L 360 196 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 96 264 A 114 114 0 0 1 324 264 L 324 232 Q 324 208 300 208 L 120 208 Q 96 208 96 232 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- motor body -->
+<rect x="300" y="170" width="118" height="104" rx="16" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- vent lines on motor -->
+<line x1="392" y1="190" x2="392" y2="254" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="406" y1="200" x2="406" y2="244" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- rear trigger grip -->
+<path d="M 408 232 Q 458 232 458 286 Q 458 332 416 336 L 408 300 Q 430 296 430 274 Q 430 256 408 256 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- trigger -->
+<path d="M 408 280 L 392 286 L 392 300 L 408 300 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- top handle -->
+<path d="M 312 170 Q 360 108 410 170" fill="none" stroke="#1a1a1a" stroke-width="24" stroke-linecap="round"/>
+<path d="M 312 170 Q 360 108 410 170" fill="none" stroke="#f4c430" stroke-width="13" stroke-linecap="round"/>
+</svg>

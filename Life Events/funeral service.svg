@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- casket stand legs -->
+  <rect x="78" y="175" width="10" height="40" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="175" width="10" height="40" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- stand horizontal bar -->
+  <rect x="70" y="170" width="150" height="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- closed casket (hexagonal shape) -->
+  <path d="M68 135 L80 120 L210 120 L222 135 L210 170 L80 170 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- casket lid line -->
+  <path d="M68 135 L222 135" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- casket handles -->
+  <path d="M95 155 Q105 152 115 155" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M138 155 Q148 152 158 155" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M180 155 Q190 152 200 155" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- wreath on top (ring) -->
+  <ellipse cx="145" cy="110" rx="55" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="110" rx="40" ry="8" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- wreath flowers -->
+  <circle cx="105" cy="105" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="125" cy="100" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="145" cy="98" r="7" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="165" cy="100" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="185" cy="105" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- flower centres -->
+  <circle cx="105" cy="105" r="2" fill="#f2e40d"/>
+  <circle cx="125" cy="100" r="2" fill="#f2e40d"/>
+  <circle cx="145" cy="98" r="2" fill="#f2e40d"/>
+  <circle cx="165" cy="100" r="2" fill="#f2e40d"/>
+  <circle cx="185" cy="105" r="2" fill="#f2e40d"/>
+  <!-- left candle -->
+  <rect x="30" y="80" width="14" height="120" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left candle holder base -->
+  <rect x="24" y="200" width="26" height="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left wick -->
+  <rect x="36" y="73" width="2" height="8" fill="#000000"/>
+  <!-- left flame -->
+  <path d="M37 50 Q30 60 32 72 Q34 78 37 78 Q40 78 42 72 Q44 60 37 50 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <path d="M37 60 Q34 67 37 75 Q40 67 37 60 Z" fill="#f2e40d"/>
+  <!-- right candle -->
+  <rect x="246" y="80" width="14" height="120" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right candle holder base -->
+  <rect x="240" y="200" width="26" height="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right wick -->
+  <rect x="252" y="73" width="2" height="8" fill="#000000"/>
+  <!-- right flame -->
+  <path d="M253 50 Q246 60 248 72 Q250 78 253 78 Q256 78 258 72 Q260 60 253 50 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <path d="M253 60 Q250 67 253 75 Q256 67 253 60 Z" fill="#f2e40d"/>
+</g></svg>

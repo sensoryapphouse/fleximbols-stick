@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- flame underneath stand -->
+  <path d="M 130 215 Q 125 200 135 195 Q 140 205 145 195 Q 150 205 155 195 Q 165 200 160 215 Z"
+        fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 138 212 Q 140 202 145 200 Q 150 202 152 212 Z"
+        fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- stand base -->
+  <rect x="105" y="195" width="80" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- stand legs (sides) -->
+  <line x1="115" y1="195" x2="100" y2="170" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="175" y1="195" x2="190" y2="170" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- pot body -->
+  <path d="M 55 100 Q 50 170 100 175 L 190 175 Q 240 170 235 100 Z"
+        fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- pot rim -->
+  <ellipse cx="145" cy="100" rx="90" ry="18" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- melted cheese -->
+  <ellipse cx="145" cy="100" rx="80" ry="13" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="98" rx="70" ry="9" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- cheese drip down side -->
+  <path d="M 75 105 Q 72 120 78 130 Q 84 120 82 105" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- handles -->
+  <path d="M 55 115 Q 35 120 40 140 Q 50 140 60 130" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 235 115 Q 255 120 250 140 Q 240 140 230 130" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- skewer 1 with bread cube -->
+  <line x1="50" y1="40" x2="125" y2="95" stroke="#9d7246" stroke-width="5.93" stroke-linecap="round"/>
+  <rect x="115" y="80" width="20" height="18" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(35 125 89)"/>
+  <!-- skewer 2 with bread cube -->
+  <line x1="240" y1="40" x2="165" y2="95" stroke="#9d7246" stroke-width="5.93" stroke-linecap="round"/>
+  <rect x="155" y="80" width="20" height="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-35 165 89)"/>
+</g></svg>

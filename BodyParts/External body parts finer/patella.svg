@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Femur shaft -->
+  <rect x="118" y="18" width="54" height="82" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Femur condyles -->
+  <ellipse cx="132" cy="104" rx="21" ry="15" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="158" cy="104" rx="21" ry="15" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Joint cartilage strips -->
+  <rect x="110" y="116" width="70" height="9" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66"/>
+  <rect x="110" y="148" width="70" height="9" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Tibia plateau -->
+  <ellipse cx="145" cy="160" rx="32" ry="11" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tibia shaft -->
+  <rect x="120" y="158" width="50" height="68" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- PATELLA highlighted in red over the joint -->
+  <ellipse cx="145" cy="132" rx="27" ry="22" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Patella inner surface detail -->
+  <ellipse cx="145" cy="132" rx="15" ry="12" fill="#efefef" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Pointer line + dot -->
+  <line x1="172" y1="122" x2="215" y2="98" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <circle cx="215" cy="98" r="6" fill="#000000"/>
+</g></svg>

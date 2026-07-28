@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Serving bowl / container - oval dish -->
+  <ellipse cx="145" cy="205" rx="105" ry="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40"/>
+  <path d="M40,185 Q40,215 145,222 Q250,215 250,185 L250,175 Q250,162 145,158 Q40,162 40,175 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Fries layer - golden straight fries visible under gravy -->
+  <rect x="62" y="148" width="10" height="38" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="78" y="142" width="10" height="44" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="94" y="148" width="10" height="38" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="110" y="140" width="10" height="46" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="126" y="145" width="10" height="41" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="142" y="138" width="10" height="48" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="158" y="143" width="10" height="43" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="174" y="147" width="10" height="39" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="190" y="141" width="10" height="45" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="206" y="149" width="10" height="37" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Brown gravy pooling over the fries -->
+  <ellipse cx="145" cy="168" rx="95" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Gravy pooling curves/drips -->
+  <path d="M60,168 Q55,178 65,182 Q75,175 70,168 Z" fill="#5e1f0a" stroke="none"/>
+  <path d="M210,170 Q218,180 210,186 Q202,178 205,170 Z" fill="#5e1f0a" stroke="none"/>
+  <!-- White cheese curds scattered on top of gravy -->
+  <ellipse cx="95" cy="162" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="125" cy="157" rx="10" ry="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="150" cy="160" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="178" cy="155" rx="11" ry="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="108" cy="170" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="165" cy="168" rx="10" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="195" cy="163" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Gravy drizzle lines on top of curds -->
+  <path d="M80,160 Q100,165 120,158" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M140,155 Q158,162 175,155" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

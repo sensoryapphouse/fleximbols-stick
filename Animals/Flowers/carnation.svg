@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stem -->
+  <line x1="145" y1="185" x2="145" y2="225" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Two small leaves on stem -->
+  <ellipse cx="130" cy="200" rx="14" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 130 200)"/>
+  <ellipse cx="160" cy="208" rx="14" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 160 208)"/>
+  <!-- Tubular calyx base (green sepals) -->
+  <rect x="134" y="163" width="22" height="25" rx="6" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Calyx teeth -->
+  <polygon points="134,163 137,153 140,163" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="140,163 143,151 146,163" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="146,163 149,151 152,163" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="152,163 155,153 158,163" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Back ruffled petals layer -->
+  <path d="M110,145 Q113,120 120,110 Q128,98 145,95 Q162,98 170,110 Q177,120 180,145 Q170,155 145,158 Q120,155 110,145 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Frilly jagged edge of back petals -->
+  <path d="M110,145 Q114,137 118,138 Q121,129 125,132 Q128,122 132,126 Q135,115 140,120 Q143,110 145,115 Q147,110 150,120 Q155,115 158,126 Q162,122 165,132 Q169,129 172,138 Q176,137 180,145" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Middle petal layer - ruffled -->
+  <path d="M116,148 Q118,128 125,116 Q132,104 145,101 Q158,104 165,116 Q172,128 174,148 Q165,158 145,160 Q125,158 116,148 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Jagged fringe top edge -->
+  <path d="M116,148 Q120,138 124,140 Q127,129 131,133 Q134,121 138,127 Q141,116 145,122 Q149,116 152,127 Q156,121 159,133 Q163,129 166,140 Q170,138 174,148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Front centre petals -->
+  <path d="M122,150 Q123,133 130,121 Q136,111 145,108 Q154,111 160,121 Q167,133 168,150 Q160,162 145,164 Q130,162 122,150 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Jagged fringe front -->
+  <path d="M122,150 Q126,140 130,143 Q133,131 137,135 Q140,123 144,129 Q145,118 145,125 Q146,118 146,129 Q150,123 153,135 Q157,131 160,143 Q164,140 168,150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

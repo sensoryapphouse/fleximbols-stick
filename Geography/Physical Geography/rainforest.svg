@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -256.00)">
+<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#d6efd0" stroke="#1a1a1a" stroke-width="0"/>
+<!-- forest floor / lush undergrowth -->
+<rect x="0.0" y="452.0" width="512.0" height="60.0" rx="0" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0"/>
+
+<!-- tall EMERGENT tree rising above the canopy (centre) -->
+<rect x="244.0" y="120.0" width="26.0" height="332.0" rx="0" fill="#7a5230" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="257.0" cy="110.0" r="92.0" fill="#1f6b34" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="206.0" cy="138.0" r="60.0" fill="#1f6b34" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="308.0" cy="138.0" r="60.0" fill="#1f6b34" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="257.0" cy="70.0" r="58.0" fill="#1f6b34" stroke="#1a1a1a" stroke-width="0"/>
+
+<!-- mid-canopy trees (lower, forming layered canopy) -->
+<rect x="92.0" y="300.0" width="22.0" height="152.0" rx="0" fill="#7a5230" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="398.0" y="300.0" width="22.0" height="152.0" rx="0" fill="#7a5230" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="103.0" cy="290.0" r="84.0" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="56.0" cy="316.0" r="52.0" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="150.0" cy="316.0" r="52.0" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="409.0" cy="290.0" r="84.0" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="362.0" cy="316.0" r="52.0" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="456.0" cy="316.0" r="52.0" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0"/>
+
+<!-- continuous dense canopy band tying the layers together -->
+<circle cx="178.0" cy="232.0" r="74.0" fill="#3fae5a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="334.0" cy="232.0" r="74.0" fill="#3fae5a" stroke="#1a1a1a" stroke-width="0"/>
+
+<!-- hanging vines from the canopy -->
+<path d="M 150 250 Q 142 320 150 392" fill="none" stroke="#1f6b34" stroke-width="9" stroke-linecap="round"/>
+<circle cx="150" cy="396" r="13" fill="#3fae5a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 360 250 Q 370 330 360 410" fill="none" stroke="#1f6b34" stroke-width="9" stroke-linecap="round"/>
+<circle cx="360" cy="414" r="13" fill="#3fae5a" stroke="#1a1a1a" stroke-width="0"/>
+
+<!-- large tropical leaves in the undergrowth -->
+<path d="M 70 452 Q 40 400 84 376 Q 96 420 70 452 Z" fill="#1f6b34" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 110 452 Q 150 404 132 360 Q 96 396 110 452 Z" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 440 452 Q 472 400 428 376 Q 416 420 440 452 Z" fill="#1f6b34" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 402 452 Q 362 404 380 360 Q 416 396 402 452 Z" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0"/>
+
+<!-- bold streaking rain that survives downscaling: drop + slanted streak -->
+<g stroke="#2b86b3" stroke-width="11" stroke-linecap="round" fill="none">
+<line x1="150" y1="298" x2="138" y2="344"/>
+<line x1="206" y1="318" x2="194" y2="364"/>
+<line x1="262" y1="300" x2="250" y2="346"/>
+<line x1="318" y1="318" x2="306" y2="364"/>
+<line x1="374" y1="298" x2="362" y2="344"/>
+<line x1="178" y1="382" x2="166" y2="424"/>
+<line x1="234" y1="396" x2="222" y2="438"/>
+<line x1="290" y1="396" x2="278" y2="438"/>
+<line x1="346" y1="382" x2="334" y2="424"/>
+</g>
+<g fill="#3aa6d6" stroke="#1a1a1a" stroke-width="0">
+<path d="M 150 286 q -14 20 0 30 q 14 -10 0 -30 Z"/>
+<path d="M 206 306 q -14 20 0 30 q 14 -10 0 -30 Z"/>
+<path d="M 262 288 q -14 20 0 30 q 14 -10 0 -30 Z"/>
+<path d="M 318 306 q -14 20 0 30 q 14 -10 0 -30 Z"/>
+<path d="M 374 286 q -14 20 0 30 q 14 -10 0 -30 Z"/>
+<path d="M 178 370 q -13 19 0 28 q 13 -10 0 -28 Z"/>
+<path d="M 234 384 q -13 19 0 28 q 13 -10 0 -28 Z"/>
+<path d="M 290 384 q -13 19 0 28 q 13 -10 0 -28 Z"/>
+<path d="M 346 370 q -13 19 0 28 q 13 -10 0 -28 Z"/>
+</g>
+</g></svg>

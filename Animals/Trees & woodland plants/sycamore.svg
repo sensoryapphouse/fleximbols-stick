@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Trunk base — mottled patchwork bark: lay base then patches -->
+  <!-- Trunk base colour -->
+  <rect x="122" y="145" width="46" height="68" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Mottled bark patches: cream/grey/tan irregular spots on trunk -->
+  <rect x="126" y="150" width="12" height="10" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="142" y="148" width="10" height="12" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="155" y="153" width="9" height="9" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="128" y="165" width="11" height="11" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="143" y="164" width="13" height="9" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="167" width="8" height="12" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="180" width="10" height="10" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="178" width="12" height="11" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="156" y="182" width="10" height="9" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="127" y="195" width="11" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="143" y="193" width="10" height="12" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="157" y="196" width="9" height="9" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Large broad spreading canopy -->
+  <ellipse cx="145" cy="110" rx="100" ry="65" fill="#529929" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Inner canopy shading -->
+  <ellipse cx="130" cy="105" rx="60" ry="45" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="165" cy="118" rx="50" ry="38" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="145" cy="95" rx="55" ry="35" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+</g></svg>

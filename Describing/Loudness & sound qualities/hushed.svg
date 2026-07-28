@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="113.88 66.95 349.09 349.09"><!-- hushed: a bell muffled by a hand, only tiny soft waves -->
+<!-- bell -->
+<path d="M 256 130 Q 220 130 220 166 Q 160 196 160 300 Q 160 320 142 336 L 370 336 Q 352 320 352 300 Q 352 196 292 166 Q 292 130 256 130 Z" fill="#f3d27a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top knob -->
+<circle cx="256" cy="124" r="16" fill="#f3d27a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- clapper -->
+<circle cx="256" cy="356" r="20" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- muffling hand cupped over the lower bell -->
+<path d="M 158 300 Q 196 270 268 280 Q 356 292 372 330 Q 378 354 344 364 Q 256 388 184 362 Q 134 342 142 314 Q 146 304 158 300 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- fingers on hand -->
+<g fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round">
+<path d="M 206 302 Q 214 332 202 356"/>
+<path d="M 252 300 Q 260 334 248 360"/>
+<path d="M 298 304 Q 306 334 294 358"/>
+</g>
+<!-- tiny muffled waves -->
+<g fill="none" stroke="#2f9e4a" stroke-width="7" stroke-linecap="round">
+<path d="M 398 220 Q 412 210 422 220"/>
+<path d="M 408 246 Q 424 234 438 246"/>
+</g>
+</svg>

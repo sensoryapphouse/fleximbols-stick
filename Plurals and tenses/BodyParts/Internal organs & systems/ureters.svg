@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Torso ghost -->
+  <path d="M105 30 C90 30 75 45 72 65 L60 160 C58 175 65 195 80 200 L145 210 L210 200 C225 195 232 175 230 160 L218 65 C215 45 200 30 185 30 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="125" y="14" width="40" height="22" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Left kidney (context) -->
+  <path d="M102 115 C98 110 95 105 96 99 C97 93 102 90 108 91 C114 92 117 97 117 103 C117 110 114 116 110 119 C107 121 104 119 102 115 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right kidney (context) -->
+  <path d="M188 115 C192 110 195 105 194 99 C193 93 188 90 182 91 C176 92 173 97 173 103 C173 110 176 116 180 119 C183 121 186 119 188 115 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bladder (context, yellow) -->
+  <ellipse cx="145" cy="185" rx="30" ry="23" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- LEFT URETER: thin tube from left kidney down to bladder, highlighted -->
+  <path d="M108 119 C107 128 107 140 110 152 C112 162 116 170 120 176 C124 181 130 184 136 184" fill="none" stroke="#2a4ec0" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 119 C107 128 107 140 110 152 C112 162 116 170 120 176 C124 181 130 184 136 184" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- RIGHT URETER: thin tube from right kidney down to bladder -->
+  <path d="M182 119 C183 128 183 140 180 152 C178 162 174 170 170 176 C166 181 160 184 154 184" fill="none" stroke="#2a4ec0" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M182 119 C183 128 183 140 180 152 C178 162 174 170 170 176 C166 181 160 184 154 184" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Direction arrows on ureters -->
+  <circle cx="110" cy="152" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="180" cy="152" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Pointer dot -->
+  <circle cx="145" cy="165" r="5" fill="#000000"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg712" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg712)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

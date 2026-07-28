@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Round springform cake pan with side latch -->
+  <!-- Body cylinder (side view, slightly 3D) -->
+  <path d="M 45 75 L 45 180 Q 45 195 145 195 Q 245 195 245 180 L 245 75 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top rim ellipse -->
+  <ellipse cx="145" cy="75" rx="100" ry="20" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner cavity -->
+  <ellipse cx="145" cy="75" rx="88" ry="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Removable bottom seam line around middle -->
+  <path d="M 45 165 Q 145 178 245 165" fill="none" stroke="#4d4d4d" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Side latch / clip mechanism on the right -->
+  <rect x="245" y="100" width="22" height="40" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Latch lever sticking out -->
+  <path d="M 267 110 L 282 105 L 282 120 L 267 125 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Latch hinge pin -->
+  <circle cx="256" cy="120" r="3" fill="#000000"/>
+  <!-- Latch band running around pan (horizontal) -->
+  <path d="M 45 115 L 245 115" fill="none" stroke="#4d4d4d" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M 45 125 L 245 125" fill="none" stroke="#4d4d4d" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

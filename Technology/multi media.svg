@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- monitor (top left) -->
+<rect x="96" y="110" width="170" height="130" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="116" y="128" width="130" height="94" rx="4" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="160" y="240" width="42" height="22" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="138" y="262" width="86" height="14" rx="5" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- speaker + sound (top right) -->
+<path d="M 300 150 L 332 150 L 366 122 L 366 218 L 332 190 L 300 190 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 386 140 Q 410 170 386 200" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 404 122 Q 442 170 404 218" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- video camera (bottom) -->
+<rect x="150" y="300" width="150" height="100" rx="10" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 300 330 L 356 305 L 356 395 L 300 370 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="200" cy="350" r="26" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="200" cy="350" r="11" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

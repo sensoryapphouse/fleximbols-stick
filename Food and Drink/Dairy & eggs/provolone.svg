@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hanging string from ceiling bar -->
+  <line x1="145" y1="20" x2="145" y2="55" stroke="#9d7246" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Ceiling bar -->
+  <line x1="100" y1="20" x2="190" y2="20" stroke="#5e1f0a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Tied knot at top of cheese -->
+  <ellipse cx="145" cy="60" rx="14" ry="8" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 135 60 Q 145 52 155 60" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pear/teardrop shaped smoked provolone body -->
+  <path d="M 131 64 Q 95 85 90 130 Q 88 175 120 205 Q 145 220 170 205 Q 202 175 200 130 Q 195 85 159 64 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Smoked surface - slightly darker gradient suggestion via a band -->
+  <path d="M 131 64 Q 95 85 90 130 Q 89 150 95 168" fill="none" stroke="#9d7246" stroke-width="14.23" stroke-linecap="round"/>
+  <path d="M 159 64 Q 195 85 200 130 Q 201 150 195 168" fill="none" stroke="#9d7246" stroke-width="14.23" stroke-linecap="round"/>
+  <!-- Smoked rind texture lines horizontal wrap -->
+  <path d="M 98 120 Q 145 112 192 120" fill="none" stroke="#9d7246" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M 95 140 Q 145 132 195 140" fill="none" stroke="#9d7246" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M 96 160 Q 145 152 194 160" fill="none" stroke="#9d7246" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M 100 180 Q 145 172 190 180" fill="none" stroke="#9d7246" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- Golden brown smoked surface highlight -->
+  <ellipse cx="128" cy="105" rx="16" ry="22" fill="#eed5b6" stroke="none"/>
+</g></svg>

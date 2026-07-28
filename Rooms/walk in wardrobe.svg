@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- walk-in-closet: room lined with hanging clothes rails + shoe shelves -->
+  <!-- room walls -->
+  <rect x="26" y="28" width="238" height="176" rx="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- floor -->
+  <rect x="26" y="178" width="238" height="26" rx="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- LEFT clothes rail + hanging garments -->
+  <!-- rail support bracket left -->
+  <line x1="46" y1="36" x2="46" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="46" y1="80" x2="60" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- left rail bar -->
+  <rect x="36" y="78" width="88" height="6" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- right support bracket left rail -->
+  <line x1="116" y1="36" x2="116" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="116" y1="80" x2="102" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- hanging garments left rail: dress + shirt + jacket -->
+  <!-- hanger 1 -->
+  <path d="M60,78 L56,98 L76,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="50" y="98" width="32" height="44" rx="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- hanger 2 -->
+  <path d="M84,78 L80,98 L100,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="74" y="98" width="32" height="44" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- collar on shirt -->
+  <path d="M82,98 Q90,106 98,98" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- hanger 3 -->
+  <path d="M106,78 L102,98 L116,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="96" y="98" width="26" height="38" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- RIGHT clothes rail + hanging garments -->
+  <line x1="174" y1="36" x2="174" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="174" y1="80" x2="188" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="164" y="78" width="88" height="6" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="244" y1="36" x2="244" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="244" y1="80" x2="230" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- hangers right rail -->
+  <path d="M188,78 L184,98 L204,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="178" y="98" width="32" height="44" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M212,78 L208,98 L228,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="202" y="98" width="32" height="44" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- SHOE SHELVES (bottom area, both sides) -->
+  <!-- left shoe shelf -->
+  <rect x="36" y="158" width="100" height="8" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- shoes on left shelf -->
+  <ellipse cx="58" cy="155" rx="14" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="90" cy="155" rx="14" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="122" cy="155" rx="10" ry="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- right shoe shelf -->
+  <rect x="152" y="158" width="102" height="8" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- shoes on right shelf -->
+  <ellipse cx="174" cy="155" rx="14" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="206" cy="155" rx="14" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="236" cy="155" rx="10" ry="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

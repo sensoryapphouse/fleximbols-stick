@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pair of felted wool slippers, three-quarter view -->
+  <!-- Slipper 1 (left) -->
+  <!-- Sole -->
+  <path d="M 30 175 Q 25 200 55 205 L 130 205 Q 145 205 145 192 L 145 178 Q 140 162 120 160 L 65 162 Q 35 162 30 175 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Upper -->
+  <path d="M 35 168 Q 30 130 70 122 L 115 122 Q 140 125 142 160 L 142 175 Q 140 182 130 182 L 50 182 Q 38 180 35 168 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.78" stroke-linejoin="round"/>
+  <!-- Felted wool texture - soft fluffy bumps along top -->
+  <g stroke="#1a1a1a" stroke-width="3.33" fill="#f5e7c4">
+    <circle cx="50" cy="135" r="4"/>
+    <circle cx="62" cy="128" r="4"/>
+    <circle cx="76" cy="124" r="4"/>
+    <circle cx="92" cy="123" r="4"/>
+    <circle cx="108" cy="124" r="4"/>
+    <circle cx="124" cy="128" r="4"/>
+    <circle cx="135" cy="135" r="4"/>
+  </g>
+  <!-- Cuff trim (fluffy felt rim) -->
+  <path d="M 38 150 Q 50 142 70 140 L 115 140 Q 135 142 142 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Decorative felt flower -->
+  <g stroke="#1a1a1a" stroke-width="4.00">
+    <circle cx="85" cy="165" r="4" fill="#f266aa"/>
+    <circle cx="78" cy="160" r="4" fill="#f4a4b2"/>
+    <circle cx="92" cy="160" r="4" fill="#f4a4b2"/>
+    <circle cx="78" cy="170" r="4" fill="#f4a4b2"/>
+    <circle cx="92" cy="170" r="4" fill="#f4a4b2"/>
+    <circle cx="85" cy="165" r="2" fill="#f7de58"/>
+  </g>
+
+  <!-- Slipper 2 (right) - smaller, behind -->
+  <!-- Sole -->
+  <path d="M 145 145 Q 142 168 170 172 L 240 172 Q 255 172 255 160 L 255 148 Q 250 134 232 132 L 178 134 Q 150 134 145 145 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Upper -->
+  <path d="M 150 138 Q 145 102 182 94 L 225 94 Q 250 97 252 130 L 252 145 Q 250 152 240 152 L 165 152 Q 152 150 150 138 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.78" stroke-linejoin="round"/>
+  <!-- Fluffy felt bumps -->
+  <g stroke="#1a1a1a" stroke-width="3.33" fill="#f5e7c4">
+    <circle cx="163" cy="107" r="4"/>
+    <circle cx="175" cy="100" r="4"/>
+    <circle cx="189" cy="96" r="4"/>
+    <circle cx="205" cy="95" r="4"/>
+    <circle cx="221" cy="96" r="4"/>
+    <circle cx="237" cy="100" r="4"/>
+    <circle cx="248" cy="107" r="4"/>
+  </g>
+  <!-- Cuff rim -->
+  <path d="M 152 122 Q 165 114 185 112 L 225 112 Q 245 114 252 124" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Felt flower -->
+  <g stroke="#1a1a1a" stroke-width="4.00">
+    <circle cx="198" cy="135" r="4" fill="#f266aa"/>
+    <circle cx="191" cy="130" r="4" fill="#f4a4b2"/>
+    <circle cx="205" cy="130" r="4" fill="#f4a4b2"/>
+    <circle cx="191" cy="140" r="4" fill="#f4a4b2"/>
+    <circle cx="205" cy="140" r="4" fill="#f4a4b2"/>
+    <circle cx="198" cy="135" r="2" fill="#f7de58"/>
+  </g>
+</g></svg>

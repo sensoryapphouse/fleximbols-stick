@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Small box floating mid-air (left) -->
+  <rect x="40" y="120" width="60" height="60" rx="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Box detail cross lines -->
+  <line x1="40" y1="150" x2="100" y2="150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="70" y1="120" x2="70" y2="180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Up arrows above box (left) -->
+  <line x1="55" y1="115" x2="55" y2="80" stroke="#2a4ec0" stroke-width="7.40" stroke-linecap="round"/>
+  <polygon points="55,72 46,92 64,92" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="85" y1="115" x2="85" y2="80" stroke="#2a4ec0" stroke-width="7.40" stroke-linecap="round"/>
+  <polygon points="85,72 76,92 94,92" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Feather (right side) -->
+  <!-- Quill shaft -->
+  <line x1="185" y1="205" x2="240" y2="50" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Feather left barbs -->
+  <path d="M190,195 Q175,175 178,160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M198,178 Q180,158 185,143" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M206,162 Q188,142 193,126" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M214,145 Q196,125 201,110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M221,128 Q204,108 209,92" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Feather right barbs -->
+  <path d="M193,193 Q212,178 208,163" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M201,177 Q220,162 216,146" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M209,160 Q228,145 224,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M217,143 Q236,128 232,112" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M225,126 Q244,111 240,96" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Feather vane fill left -->
+  <path d="M185,205 Q162,168 178,128 Q193,88 240,50 Q218,80 210,108 Q200,138 185,205Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Feather vane fill right -->
+  <path d="M185,205 Q212,182 226,152 Q240,118 240,50 Q232,82 222,110 Q210,142 185,205Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Up arrow above feather (centre-right) -->
+  <line x1="160" y1="90" x2="160" y2="55" stroke="#2a4ec0" stroke-width="7.40" stroke-linecap="round"/>
+  <polygon points="160,47 151,67 169,67" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="56.24 49.42 399.52 399.52"><!-- tennis racket -->
+<!-- handle -->
+<rect x="238" y="320" width="36" height="100" rx="12" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- grip wrap lines -->
+<line x1="240" y1="345" x2="272" y2="335" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="240" y1="370" x2="272" y2="360" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="240" y1="395" x2="272" y2="385" stroke="#1a1a1a" stroke-width="5"/>
+<!-- throat -->
+<path d="M 240 325 L 218 270 M 272 325 L 294 270" fill="none" stroke="#3d7fb5" stroke-width="11" stroke-linecap="round"/>
+<!-- frame (head) -->
+<ellipse cx="256" cy="200" rx="98" ry="118" fill="#fff" stroke="#3d7fb5" stroke-width="14"/>
+<ellipse cx="256" cy="200" rx="98" ry="118" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+<!-- strings -->
+<g stroke="#b9bdc2" stroke-width="4">
+<line x1="200" y1="92" x2="200" y2="308"/>
+<line x1="228" y1="86" x2="228" y2="314"/>
+<line x1="256" y1="84" x2="256" y2="316"/>
+<line x1="284" y1="86" x2="284" y2="314"/>
+<line x1="312" y1="92" x2="312" y2="308"/>
+<line x1="162" y1="150" x2="350" y2="150"/>
+<line x1="158" y1="180" x2="354" y2="180"/>
+<line x1="158" y1="210" x2="354" y2="210"/>
+<line x1="158" y1="240" x2="354" y2="240"/>
+<line x1="166" y1="270" x2="346" y2="270"/>
+</g>
+</svg>

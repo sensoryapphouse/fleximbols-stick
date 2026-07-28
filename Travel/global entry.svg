@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- world map globe (background subject) -->
+  <circle cx="80" cy="80" r="42" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- continents -->
+  <path d="M55 65 Q65 55 80 60 Q90 70 85 80 Q75 85 65 80 Q55 75 55 65 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M90 90 Q105 85 110 95 Q108 105 95 108 Q85 102 90 90 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M55 95 Q65 90 75 100 Q72 110 60 108 Q50 102 55 95 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- meridian -->
+  <ellipse cx="80" cy="80" rx="20" ry="42" fill="none" stroke="#dff3fd" stroke-width="3.33"/>
+  <line x1="38" y1="80" x2="122" y2="80" stroke="#dff3fd" stroke-width="3.33"/>
+
+  <!-- passport (left bottom) -->
+  <rect x="20" y="135" width="80" height="85" rx="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="60" cy="170" r="14" fill="none" stroke="#f2e40d" stroke-width="5.56"/>
+  <path d="M50 170 Q60 160 70 170 Q60 180 50 170 Z" fill="none" stroke="#f2e40d" stroke-width="4.45"/>
+  <line x1="46" y1="170" x2="74" y2="170" stroke="#f2e40d" stroke-width="3.33"/>
+  <line x1="60" y1="156" x2="60" y2="184" stroke="#f2e40d" stroke-width="3.33"/>
+  <rect x="35" y="195" width="50" height="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="35" y="202" width="35" height="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- kiosk (right) -->
+  <rect x="180" y="100" width="80" height="120" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- kiosk screen -->
+  <rect x="190" y="110" width="60" height="50" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- airplane on screen -->
+  <path d="M198 135 L222 135 L222 128 L235 138 L222 148 L222 141 L198 141 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- card slot -->
+  <rect x="195" y="170" width="50" height="6" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- scanner pad -->
+  <rect x="195" y="185" width="50" height="25" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="197" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- global entry card (center) -->
+  <rect x="105" y="140" width="70" height="44" rx="5" fill="#137827" stroke="#1a1a1a" stroke-width="5.56" transform="rotate(-8 140 162)"/>
+  <circle cx="125" cy="158" r="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-8 140 162)"/>
+  <rect x="138" y="153" width="32" height="3" fill="#ffffff" transform="rotate(-8 140 162)"/>
+  <rect x="138" y="160" width="28" height="3" fill="#ffffff" transform="rotate(-8 140 162)"/>
+  <rect x="138" y="167" width="22" height="3" fill="#ffffff" transform="rotate(-8 140 162)"/>
+
+  <!-- green checkmark badge top right -->
+  <circle cx="240" cy="50" r="24" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M228 51 L237 62 L253 38" fill="none" stroke="#ffffff" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

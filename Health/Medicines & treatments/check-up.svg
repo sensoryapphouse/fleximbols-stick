@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="55.12 79.01 389.82 389.82"><!-- check-up: stethoscope (doctor's examination) -->
+<!-- headband arc joining the two ear tubes -->
+<path d="M 170 150 Q 170 108 214 108 Q 258 108 258 150" fill="none" stroke="#3aa6d6" stroke-width="16" stroke-linecap="round"/>
+<!-- left ear tube down to Y -->
+<path d="M 170 150 Q 168 250 214 300" fill="none" stroke="#3aa6d6" stroke-width="16" stroke-linecap="round"/>
+<!-- right ear tube down to Y -->
+<path d="M 258 150 Q 260 250 214 300" fill="none" stroke="#3aa6d6" stroke-width="16" stroke-linecap="round"/>
+<!-- single tube from Y down to chestpiece -->
+<path d="M 214 300 Q 214 360 256 388" fill="none" stroke="#3aa6d6" stroke-width="16" stroke-linecap="round"/>
+<!-- ear tips -->
+<circle cx="170" cy="150" r="15" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="258" cy="150" r="15" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="7"/>
+<!-- chestpiece: round diaphragm -->
+<circle cx="300" cy="400" r="58" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="300" cy="400" r="30" fill="#bcd0dc" stroke="#1a1a1a" stroke-width="7"/>
+<!-- short connector stem from tube into chestpiece top -->
+<rect x="286" y="330" width="28" height="26" rx="6" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Squeeze tube body (tall, slim, slightly wider at bottom) -->
+  <path d="M 110 210 Q 105 208 103 190 L 100 120 Q 100 110 115 108 L 175 108 Q 190 110 190 120 L 187 190 Q 185 208 180 210 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tube bottom crimp (sealed flat end) -->
+  <path d="M 108 205 Q 145 215 182 205 L 180 210 Q 145 222 110 210 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.74" stroke-linejoin="round"/>
+  <!-- Crimp fold lines -->
+  <line x1="125" y1="208" x2="127" y2="218" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="145" y1="210" x2="145" y2="220" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="163" y1="208" x2="161" y2="218" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Tube shoulder narrowing to neck -->
+  <path d="M 115 108 Q 115 92 128 82 L 162 82 Q 175 92 175 108 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round"/>
+  <!-- Tube neck -->
+  <rect x="132" y="58" width="26" height="26" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round"/>
+  <!-- Pointed cap -->
+  <path d="M 130 58 L 145 22 L 160 58 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round"/>
+  <!-- Cap base ridge -->
+  <rect x="128" y="54" width="34" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.74" stroke-linejoin="round"/>
+  <!-- Label area on tube -->
+  <rect x="108" y="128" width="74" height="55" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Smoothing swatch icon: a small wave/smear -->
+  <path d="M 118 148 Q 130 140 145 148 Q 160 156 172 148" fill="none" stroke="#90a7d6" stroke-width="4.74" stroke-linecap="round"/>
+  <path d="M 118 158 Q 130 150 145 158 Q 160 166 172 158" fill="none" stroke="#b8b8b8" stroke-width="4.15" stroke-linecap="round"/>
+  <!-- "P" label mark abbreviated as short horizontal lines -->
+  <line x1="120" y1="133" x2="165" y2="133" stroke="#90a7d6" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="122" y1="138" x2="160" y2="138" stroke="#90a7d6" stroke-width="2.37" stroke-linecap="round"/>
+</g></svg>

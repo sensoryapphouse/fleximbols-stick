@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- desk phone -->
+  <rect x="36" y="138" width="120" height="60" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="48" y="152" width="96" height="34" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- keypad dots -->
+  <circle cx="64" cy="164" r="3" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="80" cy="164" r="3" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="96" cy="164" r="3" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="64" cy="178" r="3" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="80" cy="178" r="3" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="96" cy="178" r="3" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- handset -->
+  <path d="M40 130 Q40 110 60 110 L132 110 Q152 110 152 130 L142 130 Q142 120 132 120 L60 120 Q50 120 50 130 Z" fill="#000000" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="50" cy="126" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="142" cy="126" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tapped wire with alligator clip -->
+  <path d="M156 178 Q200 178 220 150" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M150 174 L168 174 L168 184 L150 184 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- listening device / recorder -->
+  <rect x="200" y="140" width="76" height="58" rx="6" fill="#000000" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="208" y="148" width="60" height="20" rx="2" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- spinning reels -->
+  <circle cx="220" cy="182" r="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="182" r="3" fill="#000000"/>
+  <circle cx="256" cy="182" r="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="256" cy="182" r="3" fill="#000000"/>
+  <!-- red REC light -->
+  <circle cx="265" cy="158" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- headphones top -->
+  <path d="M86 70 Q145 16 204 70" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <rect x="76" y="62" width="24" height="34" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="190" y="62" width="24" height="34" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="88" cy="79" r="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="202" cy="79" r="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- audio waves between headphones -->
+  <path d="M108 80 L116 60 L124 96 L132 50 L140 100 L148 50 L156 96 L164 60 L172 80 L180 80" fill="none" stroke="#f8130d" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

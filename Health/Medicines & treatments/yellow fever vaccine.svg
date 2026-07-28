@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- tropical palm silhouette bg -->
+  <rect x="0" y="195" width="290" height="45" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="245" y="120" width="10" height="80" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M250 120 Q230 110 215 118 Q230 124 250 122 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M250 120 Q270 108 285 118 Q270 124 250 122 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M250 120 Q240 100 248 84 Q258 100 252 122 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sun -->
+  <circle cx="40" cy="40" r="18" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- vaccine vial -->
+  <rect x="40" y="80" width="50" height="110" rx="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.22"/>
+  <rect x="40" y="80" width="50" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="48" y="70" width="34" height="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- label -->
+  <rect x="44" y="120" width="42" height="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- mosquito icon on label -->
+  <ellipse cx="65" cy="138" rx="9" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="65" cy="132" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M58 130 Q50 124 48 134" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M72 130 Q80 124 82 134" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M65 144 L60 152" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- liquid level indicator -->
+  <rect x="44" y="166" width="42" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- syringe horizontal -->
+  <rect x="105" y="100" width="100" height="22" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="100" y="98" width="10" height="26" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="205" y="105" width="18" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M223 111 L255 111" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- plunger -->
+  <rect x="90" y="93" width="14" height="36" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- liquid in syringe -->
+  <rect x="110" y="106" width="80" height="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- drip -->
+  <path d="M260 116 Q263 124 260 130 Q257 124 260 116 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- power button: circle with vertical line through top arc (universal symbol) -->
+  <!-- button base / housing -->
+  <circle cx="145" cy="120" r="95" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- recessed inner well -->
+  <circle cx="145" cy="120" r="80" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- inner button face -->
+  <circle cx="145" cy="120" r="68" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- universal power symbol: broken circle -->
+  <!-- ring with gap at top -->
+  <path d="M 145 70 C 115 70, 95 95, 95 125 C 95 158, 120 180, 145 180 C 170 180, 195 158, 195 125 C 195 95, 175 70, 145 70" fill="none" stroke="#529929" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- vertical line through top -->
+  <path d="M 145 55 L 145 115" stroke="#529929" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- black outline on the symbol to match palette stroke rule -->
+  <path d="M 145 70 C 115 70, 95 95, 95 125 C 95 158, 120 180, 145 180 C 170 180, 195 158, 195 125 C 195 95, 175 70, 145 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145 55 L 145 115" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- highlight glint on top edge of housing -->
+  <path d="M 100 65 C 115 45, 175 45, 190 65" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

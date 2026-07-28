@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,52.685) scale(0.8971)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ctx"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0310) translate(-355.00 -245.50)">
+<g opacity="0.26">
+<line x1="241" y1="303" x2="232" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="271" y1="303" x2="280" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="232" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="280" cy="457" rx="13" ry="7" fill="#33373d"/>
+<polygon points="224,197 288,197 286,305 226,305" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="226" y1="199" x2="194" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="286" y1="199" x2="318" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="256" y1="197" x2="256" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle id="h1" data-fig="ctx" class="skin" cx="256" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 216.0 130.0 Q 216.0 80.0 256 80.0 Q 296.0 80.0 296.0 130.0 Q 256 103.0 216.0 130.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<ellipse cx="236" cy="298" rx="40" ry="26" fill="none" stroke="#ff7a18" stroke-width="11"/>
+<line x1="262" y1="284" x2="312" y2="232" stroke="#ff7a18" stroke-width="4" stroke-linecap="round"/>
+<circle cx="236" cy="298" r="8" fill="#ff7a18" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="150" r="120" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+<clipPath id="cl256_300"><circle cx="388" cy="150" r="117"/></clipPath>
+<g clip-path="url(#cl256_300)">
+<!-- KIDNEY PAIR (like lungs): two beans, concave hilum facing each other, ureters descending to bladder -->
+<!-- ureters first (behind organs) -->
+<path d="M 358 168 C 366 226 378 252 388 312" fill="none" stroke="#caa9a0" stroke-width="12" stroke-linecap="round"/>
+<path d="M 418 168 C 410 226 398 252 388 312" fill="none" stroke="#caa9a0" stroke-width="12" stroke-linecap="round"/>
+<path d="M 358 168 C 366 226 378 252 388 312" fill="none" stroke="#9c5237" stroke-width="5" stroke-linecap="round"/>
+<path d="M 418 168 C 410 226 398 252 388 312" fill="none" stroke="#9c5237" stroke-width="5" stroke-linecap="round"/>
+<!-- bladder hint at the bottom where ureters meet -->
+<path d="M 370 312 q 18 24 36 0" fill="none" stroke="#caa9a0" stroke-width="12" stroke-linecap="round"/>
+<!-- LEFT kidney: concave hilum on the RIGHT (inner) side -->
+<path d="M 330 88 C 296 88 286 124 286 158 C 286 192 296 228 330 228 C 360 228 372 204 364 184 C 358 170 350 164 350 158 C 350 152 358 146 364 132 C 372 112 360 88 330 88 Z" fill="#9c5237" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- left hilum notch -->
+<circle cx="358" cy="158" r="11" fill="#5e3220" stroke="#1a1a1a" stroke-width="0"/>
+<!-- left sheen -->
+<path d="M 312 116 Q 300 158 314 200" fill="none" stroke="#bd7a5e" stroke-width="7" stroke-linecap="round"/>
+<!-- RIGHT kidney: mirror, concave hilum on the LEFT (inner) side -->
+<path d="M 446 88 C 480 88 490 124 490 158 C 490 192 480 228 446 228 C 416 228 404 204 412 184 C 418 170 426 164 426 158 C 426 152 418 146 412 132 C 404 112 416 88 446 88 Z" fill="#9c5237" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- right hilum notch -->
+<circle cx="418" cy="158" r="11" fill="#5e3220" stroke="#1a1a1a" stroke-width="0"/>
+<!-- right sheen -->
+<path d="M 464 116 Q 476 158 462 200" fill="none" stroke="#bd7a5e" stroke-width="7" stroke-linecap="round"/>
+</g>
+<circle cx="388" cy="150" r="120" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg663" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg663)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

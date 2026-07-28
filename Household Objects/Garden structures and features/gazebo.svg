@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Gazebo: hexagonal roofed garden pavilion -->
+  <!-- Floor platform -->
+  <polygon points="80,195 145,210 210,195 210,185 145,200 80,185" fill="#9d7246" stroke="none"/>
+  <!-- Six posts -->
+  <line x1="80" y1="185" x2="80" y2="145" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <line x1="110" y1="178" x2="110" y2="138" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <line x1="145" y1="175" x2="145" y2="135" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <line x1="180" y1="178" x2="180" y2="138" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <line x1="210" y1="185" x2="210" y2="145" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <line x1="145" y1="195" x2="145" y2="155" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <!-- Railing between posts -->
+  <line x1="80" y1="165" x2="110" y2="158" stroke="#7d5e23" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="110" y1="158" x2="145" y2="155" stroke="#7d5e23" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="145" y1="155" x2="180" y2="158" stroke="#7d5e23" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="180" y1="158" x2="210" y2="165" stroke="#7d5e23" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="80" y1="175" x2="110" y2="168" stroke="#7d5e23" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="110" y1="168" x2="145" y2="165" stroke="#7d5e23" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="145" y1="165" x2="180" y2="168" stroke="#7d5e23" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="180" y1="168" x2="210" y2="175" stroke="#7d5e23" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Hexagonal roof faces -->
+  <polygon points="145,60 80,130 110,128 145,120 180,128 210,130" fill="#529929" stroke="none"/>
+  <polygon points="145,60 80,130 75,135 145,65" fill="#67832d" stroke="none"/>
+  <polygon points="145,60 210,130 215,135 145,65" fill="#67832d" stroke="none"/>
+  <!-- Roof outline -->
+  <polygon points="145,60 75,135 110,133 145,126 180,133 215,135" fill="none" stroke="#4d4d4d" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Roof ridge lines -->
+  <line x1="145" y1="60" x2="80" y2="130" stroke="#4d4d4d" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="145" y1="60" x2="110" y2="128" stroke="#4d4d4d" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="145" y1="60" x2="145" y2="126" stroke="#4d4d4d" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="145" y1="60" x2="180" y2="128" stroke="#4d4d4d" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="145" y1="60" x2="210" y2="130" stroke="#4d4d4d" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Finial top -->
+  <line x1="145" y1="60" x2="145" y2="30" stroke="#9d7246" stroke-width="6.34" stroke-linecap="round"/>
+  <circle cx="145" cy="26" r="7" fill="#f7de58" stroke="#4d4d4d" stroke-width="2.54"/>
+</g></svg>

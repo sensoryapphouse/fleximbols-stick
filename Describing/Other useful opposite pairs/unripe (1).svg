@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Unripe tomato — same shape as ripe but green, small/hard -->
+  <!-- Main tomato body (smaller, green) -->
+  <circle cx="130" cy="155" r="62" fill="#529929" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Tomato ridges -->
+  <path d="M130 93 Q115 100 110 115" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 93 Q145 100 150 115" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Green calyx -->
+  <ellipse cx="130" cy="94" rx="20" ry="7" fill="#137827" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M130 87 Q118 75 115 82 Q122 90 130 87 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M130 87 Q142 75 145 82 Q138 90 130 87 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M130 87 Q115 78 118 70 Q126 78 130 87 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stem -->
+  <path d="M130 87 Q132 72 134 65" fill="none" stroke="#529929" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Hard texture — small straight lines -->
+  <path d="M112 135 L118 132" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M108 148 L114 146" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M142 142 L148 140" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hourglass / "not yet" cue — top right -->
+  <!-- Hourglass outline -->
+  <path d="M200 48 L240 48 L240 52 L222 80 L240 108 L240 112 L200 112 L200 108 L218 80 L200 52 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Sand top half -->
+  <path d="M203 52 L237 52 L220 78 Z" fill="#f7de58" stroke="none"/>
+  <!-- Sand bottom half (small pile) -->
+  <path d="M215 108 L225 108 L220 98 Z" fill="#f7de58" stroke="none"/>
+  <!-- Hourglass middle pinch accent -->
+  <path d="M212 80 L228 80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

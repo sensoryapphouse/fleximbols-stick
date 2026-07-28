@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cutting board / surface below -->
+  <rect x="20" y="200" width="250" height="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- sliced vegetable rounds (cucumber/zucchini) emerging at the bottom -->
+  <ellipse cx="55" cy="195" rx="14" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.95"/>
+  <circle cx="55" cy="195" r="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="80" cy="200" rx="14" ry="4" fill="#67832d" stroke="#1a1a1a" stroke-width="3.95"/>
+  <circle cx="80" cy="200" r="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="40" cy="205" rx="14" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- mandoline body: long sloped rectangular frame -->
+  <path d="M 35 75 L 245 75 L 260 175 L 50 195 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.92" stroke-linejoin="round"/>
+  <!-- darker top surface inset (slicing platform) -->
+  <path d="M 55 90 L 230 90 L 240 165 L 70 180 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- diagonal V-blade across centre -->
+  <path d="M 70 130 L 145 120 L 220 135" fill="none" stroke="#7f7f7f" stroke-width="11.86" stroke-linecap="round"/>
+  <path d="M 70 130 L 145 120 L 220 135" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- blade gleam -->
+  <path d="M 80 128 L 140 122" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- adjustable thickness knob on side -->
+  <circle cx="250" cy="115" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="4.94"/>
+  <circle cx="250" cy="115" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="250" y1="105" x2="250" y2="100" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- safety guard / vegetable holder (pusher) at top -->
+  <rect x="120" y="40" width="60" height="50" rx="6" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- gripper teeth on bottom of pusher (poking into board) -->
+  <path d="M 128 88 L 132 96 L 136 88 L 140 96 L 144 88 L 148 96 L 152 88 L 156 96 L 160 88 L 164 96 L 168 88 L 172 96" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- handle on top of safety guard -->
+  <rect x="138" y="20" width="24" height="22" rx="4" ry="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- handle at end of mandoline -->
+  <rect x="240" y="160" width="40" height="22" rx="6" ry="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- legs / feet of mandoline -->
+  <rect x="55" y="195" width="10" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="240" y="190" width="10" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.95"/>
+</g></svg>

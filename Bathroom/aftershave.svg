@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- square cologne/aftershave bottle -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+<!-- body -->
+<rect x="150" y="200" width="200" height="215" rx="20" fill="#3d7fb5"/>
+<!-- shoulder -->
+<path d="M 196 200 L 196 176 L 304 176 L 304 200 Z" fill="#3d7fb5"/>
+<!-- cap -->
+<rect x="216" y="110" width="68" height="70" rx="8" fill="#cfd6dc"/>
+<!-- label panel -->
+<rect x="186" y="250" width="128" height="110" rx="8" fill="#ffffff"/>
+<line x1="210" y1="288" x2="290" y2="288" stroke-width="7"/>
+<line x1="222" y1="320" x2="278" y2="320" stroke-width="6"/>
+</g>
+<!-- splash droplets -->
+<g fill="#5aa8d6" stroke="#1a1a1a" stroke-width="5">
+<path d="M 372 150 Q 358 172 372 182 Q 388 172 372 150 Z"/>
+<circle cx="392" cy="210" r="11"/>
+<circle cx="120" cy="180" r="9"/>
+</g>
+</svg>

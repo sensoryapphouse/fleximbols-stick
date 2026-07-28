@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Earth disc (polar top-down view) -->
+  <circle cx="145" cy="136" r="90" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Polar ice cap: white Arctic region -->
+  <ellipse cx="145" cy="96" rx="74" ry="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Ice cap interior detail: lighter blue suggestion of sea ice -->
+  <ellipse cx="145" cy="96" rx="58" ry="36" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Arctic land mass shapes -->
+  <path d="M112,82 Q124,70 144,74 Q158,70 170,78 Q164,90 150,86 Q132,90 112,82 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Large ARCTIC SWIRL: outer vortex arm 1 (cold air spiralling inward CCW) -->
+  <path d="M145,36 Q228,38 244,102 Q248,158 204,188 Q168,214 128,202 Q78,186 58,146 Q36,100 62,60 Q96,22 145,36" fill="none" stroke="#90a7d6" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- Vortex arm 2 (inner spiral ring) -->
+  <path d="M145,52 Q214,56 228,110 Q232,156 194,178 Q164,198 130,188 Q88,172 74,138 Q58,100 80,70 Q108,42 145,52" fill="none" stroke="#dff3fd" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Vortex arm 3 (tighter) -->
+  <path d="M145,68 Q200,72 212,118 Q218,154 184,170 Q158,184 130,176 Q98,162 88,132 Q78,102 96,80 Q116,60 145,68" fill="none" stroke="#90a7d6" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Rotation direction arrows on outer arm -->
+  <polygon points="240,100 230,92 244,88" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="66,148 56,140 54,154" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Snowflake 1 (upper-right, on spiral) -->
+  <g stroke="#ffffff" stroke-width="3.70" stroke-linecap="round">
+    <line x1="222" y1="64" x2="222" y2="82"/>
+    <line x1="213" y1="73" x2="231" y2="73"/>
+    <line x1="215" y1="66" x2="229" y2="80"/>
+    <line x1="229" y1="66" x2="215" y2="80"/>
+  </g>
+  <circle cx="222" cy="73" r="3" fill="#2a4ec0"/>
+  <!-- Snowflake 2 (bottom-left) -->
+  <g stroke="#ffffff" stroke-width="3.70" stroke-linecap="round">
+    <line x1="78" y1="168" x2="78" y2="186"/>
+    <line x1="69" y1="177" x2="87" y2="177"/>
+    <line x1="71" y1="170" x2="85" y2="184"/>
+    <line x1="85" y1="170" x2="71" y2="184"/>
+  </g>
+  <circle cx="78" cy="177" r="3" fill="#2a4ec0"/>
+  <!-- Snowflake 3 (right edge) -->
+  <g stroke="#dff3fd" stroke-width="2.96" stroke-linecap="round">
+    <line x1="240" y1="148" x2="240" y2="164"/>
+    <line x1="232" y1="156" x2="248" y2="156"/>
+    <line x1="234" y1="150" x2="246" y2="162"/>
+    <line x1="246" y1="150" x2="234" y2="162"/>
+  </g>
+  <!-- Snowflake 4 (top-left) -->
+  <g stroke="#dff3fd" stroke-width="2.96" stroke-linecap="round">
+    <line x1="58" y1="80" x2="58" y2="96"/>
+    <line x1="50" y1="88" x2="66" y2="88"/>
+    <line x1="52" y1="82" x2="64" y2="94"/>
+    <line x1="64" y1="82" x2="52" y2="94"/>
+  </g>
+  <!-- Central cold core (dark vortex eye at pole) -->
+  <circle cx="145" cy="108" r="22" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="145" cy="108" r="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tiny vortex curl in core -->
+  <path d="M138,104 Q143,100 148,104 Q153,108 148,112" fill="none" stroke="#dff3fd" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

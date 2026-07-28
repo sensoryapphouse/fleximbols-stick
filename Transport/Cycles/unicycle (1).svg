@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Unicycle: single wheel, vertical seat post, saddle, no handlebars -->
+  <!-- Wheel -->
+  <circle cx="145" cy="170" r="48" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="145" cy="170" r="32" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Spokes -->
+  <path d="M 145 138 L 145 202 M 113 170 L 177 170 M 122 147 L 168 193 M 168 147 L 122 193" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Hub -->
+  <circle cx="145" cy="170" r="6" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pedal crank arms -->
+  <path d="M 145 170 L 110 180" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 145 170 L 180 160" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Pedals -->
+  <rect x="100" y="176" width="16" height="8" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="174" y="156" width="16" height="8" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Vertical seat post -->
+  <rect x="140" y="70" width="10" height="60" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Connection from seat post to hub -->
+  <path d="M 142 130 L 145 170 L 148 130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Saddle (bike seat shape) -->
+  <path d="M 110 65 Q 145 50 180 65 Q 175 78 145 80 Q 115 78 110 65 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

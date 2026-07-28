@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Single detailed lobed rocket/arugula leaf -->
+  <!-- Stem -->
+  <path d="M145 220 Q140 205 138 190" stroke="#67832d" stroke-width="11.11" stroke-linecap="round" fill="none"/>
+  <!-- Main leaf body with lobes - rocket leaf shape -->
+  <!-- Lower lobes -->
+  <path d="M138 190
+    Q118 182 108 168 Q112 155 124 160 Q120 148 128 142
+    Q136 148 136 158
+    Q132 140 138 128
+    Q142 120 145 112
+    Q148 120 152 128
+    Q158 140 154 158
+    Q154 148 162 142
+    Q170 148 166 160 Q178 155 182 168
+    Q172 182 152 190
+    Q149 192 145 193
+    Q141 192 138 190 Z"
+    fill="#529929" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Upper pointed tip -->
+  <path d="M145 112 Q141 95 142 78 Q145 65 145 52 Q145 65 148 78 Q149 95 145 112 Z" fill="#529929" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Midrib -->
+  <line x1="145" y1="193" x2="145" y2="52" stroke="#67832d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Side veins -->
+  <path d="M145 150 Q132 145 120 148" stroke="#67832d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M145 150 Q158 145 170 148" stroke="#67832d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M145 125 Q136 120 128 122" stroke="#67832d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M145 125 Q154 120 162 122" stroke="#67832d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M145 100 Q139 96 134 98" stroke="#67832d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M145 100 Q151 96 156 98" stroke="#67832d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+</g></svg>

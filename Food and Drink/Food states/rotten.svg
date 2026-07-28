@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) scale(1.32) translate(-256 -262)">
+<!-- smell / stink wavy lines rising -->
+<path d="M 150 150 Q 134 132 150 114 Q 166 96 150 80" fill="none" stroke="#9aa0a6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 360 156 Q 344 138 360 120 Q 376 102 360 84" fill="none" stroke="#9aa0a6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- apple body -->
+<path d="M 256 198 C 192 152 126 244 126 300 C 126 420 206 452 256 440 C 306 452 386 420 386 300 C 386 244 320 152 256 198 Z" fill="#8cc152" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- stalk + leaf -->
+<line x1="256" y1="196" x2="262" y2="146" stroke="#6b4a2b" stroke-width="12" stroke-linecap="round"/>
+<path d="M 264 168 Q 326 134 322 192 Q 282 194 264 168 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- brown rot patches -->
+<path d="M 196 318 Q 176 360 214 384 Q 258 396 256 350 Q 250 312 196 318 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="318" cy="296" rx="34" ry="40" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="318" cy="296" r="13" fill="#3c2a16"/>
+<circle cx="214" cy="352" r="11" fill="#3c2a16"/>
+<!-- little fly -->
+<ellipse cx="372" cy="208" rx="15" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
+<path d="M 366 200 Q 350 184 344 198" fill="none" stroke="#9aa0a6" stroke-width="4" stroke-linecap="round"/>
+<path d="M 378 200 Q 394 184 400 198" fill="none" stroke="#9aa0a6" stroke-width="4" stroke-linecap="round"/>
+</g></svg>

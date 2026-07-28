@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Water band -->
+  <rect x="0" y="185" width="290" height="40" fill="#dff3fd" stroke="none"/>
+  <line x1="0" y1="185" x2="290" y2="185" stroke="#2a4ec0" stroke-width="6.67"/>
+  <path d="M5 196 Q40 188 75 196 Q110 204 145 196 Q180 188 215 196 Q248 204 285 196" stroke="#2a4ec0" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- Hull - Chinese junk, upswept stern at right -->
+  <path d="M35 185 L50 165 L230 165 Q245 165 258 155 Q268 148 265 185 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Hull upper rail -->
+  <path d="M52 163 L230 163 Q245 163 256 154" stroke="#9d7246" stroke-width="8.89" fill="none" stroke-linecap="round"/>
+  <!-- Upswept stern structure -->
+  <path d="M255 155 Q270 135 265 115 Q262 105 255 100" stroke="#5e1f0a" stroke-width="13.34" fill="none" stroke-linecap="round"/>
+  <!-- Main mast -->
+  <line x1="145" y1="165" x2="145" y2="55" stroke="#5e1f0a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Forward mast -->
+  <line x1="95" y1="163" x2="95" y2="80" stroke="#5e1f0a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Main sail - battened fan shape, reddish -->
+  <!-- Sail panels with battens (horizontal ribs) -->
+  <path d="M145 58 L195 75 L210 100 L205 125 L190 148 L145 160 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Battens on main sail -->
+  <line x1="145" y1="75" x2="195" y2="75" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="93" x2="207" y2="96" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="111" x2="206" y2="113" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="129" x2="200" y2="132" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="147" x2="191" y2="149" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Forward sail - smaller -->
+  <path d="M95 83 L130 95 L135 118 L130 140 L95 155 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Battens on foresail -->
+  <line x1="95" y1="98" x2="130" y2="98" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="95" y1="113" x2="133" y2="115" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="95" y1="128" x2="131" y2="130" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="95" y1="143" x2="128" y2="145" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

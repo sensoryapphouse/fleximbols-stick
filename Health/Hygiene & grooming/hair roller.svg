@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Single cylindrical hair roller (foam/velcro tube) with a clip -->
+  <!-- Roller body - cylindrical, angled for 3/4 view -->
+  <!-- Left end cap (ellipse) -->
+  <ellipse cx="72" cy="130" rx="18" ry="52" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Roller body (rectangle between end caps) -->
+  <rect x="72" y="78" width="148" height="104" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Right end cap (ellipse) -->
+  <ellipse cx="220" cy="130" rx="18" ry="52" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Velcro/foam texture lines along the roller body -->
+  <line x1="100" y1="78" x2="100" y2="182" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,5"/>
+  <line x1="124" y1="78" x2="124" y2="182" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,5"/>
+  <line x1="148" y1="78" x2="148" y2="182" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,5"/>
+  <line x1="172" y1="78" x2="172" y2="182" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,5"/>
+  <line x1="196" y1="78" x2="196" y2="182" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,5"/>
+  <!-- Roller pin through centre (visible at ends) -->
+  <circle cx="72" cy="130" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="130" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hair clip holding the roller in place -->
+  <path d="M 115,78 Q 146,55 178,78" fill="none" stroke="#f7de58" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M 115,78 L 115,68 Q 146,45 178,68 L 178,78" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

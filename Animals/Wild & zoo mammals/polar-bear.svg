@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ears -->
+<circle cx="166" cy="160" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="346" cy="160" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="166" cy="160" r="13" fill="#e6ecf0"/>
+<circle cx="346" cy="160" r="13" fill="#e6ecf0"/>
+<!-- legs -->
+<rect x="168" y="356" width="50" height="58" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="296" y="356" width="50" height="58" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- body -->
+<circle cx="256" cy="262" r="146" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- snout area -->
+<ellipse cx="256" cy="312" rx="62" ry="50" fill="#f2f6f8" stroke="#1a1a1a" stroke-width="7"/>
+<!-- nose -->
+<ellipse cx="256" cy="296" rx="20" ry="14" fill="#1a1a1a"/>
+<path d="M 256 310 L 256 328 M 256 328 Q 236 342 224 326 M 256 328 Q 276 342 288 326" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- eyes -->
+<circle cx="206" cy="248" r="14" fill="#1a1a1a"/>
+<circle cx="201.5" cy="243.5" r="4.8" fill="#ffffff"/>
+<circle cx="306" cy="248" r="14" fill="#1a1a1a"/>
+<circle cx="301.5" cy="243.5" r="4.8" fill="#ffffff"/>
+</svg>

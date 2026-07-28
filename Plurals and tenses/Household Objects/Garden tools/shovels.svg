@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) rotate(10) translate(-256 -256)">
+<!-- D-shaped grip handle -->
+<path d="M 226 92 Q 218 62 256 62 Q 294 62 286 92 L 286 116 L 264 116 L 264 90 Q 264 82 256 82 Q 248 82 248 90 L 248 116 L 226 116 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wooden shaft -->
+<rect x="244" y="112" width="24" height="204" rx="8" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- metal socket / ferrule joining shaft to blade -->
+<rect x="240" y="308" width="32" height="30" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- steel digging blade: rounded pointed spade shape -->
+<path d="M 196 336 L 316 336 L 306 416 Q 256 462 206 416 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- centre rib -->
+<line x1="256" y1="344" x2="256" y2="436" stroke="#9aa0a6" stroke-width="7" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2282" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2282)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

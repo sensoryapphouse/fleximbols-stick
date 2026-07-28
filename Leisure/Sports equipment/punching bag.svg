@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Heavy punching bag: tall cylindrical bag hanging from chains -->
+  <!-- Mounting ring / ceiling hook -->
+  <rect x="128" y="10" width="34" height="10" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Chain links -->
+  <ellipse cx="145" cy="28" rx="6" ry="9" fill="none" stroke="#7f7f7f" stroke-width="4.45"/>
+  <ellipse cx="145" cy="44" rx="9" ry="6" fill="none" stroke="#7f7f7f" stroke-width="4.45"/>
+  <ellipse cx="145" cy="58" rx="6" ry="9" fill="none" stroke="#7f7f7f" stroke-width="4.45"/>
+  <!-- Swivel/D-ring connecting chain to bag -->
+  <circle cx="145" cy="73" r="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bag body - tall cylinder, top rounded -->
+  <path d="M95,80 C95,68 120,60 145,60 C170,60 195,68 195,80 L195,195 C195,210 170,218 145,218 C120,218 95,210 95,195 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bag highlight stripe -->
+  <path d="M95,80 L95,150" fill="none" stroke="#f8130d" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Horizontal wrap bands -->
+  <path d="M95,110 C95,106 120,103 145,103 C170,103 195,106 195,110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95,145 C95,141 120,138 145,138 C170,138 195,141 195,145" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95,175 C95,171 120,168 145,168 C170,168 195,171 195,175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Seam line -->
+  <line x1="145" y1="60" x2="145" y2="218" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="8,6"/>
+</g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- asteroid: grey lumpy cratered rock, no tail, dull -->
+  <!-- Space panel -->
+  <rect x="26" y="26" width="238" height="188" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Stars - sparse -->
+  <circle cx="48" cy="48" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="108" cy="38" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="235" cy="52" r="3" fill="#ffffff" stroke="none"/>
+  <circle cx="255" cy="180" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="42" cy="185" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="60" cy="168" r="2" fill="#ffffff" stroke="none"/>
+  <!-- Asteroid body - lumpy irregular polygon, grey -->
+  <polygon points="85,85 70,105 65,130 72,155 90,172 115,182 145,185 172,178 192,162 200,140 198,112 185,92 165,78 138,72 112,75" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Shading face -->
+  <polygon points="145,185 172,178 192,162 200,140 198,112 185,92 175,100 178,128 170,155 155,172" fill="#7f7f7f" stroke="none"/>
+  <!-- Craters -->
+  <circle cx="112" cy="118" r="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="112" cy="118" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="145" r="16" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="160" cy="145" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="100" r="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="148" cy="100" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="148" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="148" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Bumpy surface ridges -->
+  <polyline points="78,110 95,102 110,108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="175,105 185,118 180,132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Warm spot indicator (warm glow background panel) -->
+  <rect x="26" y="32" width="238" height="176" rx="10" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- Warmth rays / sun in corner -->
+  <circle cx="44" cy="52" r="16" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.33"/>
+  <line x1="44" y1="28" x2="44" y2="20" stroke="#f8130d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="64" y1="36" x2="70" y2="32" stroke="#f8130d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="68" y1="52" x2="76" y2="52" stroke="#f8130d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="64" y1="68" x2="70" y2="72" stroke="#f8130d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="24" y1="36" x2="20" y2="32" stroke="#f8130d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="24" y1="68" x2="20" y2="72" stroke="#f8130d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="20" y1="52" x2="12" y2="52" stroke="#f8130d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Mixing bowl (wide, beige) -->
+  <path d="M40 138 Q40 220 145 220 Q250 220 250 138 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="138" rx="105" ry="16" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Dough (puffy ball, expanded above rim) -->
+  <path d="M62 138 Q60 100 90 84 Q120 70 145 72 Q170 70 200 84 Q230 100 228 138 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Dough highlights (rounded swell shape) -->
+  <ellipse cx="115" cy="108" rx="22" ry="14" fill="#ffffff" stroke="none"/>
+  <ellipse cx="180" cy="118" rx="18" ry="10" fill="#ffffff" stroke="none"/>
+  <!-- Dough flour speckles -->
+  <circle cx="100" cy="124" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="160" cy="100" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="200" cy="130" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="80" cy="130" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- Cover (cloth draped over bowl, semi-transparent feel via solid colour) -->
+  <path d="M30 112 Q40 95 90 90 Q145 86 200 90 Q250 95 260 112 Q255 124 250 132 Q200 100 145 100 Q90 100 40 132 Q35 124 30 112 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Cloth pattern dots / weave -->
+  <circle cx="60" cy="106" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="105" cy="98" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="180" cy="98" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="230" cy="106" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="40" cy="120" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="250" cy="120" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Cloth drape lines -->
+  <path d="M50 112 Q56 122 50 132" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M240 112 Q234 122 240 132" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Heat / warmth wisps rising near dough -->
+  <path d="M105 84 Q100 72 105 60" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M155 78 Q150 66 155 54" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M205 84 Q200 72 205 60" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Upward expansion arrow (small, on the right) -->
+  <path d="M254 200 L254 174 L248 180 M254 174 L260 180" fill="none" stroke="#137827" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

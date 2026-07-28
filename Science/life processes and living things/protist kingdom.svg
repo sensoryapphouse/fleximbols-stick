@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- pond/water background blob (not full canvas) -->
+  <ellipse cx="145" cy="125" rx="135" ry="100" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Amoeba (left) with pseudopods -->
+  <g>
+    <path d="M90 95 Q70 80 55 90 Q40 95 45 110 Q30 115 35 130 Q40 150 60 150 Q65 165 80 160 Q100 165 105 145 Q120 135 115 120 Q120 105 105 100 Q98 92 90 95 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+    <!-- nucleus -->
+    <circle cx="78" cy="125" r="14" fill="#392170" stroke="#1a1a1a" stroke-width="5.56"/>
+    <circle cx="78" cy="125" r="5" fill="#000000"/>
+    <!-- vacuoles -->
+    <circle cx="55" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <circle cx="95" cy="140" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+  <!-- Paramecium (right) oval with cilia -->
+  <g>
+    <ellipse cx="200" cy="130" rx="55" ry="25" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-15 200 130)"/>
+    <!-- cilia all around -->
+    <g stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round">
+      <line x1="150" y1="118" x2="142" y2="110"/>
+      <line x1="155" y1="108" x2="150" y2="98"/>
+      <line x1="168" y1="100" x2="167" y2="88"/>
+      <line x1="182" y1="95" x2="184" y2="83"/>
+      <line x1="196" y1="93" x2="200" y2="81"/>
+      <line x1="210" y1="92" x2="215" y2="80"/>
+      <line x1="223" y1="95" x2="228" y2="84"/>
+      <line x1="235" y1="100" x2="242" y2="92"/>
+      <line x1="245" y1="110" x2="254" y2="105"/>
+      <line x1="250" y1="122" x2="260" y2="120"/>
+      <line x1="248" y1="135" x2="258" y2="138"/>
+      <line x1="240" y1="150" x2="250" y2="158"/>
+      <line x1="225" y1="160" x2="228" y2="172"/>
+      <line x1="210" y1="165" x2="210" y2="178"/>
+      <line x1="195" y1="166" x2="192" y2="178"/>
+      <line x1="180" y1="163" x2="175" y2="175"/>
+      <line x1="166" y1="158" x2="158" y2="168"/>
+      <line x1="155" y1="150" x2="146" y2="156"/>
+      <line x1="148" y1="138" x2="138" y2="138"/>
+      <line x1="146" y1="128" x2="136" y2="125"/>
+    </g>
+    <!-- internal nucleus and vacuoles -->
+    <ellipse cx="200" cy="128" rx="12" ry="7" fill="#137827" stroke="#1a1a1a" stroke-width="5.56" transform="rotate(-15 200 128)"/>
+    <circle cx="175" cy="130" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <circle cx="225" cy="135" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <!-- oral groove -->
+    <path d="M210 118 Q220 125 222 138" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+</g></svg>

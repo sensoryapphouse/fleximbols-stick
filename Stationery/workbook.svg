@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- workbook back cover -->
+  <path d="M50 28 L240 28 L240 218 L50 218 Z" fill="#137827" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- inside page -->
+  <path d="M62 38 L228 38 L228 208 L62 208 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- spine -->
+  <line x1="62" y1="38" x2="62" y2="208" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- title plaque WORKBOOK -->
+  <rect x="74" y="48" width="142" height="20" rx="3" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="82" y1="58" x2="208" y2="58" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- exercise rows with checkboxes -->
+  <rect x="76" y="82" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
+  <polyline points="78,88 84,94 90,82" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="96" y1="89" x2="200" y2="89" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <rect x="76" y="104" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
+  <polyline points="78,110 84,116 90,104" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="96" y1="111" x2="190" y2="111" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <rect x="76" y="126" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
+  <line x1="96" y1="133" x2="200" y2="133" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <rect x="76" y="148" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
+  <line x1="96" y1="155" x2="185" y2="155" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <rect x="76" y="170" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
+  <line x1="96" y1="177" x2="170" y2="177" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- pencil diagonal across lower right -->
+  <path d="M158 196 L228 138 L240 150 L170 208 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pencil tip -->
+  <path d="M158 196 L150 204 L162 208 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M154 200 L158 196" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- pencil eraser end -->
+  <path d="M228 138 L236 130 L248 142 L240 150 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- metal ferrule -->
+  <path d="M222 144 L234 156" stroke="#7f7f7f" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

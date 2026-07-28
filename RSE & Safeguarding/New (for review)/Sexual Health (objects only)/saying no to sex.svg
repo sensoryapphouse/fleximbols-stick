@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- heart -->
+<path d="M 200 200 C 200 150 130 138 100 182 C 70 138 0 150 0 200 C 0 280 100 350 100 350 C 100 350 200 280 200 200 Z" transform="translate(156 30)" fill="#f06fa6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bold red NO ring -->
+<circle cx="256" cy="270" r="180" fill="none" stroke="#e23b3b" stroke-width="36"/>
+<line x1="128" y1="142" x2="384" y2="398" stroke="#e23b3b" stroke-width="36" stroke-linecap="round"/>
+</svg>

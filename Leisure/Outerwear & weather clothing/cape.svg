@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="84.36 90.34 343.27 343.27">
+<!-- cape body: narrow at neck, flared at hem -->
+<path d="M 226 128 L 286 128 L 300 150 Q 392 280 372 408 L 256 396 L 140 408 Q 120 280 212 150 Z" fill="#b5462f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neck band / collar -->
+<path d="M 214 128 Q 256 104 298 128 L 286 150 Q 256 134 226 150 Z" fill="#933623" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tie cords -->
+<path d="M 214 128 Q 184 138 176 162" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 298 128 Q 328 138 336 162" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- centre front opening -->
+<line x1="256" y1="150" x2="256" y2="396" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- drape folds -->
+<path d="M 206 200 Q 196 300 184 388" fill="none" stroke="#933623" stroke-width="6" stroke-linecap="round"/>
+<path d="M 306 200 Q 316 300 328 388" fill="none" stroke="#933623" stroke-width="6" stroke-linecap="round"/>
+</svg>

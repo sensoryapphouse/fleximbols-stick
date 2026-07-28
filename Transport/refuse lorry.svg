@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- large refuse container body (rear loader) -->
+<path d="M196 180 L420 180 L420 360 L150 360 L150 250 L196 250 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- slanted rear loading hopper -->
+<path d="M150 250 L150 360 L96 360 L96 300 Z" fill="#2f6390" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cab -->
+<path d="M420 240 L470 240 L470 360 L420 360 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cab window -->
+<rect x="430" y="252" width="34" height="40" rx="5" fill="#cfe3f2" stroke="#1a1a1a" stroke-width="7"/>
+<!-- body panel lines -->
+<line x1="260" y1="200" x2="260" y2="340" stroke="#2f6390" stroke-width="7"/>
+<line x1="330" y1="200" x2="330" y2="340" stroke="#2f6390" stroke-width="7"/>
+<!-- wheels -->
+<circle cx="200" cy="372" r="38" fill="#3f3f44" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="200" cy="372" r="14" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="400" cy="372" r="38" fill="#3f3f44" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="400" cy="372" r="14" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

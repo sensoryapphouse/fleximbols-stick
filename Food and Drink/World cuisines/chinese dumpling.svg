@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Small dipping sauce dish (right side) -->
+  <ellipse cx="230" cy="190" rx="35" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="230" cy="186" rx="35" ry="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Sauce surface in dish -->
+  <ellipse cx="230" cy="184" rx="27" ry="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sauce shine -->
+  <ellipse cx="224" cy="182" rx="8" ry="3" fill="#7d5e23" stroke="none"/>
+
+  <!-- Plate for dumplings -->
+  <ellipse cx="130" cy="205" rx="105" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="130" cy="200" rx="105" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- Dumpling 1 (back center) - pleated crescent jiaozi -->
+  <path d="M95 155 Q108 130 148 130 Q182 130 190 155 Q180 168 148 172 Q112 172 95 155Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Crimp/pleat line top of dumpling 1 -->
+  <path d="M105 143 Q148 136 186 143" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Individual pleats on dumpling 1 -->
+  <path d="M112 140 L110 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M122 137 L120 148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M133 135 L131 146" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M148 134 L146 145" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M163 135 L161 146" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M174 137 L172 149" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M182 141 L181 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Dumpling 2 (front left) -->
+  <path d="M42 170 Q52 148 88 148 Q120 147 130 168 Q122 182 88 185 Q55 183 42 170Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Crimp line dumpling 2 -->
+  <path d="M52 158 Q88 152 122 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pleats dumpling 2 -->
+  <path d="M58 156 L57 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M68 153 L67 163" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M80 152 L79 162" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M92 152 L91 162" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M104 153 L103 163" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M114 156 L113 166" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Dumpling 3 (front right) -->
+  <path d="M148 172 Q158 150 194 150 Q226 149 236 170 Q228 184 194 187 Q161 185 148 172Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Slightly pan-fried golden bottom hint -->
+  <path d="M155 180 Q194 186 228 180" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Crimp line dumpling 3 -->
+  <path d="M158 160 Q194 154 228 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pleats dumpling 3 -->
+  <path d="M163 158 L162 168" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M173 155 L172 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M185 154 L184 164" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M197 154 L196 164" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M209 155 L208 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M219 158 L218 168" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

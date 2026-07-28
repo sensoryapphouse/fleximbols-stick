@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Desk/table -->
+  <rect x="30" y="170" width="200" height="14" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="50" y="184" width="14" height="36" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="196" y="184" width="14" height="36" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Laptop base -->
+  <rect x="60" y="140" width="130" height="32" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Laptop screen -->
+  <rect x="68" y="72" width="130" height="88" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Screen inner display area -->
+  <rect x="76" y="80" width="114" height="72" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Presenter on left side of screen -->
+  <!-- Presenter head -->
+  <circle cx="105" cy="96" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Presenter body -->
+  <rect x="97" y="107" width="16" height="20" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Presenter arms raised slightly -->
+  <line x1="97" y1="112" x2="87" y2="120" stroke="#eed5b6" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="113" y1="112" x2="123" y2="120" stroke="#eed5b6" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Vertical divider on screen -->
+  <line x1="128" y1="82" x2="128" y2="150" stroke="#90a7d6" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Audience grid (2x3) on right of screen -->
+  <!-- Row 1 -->
+  <rect x="133" y="84" width="18" height="16" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="142" cy="89" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="155" y="84" width="18" height="16" rx="3" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="164" cy="89" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="177" y="84" width="8" height="16" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Row 2 -->
+  <rect x="133" y="104" width="18" height="16" rx="3" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="142" cy="109" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="155" y="104" width="18" height="16" rx="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="164" cy="109" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="177" y="104" width="8" height="16" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Row 3 -->
+  <rect x="133" y="124" width="18" height="16" rx="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="142" cy="129" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="155" y="124" width="18" height="16" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="164" cy="129" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="177" y="124" width="8" height="16" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Laptop hinge -->
+  <line x1="60" y1="140" x2="190" y2="140" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Play button overlay badge -->
+  <circle cx="245" cy="60" r="20" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="238,52 238,68 256,60" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- WiFi signal arcs -->
+  <path d="M238 30 Q245 22 252 30" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M233 25 Q245 14 257 25" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

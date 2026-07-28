@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Figure 1: shortest, hijab, skin #eed5b6 -->
+  <ellipse cx="38" cy="68" rx="12" ry="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 26,62 Q 26,46 38,46 Q 50,46 50,62 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="28" y="80" width="20" height="44" rx="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="28" y1="87" x2="14" y2="110" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="48" y1="87" x2="58" y2="108" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="28" y1="124" x2="22" y2="165" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="48" y1="124" x2="54" y2="165" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Figure 2: medium height, skin #e6b98a -->
+  <ellipse cx="90" cy="58" rx="13" ry="13" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="78" y="73" width="24" height="52" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="78" y1="81" x2="62" y2="108" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="102" y1="81" x2="114" y2="108" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="78" y1="125" x2="70" y2="168" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="102" y1="125" x2="110" y2="168" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Figure 3: tallest, skin #9d7246 -->
+  <ellipse cx="145" cy="44" rx="14" ry="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="132" y="60" width="26" height="62" rx="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="132" y1="69" x2="114" y2="100" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="69" x2="172" y2="100" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="122" x2="122" y2="170" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="122" x2="168" y2="170" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Figure 4: medium-short, skin #5e1f0a (darker tone) -->
+  <ellipse cx="200" cy="62" rx="13" ry="13" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="188" y="77" width="24" height="50" rx="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="188" y1="85" x2="172" y2="110" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="212" y1="85" x2="224" y2="110" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="188" y1="127" x2="180" y2="168" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="212" y1="127" x2="220" y2="168" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Figure 5: wheelchair user, skin #eed5b6 -->
+  <ellipse cx="255" cy="72" rx="12" ry="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 245,86 L 265,86 L 268,118 L 245,118 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wheelchair seat -->
+  <line x1="255" y1="118" x2="268" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="268" y1="118" x2="268" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Footrest -->
+  <line x1="255" y1="148" x2="275" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Wheels -->
+  <circle cx="255" cy="160" r="16" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="275" cy="155" r="10" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Push arm -->
+  <line x1="245" y1="86" x2="232" y2="112" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- candy cane body: white rounded path with hook at top -->
+<path d="M 300 410 L 300 200 Q 300 130 230 130 Q 160 130 160 200" fill="none" stroke="#fff" stroke-width="56" stroke-linecap="round"/>
+<path d="M 300 410 L 300 200 Q 300 130 230 130 Q 160 130 160 200" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" transform="translate(0,0)" style="stroke:#1a1a1a"/>
+<!-- outline drawn as two parallel lines via wide black under white: redo using outline approach -->
+<path d="M 300 410 L 300 200 Q 300 130 230 130 Q 160 130 160 200" fill="none" stroke="#1a1a1a" stroke-width="66" stroke-linecap="round"/>
+<path d="M 300 410 L 300 200 Q 300 130 230 130 Q 160 130 160 200" fill="none" stroke="#fff" stroke-width="52" stroke-linecap="round"/>
+<!-- red diagonal stripes via dashed thick red stroke -->
+<path d="M 300 410 L 300 200 Q 300 130 230 130 Q 160 130 160 200" fill="none" stroke="#d63b46" stroke-width="52" stroke-linecap="butt" stroke-dasharray="26 40"/>
+</g></svg>

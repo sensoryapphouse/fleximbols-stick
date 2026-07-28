@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- e-reader tablet body -->
+  <rect x="55" y="25" width="180" height="200" rx="14" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- inner bezel -->
+  <rect x="65" y="38" width="160" height="170" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- screen (e-ink page) -->
+  <rect x="72" y="45" width="146" height="156" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- EBOOK lettering as path strokes: E -->
+  <path d="M82 60 L82 78 M82 60 L94 60 M82 69 L92 69 M82 78 L94 78" stroke="#1d0e82" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- B -->
+  <path d="M100 60 L100 78 M100 60 L110 60 Q114 60 114 64 Q114 68 110 68 L100 68 M100 68 L111 68 Q115 68 115 73 Q115 78 110 78 L100 78" stroke="#1d0e82" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- O -->
+  <ellipse cx="127" cy="69" rx="6" ry="9" fill="none" stroke="#1d0e82" stroke-width="5.33"/>
+  <!-- O -->
+  <ellipse cx="143" cy="69" rx="6" ry="9" fill="none" stroke="#1d0e82" stroke-width="5.33"/>
+  <!-- K -->
+  <path d="M155 60 L155 78 M155 69 L165 60 M155 69 L165 78" stroke="#1d0e82" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- text lines on screen -->
+  <path d="M82 95 L208 95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M82 107 L200 107" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M82 119 L208 119" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M82 131 L195 131" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M82 143 L208 143" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M82 155 L188 155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- reading icon (open book at bottom of screen) -->
+  <path d="M95 170 L145 170 L145 195 L95 195 Z M145 170 L195 170 L195 195 L145 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M145 170 L145 195" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M103 178 L137 178 M103 184 L137 184 M153 178 L187 178 M153 184 L187 184" stroke="#7f7f7f" stroke-width="2.67"/>
+  <!-- home button (circle) -->
+  <circle cx="145" cy="216" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

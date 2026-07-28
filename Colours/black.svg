@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1465) translate(-278.50 -303.00)">
+<!-- recognisable solid-black object: a top hat. Mid-grey outline so the silhouette edge is visible on a white page -->
+<!-- soft shadow grounding the hat -->
+<ellipse cx="216" cy="384" rx="118" ry="20" fill="#1a1a1a" opacity="0.18"/>
+<!-- brim -->
+<ellipse cx="216" cy="360" rx="118" ry="26" fill="#1a1a1a" stroke="#8a8f94" stroke-width="7"/>
+<!-- crown -->
+<path d="M 150 352 L 150 168 Q 150 150 168 150 L 264 150 Q 282 150 282 168 L 282 352 Z" fill="#1a1a1a" stroke="#8a8f94" stroke-width="7" stroke-linejoin="round"/>
+<!-- cover the brim/crown seam so the crown front sits on the brim cleanly -->
+<ellipse cx="216" cy="352" rx="66" ry="13" fill="#1a1a1a"/>
+<!-- hat band: a thin grey band gives internal contrast so the black isn't a flat hole -->
+<rect x="150" y="316" width="132" height="22" fill="#3a3f44"/>
+<line x1="150" y1="316" x2="282" y2="316" stroke="#8a8f94" stroke-width="4"/>
+<line x1="150" y1="338" x2="282" y2="338" stroke="#8a8f94" stroke-width="4"/>
+<!-- subtle vertical sheen on the crown so it reads as a 3D black surface -->
+<line x1="186" y1="170" x2="186" y2="300" stroke="#3a3f44" stroke-width="9" stroke-linecap="round"/>
+<!-- swatch tile: contrasting mid-grey outline + a clear gap from the motif so the black tile is distinct -->
+<rect x="350.0" y="350.0" width="120.0" height="120.0" rx="22" fill="#1a1a1a" stroke="#8a8f94" stroke-width="9"/>
+<path d="M 368 372 q 28 -10 56 -2" fill="none" stroke="#ffffff66" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

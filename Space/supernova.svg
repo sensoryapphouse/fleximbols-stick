@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- supernova: star exploding with radiating burst + shockwave ring -->
+  <!-- Space panel -->
+  <rect x="26" y="26" width="238" height="188" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Background stars (distant) -->
+  <circle cx="45" cy="45" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="85" cy="35" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="240" cy="48" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="255" cy="175" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="40" cy="182" r="2" fill="#ffffff" stroke="none"/>
+  <!-- Outer explosion shockwave ring -->
+  <circle cx="145" cy="120" r="92" fill="none" stroke="#f8130d" stroke-width="7.40"/>
+  <!-- Inner shockwave -->
+  <circle cx="145" cy="120" r="78" fill="none" stroke="#ff9900" stroke-width="5.93"/>
+  <!-- Explosion debris/ejecta rays - 12 rays radiating outward -->
+  <polygon points="145,120 135,48 155,48" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,120 192,62 210,76" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,120 212,100 215,120" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,120 210,155 196,172" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,120 155,192 135,192" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,120 98,172 80,158" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,120 76,140 75,120" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,120 80,85 96,68" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Diagonal rays -->
+  <polygon points="145,120 172,52 185,62" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,120 205,88 210,100" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,120 115,52 104,62" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,120 85,100 80,88" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Bright central explosion core - orange -->
+  <circle cx="145" cy="120" r="38" fill="#e65a00" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Inner core - yellow white hot -->
+  <circle cx="145" cy="120" r="24" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Brightest centre -->
+  <circle cx="145" cy="120" r="12" fill="#ffffff" stroke="none"/>
+</g></svg>

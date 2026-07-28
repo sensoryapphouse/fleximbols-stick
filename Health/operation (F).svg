@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0552) translate(-256.00 -250.50)">
+<!-- ===== operating table + patient (surgery cue, right side) ===== -->
+<!-- table legs -->
+<line x1="330" y1="400" x2="330" y2="452" stroke="#5a6172" stroke-width="12" stroke-linecap="round"/>
+<line x1="466" y1="400" x2="466" y2="452" stroke="#5a6172" stroke-width="12" stroke-linecap="round"/>
+<!-- table top -->
+<rect x="312" y="372" width="172" height="28" rx="8" fill="#9aa3b4" stroke="#1a1a1a" stroke-width="5"/>
+<!-- patient body under green drape -->
+<path d="M 322 372 Q 322 338 360 338 L 470 338 Q 484 338 484 360 L 484 372 Z" fill="#bfe3e0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- patient head on pillow -->
+<rect x="312" y="330" width="44" height="34" rx="10" fill="#eef2f6" stroke="#1a1a1a" stroke-width="4"/>
+<circle class="skin" cx="334" cy="347" r="15" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="4"/>
+<!-- red incision line + stitches on the drape (surgery cue) -->
+<line x1="380" y1="355" x2="416" y2="355" stroke="#e0473c" stroke-width="6" stroke-linecap="round"/>
+<line x1="386" y1="349" x2="386" y2="361" stroke="#e0473c" stroke-width="4" stroke-linecap="round"/>
+<line x1="396" y1="349" x2="396" y2="361" stroke="#e0473c" stroke-width="4" stroke-linecap="round"/>
+<line x1="406" y1="349" x2="406" y2="361" stroke="#e0473c" stroke-width="4" stroke-linecap="round"/>
+
+<!-- ===== surgeon figure (left) ===== -->
+<!-- legs -->
+<line x1="171" y1="318" x2="162" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="201" y1="318" x2="210" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="162" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="210" cy="457" rx="13" ry="7" fill="#33373d"/>
+<!-- teal scrubs torso -->
+<polygon points="154,212 218,212 216,320 156,320" fill="#2f9e8f" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- right arm reaching toward the table (holding scalpel) -->
+<line x1="216" y1="222" x2="300" y2="300" stroke="#2f9e8f" stroke-width="22" stroke-linecap="round"/>
+<circle class="skin" cx="306" cy="306" r="13" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="4"/>
+<!-- scalpel in hand -->
+<line x1="306" y1="306" x2="334" y2="320" stroke="#c9ced6" stroke-width="6" stroke-linecap="round"/>
+<line x1="296" y1="300" x2="312" y2="308" stroke="#39414b" stroke-width="8" stroke-linecap="round"/>
+<!-- left arm down -->
+<line x1="156" y1="222" x2="136" y2="306" stroke="#2f9e8f" stroke-width="22" stroke-linecap="round"/>
+<circle class="skin" cx="133" cy="312" r="12" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="4"/>
+<!-- neck -->
+<line x1="186" y1="212" x2="186" y2="182" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<!-- V-neck of scrubs -->
+<path d="M 170 214 L 186 234 L 202 214" fill="none" stroke="#1f6f64" stroke-width="5" stroke-linejoin="round"/>
+<!-- head -->
+<path d="M 139.0 200.0 L 139.0 144.0 Q 139.0 92.0 186.0 92.0 Q 233.0 92.0 233.0 144.0 L 233.0 200.0 L 220.0 200.0 L 220.0 146.0 Q 220.0 112.0 186.0 112.0 Q 152.0 112.0 152.0 146.0 L 152.0 200.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<circle id="h1" data-fig="fa" class="skin" cx="186" cy="146" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<!-- surgical cap: small rounded teal cap sitting ON TOP of head -->
+<path d="M 148 138 Q 148 96 186 96 Q 224 96 224 138 Q 186 124 148 138 Z" fill="#2f9e8f" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- cap tie at the back hint -->
+<line x1="150" y1="138" x2="142" y2="146" stroke="#1f6f64" stroke-width="4" stroke-linecap="round"/>
+<!-- bold opaque surgical mask covering nose + mouth -->
+<path d="M 150 150 L 222 150 L 217 178 Q 186 192 155 178 Z" fill="#dfeaf2" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- mask pleats -->
+<line x1="153" y1="160" x2="219" y2="160" stroke="#9fb4c4" stroke-width="3" stroke-linecap="round"/>
+<line x1="155" y1="169" x2="217" y2="169" stroke="#9fb4c4" stroke-width="3" stroke-linecap="round"/>
+<!-- mask straps to ears -->
+<line x1="150" y1="150" x2="142" y2="142" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="222" y1="150" x2="230" y2="142" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+</g></svg>

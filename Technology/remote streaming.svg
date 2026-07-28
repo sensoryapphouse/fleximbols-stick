@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Streaming remote (Roku/Fire style): minimal buttons + big arrow pad -->
+  <!-- Remote body: short and wide, rounded -->
+  <rect x="105" y="25" width="80" height="190" rx="22" ry="22" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Microphone hole / voice button at top -->
+  <circle cx="145" cy="45" r="9" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="142" y="40" width="6" height="10" rx="3" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Big circular d-pad with OK in centre -->
+  <circle cx="145" cy="100" r="32" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="145" cy="100" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Arrows -->
+  <path d="M 145 76 L 139 86 L 151 86 Z" fill="#000000"/>
+  <path d="M 145 124 L 139 114 L 151 114 Z" fill="#000000"/>
+  <path d="M 121 100 L 131 94 L 131 106 Z" fill="#000000"/>
+  <path d="M 169 100 L 159 94 L 159 106 Z" fill="#000000"/>
+  <!-- Back and Home row -->
+  <circle cx="125" cy="148" r="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 128 144 Q 121 148 128 152" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="165" cy="148" r="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 161 150 L 165 145 L 169 150 L 169 153 L 161 153 Z" fill="#000000" stroke="#1a1a1a" stroke-width="1.48" stroke-linejoin="round"/>
+  <!-- Play/pause -->
+  <circle cx="125" cy="172" r="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 122 168 L 122 176 L 129 172 Z" fill="#000000"/>
+  <!-- Volume rocker -->
+  <circle cx="165" cy="172" r="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="160" y1="172" x2="170" y2="172" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="165" y1="167" x2="165" y2="177" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Streaming service branded buttons (no text, just colour-coded blocks) -->
+  <rect x="115" y="188" width="26" height="14" rx="3" ry="3" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="149" y="188" width="26" height="14" rx="3" ry="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

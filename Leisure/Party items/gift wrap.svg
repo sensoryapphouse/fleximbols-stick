@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="64.00 75.95 384.00 384.00">
+<!-- roll of wrapping paper, partly unrolled -->
+<!-- unrolled sheet lying behind, patterned -->
+<path d="M 150 300 L 392 256 L 392 432 L 150 432 Z" fill="#f4c6df" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- polka dots on the unrolled sheet -->
+<circle cx="210" cy="338" r="13" fill="#e0559e" stroke="none"/>
+<circle cx="280" cy="326" r="13" fill="#e0559e" stroke="none"/>
+<circle cx="350" cy="314" r="13" fill="#e0559e" stroke="none"/>
+<circle cx="210" cy="400" r="13" fill="#e0559e" stroke="none"/>
+<circle cx="280" cy="394" r="13" fill="#e0559e" stroke="none"/>
+<circle cx="350" cy="388" r="13" fill="#e0559e" stroke="none"/>
+<!-- the cylindrical roll standing, end facing us -->
+<rect x="120" y="120" width="80" height="248" rx="6" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+<!-- diagonal stripes on the roll -->
+<line x1="128" y1="170" x2="192" y2="150" stroke="#fff3c4" stroke-width="12"/>
+<line x1="128" y1="230" x2="192" y2="210" stroke="#fff3c4" stroke-width="12"/>
+<line x1="128" y1="290" x2="192" y2="270" stroke="#fff3c4" stroke-width="12"/>
+<line x1="128" y1="350" x2="192" y2="330" stroke="#fff3c4" stroke-width="12"/>
+<!-- top opening ellipse (paper core) -->
+<ellipse cx="160" cy="120" rx="40" ry="16" fill="#f6a8c4" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="160" cy="120" rx="16" ry="6" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

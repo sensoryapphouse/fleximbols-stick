@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Subscription modern - subscription box + monthly arrow + calendar + recurring delivery -->
+  <!-- Calendar in upper left -->
+  <rect x="20" y="30" width="76" height="76" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="20" y="30" width="76" height="16" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="34" y1="22" x2="34" y2="42" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="82" y1="22" x2="82" y2="42" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Calendar grid -->
+  <line x1="20" y1="60" x2="96" y2="60" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="20" y1="75" x2="96" y2="75" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="20" y1="90" x2="96" y2="90" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="39" y1="46" x2="39" y2="106" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="58" y1="46" x2="58" y2="106" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="77" y1="46" x2="77" y2="106" stroke="#7f7f7f" stroke-width="2.22"/>
+  <!-- Repeating circled dates on calendar showing monthly pattern -->
+  <circle cx="30" cy="53" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="68" cy="68" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="49" cy="83" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="87" cy="98" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Subscription box -->
+  <path d="M 140 110 L 200 92 L 260 110 L 260 180 L 200 198 L 140 180 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Box top crease -->
+  <path d="M 140 110 L 200 128 L 260 110" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="200" y1="128" x2="200" y2="198" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Ribbon -->
+  <path d="M 170 100 L 170 188" stroke="#f2e40d" stroke-width="8.88"/>
+  <path d="M 230 100 L 230 188" stroke="#f2e40d" stroke-width="8.88"/>
+  <path d="M 140 145 L 260 145" stroke="#f2e40d" stroke-width="8.88"/>
+  <!-- Bow on top -->
+  <circle cx="200" cy="118" r="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 200 118 L 188 110 L 192 122 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 200 118 L 212 110 L 208 122 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Recurring monthly arrow from calendar to box -->
+  <path d="M 100 75 Q 120 75 130 130" fill="none" stroke="#137827" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M 124 124 L 130 134 L 138 126" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Repeat arrow circling above box (monthly indicator) -->
+  <path d="M 150 80 Q 200 50 250 80" fill="none" stroke="#ff9900" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M 244 74 L 252 82 L 244 88" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small package being delivered (right side, exit) -->
+  <rect x="248" y="200" width="34" height="30" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="248" y1="215" x2="282" y2="215" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="265" y1="200" x2="265" y2="230" stroke="#f8130d" stroke-width="4.45"/>
+  <!-- Delivery arrow from box to package -->
+  <path d="M 240 195 L 252 205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 245 200 L 252 205 L 245 209" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Floor line -->
+  <line x1="0" y1="232" x2="245" y2="232" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

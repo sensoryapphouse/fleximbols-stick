@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- stem -->
+  <line x1="145" y1="185" x2="145" y2="228" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- ferny pinnate leaves left -->
+  <line x1="140" y1="218" x2="115" y2="200" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="115" y1="200" x2="104" y2="192" stroke="#529929" stroke-width="6.67" stroke-linecap="round"/>
+  <ellipse cx="108" cy="196" rx="9" ry="5" transform="rotate(-45 108 196)" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="118" cy="204" rx="9" ry="5" transform="rotate(-45 118 204)" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="100" cy="205" rx="9" ry="5" transform="rotate(-60 100 205)" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="110" cy="195" rx="8" ry="4" transform="rotate(-30 110 195)" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- ferny leaves right -->
+  <line x1="150" y1="218" x2="175" y2="200" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="175" y1="200" x2="186" y2="192" stroke="#529929" stroke-width="6.67" stroke-linecap="round"/>
+  <ellipse cx="182" cy="196" rx="9" ry="5" transform="rotate(45 182 196)" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="172" cy="204" rx="9" ry="5" transform="rotate(45 172 204)" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="190" cy="205" rx="9" ry="5" transform="rotate(60 190 205)" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="180" cy="195" rx="8" ry="4" transform="rotate(30 180 195)" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- dense ruffled pompom — layered petals going outward -->
+  <!-- outermost ring of crinkled petals (orange) -->
+  <path d="M145 185 Q110 175 98 155 Q88 135 100 118 Q92 112 88 100 Q100 95 112 108 Q122 88 145 82 Q168 88 178 108 Q190 95 202 100 Q198 112 190 118 Q202 135 192 155 Q180 175 145 185 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- ruffled crinkle lines on outer petals -->
+  <path d="M98 155 Q105 145 108 135" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M100 118 Q108 125 112 133" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M192 155 Q185 145 182 135" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M190 118 Q182 125 178 133" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M122 88 Q128 98 130 108" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M168 88 Q162 98 160 108" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- middle ring (yellow-orange) -->
+  <path d="M145 178 Q118 170 108 152 Q100 134 110 120 Q105 114 102 106 Q112 102 120 112 Q128 96 145 91 Q162 96 170 112 Q178 102 188 106 Q185 114 180 120 Q190 134 182 152 Q172 170 145 178 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- inner ring (orange) -->
+  <path d="M145 170 Q124 163 116 147 Q110 132 120 120 Q115 115 113 108 Q121 105 128 113 Q134 100 145 96 Q156 100 162 113 Q169 105 177 108 Q175 115 170 120 Q180 132 174 147 Q166 163 145 170 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- centre tight petals (yellow) -->
+  <ellipse cx="145" cy="133" rx="26" ry="24" fill="#f2e40d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- crinkle lines on centre -->
+  <path d="M125 128 Q130 133 125 138" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M135 122 Q140 130 135 138" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M145 120 Q150 128 145 136" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M155 122 Q150 130 155 138" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M165 128 Q160 133 165 138" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg314" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg314)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

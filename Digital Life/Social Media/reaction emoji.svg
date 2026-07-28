@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Video tile -->
+  <rect x="40" y="130" width="210" height="100" rx="10" ry="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Person silhouette in tile: head -->
+  <circle cx="145" cy="157" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Shoulders -->
+  <path d="M110,230 Q110,198 145,198 Q180,198 180,230" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Emoji 1: Smiley face (left) -->
+  <circle cx="68" cy="82" r="26" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="59" cy="76" r="4" fill="#000000"/>
+  <circle cx="77" cy="76" r="4" fill="#000000"/>
+  <path d="M59,88 Q68,98 77,88" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Emoji 2: Heart (center-left) -->
+  <path d="M130,56 C130,46 118,38 112,46 C106,54 112,64 130,76 C148,64 154,54 148,46 C142,38 130,46 130,56 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- Emoji 3: Thumbs up (center-right) -->
+  <circle cx="178" cy="74" r="26" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Thumb up shape -->
+  <rect x="168" y="58" width="12" height="22" rx="5" ry="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="165" y="76" width="22" height="14" rx="4" ry="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Emoji 4: Party popper (right) -->
+  <circle cx="232" cy="60" r="24" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Cone -->
+  <polygon points="222,72 248,50 236,76" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stars/confetti -->
+  <circle cx="220" cy="48" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="235" cy="44" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="245" cy="52" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Streamers -->
+  <path d="M222,46 Q216,38 220,34" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M232,42 Q230,34 236,30" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

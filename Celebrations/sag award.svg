@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- base -->
+  <rect x="95" y="205" width="100" height="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <rect x="110" y="190" width="70" height="17" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- human figure trophy: head -->
+  <circle cx="145" cy="55" r="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- shoulders/neck -->
+  <path d="M132 70 Q145 76 158 70 L165 90 L125 90 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- torso -->
+  <path d="M125 90 L165 90 L168 155 L122 155 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- legs to base -->
+  <path d="M122 155 L168 155 L172 190 L118 190 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- left arm holding theatre mask -->
+  <path d="M125 95 L95 115 L88 145 L100 148 L110 122 L130 105 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right arm holding film reel -->
+  <path d="M165 95 L195 115 L202 145 L190 148 L180 122 L160 105 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- theatre mask in left hand -->
+  <path d="M70 130 Q65 145 73 162 Q88 170 100 162 Q108 145 100 130 Q85 122 70 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="80" cy="143" r="2.5" fill="#000000"/>
+  <circle cx="93" cy="143" r="2.5" fill="#000000"/>
+  <path d="M77 155 Q85 162 96 155" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- film reel in right hand -->
+  <circle cx="205" cy="148" r="20" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="205" cy="148" r="5" fill="#000000"/>
+  <circle cx="205" cy="135" r="3" fill="#000000"/>
+  <circle cx="205" cy="161" r="3" fill="#000000"/>
+  <circle cx="192" cy="148" r="3" fill="#000000"/>
+  <circle cx="218" cy="148" r="3" fill="#000000"/>
+  <circle cx="195" cy="140" r="2.5" fill="#000000"/>
+  <circle cx="215" cy="140" r="2.5" fill="#000000"/>
+  <circle cx="195" cy="156" r="2.5" fill="#000000"/>
+  <circle cx="215" cy="156" r="2.5" fill="#000000"/>
+</g></svg>

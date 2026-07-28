@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky peek -->
+  <rect x="0" y="0" width="290" height="35" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Dense canopy band -->
+  <path d="M0,65 C25,30 60,55 100,40 C140,28 180,55 220,40 C255,30 285,55 290,45 L290,130 L0,130 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Canopy texture clusters -->
+  <ellipse cx="30" cy="60" rx="22" ry="16" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="80" cy="50" rx="20" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="130" cy="62" rx="22" ry="16" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="180" cy="50" rx="20" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="235" cy="60" rx="22" ry="16" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Amazon river (middle band) -->
+  <rect x="0" y="130" width="290" height="32" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M10,140 Q60,145 110,140" fill="none" stroke="#90a7d6" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M150,150 Q200,145 250,150" fill="none" stroke="#90a7d6" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Forest floor / understorey -->
+  <rect x="0" y="160" width="290" height="80" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Tree trunk left (full) -->
+  <rect x="32" y="65" width="14" height="170" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Vines -->
+  <path d="M40,130 Q35,160 50,180 Q40,200 55,220" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tree trunk right -->
+  <rect x="240" y="62" width="14" height="172" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M248,130 Q255,160 240,180 Q250,200 235,220" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Toucan on left branch (full body) -->
+  <!-- Branch -->
+  <line x1="46" y1="100" x2="100" y2="100" stroke="#5e1f0a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Toucan body -->
+  <ellipse cx="92" cy="93" rx="14" ry="11" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Toucan chest -->
+  <ellipse cx="88" cy="96" rx="6" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Toucan head -->
+  <circle cx="102" cy="86" r="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Big beak -->
+  <path d="M108,82 L130,80 L120,92 L108,90 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Toucan eye -->
+  <circle cx="103" cy="84" r="2" fill="#fff200"/>
+  <circle cx="103" cy="84" r="1" fill="#000000"/>
+  <!-- Toucan legs/feet -->
+  <line x1="88" y1="103" x2="86" y2="110" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="103" x2="96" y2="110" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Toucan tail -->
+  <path d="M78,93 L70,98 L78,100 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- Monkey on right side (full body, hanging) -->
+  <!-- Hanging arm -->
+  <line x1="232" y1="100" x2="225" y2="125" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="232" y1="100" x2="240" y2="98" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Body -->
+  <ellipse cx="218" cy="148" rx="18" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Belly -->
+  <ellipse cx="218" cy="152" rx="9" ry="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Head -->
+  <circle cx="218" cy="123" r="13" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Face -->
+  <ellipse cx="218" cy="127" rx="9" ry="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="214" cy="124" r="1.6" fill="#000000"/>
+  <circle cx="222" cy="124" r="1.6" fill="#000000"/>
+  <path d="M214,130 Q218,132 222,130" stroke="#1a1a1a" stroke-width="3.56" fill="none" stroke-linecap="round"/>
+  <!-- Ears -->
+  <circle cx="207" cy="120" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="229" cy="120" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Lower arm -->
+  <line x1="205" y1="150" x2="195" y2="165" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="212" y1="170" x2="208" y2="190" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="224" y1="170" x2="228" y2="190" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Curly tail -->
+  <path d="M236,150 Q255,150 250,170 Q245,185 260,180" fill="none" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Foreground fern -->
+  <path d="M130,235 C130,210 120,200 115,200 M130,235 C130,215 140,205 150,205 M130,235 L130,200" stroke="#529929" stroke-width="5.33" fill="none" stroke-linecap="round"/>
+</g></svg>

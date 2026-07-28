@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="84.95 4.73 376.24 376.24"><g data-fit="1">
+<!-- green down arrow over the stinky sock (left) -->
+<line x1="150" y1="40" x2="150" y2="90" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="150" y1="90" x2="126" y2="66" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="150" y1="90" x2="174" y2="66" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="150" y1="40" x2="150" y2="90" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="150" y1="90" x2="126" y2="66" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="150" y1="90" x2="174" y2="66" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<!-- stink wavy lines rising from the stinky sock -->
+<path d="M 120 150 q -14 -18 0 -36 q 14 -18 0 -36" fill="none" stroke="#7a8b53" stroke-width="8" stroke-linecap="round"/>
+<path d="M 150 150 q -14 -18 0 -36 q 14 -18 0 -36" fill="none" stroke="#7a8b53" stroke-width="8" stroke-linecap="round"/>
+<path d="M 180 150 q -14 -18 0 -36 q 14 -18 0 -36" fill="none" stroke="#7a8b53" stroke-width="8" stroke-linecap="round"/>
+<!-- STINKY sock (left) -->
+<path d="M 122 170 L 178 170 L 178 270 L 232 300 Q 244 308 232 322 L 196 344 Q 150 360 122 322 Z" fill="#d9d2c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="122" y1="200" x2="178" y2="200" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- grime patch on heel/toe -->
+<ellipse cx="200" cy="320" rx="18" ry="13" fill="#7a4a24" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="150" cy="300" rx="12" ry="9" fill="#5e3a1c" stroke="#1a1a1a" stroke-width="0"/>
+<!-- FRESH sock (right, faded) -->
+<g opacity="0.34">
+<path d="M 318 170 L 374 170 L 374 270 L 428 300 Q 440 308 428 322 L 392 344 Q 346 360 318 322 Z" fill="#f3f7fa" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="318" y1="200" x2="374" y2="200" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</g>
+</g></svg>

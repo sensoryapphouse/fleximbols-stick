@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Flag pole -->
+  <line x1="55" y1="30" x2="55" y2="210" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Flag - red stripes background -->
+  <rect x="55" y="35" width="130" height="90" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- White stripes -->
+  <rect x="55" y="48" width="130" height="13" fill="#ffffff"/>
+  <rect x="55" y="74" width="130" height="13" fill="#ffffff"/>
+  <rect x="55" y="100" width="130" height="13" fill="#ffffff"/>
+  <!-- Blue canton -->
+  <rect x="55" y="35" width="52" height="52" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <!-- Stars in canton (3x3 simplified) -->
+  <circle cx="67" cy="47" r="4" fill="#ffffff"/>
+  <circle cx="81" cy="47" r="4" fill="#ffffff"/>
+  <circle cx="95" cy="47" r="4" fill="#ffffff"/>
+  <circle cx="67" cy="61" r="4" fill="#ffffff"/>
+  <circle cx="81" cy="61" r="4" fill="#ffffff"/>
+  <circle cx="95" cy="61" r="4" fill="#ffffff"/>
+  <circle cx="67" cy="75" r="4" fill="#ffffff"/>
+  <circle cx="81" cy="75" r="4" fill="#ffffff"/>
+  <circle cx="95" cy="75" r="4" fill="#ffffff"/>
+  <!-- Firework burst (top right) -->
+  <circle cx="215" cy="70" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="215" y1="40" x2="215" y2="55" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="215" y1="85" x2="215" y2="100" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="185" y1="70" x2="200" y2="70" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="230" y1="70" x2="245" y2="70" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="194" y1="49" x2="205" y2="60" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="225" y1="80" x2="236" y2="91" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="236" y1="49" x2="225" y2="60" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="205" y1="80" x2="194" y2="91" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Ground bunting triangles -->
+  <polygon points="60,185 85,210 110,185" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <polygon points="110,185 135,210 160,185" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <polygon points="160,185 185,210 210,185" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <line x1="55" y1="185" x2="215" y2="185" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- glass -->
+<path d="M168 150 L320 150 L304 392 Q244 408 184 392 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- juice fill -->
+<path d="M177 210 L311 210 L304 388 Q244 404 184 388 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="0"/>
+<!-- juice surface line -->
+<path d="M177 210 L311 210" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- re-stroke glass over fill -->
+<path d="M168 150 L320 150 L304 392 Q244 408 184 392 Z" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cranberries beside -->
+<g>
+<circle cx="362" cy="200" r="20" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="398" cy="222" r="20" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="372" cy="246" r="20" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M362 182 q-4 -10 -12 -12" fill="none" stroke="#5aa83c" stroke-width="5" stroke-linecap="round"/>
+<path d="M398 204 q-4 -10 -12 -12" fill="none" stroke="#5aa83c" stroke-width="5" stroke-linecap="round"/>
+</g>
+</svg>

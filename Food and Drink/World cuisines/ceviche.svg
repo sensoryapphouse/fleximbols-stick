@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer -->
+  <path d="M28,112 Q28,218 145,218 Q262,218 262,112 L247,102 Q247,203 145,203 Q43,203 43,102Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="102" rx="117" ry="23" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Contents surface (light citrus marinade) -->
+  <ellipse cx="145" cy="102" rx="102" ry="17" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- Fish cubes (white/pale) -->
+  <rect x="72" y="88" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <rect x="110" y="84" width="26" height="26" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40"/>
+  <rect x="150" y="86" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <rect x="188" y="90" width="24" height="22" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Smaller cube back -->
+  <rect x="130" y="80" width="20" height="18" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- Red onion slices (thin purple crescents) -->
+  <path d="M85,88 Q95,78 105,88" fill="none" stroke="#7c3fac" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M88,91 Q98,82 108,91" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M165,84 Q175,74 185,84" fill="none" stroke="#7c3fac" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M168,87 Q178,78 188,87" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Lime wedge (front left) -->
+  <path d="M45,125 L78,98 Q88,112 78,128 Z" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M45,125 L78,98" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="62" y1="112" x2="56" y2="124" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="70" y1="106" x2="62" y2="122" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Lime wedge (front right) -->
+  <path d="M245,125 L212,98 Q202,112 212,128 Z" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M245,125 L212,98" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="228" y1="112" x2="234" y2="124" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="220" y1="106" x2="228" y2="122" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Cilantro sprigs -->
+  <circle cx="145" cy="96" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="136" cy="92" r="5" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="154" cy="92" r="5" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="102" x2="145" y2="112" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Chilli fleck -->
+  <ellipse cx="120" cy="99" rx="6" ry="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="170" cy="97" rx="5" ry="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

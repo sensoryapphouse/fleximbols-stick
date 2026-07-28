@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g data-fit="1" transform="translate(256 256) scale(1.1208) translate(-256.00 -284.00)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ==== rug / carpet in perspective (trapezoid, near edge wider) ==== -->
+<!-- main rug field -->
+<polygon points="120,180 392,180 452,360 60,360" fill="#c0392b" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- inner border band -->
+<polygon points="152,210 360,210 404,330 108,330" fill="none" stroke="#f2c84b" stroke-width="12" stroke-linejoin="round"/>
+<!-- central field colour -->
+<polygon points="176,232 336,232 374,308 138,308" fill="#1f6f8b" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- central medallion / motif -->
+<polygon points="256,248 286,270 256,292 226,270" fill="#f2c84b" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="256" cy="270" r="9" fill="#c0392b" stroke="#1a1a1a" stroke-width="4"/>
+<!-- corner dots in the field -->
+<circle cx="196" cy="262" r="6" fill="#f2c84b"/>
+<circle cx="316" cy="262" r="6" fill="#f2c84b"/>
+<circle cx="180" cy="290" r="6" fill="#f2c84b"/>
+<circle cx="332" cy="290" r="6" fill="#f2c84b"/>
+<!-- fringe / tassels along the near (bottom) edge -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
+<line x1="78" y1="360" x2="72" y2="384"/>
+<line x1="118" y1="360" x2="113" y2="386"/>
+<line x1="158" y1="360" x2="154" y2="388"/>
+<line x1="198" y1="360" x2="195" y2="389"/>
+<line x1="238" y1="360" x2="236" y2="390"/>
+<line x1="278" y1="360" x2="277" y2="390"/>
+<line x1="318" y1="360" x2="318" y2="389"/>
+<line x1="358" y1="360" x2="360" y2="388"/>
+<line x1="398" y1="360" x2="401" y2="386"/>
+<line x1="434" y1="360" x2="440" y2="384"/>
+</g>
+</g></svg>

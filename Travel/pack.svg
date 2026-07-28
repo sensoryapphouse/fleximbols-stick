@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2344) translate(-226.00 -283.50)">
+<!-- open suitcase lid (raised, behind) -->
+<rect x="120.0" y="120.0" width="272.0" height="118.0" rx="16" fill="#3a6ea5" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="120.0" y="120.0" width="272.0" height="118.0" rx="16" fill="none" stroke="#23476b" stroke-width="4" stroke-dasharray="0" transform="translate(0,0)"/>
+<rect x="142.0" y="142.0" width="228.0" height="74.0" rx="10" fill="#5a8fc0" stroke="#23476b" stroke-width="5"/>
+<!-- elastic straps inside lid -->
+<line x1="200" y1="142" x2="200" y2="216" stroke="#23476b" stroke-width="6" stroke-linecap="round"/>
+<line x1="312" y1="142" x2="312" y2="216" stroke="#23476b" stroke-width="6" stroke-linecap="round"/>
+<!-- hinge -->
+<rect x="120.0" y="232.0" width="272.0" height="14.0" rx="4" fill="#23476b" stroke="#1a1a1a" stroke-width="4"/>
+<!-- open suitcase base (front) with folded clothes inside -->
+<rect x="120.0" y="246.0" width="272.0" height="150.0" rx="16" fill="#3a6ea5" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="138.0" y="262.0" width="236.0" height="120.0" rx="10" fill="#dfe7ef" stroke="#23476b" stroke-width="5"/>
+<!-- stacked folded garments -->
+<rect x="150.0" y="320.0" width="212.0" height="26.0" rx="6" fill="#3fae5a" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="150.0" y="350.0" width="212.0" height="26.0" rx="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="5"/>
+<!-- garment being dropped IN (mid-air, above the open case) -->
+<rect x="206.0" y="266.0" width="100.0" height="34.0" rx="8" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="222" y1="276" x2="290" y2="276" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+<line x1="222" y1="290" x2="290" y2="290" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+<!-- downward arrow: item going into the bag -->
+<line x1="256" y1="96" x2="256" y2="150" stroke="#e0473c" stroke-width="16" stroke-linecap="round"/>
+<polygon points="256,182 230,150 282,150" fill="#e0473c" stroke="#e0473c" stroke-width="4" stroke-linejoin="round"/>
+<!-- carry handle -->
+<path d="M 226 246 q 30 -34 60 0" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</g></svg>

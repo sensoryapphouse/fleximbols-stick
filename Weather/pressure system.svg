@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Weather map background panel -->
+  <rect x="26" y="32" width="238" height="176" rx="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Concentric isobar rings across the map -->
+  <ellipse cx="145" cy="120" rx="118" ry="95" fill="none" stroke="#90a7d6" stroke-width="2.66"/>
+  <ellipse cx="145" cy="120" rx="90" ry="72" fill="none" stroke="#90a7d6" stroke-width="2.66"/>
+  <ellipse cx="145" cy="120" rx="63" ry="50" fill="none" stroke="#90a7d6" stroke-width="2.66"/>
+  <ellipse cx="145" cy="120" rx="38" ry="30" fill="none" stroke="#90a7d6" stroke-width="2.66"/>
+  <ellipse cx="145" cy="120" rx="16" ry="12" fill="none" stroke="#90a7d6" stroke-width="2.66"/>
+  <!-- Drawn "H" (High pressure) — upper-right quadrant, red strokes -->
+  <!-- Left vertical of H -->
+  <line x1="196" y1="28" x2="196" y2="72" stroke="#f8130d" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Right vertical of H -->
+  <line x1="224" y1="28" x2="224" y2="72" stroke="#f8130d" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Crossbar of H -->
+  <line x1="196" y1="50" x2="224" y2="50" stroke="#f8130d" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Drawn "L" (Low pressure) — lower-left quadrant, blue strokes -->
+  <!-- Vertical stroke of L -->
+  <line x1="52" y1="158" x2="52" y2="205" stroke="#2a4ec0" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Horizontal stroke of L -->
+  <line x1="52" y1="205" x2="88" y2="205" stroke="#2a4ec0" stroke-width="7.11" stroke-linecap="round"/>
+</g></svg>

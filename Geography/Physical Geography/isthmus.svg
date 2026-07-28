@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ocean background -->
+  <rect x="26" y="32" width="238" height="176" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- left big land mass -->
+  <path d="M10 20 L100 20 Q120 60 115 110 Q113 125 115 135 Q120 180 100 220 L10 220 Z"
+        fill="#67832d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- right big land mass -->
+  <path d="M280 20 L190 20 Q170 60 175 110 Q177 125 175 135 Q170 180 190 220 L280 220 Z"
+        fill="#67832d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- narrow isthmus connecting them (thin horizontal strip) -->
+  <path d="M115 110 Q130 105 145 108 Q160 105 175 110 L175 135 Q160 140 145 137 Q130 140 115 135 Z"
+        fill="#67832d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- sandy edges along isthmus -->
+  <path d="M115 110 Q130 105 145 108 Q160 105 175 110 L175 114 Q160 109 145 112 Q130 109 115 114 Z"
+        fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M115 131 Q130 136 145 133 Q160 136 175 131 L175 135 Q160 140 145 137 Q130 140 115 135 Z"
+        fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- trees on left land -->
+  <circle cx="40" cy="60" r="8" fill="#137827" stroke="#1a1a1a" stroke-width="3.95"/>
+  <circle cx="75" cy="100" r="8" fill="#137827" stroke="#1a1a1a" stroke-width="3.95"/>
+  <circle cx="40" cy="170" r="8" fill="#137827" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- trees on right land -->
+  <circle cx="250" cy="60" r="8" fill="#137827" stroke="#1a1a1a" stroke-width="3.95"/>
+  <circle cx="215" cy="100" r="8" fill="#137827" stroke="#1a1a1a" stroke-width="3.95"/>
+  <circle cx="250" cy="170" r="8" fill="#137827" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- ripples top water -->
+  <path d="M130 60 Q150 56 170 60" fill="none" stroke="#90a7d6" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M125 80 Q145 77 165 80" fill="none" stroke="#90a7d6" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- ripples bottom water -->
+  <path d="M130 175 Q150 172 170 175" fill="none" stroke="#90a7d6" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M125 195 Q145 192 165 195" fill="none" stroke="#90a7d6" stroke-width="4.94" stroke-linecap="round"/>
+</g></svg>

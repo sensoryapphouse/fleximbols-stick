@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- document with PADLOCK + 'CONFIDENTIAL' (path) + signature + zipped-lips icon -->
+  <!-- document -->
+  <rect x="45" y="22" width="200" height="196" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- CONFIDENTIAL stamp band -->
+  <rect x="55" y="38" width="180" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-6 145 49)"/>
+  <!-- C-O-N-F-I-D-E-N-T-I-A-L as path shapes (block letters) -->
+  <g transform="rotate(-6 145 49)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33">
+    <rect x="63" y="42" width="3" height="14"/>
+    <rect x="63" y="42" width="9" height="3"/>
+    <rect x="63" y="53" width="9" height="3"/>
+    <rect x="76" y="42" width="9" height="14" fill="none"/>
+    <rect x="89" y="42" width="3" height="14"/>
+    <rect x="89" y="42" width="9" height="3"/>
+    <polygon points="89,53 98,42 98,46 92,53"/>
+    <rect x="102" y="42" width="9" height="14" fill="none"/>
+    <rect x="115" y="42" width="3" height="14"/>
+    <rect x="115" y="42" width="9" height="3"/>
+    <rect x="115" y="48" width="6" height="3"/>
+    <rect x="115" y="53" width="9" height="3"/>
+    <rect x="128" y="42" width="9" height="14" fill="none"/>
+    <rect x="141" y="42" width="3" height="14"/>
+    <rect x="141" y="42" width="9" height="3"/>
+    <polygon points="141,53 150,42 150,46 144,53"/>
+    <rect x="154" y="42" width="9" height="3"/>
+    <rect x="158" y="42" width="3" height="14"/>
+    <rect x="167" y="42" width="9" height="14" fill="none"/>
+    <rect x="180" y="42" width="3" height="14"/>
+    <rect x="180" y="42" width="9" height="3"/>
+    <rect x="193" y="42" width="3" height="14"/>
+    <rect x="193" y="53" width="9" height="3"/>
+  </g>
+  <!-- big padlock -->
+  <path d="M115,90 L115,80 a30,30 0 0 1 60,0 L175,90" fill="none" stroke="#4d4d4d" stroke-width="15.56" stroke-linecap="round"/>
+  <rect x="105" y="90" width="80" height="60" rx="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="115" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="142" y="118" width="6" height="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- zipped lips icon -->
+  <ellipse cx="90" cy="180" rx="22" ry="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.56"/>
+  <line x1="68" y1="180" x2="112" y2="180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- zipper teeth -->
+  <line x1="74" y1="176" x2="74" y2="184" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="82" y1="176" x2="82" y2="184" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="90" y1="176" x2="90" y2="184" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="98" y1="176" x2="98" y2="184" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="106" y1="176" x2="106" y2="184" stroke="#7f7f7f" stroke-width="4.45"/>
+  <!-- zipper pull -->
+  <rect x="112" y="178" width="6" height="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- signature line -->
+  <line x1="135" y1="195" x2="230" y2="195" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M140,193 q8,-8 16,0 q8,6 16,-3 q6,-3 14,3 q8,5 18,-4" fill="none" stroke="#1d0e82" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

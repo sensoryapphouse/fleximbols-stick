@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- coupe glass bowl -->
+  <path d="M65 70 L225 70 Q 215 150, 145 160 Q 75 150, 65 70 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- pale green liquid surface -->
+  <ellipse cx="145" cy="78" rx="75" ry="10" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- liquid body, slightly more yellow-green than gimlet -->
+  <path d="M72 78 Q 80 140, 145 150 Q 210 140, 218 78 Q 145 92, 72 78 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- stem -->
+  <rect x="140" y="160" width="10" height="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- base -->
+  <ellipse cx="145" cy="215" rx="42" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cherry submerged -->
+  <circle cx="145" cy="115" r="13" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cherry stem rising above -->
+  <path d="M145 102 Q 150 88, 160 78" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

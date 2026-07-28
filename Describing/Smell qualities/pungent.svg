@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 62.37 411.15 411.15">
+<!-- PUNGENT: cut onion and chilli giving off sharp, intense zig-zag scent -->
+<!-- sharp jagged scent bolts -->
+<g fill="none" stroke="#7a8b53" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="206,196 222,160 200,140 220,108"/>
+<polyline points="262,182 278,146 256,126 276,94"/>
+<polyline points="318,196 334,160 312,140 332,108"/>
+</g>
+<!-- cut onion half -->
+<path d="M 96 300 Q 96 232 188 232 Q 280 232 280 300 Q 280 380 188 392 Q 96 380 96 300 Z" fill="#efe6f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 124 304 Q 124 262 188 262 Q 252 262 252 304" fill="none" stroke="#b48fc0" stroke-width="8"/>
+<path d="M 150 312 Q 150 286 188 286 Q 226 286 226 312" fill="none" stroke="#b48fc0" stroke-width="8"/>
+<path d="M 174 320 Q 174 308 188 308 Q 202 308 202 320" fill="none" stroke="#b48fc0" stroke-width="8"/>
+<!-- onion top tuft -->
+<line x1="188" y1="232" x2="188" y2="206" stroke="#3f8a3f" stroke-width="9" stroke-linecap="round"/>
+<!-- chilli -->
+<path d="M 320 280 Q 420 290 416 392 Q 412 440 372 444 Q 392 400 360 368 Q 332 340 320 300 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- chilli stalk -->
+<path d="M 320 300 Q 300 286 296 262" fill="none" stroke="#3f8a3f" stroke-width="11" stroke-linecap="round"/>
+</svg>

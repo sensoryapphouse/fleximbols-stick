@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pill bottle body -->
+  <rect x="70" y="60" width="130" height="160" rx="8" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Bottle cap -->
+  <rect x="60" y="30" width="150" height="35" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Cap ridges -->
+  <path d="M75 30 L75 65 M90 30 L90 65 M105 30 L105 65 M120 30 L120 65 M135 30 L135 65 M150 30 L150 65 M165 30 L165 65 M180 30 L180 65 M195 30 L195 65" fill="none" stroke="#1d0e82" stroke-width="2.96"/>
+  <!-- Label -->
+  <rect x="80" y="90" width="110" height="115" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Calm wave -->
+  <path d="M88 115 Q100 105 115 115 T140 115 T165 115 T185 115" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M88 130 Q100 120 115 130 T140 130 T165 130 T185 130" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Relaxed face -->
+  <circle cx="135" cy="170" r="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Closed relaxed eyes -->
+  <path d="M124 168 Q128 164 132 168" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M138 168 Q142 164 146 168" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Small calm smile -->
+  <path d="M128 180 Q135 184 142 180" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Pill outside the bottle -->
+  <ellipse cx="240" cy="140" rx="26" ry="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 240 140)"/>
+  <path d="M226 154 Q244 138 256 128" fill="none" stroke="#1a1a1a" stroke-width="3.70"/>
+  <ellipse cx="232" cy="148" rx="13" ry="11" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.70" transform="rotate(-25 232 148)"/>
+</g></svg>

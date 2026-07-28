@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- whole finger lime: elongated dark-green tube -->
+  <path d="M48 90
+           C40 78 46 60 64 56
+           C84 52 110 62 130 80
+           C146 96 152 110 150 122
+           C148 132 138 138 124 134
+           C104 130 80 118 64 102
+           C56 96 52 92 48 90 Z"
+        fill="#137827" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- stem nub on whole one -->
+  <path d="M48 88 L40 80" fill="none" stroke="#5e1f0a" stroke-width="11.86" stroke-linecap="round"/>
+  <!-- cut finger lime: elongated half, pale flesh with tiny round pearls -->
+  <path d="M80 200
+           C70 188 78 168 100 162
+           C124 156 156 164 184 176
+           C214 188 240 200 252 210
+           C260 218 252 228 234 230
+           C210 232 184 226 156 218
+           C124 210 96 206 80 200 Z"
+        fill="#67832d" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- pale flesh inside the cut, slightly inset -->
+  <path d="M92 198
+           C86 190 94 176 110 172
+           C130 168 158 174 182 184
+           C206 194 230 204 240 212
+           C244 218 238 224 224 224
+           C204 224 180 220 156 212
+           C128 204 104 200 92 198 Z"
+        fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- tiny round pearls of pulp -->
+  <circle cx="120" cy="192" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="200" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="194" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="202" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="196" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="204" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="212" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="115" cy="208" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="212" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="216" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="205" cy="220" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="180" r="3.5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="180" r="3.5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="186" r="3.5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="200" r="3.5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

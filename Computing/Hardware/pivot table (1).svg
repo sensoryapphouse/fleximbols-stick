@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pivot table: grid with darker header, grouped rows, total bar, rotation arrow -->
+
+  <!-- Table outer frame (slightly smaller to leave room for arrow) -->
+  <rect x="22" y="28" width="216" height="175" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Header row -->
+  <rect x="22" y="28" width="216" height="30" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Row header column -->
+  <rect x="22" y="28" width="54" height="175" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Column dividers -->
+  <line x1="76" y1="28" x2="76" y2="203" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="130" y1="28" x2="130" y2="203" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="184" y1="28" x2="184" y2="203" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row dividers -->
+  <line x1="22" y1="58" x2="238" y2="58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="22" y1="88" x2="238" y2="88" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="22" y1="118" x2="238" y2="118" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="22" y1="148" x2="238" y2="148" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="22" y1="178" x2="238" y2="178" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Grouped row highlight (rows 2–3 share a group colour) -->
+  <rect x="23" y="59" width="52" height="59" fill="#90a7d6"/>
+  <!-- Total row highlight -->
+  <rect x="23" y="179" width="214" height="23" fill="#f7de58"/>
+  <!-- Small total bar inside last data cell (visual) -->
+  <rect x="138" y="183" width="38" height="15" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="84" y="183" width="22" height="15" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+
+  <!-- Rotation / fold arrow (top-right corner) -->
+  <!-- Arrow arc: circular arrow suggesting rotation/pivot -->
+  <path d="M252,45 A30,30 0 1,1 252,75" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Arrowhead pointing down-left at end of arc -->
+  <polygon points="252,75 242,62 263,65" fill="#000000"/>
+</g></svg>

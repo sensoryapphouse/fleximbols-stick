@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1733) translate(-256.00 -262.50)">
+<path d="M 70 150 Q 256 116 256 150 Q 256 116 442 150 L 442 392 Q 256 360 256 392 Q 256 360 70 392 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="11" stroke-linejoin="round"/>
+<path d="M 86 162 Q 256 132 256 162 L 256 380 Q 256 352 86 380 Z" fill="#fbf7ec" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 426 162 Q 256 132 256 162 L 256 380 Q 256 352 426 380 Z" fill="#fbf7ec" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="256" y1="162" x2="256" y2="380" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- LEFT PAGE: ABC letters built from strokes -->
+<!-- A -->
+<line x1="106" y1="262" x2="124" y2="206" stroke="#2b3a55" stroke-width="11" stroke-linecap="round"/>
+<line x1="142" y1="262" x2="124" y2="206" stroke="#2b3a55" stroke-width="11" stroke-linecap="round"/>
+<line x1="113" y1="240" x2="135" y2="240" stroke="#2b3a55" stroke-width="9" stroke-linecap="round"/>
+<!-- B -->
+<line x1="166" y1="206" x2="166" y2="262" stroke="#3a86d6" stroke-width="11" stroke-linecap="round"/>
+<path d="M 166 206 Q 196 206 196 220 Q 196 234 166 234" fill="none" stroke="#3a86d6" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 166 234 Q 200 234 200 248 Q 200 262 166 262" fill="none" stroke="#3a86d6" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- C -->
+<path d="M 232 216 Q 216 206 210 234 Q 208 262 232 254" fill="none" stroke="#3fae5a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- second row hint lines (writing) -->
+<line x1="106" y1="300" x2="226" y2="300" stroke="#9aa7b3" stroke-width="9" stroke-linecap="round"/>
+<line x1="106" y1="334" x2="204" y2="334" stroke="#9aa7b3" stroke-width="9" stroke-linecap="round"/>
+<!-- RIGHT PAGE: speech bubble (spoken language) -->
+<path d="M 300 192 Q 300 178 314 178 L 404 178 Q 418 178 418 192 L 418 254 Q 418 268 404 268 L 344 268 L 322 296 L 326 268 L 314 268 Q 300 268 300 254 Z" fill="#f5c542" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="332" cy="223" r="8" fill="#2b3a55"/>
+<circle cx="359" cy="223" r="8" fill="#2b3a55"/>
+<circle cx="386" cy="223" r="8" fill="#2b3a55"/>
+<line x1="300" y1="334" x2="406" y2="334" stroke="#9aa7b3" stroke-width="9" stroke-linecap="round"/>
+</g></svg>

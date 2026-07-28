@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- 80 / 20 split with insurance + patient + dollar -->
+  <!-- big pie chart 80/20 -->
+  <circle cx="145" cy="135" r="80" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- 20% slice (72 degrees) starting from top -->
+  <path d="M145 135 L145 55 A80 80 0 0 1 213 175 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- 80 as path inside blue slice (left/center) -->
+  <!-- 8 -->
+  <path d="M108 120 Q98 120 98 128 Q98 133 102 135 Q98 137 98 142 Q98 150 108 150 Q118 150 118 142 Q118 137 114 135 Q118 133 118 128 Q118 120 108 120 Z M108 126 Q112 126 112 129 Q112 132 108 132 Q104 132 104 129 Q104 126 108 126 Z M108 138 Q112 138 112 142 Q112 145 108 145 Q104 145 104 142 Q104 138 108 138 Z" fill="#ffffff" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- 0 -->
+  <path d="M132 120 Q122 120 122 135 Q122 150 132 150 Q142 150 142 135 Q142 120 132 120 Z M132 127 Q128 127 128 135 Q128 143 132 143 Q136 143 136 135 Q136 127 132 127 Z" fill="#ffffff" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- % small in blue -->
+  <circle cx="152" cy="124" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M152 124 L158 132" stroke="#ffffff" stroke-width="4.45"/>
+  <circle cx="158" cy="134" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- 20 in red slice (upper right) -->
+  <!-- 2 -->
+  <path d="M180 92 Q174 92 174 98 L178 98 Q178 96 180 96 Q183 96 183 98 Q183 100 180 102 L174 108 L174 112 L188 112 L188 108 L182 108 L186 104 Q188 101 188 98 Q188 92 180 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.00" stroke-linejoin="round"/>
+  <!-- 0 -->
+  <path d="M196 92 Q189 92 189 102 Q189 112 196 112 Q203 112 203 102 Q203 92 196 92 Z M196 96 Q194 96 194 102 Q194 108 196 108 Q198 108 198 102 Q198 96 196 96 Z" fill="#ffffff" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="4.00" stroke-linejoin="round"/>
+  <!-- % -->
+  <circle cx="208" cy="95" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M208 95 L212 102" stroke="#ffffff" stroke-width="3.33"/>
+  <circle cx="212" cy="104" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- insurance icon bottom-left (briefcase with cross) -->
+  <rect x="22" y="190" width="50" height="36" rx="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="36" y="184" width="22" height="8" rx="2" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="42" y="200" width="10" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="38" y="204" width="18" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- patient icon bottom-right (full body small) -->
+  <circle cx="245" cy="186" r="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M236 184 Q245 175 254 184 L253 179 Q245 172 237 179 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M232 196 L258 196 L260 218 L230 218 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M232 198 L222 212 L226 216 L236 204 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M258 198 L268 212 L264 216 L254 204 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <circle cx="224" cy="214" r="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="266" cy="214" r="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M236 218 L235 232 L242 232 L243 218 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M247 218 L248 232 L255 232 L254 218 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- dollar sign top-left -->
+  <circle cx="36" cy="40" r="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M34 26 Q26 26 26 32 Q26 37 32 38 L38 39 Q40 39 40 41 Q40 44 34 44 Q30 44 28 42 L25 47 Q29 50 34 50 L34 54 L38 54 L38 50 Q46 50 46 42 Q46 37 40 36 L34 35 Q32 35 32 33 Q32 32 36 32 Q40 32 42 33 L44 28 Q40 26 38 26 L38 22 L34 22 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

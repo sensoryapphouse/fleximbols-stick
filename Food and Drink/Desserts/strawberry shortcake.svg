@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bottom biscuit layer -->
+  <ellipse cx="145" cy="195" rx="88" ry="16" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M57,168 Q57,195 145,205 Q233,195 233,168 L233,162 Q233,150 145,144 Q57,150 57,162 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="158" rx="88" ry="18" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Biscuit texture crack line -->
+  <path d="M80,158 Q145,150 210,158" fill="none" stroke="#9d7246" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Strawberry layer between biscuit halves -->
+  <path d="M68,157 Q68,148 145,143 Q222,148 222,157 L222,163 Q222,170 145,175 Q68,170 68,163 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Strawberry slices in filling -->
+  <ellipse cx="108" cy="160" rx="12" ry="7" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="158" rx="12" ry="7" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="182" cy="160" rx="12" ry="7" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Whipped cream layer -->
+  <ellipse cx="145" cy="142" rx="82" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Cream swirl texture -->
+  <path d="M80,140 Q100,132 120,140 Q140,132 160,140 Q180,132 200,140 Q210,136 210,142" fill="none" stroke="#efefef" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Top biscuit layer -->
+  <path d="M70,140 Q70,122 145,116 Q220,122 220,140 L220,144 Q220,152 145,156 Q70,152 70,144 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="128" rx="75" ry="16" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Strawberries on top -->
+  <!-- Left strawberry -->
+  <path d="M110,116 Q105,100 112,90 Q118,82 125,90 Q132,100 127,116 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M112,90 Q115,84 118,90" fill="none" stroke="#529929" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Small seeds -->
+  <ellipse cx="114" cy="102" rx="2" ry="3" fill="#ffffff" stroke="none" transform="rotate(-10 114 102)"/>
+  <ellipse cx="121" cy="96" rx="2" ry="3" fill="#ffffff" stroke="none" transform="rotate(10 121 96)"/>
+  <ellipse cx="122" cy="108" rx="2" ry="3" fill="#ffffff" stroke="none" transform="rotate(-5 122 108)"/>
+  <!-- Right strawberry -->
+  <path d="M163,116 Q158,100 165,90 Q171,82 178,90 Q185,100 180,116 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M165,90 Q168,84 171,90" fill="none" stroke="#529929" stroke-width="3.33" stroke-linecap="round"/>
+  <ellipse cx="167" cy="102" rx="2" ry="3" fill="#ffffff" stroke="none" transform="rotate(-10 167 102)"/>
+  <ellipse cx="174" cy="96" rx="2" ry="3" fill="#ffffff" stroke="none" transform="rotate(10 174 96)"/>
+  <ellipse cx="175" cy="108" rx="2" ry="3" fill="#ffffff" stroke="none" transform="rotate(-5 175 108)"/>
+  <!-- Centre strawberry large -->
+  <path d="M136,112 Q129,93 138,80 Q145,70 152,80 Q161,93 154,112 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M138,80 Q145,73 152,80" fill="none" stroke="#529929" stroke-width="3.89" stroke-linecap="round"/>
+  <ellipse cx="140" cy="94" rx="2" ry="3" fill="#ffffff" stroke="none" transform="rotate(-10 140 94)"/>
+  <ellipse cx="148" cy="87" rx="2" ry="3" fill="#ffffff" stroke="none" transform="rotate(10 148 87)"/>
+  <ellipse cx="149" cy="101" rx="2" ry="3" fill="#ffffff" stroke="none" transform="rotate(-5 149 101)"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- jungle ridge top -->
+  <path d="M10 50 Q40 30 70 50 Q100 35 130 50 Q160 32 190 50 Q220 38 250 50 Q270 42 280 50 L280 70 L10 70 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- palm/jungle foliage tufts on top -->
+  <circle cx="40" cy="42" r="10" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="110" cy="40" r="10" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="180" cy="42" r="10" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="245" cy="40" r="10" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- upper tier ledge -->
+  <rect x="20" y="68" width="250" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- upper falls -->
+  <path d="M40 82 L42 115 L120 115 L118 82 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M165 82 L168 115 L255 115 L252 82 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- middle ledge with vegetation -->
+  <rect x="30" y="115" width="230" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="140" cy="115" r="10" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- lower tier falls (wider, multi cascade) -->
+  <path d="M35 129 L40 195 L255 195 L250 129 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- water streaks -->
+  <path d="M60 132 L62 192" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 132 L97 192" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 132 L132 192" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M165 132 L167 192" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M200 132 L202 192" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M230 132 L232 192" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- mist pool at base -->
+  <ellipse cx="80" cy="205" rx="35" ry="12" fill="#efefef" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="200" cy="208" rx="40" ry="13" fill="#efefef" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="145" cy="220" rx="55" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.33"/>
+</g></svg>

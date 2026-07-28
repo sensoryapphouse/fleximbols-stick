@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cabin walls -->
+  <rect x="30" y="80" width="230" height="145" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Roof -->
+  <polygon points="15,80 145,20 275,80" fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Wood plank lines on wall -->
+  <line x1="30" y1="110" x2="260" y2="110" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="30" y1="140" x2="260" y2="140" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="30" y1="170" x2="260" y2="170" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="30" y1="200" x2="260" y2="200" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Door -->
+  <rect x="108" y="155" width="50" height="70" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="152" cy="192" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bench inside (visible through perspective) -->
+  <rect x="40" y="158" width="58" height="14" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="40" y="172" width="58" height="8" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="50" y1="172" x2="50" y2="180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="88" y1="172" x2="88" y2="180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Heater with stones (right side) -->
+  <rect x="180" y="162" width="36" height="32" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="188" cy="171" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="200" cy="168" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="210" cy="172" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="193" cy="180" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="205" cy="179" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2808" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2808)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

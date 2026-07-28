@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- 9x9 sudoku grid centered. Cell size 18, grid 162x162. Origin x=64, y=39. -->
+  <rect x="64" y="39" width="162" height="162" fill="#ffffff" stroke="#1a1a1a" stroke-width="17.78" stroke-linejoin="round"/>
+  <!-- thin lines (vertical) -->
+  <path d="M82 39 L82 201" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M100 39 L100 201" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M136 39 L136 201" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M154 39 L154 201" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M190 39 L190 201" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M208 39 L208 201" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- thick block lines (vertical) -->
+  <path d="M118 39 L118 201" stroke="#1a1a1a" stroke-width="13.34"/>
+  <path d="M172 39 L172 201" stroke="#1a1a1a" stroke-width="13.34"/>
+  <!-- thin lines (horizontal) -->
+  <path d="M64 57 L226 57" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M64 75 L226 75" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M64 111 L226 111" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M64 129 L226 129" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M64 165 L226 165" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M64 183 L226 183" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- thick block lines (horizontal) -->
+  <path d="M64 93 L226 93" stroke="#1a1a1a" stroke-width="13.34"/>
+  <path d="M64 147 L226 147" stroke="#1a1a1a" stroke-width="13.34"/>
+
+  <!-- ===== Numerals drawn as path shapes (filled rectangles forming 7-segment style digits) ===== -->
+  <!-- Each digit fits inside an 18x18 cell with ~3px padding. Digit body ~12 wide, 14 tall. -->
+  <!-- Helper geometry per cell with top-left (cx, cy): segments use 2px thickness, digit area cx+3..cx+15, cy+2..cy+16 -->
+
+  <!-- Cell (row1,col1) "5" at cx=64 cy=39 -->
+  <rect x="68" y="42" width="10" height="2" fill="#1d0e82"/>
+  <rect x="68" y="42" width="2" height="6" fill="#1d0e82"/>
+  <rect x="68" y="48" width="10" height="2" fill="#1d0e82"/>
+  <rect x="76" y="50" width="2" height="6" fill="#1d0e82"/>
+  <rect x="68" y="54" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row1,col4) "7" at cx=118 cy=39 -->
+  <rect x="122" y="42" width="10" height="2" fill="#1d0e82"/>
+  <rect x="130" y="44" width="2" height="12" fill="#1d0e82"/>
+
+  <!-- Cell (row1,col9) "3" at cx=208 cy=39 -->
+  <rect x="212" y="42" width="10" height="2" fill="#1d0e82"/>
+  <rect x="220" y="44" width="2" height="4" fill="#1d0e82"/>
+  <rect x="214" y="48" width="8" height="2" fill="#1d0e82"/>
+  <rect x="220" y="50" width="2" height="4" fill="#1d0e82"/>
+  <rect x="212" y="54" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row2,col2) "9" at cx=82 cy=57 -->
+  <rect x="86" y="60" width="10" height="2" fill="#1d0e82"/>
+  <rect x="86" y="60" width="2" height="6" fill="#1d0e82"/>
+  <rect x="94" y="60" width="2" height="12" fill="#1d0e82"/>
+  <rect x="86" y="66" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row2,col6) "2" at cx=154 cy=57 -->
+  <rect x="158" y="60" width="10" height="2" fill="#1d0e82"/>
+  <rect x="166" y="62" width="2" height="4" fill="#1d0e82"/>
+  <rect x="158" y="66" width="10" height="2" fill="#1d0e82"/>
+  <rect x="158" y="68" width="2" height="4" fill="#1d0e82"/>
+  <rect x="158" y="72" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row3,col3) "8" at cx=100 cy=75 -->
+  <rect x="104" y="78" width="10" height="2" fill="#1d0e82"/>
+  <rect x="104" y="78" width="2" height="12" fill="#1d0e82"/>
+  <rect x="112" y="78" width="2" height="12" fill="#1d0e82"/>
+  <rect x="104" y="84" width="10" height="2" fill="#1d0e82"/>
+  <rect x="104" y="90" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row3,col7) "1" at cx=172 cy=75 -->
+  <rect x="180" y="78" width="2" height="12" fill="#1d0e82"/>
+  <rect x="178" y="88" width="6" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row4,col1) "6" at cx=64 cy=93 -->
+  <rect x="68" y="96" width="10" height="2" fill="#1d0e82"/>
+  <rect x="68" y="96" width="2" height="12" fill="#1d0e82"/>
+  <rect x="68" y="102" width="10" height="2" fill="#1d0e82"/>
+  <rect x="76" y="104" width="2" height="4" fill="#1d0e82"/>
+  <rect x="68" y="108" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row4,col5) "4" at cx=136 cy=93 -->
+  <rect x="140" y="96" width="2" height="8" fill="#1d0e82"/>
+  <rect x="148" y="96" width="2" height="12" fill="#1d0e82"/>
+  <rect x="140" y="102" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row5,col5) "5" at cx=136 cy=111 -->
+  <rect x="140" y="114" width="10" height="2" fill="#1d0e82"/>
+  <rect x="140" y="114" width="2" height="6" fill="#1d0e82"/>
+  <rect x="140" y="120" width="10" height="2" fill="#1d0e82"/>
+  <rect x="148" y="122" width="2" height="6" fill="#1d0e82"/>
+  <rect x="140" y="126" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row5,col9) "7" at cx=208 cy=111 -->
+  <rect x="212" y="114" width="10" height="2" fill="#1d0e82"/>
+  <rect x="220" y="116" width="2" height="12" fill="#1d0e82"/>
+
+  <!-- Cell (row6,col3) "2" at cx=100 cy=129 -->
+  <rect x="104" y="132" width="10" height="2" fill="#1d0e82"/>
+  <rect x="112" y="134" width="2" height="4" fill="#1d0e82"/>
+  <rect x="104" y="138" width="10" height="2" fill="#1d0e82"/>
+  <rect x="104" y="140" width="2" height="4" fill="#1d0e82"/>
+  <rect x="104" y="144" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row6,col7) "3" at cx=172 cy=129 -->
+  <rect x="176" y="132" width="10" height="2" fill="#1d0e82"/>
+  <rect x="184" y="134" width="2" height="4" fill="#1d0e82"/>
+  <rect x="178" y="138" width="8" height="2" fill="#1d0e82"/>
+  <rect x="184" y="140" width="2" height="4" fill="#1d0e82"/>
+  <rect x="176" y="144" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row7,col1) "1" at cx=64 cy=147 -->
+  <rect x="72" y="150" width="2" height="12" fill="#1d0e82"/>
+  <rect x="70" y="160" width="6" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row7,col5) "8" at cx=136 cy=147 -->
+  <rect x="140" y="150" width="10" height="2" fill="#1d0e82"/>
+  <rect x="140" y="150" width="2" height="12" fill="#1d0e82"/>
+  <rect x="148" y="150" width="2" height="12" fill="#1d0e82"/>
+  <rect x="140" y="156" width="10" height="2" fill="#1d0e82"/>
+  <rect x="140" y="162" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row8,col4) "6" at cx=118 cy=165 -->
+  <rect x="122" y="168" width="10" height="2" fill="#1d0e82"/>
+  <rect x="122" y="168" width="2" height="12" fill="#1d0e82"/>
+  <rect x="122" y="174" width="10" height="2" fill="#1d0e82"/>
+  <rect x="130" y="176" width="2" height="4" fill="#1d0e82"/>
+  <rect x="122" y="180" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row8,col8) "9" at cx=190 cy=165 -->
+  <rect x="194" y="168" width="10" height="2" fill="#1d0e82"/>
+  <rect x="194" y="168" width="2" height="6" fill="#1d0e82"/>
+  <rect x="202" y="168" width="2" height="12" fill="#1d0e82"/>
+  <rect x="194" y="174" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row9,col2) "4" at cx=82 cy=183 -->
+  <rect x="86" y="186" width="2" height="8" fill="#1d0e82"/>
+  <rect x="94" y="186" width="2" height="12" fill="#1d0e82"/>
+  <rect x="86" y="192" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row9,col6) "2" at cx=154 cy=183 -->
+  <rect x="158" y="186" width="10" height="2" fill="#1d0e82"/>
+  <rect x="166" y="188" width="2" height="4" fill="#1d0e82"/>
+  <rect x="158" y="192" width="10" height="2" fill="#1d0e82"/>
+  <rect x="158" y="194" width="2" height="4" fill="#1d0e82"/>
+  <rect x="158" y="198" width="10" height="2" fill="#1d0e82"/>
+
+  <!-- Cell (row9,col9) "5" at cx=208 cy=183 -->
+  <rect x="212" y="186" width="10" height="2" fill="#1d0e82"/>
+  <rect x="212" y="186" width="2" height="6" fill="#1d0e82"/>
+  <rect x="212" y="192" width="10" height="2" fill="#1d0e82"/>
+  <rect x="220" y="194" width="2" height="6" fill="#1d0e82"/>
+  <rect x="212" y="198" width="10" height="2" fill="#1d0e82"/>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 54.69 411.15 411.15">
+<!-- spooky archway facade -->
+<path d="M 96 410 L 96 250 Q 96 150 256 150 Q 416 150 416 250 L 416 410" fill="#5b3d7a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- dark tunnel mouth -->
+<path d="M 168 410 L 168 290 Q 168 226 256 226 Q 344 226 344 290 L 344 410 Z" fill="#241733" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ground -->
+<line x1="80" y1="410" x2="432" y2="410" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- track into tunnel -->
+<line x1="220" y1="410" x2="232" y2="320" stroke="#7a6a55" stroke-width="6" stroke-linecap="round"/>
+<line x1="292" y1="410" x2="280" y2="320" stroke="#7a6a55" stroke-width="6" stroke-linecap="round"/>
+<!-- little ghost emerging -->
+<path d="M 232 366 Q 232 326 256 326 Q 280 326 280 366 L 280 392 L 270 380 L 260 392 L 250 380 L 240 392 Z" fill="#f4f6f8" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="248" cy="352" r="4.5" fill="#1a1a1a"/>
+<circle cx="266" cy="352" r="4.5" fill="#1a1a1a"/>
+<!-- bats -->
+<path d="M 150 200 Q 162 190 172 200 Q 182 190 194 200 Q 182 210 172 204 Q 162 210 150 200 Z" fill="#1a1a1a"/>
+<path d="M 322 196 Q 334 186 344 196 Q 354 186 366 196 Q 354 206 344 200 Q 334 206 322 196 Z" fill="#1a1a1a"/>
+<!-- crescent moon -->
+<path d="M 372 110 A 26 26 0 1 0 372 162 A 20 20 0 1 1 372 110 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- skull sign over arch -->
+<circle cx="256" cy="186" r="22" fill="#f4f6f8" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="248" cy="184" r="4" fill="#1a1a1a"/>
+<circle cx="264" cy="184" r="4" fill="#1a1a1a"/>
+<path d="M 250 198 L 254 192 L 258 198 L 262 192" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+</svg>

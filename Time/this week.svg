@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- downward arrow pointing AT a week strip of 7 day cells -->
+<path d="M 247.0 92.0 L 247.0 191.2 L 230.0 191.2 L 256.0 238.0 L 282.0 191.2 L 265.0 191.2 L 265.0 92.0 A 9.0 9.0 0 0 1 247.0 92.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- week strip -->
+<rect x="96" y="290" width="320" height="96" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<g stroke="#1a1a1a" stroke-width="7">
+<line x1="142" y1="290" x2="142" y2="386"/>
+<line x1="188" y1="290" x2="188" y2="386"/>
+<line x1="234" y1="290" x2="234" y2="386"/>
+<line x1="280" y1="290" x2="280" y2="386"/>
+<line x1="326" y1="290" x2="326" y2="386"/>
+<line x1="372" y1="290" x2="372" y2="386"/>
+</g>
+<!-- small sun in each day cell to show days of the week -->
+<g fill="#f4c430" stroke="#e8b24e" stroke-width="3">
+<circle cx="119" cy="338" r="11"/>
+<circle cx="165" cy="338" r="11"/>
+<circle cx="211" cy="338" r="11"/>
+<circle cx="257" cy="338" r="11"/>
+<circle cx="303" cy="338" r="11"/>
+<circle cx="349" cy="338" r="11"/>
+<circle cx="395" cy="338" r="11"/>
+</g>
+</svg>

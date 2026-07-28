@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Message line (small rounded rect) -->
+  <rect x="25" y="30" width="240" height="100" rx="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Message text lines (drawn bars, not text) -->
+  <rect x="42" y="52" width="150" height="10" rx="5" fill="#b8b8b8"/>
+  <rect x="42" y="72" width="110" height="10" rx="5" fill="#b8b8b8"/>
+  <rect x="42" y="92" width="130" height="10" rx="5" fill="#b8b8b8"/>
+  <!-- Profile circle (small, bottom-left area) -->
+  <circle cx="52" cy="170" r="22" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Head in profile -->
+  <circle cx="52" cy="164" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Body arc in profile -->
+  <path d="M34 192 Q52 178 70 192" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Double check (blue ticks) -->
+  <polyline points="105,178 115,190 135,162" fill="none" stroke="#2a4ec0" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="118,178 128,190 148,162" fill="none" stroke="#2a4ec0" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Eye icon (seen indicator) -->
+  <ellipse cx="195" cy="178" rx="28" ry="16" fill="none" stroke="#2a4ec0" stroke-width="3.95"/>
+  <circle cx="195" cy="178" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="199" cy="175" r="3" fill="#ffffff"/>
+</g></svg>

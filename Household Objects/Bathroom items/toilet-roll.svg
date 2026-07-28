@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- hanging sheet draping straight down from front -->
+<path d="M 198 300 L 198 408 Q 198 424 214 424 L 298 424 Q 314 424 314 408 L 314 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="256" y1="330" x2="256" y2="348" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+<line x1="256" y1="372" x2="256" y2="390" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+<!-- roll outer body: upright cylinder front view -->
+<path d="M 148 168 Q 148 110 256 110 Q 364 110 364 168 L 364 300 Q 364 330 256 330 Q 148 330 148 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top ellipse (rim of roll) -->
+<ellipse cx="256" cy="168" rx="108" ry="58" fill="#f4f6f8" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner wound-paper ring -->
+<ellipse cx="256" cy="168" rx="74" ry="38" fill="#ffffff" stroke="#cfd6dc" stroke-width="6"/>
+<!-- cardboard tube hole -->
+<ellipse cx="256" cy="168" rx="34" ry="18" fill="#c89a5b" stroke="#1a1a1a" stroke-width="8"/>
+</g></svg>

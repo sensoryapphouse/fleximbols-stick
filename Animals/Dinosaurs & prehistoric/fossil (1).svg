@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stone slab -->
+  <rect x="45" y="45" width="200" height="152" rx="18" ry="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Stone texture cracks -->
+  <line x1="80" y1="48" x2="70" y2="90" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="160" x2="230" y2="185" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Ammonite spiral impression — drawn lighter/recessed color -->
+  <!-- Outer spiral arc 1 -->
+  <path d="M145,78 C195,78 210,105 210,120 C210,160 175,175 145,175 C115,175 80,160 80,120 C80,80 115,65 145,65 C160,65 175,70 175,78" fill="none" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Spiral arc 2 -->
+  <path d="M145,95 C175,95 190,110 190,120 C190,148 170,158 145,158 C120,158 100,148 100,120 C100,92 120,82 145,82" fill="none" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Spiral arc 3 -->
+  <path d="M145,112 C160,112 172,118 172,120 C172,134 161,140 145,140 C129,140 118,134 118,120 C118,106 129,100 145,100" fill="none" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Centre -->
+  <circle cx="145" cy="120" r="10" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- Chamber lines (radial) -->
+  <line x1="145" y1="65" x2="145" y2="78" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="182" y1="80" x2="175" y2="88" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="158" x2="145" y2="175" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="108" y1="80" x2="115" y2="88" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

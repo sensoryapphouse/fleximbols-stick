@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- water -->
+<path d="M 36 392 Q 82 378 124 392 T 208 392 T 292 392 T 376 392 T 460 392 T 478 392 L 478 432 L 36 432 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- long low hull -->
+<path d="M 44 304 L 466 304 L 430 384 L 100 384 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- waterline stripe -->
+<path d="M 60 346 L 452 346 L 444 360 L 68 360 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
+<!-- main deck plate -->
+<rect x="60" y="276" width="392" height="30" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- domed storage tanks (cylindrical) -->
+<path d="M 92 276 Q 92 222 138 222 Q 184 222 184 276 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 206 276 Q 206 222 252 222 Q 298 222 298 276 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 320 276 Q 320 222 366 222 Q 412 222 412 276 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- connecting pipe manifold (runs along deck at tank bases) -->
+<line x1="138" y1="270" x2="366" y2="270" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- aft bridge (right, fully on deck) -->
+<rect x="402" y="226" width="40" height="50" rx="4" fill="#fff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<rect x="412" y="238" width="20" height="16" rx="2" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="3"/>
+</svg>

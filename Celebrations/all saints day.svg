@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- all saints day: three saint figures with halos + candles in front -->
+  <!-- back wall warm tone -->
+  <rect x="26" y="32" width="238" height="176" fill="#f5e7c4" stroke="none"/>
+  <!-- floor -->
+  <rect x="0" y="200" width="290" height="40" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- LEFT SAINT -->
+  <!-- halo -->
+  <circle cx="65" cy="55" r="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- head -->
+  <circle cx="65" cy="60" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- eyes -->
+  <circle cx="61" cy="60" r="1.5" fill="#000000"/>
+  <circle cx="69" cy="60" r="1.5" fill="#000000"/>
+  <!-- robe -->
+  <path d="M40 75 Q65 70 90 75 L100 170 L30 170 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- collar -->
+  <path d="M55 75 Q65 82 75 75" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- arms holding hands together -->
+  <path d="M50 100 L60 130 L70 130 L80 100" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- CENTER SAINT (taller) -->
+  <!-- halo -->
+  <circle cx="145" cy="40" r="24" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- head -->
+  <circle cx="145" cy="46" r="15" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="141" cy="46" r="1.5" fill="#000000"/>
+  <circle cx="149" cy="46" r="1.5" fill="#000000"/>
+  <path d="M141 53 Q145 56 149 53" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- beard -->
+  <path d="M133 53 Q145 70 157 53 Q155 65 145 67 Q135 65 133 53 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- robe -->
+  <path d="M118 62 Q145 56 172 62 L185 180 L105 180 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- sash -->
+  <path d="M135 65 L155 65 L160 110 L130 110 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- cross on chest -->
+  <rect x="143" y="80" width="4" height="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="138" y="86" width="14" height="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- RIGHT SAINT -->
+  <circle cx="225" cy="55" r="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="225" cy="60" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="221" cy="60" r="1.5" fill="#000000"/>
+  <circle cx="229" cy="60" r="1.5" fill="#000000"/>
+  <path d="M200 75 Q225 70 250 75 L260 170 L190 170 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <path d="M215 75 Q225 82 235 75" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <path d="M210 100 L220 130 L230 130 L240 100" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- candles in front -->
+  <!-- left candle -->
+  <rect x="58" y="195" width="14" height="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"/>
+  <path d="M65 195 L65 185" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M65 185 Q60 178 65 172 Q70 178 65 185 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- center candle -->
+  <rect x="138" y="200" width="14" height="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"/>
+  <path d="M145 200 L145 190" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M145 190 Q140 182 145 175 Q150 182 145 190 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- right candle -->
+  <rect x="218" y="195" width="14" height="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"/>
+  <path d="M225 195 L225 185" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M225 185 Q220 178 225 172 Q230 178 225 185 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

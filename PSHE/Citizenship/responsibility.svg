@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"],["h2","mc"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.12) translate(-256.00 -270.00)">
+<!-- ADULT figure (left, tall) -->
+<line x1="150" y1="300" x2="141" y2="452" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="180" y1="300" x2="189" y2="452" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="141" cy="454" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="189" cy="454" rx="13" ry="7" fill="#33373d"/>
+<polygon points="133,194 197,194 195,302 135,302" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- adult left arm down -->
+<line x1="135" y1="196" x2="115" y2="296" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<!-- adult right arm reaching across to child's shoulder -->
+<line x1="195" y1="210" x2="288" y2="300" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle cx="294" cy="304" r="12" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="165" y1="194" x2="165" y2="163" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" class="skin" cx="165" cy="127" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 125.0 127.0 Q 125.0 77.0 165 77.0 Q 205.0 77.0 205.0 127.0 Q 165 100.0 125.0 127.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- CHILD figure (right, small) -->
+<line x1="300" y1="380" x2="294" y2="452" stroke="#39425c" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="322" y1="380" x2="328" y2="452" stroke="#39425c" stroke-width="13.0" stroke-linecap="round"/>
+<ellipse cx="294" cy="454" rx="10" ry="6" fill="#33373d"/>
+<ellipse cx="328" cy="454" rx="10" ry="6" fill="#33373d"/>
+<polygon points="286,316 336,316 335,382 287,382" fill="#3fb24a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="287" y1="318" x2="274" y2="372" stroke="#1a1a1a" stroke-width="10.0" stroke-linecap="round"/>
+<line x1="335" y1="318" x2="348" y2="372" stroke="#1a1a1a" stroke-width="10.0" stroke-linecap="round"/>
+<line x1="311" y1="316" x2="311" y2="293" stroke="#1a1a1a" stroke-width="10.0" stroke-linecap="round"/>
+<circle id="h2" data-fig="mc" class="skin" cx="311" cy="270" r="28" fill="#f0c08a" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 283.0 270.0 Q 283.0 235.0 311 235.0 Q 339.0 235.0 339.0 270.0 Q 311 251.0 283.0 270.0 Z" fill="#7a5230" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- green tick badge (looking-after confirmed) bottom-right -->
+<circle cx="408.0" cy="392.0" r="48.0" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="378" y1="390" x2="400" y2="416" stroke="#1a1a1a" stroke-width="19.0" stroke-linecap="round"/><line x1="378" y1="390" x2="400" y2="416" stroke="#ffffff" stroke-width="13" stroke-linecap="round"/>
+<line x1="400" y1="416" x2="440" y2="366" stroke="#1a1a1a" stroke-width="19.0" stroke-linecap="round"/><line x1="400" y1="416" x2="440" y2="366" stroke="#ffffff" stroke-width="13" stroke-linecap="round"/>
+</g></svg>

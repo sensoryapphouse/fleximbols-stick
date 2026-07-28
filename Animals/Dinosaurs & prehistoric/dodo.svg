@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- dodo: plump flightless bird, big hooked beak, tuft tail, stubby wings, sturdy legs -->
+<!-- legs -->
+<path d="M 224 386 L 224 432 M 224 432 l -16 8 M 224 432 l 16 8 M 224 432 l 0 12" fill="none" stroke="#e8b24e" stroke-width="9" stroke-linecap="round"/>
+<path d="M 276 386 L 276 432 M 276 432 l -16 8 M 276 432 l 16 8 M 276 432 l 0 12" fill="none" stroke="#e8b24e" stroke-width="9" stroke-linecap="round"/>
+<!-- plump body -->
+<ellipse cx="250" cy="312" rx="98" ry="86" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9"/>
+<!-- belly highlight -->
+<ellipse cx="240" cy="330" rx="56" ry="58" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="0"/>
+<!-- stubby wing -->
+<path d="M 326 296 Q 366 300 360 340 Q 332 336 320 312 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- tail tuft -->
+<path d="M 340 250 Q 386 220 400 236 Q 378 246 360 268 Q 388 262 402 280 Q 372 296 344 286 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- neck + head -->
+<path d="M 196 250 Q 176 180 200 150 Q 232 130 262 148 Q 240 170 234 210 Q 228 240 222 256 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<circle cx="216" cy="160" r="48" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- big hooked beak -->
+<path d="M 200 150
+         Q 150 150 132 176
+         Q 150 188 176 184
+         Q 156 200 150 220
+         Q 178 214 196 190
+         Q 206 172 200 150 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 176 184 Q 162 186 150 180" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- eye -->
+<circle cx="222" cy="150" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="220" cy="151" r="4.5" fill="#1a1a1a"/>
+</svg>

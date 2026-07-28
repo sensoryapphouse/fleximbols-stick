@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- gel-moisturizer: clear glassy jar with GEL label + clear gel scoop with bubble/glossy look -->
+  <!-- Jar body (clear/cyan, modern round) -->
+  <rect x="55" y="100" width="180" height="120" rx="20" ry="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Glossy jar inner highlight -->
+  <path d="M68 115 L68 200" stroke="#ffffff" stroke-width="7.61" stroke-linecap="round"/>
+  <path d="M222 115 L222 200" stroke="#90a7d6" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Lid (clear glassy cap, sitting on top) -->
+  <rect x="50" y="68" width="190" height="38" rx="12" ry="12" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Lid rim line -->
+  <line x1="50" y1="84" x2="240" y2="84" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Lid shine -->
+  <line x1="60" y1="74" x2="60" y2="100" stroke="#dff3fd" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Jar label -->
+  <rect x="100" y="140" width="90" height="40" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- "GEL" big letters as paths -->
+  <!-- G -->
+  <path d="M125 152 L115 152 Q110 152 110 158 L110 170 Q110 176 115 176 L125 176 L125 166 L120 166" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M150 152 L135 152 L135 176 L150 176 M135 164 L148 164" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- L -->
+  <path d="M160 152 L160 176 L178 176" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Gel scoop / blob on finger (above jar - clear glossy gel) -->
+  <ellipse cx="200" cy="40" rx="32" ry="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Gel highlight (glossy) -->
+  <ellipse cx="190" cy="32" rx="10" ry="5" fill="#ffffff" stroke="none"/>
+  <!-- Bubble inside gel (jelly look) -->
+  <circle cx="208" cy="44" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="195" cy="48" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <!-- Finger underneath gel scoop -->
+  <path d="M180 58 Q180 80 200 80 Q220 80 220 58" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Gel drip from finger to jar -->
+  <path d="M200 80 Q198 95 200 105 Q202 95 200 80 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+</g></svg>

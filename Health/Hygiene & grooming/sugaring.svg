@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- skin patch (forearm) -->
+  <rect x="35" y="135" width="220" height="55" rx="18" ry="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- hairs on skin -->
+  <path d="M70 135 L70 125 M90 135 L90 122 M110 135 L110 124 M130 135 L130 121 M150 135 L150 125 M170 135 L170 122 M190 135 L190 124 M210 135 L210 126" fill="none" stroke="#5e1f0a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- sugar paste ball on skin -->
+  <ellipse cx="150" cy="135" rx="38" ry="22" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 130 Q150 110 180 130" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- shine on paste ball -->
+  <ellipse cx="138" cy="125" rx="9" ry="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- jar of golden sugar paste -->
+  <rect x="35" y="70" width="80" height="60" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- jar lid -->
+  <rect x="30" y="55" width="90" height="20" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- sugar paste inside jar -->
+  <path d="M40 95 Q55 85 75 92 Q95 100 110 90 L110 125 L40 125 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- jar label -->
+  <rect x="50" y="105" width="50" height="15" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- sparkle/sweetness dots near paste -->
+  <circle cx="200" cy="80" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="225" cy="100" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="215" cy="65" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- arrow from jar to skin -->
+  <path d="M130 110 Q155 95 175 115" fill="none" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 108 L178 118 L168 120 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

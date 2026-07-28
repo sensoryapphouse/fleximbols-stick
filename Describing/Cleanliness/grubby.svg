@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="38.79 -9.00 434.42 434.42"><g data-fit="1">
+<!-- green down arrow over the grubby shirt (left) -->
+<line x1="140" y1="60" x2="140" y2="110" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="110" x2="116" y2="86" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="110" x2="164" y2="86" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="60" x2="140" y2="110" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="140" y1="110" x2="116" y2="86" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="140" y1="110" x2="164" y2="86" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<!-- GRUBBY t-shirt (left) -->
+<path d="M 100 170 L 140 150 L 180 170 L 210 200 L 188 226 L 172 212 L 172 360 L 108 360 L 108 212 L 92 226 L 70 200 Z" fill="#d9d2c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 124 152 q 16 16 32 0" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- grime blobs -->
+<ellipse cx="130" cy="270" rx="18" ry="13" fill="#7a4a24" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="158" cy="310" rx="14" ry="10" fill="#5e3a1c" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="120" cy="330" rx="12" ry="9" fill="#7a4a24" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="150" cy="232" rx="10" ry="8" fill="#5e3a1c" stroke="#1a1a1a" stroke-width="0"/>
+<!-- CLEAN shirt (right, faded) -->
+<g opacity="0.34">
+<path d="M 332 170 L 372 150 L 412 170 L 442 200 L 420 226 L 404 212 L 404 360 L 340 360 L 340 212 L 324 226 L 302 200 Z" fill="#f3f7fa" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 356 152 q 16 16 32 0" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g></svg>

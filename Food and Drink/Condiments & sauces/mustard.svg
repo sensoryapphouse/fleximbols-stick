@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- mustard squeeze bottle -->
+<!-- pointed cap -->
+<path d="M 246 92 L 266 92 L 274 120 L 238 120 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neck -->
+<path d="M 236 150 L 276 150 L 276 120 L 236 120 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body -->
+<path d="M 212 150 L 300 150 Q 320 150 320 184 L 320 380 Q 320 408 294 408 L 218 408 Q 192 408 192 380 L 192 184 Q 192 150 212 150 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- label -->
+<rect x="208" y="230" width="96" height="120" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<!-- mustard blob motif -->
+<path d="M 232 304 Q 240 270 256 270 Q 272 270 280 304 Q 256 296 232 304 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<line x1="230" y1="330" x2="282" y2="330" stroke="#b9bdc2" stroke-width="8" stroke-linecap="round"/>
+</svg>

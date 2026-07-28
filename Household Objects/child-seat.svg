@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- bucket seat outer shell (high wings) -->
+<path d="M 120 96 Q 116 72 148 72 L 364 72 Q 396 72 392 96 L 392 300 Q 392 340 356 356 L 356 430 Q 356 448 336 448 L 176 448 Q 156 448 156 430 L 156 356 Q 120 340 120 300 Z" fill="#8a97a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- padded seat area (inner) -->
+<path d="M 168 108 L 344 108 Q 356 108 356 122 L 356 300 Q 356 332 320 344 L 320 412 Q 320 424 306 424 L 206 424 Q 192 424 192 412 L 192 344 Q 156 332 156 300 L 156 122 Q 156 108 168 108 Z" fill="#c65a5a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- headrest wings (darker insets top) -->
+<path d="M 168 120 L 210 120 L 200 210 L 168 210 Z" fill="#a84a4a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 344 120 L 302 120 L 312 210 L 344 210 Z" fill="#a84a4a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- 5-point harness straps: two shoulder straps down to a central buckle -->
+<path d="M 224 132 L 244 300" fill="none" stroke="#2b2b33" stroke-width="20" stroke-linecap="round"/>
+<path d="M 288 132 L 268 300" fill="none" stroke="#2b2b33" stroke-width="20" stroke-linecap="round"/>
+<!-- lap/crotch strap -->
+<path d="M 256 372 L 256 300" fill="none" stroke="#2b2b33" stroke-width="20" stroke-linecap="round"/>
+<!-- strap highlight -->
+<path d="M 224 132 L 244 300" fill="none" stroke="#4a4a55" stroke-width="6" stroke-linecap="round"/>
+<path d="M 288 132 L 268 300" fill="none" stroke="#4a4a55" stroke-width="6" stroke-linecap="round"/>
+<!-- central buckle -->
+<rect x="228" y="292" width="56" height="56" rx="10" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="256" y1="300" x2="256" y2="340" stroke="#1a5f7a" stroke-width="5" stroke-linecap="round"/>
+<circle cx="256" cy="320" r="9" fill="#eef2f6" stroke="#1a1a1a" stroke-width="4"/>
+</svg>

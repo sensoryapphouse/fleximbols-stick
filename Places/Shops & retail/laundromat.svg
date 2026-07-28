@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Building facade -->
+  <rect x="15" y="75" width="260" height="145" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Flat roof parapet -->
+  <rect x="5" y="58" width="280" height="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Awning -->
+  <rect x="15" y="75" width="260" height="16" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Door (far right) -->
+  <rect x="222" y="148" width="42" height="72" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <circle cx="230" cy="185" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- ROW OF WASHING MACHINES (3 front-loaders) -->
+  <!-- Machine 1 (left) -->
+  <rect x="22" y="105" width="60" height="70" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Machine 1 door circle -->
+  <circle cx="52" cy="142" r="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11"/>
+  <circle cx="52" cy="142" r="15" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Clothes spin inside -->
+  <path d="M44,135 Q52,128 60,135 Q68,142 60,149 Q52,156 44,149 Q36,142 44,135" fill="#f8130d" stroke="none"/>
+  <circle cx="52" cy="142" r="15" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Controls top -->
+  <circle cx="38" cy="113" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="52" cy="113" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="59" y="109" width="16" height="8" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Machine 2 (center) -->
+  <rect x="97" y="105" width="60" height="70" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <circle cx="127" cy="142" r="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11"/>
+  <circle cx="127" cy="142" r="15" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M119,135 Q127,128 135,135 Q143,142 135,149 Q127,156 119,149 Q111,142 119,135" fill="#2a4ec0" stroke="none"/>
+  <circle cx="127" cy="142" r="15" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="113" cy="113" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="127" cy="113" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="134" y="109" width="16" height="8" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Machine 3 (right of center) -->
+  <rect x="172" y="105" width="60" height="70" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <circle cx="202" cy="142" r="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11"/>
+  <circle cx="202" cy="142" r="15" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M194,135 Q202,128 210,135 Q218,142 210,149 Q202,156 194,149 Q186,142 194,135" fill="#ff9900" stroke="none"/>
+  <circle cx="202" cy="142" r="15" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="188" cy="113" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="202" cy="113" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="209" y="109" width="16" height="8" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Ground line -->
+  <line x1="15" y1="220" x2="275" y2="220" stroke="#1a1a1a" stroke-width="7.11"/>
+</g></svg>

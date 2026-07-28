@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wings (behind body) -->
+  <ellipse cx="108" cy="100" rx="38" ry="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-20 108 100)"/>
+  <ellipse cx="182" cy="100" rx="38" ry="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round" transform="rotate(20 182 100)"/>
+  <ellipse cx="112" cy="118" rx="26" ry="13" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-10 112 118)"/>
+  <ellipse cx="178" cy="118" rx="26" ry="13" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" transform="rotate(10 178 118)"/>
+  <!-- fat round body -->
+  <ellipse cx="145" cy="138" rx="62" ry="52" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- black bands -->
+  <path d="M84 118 Q145 110 206 118 L206 132 Q145 124 84 132 Z" fill="#000000"/>
+  <path d="M84 145 Q145 137 206 145 L206 159 Q145 151 84 159 Z" fill="#000000"/>
+  <path d="M86 165 Q145 157 204 165 L200 178 Q145 170 90 178 Z" fill="#000000"/>
+  <!-- fuzzy texture strokes on body -->
+  <path d="M90 125 Q88 120 86 115" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M200 125 Q202 120 204 115" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M83 138 Q80 135 78 130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M207 138 Q210 135 212 130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M86 158 Q83 155 82 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M204 158 Q207 155 208 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- stinger -->
+  <path d="M145 188 Q148 198 145 210 Q142 198 145 188 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="145" cy="82" r="30" fill="#000000" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- face yellow patch -->
+  <ellipse cx="145" cy="84" rx="16" ry="13" fill="#f7de58"/>
+  <!-- eyes -->
+  <circle cx="137" cy="80" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="153" cy="80" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="138" cy="80" r="2" fill="#000000"/>
+  <circle cx="154" cy="80" r="2" fill="#000000"/>
+  <!-- antennae -->
+  <path d="M138 54 Q128 40 120 30" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="120" cy="30" r="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M152 54 Q162 40 170 30" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="170" cy="30" r="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- legs -->
+  <path d="M104 128 Q90 138 76 148" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 148 Q84 155 70 162" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M186 128 Q200 138 214 148" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 148 Q206 155 220 162" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Clipboard / list backing -->
+  <rect x="40" y="30" width="180" height="190" rx="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Clip at top -->
+  <rect x="110" y="18" width="40" height="22" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Heart icon row 1 -->
+  <path d="M 60 78 Q 53 70 60 64 Q 67 60 72 68 Q 77 60 84 64 Q 91 70 84 78 L 72 92 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="100" y1="78" x2="200" y2="78" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Heart icon row 2 -->
+  <path d="M 60 118 Q 53 110 60 104 Q 67 100 72 108 Q 77 100 84 104 Q 91 110 84 118 L 72 132 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="100" y1="118" x2="200" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Heart icon row 3 -->
+  <path d="M 60 158 Q 53 150 60 144 Q 67 140 72 148 Q 77 140 84 144 Q 91 150 84 158 L 72 172 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="100" y1="158" x2="200" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="30" y="188" width="230" height="40" rx="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- star (wish/favourite extra indicator) -->
+  <polygon points="240,188 245,200 258,200 248,208 252,220 240,212 228,220 232,208 222,200 235,200" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

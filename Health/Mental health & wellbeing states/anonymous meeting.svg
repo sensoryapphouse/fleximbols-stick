@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- circle of chairs (oval arrangement) -->
+  <!-- back chair (top) -->
+  <rect x="135" y="40" width="20" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="133" y="58" width="24" height="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left-back chair -->
+  <rect x="75" y="55" width="20" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="73" y="73" width="24" height="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right-back chair -->
+  <rect x="195" y="55" width="20" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="193" y="73" width="24" height="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left-front chair -->
+  <rect x="35" y="105" width="22" height="26" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="33" y="125" width="26" height="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right-front chair -->
+  <rect x="233" y="105" width="22" height="26" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="231" y="125" width="26" height="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- two front chairs -->
+  <rect x="80" y="150" width="26" height="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="78" y="172" width="30" height="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="184" y="150" width="26" height="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="182" y="172" width="30" height="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- center: serenity prayer scroll -->
+  <path d="M115 110 Q113 100 125 98 L170 98 Q182 100 180 110 L180 165 Q182 175 170 177 L125 177 Q113 175 115 165 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- scroll curl top -->
+  <path d="M115 105 Q120 100 125 105" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M175 105 Q180 100 185 105" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 12-step triangle with circle inside -->
+  <circle cx="147" cy="135" r="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M147 118 L162 144 L132 144 Z" fill="none" stroke="#2a4ec0" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- writing lines below triangle -->
+  <path d="M125 165 L170 165 M125 171 L165 171" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- coffee cup right of scroll -->
+  <path d="M220 195 L260 195 L256 225 Q255 230 250 230 L230 230 Q225 230 224 225 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M260 200 Q272 200 272 212 Q272 222 260 220" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- coffee surface -->
+  <ellipse cx="240" cy="198" rx="18" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- steam wisps -->
+  <path d="M232 188 Q228 182 232 178 M242 188 Q246 182 242 178 M252 188 Q248 182 252 178" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

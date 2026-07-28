@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- top rim ellipse (back) -->
+  <ellipse cx="145" cy="40" rx="90" ry="16" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- cone body -->
+  <path d="M55 40 L130 160 L160 160 L235 40 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- top opening (front overlay) -->
+  <ellipse cx="145" cy="40" rx="90" ry="16" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="145" cy="40" rx="80" ry="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- narrow spout -->
+  <rect x="130" y="160" width="30" height="60" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- spout opening -->
+  <ellipse cx="145" cy="220" rx="15" ry="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hanging loop -->
+  <path d="M225 35 Q255 25 245 55" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- shine line on cone -->
+  <path d="M85 50 L138 155" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- shine line on spout -->
+  <line x1="138" y1="170" x2="138" y2="210" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

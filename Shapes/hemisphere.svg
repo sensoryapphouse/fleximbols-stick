@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <radialGradient id="hemG" cx="32%" cy="55%" r="70%">
+    <stop offset="0%" stop-color="#c8dcf8"/>
+    <stop offset="60%" stop-color="#5a8ad6"/>
+    <stop offset="100%" stop-color="#3a6ab6"/>
+  </radialGradient>
+  <linearGradient id="hemBase" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#7aaae8"/>
+    <stop offset="100%" stop-color="#3a6ab6"/>
+  </linearGradient>
+</defs>
+<path d="M40 140 A105 105 0 0 1 250 140 Z" fill="url(#hemG)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="145" cy="140" rx="105" ry="24" fill="url(#hemBase)" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="118" cy="90" rx="22" ry="13" fill="#ffffff" opacity="0.5" transform="rotate(-25 118 90)"/>
+<ellipse cx="110" cy="82" rx="8" ry="5" fill="#ffffff" opacity="0.9" transform="rotate(-25 110 82)"/>
+</svg>

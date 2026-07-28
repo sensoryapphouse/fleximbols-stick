@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stem -->
+  <line x1="145" y1="215" x2="145" y2="140" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Leaves -->
+  <ellipse cx="122" cy="172" rx="24" ry="9" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-35 122 172)"/>
+  <ellipse cx="168" cy="162" rx="24" ry="9" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(35 168 162)"/>
+  <!-- 6 recurved (backward-curling) orange petals -->
+  <!-- Petal top - recurved outward -->
+  <path d="M145 135 Q148 105 152 82 Q155 62 150 50 Q145 48 140 50 Q135 62 138 82 Q142 105 145 135Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Recurved tip top -->
+  <path d="M150 50 Q158 42 155 35 Q148 38 145 48 Q142 38 135 35 Q132 42 140 50" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Petal upper-right - recurved -->
+  <path d="M145 135 Q165 122 183 108 Q198 94 200 82 Q195 76 188 78 Q176 88 165 103 Q155 118 145 135Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M200 82 Q210 78 212 70 Q205 70 200 78" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Petal lower-right - recurved -->
+  <path d="M145 135 Q170 138 190 145 Q208 152 212 162 Q208 170 200 168 Q185 160 168 152 Q158 143 145 135Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M212 162 Q218 170 215 178 Q208 172 200 168" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Petal bottom - recurved -->
+  <path d="M145 135 Q142 162 138 182 Q135 200 140 210 Q145 212 150 210 Q155 200 152 182 Q148 162 145 135Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M140 210 Q138 218 142 222 Q145 220 148 222 Q152 218 150 210" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Petal lower-left - recurved -->
+  <path d="M145 135 Q120 138 100 145 Q82 152 78 162 Q82 170 90 168 Q105 160 122 152 Q132 143 145 135Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M78 162 Q72 170 75 178 Q82 172 90 168" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Petal upper-left - recurved -->
+  <path d="M145 135 Q125 122 107 108 Q92 94 90 82 Q95 76 102 78 Q114 88 125 103 Q135 118 145 135Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M90 82 Q80 78 78 70 Q85 70 90 82" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Bold dark spots on petals -->
+  <circle cx="145" cy="82" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="148" cy="96" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="142" cy="70" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="175" cy="112" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="162" cy="122" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="185" cy="100" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="115" cy="112" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="128" cy="122" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="105" cy="100" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Center and stamens -->
+  <circle cx="145" cy="135" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="145" y1="125" x2="145" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="98" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="137" y1="128" x2="125" y2="105" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="123" cy="103" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="153" y1="128" x2="165" y2="105" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="167" cy="103" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="135" y1="133" x2="118" y2="115" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="116" cy="113" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="155" y1="133" x2="172" y2="115" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="174" cy="113" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

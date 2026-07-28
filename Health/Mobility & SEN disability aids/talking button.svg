@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="68.07 62.10 401.45 401.45">
+<!-- talking button: big round recordable switch with speaker waves -->
+
+<!-- round base plate (slight ellipse for a low 3/4 view) -->
+<ellipse cx="248" cy="356" rx="168" ry="66" fill="#f4c430" stroke="#1a1a1a" stroke-width="10"/>
+<!-- side wall of the base connecting plate rim to the button -->
+<path d="M 100 300 Q 100 366 100 356 L 100 356
+         M 88 300 L 88 356 A 168 66 0 0 0 408 356 L 408 300"
+      fill="#e6b41f" stroke="none"/>
+<!-- explicit base wall as a filled band -->
+<path d="M 80 300 L 80 356 A 168 66 0 0 0 416 356 L 416 300 A 168 66 0 0 1 80 300 Z"
+      fill="#e6b41f" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- redraw base top ellipse over the wall seam -->
+<ellipse cx="248" cy="300" rx="168" ry="60" fill="#f4c430" stroke="#1a1a1a" stroke-width="10"/>
+
+<!-- large round button dome on top -->
+<!-- dome side wall -->
+<path d="M 116 250 L 116 268 A 132 46 0 0 0 380 268 L 380 250 A 132 46 0 0 1 116 250 Z"
+      fill="#c33227" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- button top face -->
+<ellipse cx="248" cy="250" rx="132" ry="48" fill="#e0473c" stroke="#1a1a1a" stroke-width="10"/>
+<!-- inner highlight ring -->
+<ellipse cx="248" cy="248" rx="100" ry="34" fill="#f06a60" stroke="#1a1a1a" stroke-width="5"/>
+<!-- speaker grille holes -->
+<circle cx="216" cy="244" r="7" fill="#7a1f18"/>
+<circle cx="248" cy="238" r="7" fill="#7a1f18"/>
+<circle cx="280" cy="244" r="7" fill="#7a1f18"/>
+<circle cx="232" cy="256" r="7" fill="#7a1f18"/>
+<circle cx="264" cy="256" r="7" fill="#7a1f18"/>
+
+<!-- sound waves radiating from top-right -->
+<path d="M 402 180 a 34 34 0 0 1 0 64" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 402 156 a 58 58 0 0 1 0 112" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+</svg>

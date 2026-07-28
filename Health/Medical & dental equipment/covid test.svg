@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- test cassette body -->
+  <rect x="35" y="70" width="160" height="80" rx="8" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sample well (round) -->
+  <circle cx="60" cy="110" r="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- result window -->
+  <rect x="90" y="92" width="90" height="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- C line -->
+  <rect x="110" y="98" width="6" height="24" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- T line (positive: 2 lines) -->
+  <rect x="150" y="98" width="6" height="24" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- C label tick -->
+  <rect x="108" y="86" width="10" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- T label tick -->
+  <rect x="148" y="86" width="10" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- nasal swab handle -->
+  <rect x="205" y="60" width="60" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 235 64)"/>
+  <!-- swab tip -->
+  <ellipse cx="262" cy="86" rx="12" ry="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 262 86)"/>
+  <!-- swab cap end -->
+  <rect x="200" y="56" width="10" height="16" rx="2" ry="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 205 64)"/>
+  <!-- droplet near sample well -->
+  <path d="M60 178 Q54 188 60 196 Q66 188 60 178 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="55.70 82.15 380.12 380.12" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- gradual: small steady steps rising = change happening little by little -->
+<g>
+<!-- ascending step blocks, each a bit taller -->
+<rect x="84"  y="372" width="64" height="56"  rx="4" fill="#9ecbf0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="148" y="320" width="64" height="108" rx="4" fill="#7bb6e6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="212" y="268" width="64" height="160" rx="4" fill="#5aa0db" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="276" y="216" width="64" height="212" rx="4" fill="#3f8bd1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="340" y="164" width="64" height="264" rx="4" fill="#2f6fb0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- gentle rising arrow over the steps (one filled band, less steep) -->
+<path d="M 104.1 364.0 L 378.6 222.3 L 384.5 233.9 L 410.0 196.0 L 364.4 194.8 L 370.3 206.3 L 95.9 348.0 Z" fill="#2f9e4a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+</svg>

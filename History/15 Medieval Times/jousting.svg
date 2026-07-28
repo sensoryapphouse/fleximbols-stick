@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1208) translate(-257.00 -266.50)">
+<!-- ground -->
+<line x1="60" y1="430" x2="452" y2="430" stroke="#7a6a4a" stroke-width="8" stroke-linecap="round"/>
+
+<!-- ===== HORSE in profile, facing right ===== -->
+<!-- caparison/barding drape under body (heraldic red) -->
+<path d="M 150 300 L 300 300 L 286 392 L 168 392 Z" fill="#b5352b" stroke="#8a261f" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 168 392 q 16 12 32 0 q 16 12 32 0 q 16 12 32 0 q 12 8 22 0" fill="#b5352b" stroke="#8a261f" stroke-width="4" stroke-linejoin="round"/>
+<!-- body -->
+<ellipse cx="222" cy="276" rx="86" ry="46" fill="#8a5a33" stroke="#5a3a1f" stroke-width="6"/>
+<!-- hind legs -->
+<line x1="168" y1="306" x2="156" y2="412" stroke="#8a5a33" stroke-width="17" stroke-linecap="round"/>
+<line x1="200" y1="312" x2="196" y2="412" stroke="#7a4f2c" stroke-width="17" stroke-linecap="round"/>
+<!-- front legs (one reaching forward, galloping) -->
+<line x1="280" y1="308" x2="300" y2="412" stroke="#8a5a33" stroke-width="17" stroke-linecap="round"/>
+<line x1="296" y1="300" x2="332" y2="392" stroke="#7a4f2c" stroke-width="17" stroke-linecap="round"/>
+<!-- hooves -->
+<g fill="#3a3026"><ellipse cx="155" cy="414" rx="9" ry="5"/><ellipse cx="196" cy="414" rx="9" ry="5"/><ellipse cx="301" cy="414" rx="9" ry="5"/><ellipse cx="334" cy="393" rx="9" ry="5"/></g>
+<!-- neck + head reaching right (base overlaps body so it reads as attached) -->
+<path d="M 272 250 Q 318 218 358 194 L 388 212 Q 356 236 330 282 Q 300 286 272 274 Z" fill="#8a5a33" stroke="#5a3a1f" stroke-width="6" stroke-linejoin="round"/>
+<!-- muzzle -->
+<path d="M 358 194 L 392 192 L 390 214 L 372 214 Z" fill="#8a5a33" stroke="#5a3a1f" stroke-width="5" stroke-linejoin="round"/>
+<!-- ear -->
+<polygon points="346 200 350 180 360 202" fill="#8a5a33" stroke="#5a3a1f" stroke-width="3" stroke-linejoin="round"/>
+<!-- eye -->
+<circle cx="362" cy="206" r="3" fill="#1a1a1a"/>
+<!-- mane -->
+<path d="M 300 250 Q 320 226 344 206 Q 330 234 320 256 Z" fill="#5a3a1f" stroke="#3a2616" stroke-width="2" stroke-linejoin="round"/>
+<!-- tail -->
+<path d="M 138 268 Q 104 286 110 340 Q 126 300 146 290 Z" fill="#5a3a1f" stroke="#3a2616" stroke-width="3" stroke-linejoin="round"/>
+
+<!-- ===== KNIGHT astride, in profile ===== -->
+<!-- torso (blue surcoat) -->
+<path d="M 196 196 Q 222 182 248 196 L 252 268 Q 222 280 192 268 Z" fill="#2f5fa6" stroke="#21477e" stroke-width="6" stroke-linejoin="round"/>
+<!-- upper leg over the horse -->
+<line x1="222" y1="258" x2="240" y2="312" stroke="#2f5fa6" stroke-width="16" stroke-linecap="round"/>
+<!-- helm (great helm, profile) -->
+<circle cx="222" cy="158" r="26" fill="#c9ced6" stroke="#9aa1ab" stroke-width="5"/>
+<rect x="206" y="152" width="34" height="6" rx="2" fill="#3a3026"/>
+<!-- helm plume -->
+<path d="M 222 132 Q 200 108 214 100 Q 216 120 222 132 Z" fill="#b5352b" stroke="#8a261f" stroke-width="2" stroke-linejoin="round"/>
+
+<!-- ===== LANCE: one big, prominent, couched and pointing forward over the barrier ===== -->
+<!-- couched arm grip -->
+<line x1="206" y1="234" x2="236" y2="240" stroke="#2f5fa6" stroke-width="13" stroke-linecap="round"/>
+<!-- the lance shaft, bold and levelled forward toward the opponent (clears the horse's head) -->
+<line x1="172" y1="248" x2="452" y2="196" stroke="#7a4a25" stroke-width="12" stroke-linecap="round"/>
+<!-- vamplate (hand guard disc) -->
+<circle cx="236" cy="241" r="13" fill="#caa24a" stroke="#b07d1e" stroke-width="3"/>
+<!-- steel lance tip -->
+<polygon points="452 196 424 192 428 210" fill="#c9ced6" stroke="#9aa1ab" stroke-width="2" stroke-linejoin="round"/>
+
+<!-- ===== TILT BARRIER in front ===== -->
+<rect x="96" y="356" width="320" height="26" rx="6" fill="#a9853f" stroke="#6f5526" stroke-width="5"/>
+<line x1="150" y1="382" x2="150" y2="424" stroke="#6f5526" stroke-width="11" stroke-linecap="round"/>
+<line x1="362" y1="382" x2="362" y2="424" stroke="#6f5526" stroke-width="11" stroke-linecap="round"/>
+</g></svg>

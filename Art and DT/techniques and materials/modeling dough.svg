@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="106.90 106.05 337.45 337.45">
+<!-- modelling dough: tub of dough + rolled shapes + cutter -->
+<!-- pot / tub -->
+<path d="M 150 296 L 162 392 Q 164 408 182 408 L 274 408 Q 292 408 294 392 L 306 296 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- lid rim -->
+<ellipse cx="228" cy="296" rx="78" ry="24" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- dough mound poking out of pot -->
+<path d="M 174 296 Q 180 252 228 252 Q 276 252 282 296 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rolled dough ball front -->
+<circle cx="358" cy="378" r="40" fill="#d63b46" stroke="#1a1a1a" stroke-width="9"/>
+<!-- small rolled snake/coil -->
+<path d="M 296 396 Q 320 372 344 396" fill="none" stroke="#3d7fb5" stroke-width="16" stroke-linecap="round"/>
+<!-- star cutter shape pressed -->
+<path d="M 356 130 L 368 162 L 402 164 L 374 186 L 384 218 L 356 198 L 328 218 L 338 186 L 310 164 L 344 162 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

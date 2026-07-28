@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stone-wall cellar panel -->
+  <rect x="26" y="32" width="238" height="176" rx="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Left wine rack (arched top) -->
+  <rect x="36" y="50" width="90" height="130" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Arch top on left rack -->
+  <path d="M36,80 Q81,44 126,80" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Grid lines on left rack (horizontal) -->
+  <line x1="36" y1="110" x2="126" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="36" y1="140" x2="126" y2="140" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="36" y1="170" x2="126" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Grid lines on left rack (vertical) -->
+  <line x1="66" y1="80" x2="66" y2="180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="96" y1="80" x2="96" y2="180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bottle ends in left rack (circles) -->
+  <circle cx="51" cy="95" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="81" cy="95" r="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="111" cy="95" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="51" cy="125" r="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="81" cy="125" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="111" cy="125" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="51" cy="155" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="81" cy="155" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="111" cy="155" r="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right wine rack (arched top) -->
+  <rect x="140" y="50" width="78" height="130" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M140,80 Q179,44 218,80" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <line x1="140" y1="110" x2="218" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="140" x2="218" y2="140" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="170" x2="218" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="179" y1="80" x2="179" y2="180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="159" cy="95" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="199" cy="95" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="159" cy="125" r="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="199" cy="125" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="159" cy="155" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="199" cy="155" r="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Barrel (front right) -->
+  <ellipse cx="242" cy="175" rx="18" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <rect x="224" y="128" width="36" height="47" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="242" cy="128" rx="18" ry="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Barrel hoops -->
+  <ellipse cx="242" cy="143" rx="18" ry="5" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="242" cy="161" rx="18" ry="5" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

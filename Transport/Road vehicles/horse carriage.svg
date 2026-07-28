@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="10" y1="210" x2="285" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Horse body (left side, in profile, full body) -->
+  <ellipse cx="55" cy="150" rx="38" ry="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Horse neck -->
+  <path d="M82 138 L92 110 L108 108 L104 138 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Horse head -->
+  <path d="M92 110 Q104 95 118 100 Q124 110 116 122 L100 122 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Ear -->
+  <path d="M99 102 L102 92 L107 100 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <circle cx="110" cy="111" r="1.8" fill="#000000"/>
+  <!-- Mane -->
+  <path d="M92 110 Q88 116 88 128 Q92 122 96 124 Q92 130 92 138" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tail -->
+  <path d="M20 142 Q8 152 12 178 Q18 172 20 162 Q22 170 24 175" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Front legs (full body shown) -->
+  <rect x="70" y="168" width="7" height="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="82" y="168" width="7" height="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Hind legs -->
+  <rect x="28" y="168" width="7" height="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="40" y="168" width="7" height="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Hooves -->
+  <rect x="28" y="206" width="7" height="5" fill="#000000"/>
+  <rect x="40" y="206" width="7" height="5" fill="#000000"/>
+  <rect x="70" y="206" width="7" height="5" fill="#000000"/>
+  <rect x="82" y="206" width="7" height="5" fill="#000000"/>
+  <!-- Harness traces / reins -->
+  <line x1="118" y1="115" x2="155" y2="135" stroke="#5e1f0a" stroke-width="5.56" stroke-linecap="round"/>
+  <line x1="115" y1="122" x2="155" y2="145" stroke="#5e1f0a" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- Carriage shaft -->
+  <line x1="100" y1="148" x2="155" y2="170" stroke="#7d5e23" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Carriage body -->
+  <path d="M155 135 L240 135 L255 175 L150 175 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Carriage seat back (driver) -->
+  <rect x="155" y="115" width="22" height="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Carriage window -->
+  <rect x="190" y="145" width="22" height="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Carriage door panel -->
+  <rect x="218" y="145" width="22" height="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Front wheel (small) -->
+  <circle cx="170" cy="190" r="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="170" cy="190" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="170" y1="172" x2="170" y2="208" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="152" y1="190" x2="188" y2="190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rear wheel (large) -->
+  <circle cx="240" cy="188" r="25" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="240" cy="188" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="240" y1="163" x2="240" y2="213" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="215" y1="188" x2="265" y2="188" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="222" y1="170" x2="258" y2="206" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="258" y1="170" x2="222" y2="206" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

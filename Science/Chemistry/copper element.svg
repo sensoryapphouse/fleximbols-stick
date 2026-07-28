@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- copper penny on left + coil of copper wire on right -->
+  <!-- penny outer rim -->
+  <circle cx="80" cy="120" r="62" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- penny inner face -->
+  <circle cx="80" cy="120" r="54" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- profile bust silhouette (no text) -->
+  <path d="M62 145 Q62 115 75 100 Q90 92 100 105 Q105 115 102 130 Q100 140 95 145 L100 175 L60 175 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- highlight on penny edge -->
+  <path d="M48 90 Q40 110 45 135" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- decorative dots around rim -->
+  <circle cx="80" cy="68" r="2" fill="#000000"/>
+  <circle cx="80" cy="172" r="2" fill="#000000"/>
+  <circle cx="28" cy="120" r="2" fill="#000000"/>
+  <circle cx="132" cy="120" r="2" fill="#000000"/>
+  <!-- copper wire coil on right (multiple loops) -->
+  <!-- coil body as stacked ellipses representing wound wire -->
+  <g fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round">
+    <ellipse cx="215" cy="80" rx="50" ry="12" stroke-width="4.45"/>
+    <ellipse cx="215" cy="95" rx="50" ry="12" stroke-width="4.45"/>
+    <ellipse cx="215" cy="110" rx="50" ry="12" stroke-width="4.45"/>
+    <ellipse cx="215" cy="125" rx="50" ry="12" stroke-width="4.45"/>
+    <ellipse cx="215" cy="140" rx="50" ry="12" stroke-width="4.45"/>
+    <ellipse cx="215" cy="155" rx="50" ry="12" stroke-width="4.45"/>
+    <ellipse cx="215" cy="170" rx="50" ry="12" stroke-width="4.45"/>
+  </g>
+  <!-- fill loops with copper color -->
+  <ellipse cx="215" cy="80" rx="50" ry="12" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="215" cy="95" rx="50" ry="12" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="215" cy="110" rx="50" ry="12" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="215" cy="125" rx="50" ry="12" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="215" cy="140" rx="50" ry="12" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="215" cy="155" rx="50" ry="12" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="215" cy="170" rx="50" ry="12" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- wire end sticking out top -->
+  <path d="M260 75 Q275 60 270 45" fill="none" stroke="#e65a00" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M260 75 Q275 60 270 45" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- wire end sticking out bottom -->
+  <path d="M170 175 Q160 195 170 210" fill="none" stroke="#e65a00" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M170 175 Q160 195 170 210" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

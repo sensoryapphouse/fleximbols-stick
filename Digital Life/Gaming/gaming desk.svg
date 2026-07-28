@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- monitor body -->
+  <rect x="72" y="22" width="146" height="100" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- screen -->
+  <rect x="82" y="31" width="126" height="82" rx="4" ry="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen glow / game scene -->
+  <rect x="88" y="37" width="114" height="70" rx="3" ry="3" fill="#2a4ec0" stroke="none"/>
+  <circle cx="145" cy="72" r="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="72" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- monitor stand neck -->
+  <rect x="138" y="122" width="14" height="18" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- monitor stand base -->
+  <rect x="118" y="137" width="54" height="9" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- RGB desk surface — lit edge strip -->
+  <rect x="28" y="148" width="234" height="16" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- RGB strip glow along front edge -->
+  <rect x="34" y="158" width="222" height="5" rx="2" ry="2" fill="#f8130d" stroke="none"/>
+  <!-- desk legs -->
+  <rect x="36" y="164" width="12" height="52" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <rect x="242" y="164" width="12" height="52" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- headset hook on right side of desk -->
+  <path d="M 242,148 Q 264,148 264,132 Q 264,120 254,118" fill="none" stroke="#7f7f7f" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- headset hanging -->
+  <path d="M 248,118 Q 248,108 258,108 Q 268,108 268,118" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <rect x="244" y="118" width="8" height="12" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="262" y="118" width="8" height="12" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small controller on desk -->
+  <path d="M 52,150 Q 44,147 40,153 Q 36,162 42,167 Q 48,172 56,168 L 64,160 L 90,160 L 98,168 Q 106,172 112,167 Q 118,162 114,153 Q 110,147 102,150 L 94,146 L 60,146 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="66" cy="154" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="84" cy="158" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="98" cy="153" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="106" cy="158" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

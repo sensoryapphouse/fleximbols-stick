@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- reusable-bag-modern: eco grocery bag with two handles and green leaf emblem -->
+  <!-- Left handle loop -->
+  <path d="M108 100 Q103 62 120 58 Q137 54 140 78" fill="none" stroke="#529929" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right handle loop -->
+  <path d="M182 100 Q187 62 170 58 Q153 54 150 78" fill="none" stroke="#529929" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bag body: slightly trapezoidal eco bag -->
+  <path d="M80 100 L85 218 L205 218 L210 100 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Open top -->
+  <line x1="80" y1="100" x2="210" y2="100" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Handle attachment reinforcement left -->
+  <rect x="96" y="94" width="26" height="12" rx="3" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Handle attachment reinforcement right -->
+  <rect x="168" y="94" width="26" height="12" rx="3" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Green leaf emblem on front -->
+  <!-- Leaf shape -->
+  <path d="M145 135 Q165 118 168 140 Q155 155 138 148 Q130 138 145 135 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Leaf stem -->
+  <path d="M145 148 Q142 162 140 170" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Leaf midrib -->
+  <path d="M145 135 Q153 143 158 148" fill="none" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Bag side fold lines -->
+  <path d="M88 108 L91 213" fill="none" stroke="#90a7d6" stroke-width="2.96" stroke-dasharray="5,4"/>
+  <path d="M202 108 L199 213" fill="none" stroke="#90a7d6" stroke-width="2.96" stroke-dasharray="5,4"/>
+</g></svg>

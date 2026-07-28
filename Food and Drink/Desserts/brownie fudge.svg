@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Brownie block - side face front -->
+  <path d="M65,175 L225,175 L225,215 L65,215 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Brownie top surface -->
+  <path d="M65,175 L225,175 L210,145 L80,145 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Right side face -->
+  <path d="M225,175 L225,215 L210,215 L210,145 Z" fill="#000000" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Fudge drip from right edge over top -->
+  <path d="M185,143 Q192,138 198,135 Q208,130 215,138 Q220,145 215,155 Q210,160 205,155 Q200,150 205,143 Q200,140 195,145 Q190,150 190,143 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- Glossy fudge top coat -->
+  <path d="M80,145 L210,145 L210,148 Q145,152 80,148 Z" fill="#000000" stroke="none"/>
+  <!-- Fudge gloss highlight streak -->
+  <path d="M95,147 Q145,143 195,147" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M110,151 Q145,148 180,151" fill="none" stroke="#5e1f0a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Fudge drip blobs on front face -->
+  <path d="M100,175 Q98,188 102,192 Q106,195 108,190 Q110,184 108,175 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M135,175 Q133,191 137,196 Q141,200 144,195 Q147,188 144,175 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M168,175 Q166,186 170,190 Q174,193 176,188 Q178,182 176,175 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cut line showing fudgy interior cross-section at bottom -->
+  <path d="M65,215 L225,215" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Fudgy dense texture lines on top -->
+  <path d="M88,147 Q120,144 152,147" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M138,147 Q165,144 192,147" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

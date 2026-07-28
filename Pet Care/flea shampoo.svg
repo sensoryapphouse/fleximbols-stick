@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bottle body -->
+  <path d="M 100 80 L 100 215 Q 100 225 110 225 L 190 225 Q 200 225 200 215 L 200 80 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Bottle shoulder -->
+  <rect x="110" y="68" width="80" height="14" fill="#529929" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Cap -->
+  <rect x="125" y="35" width="50" height="35" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Cap ridges -->
+  <line x1="132" y1="42" x2="132" y2="62" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="142" y1="42" x2="142" y2="62" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="152" y1="42" x2="152" y2="62" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="162" y1="42" x2="162" y2="62" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Label -->
+  <rect x="110" y="110" width="80" height="85" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Flea silhouette - body -->
+  <ellipse cx="147" cy="155" rx="18" ry="13" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Flea head -->
+  <circle cx="132" cy="148" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Flea antennae -->
+  <line x1="128" y1="142" x2="122" y2="134" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="140" x2="130" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Flea legs -->
+  <line x1="138" y1="166" x2="132" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="148" y1="168" x2="148" y2="180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="166" x2="164" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="160" x2="170" y2="165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Prohibition circle -->
+  <circle cx="150" cy="155" r="35" fill="none" stroke="#d01424" stroke-width="8.89"/>
+  <!-- Prohibition slash -->
+  <line x1="125" y1="130" x2="175" y2="180" stroke="#d01424" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Bottle highlight -->
+  <rect x="107" y="88" width="6" height="100" fill="#529929" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

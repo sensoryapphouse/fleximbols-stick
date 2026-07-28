@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Night sky -->
+  <rect x="26" y="32" width="238" height="176" rx="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Stars -->
+  <circle cx="48" cy="45" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="235" cy="50" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="55" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="248" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="38" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dark side of moon (full disc) -->
+  <circle cx="145" cy="118" r="76" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Lit RIGHT crescent: clip a bright disc offset to the left to create right-lit crescent -->
+  <!-- Approach: draw full bright circle, then overlay dark circle offset left to mask left side -->
+  <circle cx="145" cy="118" r="76" fill="#f7de58" stroke="none"/>
+  <!-- Dark overlay circle shifted left — carves out left side leaving right crescent lit -->
+  <circle cx="112" cy="118" r="76" fill="#4d4d4d" stroke="none"/>
+  <!-- Re-draw outer stroke over composite -->
+  <circle cx="145" cy="118" r="76" fill="none" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Crescent edge stroke (terminator) — arc on the left interior -->
+  <path d="M 145 42 Q 69 60 69 118 Q 69 176 145 194" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

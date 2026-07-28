@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bread bowl outer walls -->
+  <path d="M 50,130 Q 50,210 145,215 Q 240,210 240,130 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="130" rx="95" ry="24" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bread bowl texture - torn edge ring -->
+  <path d="M 52,128 Q 60,118 70,126 Q 80,118 90,126 Q 100,118 110,126 Q 120,118 130,126 Q 140,118 145,124 Q 150,118 160,126 Q 170,118 180,126 Q 190,118 200,126 Q 210,118 220,126 Q 232,118 238,128" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Creamy whitish-green dip surface -->
+  <ellipse cx="145" cy="128" rx="84" ry="18" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="126" rx="74" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dip tinted greenish-white -->
+  <ellipse cx="145" cy="125" rx="65" ry="12" fill="#efefef" stroke="none"/>
+  <!-- Green artichoke chunks on surface -->
+  <path d="M 100,120 Q 105,112 115,116 Q 113,126 100,124 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 168,118 Q 173,110 183,114 Q 181,124 168,122 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 130,122 Q 136,114 144,118 Q 142,128 130,126 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Small artichoke leaf fragment -->
+  <path d="M 155,115 Q 161,107 167,112 Q 165,120 155,118 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Bread crust ring - darker brown -->
+  <ellipse cx="145" cy="130" rx="95" ry="24" fill="none" stroke="#9d7246" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Artichoke quarter (side) showing above bowl rim at back -->
+  <path d="M 138,108 Q 132,90 145,78 Q 158,90 152,108 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M 140,108 Q 137,98 145,90 Q 153,98 150,108" fill="none" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

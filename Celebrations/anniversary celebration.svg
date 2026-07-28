@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cake base tier -->
+  <rect x="75" y="170" width="140" height="50" rx="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Cake top tier -->
+  <rect x="95" y="128" width="100" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Frosting drip top tier -->
+  <path d="M95,140 Q105,148 115,140 Q125,148 135,140 Q145,148 155,140 Q165,148 175,140 Q185,148 195,140" fill="none" stroke="#ffffff" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Frosting drip bottom tier -->
+  <path d="M75,182 Q88,192 101,182 Q114,192 127,182 Q140,192 153,182 Q166,192 179,182 Q192,192 205,182 Q218,192 215,182" fill="none" stroke="#ffffff" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Candles on cake (5 candles = years represented) -->
+  <rect x="105" y="108" width="10" height="22" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="122" y="108" width="10" height="22" rx="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="139" y="108" width="10" height="22" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="156" y="108" width="10" height="22" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="173" y="108" width="10" height="22" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Flames -->
+  <path d="M110,108 Q107,100 110,95 Q113,100 110,108 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M127,108 Q124,100 127,95 Q130,100 127,108 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M144,108 Q141,100 144,95 Q147,100 144,108 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M161,108 Q158,100 161,95 Q164,100 161,108 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M178,108 Q175,100 178,95 Q181,100 178,108 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+
+  <!-- Couple figures -->
+  <!-- Person 1 head -->
+  <circle cx="42" cy="75" r="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <path d="M26,68 Q42,57 58,68 L58,75 Q42,64 26,75 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <circle cx="37" cy="76" r="2" fill="#000000"/>
+  <circle cx="47" cy="76" r="2" fill="#000000"/>
+  <path d="M38,84 Q42,88 46,84" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Body 1 -->
+  <rect x="26" y="93" width="32" height="65" rx="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Legs 1 -->
+  <rect x="28" y="155" width="11" height="30" rx="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="41" y="155" width="11" height="30" rx="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Person 2 head -->
+  <circle cx="248" cy="75" r="18" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55"/>
+  <path d="M232,68 Q248,58 264,68 L264,74 Q248,65 232,74 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <circle cx="243" cy="76" r="2" fill="#000000"/>
+  <circle cx="253" cy="76" r="2" fill="#000000"/>
+  <path d="M244,84 Q248,88 252,84" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Body 2 suit -->
+  <rect x="232" y="93" width="32" height="65" rx="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="243" y="93" width="10" height="35" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Legs 2 -->
+  <rect x="234" y="155" width="11" height="30" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="247" y="155" width="11" height="30" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Arms reaching to hold hands toward centre heart -->
+  <line x1="58" y1="105" x2="90" y2="120" stroke="#eed5b6" stroke-width="10.00" stroke-linecap="round"/>
+  <line x1="232" y1="105" x2="200" y2="120" stroke="#e6b98a" stroke-width="10.00" stroke-linecap="round"/>
+
+  <!-- Large heart centre -->
+  <path d="M115,50 Q115,25 135,25 Q145,25 145,40 Q145,25 155,25 Q175,25 175,50 Q175,75 145,95 Q115,75 115,50 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+</g></svg>

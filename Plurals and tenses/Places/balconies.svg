@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,13.619) scale(0.9734)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.5483) translate(-256.00 -282.50)">
+<g transform="translate(159.7,112.6) scale(0.664)"><g stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- building wall -->
+    <rect x="30" y="40" width="230" height="432" fill="#f0d9a8" />
+    <!-- doorway / window onto balcony -->
+    <rect x="80" y="70" width="100" height="160" rx="6" fill="#7ec4ec" />
+    <line x1="130" y1="70" x2="130" y2="230" stroke-width="4" />
+    <!-- balcony platform / slab -->
+    <rect x="10" y="240" width="270" height="34" fill="#c9b48a" />
+    <!-- balcony railing balusters -->
+    <rect x="20" y="274" width="250" height="14" fill="#b0b0b8" />
+    <g stroke-width="6" stroke="#1a1a1a">
+      <line x1="40" y1="288" x2="40" y2="370" />
+      <line x1="80" y1="288" x2="80" y2="370" />
+      <line x1="120" y1="288" x2="120" y2="370" />
+      <line x1="160" y1="288" x2="160" y2="370" />
+      <line x1="200" y1="288" x2="200" y2="370" />
+      <line x1="240" y1="288" x2="240" y2="370" />
+    </g>
+    <rect x="20" y="366" width="250" height="14" fill="#b0b0b8" />
+    <!-- potted plant on balcony -->
+    <path d="M150 240 q14 -40 28 0 Z" fill="#5fbf6a" />
+    <rect x="152" y="240" width="24" height="0.1" />
+  </g></g>
+</g><line x1="452" y1="258" x2="406" y2="258" stroke="#1a1a1a" stroke-width="15" stroke-linecap="round"/><polygon points="384,258 412,242 412,274" fill="#2f9e4a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/><line x1="452" y1="258" x2="408" y2="258" stroke="#2f9e4a" stroke-width="9" stroke-linecap="round"/></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2611" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2611)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

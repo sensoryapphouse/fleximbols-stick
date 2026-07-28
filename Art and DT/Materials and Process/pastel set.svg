@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Box tray: open shallow rectangle -->
+  <rect x="22" y="130" width="246" height="88" rx="8" ry="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Box inner floor -->
+  <rect x="30" y="138" width="230" height="72" rx="4" ry="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- 7 pastel sticks lying in the box, each a rounded rect -->
+  <!-- Stick 1: red -->
+  <rect x="36" y="145" width="28" height="58" rx="10" ry="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stick 2: orange -->
+  <rect x="70" y="145" width="28" height="58" rx="10" ry="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stick 3: yellow -->
+  <rect x="104" y="145" width="28" height="58" rx="10" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stick 4: green -->
+  <rect x="138" y="145" width="28" height="58" rx="10" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stick 5: blue -->
+  <rect x="172" y="145" width="28" height="58" rx="10" ry="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stick 6: purple -->
+  <rect x="206" y="145" width="28" height="58" rx="10" ry="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stick 7: pink -->
+  <rect x="240" y="145" width="28" height="58" rx="10" ry="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Chalk dust smear above box -->
+  <path d="M 40,118 Q 80,108 130,115 Q 175,122 210,112" fill="none" stroke="#f7de58" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M 60,108 Q 100,100 145,106" fill="none" stroke="#f4a4b2" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

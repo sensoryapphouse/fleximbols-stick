@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="68.85 68.00 374.30 374.30" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1">
+<!-- snug: cocoon sleeping bag, wrapped tight -->
+<g>
+<!-- bag outer -->
+<path d="M 256 96 Q 196 100 184 200 Q 176 300 188 372 Q 196 412 256 414 Q 316 412 324 372 Q 336 300 328 200 Q 316 100 256 96 Z" fill="#6fb36f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hood opening -->
+<ellipse cx="256" cy="150" rx="56" ry="40" fill="#bfe3bf" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner padding ring -->
+<ellipse cx="256" cy="150" rx="38" ry="26" fill="#e8f5e8" stroke="#3f7f3f" stroke-width="6"/>
+<!-- quilting stitch lines (tucked/snug) -->
+<g fill="none" stroke="#3f7f3f" stroke-width="6" stroke-linecap="round">
+<path d="M 196 224 Q 256 214 316 224"/>
+<path d="M 192 280 Q 256 270 320 280"/>
+<path d="M 192 336 Q 256 328 320 336"/>
+</g>
+<!-- zip down middle -->
+<line x1="256" y1="190" x2="256" y2="392" stroke="#1a1a1a" stroke-width="7" stroke-dasharray="6 10" stroke-linecap="round"/>
+</g></g></svg>

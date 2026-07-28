@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="57.02 22.88 415.03 415.03"><!-- open mouth (lips+tongue) speaking, with sound waves -->
+<!-- outer lips -->
+<ellipse cx="206" cy="256" rx="118" ry="86" fill="#e6738a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner mouth -->
+<ellipse cx="206" cy="256" rx="86" ry="58" fill="#7a1f2b" stroke="#1a1a1a" stroke-width="7"/>
+<!-- upper teeth -->
+<path d="M 130 224 Q 206 200 282 224 L 282 240 Q 206 222 130 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- tongue -->
+<ellipse cx="206" cy="290" rx="54" ry="34" fill="#e23c3c" stroke="#1a1a1a" stroke-width="6"/>
+<!-- sound waves -->
+<path d="M 348 256 Q 372 226 348 196" fill="none" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+<path d="M 382 274 Q 420 216 382 158" fill="none" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+<path d="M 416 292 Q 468 206 416 120" fill="none" stroke="#4a90d9" stroke-width="9" stroke-linecap="round"/>
+</svg>

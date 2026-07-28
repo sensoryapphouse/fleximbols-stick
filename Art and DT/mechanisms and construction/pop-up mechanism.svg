@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="93.09 110.16 325.82 325.82"><!-- pop-up mechanism: lever pivots so a tab pops up through a slot, with up-arrow -->
+<rect x="118" y="300" width="276" height="64" rx="8" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="200" y1="300" x2="312" y2="300" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- pop-up tab -->
+<rect x="222" y="150" width="68" height="150" rx="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<!-- up arrow -->
+<line x1="256" y1="246" x2="256" y2="186" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<polyline points="232 208 256 182 280 208" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- pivot lever below -->
+<line x1="160" y1="392" x2="352" y2="332" stroke="#d63b46" stroke-width="16" stroke-linecap="round"/>
+<circle cx="256" cy="362" r="16" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

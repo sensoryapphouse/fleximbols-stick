@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="13.85 45.42 451.88 451.88">
+<!-- faster: two cars, motion lines + arrow on the speedy one -->
+<!-- slow car (faded), left -->
+<g opacity="0.34">
+<g transform="translate(40 300)">
+<path d="M 20 40 L 35 10 L 95 10 L 120 40 Z" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="6" y="40" width="128" height="34" rx="10" fill="#7da0c4" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="38" cy="80" r="18" fill="#33373d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="102" cy="80" r="18" fill="#33373d" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+</g>
+<!-- fast car (bold), right, with motion lines -->
+<g transform="translate(300 300)">
+<line x1="-40" y1="20" x2="-8" y2="20" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="-52" y1="50" x2="-12" y2="50" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="-40" y1="80" x2="-8" y2="80" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 20 40 L 35 10 L 95 10 L 120 40 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="6" y="40" width="128" height="34" rx="10" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="38" cy="80" r="18" fill="#33373d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="102" cy="80" r="18" fill="#33373d" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<!-- bold green arrow pointing at the fast car -->
+<line x1="365" y1="150" x2="365" y2="252" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="365" y1="252" x2="338" y2="222" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="365" y1="252" x2="392" y2="222" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="365" y1="150" x2="365" y2="252" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="365" y1="252" x2="338" y2="222" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="365" y1="252" x2="392" y2="222" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+</svg>

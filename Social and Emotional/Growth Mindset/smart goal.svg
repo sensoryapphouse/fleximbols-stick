@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bullseye rings -->
+  <circle cx="148" cy="118" r="90" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="118" r="65" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="118" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="118" r="18" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Arrow shaft -->
+  <line x1="38" y1="48" x2="145" y2="116" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Arrow head -->
+  <polygon points="148,118 128,100 138,96 134,106" fill="#000000"/>
+  <!-- Checklist: 5 ticks on right -->
+  <g stroke="#529929" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <polyline points="228,60 234,68 246,52"/>
+    <polyline points="228,82 234,90 246,74"/>
+    <polyline points="228,104 234,112 246,96"/>
+    <polyline points="228,126 234,134 246,118"/>
+    <polyline points="228,148 234,156 246,140"/>
+  </g>
+  <!-- Tick item lines -->
+  <g stroke="#4d4d4d" stroke-width="2.66" stroke-linecap="round">
+    <line x1="252" y1="60" x2="272" y2="60"/>
+    <line x1="252" y1="82" x2="272" y2="82"/>
+    <line x1="252" y1="104" x2="272" y2="104"/>
+    <line x1="252" y1="126" x2="272" y2="126"/>
+    <line x1="252" y1="148" x2="272" y2="148"/>
+  </g>
+</g></svg>

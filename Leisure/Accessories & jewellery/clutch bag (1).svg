@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- clutch-bag: flat slim rectangular evening clutch, NO strap, fold-over flap -->
+  <!-- Main body of clutch -->
+  <rect x="55" y="130" width="180" height="80" rx="8" ry="8" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Fold-over flap (top portion overlapping body) -->
+  <path d="M55 130 L55 95 Q55 82 68 82 L222 82 Q235 82 235 95 L235 130 Q200 145 145 140 Q90 145 55 130 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Flap fold line crease -->
+  <path d="M55 130 Q145 145 235 130" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Magnetic snap / clasp dot on flap -->
+  <circle cx="145" cy="118" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="118" r="3" fill="#7f7f7f" stroke="none"/>
+  <!-- Body decorative stitching -->
+  <rect x="67" y="142" width="156" height="56" rx="4" ry="4" fill="none" stroke="#7c3fac" stroke-width="2.96" stroke-dasharray="6,4"/>
+</g></svg>

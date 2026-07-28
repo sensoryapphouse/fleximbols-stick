@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer -->
+  <path d="M30 100 Q30 208 145 216 Q260 208 260 100Z" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl inner / acai surface -->
+  <ellipse cx="145" cy="100" rx="115" ry="30" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Deep purple acai fill -->
+  <path d="M30 100 Q30 180 145 190 Q260 180 260 100 Q260 130 145 140 Q30 130 30 100Z" fill="#392170" stroke="none"/>
+  <!-- Acai surface dark purple -->
+  <ellipse cx="145" cy="100" rx="115" ry="30" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Granola strip across top -->
+  <rect x="80" y="88" width="130" height="18" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="88" y="90" width="14" height="14" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="108" y="90" width="14" height="14" rx="3" fill="#e65a00" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="128" y="90" width="14" height="14" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="148" y="90" width="14" height="14" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="168" y="90" width="14" height="14" rx="3" fill="#e65a00" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="188" y="90" width="14" height="14" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Banana slices -->
+  <ellipse cx="95" cy="78" rx="18" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M77 78 Q95 70 113 78" fill="none" stroke="#f2e40d" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="145" cy="74" rx="18" ry="10" fill="#fff200" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M127 74 Q145 66 163 74" fill="none" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="198" cy="78" rx="18" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M180 78 Q198 70 216 78" fill="none" stroke="#f2e40d" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Berries / blueberries -->
+  <circle cx="72" cy="95" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="69" cy="93" r="3" fill="#90a7d6" stroke="none"/>
+  <circle cx="218" cy="95" r="9" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="93" r="3" fill="#2a4ec0" stroke="none"/>
+  <circle cx="240" cy="102" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="237" cy="100" r="3" fill="#90a7d6" stroke="none"/>
+  <circle cx="50" cy="103" r="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="47" cy="101" r="3" fill="#392170" stroke="none"/>
+  <!-- Strawberry -->
+  <path d="M145 56 Q158 44 168 56 Q163 70 145 75 Q127 70 122 56 Q132 44 145 56Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M145 44 Q148 36 152 38" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Seeds on strawberry -->
+  <ellipse cx="138" cy="60" rx="2" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="1.48"/>
+  <ellipse cx="150" cy="58" rx="2" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="1.48"/>
+  <ellipse cx="142" cy="68" rx="2" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="1.48"/>
+</g></svg>

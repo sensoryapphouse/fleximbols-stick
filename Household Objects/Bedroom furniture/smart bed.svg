@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- headboard (raised, adjustable) -->
+  <path d="M40 175 L40 60 Q40 50 50 50 L110 50 Q120 50 120 60 L120 175 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- headboard padding panels -->
+  <rect x="50" y="60" width="60" height="50" rx="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="50" y="115" width="60" height="50" rx="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- adjustable raised mattress section under head -->
+  <path d="M40 175 L120 175 L130 150 L180 130 L180 175 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pillow on raised section -->
+  <ellipse cx="100" cy="155" rx="22" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- flat mattress section -->
+  <rect x="180" y="155" width="80" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- blanket/cover stripe across flat mattress -->
+  <rect x="180" y="175" width="80" height="20" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- bed base/frame -->
+  <rect x="40" y="195" width="220" height="20" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- legs -->
+  <rect x="45" y="215" width="10" height="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="245" y="215" width="10" height="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- control panel beside bed -->
+  <rect x="195" y="80" width="60" height="42" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="200" y="86" width="50" height="20" rx="2" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- sleep mode icon (moon) on display -->
+  <path d="M212 93 Q207 96 210 102 Q215 104 218 99 Q213 99 212 93 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- bars showing levels -->
+  <rect x="232" y="95" width="2" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
+  <rect x="236" y="92" width="2" height="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
+  <rect x="240" y="89" width="2" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
+  <!-- control buttons -->
+  <circle cx="208" cy="115" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M205 117 L208 113 L211 117 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
+  <circle cx="225" cy="115" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M222 113 L225 117 L228 113 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
+  <circle cx="242" cy="115" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- adjustable arrow indicator on raised section -->
+  <path d="M150 110 Q155 100 165 95" fill="none" stroke="#f8130d" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M161 92 L166 94 L165 99" fill="none" stroke="#f8130d" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

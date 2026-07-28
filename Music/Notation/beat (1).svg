@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl body -->
+  <path d="M50 105 Q50 192 145 192 Q240 192 240 105 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="105" rx="95" ry="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Batter splash left -->
+  <ellipse cx="80" cy="118" rx="14" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Batter splash right -->
+  <ellipse cx="205" cy="115" rx="12" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Splatter dots -->
+  <circle cx="95" cy="95" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="195" cy="90" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="160" cy="88" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Whisk handle -->
+  <rect x="135" y="22" width="12" height="55" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Whisk wires -->
+  <path d="M141 77 Q128 105 120 125" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M141 77 Q135 108 133 128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M141 77 Q148 108 150 128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M141 77 Q155 103 162 122" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Whisk base oval -->
+  <ellipse cx="141" cy="128" rx="22" ry="8" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Motion lines -->
+  <line x1="170" y1="65" x2="185" y2="58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="175" y1="78" x2="192" y2="74" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="108" y1="62" x2="93" y2="56" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="105" y1="76" x2="89" y2="73" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bowl base -->
+  <path d="M95 190 Q145 205 195 190" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

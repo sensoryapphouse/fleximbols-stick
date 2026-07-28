@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Beer glass body (pint shape) — pale gold lager -->
+  <path d="M88 205 L98 75 L192 75 L202 205 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Light foam head -->
+  <path d="M98 75 Q98 55 115 52 Q128 48 145 52 Q162 48 175 52 Q192 55 192 75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Glass highlight -->
+  <path d="M100 90 L104 195" fill="none" stroke="#ffffff" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Rising bubbles in glass -->
+  <circle cx="120" cy="165" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="145" cy="145" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="168" cy="160" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="132" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="158" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <!-- Glass base -->
+  <rect x="85" y="205" width="120" height="12" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Handle -->
+  <path d="M192 105 Q232 105 232 145 Q232 185 192 185" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

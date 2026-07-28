@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- rod / hanging line -->
+  <line x1="20" y1="32" x2="200" y2="32" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- hanger hook -->
+  <path d="M100 32 L100 22 Q100 14 108 14 Q116 14 116 22" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- hanger triangle -->
+  <path d="M100 32 L65 60 L135 60 Z" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- gown on hanger -->
+  <path d="M55 65 L70 60 L100 56 L130 60 L145 65 L130 78 L120 78 L135 220 L65 220 L80 78 L70 78 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- V collar -->
+  <path d="M85 62 L100 95 L115 62" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- white stole down the front -->
+  <path d="M90 62 L100 130 L110 62" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- gown buttons -->
+  <circle cx="100" cy="150" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="100" cy="170" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="100" cy="190" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- separate mortarboard cap to the right -->
+  <!-- cap band -->
+  <path d="M180 160 Q215 152 250 160 L250 168 Q215 178 180 168 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cap top plate -->
+  <path d="M165 150 L215 132 L265 150 L215 168 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- button -->
+  <circle cx="215" cy="150" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- tassel cord -->
+  <line x1="215" y1="150" x2="258" y2="172" stroke="#f7de58" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- tassel head -->
+  <path d="M254 172 L260 195 L266 172 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <line x1="257" y1="175" x2="257" y2="190" stroke="#1a1a1a" stroke-width="1.78"/>
+  <line x1="260" y1="175" x2="260" y2="192" stroke="#1a1a1a" stroke-width="1.78"/>
+  <line x1="263" y1="175" x2="263" y2="190" stroke="#1a1a1a" stroke-width="1.78"/>
+</g></svg>

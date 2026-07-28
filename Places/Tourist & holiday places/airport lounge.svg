@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- back wall -->
+  <rect x="10" y="10" width="270" height="150" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- floor -->
+  <rect x="10" y="160" width="270" height="70" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- window with airplane silhouette -->
+  <rect x="180" y="25" width="90" height="60" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="225" y1="25" x2="225" y2="85" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="180" y1="55" x2="270" y2="55" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- airplane silhouette -->
+  <path d="M195 70 L215 65 L240 65 L255 70 L240 73 L215 73 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M225 65 L235 58 L240 65" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- "LOUNGE" sign -->
+  <rect x="20" y="20" width="100" height="22" fill="#fff200" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M28 30 L28 38 M34 30 L34 38 M28 38 L36 38" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="44" cy="34" r="3.5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M54 38 L54 30 L60 38 L60 30" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M66 30 L66 38 L72 38" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M80 30 L78 38 L82 38 L80 30" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M90 30 L90 38 L100 38 L100 30 L90 30" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="106" y1="30" x2="106" y2="38" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="106" y1="30" x2="112" y2="30" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="106" y1="34" x2="110" y2="34" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="106" y1="38" x2="112" y2="38" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- lounge chair left (comfortable) -->
+  <path d="M30 130 L30 195 L100 195 L100 130 Q100 120 90 120 L40 120 Q30 120 30 130 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="38" y="140" width="54" height="40" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- business traveler in chair full body -->
+  <circle cx="65" cy="110" r="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- hair -->
+  <path d="M53 105 Q65 92 77 105" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="61" cy="111" r="1.2" fill="#000000"/>
+  <circle cx="69" cy="111" r="1.2" fill="#000000"/>
+  <path d="M61 117 Q65 119 69 117" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- suit torso -->
+  <rect x="52" y="123" width="26" height="32" fill="#392170" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M58 123 L65 135 L72 123" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tablet in hands -->
+  <rect x="48" y="138" width="34" height="22" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="51" y="141" width="28" height="16" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- arms -->
+  <rect x="44" y="138" width="8" height="20" fill="#392170" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="78" y="138" width="8" height="20" fill="#392170" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- legs -->
+  <rect x="55" y="170" width="10" height="25" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="67" y="170" width="10" height="25" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- shoes -->
+  <ellipse cx="60" cy="200" rx="7" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="72" cy="200" rx="7" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- side table with free drinks -->
+  <rect x="115" y="155" width="40" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="130" y="161" width="10" height="34" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- wine glass -->
+  <path d="M122 138 L132 138 L130 150 L124 150 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="127" y1="150" x2="127" y2="155" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="127" cy="156" rx="4" ry="1.5" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- coffee cup -->
+  <rect x="140" y="142" width="12" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M152 145 Q157 147 152 152" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M143 138 Q145 134 144 132" fill="none" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M148 138 Q150 134 149 132" fill="none" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- "FREE" tag -->
+  <rect x="115" y="125" width="35" height="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M119 128 L119 134 M119 128 L124 128 M119 131 L123 131" fill="none" stroke="#ffffff" stroke-width="3.33"/>
+  <path d="M127 128 L127 134 M127 128 L132 128 M127 131 L131 131 M127 134 L132 134" fill="none" stroke="#ffffff" stroke-width="3.33"/>
+  <path d="M134 128 L134 134 M134 128 L139 128 M134 131 L138 131 M134 134 L139 134" fill="none" stroke="#ffffff" stroke-width="3.33"/>
+  <path d="M142 128 L142 134 M142 128 L146 134 M146 128 L146 134" fill="none" stroke="#ffffff" stroke-width="3.33"/>
+  <!-- second business traveler right (full body in chair) -->
+  <path d="M180 145 L180 195 L240 195 L240 145 Q240 138 232 138 L188 138 Q180 138 180 145 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="210" cy="125" r="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="207" cy="125" r="1.2" fill="#000000"/>
+  <circle cx="213" cy="125" r="1.2" fill="#000000"/>
+  <path d="M207 130 Q210 132 213 130" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <rect x="200" y="135" width="20" height="30" fill="#137827" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="194" y="148" width="7" height="18" fill="#137827" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="219" y="148" width="7" height="18" fill="#137827" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="202" y="170" width="8" height="25" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="212" y="170" width="8" height="25" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="206" cy="200" rx="6" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="217" cy="200" rx="6" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

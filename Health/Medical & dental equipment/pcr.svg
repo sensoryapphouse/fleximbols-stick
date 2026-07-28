@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- thermal cycler machine body -->
+  <rect x="20" y="80" width="150" height="120" rx="8" ry="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- machine top opening / lid -->
+  <rect x="30" y="60" width="130" height="30" rx="6" ry="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen / display -->
+  <rect x="35" y="100" width="55" height="35" rx="3" ry="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen wave -->
+  <path d="M40 125 L50 115 L60 125 L70 115 L80 125" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- control knob -->
+  <circle cx="120" cy="118" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="118" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- sample wells (grid) -->
+  <rect x="32" y="150" width="130" height="40" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="45" cy="170" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="60" cy="170" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="75" cy="170" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="90" cy="170" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="105" cy="170" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="120" cy="170" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="135" cy="170" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="150" cy="170" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- PCR tube extracted -->
+  <path d="M195 60 L215 60 L213 130 L205 145 L197 130 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tube cap -->
+  <rect x="193" y="50" width="24" height="14" rx="3" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- DNA helix beside -->
+  <path d="M245 60 Q265 80 245 100 Q225 120 245 140 Q265 160 245 180" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M270 60 Q250 80 270 100 Q290 120 270 140 Q250 160 270 180" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- DNA rungs -->
+  <path d="M250 75 L267 75" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M245 100 L268 100" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M250 125 L267 125" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M245 150 L268 150" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M250 175 L267 175" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

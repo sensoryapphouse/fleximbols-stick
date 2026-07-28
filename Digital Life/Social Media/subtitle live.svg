@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- TV / video frame -->
+  <rect x="20" y="25" width="250" height="170" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.22"/>
+  <!-- Screen -->
+  <rect x="32" y="37" width="226" height="146" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Person silhouette in video -->
+  <circle cx="120" cy="80" r="18" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 95 130 Q 95 100 120 100 Q 145 100 145 130 L 145 145 L 95 145 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- LIVE red dot indicator top-right of screen -->
+  <circle cx="240" cy="50" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Pulse ring -->
+  <circle cx="240" cy="50" r="13" fill="none" stroke="#f8130d" stroke-width="3.56"/>
+  <!-- Subtitle bar at bottom of screen -->
+  <rect x="42" y="155" width="206" height="22" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Subtitle text lines (as path bars) -->
+  <rect x="50" y="162" width="50" height="3" fill="#ffffff"/>
+  <rect x="106" y="162" width="40" height="3" fill="#ffffff"/>
+  <rect x="152" y="162" width="60" height="3" fill="#ffffff"/>
+  <rect x="50" y="170" width="80" height="3" fill="#ffffff"/>
+  <rect x="136" y="170" width="55" height="3" fill="#ffffff"/>
+  <!-- CC badge bottom-right corner of screen -->
+  <rect x="220" y="155" width="32" height="22" rx="3" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- C -->
+  <path d="M 233 161 Q 227 160 227 166 Q 227 172 233 171" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- C -->
+  <path d="M 245 161 Q 239 160 239 166 Q 239 172 245 171" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- TV stand -->
+  <rect x="120" y="195" width="50" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="90" y="213" width="110" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+</g></svg>

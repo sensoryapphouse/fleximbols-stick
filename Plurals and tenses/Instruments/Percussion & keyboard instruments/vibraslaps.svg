@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Vibraslap: wooden ball on bent metal rod connected to hollow wooden box with rivets -->
+  <!-- Hollow wooden resonance box (right side) -->
+  <rect x="150" y="130" width="110" height="75" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Box top slot (sound hole) -->
+  <rect x="168" y="142" width="74" height="12" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Metal rivets/teeth inside box - visible through slats -->
+  <rect x="172" y="144" width="6" height="8" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="182" y="144" width="6" height="8" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="192" y="144" width="6" height="8" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="144" width="6" height="8" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="212" y="144" width="6" height="8" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="222" y="144" width="6" height="8" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="232" y="144" width="6" height="8" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Box wood grain lines -->
+  <line x1="158" y1="163" x2="252" y2="163" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="172" x2="252" y2="172" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="181" x2="252" y2="181" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="190" x2="252" y2="190" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bent metal rod connecting box to ball -->
+  <!-- Horizontal rod from box left side -->
+  <path d="M 150 167 C 100 167 70 167 55 140 C 40 115 45 80 55 60" fill="none" stroke="#1a1a1a" stroke-width="17.78" stroke-linecap="round"/>
+  <path d="M 150 167 C 100 167 70 167 55 140 C 40 115 45 80 55 60" fill="none" stroke="#7f7f7f" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Wooden ball at the end of the rod -->
+  <circle cx="55" cy="52" r="24" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Wood grain on ball -->
+  <path d="M 35 45 Q 55 40 75 45" fill="none" stroke="#7d5e23" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M 32 54 Q 55 48 78 54" fill="none" stroke="#7d5e23" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Grip handle area on rod (where hand holds) -->
+  <rect x="148" y="155" width="12" height="32" rx="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Sound/vibration lines from box -->
+  <path d="M 265 148 Q 278 158 272 170" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M 270 140 Q 285 152 278 165" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2538" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2538)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

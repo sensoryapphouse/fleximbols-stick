@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Loft bed: ONE elevated bed up high, desk/open space below -->
+  <!-- Tall vertical posts (all 4 reach floor) -->
+  <rect x="38" y="25" width="12" height="190" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="190" y="25" width="12" height="190" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bed frame (elevated ~top third) -->
+  <rect x="44" y="50" width="154" height="12" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Mattress on loft -->
+  <rect x="48" y="62" width="146" height="36" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pillow -->
+  <rect x="54" y="66" width="50" height="22" rx="5" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Guardrail front -->
+  <rect x="100" y="48" width="90" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Desk below (open space) -->
+  <rect x="48" y="148" width="146" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Desk legs -->
+  <rect x="50" y="158" width="10" height="42" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="180" y="158" width="10" height="42" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Monitor on desk -->
+  <rect x="108" y="120" width="42" height="28" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="113" y="124" width="32" height="20" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="126" y="148" width="8" height="5" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Ladder right -->
+  <line x1="202" y1="58" x2="218" y2="210" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="210" y1="58" x2="226" y2="210" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="203" y1="88" x2="225" y2="88" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="206" y1="118" x2="228" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="209" y1="148" x2="231" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="213" y1="178" x2="235" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Floor -->
+  <line x1="30" y1="215" x2="245" y2="215" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer -->
+  <path d="M25,105 Q25,220 145,220 Q265,220 265,105 L250,95 Q250,205 145,205 Q40,205 40,95Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="95" rx="120" ry="24" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Broth surface (golden) -->
+  <ellipse cx="145" cy="95" rx="105" ry="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- Mussel 1 (back left, partially submerged) -->
+  <path d="M68,90 Q60,72 80,65 Q100,58 108,78 Q112,90 100,95 Q84,98 68,90Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M68,90 Q88,84 108,78" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mussel 1 inner flesh -->
+  <path d="M78,82 Q88,76 98,82 Q94,90 88,91 Q82,90 78,82Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Mussel 2 (back centre) -->
+  <path d="M122,82 Q118,60 140,55 Q162,50 168,72 Q172,85 158,90 Q140,95 122,82Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M122,82 Q145,76 168,72" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mussel 2 inner flesh -->
+  <path d="M132,74 Q145,68 158,74 Q154,84 145,86 Q136,84 132,74Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Mussel 3 (back right) -->
+  <path d="M178,88 Q175,68 195,62 Q215,56 220,76 Q223,90 210,96 Q193,100 178,88Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M178,88 Q199,82 220,76" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mussel 3 inner flesh -->
+  <path d="M188,80 Q199,74 212,80 Q208,90 199,91 Q190,90 188,80Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Mussel 4 (front left, larger, prominent) -->
+  <path d="M55,108 Q45,82 72,72 Q98,62 110,88 Q116,105 98,115 Q75,122 55,108Z" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M55,108 Q83,98 110,88" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M65,96 Q82,88 100,96 Q96,110 82,113 Q68,110 65,96Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Mussel 5 (front right, large) -->
+  <path d="M175,108 Q168,82 196,72 Q222,62 232,90 Q236,108 216,116 Q193,122 175,108Z" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M175,108 Q204,98 232,90" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M186,97 Q204,89 222,97 Q218,110 204,114 Q190,110 186,97Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Herb / parsley garnish -->
+  <circle cx="145" cy="98" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="94" r="5" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="94" r="5" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- envelope body -->
+  <rect x="30" y="50" width="230" height="150" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- envelope flap (closed, top) -->
+  <path d="M30 50 L145 130 L260 50" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- cellophane window (transparent blue tint) -->
+  <rect x="55" y="135" width="120" height="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- inner address visible through window (squiggle lines) -->
+  <path d="M65 148 Q80 145 95 148 Q110 151 125 148 Q140 145 160 148" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M65 160 Q80 157 95 160 Q110 163 125 160 Q140 157 155 160" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M65 172 Q80 169 95 172 Q110 175 125 172 Q140 169 150 172" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- window shine highlight -->
+  <path d="M60 140 L70 140 L60 150 Z" fill="#ffffff" stroke="none"/>
+  <line x1="60" y1="140" x2="70" y2="140" stroke="#90a7d6" stroke-width="3.33"/>
+  <line x1="60" y1="140" x2="60" y2="150" stroke="#90a7d6" stroke-width="3.33"/>
+  <!-- stamp top right -->
+  <rect x="215" y="65" width="30" height="35" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M225 75 L240 90 M240 75 L225 90" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

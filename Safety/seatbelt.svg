@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- car seat: seat back -->
+<path d="M 130 96 Q 118 96 118 116 L 118 300 L 250 300 L 250 116 Q 250 96 232 96 Z" fill="#5a6e8c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- headrest -->
+<rect x="140" y="64" width="88" height="46" rx="16" fill="#5a6e8c" stroke="#1a1a1a" stroke-width="8"/>
+<!-- seat base cushion -->
+<path d="M 118 300 L 250 300 L 300 396 Q 302 416 282 416 L 130 416 Q 110 416 110 396 Z" fill="#4c5f7a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- seat back cushion seams -->
+<line x1="184" y1="120" x2="184" y2="290" stroke="#43566f" stroke-width="4" stroke-linecap="round"/>
+<!-- SHOULDER (diagonal) belt across the seat back -->
+<line x1="150" y1="120" x2="270" y2="392" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
+<line x1="150" y1="120" x2="270" y2="392" stroke="#3a3f47" stroke-width="18" stroke-linecap="round"/>
+<line x1="150" y1="120" x2="270" y2="392" stroke="#f0b400" stroke-width="4" stroke-linecap="round"/>
+<!-- LAP belt across the seat base -->
+<line x1="150" y1="392" x2="290" y2="392" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
+<line x1="150" y1="392" x2="290" y2="392" stroke="#3a3f47" stroke-width="18" stroke-linecap="round"/>
+<line x1="150" y1="392" x2="290" y2="392" stroke="#f0b400" stroke-width="4" stroke-linecap="round"/>
+<!-- metal clip / tongue going into buckle -->
+<rect x="248" y="368" width="34" height="48" rx="6" fill="#c9ccd1" stroke="#1a1a1a" stroke-width="6"/>
+<!-- buckle receptacle (red button) -->
+<rect x="280" y="360" width="86" height="64" rx="12" fill="#e0473c" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="300" y="380" width="46" height="14" rx="5" fill="#ffd9d9" stroke="#1a1a1a" stroke-width="0"/>
+<!-- buckle release button -->
+<rect x="312" y="400" width="22" height="10" rx="3" fill="#9c2630" stroke="#1a1a1a" stroke-width="0"/>
+<!-- webbing texture stitch on belts -->
+<line x1="156" y1="132" x2="264" y2="380" stroke="#ffffff" stroke-width="1.4" stroke-linecap="round" opacity="0.5"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2910) translate(-276.00 -270.50)">
+<!-- wooden handle (short, sturdy), running lower-left to mid -->
+<line x1="140" y1="430" x2="300" y2="270" stroke="#7a4a2a" stroke-width="34" stroke-linecap="round"/>
+<line x1="156" y1="414" x2="290" y2="280" stroke="#5e3820" stroke-width="4" stroke-linecap="round"/>
+<!-- antler head: main curved beam hafted at ~45deg across the handle top -->
+<path d="M 248 318 Q 300 250 350 196 Q 386 156 412 120" fill="none" stroke="#ece3cf" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 248 318 Q 300 250 350 196 Q 386 156 412 120" fill="none" stroke="#cdbf9e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- lower digging point of the beam (the pick tip) -->
+<path d="M 268 296 Q 252 350 236 392" fill="none" stroke="#ece3cf" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 268 296 Q 252 350 236 392" fill="none" stroke="#cdbf9e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- short tine 1 -->
+<path d="M 318 240 Q 296 196 268 178" fill="none" stroke="#ece3cf" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 318 240 Q 296 196 268 178" fill="none" stroke="#cdbf9e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- short tine 2 -->
+<path d="M 372 178 Q 372 132 356 100" fill="none" stroke="#ece3cf" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 372 178 Q 372 132 356 100" fill="none" stroke="#cdbf9e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- lashing where antler meets handle -->
+<line x1="236" y1="316" x2="276" y2="284" stroke="#3a2616" stroke-width="9" stroke-linecap="round"/>
+<line x1="248" y1="332" x2="290" y2="298" stroke="#3a2616" stroke-width="9" stroke-linecap="round"/>
+<line x1="262" y1="348" x2="302" y2="314" stroke="#3a2616" stroke-width="9" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Phone body (Snapchat-style yellow accent) -->
+  <rect x="76" y="20" width="138" height="200" rx="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Screen -->
+  <rect x="86" y="40" width="118" height="160" rx="4" fill="#fff200" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Speaker -->
+  <rect x="130" y="28" width="30" height="5" rx="2" fill="#000000"/>
+  <!-- Home -->
+  <circle cx="145" cy="210" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Ghost icon (Snap-style) -->
+  <path d="M115,76 Q115,56 145,56 Q175,56 175,76 L175,128 Q175,132 171,132 Q167,132 165,128 L162,124 L158,132 Q156,136 152,134 L148,128 L144,134 Q140,136 138,132 L134,124 L130,132 Q126,136 122,128 Q118,134 115,128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Ghost eyes -->
+  <circle cx="135" cy="86" r="4" fill="#000000"/>
+  <circle cx="155" cy="86" r="4" fill="#000000"/>
+  <!-- Ghost mouth small -->
+  <circle cx="145" cy="98" r="2" fill="#000000"/>
+  <!-- Camera lens icon below ghost -->
+  <rect x="108" y="148" width="74" height="44" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="145" cy="170" r="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="170" r="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="141" cy="166" r="2" fill="#ffffff"/>
+  <!-- Flash -->
+  <rect x="160" y="152" width="8" height="6" rx="1" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Snap flash burst (top right outside phone) -->
+  <polygon points="222,32 240,46 226,52 244,68 220,62 222,80 208,62 192,68 204,52 188,46 208,42" fill="#fff200" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Sparkles -->
+  <circle cx="46" cy="60" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="38" cy="120" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="54" cy="180" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="250" cy="130" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="190" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

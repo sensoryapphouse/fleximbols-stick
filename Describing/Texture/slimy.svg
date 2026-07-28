@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="69.35 98.37 380.12 380.12">
+<!-- slimy: glossy dripping blob -->
+<path d="M 120 200
+         Q 110 150 160 138
+         Q 200 128 230 150
+         Q 256 110 300 138
+         Q 350 120 388 160
+         Q 410 190 396 230
+         L 396 300
+         Q 396 340 360 350
+         Q 340 410 318 350
+         Q 300 380 286 350
+         L 160 350
+         Q 120 342 120 300 Z"
+      fill="#7ed957" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- drip 1 -->
+<path d="M 200 350 Q 196 400 210 424 Q 224 400 220 350 Z" fill="#7ed957" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- drip 2 -->
+<path d="M 300 350 Q 296 420 312 450 Q 328 420 322 350 Z" fill="#7ed957" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- gloss highlights -->
+<ellipse cx="200" cy="195" rx="34" ry="20" fill="#c8f7b0" stroke="none"/>
+<ellipse cx="320" cy="240" rx="20" ry="40" fill="#c8f7b0" stroke="none"/>
+</svg>

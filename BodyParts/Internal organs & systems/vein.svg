@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- vein: blue blood vessel, cut-away showing blue (deoxygenated) blood + a valve -->
+<!-- vessel wall -->
+<path d="M 150 110 L 150 250 Q 150 320 256 320 Q 362 320 362 250 L 362 110" fill="none" stroke="#3d7fb5" stroke-width="58" stroke-linecap="round"/>
+<!-- inner lumen -->
+<path d="M 150 110 L 150 250 Q 150 320 256 320 Q 362 320 362 250 L 362 110" fill="none" stroke="#4a90d9" stroke-width="34" stroke-linecap="round"/>
+<!-- dark outlines of the tube -->
+<g fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round">
+<path d="M 121 110 L 121 250 Q 121 349 256 349 Q 391 349 391 250 L 391 110"/>
+<path d="M 179 110 L 179 250 Q 179 291 256 291 Q 333 291 333 250 L 333 110"/>
+</g>
+<!-- blood cells flowing -->
+<g fill="#2e5d8a" stroke="#1a1a1a" stroke-width="5">
+<circle cx="150" cy="150" r="13"/><circle cx="150" cy="210" r="13"/>
+<circle cx="256" cy="305" r="13"/><circle cx="362" cy="170" r="13"/><circle cx="362" cy="230" r="13"/>
+</g>
+<!-- one-way valve flaps -->
+<path d="M 179 200 Q 226 230 226 200 M 333 200 Q 286 230 286 200" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- flow arrows -->
+<path d="M 150 90 L 150 70 M 144 80 L 150 70 L 156 80" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 362 70 L 362 90 M 356 80 L 362 90 L 368 80" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

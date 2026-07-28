@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl base -->
+  <path d="M40,155 Q40,220 145,220 Q250,220 250,155 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="155" rx="105" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Food contents - hearty stew/soup surface -->
+  <ellipse cx="145" cy="155" rx="95" ry="16" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Meat chunks -->
+  <rect x="85" y="146" width="28" height="18" rx="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="130" y="144" width="24" height="16" rx="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="175" y="147" width="26" height="17" rx="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Vegetables / garnish -->
+  <circle cx="110" cy="152" r="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="150" r="7" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="153" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Herb sprigs on top -->
+  <!-- Herb 1 -->
+  <line x1="105" y1="142" x2="105" y2="128" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="98" cy="132" rx="7" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-30 98 132)"/>
+  <ellipse cx="112" cy="130" rx="7" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(30 112 130)"/>
+  <ellipse cx="105" cy="126" rx="7" ry="4" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Herb 2 -->
+  <line x1="165" y1="140" x2="165" y2="126" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="158" cy="130" rx="7" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-30 158 130)"/>
+  <ellipse cx="172" cy="128" rx="7" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(30 172 128)"/>
+  <ellipse cx="165" cy="124" rx="7" ry="4" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Steam from bowl -->
+  <path d="M105,138 Q95,120 105,104 Q115,88 105,72" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M105,138 Q95,120 105,104 Q115,88 105,72" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,135 Q135,117 145,101 Q155,85 145,69" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M145,135 Q135,117 145,101 Q155,85 145,69" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M185,138 Q175,120 185,104 Q195,88 185,72" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M185,138 Q175,120 185,104 Q195,88 185,72" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Satisfied tongue/lips below bowl area - indicate at bottom -->
+  <!-- Lips/mouth shape satisfied at base of image -->
+  <path d="M105,230 Q125,218 145,220 Q165,222 185,230" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M105,230 Q145,242 185,230" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tongue tip peeking out -->
+  <ellipse cx="145" cy="234" rx="16" ry="8" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lip highlight -->
+  <path d="M118,225 Q145,220 172,225" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

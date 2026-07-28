@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,26.931) scale(0.9474)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Zafu: round meditation cushion, pleated sides -->
+  <!-- Cushion main body (puffed round) -->
+  <ellipse cx="145" cy="150" rx="105" ry="55" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Top oval indicating pleated top -->
+  <ellipse cx="145" cy="125" rx="80" ry="22" fill="#392170" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Centre tuft button -->
+  <circle cx="145" cy="125" r="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Pleats radiating from top button -->
+  <path d="M145 125 Q110 135 75 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 125 Q120 138 95 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 125 Q145 145 140 180" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 125 Q170 138 195 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 125 Q180 135 215 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bottom seam highlight -->
+  <path d="M55 165 Q145 200 235 165" fill="none" stroke="#392170" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- small lotus icon top-right (meditation cushion) -->
+  <path d="M240 42 Q235 36 228 39 Q226 45 231 48 Q236 50 240 48 Q244 50 249 48 Q254 45 252 39 Q245 36 240 42 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <line x1="240" y1="48" x2="240" y2="62" stroke="#137827" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="235" y1="62" x2="245" y2="62" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2449" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2449)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

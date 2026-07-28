@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="72.73 65.05 366.55 366.55">
+<!-- artificial arm: prosthetic arm - socket cup at shoulder/upper, elbow joint, forearm, mechanical gripper hand. NO person. -->
+<!-- upper-arm socket -->
+<path d="M 214 104 Q 214 92 256 92 Q 298 92 298 104 L 290 176 Q 256 190 222 176 Z" fill="#e7d8bf" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- elbow joint -->
+<circle cx="256" cy="200" r="24" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="200" r="7" fill="#1a1a1a"/>
+<!-- forearm tube -->
+<rect x="240" y="220" width="32" height="96" rx="10" fill="#9aa3ab" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wrist joint -->
+<circle cx="256" cy="322" r="12" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<!-- mechanical gripper hand: two opposing hook fingers -->
+<path d="M 240 334 Q 218 350 222 392 Q 224 408 236 404 Q 244 400 242 384 Q 240 360 252 348 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 272 334 Q 294 350 290 392 Q 288 408 276 404 Q 268 400 270 384 Q 272 360 260 348 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

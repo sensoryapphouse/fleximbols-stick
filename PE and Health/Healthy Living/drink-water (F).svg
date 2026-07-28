@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.3060) translate(-275.00 -301.50)"><g>
+<!-- torso / shoulders -->
+<path d="M 150 470 Q 150 360 232 360 Q 314 360 314 470 Z" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- neck -->
+<rect x="208" y="300" width="44" height="60" rx="14" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<!-- head -->
+<circle cx="222" cy="222" r="84" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="8"/>
+<!-- hair cap -->
+<path d="M 138 222 Q 138 132 222 132 Q 306 132 306 222 Q 222 176 138 222 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- eye -->
+<circle cx="210" cy="212" r="7" fill="#1a1a1a"/>
+<!-- open mouth (drinking) -->
+<ellipse cx="266" cy="252" rx="15" ry="12" fill="#7a3b2e" stroke="#1a1a1a" stroke-width="5"/>
+<!-- raising arm: shoulder -> elbow -> hand at the glass -->
+<path d="M 292 392 L 332 372 L 356 348" fill="none" stroke="#1a1a1a" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 292 392 L 332 372 L 356 348" fill="none" stroke="#f5d6b0" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- tilted glass tipped to the mouth -->
+<g transform="translate(286 250) rotate(-46) translate(-37 -4)">
+  <!-- glass body -->
+  <path d="M 4 0 L 70 0 L 61 156 L 13 156 Z" fill="#dff1fb" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+  <!-- water -->
+  <path d="M 7 6 L 67 6 L 61 150 L 13 150 Z" fill="#7ec8f0"/>
+  <!-- water surface line near rim -->
+  <path d="M 7 14 q 16 9 30 0 q 16 -9 30 0 l 0 -8 l -60 0 Z" fill="#bfe6f5"/>
+  <!-- bubbles -->
+  <circle cx="30" cy="70" r="7" fill="#dff1fb"/>
+  <circle cx="48" cy="100" r="5" fill="#dff1fb"/>
+  <!-- redraw outline on top -->
+  <path d="M 4 0 L 70 0 L 61 156 L 13 156 Z" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+  <!-- hand gripping the glass -->
+  <path d="M 189.6 197.2 Q 168.0 230.0 183.0 272.0 Q 226.0 236.0 213.0 206.2 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path class="skin" d="M 8 96 q -26 6 -26 26 q 0 22 30 24 l 0 -50 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</g>
+</g></g></svg>

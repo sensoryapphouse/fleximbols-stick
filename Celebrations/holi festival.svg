@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Holi festival: colourful powder clouds + person silhouettes -->
+  <!-- Colour powder cloud (top, central burst) -->
+  <ellipse cx="145" cy="50" rx="50" ry="25" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.41"/>
+  <ellipse cx="100" cy="65" rx="35" ry="20" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.41"/>
+  <ellipse cx="190" cy="65" rx="35" ry="20" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.41"/>
+  <ellipse cx="60" cy="50" rx="25" ry="15" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="230" cy="50" rx="25" ry="15" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Powder specks falling -->
+  <circle cx="50" cy="90" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="110" r="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="115" cy="100" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="105" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="95" r="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="110" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="35" cy="115" r="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="265" cy="120" r="3" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Person 1 (left, full body, covered in pink/yellow colours) -->
+  <circle cx="85" cy="135" r="15" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.41"/>
+  <!-- Hair with colour splash -->
+  <path d="M70 132 Q72 117 85 115 Q98 117 100 132 Q92 120 85 122 Q78 120 70 132 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Pink powder on face -->
+  <circle cx="78" cy="138" r="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="92" cy="138" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Eyes -->
+  <circle cx="81" cy="133" r="1.5" fill="#000000"/>
+  <circle cx="89" cy="133" r="1.5" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M80 142 Q85 146 90 142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Body shirt with colour splashes -->
+  <path d="M68 150 L102 150 L106 200 L64 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <circle cx="78" cy="170" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="95" cy="180" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="85" cy="190" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Arms -->
+  <rect x="58" y="150" width="12" height="35" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.41"/>
+  <rect x="100" y="150" width="12" height="35" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.41"/>
+  <!-- Legs -->
+  <rect x="70" y="200" width="14" height="30" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.41"/>
+  <rect x="86" y="200" width="14" height="30" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.41"/>
+  <!-- Feet -->
+  <ellipse cx="77" cy="232" rx="8" ry="4" fill="#000000"/>
+  <ellipse cx="93" cy="232" rx="8" ry="4" fill="#000000"/>
+  <!-- Person 2 (right, full body, covered in colours) -->
+  <circle cx="205" cy="135" r="15" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.41"/>
+  <path d="M190 132 Q192 117 205 115 Q218 117 220 132 Q212 120 205 122 Q198 120 190 132 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="198" cy="138" r="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="212" cy="138" r="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="201" cy="133" r="1.5" fill="#000000"/>
+  <circle cx="209" cy="133" r="1.5" fill="#000000"/>
+  <path d="M200 142 Q205 146 210 142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M188 150 L222 150 L226 200 L184 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <circle cx="198" cy="170" r="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="180" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="205" cy="190" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="178" y="150" width="12" height="35" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.41"/>
+  <rect x="220" y="150" width="12" height="35" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.41"/>
+  <rect x="190" y="200" width="14" height="30" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.41"/>
+  <rect x="206" y="200" width="14" height="30" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.41"/>
+  <ellipse cx="197" cy="232" rx="8" ry="4" fill="#000000"/>
+  <ellipse cx="213" cy="232" rx="8" ry="4" fill="#000000"/>
+</g></svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- elytra / body dome -->
+  <ellipse cx="145" cy="158" rx="62" ry="58" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- elytra centre line -->
+  <line x1="145" y1="102" x2="145" y2="214" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- elytra texture ridges -->
+  <path d="M110 128 Q120 122 145 120 Q170 122 180 128" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 148 Q116 142 145 140 Q174 142 190 148" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M98 168 Q116 162 145 160 Q174 162 192 168" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- thorax -->
+  <ellipse cx="145" cy="108" rx="30" ry="20" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- head (small, round) -->
+  <ellipse cx="145" cy="82" rx="20" ry="18" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- long downward rostrum/snout (key feature) -->
+  <path d="M145 98 Q142 118 140 136 Q139 146 141 152" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- rostrum tip -->
+  <circle cx="141" cy="154" r="4" fill="#000000"/>
+  <!-- eyes (on sides of head) -->
+  <circle cx="130" cy="80" r="5" fill="#000000" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="160" cy="80" r="5" fill="#000000" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- antennae (on rostrum, elbowed) -->
+  <path d="M137 112 Q122 108 110 100" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="110" cy="100" r="3" fill="#000000"/>
+  <path d="M143 112 Q158 108 170 100" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="170" cy="100" r="3" fill="#000000"/>
+  <!-- 6 legs -->
+  <path d="M102 118 Q84 124 68 132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 140 Q76 148 58 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M98 162 Q78 172 62 184" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M188 118 Q206 124 222 132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M194 140 Q214 148 232 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M192 162 Q212 172 228 184" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

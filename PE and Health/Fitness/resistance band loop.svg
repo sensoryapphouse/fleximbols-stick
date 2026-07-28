@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Closed oval loop band - flat elastic band, continuous loop -->
+  <!-- Outer loop outline -->
+  <path d="M 80,48 Q 145,32 210,48 Q 252,62 254,120 Q 256,178 210,196 Q 145,212 80,196 Q 36,182 34,120 Q 32,58 80,48 Z" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Band fill (coloured) -->
+  <path d="M 80,48 Q 145,32 210,48 Q 252,62 254,120 Q 256,178 210,196 Q 145,212 80,196 Q 36,182 34,120 Q 32,58 80,48 Z" fill="none" stroke="#529929" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Inner hole - just the empty center stays transparent -->
+  <!-- Band edge highlight -->
+  <path d="M 88,56 Q 145,42 202,56 Q 240,70 242,120 Q 244,170 202,186 Q 145,200 88,186 Q 50,172 48,120 Q 46,68 88,56 Z" fill="none" stroke="#67832d" stroke-width="1.11" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

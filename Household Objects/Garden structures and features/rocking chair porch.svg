@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- back legs -->
+  <line x1="90" y1="100" x2="82" y2="185" stroke="#9d7246" stroke-width="6.22" stroke-linecap="round"/>
+  <line x1="160" y1="100" x2="168" y2="185" stroke="#9d7246" stroke-width="6.22" stroke-linecap="round"/>
+  <!-- seat -->
+  <rect x="72" y="120" width="108" height="15" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- seat slats -->
+  <line x1="100" y1="120" x2="100" y2="135" stroke="#7d5e23" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="125" y1="120" x2="125" y2="135" stroke="#7d5e23" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="150" y1="120" x2="150" y2="135" stroke="#7d5e23" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- back slats -->
+  <rect x="78" y="55" width="96" height="68" rx="4" ry="4" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="100" y1="55" x2="100" y2="123" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="120" y1="55" x2="120" y2="123" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="140" y1="55" x2="140" y2="123" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="55" x2="160" y2="123" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- top rail -->
+  <rect x="74" y="50" width="104" height="12" rx="5" ry="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- armrests -->
+  <rect x="72" y="110" width="12" height="28" rx="3" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="168" y="110" width="12" height="28" rx="3" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- curved rockers -->
+  <path d="M50 198 Q126 168 202 198" fill="none" stroke="#7d5e23" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- footstool -->
+  <rect x="195" y="172" width="60" height="20" rx="5" ry="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="205" y1="192" x2="205" y2="210" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="245" y1="192" x2="245" y2="210" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

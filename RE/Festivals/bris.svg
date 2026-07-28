@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cushion (pillow) -->
+  <path d="M40 140 Q35 125 60 120 L210 120 Q235 125 230 140 L235 180 Q230 195 210 195 L60 195 Q40 195 35 180 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- cushion tassels -->
+  <circle cx="45" cy="135" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="45" cy="180" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="135" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="180" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- swaddled infant body (full wrapped) -->
+  <path d="M85 130 Q80 145 90 165 L100 175 Q120 180 140 178 Q160 175 170 165 Q180 150 175 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- swaddle fold -->
+  <path d="M95 150 Q130 158 170 150" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- infant head -->
+  <circle cx="105" cy="115" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- tiny hair tuft -->
+  <path d="M98 102 Q105 96 112 102" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- infant eyes (closed) -->
+  <path d="M97 114 Q100 117 103 114" fill="none" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
+  <path d="M108 114 Q111 117 114 114" fill="none" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
+  <!-- infant mouth -->
+  <path d="M100 124 Q105 127 110 124" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- single tear droplet on cheek -->
+  <path d="M118 118 Q114 125 118 130 Q122 125 118 118 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.00" stroke-linejoin="round"/>
+  <!-- ceremonial cup (kiddush) beside -->
+  <path d="M210 50 L260 50 L256 95 Q256 105 235 105 Q214 105 214 95 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- cup stem -->
+  <rect x="230" y="105" width="10" height="12" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- cup base -->
+  <ellipse cx="235" cy="118" rx="20" ry="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- wine in cup -->
+  <ellipse cx="235" cy="55" rx="22" ry="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cup decorative band -->
+  <path d="M218 72 L252 72" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

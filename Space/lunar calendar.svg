@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Calendar base -->
+  <rect x="22" y="40" width="200" height="178" rx="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Calendar header band -->
+  <rect x="22" y="40" width="200" height="38" rx="8" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="22" y="60" width="200" height="18" fill="#392170" stroke="none"/>
+  <!-- Ring pegs -->
+  <circle cx="72" cy="40" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="122" cy="40" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="172" cy="40" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Moon phases in grid cells — 4 phases x 2 rows -->
+  <!-- New moon (filled circle) -->
+  <circle cx="52" cy="102" r="10" fill="#000000" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- Waxing crescent -->
+  <circle cx="94" cy="102" r="10" fill="#ffffff" stroke="#ffffff" stroke-width="4.45"/>
+  <path d="M94,92 Q84,102 94,112" fill="#1d0e82" stroke="none"/>
+  <!-- First quarter (half) -->
+  <circle cx="136" cy="102" r="10" fill="#ffffff" stroke="#ffffff" stroke-width="4.45"/>
+  <rect x="136" y="92" width="10" height="20" fill="#1d0e82" stroke="none"/>
+  <!-- Waxing gibbous -->
+  <circle cx="178" cy="102" r="10" fill="#ffffff" stroke="#ffffff" stroke-width="4.45"/>
+  <path d="M178,92 Q170,102 178,112" fill="#1d0e82" stroke="none"/>
+  <path d="M178,92 Q174,102 178,112" fill="#1d0e82" stroke="none"/>
+  <!-- Full moon -->
+  <circle cx="52" cy="140" r="10" fill="#f7de58" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- Waning gibbous -->
+  <circle cx="94" cy="140" r="10" fill="#f7de58" stroke="#ffffff" stroke-width="4.45"/>
+  <path d="M94,130 Q102,140 94,150" fill="#1d0e82" stroke="none"/>
+  <!-- Last quarter -->
+  <circle cx="136" cy="140" r="10" fill="#f7de58" stroke="#ffffff" stroke-width="4.45"/>
+  <rect x="126" y="130" width="10" height="20" fill="#1d0e82" stroke="none"/>
+  <!-- Waning crescent -->
+  <circle cx="178" cy="140" r="10" fill="#f7de58" stroke="#ffffff" stroke-width="4.45"/>
+  <path d="M178,130 Q186,140 178,150" fill="#1d0e82" stroke="none"/>
+  <circle cx="180" cy="140" r="7" fill="#1d0e82" stroke="none"/>
+  <!-- Second row of cells separating lines (white grid lines) -->
+  <line x1="30" y1="120" x2="214" y2="120" stroke="#7c3fac" stroke-width="2.96"/>
+  <line x1="30" y1="158" x2="214" y2="158" stroke="#7c3fac" stroke-width="2.96"/>
+  <line x1="72" y1="86" x2="72" y2="210" stroke="#7c3fac" stroke-width="2.96"/>
+  <line x1="114" y1="86" x2="114" y2="210" stroke="#7c3fac" stroke-width="2.96"/>
+  <line x1="156" y1="86" x2="156" y2="210" stroke="#7c3fac" stroke-width="2.96"/>
+  <line x1="198" y1="86" x2="198" y2="210" stroke="#7c3fac" stroke-width="2.96"/>
+  <!-- More moon phases row 3 -->
+  <circle cx="52" cy="180" r="10" fill="#000000" stroke="#ffffff" stroke-width="4.45"/>
+  <circle cx="94" cy="180" r="10" fill="#f7de58" stroke="#ffffff" stroke-width="4.45"/>
+  <circle cx="136" cy="180" r="10" fill="#f7de58" stroke="#ffffff" stroke-width="4.45"/>
+  <path d="M136,170 Q144,180 136,190" fill="#1d0e82" stroke="none"/>
+  <circle cx="178" cy="180" r="10" fill="#000000" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- Large crescent moon beside calendar -->
+  <circle cx="252" cy="120" r="42" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="262" cy="108" r="36" fill="#1d0e82" stroke="none"/>
+  <!-- Stars scattered -->
+  <polygon points="242,68 245,62 248,68 242,65 248,65" fill="#ffffff" stroke="none"/>
+  <polygon points="268,170 270,165 272,170 267,167 273,167" fill="#ffffff" stroke="none"/>
+</g></svg>

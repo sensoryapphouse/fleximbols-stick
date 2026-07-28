@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Short stem -->
+  <line x1="145" y1="190" x2="145" y2="218" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Thick glossy dark green leaves -->
+  <ellipse cx="105" cy="185" rx="38" ry="18" fill="#137827" stroke="#1a1a1a" stroke-width="7.40" transform="rotate(-25 105 185)"/>
+  <line x1="105" y1="185" x2="128" y2="195" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="88" y1="178" x2="105" y2="185" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+
+  <ellipse cx="185" cy="185" rx="38" ry="18" fill="#137827" stroke="#1a1a1a" stroke-width="7.40" transform="rotate(25 185 185)"/>
+  <line x1="185" y1="185" x2="162" y2="195" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="202" y1="178" x2="185" y2="185" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+
+  <!-- Smaller leaf at back -->
+  <ellipse cx="145" cy="195" rx="30" ry="14" fill="#137827" stroke="#1a1a1a" stroke-width="7.40"/>
+  <line x1="115" y1="195" x2="175" y2="195" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Gardenia bloom - creamy-white spiral rose-like -->
+  <!-- Outermost wide petals -->
+  <path d="M145,185 Q92,178 82,145 Q82,108 108,88 Q130,72 145,75 Q160,72 182,88 Q208,108 208,145 Q198,178 145,185 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Outer petal divisions -->
+  <path d="M145,185 Q100,170 92,145" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,185 Q190,170 198,145" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,185 Q108,160 105,118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,185 Q182,160 185,118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Second ring -->
+  <path d="M145,175 Q105,168 98,145 Q98,118 118,102 Q130,93 145,95 Q160,93 172,102 Q192,118 192,145 Q185,168 145,175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M145,175 Q108,160 105,135" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,175 Q182,160 185,135" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Third ring -->
+  <path d="M145,162 Q118,155 112,138 Q112,118 128,108 Q136,102 145,103 Q154,102 162,108 Q178,118 178,138 Q172,155 145,162 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M145,162 Q122,150 120,132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,162 Q168,150 170,132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Fourth ring -->
+  <path d="M145,150 Q128,145 125,132 Q125,118 135,112 Q140,108 145,108 Q150,108 155,112 Q165,118 165,132 Q162,145 145,150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M145,150 Q130,140 132,122" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,150 Q160,140 158,122" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Centre bud -->
+  <ellipse cx="145" cy="128" rx="14" ry="18" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M136,128 Q145,112 154,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="120" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg213" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg213)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

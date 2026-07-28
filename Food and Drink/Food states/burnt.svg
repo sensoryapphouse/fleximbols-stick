@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) scale(1.30) translate(-256 -260)">
+<!-- smoke wisps rising -->
+<path d="M 196 132 Q 180 112 196 92 Q 212 72 196 52" fill="none" stroke="#9aa0a6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 256 120 Q 240 100 256 80 Q 272 60 256 40" fill="none" stroke="#9aa0a6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 316 132 Q 300 112 316 92 Q 332 72 316 52" fill="none" stroke="#9aa0a6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- toast slice body (charred dark brown) -->
+<path d="M 130 250 Q 130 168 256 164 Q 382 168 382 250 L 382 392 Q 382 414 360 414 L 152 414 Q 130 414 130 392 Z" fill="#4a3320" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crust rim line -->
+<path d="M 152 252 Q 152 198 256 196 Q 360 198 360 252 L 360 384 L 152 384 Z" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- black scorched char patches -->
+<ellipse cx="206" cy="312" rx="30" ry="26" fill="#1a1a1a"/>
+<ellipse cx="306" cy="298" rx="26" ry="30" fill="#1a1a1a"/>
+<circle cx="262" cy="356" r="20" fill="#1a1a1a"/>
+<circle cx="320" cy="362" r="11" fill="#1a1a1a"/>
+<circle cx="180" cy="358" r="10" fill="#1a1a1a"/>
+</g></svg>

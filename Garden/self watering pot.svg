@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Upper planting chamber -->
+  <path d="M82 130 L90 175 L200 175 L208 130 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Rim -->
+  <rect x="76" y="118" width="138" height="18" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Divider line separating chambers -->
+  <line x1="90" y1="175" x2="200" y2="175" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- Water reservoir section (lower, blue tint) -->
+  <path d="M90 175 L94 220 L196 220 L200 175 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Water level indicator lines -->
+  <line x1="100" y1="192" x2="190" y2="192" stroke="#90a7d6" stroke-width="3.18"/>
+  <line x1="102" y1="205" x2="188" y2="205" stroke="#90a7d6" stroke-width="3.18"/>
+  <!-- Fill spout on right side -->
+  <rect x="200" y="178" width="30" height="12" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="232" cy="184" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Water droplet in reservoir -->
+  <path d="M145 195 Q141 201 145 207 Q149 201 145 195 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.54"/>
+  <!-- Soil -->
+  <ellipse cx="145" cy="126" rx="63" ry="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Plant stem -->
+  <line x1="145" y1="125" x2="145" y2="70" stroke="#529929" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Leaves -->
+  <ellipse cx="121" cy="88" rx="24" ry="12" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 121 88)"/>
+  <ellipse cx="169" cy="79" rx="24" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 169 79)"/>
+  <!-- Top bud -->
+  <ellipse cx="145" cy="60" rx="10" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="3.81"/>
+</g></svg>

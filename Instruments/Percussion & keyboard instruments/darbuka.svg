@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Darbuka: smaller metal/ceramic goblet drum, smooth hourglass-ish body, tight head, ornate/metallic, NO rope lacing -->
+
+  <!-- Body: smooth curved goblet/hourglass shape, more metallic appearance -->
+  <!-- Upper wide bowl -->
+  <path d="M 78,88 Q 68,120 82,152 Q 100,175 145,180 Q 190,175 208,152 Q 222,120 212,88 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- Lower narrower goblet stem -->
+  <path d="M 82,152 Q 90,175 110,192 L 110,215 L 180,215 L 180,192 Q 200,175 208,152 Q 190,175 145,180 Q 100,175 82,152 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- Base foot ring -->
+  <ellipse cx="145" cy="215" rx="38" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- Metallic body sheen: decorative band/etching lines -->
+  <ellipse cx="145" cy="140" rx="60" ry="20" fill="none" stroke="#4d4d4d" stroke-width="2.96"/>
+  <ellipse cx="145" cy="155" rx="52" ry="16" fill="none" stroke="#4d4d4d" stroke-width="2.96"/>
+
+  <!-- Ornate decorative engravings (arabesque-style bands) -->
+  <rect x="88" y="108" width="114" height="14" rx="4" fill="none" stroke="#4d4d4d" stroke-width="2.96"/>
+  <!-- Small diamond/ornament details in band -->
+  <polygon points="115,115 120,110 125,115 120,120" fill="#4d4d4d" stroke="none"/>
+  <polygon points="140,115 145,110 150,115 145,120" fill="#4d4d4d" stroke="none"/>
+  <polygon points="165,115 170,110 175,115 170,120" fill="#4d4d4d" stroke="none"/>
+
+  <!-- Head: tight drumhead with pronounced rim -->
+  <ellipse cx="145" cy="86" rx="67" ry="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Head tension/tuning ring -->
+  <ellipse cx="145" cy="86" rx="67" ry="14" fill="none" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- Metal rim around head -->
+  <ellipse cx="145" cy="90" rx="67" ry="14" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+
+  <!-- Waist constriction line (hourglass middle) -->
+  <line x1="97" y1="168" x2="193" y2="168" stroke="#4d4d4d" stroke-width="2.96"/>
+</g></svg>

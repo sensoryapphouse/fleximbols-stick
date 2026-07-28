@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Omega Ω horseshoe outline drawn as path shapes -->
+  <!-- main arch (outer + inner) -->
+  <path d="M 65 175 L 105 175 L 105 165 Q 85 160 80 135 Q 75 110 95 90 Q 115 70 145 70 Q 175 70 195 90 Q 215 110 210 135 Q 205 160 185 165 L 185 175 L 225 175 L 225 145 L 200 145 Q 220 130 220 110 Q 220 80 195 60 Q 170 40 145 40 Q 120 40 95 60 Q 70 80 70 110 Q 70 130 90 145 L 65 145 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- resistor schematic below -->
+  <line x1="20" y1="215" x2="50" y2="215" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <polyline points="50,215 60,200 72,230 84,200 96,230 108,200 120,230 132,200 144,230 156,200 168,230 180,200 192,230 204,200 216,230 228,215 270,215" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- terminal dots -->
+  <circle cx="20" cy="215" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="270" cy="215" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

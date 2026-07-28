@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata>
+<!-- Full skipping rope: one arc from left hand up over the head to right hand -->
+<path d="M 190 150 Q 256 -60 322 150" fill="none" stroke="#e0473c" stroke-width="7" stroke-linecap="round"/>
+<line x1="241" y1="277" x2="226" y2="405" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="271" y1="277" x2="286" y2="405" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="226" cy="407" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="286" cy="407" rx="13" ry="7" fill="#33373d"/>
+<polygon points="224,171 288,171 286,279 226,279" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- Arms out to the sides gripping the rope ends -->
+<line x1="226" y1="173" x2="190" y2="150" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="286" y1="173" x2="322" y2="150" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle cx="190" cy="150" r="10" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="4" class="skin"/>
+<circle cx="322" cy="150" r="10" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="4" class="skin"/>
+<line x1="256" y1="171" x2="256" y2="140" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" class="skin" cx="256" cy="104" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 216.0 104.0 Q 216.0 54.0 256 54.0 Q 296.0 54.0 296.0 104.0 Q 256 77.0 216.0 104.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</svg>

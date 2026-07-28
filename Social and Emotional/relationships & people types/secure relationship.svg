@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- strong foundation -->
+  <rect x="20" y="210" width="250" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="20" y="200" width="250" height="12" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- brick lines -->
+  <line x1="60" y1="210" x2="60" y2="222" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="120" y1="210" x2="120" y2="222" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="180" y1="210" x2="180" y2="222" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="210" x2="240" y2="222" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- strong heart link between -->
+  <path d="M145 70 C138 56 116 56 116 78 C116 104 145 132 145 132 C145 132 174 104 174 78 C174 56 152 56 145 70 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- chain link suggestion -->
+  <path d="M132 100 L158 100" stroke="#fff200" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M132 100 L158 100" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- left person standing confidently, full body -->
+  <circle cx="70" cy="80" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M50 76 Q50 58 70 58 Q90 58 90 76 Q85 68 70 68 Q55 68 50 76 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="63" cy="80" r="2" fill="#000000"/>
+  <circle cx="77" cy="80" r="2" fill="#000000"/>
+  <path d="M62 90 Q70 96 78 90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="66" y="98" width="8" height="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M48 106 Q48 102 56 102 L84 102 Q92 102 92 106 L92 160 Q92 164 84 164 L56 164 Q48 164 48 160 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- arm down -->
+  <path d="M50 114 Q40 138 42 162" fill="none" stroke="#2a4ec0" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M50 114 Q40 138 42 162" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="42" cy="164" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- inner arm reaching to heart -->
+  <path d="M90 114 Q108 110 120 96" fill="none" stroke="#2a4ec0" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M90 114 Q108 110 120 96" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="54" y="164" width="14" height="36" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="72" y="164" width="14" height="36" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right person -->
+  <circle cx="220" cy="80" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M200 78 Q196 56 220 56 Q244 56 242 78 Q244 64 232 60 Q216 60 208 66 Q200 72 200 78 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="213" cy="80" r="2" fill="#000000"/>
+  <circle cx="227" cy="80" r="2" fill="#000000"/>
+  <path d="M212 90 Q220 96 228 90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="216" y="98" width="8" height="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M198 106 Q198 102 206 102 L234 102 Q242 102 242 106 L242 160 Q242 164 234 164 L206 164 Q198 164 198 160 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right outer arm -->
+  <path d="M240 114 Q250 138 248 162" fill="none" stroke="#f266aa" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M240 114 Q250 138 248 162" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="248" cy="164" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- inner arm to heart -->
+  <path d="M200 114 Q182 110 170 96" fill="none" stroke="#f266aa" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M200 114 Q182 110 170 96" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="204" y="164" width="14" height="36" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="222" y="164" width="14" height="36" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

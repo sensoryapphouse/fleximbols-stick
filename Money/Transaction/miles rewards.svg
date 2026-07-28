@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- stack of points cards (fanned) -->
+  <rect x="40" y="135" width="120" height="75" rx="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-12 100 172)"/>
+  <rect x="50" y="125" width="120" height="75" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-4 110 162)"/>
+  <rect x="60" y="115" width="120" height="75" rx="8" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- top card details -->
+  <rect x="65" y="120" width="110" height="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="70" y="160" width="22" height="18" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="70" y1="169" x2="92" y2="169" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- star on top card -->
+  <polygon points="150,150 156,162 169,162 159,170 163,183 150,176 137,183 141,170 131,162 144,162" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+
+  <!-- airplane icon top-right -->
+  <path d="M180 50 L240 50 L240 35 L270 65 L240 95 L240 80 L180 80 L170 90 L162 90 L170 65 L162 40 L170 40 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+
+  <!-- miles counter / odometer at top-left -->
+  <rect x="20" y="30" width="120" height="50" rx="6" fill="#000000" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="26" y="38" width="20" height="34" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="50" y="38" width="20" height="34" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="74" y="38" width="20" height="34" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="98" y="38" width="20" height="34" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- counter digit lines (abstract) -->
+  <line x1="26" y1="55" x2="46" y2="55" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="50" y1="55" x2="70" y2="55" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="74" y1="55" x2="94" y2="55" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="98" y1="55" x2="118" y2="55" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- redemption arrow / gift -->
+  <rect x="200" y="155" width="60" height="50" rx="3" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="195" y="145" width="70" height="14" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="230" y1="145" x2="230" y2="205" stroke="#f2e40d" stroke-width="6.67"/>
+  <line x1="200" y1="170" x2="260" y2="170" stroke="#f2e40d" stroke-width="6.67"/>
+  <path d="M218 145 Q210 130 220 125 Q230 130 230 145" fill="none" stroke="#f2e40d" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M242 145 Q250 130 240 125 Q230 130 230 145" fill="none" stroke="#f2e40d" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

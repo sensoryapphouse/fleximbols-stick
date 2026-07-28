@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Medicine organizer: long 7-day pill case, row of 7 hinged compartments with coloured lids -->
+  <!-- Base tray (wide horizontal rectangle) -->
+  <rect x="6" y="138" width="278" height="70" rx="12" ry="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- 7 compartment cells in tray -->
+  <rect x="12" y="144" width="34" height="58" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="50" y="144" width="34" height="58" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="88" y="144" width="34" height="58" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="126" y="144" width="34" height="58" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="164" y="144" width="34" height="58" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="202" y="144" width="34" height="58" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="240" y="144" width="34" height="58" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- 7 coloured lids above tray (rainbow spectrum) -->
+  <rect x="10" y="106" width="38" height="36" rx="8" ry="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="48" y="106" width="38" height="36" rx="8" ry="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="86" y="106" width="38" height="36" rx="8" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="124" y="106" width="38" height="36" rx="8" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="162" y="106" width="38" height="36" rx="8" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="200" y="106" width="38" height="36" rx="8" ry="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="238" y="106" width="38" height="36" rx="8" ry="8" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Hinge dots between lids and base -->
+  <circle cx="29" cy="141" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="67" cy="141" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="105" cy="141" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="143" cy="141" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="181" cy="141" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="219" cy="141" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="257" cy="141" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- Pills visible in a few open compartments -->
+  <ellipse cx="29" cy="167" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="67" cy="167" rx="11" ry="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="105" cy="167" rx="11" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

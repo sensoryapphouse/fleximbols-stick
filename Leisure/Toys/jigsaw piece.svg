@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- classic 4-tab jigsaw piece: top tab out, right tab out, bottom socket in, left socket in -->
+  <path d="M70 60
+           L120 60
+           Q120 40 145 40
+           Q170 40 170 60
+           L220 60
+           L220 95
+           Q240 95 240 120
+           Q240 145 220 145
+           L220 180
+           L170 180
+           Q170 200 145 200
+           Q120 200 120 180
+           L70 180
+           L70 145
+           Q50 145 50 120
+           Q50 95 70 95
+           Z"
+        fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- inner highlight panel -->
+  <path d="M85 75
+           L130 75
+           Q132 60 145 60
+           Q158 60 160 75
+           L205 75
+           L205 105
+           Q220 110 220 120
+           Q220 130 205 135
+           L205 165
+           L160 165
+           Q158 180 145 180
+           Q132 180 130 165
+           L85 165
+           L85 135
+           Q70 130 70 120
+           Q70 110 85 105
+           Z"
+        fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

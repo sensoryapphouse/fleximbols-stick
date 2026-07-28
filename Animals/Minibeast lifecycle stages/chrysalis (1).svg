@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- twig -->
+  <line x1="145" y1="25" x2="145" y2="70" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- leaf on twig -->
+  <ellipse cx="118" cy="42" rx="22" ry="11" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-30 118 42)"/>
+  <!-- leaf vein -->
+  <line x1="130" y1="35" x2="106" y2="49" stroke="#137827" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- chrysalis attachment thread -->
+  <line x1="145" y1="70" x2="145" y2="82" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- chrysalis body (teardrop) -->
+  <path d="M145 82 C108 90 96 128 100 160 C104 192 124 215 145 215 C166 215 186 192 190 160 C194 128 182 90 145 82 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- chrysalis surface ridge lines -->
+  <path d="M118 130 C130 126 160 126 172 130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 150 C126 145 164 145 178 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 170 C126 165 164 165 178 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M116 190 C128 185 162 185 174 190" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- chrysalis tip gold detail -->
+  <ellipse cx="145" cy="210" rx="12" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- gold dots near top -->
+  <circle cx="132" cy="100" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="158" cy="100" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

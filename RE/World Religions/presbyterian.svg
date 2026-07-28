@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- burning bush (left): bush -->
+  <path d="M45 215 Q25 195 35 165 Q25 145 50 135 Q55 110 80 115 Q95 100 115 115 Q135 115 130 140 Q140 165 125 185 Q130 205 110 215 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- flames in/around bush -->
+  <path d="M55 145 Q50 125 65 110 Q68 125 75 130 Q72 140 65 145 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M95 125 Q90 105 105 90 Q108 105 115 110 Q112 120 105 125 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M75 175 Q70 155 85 140 Q88 155 95 160 Q92 170 85 175 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cross (top right) -->
+  <rect x="200" y="30" width="16" height="80" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="178" y="50" width="60" height="16" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- open Bible (bottom right) -->
+  <path d="M155 195 Q210 175 270 195 L270 225 Q210 210 155 225 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <line x1="212" y1="187" x2="212" y2="220" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M170 200 L200 197" stroke="#7f7f7f" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M225 197 L255 200" stroke="#7f7f7f" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- small cross on Bible -->
+  <line x1="212" y1="130" x2="212" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

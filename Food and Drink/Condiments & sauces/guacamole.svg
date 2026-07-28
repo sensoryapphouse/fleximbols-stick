@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl walls -->
+  <path d="M 45,130 Q 45,215 145,218 Q 245,215 245,130 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="130" rx="100" ry="25" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Guacamole surface - vivid green mash -->
+  <ellipse cx="145" cy="128" rx="90" ry="20" fill="#529929" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="126" rx="82" ry="17" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Chunky avocado mash texture -->
+  <ellipse cx="118" cy="124" rx="18" ry="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="162" cy="122" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="140" cy="130" rx="14" ry="7" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small red tomato bits -->
+  <circle cx="108" cy="118" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="176" cy="120" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="116" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lime wedge on top right -->
+  <path d="M 192,108 Q 208,90 220,100 Q 210,118 192,114 Z" fill="#529929" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M 193,111 Q 205,96 216,103" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lime segment lines -->
+  <line x1="206" y1="99" x2="197" y2="112" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="212" y1="104" x2="200" y2="114" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lime rind edge -->
+  <path d="M 192,108 Q 208,90 220,100" fill="none" stroke="#137827" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

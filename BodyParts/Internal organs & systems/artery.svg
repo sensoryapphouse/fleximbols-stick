@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- artery: thick-walled red blood vessel, cut-away showing red (oxygenated) blood -->
+<!-- thick muscular wall -->
+<path d="M 150 110 L 150 250 Q 150 320 256 320 Q 362 320 362 250 L 362 110" fill="none" stroke="#b22b34" stroke-width="72" stroke-linecap="round"/>
+<!-- inner lumen (red blood) -->
+<path d="M 150 110 L 150 250 Q 150 320 256 320 Q 362 320 362 250 L 362 110" fill="none" stroke="#e23c3c" stroke-width="32" stroke-linecap="round"/>
+<!-- dark outlines -->
+<g fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round">
+<path d="M 114 110 L 114 250 Q 114 356 256 356 Q 398 356 398 250 L 398 110"/>
+<path d="M 186 110 L 186 250 Q 186 284 256 284 Q 326 284 326 250 L 326 110"/>
+</g>
+<!-- blood cells -->
+<g fill="#a81f24" stroke="#1a1a1a" stroke-width="5">
+<circle cx="150" cy="150" r="12"/><circle cx="150" cy="205" r="12"/>
+<circle cx="256" cy="302" r="12"/><circle cx="362" cy="165" r="12"/><circle cx="362" cy="220" r="12"/>
+</g>
+<!-- flow arrows -->
+<path d="M 150 90 L 150 68 M 144 80 L 150 68 L 156 80" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 362 68 L 362 90 M 356 80 L 362 90 L 368 80" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl body (white/cream chowder) -->
+  <path d="M42,108 Q34,190 145,215 Q256,190 248,108 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="108" rx="103" ry="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- White creamy soup surface -->
+  <ellipse cx="145" cy="113" rx="88" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cream surface highlight -->
+  <ellipse cx="120" cy="110" rx="22" ry="8" fill="#efefef" stroke="none"/>
+  <!-- Bowl base -->
+  <ellipse cx="145" cy="212" rx="78" ry="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Potato cubes -->
+  <rect x="82" y="128" width="18" height="15" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="150" y="132" width="16" height="14" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="185" y="125" width="15" height="13" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Clam shell 1 (open clam, left) -->
+  <path d="M108,148 Q98,138 103,128 Q108,118 118,120 Q128,122 126,134 Q124,146 108,148 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M108,148 Q112,138 118,120" fill="none" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Clam flesh inside shell -->
+  <ellipse cx="115" cy="136" rx="7" ry="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Clam shell 2 (right side) -->
+  <path d="M162,155 Q152,144 157,134 Q162,124 172,126 Q182,128 180,140 Q178,152 162,155 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M162,155 Q166,144 172,126" fill="none" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="169" cy="142" rx="6" ry="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Parsley sprig garnish -->
+  <path d="M130,108 L132,95" stroke="#137827" stroke-width="3.70" stroke-linecap="round"/>
+  <ellipse cx="126" cy="92" rx="7" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-20 126 92)"/>
+  <ellipse cx="136" cy="91" rx="7" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round" transform="rotate(20 136 91)"/>
+  <ellipse cx="131" cy="88" rx="7" ry="5" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Black pepper flecks on surface -->
+  <circle cx="145" cy="118" r="2.5" fill="#4d4d4d" stroke="none"/>
+  <circle cx="115" cy="122" r="2" fill="#4d4d4d" stroke="none"/>
+  <circle cx="170" cy="119" r="2" fill="#4d4d4d" stroke="none"/>
+</g></svg>

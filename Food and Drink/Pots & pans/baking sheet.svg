@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shadow base of pan, slight 3D -->
+  <path d="M40 175 L250 175 L240 195 L50 195 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- pan top surface -->
+  <rect x="35" y="60" width="220" height="120" rx="10" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- inner recess showing depth -->
+  <rect x="50" y="75" width="190" height="90" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- rim highlight line -->
+  <path d="M55 80 L235 80" fill="none" stroke="#ffffff" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- corner rivets / lip indicators -->
+  <circle cx="50" cy="68" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="240" cy="68" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="50" cy="170" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="240" cy="170" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

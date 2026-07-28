@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="140" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hot sun -->
+  <circle cx="225" cy="50" r="22" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- sun rays -->
+  <path d="M225 20 L225 8 M225 92 L225 80 M195 50 L183 50 M267 50 L255 50 M205 30 L196 21 M245 30 L254 21 M205 70 L196 79 M245 70 L254 79" stroke="#e65a00" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- distant dunes (light) -->
+  <path d="M0 140 Q40 115 90 130 Q140 110 190 130 Q240 115 290 135 L290 145 L0 145 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- mid dunes -->
+  <path d="M0 165 Q60 140 130 160 Q200 145 290 165 L290 175 L0 175 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- foreground big dune -->
+  <path d="M0 220 Q80 170 180 200 Q240 215 290 200 L290 240 L0 240 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- sand wind lines -->
+  <path d="M30 215 Q60 210 90 215 M150 225 Q180 220 210 225" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- camel caravan: camel 1 (larger, front) -->
+  <!-- body -->
+  <ellipse cx="135" cy="195" rx="28" ry="11" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- two humps -->
+  <path d="M118 195 Q122 175 130 178 Q138 178 140 195 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M138 195 Q142 173 150 175 Q158 178 158 195 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- neck and head -->
+  <path d="M158 195 L172 175 L180 170 L185 175 L182 188 L168 198 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- head detail -->
+  <circle cx="180" cy="175" r="2" fill="#000000"/>
+  <path d="M178 168 L178 162 M183 168 L183 162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- legs -->
+  <rect x="115" y="205" width="4" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="205" width="4" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="145" y="205" width="4" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="155" y="205" width="4" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tail -->
+  <path d="M107 195 L100 200" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- camel 2 (smaller, behind, following) -->
+  <ellipse cx="55" cy="205" rx="18" ry="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M45 205 Q48 192 55 193 Q62 195 63 205 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M62 205 Q65 192 72 193 Q77 195 77 205 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M77 205 L86 192 L92 190 L94 196 L88 203 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="91" cy="194" r="1.5" fill="#000000"/>
+  <rect x="42" y="210" width="3" height="13" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="50" y="210" width="3" height="13" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="65" y="210" width="3" height="13" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="73" y="210" width="3" height="13" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

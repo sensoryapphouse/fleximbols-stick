@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Speed square is a flat right triangle with a lipped fence on the hypotenuse edge -->
+  <!-- Main triangular body: right angle at bottom-left -->
+  <!-- Vertices: bottom-left (40,205), bottom-right (245,205), top (40,40) -->
+  <polygon points="40,205 245,205 40,40" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+  <!-- Lip/fence on the base (bottom horizontal edge) - raised lip -->
+  <rect x="40" y="205" width="205" height="14" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.47" stroke-linejoin="round"/>
+  <!-- Inner cutout / lightening hole (triangular) -->
+  <polygon points="80,190 185,190 80,100" fill="#efefef" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- Angle graduation marks along hypotenuse (diagonal from top-left to bottom-right) -->
+  <!-- The hypotenuse goes from (40,40) to (245,205) -->
+  <!-- We'll place arc-style marks inside the triangle near the right-angle corner -->
+  <!-- Arc of degree markings near the right angle corner -->
+  <path d="M 40,165 A 40,40 0 0 1 80,205" fill="none" stroke="#1a1a1a" stroke-width="4.85"/>
+  <path d="M 40,145 A 60,60 0 0 1 100,205" fill="none" stroke="#1a1a1a" stroke-width="4.04"/>
+  <!-- Degree tick marks along the hypotenuse edge -->
+  <!-- 15° mark -->
+  <line x1="75" y1="77" x2="84" y2="83" stroke="#1a1a1a" stroke-width="3.23"/>
+  <!-- 30° mark -->
+  <line x1="103" y1="106" x2="112" y2="112" stroke="#1a1a1a" stroke-width="3.23"/>
+  <!-- 45° mark -->
+  <line x1="130" y1="130" x2="138" y2="138" stroke="#1a1a1a" stroke-width="4.04"/>
+  <!-- 22.5 mark -->
+  <line x1="89" y1="91" x2="96" y2="98" stroke="#1a1a1a" stroke-width="3.23"/>
+  <!-- Small right-angle indicator at corner -->
+  <polyline points="40,175 65,175 65,205" fill="none" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- Pivot hole at right angle -->
+  <circle cx="40" cy="205" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- Degree label positions along hypotenuse suggestion -->
+  <!-- 45 mark emphasis line -->
+  <line x1="142" y1="142" x2="130" y2="155" stroke="#1a1a1a" stroke-width="3.23"/>
+</g></svg>

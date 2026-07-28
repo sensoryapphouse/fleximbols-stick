@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Trunk - slightly wider for fig -->
+  <rect x="122" y="155" width="46" height="57" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Canopy base -->
+  <ellipse cx="145" cy="105" rx="90" ry="72" fill="#137827" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Large distinctive lobed fig leaves -->
+  <!-- Leaf 1 - top centre -->
+  <path d="M145,55 C148,48 158,45 158,52 C162,47 168,50 164,58 C170,55 172,63 166,65 C170,70 165,76 160,72 C158,78 150,78 148,72 C142,76 137,72 140,65 C134,63 136,55 142,58 C138,50 148,45 145,55Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Leaf 2 - left -->
+  <path d="M85,90 C80,84 82,73 89,75 C86,68 95,66 97,74 C100,67 108,69 106,77 C112,75 113,84 107,85 C108,91 103,96 98,91 C96,97 88,97 88,90Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Leaf 3 - right -->
+  <path d="M200,85 C195,79 197,68 204,70 C201,63 210,61 212,69 C215,62 223,64 221,72 C227,70 228,79 222,80 C223,86 218,91 213,86 C211,92 203,92 203,85Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Leaf 4 - lower left -->
+  <path d="M95,130 C90,124 92,113 99,115 C96,108 105,106 107,114 C110,107 118,109 116,117 C122,115 123,124 117,125 C118,131 113,136 108,131 C106,137 98,137 98,130Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Leaf 5 - lower right -->
+  <path d="M193,128 C188,122 190,111 197,113 C194,106 203,104 205,112 C208,105 216,107 214,115 C220,113 221,122 215,123 C216,129 211,134 206,129 C204,135 196,135 196,128Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Purple teardrop figs -->
+  <!-- Fig 1 -->
+  <ellipse cx="115" cy="107" rx="9" ry="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="115" cy="96" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Fig crown tip -->
+  <path d="M112,95 L115,90 L118,95" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Fig 2 -->
+  <ellipse cx="148" cy="120" rx="9" ry="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="109" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145,108 L148,103 L151,108" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Fig 3 -->
+  <ellipse cx="177" cy="110" rx="9" ry="12" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="177" cy="99" r="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M174,98 L177,93 L180,98" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Fig 4 -->
+  <ellipse cx="133" cy="140" rx="9" ry="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="133" cy="129" r="4" fill="#392170" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M130,128 L133,123 L136,128" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Fig 5 -->
+  <ellipse cx="163" cy="138" rx="9" ry="12" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="163" cy="127" r="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M160,126 L163,121 L166,126" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- shrinking tail stub -->
+<path d="M 256 360 C 250 400 232 420 210 426 C 232 414 240 392 240 360 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- back legs -->
+<path d="M 168 350 Q 140 358 134 388 Q 152 398 176 384 Q 160 376 176 360 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 344 350 Q 372 358 378 388 Q 360 398 336 384 Q 352 376 336 360 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body -->
+<path d="M 256 226 C 184 226 162 296 166 340 C 170 380 212 386 256 386 C 300 386 342 380 346 340 C 350 296 328 226 256 226 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- belly -->
+<ellipse cx="256" cy="346" rx="58" ry="32" fill="#8cc152" stroke="none"/>
+<!-- eye bumps -->
+<circle cx="210" cy="226" r="34" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="302" cy="226" r="34" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9"/>
+<!-- eyes -->
+<circle cx="210" cy="222" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="302" cy="222" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="214" cy="224" r="9" fill="#1a1a1a"/>
+<circle cx="306" cy="224" r="9" fill="#1a1a1a"/>
+<!-- smile -->
+<path d="M 206 300 Q 256 332 306 300" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- nostrils -->
+<circle cx="244" cy="278" r="4" fill="#1a1a1a"/>
+<circle cx="268" cy="278" r="4" fill="#1a1a1a"/>
+</svg>

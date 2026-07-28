@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- isometric 3x3x3 cube. Front face, right face, top face. -->
+  <!-- Front face quadrilateral: x 80-180, y 90-220. 3x3 grid -->
+  <!-- Front face background -->
+  <path d="M80 90 L180 90 L180 220 L80 220 Z" fill="#000000" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Front 3x3 stickers (red/orange/yellow mix) -->
+  <rect x="84" y="94" width="30" height="40" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="94" width="30" height="40" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="94" width="28" height="40" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="84" y="136" width="30" height="40" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="136" width="30" height="40" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="136" width="28" height="40" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="84" y="178" width="30" height="38" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="178" width="30" height="38" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="178" width="28" height="38" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right face (parallelogram, slanting up-right) -->
+  <path d="M180 90 L240 60 L240 190 L180 220 Z" fill="#000000" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- right face 3x3 stickers (green) -->
+  <path d="M183 94 L201 85 L201 124 L183 133 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M203 84 L221 75 L221 114 L203 123 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M223 74 L237 67 L237 106 L223 113 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M183 136 L201 127 L201 166 L183 175 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M203 126 L221 117 L221 156 L203 165 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M223 116 L237 109 L237 148 L223 155 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M183 178 L201 169 L201 208 L183 217 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M203 168 L221 159 L221 198 L203 207 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M223 158 L237 151 L237 190 L223 197 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Top face (parallelogram) -->
+  <path d="M80 90 L140 60 L240 60 L180 90 Z" fill="#000000" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- top 3x3 stickers (blue/white) -->
+  <path d="M84 88 L104 78 L122 78 L102 88 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M106 77 L126 67 L144 67 L124 77 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M128 66 L142 59 L160 59 L146 66 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M126 88 L146 78 L164 78 L144 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M148 77 L168 67 L186 67 L166 77 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M170 66 L184 59 L202 59 L188 66 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M168 88 L188 78 L206 78 L186 88 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M190 77 L210 67 L228 67 L208 77 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M212 66 L226 59 L236 59 L222 66 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

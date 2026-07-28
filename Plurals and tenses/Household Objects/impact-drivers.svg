@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,104.602) scale(0.7957)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1407) translate(-229.50 -269.00)">
+<g transform="translate(30.2,-5.7) scale(0.838)"><!-- impact driver power tool -->
+  <g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <!-- motor body -->
+    <path d="M70 150 L210 150 Q236 150 244 180 L244 250 Q236 280 210 282 L92 282 Q76 280 72 268 L70 165 Z" fill="#2e8a3e"/>
+    <rect x="86" y="162" width="120" height="12" rx="5" fill="#a0e8a0"/>
+    <!-- venting lines -->
+    <g stroke="#1a1a1a" stroke-width="4" fill="none">
+      <line x1="170" y1="172" x2="170" y2="200"/>
+      <line x1="184" y1="172" x2="184" y2="200"/>
+      <line x1="198" y1="172" x2="198" y2="200"/>
+    </g>
+    <!-- chuck / collar -->
+    <rect x="44" y="195" width="32" height="44" rx="3" fill="#90989c"/>
+    <!-- hex bit -->
+    <path d="M22 218 L31 207 L48 207 L48 229 L31 229 Z" fill="#525a64"/>
+    <rect x="6" y="212" width="22" height="12" fill="#7a828c"/>
+    <!-- grip -->
+    <path d="M140 282 L230 282 L240 410 Q238 428 220 430 L162 430 Q146 428 144 410 Z" fill="#404040"/>
+    <!-- trigger -->
+    <path d="M132 300 L142 298 L142 338 L130 342 Q116 332 116 318 Q116 306 132 300 Z" fill="#2a2a2a"/>
+    <!-- battery -->
+    <path d="M140 430 L232 430 L238 442 L238 478 Q238 494 220 496 L152 496 Q136 494 136 478 L136 442 Z" fill="#1a1a1a"/>
+    <rect x="150" y="458" width="76" height="14" rx="3" fill="#5cb95c" stroke="#1a1a1a" stroke-width="3"/>
+  </g></g>
+<path d="M 338.0 197.0 L 398.0 197.0 L 398.0 287.0 L 424.0 389.0 L 312.0 389.0 L 338.0 287.0 Z" fill="#d6529e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="350" y1="389" x2="344" y2="455" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="386" y1="389" x2="392" y2="455" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<ellipse cx="344" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="392" cy="457" rx="13" ry="7" fill="#33373d"/>
+<line x1="338" y1="199" x2="318" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="398" y1="199" x2="418" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="368" y1="197" x2="368" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 321.0 184.0 L 321.0 128.0 Q 321.0 76.0 368 76.0 Q 415.0 76.0 415.0 128.0 L 415.0 184.0 L 402.0 184.0 L 402.0 130.0 Q 402.0 96.0 368 96.0 Q 334.0 96.0 334.0 130.0 L 334.0 184.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 330.0 96.0 Q 368 82.0 406.0 96.0 Q 368 92.0 330.0 96.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2077" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2077)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

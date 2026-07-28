@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- reusable silicone food bag with zipper -->
+  <!-- bag body -->
+  <path d="M50 50 L240 50 L235 215 Q145 230 55 215 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- highlight band (translucent feel via light fill) -->
+  <path d="M65 70 L80 70 L75 200 L65 198 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- zipper top strip -->
+  <rect x="46" y="40" width="200" height="22" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- zipper teeth -->
+  <path d="M55 51 L55 51" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M55 51 L60 51 M65 51 L70 51 M75 51 L80 51 M85 51 L90 51 M95 51 L100 51 M105 51 L110 51 M115 51 L120 51 M125 51 L130 51 M135 51 L140 51 M145 51 L150 51 M155 51 L160 51 M165 51 L170 51 M175 51 L180 51 M185 51 L190 51 M195 51 L200 51 M205 51 L210 51 M215 51 L220 51 M225 51 L230 51 M235 51 L240 51" stroke="#b8b8b8" stroke-width="7.11"/>
+  <!-- zipper slider -->
+  <rect x="195" y="36" width="22" height="30" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <path d="M206 36 L206 30 L212 26" stroke="#1a1a1a" stroke-width="5.34" fill="none" stroke-linecap="round"/>
+  <circle cx="213" cy="24" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- food hint inside (curved line) -->
+  <path d="M90 150 Q145 170 210 145" stroke="#67832d" stroke-width="5.34" fill="none" stroke-linecap="round"/>
+  <circle cx="120" cy="160" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="160" cy="168" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="195" cy="158" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

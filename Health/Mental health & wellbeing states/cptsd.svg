@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- head front-facing -->
+  <ellipse cx="145" cy="150" rx="55" ry="65" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- hair -->
+  <path d="M92 130 Q100 95 145 90 Q190 95 198 130 Q190 105 145 110 Q100 105 92 130 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="125" cy="150" r="3" fill="#000000"/>
+  <circle cx="165" cy="150" r="3" fill="#000000"/>
+  <!-- mouth (flat-worried) -->
+  <path d="M132 185 Q145 180 158 185" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- scars on cheek -->
+  <path d="M105 165 L112 175" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M104 172 L110 168" fill="none" stroke="#d01424" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M178 158 L184 168" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M180 165 L186 162" fill="none" stroke="#d01424" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- layered storm clouds above head (darker upper, lighter lower) -->
+  <path d="M30 70 Q22 70 22 80 Q12 82 15 95 Q8 105 22 108 Q30 116 45 110 Q60 120 70 108 Q85 110 88 96 Q98 90 90 78 Q85 64 70 68 Q60 56 45 62 Q35 60 30 70 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M75 50 Q68 50 68 58 Q60 60 62 70 Q55 78 65 80 Q72 86 84 82 Q96 90 104 80 Q116 82 118 70 Q126 64 120 54 Q117 44 105 47 Q97 38 85 44 Q80 42 75 50 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M180 55 Q172 55 172 63 Q164 65 166 75 Q158 83 168 86 Q175 92 188 88 Q200 96 208 86 Q220 88 222 76 Q230 70 224 60 Q220 50 208 53 Q200 44 188 50 Q183 48 180 55 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M225 80 Q218 80 218 87 Q212 89 214 97 Q208 104 217 106 Q222 112 232 108 Q240 114 247 106 Q257 108 258 97 Q266 92 260 84 Q257 74 247 76 Q240 68 230 73 Q227 72 225 80 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lightning bolt -->
+  <path d="M70 110 L60 130 L72 132 L62 150" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- healing light rays emerging from behind head -->
+  <path d="M50 215 L100 175" fill="none" stroke="#f2e40d" stroke-width="6.22" stroke-linecap="round"/>
+  <path d="M30 180 L90 165" fill="none" stroke="#f2e40d" stroke-width="6.22" stroke-linecap="round"/>
+  <path d="M240 215 L195 175" fill="none" stroke="#f2e40d" stroke-width="6.22" stroke-linecap="round"/>
+  <path d="M260 180 L200 165" fill="none" stroke="#f2e40d" stroke-width="6.22" stroke-linecap="round"/>
+  <path d="M145 225 L145 210" fill="none" stroke="#f2e40d" stroke-width="6.22" stroke-linecap="round"/>
+</g></svg>

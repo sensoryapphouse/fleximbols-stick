@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Greeting card body -->
+  <rect x="55" y="30" width="180" height="180" rx="12" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Card fold line -->
+  <line x1="145" y1="30" x2="145" y2="210" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Heart on card -->
+  <path d="M105 100 C105 85 88 78 82 90 C76 102 90 118 105 130 C120 118 134 102 128 90 C122 78 105 85 105 100 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Flower stem -->
+  <line x1="172" y1="175" x2="172" y2="130" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Flower petals -->
+  <ellipse cx="172" cy="108" rx="10" ry="16" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="172" cy="108" rx="16" ry="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="172" cy="108" rx="10" ry="16" transform="rotate(45 172 108)" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="172" cy="108" rx="10" ry="16" transform="rotate(-45 172 108)" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Flower centre -->
+  <circle cx="172" cy="108" r="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small leaf on stem -->
+  <ellipse cx="162" cy="155" rx="10" ry="6" transform="rotate(-30 162 155)" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

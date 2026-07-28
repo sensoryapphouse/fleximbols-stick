@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Flint rod (left) -->
+  <rect x="55" y="120" width="90" height="22" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Flint handle grip -->
+  <rect x="55" y="118" width="22" height="26" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Striker (right, angled) -->
+  <path d="M 150,150 L 215,115 L 230,128 L 165,165 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Striker handle -->
+  <rect x="218" y="105" width="22" height="20" rx="3" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Sparks around contact point -->
+  <path d="M 150,128 L 158,118 L 152,128 L 162,124" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="148" cy="115" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="160" cy="108" r="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="170" cy="115" r="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="142" cy="108" r="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Spark burst lines -->
+  <line x1="155" y1="125" x2="148" y2="100" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="125" x2="165" y2="100" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="125" x2="180" y2="105" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="125" x2="135" y2="105" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- flame icon replacing STARTER text -->
+  <path d="M145 215 Q138 200 145 188 Q150 178 145 168 Q158 178 155 195 Q168 178 162 162 Q175 172 175 190 Q180 182 178 170 Q188 180 185 200 Q182 212 170 218 Q155 224 145 215 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M155 210 Q150 202 155 195 Q158 202 155 210 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+</g></svg>

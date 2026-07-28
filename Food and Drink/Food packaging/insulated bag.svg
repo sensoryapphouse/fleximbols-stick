@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bag body: quilted soft tote shape -->
+  <rect x="55" y="90" width="180" height="125" rx="18" ry="18" fill="#90a7d6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Quilt lines horizontal -->
+  <line x1="55" y1="118" x2="235" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="55" y1="146" x2="235" y2="146" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="55" y1="174" x2="235" y2="174" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Quilt lines vertical -->
+  <line x1="95" y1="90" x2="95" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="90" x2="145" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="90" x2="195" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Zip strip at top of bag -->
+  <rect x="55" y="90" width="180" height="16" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Zip pull tab -->
+  <rect x="130" y="83" width="22" height="14" rx="4" ry="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Handles left -->
+  <path d="M 85 90 Q 70 48 95 38" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 85 90 Q 70 48 95 38" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Handles right -->
+  <path d="M 205 90 Q 220 48 195 38" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 205 90 Q 220 48 195 38" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Handle bar connecting tops -->
+  <path d="M 95 38 Q 145 20 195 38" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 95 38 Q 145 20 195 38" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Snowflake centre -->
+  <circle cx="145" cy="155" r="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Snowflake arms -->
+  <line x1="145" y1="133" x2="145" y2="177" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="123" y1="155" x2="167" y2="155" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="129" y1="139" x2="161" y2="171" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="161" y1="139" x2="129" y2="171" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Snowflake arm ticks -->
+  <line x1="138" y1="140" x2="145" y2="133" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="152" y1="140" x2="145" y2="133" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="138" y1="170" x2="145" y2="177" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="152" y1="170" x2="145" y2="177" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="123" y1="148" x2="130" y2="155" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="123" y1="162" x2="130" y2="155" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="148" x2="167" y2="155" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="162" x2="167" y2="155" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

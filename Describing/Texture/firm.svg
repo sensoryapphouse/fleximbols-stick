@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="103.99 68.15 343.27 343.27">
+<!-- firm: solid hard block, unyielding; press arrows bounce off flat top -->
+<rect x="130" y="220" width="252" height="150" rx="10" fill="#9aa6b2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top face to show solidity -->
+<path d="M 130 220 L 170 178 L 422 178 L 382 220 Z" fill="#c2cbd4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 382 220 L 422 178 L 422 328 L 382 370 Z" fill="#7e8a96" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- straight flat top arrow (no dent) -->
+<path d="M 256 110 L 256 168" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 236 148 L 256 172 L 276 148" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

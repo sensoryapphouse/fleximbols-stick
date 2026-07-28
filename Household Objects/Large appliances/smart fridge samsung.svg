@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- fridge body (tall, French-door style) -->
+  <rect x="60" y="20" width="170" height="205" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- top freezer / upper section split -->
+  <line x1="60" y1="100" x2="230" y2="100" stroke="#1a1a1a" stroke-width="7.41"/>
+  <!-- upper section (single door) -->
+  <line x1="145" y1="20" x2="145" y2="100" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- lower split: French doors -->
+  <line x1="145" y1="100" x2="145" y2="225" stroke="#1a1a1a" stroke-width="7.41"/>
+  <!-- left door handle (vertical) -->
+  <rect x="125" y="120" width="6" height="50" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- right door handle -->
+  <rect x="159" y="120" width="6" height="50" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- top section handle -->
+  <rect x="160" y="60" width="50" height="6" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- touchscreen panel (Samsung Family Hub style) on upper door -->
+  <rect x="75" y="30" width="60" height="60" rx="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.41"/>
+  <!-- screen apps grid -->
+  <rect x="80" y="35" width="14" height="14" rx="2" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="98" y="35" width="14" height="14" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="116" y="35" width="14" height="14" rx="2" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="80" y="53" width="14" height="14" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="98" y="53" width="14" height="14" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="116" y="53" width="14" height="14" rx="2" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- bottom row: thermometer-like control bars -->
+  <line x1="82" y1="76" x2="128" y2="76" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="82" y1="82" x2="115" y2="82" stroke="#3aa6a0" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- water/ice dispenser on right upper -->
+  <rect x="170" y="30" width="50" height="40" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="180" cy="50" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="195" cy="50" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="210" cy="50" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M195 60 L195 65 L192 62 M195 65 L198 62" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Samsung-style badge/logo bar on upper edge -->
+  <rect x="180" y="80" width="40" height="10" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="185" y1="85" x2="215" y2="85" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- feet -->
+  <rect x="68" y="225" width="14" height="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="208" y="225" width="14" height="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- WiFi top right (outside fridge) -->
+  <path d="M240 35 Q252 23 264 35" fill="none" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M244 43 Q252 35 260 43" fill="none" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+  <circle cx="252" cy="50" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stack of 3 trays - bottom tray -->
+  <rect x="55" y="175" width="180" height="40" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Bottom tray soil/compost -->
+  <rect x="60" y="180" width="170" height="28" rx="3" fill="#5e1f0a"/>
+  <!-- Middle tray -->
+  <rect x="60" y="128" width="170" height="40" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Middle tray contents - darker compost -->
+  <rect x="65" y="133" width="160" height="28" rx="3" fill="#7d5e23"/>
+  <!-- Top tray -->
+  <rect x="65" y="82" width="160" height="40" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Top tray food scraps hint -->
+  <rect x="70" y="87" width="150" height="28" rx="3" fill="#529929"/>
+  <!-- Food scrap bits in top tray -->
+  <ellipse cx="100" cy="101" rx="8" ry="5" fill="#f7de58"/>
+  <ellipse cx="145" cy="98" rx="7" ry="4" fill="#f8130d"/>
+  <ellipse cx="185" cy="102" rx="6" ry="4" fill="#529929"/>
+  <!-- Worms in middle tray -->
+  <path d="M80 148 Q90 142 100 148 Q110 154 120 148" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M140 145 Q152 140 164 145 Q176 150 188 145" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Worms in bottom tray -->
+  <path d="M75 192 Q88 186 100 192 Q112 198 125 192" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150 190 Q163 185 175 190 Q185 195 198 190" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lid on top -->
+  <rect x="62" y="72" width="166" height="14" rx="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tray handles on sides -->
+  <line x1="55" y1="148" x2="40" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="235" y1="148" x2="250" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Feet on bottom -->
+  <line x1="80" y1="215" x2="80" y2="225" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="210" y1="215" x2="210" y2="225" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+</g></svg>

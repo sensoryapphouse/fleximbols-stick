@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0883) translate(-222.00 -305.50)">
+<g transform="translate(-20.0,16.0) scale(1.000)"><!-- "baby blues" = sadness / low mood: blue rain cloud with teardrop, no person -->
+  <g transform="translate(0 40)">
+    <!-- cloud -->
+    <path d="M70 220
+             Q40 220 38 188
+             Q38 150 80 150
+             Q90 110 140 112
+             Q175 112 188 145
+             Q230 138 240 178
+             Q272 182 268 215
+             Q266 240 232 240
+             L92 240
+             Q72 240 70 220 Z"
+          fill="#90caf9" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+    <!-- sad face on cloud -->
+    <circle cx="120" cy="190" r="7" fill="#1a1a1a"/>
+    <circle cx="190" cy="190" r="7" fill="#1a1a1a"/>
+    <path d="M125 222 Q155 205 185 222" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+    <!-- raindrops -->
+    <path d="M95 270 Q86 286 95 296 Q108 296 105 282 Z" fill="#1e88e5" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M150 285 Q141 301 150 311 Q163 311 160 297 Z" fill="#1e88e5" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M205 270 Q196 286 205 296 Q218 296 215 282 Z" fill="#1e88e5" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+    <!-- big teardrop -->
+    <path d="M150 330 Q132 366 150 388 Q176 388 170 358 Z" fill="#1e88e5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  </g></g>
+<line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#33373d"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#33373d"/>
+<line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffcf33" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#5a3a1f" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

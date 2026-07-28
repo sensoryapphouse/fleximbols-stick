@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- divider arrow -->
+  <path d="M132 110 l16 10 l-16 10 v-6 h-14 v-8 h14 z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- LEFT: dull figure full body -->
+  <!-- head -->
+  <circle cx="65" cy="50" r="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- sad mouth -->
+  <path d="M59 55 q6 -4 12 0" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="48" r="1.5" fill="#000000"/>
+  <circle cx="70" cy="48" r="1.5" fill="#000000"/>
+  <!-- messy hair -->
+  <path d="M51 44 q14 -16 28 0 q-2 -10 -14 -10 q-12 0 -14 10 z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- torso (drab) -->
+  <path d="M48 66 q17 -4 34 0 v50 q-17 4 -34 0 z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- arms down -->
+  <rect x="38" y="68" width="10" height="44" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="82" y="68" width="10" height="44" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hands -->
+  <circle cx="43" cy="116" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="87" cy="116" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- legs -->
+  <rect x="52" y="116" width="11" height="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="67" y="116" width="11" height="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- shoes -->
+  <rect x="49" y="166" width="16" height="7" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="65" y="166" width="16" height="7" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- RIGHT: radiant figure full body -->
+  <!-- aura glow -->
+  <circle cx="225" cy="50" r="28" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- head -->
+  <circle cx="225" cy="50" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- styled hair -->
+  <path d="M211 44 q14 -18 28 0 q-2 -12 -14 -12 q-12 0 -14 12 z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- happy face -->
+  <circle cx="220" cy="48" r="1.6" fill="#000000"/>
+  <circle cx="230" cy="48" r="1.6" fill="#000000"/>
+  <path d="M218 54 q7 6 14 0" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- torso bright outfit -->
+  <path d="M208 66 q17 -4 34 0 v50 q-17 4 -34 0 z" fill="#f266aa" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- arms (one on hip, one out confident) -->
+  <path d="M208 70 q-12 16 -4 32" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="240" y="68" width="11" height="44" rx="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="245" cy="112" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="206" cy="100" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- legs -->
+  <rect x="212" y="116" width="11" height="50" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="227" y="116" width="11" height="50" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- shoes -->
+  <rect x="209" y="166" width="16" height="7" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="225" y="166" width="16" height="7" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sparkles -->
+  <path d="M195 30 l2 -6 l2 6 l6 2 l-6 2 l-2 6 l-2 -6 l-6 -2 z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M260 80 l2 -6 l2 6 l6 2 l-6 2 l-2 6 l-2 -6 l-6 -2 z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M255 140 l2 -5 l2 5 l5 2 l-5 2 l-2 5 l-2 -5 l-5 -2 z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sparkle stars top right (replaces any remaining text) -->
+  <path d="M250 30 L253 40 L263 43 L253 46 L250 56 L247 46 L237 43 L247 40 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M268 55 L270 62 L277 64 L270 66 L268 73 L266 66 L259 64 L266 62 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

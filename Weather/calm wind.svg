@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky area (top portion) - light blue -->
+  <rect x="10" y="10" width="270" height="120" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Flat calm horizon line (thick) -->
+  <line x1="10" y1="145" x2="280" y2="145" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Still lake / water area (flat, reflective) -->
+  <rect x="10" y="145" width="270" height="85" rx="0" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Lake surface highlights (perfectly flat lines — no ripples) -->
+  <line x1="30" y1="162" x2="260" y2="162" stroke="#dff3fd" stroke-width="1.97" stroke-linecap="round"/>
+  <line x1="50" y1="178" x2="240" y2="178" stroke="#dff3fd" stroke-width="1.97" stroke-linecap="round"/>
+  <line x1="30" y1="194" x2="260" y2="194" stroke="#dff3fd" stroke-width="1.97" stroke-linecap="round"/>
+  <!-- Flag pole (right of centre) -->
+  <line x1="195" y1="20" x2="195" y2="145" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Limp flag hanging down from pole (no wind — droops straight down) -->
+  <path d="M 195 28 L 195 75 L 220 75 L 220 28 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Flag hangs limp: fold at bottom giving droopy look -->
+  <path d="M 195 75 Q 207 82 220 75" fill="none" stroke="#d01424" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Pole base ground line -->
+  <line x1="182" y1="145" x2="208" y2="145" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- NO wind lines anywhere — completely still -->
+  <!-- Subtle sun peeking at top left (calm clear day) -->
+  <circle cx="50" cy="50" r="25" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Short gentle sun rays only -->
+  <line x1="50" y1="18" x2="50" y2="10" stroke="#f7de58" stroke-width="4.94" stroke-linecap="round"/>
+  <line x1="72" y1="28" x2="78" y2="22" stroke="#f7de58" stroke-width="4.94" stroke-linecap="round"/>
+  <line x1="82" y1="50" x2="90" y2="50" stroke="#f7de58" stroke-width="4.94" stroke-linecap="round"/>
+  <line x1="28" y1="50" x2="20" y2="50" stroke="#f7de58" stroke-width="4.94" stroke-linecap="round"/>
+  <line x1="28" y1="28" x2="22" y2="22" stroke="#f7de58" stroke-width="4.94" stroke-linecap="round"/>
+</g></svg>

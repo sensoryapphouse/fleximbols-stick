@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- CHEF HAT (top centre) -->
+  <!-- Hat brim band -->
+  <rect x="90" y="90" width="110" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hat puffed top -->
+  <path d="M98,90 Q98,35 145,35 Q192,35 192,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Puff creases -->
+  <path d="M115,88 Q112,65 120,48" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M145,88 Q145,58 145,38" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M172,88 Q176,65 170,48" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+
+  <!-- COOKING POT (centre bottom) -->
+  <!-- Pot body -->
+  <path d="M88,158 L88,200 Q88,210 100,210 L190,210 Q202,210 202,200 L202,158 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pot lid -->
+  <rect x="84" y="148" width="122" height="14" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lid knob -->
+  <ellipse cx="145" cy="145" rx="10" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Pot handles -->
+  <path d="M88,168 Q70,168 70,180 Q70,192 88,192" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <path d="M202,168 Q220,168 220,180 Q220,192 202,192" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Steam rising -->
+  <path d="M115,145 Q110,133 115,122" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,143 Q140,131 145,120" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M175,145 Q170,133 175,122" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- WOODEN SPOON (right side, resting on pot) -->
+  <!-- Spoon handle (diagonal, resting on pot rim) -->
+  <line x1="200" y1="152" x2="248" y2="100" stroke="#9d7246" stroke-width="10.00" stroke-linecap="round"/>
+  <!-- Spoon bowl -->
+  <ellipse cx="255" cy="92" rx="16" ry="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-35 255 92)"/>
+</g></svg>

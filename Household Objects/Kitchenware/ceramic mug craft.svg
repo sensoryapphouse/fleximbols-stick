@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ceramic-mug-craft: handmade glazed mug with thumbprint/rustic shape + small paintbrush -->
+  <!-- Mug body - slightly irregular/rustic trapezoid shape -->
+  <path d="M 75,55 Q 70,55 68,60 L 55,185 Q 54,192 62,195 L 178,195 Q 186,195 185,185 L 172,60 Q 170,55 165,55 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Glaze highlight streak -->
+  <path d="M 90,65 Q 85,100 88,140" fill="none" stroke="#dff3fd" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Thumbprint indent on mug front -->
+  <ellipse cx="128" cy="130" rx="22" ry="18" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Fingerprint lines inside thumbprint -->
+  <path d="M 115,130 Q 128,122 141,130" fill="none" stroke="#dff3fd" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 112,135 Q 128,126 144,135" fill="none" stroke="#dff3fd" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 114,140 Q 128,132 142,140" fill="none" stroke="#dff3fd" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Mug handle -->
+  <path d="M 178,90 Q 220,90 222,125 Q 224,160 178,160" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 178,90 Q 208,90 210,125 Q 212,158 178,160" fill="#3aa6a0" stroke="none"/>
+  <!-- Mug rim ellipse -->
+  <ellipse cx="120" cy="57" rx="48" ry="11" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mug base ellipse -->
+  <ellipse cx="118" cy="193" rx="50" ry="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Paintbrush beside mug -->
+  <rect x="205" y="45" width="12" height="90" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Brush ferrule -->
+  <rect x="203" y="128" width="16" height="12" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Brush bristles -->
+  <path d="M 203,140 Q 211,165 203,185" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 219,140 Q 211,165 219,185" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 205,140 L 205,182 Q 211,192 217,182 L 217,140 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Paint drip on brush tip -->
+  <ellipse cx="211" cy="186" rx="6" ry="8" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

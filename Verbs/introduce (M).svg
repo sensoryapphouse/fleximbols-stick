@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0936) translate(-221.00 -269.00)">
+<g transform="translate(0.7,44.0) scale(0.867)"><!-- Handshake = introduction -->
+  <!-- Left forearm/sleeve -->
+  <path d="M20 320 L120 280 L150 350 L50 390 Z" fill="#2563eb" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Right forearm/sleeve -->
+  <path d="M260 200 L160 240 L190 310 L290 270 Z" fill="#16a34a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Clasped hands in the middle -->
+  <path d="M120 268 Q150 250 185 262 Q215 274 205 305 Q200 330 165 338 Q130 345 118 318 Q108 292 120 268 Z" fill="#fcd5b4" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Fingers wrapping -->
+  <path d="M150 258 Q170 266 175 285" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M138 272 Q160 280 165 300" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M132 290 Q154 296 158 315" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <!-- Thumb -->
+  <path d="M188 276 Q205 280 202 300" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <!-- Greeting sparkle/speech mark above -->
+  <path d="M210 150 Q210 120 245 120 Q280 120 280 150 Q280 178 250 180 L250 200 L235 182 Q210 178 210 150 Z" fill="#ffd633" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="232" cy="150" r="6" fill="#1a1a1a"/>
+  <circle cx="258" cy="150" r="6" fill="#1a1a1a"/></g>
+<polygon points="336,197 400,197 398,305 338,305" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="350" y1="303" x2="344" y2="455" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<line x1="386" y1="303" x2="392" y2="455" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="344" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="392" cy="457" rx="13" ry="7" fill="#33373d"/>
+<line x1="338" y1="199" x2="318" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="398" y1="199" x2="418" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="368" y1="197" x2="368" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 328 130 Q 328 80 368 80 Q 408 80 408 130 Q 368 103 328 130 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

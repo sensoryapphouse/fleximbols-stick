@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- spiky dome of quills -->
+<path d="M 130 350
+ L 120 300 L 150 322 L 150 268 L 184 304 L 196 250 L 224 296 L 244 244 L 268 294 L 296 248 L 312 300 L 344 272 L 346 322 L 380 306 L 372 350 Z"
+ fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inner quill lines -->
+<path d="M 176 348 L 200 300 M 232 350 L 252 296 M 288 348 L 304 302 M 150 344 L 170 320 M 330 344 L 344 314" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+<!-- light face/belly -->
+<path d="M 110 352 Q 100 300 150 296 Q 132 340 150 352 Z" fill="#e0c79a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pointed snout -->
+<path d="M 108 326 Q 70 332 64 350 Q 70 366 100 360 Q 118 352 116 338 Z" fill="#e0c79a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ground line of body -->
+<path d="M 110 352 L 372 352 Q 372 380 344 380 L 140 380 Q 110 380 110 352 Z" fill="#e0c79a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- re-cover so spikes sit above belly seam -->
+<line x1="118" y1="352" x2="364" y2="352" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- feet -->
+<rect x="160" y="372" width="20" height="26" rx="9" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="300" y="372" width="20" height="26" rx="9" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="7"/>
+<!-- nose -->
+<circle cx="66" cy="350" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- eye -->
+<circle cx="118" cy="338" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="115" cy="335" r="2.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

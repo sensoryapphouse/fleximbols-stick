@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Chat bubble (back) -->
+  <path d="M30 50 L260 50 C270 50 270 60 270 60 L270 160 C270 170 260 170 260 170 L120 170 L80 200 L80 170 L40 170 C30 170 30 160 30 160 L30 60 C30 50 40 50 40 50 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Robot face -->
+  <!-- antenna -->
+  <path d="M150 70 L150 55" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <circle cx="150" cy="52" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- head -->
+  <rect x="100" y="70" width="100" height="80" rx="12" ry="12" fill="#90a7d6" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- screen panel -->
+  <rect x="112" y="84" width="76" height="52" rx="6" ry="6" fill="#392170" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- eyes -->
+  <circle cx="132" cy="108" r="9" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="132" cy="108" r="4" fill="#000000"/>
+  <circle cx="168" cy="108" r="9" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="108" r="4" fill="#000000"/>
+  <!-- smile -->
+  <path d="M138 125 C145 132 155 132 162 125" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- side ears -->
+  <rect x="92" y="98" width="10" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="198" y="98" width="10" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sparkles -->
+  <path d="M55 95 L58 105 L68 108 L58 111 L55 121 L52 111 L42 108 L52 105 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M235 105 L238 115 L248 118 L238 121 L235 131 L232 121 L222 118 L232 115 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M220 75 L222 82 L229 84 L222 86 L220 93 L218 86 L211 84 L218 82 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- AI label -->
+  <path d="M155 215 L162 197 L169 215 L166 215 L165 211 L159 211 L158 215 Z M161 207 L163 207 L162 204 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="175" y="197" width="4" height="18" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

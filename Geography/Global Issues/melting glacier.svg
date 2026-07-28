@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Rising water body -->
+  <rect x="20" y="172" width="250" height="48" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Water waves -->
+  <path d="M20 182 Q52 172 84 182 Q116 192 148 182 Q180 172 212 182 Q244 192 270 182" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 198 Q55 188 90 198 Q125 208 160 198 Q195 188 230 198 Q248 204 270 198" fill="none" stroke="#90a7d6" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Glacier / ice cap main mass -->
+  <path d="M55 172 Q62 148 72 132 Q84 112 96 98 Q108 82 120 70 Q130 60 145 52 Q160 60 170 70 Q182 82 194 98 Q206 114 218 132 Q228 148 235 172 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Glacier ice texture / shadow layers -->
+  <path d="M80 172 Q88 152 98 136 Q110 118 122 104 Q133 90 145 80 Q157 90 167 104 Q179 120 190 138 Q200 155 208 172 Z" fill="#90a7d6" stroke="none"/>
+  <path d="M100 172 Q110 155 122 140 Q133 126 145 116 Q157 126 168 140 Q180 156 190 172 Z" fill="#dff3fd" stroke="none"/>
+  <!-- Glacier cracks / crevasses -->
+  <line x1="130" y1="100" x2="124" y2="120" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="124" y1="120" x2="132" y2="136" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="158" y1="108" x2="164" y2="128" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="130" x2="140" y2="150" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Melt drip 1 left -->
+  <path d="M82 172 Q78 182 82 190 Q86 198 82 205" fill="none" stroke="#dff3fd" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="82" cy="208" rx="6" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Melt drip 2 centre-left -->
+  <path d="M112 172 Q108 180 112 188" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="112" cy="192" rx="5" ry="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Melt drip 3 centre-right -->
+  <path d="M178 172 Q182 182 178 190" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="178" cy="194" rx="5" ry="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Melt drip 4 right -->
+  <path d="M210 172 Q214 184 210 194 Q206 202 210 210" fill="none" stroke="#dff3fd" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="210" cy="213" rx="6" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Sun top right (warming) -->
+  <circle cx="245" cy="45" r="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <circle cx="245" cy="45" r="14" fill="#fff200" stroke="none"/>
+  <line x1="245" y1="16" x2="245" y2="8" stroke="#f2e40d" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="245" y1="74" x2="245" y2="82" stroke="#f2e40d" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="216" y1="45" x2="208" y2="45" stroke="#f2e40d" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="270" y1="45" x2="278" y2="45" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="224" y1="24" x2="218" y2="18" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="266" y1="24" x2="272" y2="18" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="224" y1="66" x2="218" y2="72" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="266" y1="66" x2="272" y2="72" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

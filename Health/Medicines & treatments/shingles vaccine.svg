@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shingles-vaccine: vial labelled with shingles rash icon + syringe + senior figure -->
+
+  <!-- senior figure (right side, full body) -->
+  <!-- head -->
+  <circle cx="248" cy="100" r="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- grey hair -->
+  <path d="M 236,98 Q 235,84 248,82 Q 261,84 260,98 L 255,94 Q 254,92 248,92 Q 242,92 241,94 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- glasses -->
+  <circle cx="244" cy="101" r="3" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="252" cy="101" r="3" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="247" y1="101" x2="249" y2="101" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- body (shirt) -->
+  <path d="M 236,114 L 260,114 L 268,175 L 228,175 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- arms -->
+  <line x1="237" y1="122" x2="225" y2="158" stroke="#eed5b6" stroke-width="12.45" stroke-linecap="round"/>
+  <line x1="237" y1="122" x2="225" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="259" y1="122" x2="271" y2="158" stroke="#eed5b6" stroke-width="12.45" stroke-linecap="round"/>
+  <line x1="259" y1="122" x2="271" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- cane in right hand -->
+  <line x1="271" y1="158" x2="275" y2="215" stroke="#9d7246" stroke-width="7.11" stroke-linecap="round"/>
+  <line x1="271" y1="158" x2="275" y2="215" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- legs -->
+  <line x1="242" y1="175" x2="240" y2="215" stroke="#4d4d4d" stroke-width="12.45" stroke-linecap="round"/>
+  <line x1="242" y1="175" x2="240" y2="215" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="254" y1="175" x2="256" y2="215" stroke="#4d4d4d" stroke-width="12.45" stroke-linecap="round"/>
+  <line x1="254" y1="175" x2="256" y2="215" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+
+  <!-- vaccine vial (left) -->
+  <rect x="40" y="50" width="50" height="14" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <rect x="36" y="64" width="58" height="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <rect x="40" y="74" width="50" height="130" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- liquid -->
+  <path d="M 43,140 L 87,140 L 87,200 Q 65,205 43,200 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+
+  <!-- label -->
+  <rect x="38" y="95" width="54" height="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+
+  <!-- shingles rash icon: cluster of red blister bumps along a curved band -->
+  <path d="M 45,118 Q 55,108 65,118 Q 75,128 85,118" fill="none" stroke="#5e1f0a" stroke-width="3.56" stroke-linecap="round"/>
+  <circle cx="48" cy="115" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="56" cy="111" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="64" cy="118" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="72" cy="124" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="80" cy="120" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="56" cy="125" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="74" cy="111" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="65" cy="105" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+
+  <!-- syringe (middle, angled) -->
+  <polygon points="115,165 130,150 215,80 200,65" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <polygon points="128,160 138,150 200,76 190,68" fill="#7c3fac" stroke="none"/>
+  <line x1="150" y1="135" x2="158" y2="143" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="165" y1="120" x2="173" y2="128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="180" y1="105" x2="188" y2="113" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="115" y1="165" x2="100" y2="180" stroke="#4d4d4d" stroke-width="8.89" stroke-linecap="round"/>
+  <polygon points="86,175 102,159 112,169 96,185" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <polygon points="200,65 210,55 222,67 212,77" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <line x1="215" y1="60" x2="230" y2="45" stroke="#b8b8b8" stroke-width="7.11" stroke-linecap="round"/>
+  <line x1="215" y1="60" x2="230" y2="45" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

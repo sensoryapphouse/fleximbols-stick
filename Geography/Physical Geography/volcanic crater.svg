@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="20" width="270" height="120" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- ground -->
+  <rect x="10" y="195" width="270" height="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- volcano cone -->
+  <path d="M40 200 L 110 80 L 180 80 L 250 200 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- shadow side -->
+  <path d="M180 80 L 250 200 L 200 200 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- caldera bowl (top opening) -->
+  <ellipse cx="145" cy="82" rx="38" ry="10" fill="#392170" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- lava glow inside caldera -->
+  <ellipse cx="145" cy="84" rx="30" ry="6" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="84" rx="20" ry="3" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- lava splash flecks -->
+  <circle cx="135" cy="70" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="158" cy="68" r="2.5" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="150" cy="62" r="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- lava flowing down right flank -->
+  <path d="M170 88 Q 184 110 192 140 Q 198 160 210 195" fill="none" stroke="#e65a00" stroke-width="10.67" stroke-linecap="round"/>
+  <path d="M170 88 Q 184 110 192 140 Q 198 160 210 195" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- smoke plume -->
+  <ellipse cx="138" cy="55" rx="14" ry="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="155" cy="42" rx="16" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="140" cy="30" rx="14" ry="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="162" cy="22" rx="12" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

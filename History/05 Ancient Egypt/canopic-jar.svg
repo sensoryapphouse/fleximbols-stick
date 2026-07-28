@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2277) translate(-256.00 -234.50)">
+<!-- ===== Canopic jar with upright Anubis (jackal) head stopper ===== -->
+<!-- jar body (alabaster) — rounded shoulders tapering to a footed base -->
+<path d="M 184 250 Q 178 200 206 188 L 306 188 Q 334 200 328 250 L 320 396 Q 256 420 192 396 Z" fill="#f0dcab" stroke="#c9a85e" stroke-width="6" stroke-linejoin="round"/>
+<!-- footed base -->
+<rect x="202" y="396" width="108" height="20" rx="4" fill="#cdb78a" stroke="#c9a85e" stroke-width="4"/>
+<!-- rim where the lid sits flush on the jar -->
+<rect x="198" y="180" width="116" height="16" rx="4" fill="#cdb78a" stroke="#c9a85e" stroke-width="4"/>
+<!-- ===== Anubis jackal-head lid, UPRIGHT and CENTRED, facing forward ===== -->
+<!-- neck/collar of the lid resting on the rim -->
+<path d="M 220 184 Q 256 194 292 184 L 292 172 L 220 172 Z" fill="#1a1a1a" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+<!-- tall pointed ears (big, symmetric, for silhouette) -->
+<polygon points="214,120 226,52 250,116" fill="#1a1a1a" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="262,116 286,52 298,120" fill="#1a1a1a" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="221,116 229,70 245,114" fill="#2f5fb0"/>
+<polygon points="267,114 283,70 291,116" fill="#2f5fb0"/>
+<!-- head (broad jackal skull) -->
+<path d="M 210 120 Q 210 96 256 96 Q 302 96 302 120 L 300 152 Q 256 164 212 152 Z" fill="#1a1a1a" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<!-- forward-projecting muzzle / snout: long and tapering, like a jackal's -->
+<path d="M 234 148 Q 256 154 278 148 L 270 200 Q 256 210 242 200 Z" fill="#1a1a1a" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+<!-- nose at the tip of the muzzle -->
+<ellipse cx="256" cy="200" rx="9" ry="6" fill="#3a3a3a"/>
+<!-- two gold eyes (symmetric, forward-facing) -->
+<ellipse cx="234" cy="134" rx="9" ry="6" fill="#e8b53a" stroke="#b8841f" stroke-width="2"/>
+<circle cx="234" cy="134" r="3" fill="#1a1a1a"/>
+<ellipse cx="278" cy="134" rx="9" ry="6" fill="#e8b53a" stroke="#b8841f" stroke-width="2"/>
+<circle cx="278" cy="134" r="3" fill="#1a1a1a"/>
+<!-- ===== vertical cartouche stripe of hieroglyph glyphs (decoration, not a label) ===== -->
+<rect x="236" y="244" width="40" height="150" rx="20" fill="#f6efd9" stroke="#c9a85e" stroke-width="4"/>
+<!-- simple stacked glyph shapes down the stripe -->
+<ellipse cx="256" cy="266" rx="11" ry="7" fill="none" stroke="#9a6a32" stroke-width="3"/>
+<path d="M 247 286 q 9 -10 18 0" fill="none" stroke="#9a6a32" stroke-width="3"/>
+<line x1="256" y1="292" x2="256" y2="308" stroke="#9a6a32" stroke-width="3" stroke-linecap="round"/>
+<rect x="248" y="316" width="16" height="14" rx="2" fill="none" stroke="#9a6a32" stroke-width="3"/>
+<circle cx="256" cy="346" r="7" fill="none" stroke="#9a6a32" stroke-width="3"/>
+<path d="M 248 362 L 264 362 L 256 376 Z" fill="none" stroke="#9a6a32" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

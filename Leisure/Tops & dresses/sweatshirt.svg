@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="77.58 115.12 356.85 356.85">
+<!-- left sleeve -->
+<path d="M 168 190 L 104 214 L 116 334 L 168 324 L 178 244 Z" fill="#c2563f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve -->
+<path d="M 344 190 L 408 214 L 396 334 L 344 324 L 334 244 Z" fill="#c2563f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left ribbed cuff -->
+<rect x="106" y="310" width="56" height="28" rx="6" fill="#9c3f2c" stroke="#1a1a1a" stroke-width="8"/>
+<!-- right ribbed cuff -->
+<rect x="350" y="310" width="56" height="28" rx="6" fill="#9c3f2c" stroke="#1a1a1a" stroke-width="8"/>
+<!-- body -->
+<path d="M 168 190 Q 256 162 344 190 L 334 244 L 340 390 L 256 400 L 172 390 L 178 244 Z" fill="#d9694f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ribbed crew neck -->
+<path d="M 214 178 Q 256 210 298 178 Q 256 196 214 178 Z" fill="#9c3f2c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- ribbed hem -->
+<path d="M 172 386 L 256 396 L 340 386 L 340 402 L 256 412 L 172 402 Z" fill="#9c3f2c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

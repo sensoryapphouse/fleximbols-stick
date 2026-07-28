@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 114.97 345.21 345.21">
+<!-- prefix = a small block joined to the FRONT (left) of a word token -->
+<!-- main word token -->
+<rect x="232" y="206" width="170" height="100" rx="16" fill="#eef2f6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- prefix block (added in front) -->
+<rect x="110" y="206" width="96" height="100" rx="16" fill="#f3a83a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- join + arrow showing it attaches to the front -->
+<line x1="206" y1="256" x2="232" y2="256" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 158.0 359.0 L 262.0 359.0 L 262.0 370.0 L 290.0 350.0 L 262.0 330.0 L 262.0 341.0 L 158.0 341.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- NEWSPAPER (folded, left/center) -->
+  <!-- Back page fold -->
+  <rect x="22" y="48" width="155" height="152" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Fold crease line -->
+  <line x1="100" y1="48" x2="100" y2="200" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- Front page -->
+  <rect x="22" y="48" width="100" height="152" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Newspaper masthead bar -->
+  <rect x="28" y="54" width="88" height="18" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Masthead dots simulating paper name -->
+  <circle cx="40" cy="63" r="4" fill="#ffffff"/>
+  <circle cx="52" cy="63" r="4" fill="#ffffff"/>
+  <circle cx="64" cy="63" r="4" fill="#ffffff"/>
+  <circle cx="76" cy="63" r="4" fill="#ffffff"/>
+  <circle cx="88" cy="63" r="4" fill="#ffffff"/>
+  <circle cx="100" cy="63" r="4" fill="#ffffff"/>
+  <!-- Headline block (large drawn rectangle) -->
+  <rect x="28" y="78" width="88" height="22" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sub-headline block -->
+  <rect x="28" y="105" width="72" height="10" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Article columns (drawn line blocks) -->
+  <rect x="28" y="120" width="40" height="7" rx="2" fill="#b8b8b8"/>
+  <rect x="28" y="131" width="40" height="7" rx="2" fill="#b8b8b8"/>
+  <rect x="28" y="142" width="40" height="7" rx="2" fill="#b8b8b8"/>
+  <rect x="28" y="153" width="32" height="7" rx="2" fill="#b8b8b8"/>
+  <!-- Second column -->
+  <rect x="74" y="120" width="38" height="7" rx="2" fill="#b8b8b8"/>
+  <rect x="74" y="131" width="38" height="7" rx="2" fill="#b8b8b8"/>
+  <rect x="74" y="142" width="38" height="7" rx="2" fill="#b8b8b8"/>
+  <rect x="74" y="153" width="28" height="7" rx="2" fill="#b8b8b8"/>
+  <!-- Photo block in paper -->
+  <rect x="28" y="164" width="84" height="28" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- PRESS PASS BADGE -->
+  <rect x="168" y="38" width="80" height="52" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Badge lanyard clip -->
+  <rect x="200" y="28" width="16" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Badge photo placeholder -->
+  <rect x="176" y="48" width="24" height="26" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Photo silhouette inside -->
+  <ellipse cx="188" cy="56" rx="7" ry="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M178 74 Q183 66 193 66 Q200 66 202 74" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Badge PRESS text blocks -->
+  <rect x="206" y="50" width="34" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="206" y="62" width="26" height="6" rx="2" fill="#f7de58"/>
+  <rect x="206" y="72" width="22" height="6" rx="2" fill="#f7de58"/>
+  <!-- Badge bar stripe -->
+  <rect x="168" y="82" width="80" height="8" rx="0" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Lanyard string -->
+  <path d="M208 28 Q202 18 200 12 Q195 6 190 12" fill="none" stroke="#f8130d" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- MICROPHONE -->
+  <!-- Mic body -->
+  <ellipse cx="215" cy="155" rx="20" ry="28" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Mic grille lines -->
+  <line x1="215" y1="130" x2="215" y2="180" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="200" y1="140" x2="230" y2="140" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="197" y1="150" x2="233" y2="150" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="197" y1="160" x2="233" y2="160" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="200" y1="170" x2="230" y2="170" stroke="#7f7f7f" stroke-width="2.96"/>
+  <!-- Mic handle/stand -->
+  <rect x="210" y="183" width="10" height="35" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Mic base -->
+  <ellipse cx="215" cy="220" rx="24" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

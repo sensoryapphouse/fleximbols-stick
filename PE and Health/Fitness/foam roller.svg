@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Long cylinder body -->
+  <path d="M 38,100 L 252,100 Q 258,100 258,118 L 258,170 Q 258,188 252,188 L 38,188 Q 32,188 32,170 L 32,118 Q 32,100 38,100 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left end cap (ellipse) -->
+  <ellipse cx="38" cy="144" rx="12" ry="44" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right end cap (ellipse) -->
+  <ellipse cx="252" cy="144" rx="12" ry="44" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Raised ridge / bumpy texture lines across the cylinder -->
+  <path d="M 68,102 L 68,186 M 100,102 L 100,186 M 132,102 L 132,186 M 158,102 L 158,186 M 190,102 L 190,186 M 222,102 L 222,186" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Bumpy nodule row top -->
+  <circle cx="84" cy="108" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="116" cy="108" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="108" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="108" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="206" cy="108" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bumpy nodule row bottom -->
+  <circle cx="84" cy="180" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="116" cy="180" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="180" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="180" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="206" cy="180" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Top highlight strip -->
+  <path d="M 50,106 L 240,106" fill="none" stroke="#dff3fd" stroke-width="8.89" stroke-linecap="round"/>
+</g></svg>

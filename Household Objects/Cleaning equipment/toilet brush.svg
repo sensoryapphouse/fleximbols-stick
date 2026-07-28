@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- holder cup -->
+  <path d="M105 170 L185 170 L178 225 L112 225 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- holder rim ellipse -->
+  <ellipse cx="145" cy="170" rx="40" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- handle -->
+  <rect x="138" y="30" width="14" height="135" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- handle top knob -->
+  <circle cx="145" cy="30" r="11" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- brush head core -->
+  <ellipse cx="145" cy="155" rx="22" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bristles radiating -->
+  <path d="M125 150 L108 145 M125 158 L108 162 M165 150 L182 145 M165 158 L182 162 M145 142 L145 130 M135 144 L130 132 M155 144 L160 132 M145 170 L145 180 M135 168 L130 178 M155 168 L160 178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- extra bristle tufts -->
+  <path d="M120 152 L100 152 M170 152 L190 152" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

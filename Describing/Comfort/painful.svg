@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="56.79 85.80 418.91 418.91" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1">
+<!-- painful: contrasting pair — soft pillow (faded) vs spiky nail bed with red pain bursts (arrow points here) -->
+<!-- LEFT (faded): soft pillow = not painful -->
+<g opacity="0.34">
+<g transform="translate(-8 70)">
+<path d="M 96 200 Q 96 176 128 176 L 220 176 Q 252 176 252 200 L 252 268 Q 252 292 220 292 L 128 292 Q 96 292 96 268 Z" fill="#9ecbeb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 120 234 Q 174 222 228 234" fill="none" stroke="#3f7fb0" stroke-width="6" stroke-linecap="round"/>
+</g>
+</g>
+<!-- RIGHT (full): bed of sharp spikes = painful -->
+<g transform="translate(8 70)">
+<!-- base board -->
+<rect x="266" y="262" width="172" height="36" rx="6" fill="#c7ced5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- spikes -->
+<g fill="#aeb6bf" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round">
+<polygon points="284,262 300,176 316,262"/>
+<polygon points="320,262 336,164 352,262"/>
+<polygon points="356,262 372,176 388,262"/>
+<polygon points="392,262 408,168 424,262"/>
+</g>
+<!-- red pain bursts above the spikes -->
+<g stroke="#e0291f" stroke-width="12" stroke-linecap="round">
+<line x1="336" y1="120" x2="336" y2="84"/>
+<line x1="292" y1="138" x2="268" y2="110"/>
+<line x1="380" y1="138" x2="404" y2="110"/>
+</g>
+<!-- red jagged pain flash -->
+<path d="M 348 128 L 330 168 L 352 168 L 332 210 L 372 154 L 348 154 L 364 128 Z" fill="#e0291f" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+</g>
+<!-- big green arrow pointing down at the painful (spiky) one -->
+<g stroke="#2f9e4a" stroke-width="15" stroke-linecap="round">
+<line x1="356" y1="392" x2="356" y2="436"/>
+<line x1="356" y1="436" x2="334" y2="412"/>
+<line x1="356" y1="436" x2="378" y2="412"/>
+</g></g></svg>

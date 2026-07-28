@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- deflated/shrivelled balloon (right) -->
+  <path d="M 195 130 Q 175 120 180 100 Q 185 80 205 85 Q 225 75 235 95 Q 245 115 220 125 Q 215 135 210 132 Q 200 135 195 130 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- wrinkles on deflated balloon -->
+  <path d="M 195 105 Q 205 110 220 105" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M 200 118 Q 210 122 225 117" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- knot -->
+  <polygon points="207,132 215,132 211,142" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- limp string -->
+  <path d="M 211 142 Q 220 165 200 180 Q 185 195 215 215" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- big down arrow (prices falling) on left -->
+  <polygon points="60,30 30,80 50,80 50,190 70,190 70,80 90,80" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- small dollar at bottom of arrow -->
+  <circle cx="60" cy="215" r="15" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 60 206 L 60 209 a 6 3 0 0 0 -6 3 a 6 3 0 0 0 6 3 a 6 3 0 0 1 6 3 a 6 3 0 0 1 -6 3 L 60 224 M 54 212 L 54 220" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- big dollar coin (growing purchasing power) -->
+  <circle cx="145" cy="190" r="32" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M 145 170 L 145 174 a 9 5 0 0 0 -9 5 a 9 5 0 0 0 9 5 a 9 5 0 0 1 9 5 a 9 5 0 0 1 -9 5 L 145 210 M 136 178 L 136 202" fill="none" stroke="#137827" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- outward arrows (grows) -->
+  <path d="M 115 160 L 105 150 M 110 152 L 105 150 L 107 155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 175 220 L 185 230 M 180 228 L 185 230 L 183 225" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

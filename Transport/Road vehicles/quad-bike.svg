@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.02) translate(-256 -262)">
+<!-- rear fender / mudguard -->
+<path d="M 300 250 Q 360 232 430 254 Q 452 262 446 296 L 320 296 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- front fender / mudguard -->
+<path d="M 196 252 Q 140 236 78 256 Q 58 264 64 298 L 188 298 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- main body / chassis -->
+<path d="M 150 296 L 360 296 Q 380 296 380 276 L 372 246 Q 366 232 348 232 L 196 232 Q 176 232 168 248 L 150 282 Q 146 296 150 296 Z" fill="#e8505b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- seat -->
+<path d="M 250 232 Q 252 206 286 206 L 348 206 Q 364 206 360 230 L 360 244 L 250 244 Z" fill="#2b2f36" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- handlebars riser + bars -->
+<line x1="204" y1="232" x2="190" y2="150" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<path d="M 190 150 L 152 142 M 190 150 L 224 158" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<circle cx="150" cy="142" r="9" fill="#2b2f36" stroke="#1a1a1a" stroke-width="4"/>
+<!-- headlight -->
+<path d="M 168 248 L 132 240 Q 120 240 120 254 L 120 272 Q 120 284 134 282 L 170 274 Z" fill="#ffd54a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- footrest -->
+<line x1="234" y1="300" x2="296" y2="300" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<!-- REAR wheel (big knobbly tyre) -->
+<circle cx="370" cy="356" r="68" fill="#222428" stroke="#1a1a1a" stroke-width="10"/>
+<circle cx="370" cy="356" r="34" fill="#5b6168" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="370" cy="356" r="12" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<g stroke="#1a1a1a" stroke-width="6"><line x1="370" y1="288" x2="370" y2="300"/><line x1="370" y1="412" x2="370" y2="424"/><line x1="302" y1="356" x2="314" y2="356"/><line x1="426" y1="356" x2="438" y2="356"/></g>
+<!-- FRONT wheel (big knobbly tyre) -->
+<circle cx="142" cy="356" r="68" fill="#222428" stroke="#1a1a1a" stroke-width="10"/>
+<circle cx="142" cy="356" r="34" fill="#5b6168" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="142" cy="356" r="12" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<g stroke="#1a1a1a" stroke-width="6"><line x1="142" y1="288" x2="142" y2="300"/><line x1="142" y1="412" x2="142" y2="424"/><line x1="74" y1="356" x2="86" y2="356"/><line x1="198" y1="356" x2="210" y2="356"/></g>
+</g></svg>

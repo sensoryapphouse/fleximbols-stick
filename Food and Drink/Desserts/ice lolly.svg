@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- twin sticks -->
+  <rect x="105" y="170" width="14" height="60" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="171" y="170" width="14" height="60" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- twin popsicle body: rounded top, flat bottom -->
+  <path d="M70 60 Q70 25 110 25 L180 25 Q220 25 220 60 L220 175 L70 175 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- center split groove showing twin -->
+  <line x1="145" y1="30" x2="145" y2="175" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- highlight shine -->
+  <path d="M85 50 Q85 38 100 38 L100 110 Q90 110 85 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- drip -->
+  <path d="M70 130 Q55 145 60 165 Q70 175 80 165 Q80 150 70 130 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M210 110 Q225 130 220 155 Q210 165 200 150 Q200 130 210 110 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- falling drop -->
+  <path d="M145 200 Q150 213 145 222 Q140 213 145 200 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

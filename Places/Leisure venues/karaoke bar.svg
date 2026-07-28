@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Building facade -->
+  <rect x="20" y="75" width="250" height="143" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Neon-lit sign band -->
+  <rect x="20" y="75" width="250" height="36" rx="4" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Neon accent lights on sign -->
+  <circle cx="45" cy="93" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="62" cy="93" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="228" cy="93" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="245" cy="93" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- On-screen lyric monitor - left -->
+  <rect x="28" y="118" width="100" height="72" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Monitor screen area -->
+  <rect x="34" y="124" width="88" height="58" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Screen glow/content - lyric lines -->
+  <rect x="38" y="130" width="80" height="6" rx="2" fill="#fff200" stroke="none"/>
+  <rect x="38" y="142" width="65" height="6" rx="2" fill="#fff200" stroke="none"/>
+  <rect x="38" y="154" width="72" height="6" rx="2" fill="#f266aa" stroke="none"/>
+  <rect x="38" y="166" width="58" height="6" rx="2" fill="#f266aa" stroke="none"/>
+  <!-- Active word highlight -->
+  <rect x="38" y="154" width="28" height="6" rx="2" fill="#ffffff" stroke="none"/>
+  <!-- Monitor stand -->
+  <rect x="72" y="190" width="12" height="10" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="58" y="198" width="40" height="6" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Microphone emblem - center -->
+  <!-- Mic body capsule -->
+  <ellipse cx="175" cy="125" rx="20" ry="28" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Mic grille lines -->
+  <line x1="157" y1="113" x2="193" y2="113" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="121" x2="195" y2="121" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="157" y1="129" x2="193" y2="129" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="137" x2="190" y2="137" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mic handle -->
+  <rect x="168" y="153" width="14" height="35" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Mic cable -->
+  <path d="M175,188 Q175,200 168,205 Q160,210 165,218" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Musical notes - floating right -->
+  <!-- Note 1 -->
+  <circle cx="228" cy="120" r="7" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="235" y1="120" x2="235" y2="100" stroke="#f266aa" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Note 2 -->
+  <circle cx="248" cy="132" r="7" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="255" y1="132" x2="255" y2="112" stroke="#f266aa" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Beam connecting notes -->
+  <line x1="235" y1="100" x2="255" y2="112" stroke="#f266aa" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Note 3 small -->
+  <circle cx="235" cy="155" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="155" x2="240" y2="140" stroke="#fff200" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M240,140 Q252,143 252,148" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Entrance -->
+  <rect x="172" y="178" width="60" height="40" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <line x1="202" y1="178" x2="202" y2="218" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <rect x="178" y="186" width="20" height="16" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="206" y="186" width="20" height="16" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Ground -->
+  <rect x="20" y="218" width="250" height="8" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+</g></svg>

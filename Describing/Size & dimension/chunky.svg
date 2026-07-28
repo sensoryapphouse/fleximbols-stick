@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="34.29 29.17 395.64 395.64"><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- chunky block (match, left, full opacity) -->
+<rect x="64" y="190" width="170" height="180" rx="18" fill="#e8a33d" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- thin slice (contrast, right, dimmed) -->
+<g opacity="0.34">
+<rect x="360" y="190" width="40" height="180" rx="10" fill="#e8a33d" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+<!-- green arrow pointing at the chunky block -->
+<line x1="149" y1="86" x2="149" y2="148" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="149" y1="148" x2="125" y2="122" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="149" y1="148" x2="173" y2="122" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="149" y1="86" x2="149" y2="148" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="149" y1="148" x2="125" y2="122" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="149" y1="148" x2="173" y2="122" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+</g></svg>

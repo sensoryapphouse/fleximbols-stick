@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- CLOSED pliers pointing up: single tapered nose, joint, two parallel handles -->
+<!-- nose head: two thin jaws pressed together, slight curve -->
+<path d="M 236 112 Q 232 96 244 92 L 252 200 L 236 200 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 276 112 Q 280 96 268 92 L 260 200 L 276 200 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- cheeks widening to the joint -->
+<path d="M 236 196 L 210 250 L 256 270 L 302 250 L 276 196 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- handles: two near-parallel red grips going down -->
+<path d="M 232 258 L 198 404 Q 196 414 206 414" fill="none" stroke="#1a1a1a" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 280 258 L 314 404 Q 316 414 306 414" fill="none" stroke="#1a1a1a" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 232 258 L 198 404 Q 196 414 206 414" fill="none" stroke="#d63b46" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 280 258 L 314 404 Q 316 414 306 414" fill="none" stroke="#e23c3c" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- pivot bolt at the joint -->
+<circle cx="256" cy="252" r="17" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="256" cy="252" r="5" fill="#1a1a1a"/>
+</svg>

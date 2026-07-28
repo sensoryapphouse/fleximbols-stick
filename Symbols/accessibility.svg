@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ramp surface -->
+  <polygon points="30,210 220,210 220,120" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ramp edge highlight -->
+  <line x1="30" y1="210" x2="220" y2="120" stroke="#90a7d6" stroke-width="2.66" stroke-linecap="round"/>
+
+  <!-- Wheelchair figure on ramp -->
+  <!-- Head -->
+  <ellipse cx="175" cy="118" rx="13" ry="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Torso (leaning forward on ramp) -->
+  <path d="M 163,132 L 185,132 L 188,158 L 160,158 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Arm forward -->
+  <line x1="163" y1="140" x2="148" y2="148" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Wheelchair seat -->
+  <line x1="148" y1="158" x2="192" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Back rest -->
+  <line x1="188" y1="158" x2="185" y2="132" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Footrest -->
+  <line x1="148" y1="158" x2="145" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="178" x2="162" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Large rear wheel -->
+  <circle cx="182" cy="182" r="24" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="182" cy="182" r="4" fill="#000000"/>
+  <!-- Wheel spokes -->
+  <line x1="182" y1="158" x2="182" y2="206" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="158" y1="182" x2="206" y2="182" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="165" y1="165" x2="199" y2="199" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="199" y1="165" x2="165" y2="199" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Small front wheel -->
+  <circle cx="150" cy="180" r="10" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+
+  <!-- Ground line -->
+  <line x1="22" y1="210" x2="268" y2="210" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Universal access circle symbol (top left) -->
+  <circle cx="58" cy="62" r="36" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Person in circle: head -->
+  <circle cx="58" cy="44" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Body -->
+  <line x1="58" y1="51" x2="58" y2="70" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Arms -->
+  <line x1="40" y1="60" x2="76" y2="60" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Left leg -->
+  <line x1="58" y1="70" x2="44" y2="88" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Right leg (bent, wheelchair) -->
+  <line x1="58" y1="70" x2="72" y2="80" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="72" y1="80" x2="72" y2="90" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

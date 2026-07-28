@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- scarlet A in a circle (atheist symbol) -->
+  <circle cx="95" cy="120" r="62" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- letter A formed from paths -->
+  <polygon points="95,70 122,160 108,160 102,140 88,140 82,160 68,160" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="95,90 100,127 90,127" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="78" y1="130" x2="112" y2="130" stroke="#d01424" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- crossed-out deity (cloud + halo) -->
+  <ellipse cx="200" cy="80" rx="42" ry="22" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="200" cy="60" rx="22" ry="6" fill="none" stroke="#f2e40d" stroke-width="4.45"/>
+  <line x1="160" y1="50" x2="240" y2="110" stroke="#d01424" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- science icon: atom -->
+  <circle cx="205" cy="170" r="6" fill="#000000"/>
+  <ellipse cx="205" cy="170" rx="34" ry="12" fill="none" stroke="#2a4ec0" stroke-width="4.45"/>
+  <ellipse cx="205" cy="170" rx="34" ry="12" fill="none" stroke="#2a4ec0" stroke-width="4.45" transform="rotate(60 205 170)"/>
+  <ellipse cx="205" cy="170" rx="34" ry="12" fill="none" stroke="#2a4ec0" stroke-width="4.45" transform="rotate(-60 205 170)"/>
+</g></svg>

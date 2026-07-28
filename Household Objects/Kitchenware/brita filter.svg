@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pitcher body (taller, narrower, rounded) -->
+  <rect x="90" y="70" width="120" height="150" rx="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lid funnel top section -->
+  <path d="M100 70 L190 70 L178 40 L112 40Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Funnel opening -->
+  <rect x="118" y="28" width="54" height="16" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lid cap -->
+  <rect x="88" y="64" width="124" height="12" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Handle right side -->
+  <path d="M210 95 Q245 115 240 160 Q235 188 205 185" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Filter cartridge (teal, different from green water-filter) -->
+  <rect x="126" y="84" width="48" height="80" rx="10" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cartridge top nub -->
+  <rect x="138" y="76" width="24" height="12" rx="5" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Filter mesh lines -->
+  <line x1="126" y1="106" x2="174" y2="106" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="126" y1="124" x2="174" y2="124" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="126" y1="142" x2="174" y2="142" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Filtered water area below cartridge -->
+  <rect x="98" y="170" width="104" height="40" rx="10" fill="#90a7d6" stroke="none"/>
+  <!-- Water drop -->
+  <path d="M150 175 Q156 184 150 192 Q144 184 150 175Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

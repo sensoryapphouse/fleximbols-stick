@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 96.04 376.24 376.24">
+<!-- left sleeve -->
+<path d="M 168 168 L 112 188 L 96 286 L 150 300 L 176 220 Z" fill="#d7b9e0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve -->
+<path d="M 344 168 L 400 188 L 416 286 L 362 300 L 336 220 Z" fill="#d7b9e0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body -->
+<path d="M 168 168 Q 256 142 344 168 L 336 220 L 344 404 L 256 416 L 168 404 L 176 220 Z" fill="#e7d2ee" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- collar left -->
+<path d="M 222 152 L 256 196 L 232 214 L 200 168 Z" fill="#d7b9e0" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- collar right -->
+<path d="M 290 152 L 256 196 L 280 214 L 312 168 Z" fill="#d7b9e0" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- button placket -->
+<line x1="256" y1="196" x2="256" y2="404" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- buttons -->
+<circle cx="256" cy="240" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256" cy="296" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256" cy="352" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

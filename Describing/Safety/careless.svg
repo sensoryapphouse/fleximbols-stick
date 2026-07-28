@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- puddle -->
+<path d="M 108 400 Q 96 372 140 366 Q 200 358 268 366 Q 360 376 404 402 Q 420 430 372 440 Q 280 456 188 446 Q 112 438 108 400 Z" fill="#7fc7e8" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- spill stream from cup mouth to puddle -->
+<path d="M 300 250 Q 288 320 250 372" fill="none" stroke="#7fc7e8" stroke-width="20" stroke-linecap="round"/>
+<!-- tipped cup body (tapered tumbler, lying on its side, mouth to lower-left) -->
+<path d="M 300 214 L 430 150 L 452 232 L 336 298 Z" fill="#fff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- cup mouth (open ellipse at the low end) -->
+<ellipse cx="318" cy="256" rx="24" ry="44" transform="rotate(28 318 256)" fill="#fff" stroke="#1a1a1a" stroke-width="10"/>
+<!-- red X marks (mistake / carelessness) -->
+<line x1="132" y1="120" x2="168" y2="156" stroke="#e0473c" stroke-width="14" stroke-linecap="round"/>
+<line x1="168" y1="120" x2="132" y2="156" stroke="#e0473c" stroke-width="14" stroke-linecap="round"/>
+<line x1="206" y1="158" x2="234" y2="186" stroke="#e0473c" stroke-width="12" stroke-linecap="round"/>
+<line x1="234" y1="158" x2="206" y2="186" stroke="#e0473c" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Western Pacific ocean background -->
+  <rect x="26" y="16" width="238" height="208" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Ocean waves at bottom -->
+  <path d="M26,200 Q60,192 94,200 Q128,208 162,200 Q196,192 230,200 Q250,204 264,200 L264,224 L26,224 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Junk boat (distinguishing Western Pacific element): bottom left -->
+  <!-- Hull -->
+  <path d="M28,210 Q48,202 78,204 Q94,204 98,212 Q70,218 38,216 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Mast -->
+  <line x1="58" y1="204" x2="58" y2="174" stroke="#5e1f0a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Battened junk sails (characteristic battens) -->
+  <path d="M58,176 Q44,180 40,190 Q50,190 58,188 Q66,190 72,190 Q68,180 58,176 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="42" y1="182" x2="70" y2="182" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="40" y1="187" x2="72" y2="187" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Pagoda silhouette (right, island) -->
+  <!-- Base tier -->
+  <rect x="218" y="200" width="40" height="16" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Middle tier -->
+  <rect x="224" y="188" width="28" height="14" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Top tier -->
+  <rect x="229" y="178" width="18" height="12" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pagoda eave flares -->
+  <path d="M215,200 L238,196 L261,200" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M221,188 L238,184 L255,188" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M226,178 L238,174 L250,178" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Spire -->
+  <line x1="238" y1="174" x2="238" y2="162" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Typhoon spiral (viewed from above, N hemisphere CCW spiral) -->
+  <!-- Outer band -->
+  <path d="M145,104 Q222,52 242,108 Q262,164 220,196 Q174,224 128,208 Q70,188 50,142 Q32,92 72,56 Q108,22 145,36 Q202,50 220,96" fill="none" stroke="#7f7f7f" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- Middle band -->
+  <path d="M145,104 Q198,68 212,104 Q226,142 198,168 Q170,192 136,182 Q94,166 80,136 Q66,104 90,78 Q114,54 145,64 Q192,76 204,108" fill="none" stroke="#b8b8b8" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Inner band -->
+  <path d="M145,104 Q176,84 184,106 Q192,130 170,146 Q148,162 128,154 Q104,144 102,120 Q100,96 120,84 Q136,74 145,84 Q166,92 172,112" fill="none" stroke="#7f7f7f" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Eye wall -->
+  <circle cx="145" cy="110" r="25" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Eye of typhoon -->
+  <circle cx="145" cy="110" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="110" r="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

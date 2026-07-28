@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Japanese cheesecake: TALL FLUFFY whole round cake, very light pale yellow, powdered sugar, Japanese flag -->
+  <!-- Plate / surface -->
+  <ellipse cx="145" cy="218" rx="115" ry="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Cake side wall - TALL profile for jiggly soufflé height -->
+  <path d="M 38,208 L 38,118 Q 38,96 145,90 Q 252,96 252,118 L 252,208 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottom ellipse edge of cake -->
+  <ellipse cx="145" cy="208" rx="107" ry="14" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Top surface - gently domed, fluffy look -->
+  <ellipse cx="145" cy="100" rx="107" ry="20" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Slight dome highlight - showing the jiggle puff -->
+  <path d="M 80,96 Q 145,78 210,96" fill="#efefef" stroke="none"/>
+  <!-- Light texture lines showing soufflé airy interior -->
+  <path d="M 40,140 Q 145,134 250,140" fill="none" stroke="#e6b98a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 40,160 Q 145,154 250,160" fill="none" stroke="#e6b98a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 40,180 Q 145,174 250,180" fill="none" stroke="#e6b98a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Wavy side edge to convey jiggly bounce -->
+  <path d="M 38,118 Q 44,122 38,128 Q 44,133 38,138" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 252,118 Q 246,122 252,128 Q 246,133 252,138" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Powdered sugar dusting on top - white dots cluster -->
+  <circle cx="118" cy="94" r="5" fill="#ffffff" stroke="none"/>
+  <circle cx="132" cy="88" r="4" fill="#ffffff" stroke="none"/>
+  <circle cx="148" cy="86" r="5" fill="#ffffff" stroke="none"/>
+  <circle cx="163" cy="90" r="4" fill="#ffffff" stroke="none"/>
+  <circle cx="175" cy="96" r="4" fill="#ffffff" stroke="none"/>
+  <circle cx="145" cy="96" r="3" fill="#ffffff" stroke="none"/>
+  <!-- Japanese flag accent - small red circle on white rectangle -->
+  <rect x="56" y="34" width="36" height="24" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="74" cy="46" r="8" fill="#d01424" stroke="none"/>
+  <!-- Flag pole -->
+  <line x1="56" y1="46" x2="40" y2="46" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- elephant head + ear, profile, with a big curling trunk = TRUNK -->
+<!-- large ear behind -->
+<path d="M 318 150 C 250 130 196 168 200 244 C 204 312 268 330 330 312 C 312 256 318 200 318 150 Z" fill="#8d949b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<path d="M 388 168 C 360 120 300 118 286 178 C 280 206 284 246 300 286 L 296 330 C 296 360 330 372 360 360 C 392 346 404 300 402 252 C 401 218 400 192 388 168 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- trunk: thick, curling down and forward (the highlighted part) -->
+<path d="M 300 300 C 300 360 270 392 226 404 C 182 416 142 404 124 372 C 138 388 176 392 206 380 C 240 366 256 336 256 300 C 256 284 256 270 260 258 C 272 248 292 252 300 270 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- trunk tip / nostrils -->
+<path d="M 124 372 C 116 360 120 346 134 342" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- trunk wrinkle rings -->
+<path d="M 296 318 Q 282 328 270 322" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 262 350 Q 248 364 232 360" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 206 380 Q 192 390 176 386" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- eye -->
+<circle cx="346" cy="222" r="12" fill="#1a1a1a"/>
+</svg>

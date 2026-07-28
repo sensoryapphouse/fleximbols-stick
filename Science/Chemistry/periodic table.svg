@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Periodic table grid: 18 columns wide, 7 rows. Cell size ~13x18, gap 1. -->
+  <!-- Layout: total width = 18*13 + 17*1 = 251; offset x=20. row height = 19; offset y=30. -->
+  <!-- Colors by group/block: alkali #d01424, alkaline #ff9900, transition #f2e40d, post-transition #b8b8b8, metalloid #67832d, nonmetal #3aa6a0, halogen #f266aa, noble #7c3fac -->
+
+  <!-- Row 1: H at col 1, He at col 18 -->
+  <rect x="20" y="30" width="13" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="258" y="30" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 2: cols 1-2 then gap then cols 13-18 -->
+  <rect x="20" y="49" width="13" height="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="34" y="49" width="13" height="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="49" width="13" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="49" width="13" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="49" width="13" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="216" y="49" width="13" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="230" y="49" width="13" height="18" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="258" y="49" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 3: cols 1-2 then gap then cols 13-18 -->
+  <rect x="20" y="68" width="13" height="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="34" y="68" width="13" height="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="68" width="13" height="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="68" width="13" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="68" width="13" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="216" y="68" width="13" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="230" y="68" width="13" height="18" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="258" y="68" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 4: all 18 cols filled -->
+  <rect x="20" y="87" width="13" height="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="34" y="87" width="13" height="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="48" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="62" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="76" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="104" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="146" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="87" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="87" width="13" height="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="87" width="13" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="216" y="87" width="13" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="230" y="87" width="13" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="244" y="87" width="13" height="18" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="258" y="87" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 5: all 18 cols -->
+  <rect x="20" y="106" width="13" height="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="34" y="106" width="13" height="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="48" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="62" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="76" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="104" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="146" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="106" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="106" width="13" height="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="106" width="13" height="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="216" y="106" width="13" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="230" y="106" width="13" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="244" y="106" width="13" height="18" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="258" y="106" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 6: all 18 cols. cols 3 is lanthanide marker -->
+  <rect x="20" y="125" width="13" height="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="34" y="125" width="13" height="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="48" y="125" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="62" y="125" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="76" y="125" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="125" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="104" y="125" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="125" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="125" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="146" y="125" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="125" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="125" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="125" width="13" height="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="125" width="13" height="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="216" y="125" width="13" height="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="230" y="125" width="13" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="244" y="125" width="13" height="18" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="258" y="125" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 7: all 18 cols. col 3 actinide marker -->
+  <rect x="20" y="144" width="13" height="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="34" y="144" width="13" height="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="48" y="144" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="62" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="76" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="104" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="146" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="216" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="230" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="244" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="258" y="144" width="13" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Lanthanide row (separated below) -->
+  <rect x="48" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="62" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="76" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="104" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="146" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="216" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="230" y="178" width="13" height="18" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Actinide row -->
+  <rect x="48" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="62" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="76" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="104" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="146" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="174" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="202" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="216" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="230" y="197" width="13" height="18" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

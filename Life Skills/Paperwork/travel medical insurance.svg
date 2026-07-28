@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- globe behind -->
+  <circle cx="220" cy="70" r="34" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M186 70 Q220 50 254 70 Q220 90 186 70 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <path d="M210 42 Q205 70 210 98" fill="none" stroke="#1a1a1a" stroke-width="3.95"/>
+  <path d="M230 42 Q235 70 230 98" fill="none" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- insurance card -->
+  <rect x="30" y="50" width="160" height="100" rx="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.92"/>
+  <rect x="30" y="62" width="160" height="16" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- medical cross on card -->
+  <rect x="48" y="92" width="14" height="42" fill="#d01424" stroke="#1a1a1a" stroke-width="4.94"/>
+  <rect x="34" y="106" width="42" height="14" fill="#d01424" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- card lines -->
+  <rect x="88" y="96" width="90" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="88" y="110" width="78" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="88" y="124" width="60" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- suitcase -->
+  <rect x="60" y="160" width="100" height="60" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.92"/>
+  <rect x="60" y="178" width="100" height="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="98" y="148" width="24" height="14" rx="3" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="104" y="190" width="12" height="14" rx="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- hospital icon (small building) -->
+  <rect x="190" y="138" width="70" height="76" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="218" y="158" width="10" height="30" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="208" y="168" width="30" height="10" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="200" y="194" width="16" height="20" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="232" y="194" width="16" height="14" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.95"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- renewal arrow loop -->
+  <path d="M 195 75 A 60 60 0 1 1 95 75" fill="none" stroke="#529929" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 80 88 L 95 75 L 108 90" fill="none" stroke="#529929" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 182 60 L 195 75 L 210 64" fill="none" stroke="#529929" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- clock in centre -->
+  <circle cx="145" cy="115" r="38" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="115" r="3" fill="#000000"/>
+  <path d="M 145 115 L 145 90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145 115 L 165 122" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- tick marks -->
+  <circle cx="145" cy="82" r="2" fill="#000000"/>
+  <circle cx="178" cy="115" r="2" fill="#000000"/>
+  <circle cx="145" cy="148" r="2" fill="#000000"/>
+  <circle cx="112" cy="115" r="2" fill="#000000"/>
+  <!-- checkbox -->
+  <rect x="35" y="180" width="32" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 41 196 L 50 205 L 62 187" fill="none" stroke="#529929" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- AUTO path -->
+  <!-- A -->
+  <path d="M 82 212 L 92 184 L 102 212 M 87 204 L 97 204" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- U -->
+  <path d="M 115 184 L 115 205 A 7 7 0 0 0 129 205 L 129 184" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- T -->
+  <path d="M 142 184 L 168 184 M 155 184 L 155 212" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <ellipse cx="188" cy="198" rx="10" ry="14" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- exclamation indicator -->
+  <circle cx="232" cy="198" r="20" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 232 188 L 232 200" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="232" cy="208" r="2" fill="#ffffff"/>
+</g></svg>

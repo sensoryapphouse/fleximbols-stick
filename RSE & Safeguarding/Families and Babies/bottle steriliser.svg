@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bottle sterilizer: wide appliance, domed lid (vents), multiple bottles inside, steam, UV/disinfect icon -->
+  <!-- Base/body of sterilizer -->
+  <rect x="35" y="130" width="220" height="80" rx="14" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Domed lid (transparent-ish blue) -->
+  <path d="M40 130 Q40 60 145 55 Q250 60 250 130 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lid steam vent on top -->
+  <rect x="135" y="50" width="20" height="8" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Steam puffs from vent -->
+  <path d="M140 50 Q137 40 142 30 Q146 25 144 18" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150 50 Q153 40 148 30 Q144 25 146 18" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bottle 1 inside -->
+  <rect x="65" y="90" width="28" height="60" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="71" y="80" width="16" height="12" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="73" y="72" width="12" height="10" rx="4" ry="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottle 2 inside (centre) -->
+  <rect x="131" y="85" width="28" height="65" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="137" y="75" width="16" height="12" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="139" y="67" width="12" height="10" rx="4" ry="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottle 3 inside -->
+  <rect x="197" y="90" width="28" height="60" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="203" y="80" width="16" height="12" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="205" y="72" width="12" height="10" rx="4" ry="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sterilizing rays/sparkles around bottles -->
+  <path d="M55 100 L48 95 M55 110 L48 115 M52 105 L45 105" fill="none" stroke="#f2e40d" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M115 80 L112 73 M120 78 L125 71 M118 85 L125 85" fill="none" stroke="#f2e40d" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M170 80 L173 73 M165 78 L160 71 M167 85 L160 85" fill="none" stroke="#f2e40d" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M235 100 L242 95 M235 110 L242 115 M238 105 L245 105" fill="none" stroke="#f2e40d" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Control panel: green indicator + power button -->
+  <rect x="55" y="175" width="180" height="22" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="80" cy="186" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="105" cy="186" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Power symbol on right -->
+  <circle cx="210" cy="186" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M210 181 L210 187" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M206 184 Q210 190 214 184" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Base feet -->
+  <rect x="50" y="205" width="20" height="10" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="220" y="205" width="20" height="10" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

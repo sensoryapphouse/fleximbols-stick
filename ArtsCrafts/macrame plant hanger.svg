@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ceiling hook -->
+  <rect x="138" y="8" width="14" height="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M145 16 L145 28" stroke="#1a1a1a" stroke-width="6.67" fill="none" stroke-linecap="round"/>
+  <circle cx="145" cy="32" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- top ring -->
+  <circle cx="145" cy="46" r="8" fill="none" stroke="#9d7246" stroke-width="8.89"/>
+  <!-- knotted cords forming hanger - left strand -->
+  <path d="M138 52 Q120 90 110 130 Q108 150 118 168" fill="none" stroke="#9d7246" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M152 52 Q170 90 180 130 Q182 150 172 168" fill="none" stroke="#9d7246" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M145 54 Q145 100 145 168" fill="none" stroke="#9d7246" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- knot beads -->
+  <circle cx="122" cy="90" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="90" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="100" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cross knots -->
+  <path d="M115 130 L145 145 L175 130" fill="none" stroke="#9d7246" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M115 145 L145 130 L175 145" fill="none" stroke="#9d7246" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="115" cy="138" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="138" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="138" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pot -->
+  <path d="M108 170 L182 170 L172 215 L118 215 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="105" y="166" width="80" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pot rim shadow -->
+  <path d="M115 180 L175 180" stroke="#5e1f0a" stroke-width="4.45" fill="none"/>
+  <!-- plant - leaves trailing -->
+  <path d="M145 166 Q140 140 125 130 Q115 125 110 135" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M145 166 Q150 140 165 130 Q175 125 180 135" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M145 166 Q145 130 145 110" fill="none" stroke="#67832d" stroke-width="6.67" stroke-linecap="round"/>
+  <ellipse cx="135" cy="115" rx="10" ry="6" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 135 115)"/>
+  <ellipse cx="155" cy="115" rx="10" ry="6" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 155 115)"/>
+  <ellipse cx="145" cy="105" rx="9" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- trailing tassel below pot -->
+  <path d="M145 215 L140 232" stroke="#9d7246" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M145 215 L150 232" stroke="#9d7246" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M145 215 L145 234" stroke="#9d7246" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

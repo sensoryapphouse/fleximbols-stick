@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- PiCom: 4x4 grid of vibrant paint-swatch squares on black -->
+  <defs>
+    <filter id="powdery" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/>
+      <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.18 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+      <feComposite in="SourceGraphic" operator="over"/>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="1024" height="1024" rx="184" ry="184" fill="#000000"/>
+  <!-- Grid of swatches. Cell pitch 232, swatch 196, gap 36, margin 64 -->
+  <g filter="url(#powdery)">
+    <!-- Row 1 -->
+    <rect x="64"  y="64"  width="196" height="196" rx="14" fill="#cf3a2a"/>
+    <rect x="296" y="64"  width="196" height="196" rx="14" fill="#ec1e6b"/>
+    <rect x="528" y="64"  width="196" height="196" rx="14" fill="#ef5b22"/>
+    <rect x="760" y="64"  width="196" height="196" rx="14" fill="#e98c70"/>
+    <!-- Row 2 -->
+    <rect x="64"  y="296" width="196" height="196" rx="14" fill="#5a2e6e"/>
+    <rect x="296" y="296" width="196" height="196" rx="14" fill="#b8336a"/>
+    <rect x="528" y="296" width="196" height="196" rx="14" fill="#e83c54"/>
+    <rect x="760" y="296" width="196" height="196" rx="14" fill="#e9a8b5"/>
+    <!-- Row 3 -->
+    <rect x="64"  y="528" width="196" height="196" rx="14" fill="#1f6fb0"/>
+    <rect x="296" y="528" width="196" height="196" rx="14" fill="#3aa1d9"/>
+    <rect x="528" y="528" width="196" height="196" rx="14" fill="#34a18a"/>
+    <rect x="760" y="528" width="196" height="196" rx="14" fill="#5ab8b3"/>
+    <!-- Row 4 -->
+    <rect x="64"  y="760" width="196" height="196" rx="14" fill="#7fb238"/>
+    <rect x="296" y="760" width="196" height="196" rx="14" fill="#c8d12c"/>
+    <rect x="528" y="760" width="196" height="196" rx="14" fill="#f0a91c"/>
+    <rect x="760" y="760" width="196" height="196" rx="14" fill="#f4d935"/>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Desk top (above tray) -->
+  <rect x="20" y="40" width="250" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="13.34"/>
+  <!-- Underside of desk -->
+  <rect x="20" y="54" width="250" height="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Slide rails (mounting) -->
+  <rect x="40" y="62" width="210" height="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11"/>
+  <line x1="80" y1="72" x2="80" y2="100" stroke="#1a1a1a" stroke-width="13.34"/>
+  <line x1="210" y1="72" x2="210" y2="100" stroke="#1a1a1a" stroke-width="13.34"/>
+  <!-- Sliding tray (the keyboard tray itself, pulled out) -->
+  <rect x="35" y="100" width="220" height="60" fill="#efefef" stroke="#1a1a1a" stroke-width="13.34" rx="4"/>
+  <!-- Keyboard on tray -->
+  <rect x="55" y="115" width="135" height="38" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="13.34" rx="3"/>
+  <!-- Keyboard keys (grid) -->
+  <rect x="60" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="72" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="84" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="96" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="108" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="120" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="144" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="156" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="168" y="120" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="60" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="72" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="84" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="96" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="108" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="120" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="144" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="156" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="168" y="130" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Spacebar -->
+  <rect x="80" y="142" width="80" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mousepad on tray -->
+  <rect x="200" y="115" width="45" height="38" fill="#90a7d6" stroke="#1a1a1a" stroke-width="11.11" rx="3"/>
+  <!-- Mouse on mousepad -->
+  <ellipse cx="222" cy="134" rx="11" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
+  <line x1="222" y1="122" x2="222" y2="132" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Mouse cable -->
+  <path d="M 222 122 Q 230 110 240 110" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Slide track indicator (arrows showing motion) -->
+  <path d="M 30 175 L 20 180 L 30 185 Z" fill="#529929" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M 260 175 L 270 180 L 260 185 Z" fill="#529929" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <line x1="30" y1="180" x2="260" y2="180" stroke="#529929" stroke-width="11.11" stroke-dasharray="4 3"/>
+</g></svg>

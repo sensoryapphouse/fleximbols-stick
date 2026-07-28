@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- legs (long, thin, splayed) -->
+<g fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round">
+<path d="M 240 250 Q 160 250 120 150"/>
+<path d="M 244 280 Q 150 300 110 250"/>
+<path d="M 246 310 Q 150 360 130 410"/>
+<path d="M 272 250 Q 352 250 392 150"/>
+<path d="M 268 280 Q 362 300 402 250"/>
+<path d="M 266 310 Q 362 360 382 410"/>
+</g>
+<!-- antennae -->
+<path d="M 248 196 Q 232 150 214 138" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 264 196 Q 280 150 298 138" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- wings -->
+<ellipse cx="206" cy="262" rx="60" ry="26" transform="rotate(-18 206 262)" fill="#fff6cf" stroke="#1a1a1a" stroke-width="7"/>
+<ellipse cx="306" cy="262" rx="60" ry="26" transform="rotate(18 306 262)" fill="#fff6cf" stroke="#1a1a1a" stroke-width="7"/>
+<!-- head -->
+<circle cx="256" cy="200" r="20" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- long thin body -->
+<path d="M 256 218 Q 240 300 256 360 Q 272 300 256 218 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Concert flute: silver cylindrical tube, full key mechanism, head-joint cap, embouchure plate -->
+
+  <!-- Main tube body (three sections) -->
+  <rect x="28" y="128" width="232" height="14" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.90" stroke-linejoin="round"/>
+
+  <!-- Head joint cap (closed left end — flat disc, distinctive feature) -->
+  <ellipse cx="28" cy="135" rx="7" ry="11" fill="#efefef" stroke="#1a1a1a" stroke-width="7.90"/>
+
+  <!-- Section joint rings (where head/body/foot joints meet) -->
+  <rect x="87" y="126" width="5" height="18" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="206" y="126" width="5" height="18" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.95"/>
+
+  <!-- Lip plate (embouchure plate — raised oval platform on head joint) -->
+  <ellipse cx="58" cy="128" rx="13" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Embouchure hole (blowing hole in lip plate) -->
+  <ellipse cx="58" cy="128" rx="6" ry="3" fill="#4d4d4d" stroke="none"/>
+
+  <!-- Key mechanism back rod (connects the key cluster) -->
+  <line x1="92" y1="142" x2="203" y2="142" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- BODY JOINT KEYS — 8 key cups above the tube -->
+  <!-- B key -->
+  <line x1="100" y1="128" x2="100" y2="118" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="100" cy="115" rx="8" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- Bb trill key (smaller) -->
+  <line x1="114" y1="128" x2="114" y2="119" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="114" cy="116" rx="6" ry="3.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- A key -->
+  <line x1="128" y1="128" x2="128" y2="116" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="128" cy="113" rx="8" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- G# key -->
+  <line x1="142" y1="128" x2="142" y2="117" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="142" cy="114" rx="7" ry="3.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- G key (slightly larger) -->
+  <line x1="156" y1="128" x2="156" y2="115" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="156" cy="112" rx="9" ry="4.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- F# key -->
+  <line x1="170" y1="128" x2="170" y2="116" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="170" cy="113" rx="7" ry="3.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- F key -->
+  <line x1="184" y1="128" x2="184" y2="116" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="184" cy="113" rx="7" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- E key -->
+  <line x1="196" y1="128" x2="196" y2="117" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="196" cy="114" rx="6" ry="3.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- FOOT JOINT KEYS — 3 keys for low notes -->
+  <!-- D# / Eb key -->
+  <line x1="216" y1="128" x2="216" y2="117" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="216" cy="114" rx="7" ry="3.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- D key -->
+  <line x1="230" y1="128" x2="230" y2="115" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="230" cy="112" rx="8" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- C# key -->
+  <line x1="244" y1="128" x2="244" y2="117" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="244" cy="114" rx="6" ry="3.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <!-- THUMB KEYS (below tube, right-hand thumb, open-key cluster) -->
+  <line x1="142" y1="142" x2="142" y2="152" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="142" cy="155" rx="7" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+
+  <line x1="158" y1="142" x2="158" y2="150" stroke="#7f7f7f" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="158" cy="153" rx="6" ry="3.5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sword leaves -->
+  <path d="M145 220 Q128 185 122 145" fill="none" stroke="#529929" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M145 220 Q162 185 168 145" fill="none" stroke="#529929" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- stem -->
+  <line x1="145" y1="145" x2="145" y2="220" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- 3 downward-curving falls -->
+  <!-- fall left -->
+  <path d="M145 128 Q112 128 98 148 Q100 165 118 162 Q135 145 145 135" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- fall right -->
+  <path d="M145 128 Q178 128 192 148 Q190 165 172 162 Q155 145 145 135" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- fall centre-front -->
+  <path d="M132 138 Q128 155 145 168 Q162 155 158 138 Q152 132 145 130 Q138 132 132 138Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- yellow beard on falls -->
+  <ellipse cx="120" cy="143" rx="10" ry="5" transform="rotate(-30 120 143)" fill="#f7de58" stroke="#1a1a1a" stroke-width="1.78"/>
+  <ellipse cx="170" cy="143" rx="10" ry="5" transform="rotate(30 170 143)" fill="#f7de58" stroke="#1a1a1a" stroke-width="1.78"/>
+  <ellipse cx="145" cy="152" rx="8" ry="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- 3 upright standards -->
+  <!-- standard left -->
+  <path d="M145 130 Q118 115 110 85 Q120 65 135 80 Q142 100 145 115" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- standard right -->
+  <path d="M145 130 Q172 115 180 85 Q170 65 155 80 Q148 100 145 115" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- standard centre -->
+  <path d="M137 100 Q138 72 145 58 Q152 72 153 100 Q150 115 145 120 Q140 115 137 100Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

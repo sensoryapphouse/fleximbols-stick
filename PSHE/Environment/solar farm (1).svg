@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky/ground -->
+  <line x1="20" y1="190" x2="270" y2="190" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- sun -->
+  <circle cx="230" cy="45" r="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="230" y1="15" x2="230" y2="8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="252" y1="23" x2="257" y2="18" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="260" y1="45" x2="267" y2="45" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="252" y1="67" x2="257" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="208" y1="23" x2="203" y2="18" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- panel 1 (left) -->
+  <polygon points="30,175 90,162 90,130 30,143" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="30" y1="155" x2="90" y2="142" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="60" y1="130" x2="60" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <polygon points="32,145 58,140 58,153 32,158" fill="#dff3fd" stroke="none"/>
+  <polygon points="62,140 88,135 88,148 62,153" fill="#90a7d6" stroke="none"/>
+  <polygon points="32,160 58,155 58,168 32,173" fill="#90a7d6" stroke="none"/>
+  <polygon points="62,155 88,150 88,163 62,168" fill="#dff3fd" stroke="none"/>
+  <line x1="60" y1="175" x2="60" y2="190" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="45" y1="190" x2="75" y2="190" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- panel 2 (middle) -->
+  <polygon points="110,172 170,159 170,127 110,140" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="110" y1="152" x2="170" y2="139" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="140" y1="127" x2="140" y2="172" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <polygon points="112,142 138,137 138,150 112,155" fill="#dff3fd" stroke="none"/>
+  <polygon points="142,137 168,132 168,145 142,150" fill="#90a7d6" stroke="none"/>
+  <polygon points="112,157 138,152 138,165 112,170" fill="#90a7d6" stroke="none"/>
+  <polygon points="142,152 168,147 168,160 142,165" fill="#dff3fd" stroke="none"/>
+  <line x1="140" y1="172" x2="140" y2="190" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="125" y1="190" x2="155" y2="190" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- panel 3 (right) -->
+  <polygon points="190,168 250,155 250,123 190,136" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="190" y1="148" x2="250" y2="135" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="220" y1="123" x2="220" y2="168" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <polygon points="192,138 218,133 218,146 192,151" fill="#dff3fd" stroke="none"/>
+  <polygon points="222,133 248,128 248,141 222,146" fill="#90a7d6" stroke="none"/>
+  <polygon points="192,153 218,148 218,161 192,166" fill="#90a7d6" stroke="none"/>
+  <polygon points="222,148 248,143 248,156 222,161" fill="#dff3fd" stroke="none"/>
+  <line x1="220" y1="168" x2="220" y2="190" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="205" y1="190" x2="235" y2="190" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- grass -->
+  <line x1="20" y1="190" x2="270" y2="190" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

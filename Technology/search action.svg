@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Document being searched -->
+  <rect x="40" y="30" width="140" height="175" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Document fold corner -->
+  <polyline points="140,30 180,30 180,205 40,205 40,30 140,30 140,65 180,65" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Document lines -->
+  <line x1="60" y1="90" x2="145" y2="90" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="60" y1="110" x2="145" y2="110" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="60" y1="130" x2="130" y2="130" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="60" y1="150" x2="140" y2="150" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Focus/highlight band over middle of document (scanning) -->
+  <rect x="40" y="100" width="140" height="30" rx="4" fill="#f7de58" stroke="none"/>
+  <!-- Magnifying glass (bold, over document) -->
+  <!-- Glass circle -->
+  <circle cx="185" cy="130" r="45" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.66"/>
+  <circle cx="185" cy="130" r="35" fill="none" stroke="#1a1a1a" stroke-width="8.88"/>
+  <!-- Handle -->
+  <line x1="218" y1="163" x2="248" y2="200" stroke="#1a1a1a" stroke-width="12.22" stroke-linecap="round"/>
+  <!-- Inner highlight to suggest active search motion -->
+  <circle cx="172" cy="118" r="10" fill="#ffffff" stroke="none"/>
+</g></svg>

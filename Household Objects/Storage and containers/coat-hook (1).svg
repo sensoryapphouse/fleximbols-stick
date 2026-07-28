@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- mounting board -->
+<rect x="150" y="120" width="212" height="60" rx="12" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="178" cy="150" r="7" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="334" cy="150" r="7" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="5"/>
+<!-- hooks (J-shaped) -->
+<path d="M 210 180 L 210 206 Q 210 224 192 224" fill="none" stroke="#9aa0a6" stroke-width="11" stroke-linecap="round"/>
+<path d="M 302 180 L 302 206 Q 302 224 320 224" fill="none" stroke="#9aa0a6" stroke-width="11" stroke-linecap="round"/>
+<!-- coat hanging on left hook -->
+<path d="M 188 224 Q 196 214 206 224" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 197 218 L 197 236" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- coat body -->
+<path d="M 197 236 L 150 280 L 174 300 L 188 286 L 188 392 Q 188 402 198 402 L 252 402 Q 262 402 262 392 L 262 286 L 276 300 L 300 280 L 232 232 Q 214 250 197 236 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- coat centre seam + buttons -->
+<line x1="225" y1="262" x2="225" y2="396" stroke="#2e618a" stroke-width="6" stroke-linecap="round"/>
+<circle cx="225" cy="300" r="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="225" cy="338" r="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="225" cy="376" r="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="4"/>
+</g></svg>

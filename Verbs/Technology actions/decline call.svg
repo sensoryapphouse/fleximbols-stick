@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- phone body -->
+  <rect x="70" y="30" width="150" height="180" rx="18" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="82" y="48" width="126" height="144" rx="4" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="130" y="38" width="30" height="5" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="145" cy="201" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- incoming call handset, tipped/cancelled -->
+  <g transform="translate(145 120) rotate(135)">
+    <path d="M-38 -10 Q-38 -22 -26 -22 L-12 -22 Q0 -22 4 -10 L8 4 Q10 14 0 18 L-8 22 Q4 38 18 42 L22 34 Q28 26 38 28 L52 32 Q64 36 64 48 L64 60 Q64 72 52 72 Q0 72 -38 28 Q-38 -10 -38 -10 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- big red X across handset -->
+  <circle cx="225" cy="55" r="30" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M210 40 L240 70" fill="none" stroke="#ffffff" stroke-width="10.36" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 40 L210 70" fill="none" stroke="#ffffff" stroke-width="10.36" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

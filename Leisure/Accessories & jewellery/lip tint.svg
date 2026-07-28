@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lip tint bottle (small slim bottle) -->
+  <!-- Bottle body - sheer/pink, tint -->
+  <path d="M85 110 Q85 100 95 100 L135 100 Q145 100 145 110 L145 215 Q145 222 138 222 L92 222 Q85 222 85 215 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Inner sheer tint window -->
+  <rect x="93" y="115" width="44" height="90" rx="3" ry="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sheer highlight -->
+  <line x1="100" y1="125" x2="100" y2="195" stroke="#ffffff" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="100" y="88" width="30" height="14" rx="2" ry="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Cap -->
+  <rect x="95" y="58" width="40" height="30" rx="3" ry="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Cap highlight -->
+  <line x1="103" y1="64" x2="103" y2="82" stroke="#f4a4b2" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Sheer-colour swatch (natural look - soft, translucent on a lip shape suggesting natural finish) -->
+  <!-- Natural lip shape (showing tinted, sheer look) -->
+  <path d="M170 130 Q180 120 195 120 Q205 120 215 128 Q225 120 235 120 Q250 120 260 130 Q265 138 255 148 Q240 158 215 158 Q190 158 175 148 Q165 138 170 130 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Cupid's bow accent -->
+  <path d="M215 128 Q215 134 215 138" fill="none" stroke="#f266aa" stroke-width="3.56"/>
+  <!-- Sheer tint sparkle (natural look indicator) -->
+  <path d="M195 105 L198 112 L205 113 L200 117 L201 124 L195 120 L189 124 L190 117 L185 113 L192 112 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <!-- Sheer wash droplet -->
+  <ellipse cx="240" cy="105" rx="5" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="240" cy="105" rx="2" ry="3" fill="#ffffff"/>
+  <!-- Subtle natural cheek dot -->
+  <circle cx="180" cy="178" r="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="250" cy="178" r="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

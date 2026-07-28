@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- hourglass outer frame top bar -->
+  <rect x="72" y="22" width="106" height="14" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- hourglass outer frame bottom bar -->
+  <rect x="72" y="204" width="106" height="14" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- hourglass glass body (upper chamber) -->
+  <path d="M78,36 L172,36 L145,118 L105,118 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- hourglass glass body (lower chamber) -->
+  <path d="M105,122 L145,122 L172,204 L78,204 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- sand in upper chamber (mostly empty — time nearly run) -->
+  <path d="M112,100 L138,100 L145,118 L105,118 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- sand in lower chamber (mostly full) -->
+  <path d="M105,122 L145,122 L168,196 L82,196 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- sand trickle through neck -->
+  <line x1="125" y1="118" x2="125" y2="122" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="130" y1="118" x2="130" y2="122" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="135" y1="118" x2="135" y2="122" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- hourglass neck waist highlight -->
+  <ellipse cx="125" cy="120" rx="22" ry="5" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- sprout to the right of hourglass -->
+  <!-- soil mound -->
+  <ellipse cx="222" cy="198" rx="38" ry="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- main stem -->
+  <path d="M222,198 Q222,165 222,140" fill="none" stroke="#529929" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- gentle curve to stem (calm, unhurried) -->
+  <path d="M222,198 Q224,170 222,140" fill="none" stroke="#529929" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- left leaf -->
+  <path d="M222,168 Q200,155 196,140 Q210,138 222,155" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right leaf -->
+  <path d="M222,155 Q244,142 250,128 Q236,128 222,143" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tiny bud at top -->
+  <circle cx="222" cy="136" r="9" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="222" cy="129" rx="6" ry="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- calm dot accents around neck of hourglass -->
+  <circle cx="95" cy="120" r="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="155" cy="120" r="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

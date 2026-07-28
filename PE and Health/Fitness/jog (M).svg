@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0779) translate(-250.00 -272.00)">
+<line x1="64" y1="455" x2="448" y2="455" stroke="#9a6a3a" stroke-width="7" stroke-linecap="round"/>
+<!-- back leg: thigh back, lower leg bent up off ground -->
+<line x1="262" y1="305" x2="214" y2="372" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<line x1="214" y1="372" x2="246" y2="404" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="252" cy="408" rx="13" ry="7" fill="#33373d"/>
+<!-- front leg: knee driven up and forward, foot off ground -->
+<line x1="270" y1="305" x2="320" y2="338" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<line x1="320" y1="338" x2="316" y2="392" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="320" cy="396" rx="13" ry="7" fill="#33373d"/>
+<!-- torso leaning slightly forward -->
+<polygon points="238,197 302,201 296,305 234,305" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- back arm bent backward -->
+<line x1="244" y1="205" x2="214" y2="240" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<line x1="214" y1="240" x2="240" y2="262" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<!-- front arm bent forward -->
+<line x1="298" y1="205" x2="330" y2="238" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<line x1="330" y1="238" x2="312" y2="266" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<!-- neck -->
+<line x1="270" y1="199" x2="272" y2="168" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" class="skin" cx="272" cy="130" r="40" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 232.0 130.0 Q 232.0 80.0 272.0 80.0 Q 312.0 80.0 312.0 130.0 Q 272.0 103.0 232.0 130.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- grey motion lines only (no heart, no speed arrow) -->
+<line x1="150" y1="226" x2="92" y2="226" stroke="#8a93a0" stroke-width="10" stroke-linecap="round"/>
+<line x1="150" y1="252" x2="76" y2="252" stroke="#8a93a0" stroke-width="10" stroke-linecap="round"/>
+<line x1="150" y1="278" x2="92" y2="278" stroke="#8a93a0" stroke-width="10" stroke-linecap="round"/>
+</g></svg>

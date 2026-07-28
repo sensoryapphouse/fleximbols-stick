@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Diwali: row of oil-lamp diyas + fireworks + Rangoli below -->
+  <!-- Fireworks in sky -->
+  <g>
+    <circle cx="55" cy="35" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+    <path d="M55 35 L55 20 M55 35 L55 50 M55 35 L40 35 M55 35 L70 35 M55 35 L45 25 M55 35 L65 25 M55 35 L45 45 M55 35 L65 45" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+    <circle cx="40" cy="20" r="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22"/>
+    <circle cx="70" cy="20" r="2" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.22"/>
+    <circle cx="40" cy="50" r="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22"/>
+    <circle cx="70" cy="50" r="2" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.22"/>
+  </g>
+  <g>
+    <circle cx="235" cy="35" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+    <path d="M235 35 L235 20 M235 35 L235 50 M235 35 L220 35 M235 35 L250 35 M235 35 L225 25 M235 35 L245 25 M235 35 L225 45 M235 35 L245 45" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+    <circle cx="220" cy="20" r="2" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.22"/>
+    <circle cx="250" cy="20" r="2" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.22"/>
+    <circle cx="220" cy="50" r="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22"/>
+    <circle cx="250" cy="50" r="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22"/>
+  </g>
+  <g>
+    <circle cx="145" cy="20" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+    <path d="M145 20 L135 10 M145 20 L155 10 M145 20 L130 20 M145 20 L160 20 M145 20 L135 30 M145 20 L155 30" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Row of oil-lamp diyas (4 diyas) -->
+  <!-- Diya 1 -->
+  <g>
+    <ellipse cx="50" cy="120" rx="22" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+    <ellipse cx="50" cy="115" rx="20" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M68 115 L78 110" stroke="#f7de58" stroke-width="6.67" stroke-linecap="round"/>
+    <!-- Flame -->
+    <path d="M50 100 Q45 90 50 75 Q55 90 50 100 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M50 95 Q48 88 50 82 Q52 88 50 95 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+  <!-- Diya 2 -->
+  <g>
+    <ellipse cx="115" cy="125" rx="22" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+    <ellipse cx="115" cy="120" rx="20" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M133 120 L143 115" stroke="#f7de58" stroke-width="6.67" stroke-linecap="round"/>
+    <path d="M115 105 Q110 95 115 80 Q120 95 115 105 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M115 100 Q113 93 115 87 Q117 93 115 100 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+  <!-- Diya 3 -->
+  <g>
+    <ellipse cx="180" cy="125" rx="22" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+    <ellipse cx="180" cy="120" rx="20" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M198 120 L208 115" stroke="#f7de58" stroke-width="6.67" stroke-linecap="round"/>
+    <path d="M180 105 Q175 95 180 80 Q185 95 180 105 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M180 100 Q178 93 180 87 Q182 93 180 100 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+  <!-- Diya 4 -->
+  <g>
+    <ellipse cx="245" cy="120" rx="22" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+    <ellipse cx="245" cy="115" rx="20" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M263 115 L273 110" stroke="#f7de58" stroke-width="6.67" stroke-linecap="round"/>
+    <path d="M245 100 Q240 90 245 75 Q250 90 245 100 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M245 95 Q243 88 245 82 Q247 88 245 95 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+  <!-- Rangoli pattern below (circular floor decoration) -->
+  <circle cx="145" cy="195" r="35" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="145" cy="195" r="25" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="195" r="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rangoli petals -->
+  <path d="M145 160 L150 175 L145 180 L140 175 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M145 230 L150 215 L145 210 L140 215 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M110 195 L125 200 L130 195 L125 190 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M180 195 L165 200 L160 195 L165 190 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Centre dot -->
+  <circle cx="145" cy="195" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- foundation stick (deodorant-shaped) on left -->
+  <!-- cap removed (sitting beside) -->
+  <path d="M170 150 L228 150 L228 210 Q228 218 220 218 L178 218 Q170 218 170 210 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cap highlight -->
+  <path d="M176 162 L176 200" fill="none" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- stick base (twist-up tube body) -->
+  <path d="M52 60 L130 60 L130 218 Q130 224 124 224 L58 224 Q52 224 52 218 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- twist dial -->
+  <rect x="50" y="200" width="82" height="14" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M60 207 L62 207 M70 207 L72 207 M80 207 L82 207 M90 207 L92 207 M100 207 L102 207 M110 207 L112 207 M120 207 L122 207" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- collar between tube and stick -->
+  <rect x="52" y="54" width="78" height="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- exposed foundation product (slanted top, like deodorant) -->
+  <path d="M52 56 L130 56 L130 30 Q130 22 122 22 L60 32 Q52 36 52 50 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- shine on product -->
+  <path d="M64 38 L68 50" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- swatch under the stick -->
+  <path d="M148 80 Q190 70 232 80 Q238 86 232 92 Q190 102 148 92 Q142 86 148 80 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M160 84 Q190 80 220 84" fill="none" stroke="#9d7246" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- skin tone swatch strip (replaces STICK text) -->
+  <rect x="170" y="188" width="90" height="12" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="170" y="188" width="22" height="12" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="192" y="188" width="22" height="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="214" y="188" width="22" height="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="236" y="188" width="22" height="12" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

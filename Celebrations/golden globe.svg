@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- base -->
+  <rect x="100" y="200" width="90" height="20" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <rect x="115" y="183" width="60" height="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- stem/stand -->
+  <path d="M138 130 L152 130 L158 184 L132 184 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- support arm cradling globe -->
+  <path d="M115 110 Q145 95 175 110" fill="none" stroke="#f2e40d" stroke-width="14.23" stroke-linecap="round"/>
+  <path d="M115 110 Q145 95 175 110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- golden globe orb -->
+  <circle cx="145" cy="80" r="38" fill="#fff200" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- globe latitude lines -->
+  <ellipse cx="145" cy="80" rx="38" ry="13" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="145" cy="80" rx="13" ry="38" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- continent shapes -->
+  <path d="M125 70 Q133 65 138 72 Q140 80 132 85 Q122 82 125 70 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M152 75 Q165 73 168 85 Q160 95 150 92 Q148 82 152 75 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <!-- ribbon draped across base -->
+  <path d="M90 200 L115 215 L145 207 L175 215 L200 200 L195 225 L160 220 L130 222 L95 222 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- star above globe -->
+  <path d="M145 18 L149 30 L162 30 L152 38 L156 50 L145 43 L134 50 L138 38 L128 30 L141 30 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+</g></svg>

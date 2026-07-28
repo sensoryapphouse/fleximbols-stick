@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Single ceremonial candle on a holder with flame -->
+  <!-- Holder base plate -->
+  <ellipse cx="145" cy="210" rx="48" ry="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Holder stem -->
+  <rect x="138" y="188" width="14" height="26" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Holder cup (drip catch) -->
+  <path d="M122 192 Q145 184 168 192 Q168 202 145 204 Q122 202 122 192 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Candle body -->
+  <rect x="128" y="80" width="34" height="112" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wax drip left -->
+  <path d="M128 110 Q120 122 124 132 Q128 132 128 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wax drip right -->
+  <path d="M162 98 Q170 110 166 122 Q162 122 162 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wick -->
+  <line x1="145" y1="80" x2="145" y2="68" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Flame outer (large, warm) -->
+  <path d="M145 68 Q128 52 132 36 Q138 18 145 24 Q152 18 158 36 Q162 52 145 68 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Flame inner (bright yellow) -->
+  <path d="M145 64 Q134 50 137 38 Q141 28 145 32 Q149 28 153 38 Q156 50 145 64 Z" fill="#f7de58" stroke="none"/>
+  <!-- Flame core (white hot) -->
+  <ellipse cx="145" cy="52" rx="5" ry="8" fill="#ffffff"/>
+</g></svg>

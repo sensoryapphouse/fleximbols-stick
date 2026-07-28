@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- donut-chocolate: round donut with hole, dark chocolate frosting, chocolate drizzle -->
+  <!-- Donut body -->
+  <circle cx="145" cy="130" r="98" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Donut hole -->
+  <circle cx="145" cy="130" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Dark chocolate frosting layer on top -->
+  <path d="M 47,130 Q 47,62 145,62 Q 243,62 243,130 Q 200,100 145,98 Q 90,100 47,130 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Frosting inner edge around hole -->
+  <path d="M 107,130 Q 107,100 145,98 Q 183,100 183,130 Q 175,112 145,110 Q 115,112 107,130 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Chocolate sheen highlight -->
+  <path d="M 85,90 Q 120,80 155,82" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Chocolate drizzle lines across top -->
+  <path d="M 78,88 Q 90,78 102,90 Q 114,78 126,90 Q 138,78 150,90 Q 162,78 174,90 Q 186,78 198,90 Q 210,80 218,92" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 90,100 Q 105,90 120,102 Q 140,92 155,104 Q 170,93 185,105 Q 196,95 208,106" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Small chocolate drizzle drip off the edge -->
+  <path d="M 130,63 Q 128,56 127,48 Q 128,44 130,50 Q 134,58 136,63" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M 160,63 Q 162,54 163,46 Q 164,42 165,48 Q 164,56 162,63" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+</g></svg>

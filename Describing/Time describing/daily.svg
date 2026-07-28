@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="72.73 66.75 366.55 366.55" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- daily: one day-cycle loop with sun + moon = once each day, repeating -->
+<g>
+<!-- circular cycle arrow (one filled band) -->
+<path d="M 123.2 178.1 L 115.5 193.0 L 109.4 208.7 L 105.2 225.0 L 102.7 241.6 L 102.0 258.4 L 103.2 275.2 L 106.2 291.7 L 111.0 307.8 L 117.5 323.3 L 125.7 338.0 L 135.4 351.7 L 146.5 364.3 L 159.0 375.6 L 172.6 385.5 L 187.2 393.8 L 202.7 400.5 L 218.7 405.4 L 235.2 408.6 L 252.0 409.9 L 268.8 409.5 L 285.5 407.2 L 301.8 403.0 L 317.5 397.2 L 332.5 389.6 L 346.6 380.5 L 359.7 369.9 L 371.5 357.9 L 381.9 344.7 L 390.8 330.4 L 398.1 315.3 L 403.7 299.5 L 407.6 283.1 L 409.6 266.4 L 409.9 249.6 L 408.3 232.9 L 404.8 216.4 L 399.6 200.4 L 392.7 185.1 L 384.2 170.6 L 374.1 157.1 L 362.6 144.9 L 349.9 133.9 L 336.0 124.4 L 321.2 116.5 L 305.6 110.2 L 289.4 105.7 L 272.8 102.9 L 256.0 102.0 L 256.0 90.0 L 228.1 112.7 L 256.0 130.0 L 256.0 118.0 L 271.0 118.8 L 285.9 121.3 L 300.4 125.3 L 314.4 131.0 L 327.7 138.1 L 340.1 146.6 L 351.5 156.4 L 361.8 167.4 L 370.8 179.5 L 378.5 192.5 L 384.7 206.2 L 389.4 220.5 L 392.4 235.3 L 393.9 250.3 L 393.7 265.3 L 391.8 280.3 L 388.4 294.9 L 383.4 309.1 L 376.8 322.7 L 368.8 335.5 L 359.5 347.3 L 348.9 358.0 L 337.2 367.6 L 324.6 375.8 L 311.1 382.5 L 297.0 387.8 L 282.4 391.5 L 267.5 393.5 L 252.4 394.0 L 237.4 392.7 L 222.6 389.9 L 208.2 385.5 L 194.4 379.5 L 181.3 372.0 L 169.1 363.2 L 157.9 353.1 L 147.9 341.8 L 139.2 329.5 L 131.9 316.3 L 126.1 302.4 L 121.8 288.0 L 119.1 273.2 L 118.0 258.1 L 118.6 243.1 L 120.8 228.2 L 124.7 213.6 L 130.1 199.6 L 137.0 186.2 Z" fill="#2f9e4a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- sun at top (day) -->
+<g>
+<g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round">
+<line x1="256" y1="150" x2="256" y2="128"/>
+<line x1="220" y1="160" x2="208" y2="142"/>
+<line x1="292" y1="160" x2="304" y2="142"/>
+</g>
+<circle cx="256" cy="200" r="48" fill="#ffd23f" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<!-- moon at bottom (night) -->
+<path d="M 268 372 A 44 44 0 1 0 268 300 A 34 34 0 0 1 268 372 Z" fill="#bcd2e6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="220" cy="306" r="3.5" fill="#1a1a1a"/>
+<circle cx="200" cy="338" r="3.5" fill="#1a1a1a"/>
+<circle cx="226" cy="356" r="3.5" fill="#1a1a1a"/>
+</g>
+</svg>

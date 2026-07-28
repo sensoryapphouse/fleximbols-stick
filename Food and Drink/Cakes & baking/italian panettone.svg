@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate/board -->
+  <ellipse cx="145" cy="210" rx="115" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Fluted paper base/mold -->
+  <path d="M88 175 L82 210 L208 210 L202 175 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Fluted base vertical lines -->
+  <line x1="100" y1="176" x2="95" y2="208" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="115" y1="175" x2="111" y2="208" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="130" y1="175" x2="127" y2="208" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="175" x2="145" y2="208" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="175" x2="163" y2="208" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="175" y1="175" x2="179" y2="208" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="190" y1="176" x2="195" y2="208" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Main dome loaf body -->
+  <path d="M82 178 Q84 90 145 58 Q206 90 208 178 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Golden baked top highlight -->
+  <path d="M110 130 Q145 70 180 130" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dried fruit specks in bread -->
+  <circle cx="118" cy="148" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="135" r="5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="150" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="165" r="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="158" cy="162" r="5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="115" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="120" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="110" r="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Slice cut to the right of center -->
+  <path d="M175 178 L175 90 Q190 120 208 178 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Fruit specks in slice interior -->
+  <circle cx="186" cy="155" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="193" cy="140" r="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="188" cy="168" r="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <linearGradient id="fruG" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#3a6ab6"/>
+    <stop offset="40%" stop-color="#7aaae8"/>
+    <stop offset="60%" stop-color="#5a8ad6"/>
+    <stop offset="100%" stop-color="#3a6ab6"/>
+  </linearGradient>
+</defs>
+<path d="M85 50 L205 50 L245 215 L45 215 Z" fill="url(#fruG)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="145" cy="50" rx="60" ry="14" fill="#a8c8f0" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M45 215 A100 22 0 0 0 245 215" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M45 215 A100 22 0 0 1 245 215" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5 4" opacity="0.6"/>
+</svg>

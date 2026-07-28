@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Magnetic pushpin: round-headed pin with magnetic ring base on metal surface with field lines -->
+  <!-- Metal surface (whiteboard/fridge surface) -->
+  <rect x="30" y="170" width="230" height="48" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Surface sheen -->
+  <rect x="30" y="170" width="230" height="14" rx="6" ry="6" fill="#ffffff" stroke="none"/>
+  <!-- Magnetic ring base (ring of magnet around the spike base) -->
+  <ellipse cx="145" cy="176" rx="36" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- Magnet ring inner cutout -->
+  <ellipse cx="145" cy="174" rx="18" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Magnet ring colour bands (N/S poles) -->
+  <path d="M 109 176 Q 109 165 127 162" fill="none" stroke="#f8130d" stroke-width="7.61" stroke-linecap="round"/>
+  <path d="M 181 176 Q 181 165 163 162" fill="none" stroke="#2a4ec0" stroke-width="7.61" stroke-linecap="round"/>
+  <!-- Spike -->
+  <rect x="140" y="138" width="10" height="40" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Ball head -->
+  <circle cx="145" cy="92" r="50" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- Sphere highlight -->
+  <ellipse cx="128" cy="72" rx="16" ry="12" fill="#f4a4b2" stroke="none" transform="rotate(-20 128 72)"/>
+  <ellipse cx="123" cy="66" rx="7" ry="5" fill="#ffffff" stroke="none" transform="rotate(-20 123 66)"/>
+  <!-- Depth shading -->
+  <path d="M 168 126 Q 192 108 188 84" fill="none" stroke="#392170" stroke-width="6.34" stroke-linecap="round"/>
+  <!-- Magnetic field arc lines radiating out from base -->
+  <!-- Left arcs -->
+  <path d="M 80 176 Q 60 148 80 124" fill="none" stroke="#4d4d4d" stroke-width="3.81" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <path d="M 62 180 Q 36 148 62 112" fill="none" stroke="#4d4d4d" stroke-width="3.18" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <!-- Right arcs -->
+  <path d="M 210 176 Q 230 148 210 124" fill="none" stroke="#4d4d4d" stroke-width="3.81" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <path d="M 228 180 Q 254 148 228 112" fill="none" stroke="#4d4d4d" stroke-width="3.18" stroke-linecap="round" stroke-dasharray="4,4"/>
+</g></svg>

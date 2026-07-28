@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Sturdy trunk -->
+  <rect x="126" y="150" width="38" height="63" rx="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Trunk texture -->
+  <line x1="135" y1="155" x2="135" y2="208" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="153" x2="145" y2="208" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="156" y1="155" x2="156" y2="208" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Broad dome canopy (palmate-leaf hint: slightly lobed edges via path) -->
+  <path d="M145,48 Q175,48 205,62 Q235,78 240,105 Q245,130 225,150 Q205,165 175,168 Q160,172 145,172 Q130,172 115,168 Q85,165 65,150 Q45,130 50,105 Q55,78 85,62 Q115,48 145,48 Z" fill="#529929" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Inner canopy -->
+  <ellipse cx="145" cy="110" rx="72" ry="52" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="145" cy="100" rx="56" ry="40" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Spiky green seed burrs — circles with spike lines around them -->
+  <!-- Burr 1 -->
+  <circle cx="110" cy="140" r="10" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="110" y1="128" x2="110" y2="123" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="121" y1="132" x2="125" y2="128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="122" y1="143" x2="127" y2="143" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="118" y1="151" x2="121" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="150" x2="97" y2="154" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="98" y1="141" x2="93" y2="141" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="131" x2="96" y2="127" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Burr 2 -->
+  <circle cx="145" cy="148" r="10" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="145" y1="136" x2="145" y2="131" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="156" y1="140" x2="160" y2="136" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="157" y1="151" x2="162" y2="151" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="153" y1="159" x2="156" y2="163" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="135" y1="158" x2="132" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="133" y1="149" x2="128" y2="149" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="135" y1="140" x2="131" y2="136" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Burr 3 -->
+  <circle cx="180" cy="138" r="10" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="180" y1="126" x2="180" y2="121" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="191" y1="130" x2="195" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="192" y1="141" x2="197" y2="141" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="188" y1="149" x2="191" y2="153" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="148" x2="167" y2="152" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="168" y1="139" x2="163" y2="139" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="129" x2="166" y2="125" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hint of palmate leaf shape at canopy edge -->
+  <path d="M68,105 Q58,88 72,80 Q78,92 80,96" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M222,105 Q232,88 218,80 Q212,92 210,96" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

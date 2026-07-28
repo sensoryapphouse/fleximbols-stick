@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- jumper body -->
+<path d="M 168 178
+Q 256 150 344 178
+L 392 214 L 360 262 L 338 244
+L 338 388 Q 256 408 174 388
+L 174 244 L 152 262 L 120 214 Z"
+fill="#8cc152" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- collar -->
+<path d="M 224 176 Q 256 200 288 176 Q 288 158 256 158 Q 224 158 224 176 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- exposed inside seams (dashed) showing it's inside-out -->
+<path d="M 204 196 Q 230 220 230 270 L 222 386" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="4 12" stroke-linecap="round"/>
+<path d="M 308 196 Q 282 220 282 270 L 290 386" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="4 12" stroke-linecap="round"/>
+<path d="M 168 200 Q 150 234 150 256" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="4 12" stroke-linecap="round"/>
+<path d="M 344 200 Q 362 234 362 256" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="4 12" stroke-linecap="round"/>
+<!-- exposed care label -->
+<rect x="232" y="338" width="48" height="40" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="244" y1="352" x2="268" y2="352" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="244" y1="364" x2="268" y2="364" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

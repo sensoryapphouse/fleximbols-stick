@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Drip coffee machine with mug below, steam, and coffee beans -->
+  <!-- Counter surface -->
+  <rect x="30" y="195" width="230" height="16" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Coffee machine body (main unit) -->
+  <rect x="80" y="90" width="100" height="110" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Machine top reservoir -->
+  <rect x="88" y="60" width="84" height="38" rx="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Water visible inside reservoir -->
+  <rect x="94" y="66" width="72" height="26" rx="5" fill="#dff3fd" stroke="none"/>
+  <!-- Machine display panel area -->
+  <rect x="88" y="98" width="84" height="30" rx="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Power light (green dot) -->
+  <circle cx="155" cy="113" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Drip spout -->
+  <rect x="122" y="128" width="16" height="14" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Coffee drip drop -->
+  <ellipse cx="130" cy="147" rx="5" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Mug below -->
+  <rect x="105" y="158" width="50" height="38" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Mug handle -->
+  <path d="M155 168 Q175 168 175 177 Q175 186 155 186" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Coffee in mug (dark, filling up) -->
+  <rect x="110" y="172" width="40" height="20" rx="3" fill="#5e1f0a" stroke="none"/>
+  <!-- Steam from mug -->
+  <path d="M118 156 Q114 146 118 136 Q122 126 118 116" fill="none" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M130 154 Q126 144 130 134 Q134 124 130 114" fill="none" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M142 156 Q138 146 142 136 Q146 126 142 116" fill="none" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Coffee beans scattered to right -->
+  <ellipse cx="210" cy="150" rx="12" ry="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 210 150)"/>
+  <path d="M210 145 Q210 155" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="210" y1="145" x2="210" y2="155" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="228" cy="162" rx="12" ry="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 228 162)"/>
+  <line x1="228" y1="157" x2="228" y2="167" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="218" cy="175" rx="11" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 218 175)"/>
+  <line x1="218" y1="170" x2="218" y2="180" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Machine foot plate -->
+  <rect x="88" y="185" width="84" height="12" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

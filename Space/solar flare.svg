@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sun disc on left side -->
+  <circle cx="115" cy="125" r="72" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- Small sunspot detail -->
+  <circle cx="130" cy="105" r="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="100" cy="140" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.54"/>
+  <!-- Large flare loop bursting from right edge — clear arc going OFF the sun -->
+  <path d="M 180 95 Q 240 50 270 110 Q 280 160 230 175" fill="none" stroke="#e65a00" stroke-width="17.77" stroke-linecap="round"/>
+  <path d="M 180 95 Q 240 50 270 110 Q 280 160 230 175" fill="none" stroke="#ff9900" stroke-width="10.15" stroke-linecap="round"/>
+  <!-- Tongue of flame at the loop apex -->
+  <path d="M 268 100 Q 280 80 275 60 Q 268 75 260 70 Q 263 88 268 100 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Secondary smaller eruption -->
+  <path d="M 175 165 Q 200 200 240 200" fill="none" stroke="#e65a00" stroke-width="10.15" stroke-linecap="round"/>
+  <path d="M 175 165 Q 200 200 240 200" fill="none" stroke="#ff9900" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Bright spark dots near eruption base -->
+  <circle cx="178" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.91"/>
+  <circle cx="180" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.91"/>
+</g></svg>

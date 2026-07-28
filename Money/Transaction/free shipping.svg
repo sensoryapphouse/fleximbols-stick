@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Free shipping - package + truck + FREE SHIPPING letters + crossed-out dollar -->
+  <!-- Truck box body -->
+  <rect x="40" y="90" width="130" height="80" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="40" y="80" width="130" height="14" rx="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Roll door lines -->
+  <line x1="56" y1="108" x2="156" y2="108" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="56" y1="124" x2="156" y2="124" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="56" y1="140" x2="156" y2="140" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="56" y1="156" x2="156" y2="156" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Cab -->
+  <path d="M 170 110 L 195 110 L 220 130 L 220 170 L 170 170 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Windshield -->
+  <path d="M 175 116 L 195 116 L 212 132 L 175 132 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wheels -->
+  <circle cx="80" cy="178" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="178" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="195" cy="178" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="178" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Package on truck side -->
+  <rect x="75" y="115" width="40" height="36" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="75" y1="133" x2="115" y2="133" stroke="#f8130d" stroke-width="3.33"/>
+  <line x1="95" y1="115" x2="95" y2="151" stroke="#f8130d" stroke-width="3.33"/>
+  <!-- Crossed-out dollar (FREE indicator) -->
+  <circle cx="244" cy="50" r="26" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 250 38 Q 240 38 238 44 Q 238 50 246 52 Q 254 54 254 60 Q 252 66 242 66 M 246 32 L 246 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cross-out line on dollar -->
+  <line x1="222" y1="72" x2="266" y2="28" stroke="#d01424" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- FREE letters (left of truck top) -->
+  <!-- SHIPPING letters bottom -->
+  <!-- green checkmark badge (replaces FREE SHIPPING letters) -->
+  <circle cx="244" cy="130" r="24" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M232 130 L241 139 L258 118" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

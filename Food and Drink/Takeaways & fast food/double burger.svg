@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bottom bun base -->
+  <path d="M45,210 Q45,228 145,228 Q245,228 245,210 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="210" rx="100" ry="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lettuce fringe -->
+  <path d="M48,196 Q75,186 102,198 Q128,188 155,198 Q182,188 208,198 L242,194" fill="none" stroke="#529929" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Beef patty 1 (bottom) -->
+  <rect x="55" y="174" width="180" height="24" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M75,184 Q108,179 138,184" fill="none" stroke="#5e1f0a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M155,182 Q185,177 210,182" fill="none" stroke="#5e1f0a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Cheese slice between patties - melting drips -->
+  <path d="M58,162 L63,148 L227,148 L232,162 Q200,174 145,170 Q90,174 58,162 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M68,166 Q66,178 72,174" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M218,166 Q221,178 215,174" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Middle bun layer -->
+  <ellipse cx="145" cy="148" rx="92" ry="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M53,148 Q53,130 145,130 Q237,130 237,148 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Beef patty 2 (top) -->
+  <rect x="58" y="106" width="174" height="24" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M78,116 Q112,111 142,116" fill="none" stroke="#5e1f0a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M158,114 Q190,109 212,114" fill="none" stroke="#5e1f0a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Top bun dome -->
+  <path d="M50,98 Q50,36 145,36 Q240,36 240,98 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="98" rx="95" ry="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M70,78 Q102,60 145,56 Q188,60 220,78" fill="none" stroke="#9d7246" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Sesame seeds -->
+  <ellipse cx="120" cy="66" rx="7" ry="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" transform="rotate(-20 120 66)"/>
+  <ellipse cx="145" cy="56" rx="7" ry="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <ellipse cx="170" cy="66" rx="7" ry="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" transform="rotate(20 170 66)"/>
+  <ellipse cx="100" cy="78" rx="6" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" transform="rotate(-15 100 78)"/>
+  <ellipse cx="190" cy="78" rx="6" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" transform="rotate(15 190 78)"/>
+</g></svg>

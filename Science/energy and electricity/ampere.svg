@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ammeter circle dial with needle + 'A' shape in centre -->
+  <!-- Outer body -->
+  <circle cx="145" cy="120" r="100" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Inner dial face -->
+  <circle cx="145" cy="120" r="84" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Tick marks (drawn as small rects rotated via path: use simple rays as polygons) -->
+  <!-- Left tick -->
+  <rect x="65" y="118" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Right tick -->
+  <rect x="211" y="118" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Top tick -->
+  <rect x="143" y="40" width="4" height="14" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Diagonal ticks via polygons -->
+  <polygon points="86,68 96,60 102,70 92,78" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <polygon points="188,68 198,60 204,70 194,78" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" transform=""/>
+  <!-- Scale arc -->
+  <path d="M70 145 Q145 80 220 145" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Smaller scale ticks along arc (as little notches) -->
+  <rect x="84" y="116" width="3" height="8" fill="#4d4d4d"/>
+  <rect x="112" y="90" width="3" height="8" fill="#4d4d4d"/>
+  <rect x="175" y="90" width="3" height="8" fill="#4d4d4d"/>
+  <rect x="203" y="116" width="3" height="8" fill="#4d4d4d"/>
+  <!-- Needle (pointing up-right ~ 2 o'clock) -->
+  <polygon points="145,170 150,168 180,72 170,68" fill="#d01424" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Pivot -->
+  <circle cx="145" cy="170" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="170" r="3" fill="#f7de58"/>
+  <!-- 'A' shape in centre lower - built from paths -->
+  <!-- Left leg of A -->
+  <polygon points="118,206 132,206 144,176 138,176" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Right leg of A -->
+  <polygon points="158,206 172,206 152,176 146,176" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Crossbar of A -->
+  <rect x="130" y="192" width="30" height="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

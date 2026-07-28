@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 86.26 411.15 411.15">
+<!-- two draped strings of triangular flags -->
+<!-- top string -->
+<path d="M 80 168 Q 256 250 432 168" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- top row flags hanging from string -->
+<polygon points="96,178 140,170 118,236" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="150,200 196,196 173,266" fill="#f0b400" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="208,214 256,214 232,284" fill="#3fae5a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="266,214 314,214 290,284" fill="#3f6fb0" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="326,196 372,200 349,266" fill="#e0559e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="382,170 426,178 404,236" fill="#8e5fb0" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- bottom string -->
+<path d="M 80 300 Q 256 382 432 300" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- bottom row flags -->
+<polygon points="110,312 154,304 132,370" fill="#f08a24" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="170,334 216,330 193,400" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="234,346 282,346 258,416" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="296,330 342,334 319,400" fill="#3fae5a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<polygon points="358,304 402,312 380,370" fill="#f6c500" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

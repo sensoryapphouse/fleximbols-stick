@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- rubber sole, foot-shaped -->
+  <path d="M 145 40 Q 80 40 65 100 Q 50 165 100 195 Q 145 215 190 195 Q 240 165 225 100 Q 210 40 145 40 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- sole edge layer (shows thickness) -->
+  <path d="M 145 205 Q 95 207 78 175 Q 60 145 65 110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145 205 Q 195 207 212 175 Q 230 145 225 110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Y-STRAP / thong (signature) -->
+  <!-- toe post -->
+  <circle cx="145" cy="60" r="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- left strap -->
+  <path d="M 145 65 Q 130 85 105 105 Q 92 115 88 130" fill="none" stroke="#7c3fac" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M 145 65 Q 130 85 105 105 Q 92 115 88 130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- right strap -->
+  <path d="M 145 65 Q 160 85 185 105 Q 198 115 202 130" fill="none" stroke="#7c3fac" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M 145 65 Q 160 85 185 105 Q 198 115 202 130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- strap anchor points (where straps meet sole) -->
+  <circle cx="88" cy="130" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="202" cy="130" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- subtle footbed contour -->
+  <path d="M 145 70 Q 140 130 145 185" fill="none" stroke="#f4a4b2" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

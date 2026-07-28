@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hanging cord -->
+  <line x1="145" y1="22" x2="145" y2="48" stroke="#9d7246" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Lantern top cap -->
+  <rect x="118" y="44" width="54" height="14" rx="5" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lantern body -->
+  <ellipse cx="145" cy="120" rx="52" ry="72" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lantern ribs -->
+  <path d="M100,90 Q90,120 100,150" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M116,72 Q100,120 116,168" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M174,72 Q190,120 174,168" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M190,90 Q200,120 190,150" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Gold circular accent centre -->
+  <circle cx="145" cy="108" r="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="108" r="12" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Lantern bottom cap -->
+  <rect x="118" y="182" width="54" height="14" rx="5" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tassel cord -->
+  <line x1="145" y1="196" x2="145" y2="210" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Tassel fringe -->
+  <line x1="130" y1="210" x2="126" y2="228" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="138" y1="210" x2="136" y2="230" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="210" x2="145" y2="232" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="152" y1="210" x2="154" y2="230" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="210" x2="164" y2="228" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Plum blossom left -->
+  <circle cx="62" cy="90" r="12" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="46" cy="80" r="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="62" r="10" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="68" cy="56" r="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="70" r="10" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Blossom centres -->
+  <circle cx="62" cy="90" r="4" fill="#f7de58" stroke="none"/>
+  <circle cx="46" cy="80" r="4" fill="#f7de58" stroke="none"/>
+  <circle cx="50" cy="62" r="4" fill="#f7de58" stroke="none"/>
+  <circle cx="68" cy="56" r="4" fill="#f7de58" stroke="none"/>
+  <circle cx="80" cy="70" r="4" fill="#f7de58" stroke="none"/>
+  <!-- Blossom branch -->
+  <path d="M62,90 Q58,75 50,62" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M62,90 Q74,82 80,70" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M56,77 Q46,80 38,78" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Crescent moon right -->
+  <circle cx="222" cy="68" r="32" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="234" cy="60" r="26" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Stars near moon -->
+  <polygon points="255,42 258,50 266,50 260,55 262,63 255,58 248,63 250,55 244,50 252,50" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="240,88 242,94 248,94 243,98 245,104 240,100 235,104 237,98 232,94 238,94" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

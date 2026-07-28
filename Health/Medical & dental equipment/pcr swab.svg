@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sample tube (tall, cylindrical) -->
+  <rect x="155" y="70" width="52" height="140" rx="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Tube bottom rounded cap -->
+  <ellipse cx="181" cy="210" rx="26" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Liquid in tube (bottom portion) -->
+  <rect x="158" y="155" width="46" height="52" rx="0" fill="#90a7d6" stroke="none"/>
+  <ellipse cx="181" cy="210" rx="23" ry="8" fill="#90a7d6" stroke="none"/>
+  <ellipse cx="181" cy="155" rx="23" ry="6" fill="#90a7d6" stroke="none"/>
+  <!-- Tube cap -->
+  <rect x="152" y="58" width="58" height="20" rx="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Cap grip lines -->
+  <line x1="165" y1="62" x2="165" y2="74" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="175" y1="62" x2="175" y2="74" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="185" y1="62" x2="185" y2="74" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="62" x2="195" y2="74" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tube label stripe -->
+  <rect x="158" y="100" width="46" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Label barcode lines (decorative) -->
+  <line x1="164" y1="104" x2="164" y2="118" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="168" y1="104" x2="168" y2="118" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="172" y1="104" x2="172" y2="118" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="176" y1="104" x2="176" y2="118" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="180" y1="104" x2="180" y2="118" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="184" y1="104" x2="184" y2="118" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="188" y1="104" x2="188" y2="118" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="192" y1="104" x2="192" y2="118" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="196" y1="104" x2="196" y2="118" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Long nasopharyngeal swab -->
+  <!-- Swab stick (long, thin) -->
+  <rect x="62" y="25" width="8" height="175" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Swab handle end (top) -->
+  <ellipse cx="66" cy="25" rx="9" ry="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Swab tip (fluffy, bottom) - entering tube -->
+  <ellipse cx="66" cy="198" rx="14" ry="12" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="66" cy="192" rx="11" ry="9" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="66" cy="186" rx="9" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Swab inserted into tube (overlapping cap) -->
+  <!-- Re-draw stick segment over tube area to show insertion -->
+  <rect x="62" y="55" width="8" height="145" rx="4" fill="#efefef" stroke="none"/>
+  <line x1="62" y1="55" x2="62" y2="198" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="70" y1="55" x2="70" y2="198" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Arrow indicating direction of insertion -->
+  <line x1="100" y1="145" x2="140" y2="145" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="140,138 152,145 140,152" fill="#000000"/>
+</g></svg>

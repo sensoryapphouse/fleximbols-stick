@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- two rings on document + couple silhouettes apart + signature lines + scales -->
+  <!-- document -->
+  <rect x="40" y="25" width="210" height="190" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- header -->
+  <rect x="55" y="38" width="180" height="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- two rings interlocked -->
+  <circle cx="115" cy="80" r="14" fill="none" stroke="#f2e40d" stroke-width="11.11"/>
+  <circle cx="115" cy="80" r="14" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="80" r="14" fill="none" stroke="#f2e40d" stroke-width="11.11"/>
+  <circle cx="140" cy="80" r="14" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small gems -->
+  <polygon points="115,67 118,72 115,75 112,72" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="140,67 143,72 140,75 137,72" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- scales of justice (small, on doc) -->
+  <line x1="200" y1="65" x2="200" y2="100" stroke="#4d4d4d" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="180" y1="75" x2="220" y2="75" stroke="#4d4d4d" stroke-width="6.67" stroke-linecap="round"/>
+  <polygon points="174,75 186,75 184,85 176,85" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="214,75 226,75 224,85 216,85" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="195" y1="100" x2="205" y2="100" stroke="#4d4d4d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- couple silhouettes APART (separated) -->
+  <!-- person 1 (left) -->
+  <circle cx="75" cy="135" r="9" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M66,150 L66,175 L84,175 L84,150 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="66" y1="158" x2="58" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="84" y1="158" x2="92" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="70" y1="175" x2="68" y2="195" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="80" y1="175" x2="82" y2="195" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- gap line/separator -->
+  <line x1="115" y1="155" x2="115" y2="195" stroke="#7f7f7f" stroke-width="4.45" stroke-dasharray="4,3"/>
+  <line x1="175" y1="155" x2="175" y2="195" stroke="#7f7f7f" stroke-width="4.45" stroke-dasharray="4,3"/>
+  <!-- person 2 (right) -->
+  <circle cx="215" cy="135" r="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M206,150 L206,175 L224,175 L224,150 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="206" y1="158" x2="198" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="224" y1="158" x2="232" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="175" x2="208" y2="195" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="220" y1="175" x2="222" y2="195" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- signature lines -->
+  <line x1="100" y1="205" x2="145" y2="205" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M103,203 q5,-5 10,0 q5,4 10,-2" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="205" x2="205" y2="205" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M163,203 q5,-5 10,0 q5,4 10,-2" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

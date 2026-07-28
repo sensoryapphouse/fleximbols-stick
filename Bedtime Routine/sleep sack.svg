@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sleep-sack: wearable baby sleeping bag, body-shaped, armholes, zip -->
+  <!-- Main sack body -->
+  <path d="M108,82 C108,82 80,88 76,110 L72,188 C72,196 80,208 108,210 L182,210 C210,208 218,196 218,188 L214,110 C210,88 182,82 182,82 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Shoulder/neckline yoke -->
+  <path d="M108,82 L118,54 C120,46 130,40 145,40 C160,40 170,46 172,54 L182,82 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left armhole opening -->
+  <path d="M84,98 C76,92 66,92 62,100 C58,108 64,118 76,114" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Right armhole opening -->
+  <path d="M206,98 C214,92 224,92 228,100 C232,108 226,118 214,114" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Zip line down front centre -->
+  <line x1="145" y1="78" x2="145" y2="196" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="6 5"/>
+  <!-- Zip pull tab -->
+  <rect x="138" y="112" width="14" height="20" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="145" cy="110" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Sack rounded bottom -->
+  <ellipse cx="145" cy="210" rx="37" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Star decorations on body -->
+  <circle cx="108" cy="148" r="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="182" cy="148" r="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="172" r="7" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

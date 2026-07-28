@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sprinkler body base -->
+  <rect x="128" y="168" width="34" height="16" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sprinkler stem -->
+  <rect x="140" y="140" width="10" height="30" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rotating head -->
+  <ellipse cx="145" cy="138" rx="18" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Nozzle -->
+  <rect x="142" y="128" width="16" height="12" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Water arcing fan - left arc -->
+  <path d="M145 128 Q90 80 50 110" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8 5"/>
+  <!-- Water arcing fan - center arc -->
+  <path d="M145 128 Q120 60 105 45" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8 5"/>
+  <!-- Water arcing fan - right arc -->
+  <path d="M145 128 Q175 65 195 45" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8 5"/>
+  <!-- Water arcing fan - far right -->
+  <path d="M145 128 Q210 80 240 110" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8 5"/>
+  <!-- Water drops at arc ends -->
+  <circle cx="50" cy="112" r="5" fill="#2a4ec0"/>
+  <circle cx="103" cy="44" r="5" fill="#2a4ec0"/>
+  <circle cx="196" cy="44" r="5" fill="#2a4ec0"/>
+  <circle cx="241" cy="112" r="5" fill="#2a4ec0"/>
+  <!-- Ground line / lawn -->
+  <line x1="30" y1="186" x2="260" y2="186" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Lawn fill hint -->
+  <line x1="30" y1="192" x2="260" y2="192" stroke="#67832d" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

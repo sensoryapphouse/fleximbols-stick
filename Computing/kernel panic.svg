@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Mac monitor (rounded, with chin) -->
+  <rect x="36" y="24" width="218" height="160" rx="12" ry="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- crashed black screen -->
+  <rect x="48" y="36" width="194" height="124" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- apple-style chin -->
+  <rect x="48" y="160" width="194" height="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- stand -->
+  <path d="M120 184 L170 184 L180 210 L110 210 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="90" y="210" width="110" height="10" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- kernel-panic dialog overlaid -->
+  <rect x="64" y="56" width="162" height="84" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- warning triangle -->
+  <path d="M86 96 L100 70 L114 96 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M100 80 L100 89" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="100" cy="93" r="1.5" fill="#000000"/>
+
+  <!-- mini text bars (kernel panic notification) -->
+  <rect x="124" y="74" width="90" height="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="124" y="84" width="80" height="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="124" y="94" width="60" height="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- restart button with arrow -->
+  <rect x="120" y="112" width="80" height="20" rx="4" ry="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- circular restart arrow inside button -->
+  <path d="M134 122 A6 6 0 1 1 134 121.5" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M134 117 L130 117 L130 113" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 'OK' style label as small white bar -->
+  <rect x="148" y="118" width="44" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

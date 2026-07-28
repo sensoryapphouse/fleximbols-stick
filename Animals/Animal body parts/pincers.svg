@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- lower arm segment -->
+<rect x="120" y="372" width="64" height="52" rx="14" transform="rotate(-34 152 398)" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- upper arm segment leading to claw -->
+<rect x="178" y="312" width="78" height="54" rx="14" transform="rotate(-34 217 339)" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- claw base / hand -->
+<path d="M 250 300 C 300 260 340 250 372 262 C 410 276 414 318 396 348 C 380 374 344 384 314 374 C 286 364 262 340 250 300 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- fixed (lower) finger -->
+<path d="M 372 330 C 408 330 440 320 462 300 C 458 332 438 360 404 366 C 388 368 378 356 372 348 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- movable (upper) finger, open -->
+<path d="M 352 268 C 380 240 416 214 448 196 C 442 230 420 262 392 280 C 376 290 360 284 352 274 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

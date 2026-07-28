@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- envelope: large rounded teardrop -->
+<path d="M 256 96 C 168 96 116 168 116 244 C 116 304 158 344 196 372 L 316 372 C 354 344 396 304 396 244 C 396 168 344 96 256 96 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- gores (coloured vertical panels) -->
+<path d="M 256 96 C 224 120 210 184 210 244 C 210 306 226 348 248 372 L 264 372 C 286 348 302 306 302 244 C 302 184 288 120 256 96 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 210 244 C 210 184 224 120 256 96 C 240 130 232 186 232 244 C 232 306 240 350 256 372 L 248 372 C 226 348 210 306 210 244 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 302 244 C 302 184 288 120 256 96 C 272 130 280 186 280 244 C 280 306 272 350 256 372 L 264 372 C 286 348 302 306 302 244 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- mouth ring at base of envelope -->
+<rect x="232" y="368" width="48" height="14" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- connecting cords: touch envelope base and basket top -->
+<line x1="222" y1="382" x2="236" y2="418" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="290" y1="382" x2="276" y2="418" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="248" y1="382" x2="252" y2="418" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="264" y1="382" x2="260" y2="418" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- basket -->
+<path d="M 230 416 L 282 416 L 276 458 Q 274 466 264 466 L 248 466 Q 238 466 236 458 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="230" y1="430" x2="282" y2="430" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- XQD card (compact, dense) -->
+  <rect x="80" y="50" width="130" height="150" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Inner pro label -->
+  <rect x="92" y="68" width="106" height="120" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Contact strip at top -->
+  <rect x="92" y="58" width="106" height="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- 'X' letter as path -->
+  <path d="M 100 100 L 116 130 M 116 100 L 100 130" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 'Q' letter as path -->
+  <circle cx="135" cy="115" r="13" fill="none" stroke="#ffffff" stroke-width="5.55"/>
+  <path d="M 142 124 L 150 132" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- 'D' letter as path -->
+  <path d="M 160 100 L 160 130 L 172 130 Q 186 130 186 115 Q 186 100 172 100 Z" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pro red accent stripe -->
+  <rect x="100" y="150" width="90" height="6" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Capacity label -->
+  <rect x="100" y="164" width="90" height="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

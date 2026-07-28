@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- circular orbit arrow (outer ring, dashed arc) -->
+  <!-- top-right arc segment -->
+  <path d="M 145 20 A 105 95 0 0 1 250 120" fill="none" stroke="#d01424" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- arrowhead at end of top-right arc -->
+  <polygon points="250,120 238,106 258,104" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bottom-left arc segment -->
+  <path d="M 145 220 A 105 95 0 0 1 40 120" fill="none" stroke="#f266aa" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- arrowhead at end of bottom-left arc -->
+  <polygon points="40,120 52,134 32,136" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top-left heart (pink, smaller) -->
+  <path d="M95 95 C88 84 62 80 62 62 C62 50 72 42 84 42 C90 42 96 46 102 52 C108 46 114 42 120 42 C132 42 142 50 142 62 C142 80 116 95 102 105 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bottom-right heart (red, smaller) -->
+  <path d="M195 190 C181 176 148 164 148 146 C148 134 158 126 170 126 C178 126 186 130 195 138 C204 130 212 126 220 126 C232 126 242 134 242 146 C242 164 209 176 195 190 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

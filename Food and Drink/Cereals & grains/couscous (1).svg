@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wide bowl base -->
+  <ellipse cx="145" cy="200" rx="108" ry="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="14.82" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bowl body -->
+  <path d="M37 200 Q37 155 145 155 Q253 155 253 200Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14.82" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bowl inner -->
+  <ellipse cx="145" cy="200" rx="108" ry="16" fill="#ffffff" stroke="none"/>
+  <!-- Couscous mound (pale yellow) -->
+  <ellipse cx="145" cy="185" rx="88" ry="30" fill="#f7de58" stroke="#1a1a1a" stroke-width="11.86" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="170" rx="70" ry="22" fill="#f7de58" stroke="none"/>
+  <!-- Couscous grain texture dots -->
+  <circle cx="115" cy="174" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="126" cy="168" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="138" cy="165" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="152" cy="165" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="164" cy="168" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="174" cy="174" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="122" cy="178" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="175" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="166" cy="179" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="108" cy="180" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="182" cy="181" r="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Carrot chunk (orange) -->
+  <ellipse cx="118" cy="162" rx="10" ry="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Courgette/green veg chunk -->
+  <ellipse cx="160" cy="160" rx="10" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Chickpeas (round, beige) -->
+  <circle cx="140" cy="156" r="7" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="155" cy="152" r="7" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="128" cy="153" r="7" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Tomato chunk (red) -->
+  <ellipse cx="170" cy="154" rx="8" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Herb sprinkle -->
+  <circle cx="143" cy="145" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="155" cy="143" r="4" fill="#67832d" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

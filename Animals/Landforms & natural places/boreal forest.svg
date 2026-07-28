@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- boreal forest: evergreen conifers in snow + dim winter light + wolf silhouette -->
+  <!-- dim winter sky -->
+  <rect x="0" y="0" width="290" height="160" fill="#90a7d6" stroke="none"/>
+  <!-- pale low sun -->
+  <circle cx="50" cy="50" r="22" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- snow ground -->
+  <path d="M0 165 Q70 155 145 165 Q220 155 290 168 L290 240 L0 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- back row of conifers (smaller, distant) -->
+  <path d="M40 165 L55 105 L70 165 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M80 165 L95 95 L110 165 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M205 165 L220 100 L235 165 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M245 165 L258 110 L271 165 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- foreground large conifer left -->
+  <path d="M115 175 L140 60 L165 175 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M122 145 L140 80 L158 145 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- trunk -->
+  <rect x="136" y="170" width="8" height="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- foreground conifer right -->
+  <path d="M180 178 L200 85 L220 178 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M186 150 L200 100 L214 150 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="196" y="172" width="8" height="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- snow caps on trees -->
+  <path d="M133 95 L140 80 L147 95 Q140 92 133 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M193 115 L200 100 L207 115 Q200 112 193 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- wolf silhouette on snow (full body) -->
+  <!-- body -->
+  <path d="M30 210 Q35 198 50 196 L78 196 Q92 196 95 205 L98 215 L92 218 L88 210 L75 210 L72 218 L65 218 L60 210 L48 210 L44 218 L37 218 L33 213 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- head -->
+  <path d="M95 198 L108 190 L115 192 L114 200 L108 205 L95 205 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ear -->
+  <path d="M104 192 L106 184 L110 192 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- tail -->
+  <path d="M30 205 Q18 198 22 188" fill="none" stroke="#4d4d4d" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- eye -->
+  <circle cx="108" cy="197" r="1.5" fill="#f2e40d"/>
+</g></svg>

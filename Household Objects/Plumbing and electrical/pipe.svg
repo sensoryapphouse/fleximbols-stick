@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- length of metal pipe with threaded ends, slight perspective -->
+<!-- main barrel -->
+<rect x="120" y="206" width="272" height="100" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- highlight stripe -->
+<rect x="120" y="226" width="272" height="18" fill="#e7ebef" stroke="none"/>
+<!-- left collar / fitting -->
+<rect x="108" y="190" width="40" height="132" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right collar / fitting -->
+<rect x="364" y="190" width="40" height="132" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- thread ribs left -->
+<line x1="116" y1="210" x2="140" y2="210" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="116" y1="256" x2="140" y2="256" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="116" y1="302" x2="140" y2="302" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- thread ribs right -->
+<line x1="372" y1="210" x2="396" y2="210" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="372" y1="256" x2="396" y2="256" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="372" y1="302" x2="396" y2="302" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- bore opening at right end (dark ellipse to read as hollow) -->
+<ellipse cx="384" cy="256" rx="13" ry="56" fill="#6b7480" stroke="#1a1a1a" stroke-width="7"/>
+<ellipse cx="384" cy="256" rx="6" ry="40" fill="#3a3f45" stroke="none"/>
+</svg>

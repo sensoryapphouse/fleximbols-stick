@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- stick-insect: extremely thin twig-like body, thin legs, camouflage twig form -->
+  <!-- Main body - near-vertical thin twig, slightly angled -->
+  <!-- Abdomen - long, very thin, twig-like, bark brown -->
+  <rect x="141" y="108" width="12" height="108" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Abdomen twig bark texture lines -->
+  <line x1="141" y1="120" x2="153" y2="122" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="141" y1="132" x2="153" y2="130" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="141" y1="144" x2="153" y2="146" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="141" y1="156" x2="153" y2="154" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="141" y1="168" x2="153" y2="170" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="141" y1="180" x2="153" y2="178" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="141" y1="192" x2="153" y2="194" stroke="#7d5e23" stroke-width="2.96"/>
+  <!-- Thorax - slightly wider join -->
+  <rect x="139" y="88" width="16" height="22" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head - small, elongated, twig-like -->
+  <rect x="141" y="62" width="12" height="28" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small eye -->
+  <circle cx="148" cy="70" r="4" fill="#000000"/>
+  <circle cx="147" cy="69" r="1.5" fill="#ffffff"/>
+  <!-- Very long thin antennae - twig-like extensions -->
+  <path d="M147 63 Q138 48 122 28" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M147 63 Q156 48 172 28" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- SIX extremely thin legs - splayed at angles, very fine -->
+  <!-- Front left leg -->
+  <path d="M141 94 Q118 88 95 80 Q80 76 68 82" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Front right leg -->
+  <path d="M155 94 Q178 88 201 80 Q216 76 228 82" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mid left leg -->
+  <path d="M141 100 Q114 98 88 106 Q72 112 58 122" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mid right leg -->
+  <path d="M155 100 Q182 98 208 106 Q224 112 238 122" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rear left leg -->
+  <path d="M141 106 Q116 112 92 124 Q76 132 64 148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rear right leg -->
+  <path d="M155 106 Q180 112 204 124 Q220 132 232 148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tail tip - pointed twig end -->
+  <path d="M147 216 Q146 224 144 230" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

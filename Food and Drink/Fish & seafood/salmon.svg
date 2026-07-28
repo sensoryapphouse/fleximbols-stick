@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- tail on the left -->
+<path d="M 118 190 L 66 148 Q 52 138 58 168 L 66 256 L 58 344 Q 52 374 66 364 L 118 322 Z" fill="#e8865a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- dorsal fin (top) -->
+<path d="M 236 176 Q 268 118 320 172 Z" fill="#de6f42" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bottom fin -->
+<path d="M 250 340 Q 276 388 316 344 Z" fill="#de6f42" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- fish body (head to the right) -->
+<path d="M 104 256 C 104 190 170 156 256 156 C 350 156 424 200 424 256 C 424 312 350 356 256 356 C 170 356 104 322 104 256 Z" fill="#f08a5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- gill line near the head -->
+<path d="M 372 194 Q 348 256 372 318" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- eye -->
+<circle cx="392" cy="234" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="392" cy="234" r="5" fill="#1a1a1a"/>
+<!-- mouth -->
+<path d="M 418 262 Q 428 268 420 278" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- salmon flesh stripes -->
+<path d="M 150 226 C 210 214 300 214 348 228" fill="none" stroke="#fbe0d2" stroke-width="9" stroke-linecap="round"/>
+<path d="M 150 286 C 210 298 300 298 348 284" fill="none" stroke="#fbe0d2" stroke-width="9" stroke-linecap="round"/>
+</g></svg>

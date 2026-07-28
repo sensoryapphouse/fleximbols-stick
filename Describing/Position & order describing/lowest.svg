@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="45.58 78.86 420.85 420.85">
+<!-- LOWEST: three balloons at different heights. The LOWEST balloon is highlighted; the others faded. Green arrow points down at the lowest one. -->
+<!-- ground / hand line -->
+<line x1="120" y1="470" x2="392" y2="470" stroke="#9aa7b5" stroke-width="6" stroke-linecap="round"/>
+
+<!-- CENTRE balloon (highest, faded) -->
+<g opacity="0.34">
+  <line x1="256" y1="208" x2="256" y2="470" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="256" cy="166" rx="48" ry="56" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9"/>
+  <polygon points="256,220 244,208 268,208" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+
+<!-- LEFT balloon (mid height, faded) -->
+<g opacity="0.34">
+  <line x1="176" y1="300" x2="200" y2="470" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="176" cy="262" rx="42" ry="50" fill="#3fb24a" stroke="#1a1a1a" stroke-width="9"/>
+  <polygon points="176,310 166,300 186,300" fill="#3fb24a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+
+<!-- RIGHT balloon = LOWEST (highlighted, red, riding shortest) -->
+<line x1="336" y1="372" x2="312" y2="470" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="336" cy="330" rx="48" ry="56" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+<polygon points="336,384 324,372 348,372" fill="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+
+<!-- bold green arrow pointing DOWN at the lowest balloon -->
+<line x1="336" y1="214" x2="336" y2="262" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="336" y1="262" x2="310" y2="234" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="336" y1="262" x2="362" y2="234" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="336" y1="214" x2="336" y2="262" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="336" y1="262" x2="310" y2="234" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="336" y1="262" x2="362" y2="234" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+</svg>

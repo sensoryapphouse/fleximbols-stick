@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Building facade -->
+  <rect x="30" y="95" width="230" height="125" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Curved roof arch -->
+  <path d="M30,95 Q145,30 260,95" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Awning band -->
+  <rect x="30" y="93" width="230" height="12" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Door (glass, calm) -->
+  <rect x="118" y="155" width="54" height="65" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <line x1="145" y1="155" x2="145" y2="220" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Left window -->
+  <rect x="42" y="115" width="58" height="44" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Right window -->
+  <rect x="190" y="115" width="58" height="44" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- LOTUS FLOWER (center facade) -->
+  <!-- Stem -->
+  <line x1="145" y1="155" x2="145" y2="142" stroke="#529929" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Outer petals -->
+  <ellipse cx="130" cy="135" rx="10" ry="16" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 130 135)"/>
+  <ellipse cx="160" cy="135" rx="10" ry="16" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 160 135)"/>
+  <ellipse cx="120" cy="128" rx="8" ry="14" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-55 120 128)"/>
+  <ellipse cx="170" cy="128" rx="8" ry="14" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(55 170 128)"/>
+  <!-- Inner petals -->
+  <ellipse cx="138" cy="128" rx="9" ry="18" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 138 128)"/>
+  <ellipse cx="152" cy="128" rx="9" ry="18" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 152 128)"/>
+  <!-- Center petal -->
+  <ellipse cx="145" cy="124" rx="8" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Flower center -->
+  <ellipse cx="145" cy="140" rx="8" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- STACKED STONES (left window) -->
+  <!-- Stone 1 (bottom, widest) -->
+  <ellipse cx="71" cy="153" rx="20" ry="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Stone 2 -->
+  <ellipse cx="71" cy="143" rx="16" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Stone 3 (top, smallest) -->
+  <ellipse cx="71" cy="134" rx="11" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Ground line -->
+  <line x1="30" y1="220" x2="260" y2="220" stroke="#1a1a1a" stroke-width="7.11"/>
+</g></svg>

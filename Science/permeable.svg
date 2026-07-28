@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- container open at top -->
+<path d="M 130 220 L 130 400 L 382 400 L 382 220" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- permeable barrier (dashed = lets water through) -->
+<line x1="130" y1="220" x2="382" y2="220" stroke="#1a1a1a" stroke-width="9" stroke-dasharray="20 14" stroke-linecap="round"/>
+<!-- water collected at bottom -->
+<rect x="135" y="362" width="242" height="36" fill="#acd8f0" stroke="none"/>
+<!-- drops passing through the barrier (above + below the line) -->
+<g fill="#acd8f0" stroke="#3d7fb5" stroke-width="6" stroke-linejoin="round">
+<path d="M 190 130 q -16 22 0 34 q 16 -12 0 -34 Z"/>
+<path d="M 256 110 q -16 22 0 34 q 16 -12 0 -34 Z"/>
+<path d="M 322 130 q -16 22 0 34 q 16 -12 0 -34 Z"/>
+<path d="M 210 250 q -16 22 0 34 q 16 -12 0 -34 Z"/>
+<path d="M 276 268 q -16 22 0 34 q 16 -12 0 -34 Z"/>
+<path d="M 326 250 q -16 22 0 34 q 16 -12 0 -34 Z"/>
+</g>
+<!-- downward arrows hint of passage -->
+</svg>

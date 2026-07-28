@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- aroma swirls -->
+  <path d="M80 60 Q70 50 80 40 Q90 30 80 20" fill="none" stroke="#7f7f7f" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M130 55 Q120 45 130 35 Q140 25 130 15" fill="none" stroke="#7f7f7f" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M180 60 Q170 50 180 40 Q190 30 180 20" fill="none" stroke="#7f7f7f" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- small pan handle -->
+  <rect x="215" y="145" width="55" height="14" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- small pan -->
+  <path d="M50 140 L220 140 L210 180 Q210 200 192 205 L75 205 Q57 200 57 180 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.78" stroke-linejoin="round"/>
+  <ellipse cx="133" cy="145" rx="85" ry="11" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- toasting whole spices: cumin seeds (small dark brown ovals) + coriander seeds (round) + a star anise -->
+  <!-- cumin / caraway seeds (deepening colour) -->
+  <ellipse cx="75" cy="148" rx="6" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 75 148)"/>
+  <ellipse cx="95" cy="155" rx="6" ry="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 95 155)"/>
+  <ellipse cx="115" cy="148" rx="6" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 115 148)"/>
+  <ellipse cx="175" cy="148" rx="6" ry="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 175 148)"/>
+  <ellipse cx="195" cy="155" rx="6" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 195 155)"/>
+  <ellipse cx="85" cy="170" rx="6" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 85 170)"/>
+  <ellipse cx="110" cy="175" rx="6" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 110 175)"/>
+  <ellipse cx="165" cy="175" rx="6" ry="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 165 175)"/>
+  <ellipse cx="190" cy="170" rx="6" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25 190 170)"/>
+  <!-- coriander seeds (round, yellow-brown) -->
+  <circle cx="80" cy="185" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="190" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="178" cy="190" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="198" cy="185" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- star anise centre -->
+  <g transform="translate(140 175)">
+    <path d="M0 -12 L4 -4 L12 -4 L6 2 L8 10 L0 6 L-8 10 L-6 2 L-12 -4 L-4 -4 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  </g>
+</g></svg>

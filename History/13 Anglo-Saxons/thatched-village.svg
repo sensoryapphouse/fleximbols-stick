@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -316.50)">
+<rect x="0.0" y="448.0" width="512.0" height="64.0" rx="0" fill="#6f9a4a" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="0" y1="448" x2="512" y2="448" stroke="#557a36" stroke-width="6" stroke-linecap="round"/>
+
+<!-- ===== palisade / fence enclosure around the settlement ===== -->
+<line x1="40" y1="448" x2="40" y2="356" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="40" y1="356" x2="48" y2="346" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="68" y1="448" x2="68" y2="360" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="68" y1="360" x2="76" y2="350" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="96" y1="448" x2="96" y2="356" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="96" y1="356" x2="104" y2="346" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="416" y1="448" x2="416" y2="356" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="416" y1="356" x2="424" y2="346" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="444" y1="448" x2="444" y2="360" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="444" y1="360" x2="452" y2="350" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="472" y1="448" x2="472" y2="356" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<line x1="472" y1="356" x2="480" y2="346" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+<!-- enclosure rails linking palisade posts -->
+<line x1="36" y1="396" x2="100" y2="396" stroke="#553722" stroke-width="5" stroke-linecap="round"/>
+<line x1="412" y1="396" x2="476" y2="396" stroke="#553722" stroke-width="5" stroke-linecap="round"/>
+
+<!-- winding connecting path running between the dwellings (open ground) -->
+<path d="M 250 448 Q 224 432 212 416 Q 200 400 224 392" fill="none" stroke="#cbb98e" stroke-width="20" stroke-linecap="round"/>
+<path d="M 250 448 Q 224 432 212 416 Q 200 400 224 392" fill="none" stroke="#b59f6e" stroke-width="20" stroke-linecap="round" stroke-dasharray="2 24"/>
+
+<!-- ===== HUT 1: small, back-left ===== -->
+<rect x="74.0" y="316.0" width="120.0" height="64.0" rx="0" fill="#e4d5b7" stroke="#553722" stroke-width="5"/>
+<path d="M 110.0 380 L 110.0 354 A 17 17 0 0 1 144 354 L 144 380 Z" fill="#553722" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="58.0 320 134 252 210.0 320" fill="#d9b35e" stroke="#b08a36" stroke-width="6" stroke-linejoin="round"/>
+<line x1="86" y1="296" x2="182" y2="296" stroke="#b08a36" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="134.0" cy="254.0" rx="11" ry="6" fill="#b08a36" stroke="none"/>
+<path d="M 134 252 Q 124 236 134 222 Q 142 210 134 198" fill="none" stroke="#c2bcae" stroke-width="5" stroke-linecap="round"/>
+
+<!-- ===== HUT 2: large, front-centre-right ===== -->
+<rect x="244.0" y="338.0" width="180.0" height="98.0" rx="0" fill="#e4d5b7" stroke="#553722" stroke-width="5"/>
+<line x1="244" y1="338" x2="244" y2="436" stroke="#7a5230" stroke-width="4" stroke-linecap="round"/>
+<line x1="424" y1="338" x2="424" y2="436" stroke="#7a5230" stroke-width="4" stroke-linecap="round"/>
+<path d="M 306 436 L 306 396 A 28 28 0 0 1 362 396 L 362 436 Z" fill="#553722" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="224.0 342 334 250 444.0 342" fill="#d9b35e" stroke="#b08a36" stroke-width="6" stroke-linejoin="round"/>
+<line x1="262" y1="312" x2="406" y2="312" stroke="#b08a36" stroke-width="3" stroke-linecap="round"/>
+<line x1="240" y1="334" x2="428" y2="334" stroke="#b08a36" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="334.0" cy="252.0" rx="12" ry="7" fill="#b08a36" stroke="none"/>
+<path d="M 334 250 Q 322 230 336 212 Q 348 196 336 178" fill="none" stroke="#c2bcae" stroke-width="6" stroke-linecap="round"/>
+
+<!-- ===== HUT 3: medium, back-right (third dwelling) ===== -->
+<rect x="356.0" y="300.0" width="118.0" height="70.0" rx="0" fill="#e4d5b7" stroke="#553722" stroke-width="5"/>
+<path d="M 392 370 L 392 342 A 17 17 0 0 1 426 342 L 426 370 Z" fill="#553722" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="340.0 304 415 236 490.0 304" fill="#d9b35e" stroke="#b08a36" stroke-width="6" stroke-linejoin="round"/>
+<line x1="368" y1="280" x2="462" y2="280" stroke="#b08a36" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="415.0" cy="238.0" rx="11" ry="6" fill="#b08a36" stroke="none"/>
+</g></svg>

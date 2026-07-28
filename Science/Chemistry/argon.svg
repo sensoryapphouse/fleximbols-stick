@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- incandescent lightbulb filled with argon gas, glowing filament visible -->
+  <!-- bulb glass (pale blue tint suggests gas inside) -->
+  <path d="M 145 25 Q 95 25 95 90 Q 95 130 115 155 L 115 175 L 175 175 L 175 155 Q 195 130 195 90 Q 195 25 145 25 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- argon gas dots inside bulb -->
+  <circle cx="120" cy="60" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="170" cy="70" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="115" cy="115" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="175" cy="120" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="155" cy="50" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="130" cy="135" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="165" cy="140" r="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- filament support wires -->
+  <path d="M 130 140 L 130 100" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 160 140 L 160 100" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- glowing filament (coiled zigzag) -->
+  <path d="M 130 100 L 135 85 L 140 100 L 145 85 L 150 100 L 155 85 L 160 100" fill="none" stroke="#ff9900" stroke-width="8.00" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 130 100 L 135 85 L 140 100 L 145 85 L 150 100 L 155 85 L 160 100" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- glow rays around filament -->
+  <path d="M 145 70 L 145 55" fill="none" stroke="#f2e40d" stroke-width="6.22" stroke-linecap="round"/>
+  <path d="M 125 75 L 115 65" fill="none" stroke="#f2e40d" stroke-width="6.22" stroke-linecap="round"/>
+  <path d="M 165 75 L 175 65" fill="none" stroke="#f2e40d" stroke-width="6.22" stroke-linecap="round"/>
+  <path d="M 145 110 L 145 125" fill="none" stroke="#f2e40d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- metal screw base -->
+  <rect x="115" y="175" width="60" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M 115 190 L 175 190 L 175 200 L 115 200 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M 115 200 L 175 200 L 165 215 L 125 215 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M 120 195 L 170 195" fill="none" stroke="#4d4d4d" stroke-width="2.67"/>
+  <!-- contact tip -->
+  <rect x="135" y="215" width="20" height="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+</g></svg>

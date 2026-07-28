@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- hanging cord from top -->
+  <line x1="145" y1="10" x2="145" y2="45" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="10" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- socket -->
+  <rect x="135" y="40" width="20" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- red infrared dome -->
+  <path d="M65 60 L225 60 Q235 60 232 75 L205 165 Q200 175 190 175 L100 175 Q90 175 85 165 L58 75 Q55 60 65 60 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- inner dome highlight -->
+  <path d="M75 70 L215 70" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="100" cy="95" rx="10" ry="18" fill="#f8130d" stroke="none"/>
+  <!-- metal cage guard: vertical bars -->
+  <line x1="80" y1="170" x2="80" y2="220" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="105" y1="173" x2="105" y2="222" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="130" y1="174" x2="130" y2="223" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="174" x2="160" y2="223" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="185" y1="173" x2="185" y2="222" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="170" x2="210" y2="220" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- cage rings -->
+  <path d="M80 175 Q145 185 210 175" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M80 195 Q145 205 210 195" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M80 215 Q145 225 210 215" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- bottom cap of cage -->
+  <ellipse cx="145" cy="222" rx="65" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- heat waves rising left/right -->
+  <path d="M40 100 Q50 95 40 90 Q30 85 40 80" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M250 100 Q240 95 250 90 Q260 85 250 80" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

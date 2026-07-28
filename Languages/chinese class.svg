@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Classroom pole -->
+  <rect x="30" y="38" width="6" height="130" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Chinese flag: red field -->
+  <rect x="36" y="38" width="100" height="68" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Large star top-left -->
+  <polygon points="58,50 61,60 72,60 63,66 66,76 58,70 50,76 53,66 44,60 55,60" fill="#f2e40d" stroke="none"/>
+  <!-- 4 smaller stars arranged in arc -->
+  <polygon points="82,44 83.5,49 89,49 84.5,52 86,57 82,54 78,57 79.5,52 75,49 80.5,49" fill="#f2e40d" stroke="none"/>
+  <polygon points="92,54 93.5,59 99,59 94.5,62 96,67 92,64 88,67 89.5,62 85,59 90.5,59" fill="#f2e40d" stroke="none"/>
+  <polygon points="93,68 94.5,73 100,73 95.5,76 97,81 93,78 89,81 90.5,76 86,73 91.5,73" fill="#f2e40d" stroke="none"/>
+  <polygon points="83,79 84.5,84 90,84 85.5,87 87,92 83,89 79,92 80.5,87 76,84 81.5,84" fill="#f2e40d" stroke="none"/>
+  <!-- Red lantern beside flag -->
+  <!-- Lantern body -->
+  <ellipse cx="190" cy="130" rx="30" ry="40" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Lantern top cap -->
+  <rect x="178" y="85" width="24" height="12" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lantern bottom cap -->
+  <rect x="178" y="168" width="24" height="12" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hanging string -->
+  <line x1="190" y1="80" x2="190" y2="85" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tassel -->
+  <line x1="190" y1="180" x2="190" y2="200" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="185" y1="195" x2="190" y2="200" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="195" x2="190" y2="200" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lantern ribs -->
+  <line x1="162" y1="118" x2="218" y2="118" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="162" y1="130" x2="218" y2="130" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="162" y1="142" x2="218" y2="142" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Ground baseline -->
+  <line x1="20" y1="205" x2="260" y2="205" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

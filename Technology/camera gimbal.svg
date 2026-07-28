@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- stabilising arrows -->
+  <path d="M 30 85 Q 45 70 60 85" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="27,80 22,90 35,89" fill="#1d0e82"/>
+  <path d="M 230 85 Q 245 70 260 85" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="263,80 268,90 255,89" fill="#1d0e82"/>
+  <!-- DSLR body -->
+  <rect x="85" y="38" width="120" height="65" rx="6" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="90" y="50" width="110" height="48" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- viewfinder hump -->
+  <rect x="130" y="28" width="30" height="14" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lens -->
+  <rect x="118" y="60" width="54" height="40" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="145" cy="80" r="16" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="80" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- grip/shutter button -->
+  <circle cx="195" cy="50" r="3" fill="#d01424" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- mount plate -->
+  <rect x="125" y="103" width="40" height="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- vertical arm -->
+  <rect x="138" y="111" width="14" height="28" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- motor -->
+  <circle cx="145" cy="143" r="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="143" r="4" fill="#000000"/>
+  <!-- handle -->
+  <rect x="130" y="155" width="30" height="68" rx="10" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="134" y="163" width="22" height="34" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- joystick -->
+  <circle cx="145" cy="207" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="1.48"/>
+</g></svg>

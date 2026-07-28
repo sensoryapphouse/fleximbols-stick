@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="94.45 90.18 331.64 331.64">
+<!-- pronoun = an arrow pointing to a token (stands in / refers to a noun) -->
+<!-- token being referred to -->
+<rect x="300" y="200" width="100" height="112" rx="16" fill="#7ec8e3" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="350" cy="240" r="18" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 322 296 C 322 268 378 268 378 296" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- pointing arrow -->
+<path d="M 120.0 267.0 L 244.0 267.0 L 244.0 282.0 L 286.0 256.0 L 244.0 230.0 L 244.0 245.0 L 120.0 245.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

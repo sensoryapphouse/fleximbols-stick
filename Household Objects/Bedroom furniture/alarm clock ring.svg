@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- BOLD SOUND WAVES on left side -->
+  <!-- Outer left wave -->
+  <path d="M42 72 Q18 120 42 168" stroke="#f8130d" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <!-- Middle left wave -->
+  <path d="M60 86 Q42 120 60 154" stroke="#f8130d" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- Inner left wave -->
+  <path d="M78 98 Q66 120 78 142" stroke="#f8130d" stroke-width="3.33" fill="none" stroke-linecap="round"/>
+
+  <!-- BOLD SOUND WAVES on right side -->
+  <!-- Outer right wave -->
+  <path d="M248 72 Q272 120 248 168" stroke="#f8130d" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <!-- Middle right wave -->
+  <path d="M230 86 Q248 120 230 154" stroke="#f8130d" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- Inner right wave -->
+  <path d="M212 98 Q224 120 212 142" stroke="#f8130d" stroke-width="3.33" fill="none" stroke-linecap="round"/>
+
+  <!-- ALARM CLOCK BODY - large bold circle -->
+  <circle cx="145" cy="128" r="84" fill="#efefef" stroke="#1a1a1a" stroke-width="6.66"/>
+  <!-- Clock face inner -->
+  <circle cx="145" cy="128" r="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Clock face numbers / tick marks -->
+  <line x1="145" y1="62" x2="145" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="178" x2="145" y2="188" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="81" y1="128" x2="71" y2="128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="209" y1="128" x2="219" y2="128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Diagonal ticks -->
+  <line x1="174" y1="70" x2="169" y2="79" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="202" y1="98" x2="193" y2="103" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="116" y1="70" x2="121" y2="79" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="88" y1="98" x2="97" y2="103" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="88" y1="158" x2="97" y2="153" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="202" y1="158" x2="193" y2="153" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Clock hands (showing ~7:00 - alarm time) -->
+  <!-- Hour hand (pointing up-left, ~7 o'clock) -->
+  <line x1="145" y1="128" x2="118" y2="94" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <!-- Minute hand (pointing up, ~12) -->
+  <line x1="145" y1="128" x2="145" y2="74" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Center pin -->
+  <circle cx="145" cy="128" r="6" fill="#000000"/>
+
+  <!-- Twin bells on top - LEFT bell -->
+  <ellipse cx="100" cy="54" rx="22" ry="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="100" cy="54" rx="14" ry="12" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Bell clapper left -->
+  <circle cx="100" cy="66" r="5" fill="#000000"/>
+  <!-- Bell bracket left -->
+  <rect x="96" y="44" width="8" height="14" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Twin bells on top - RIGHT bell -->
+  <ellipse cx="190" cy="54" rx="22" ry="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="190" cy="54" rx="14" ry="12" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Bell clapper right -->
+  <circle cx="190" cy="66" r="5" fill="#000000"/>
+  <!-- Bell bracket right -->
+  <rect x="186" y="44" width="8" height="14" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Hammer between bells hitting (motion) -->
+  <line x1="145" y1="48" x2="128" y2="56" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <circle cx="126" cy="58" r="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Feet / legs at bottom of clock -->
+  <ellipse cx="122" cy="210" rx="14" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="112" y="200" width="20" height="12" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="168" cy="210" rx="14" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="200" width="20" height="12" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- MOTION LINES around clock (vibrating) -->
+  <line x1="84" y1="46" x2="76" y2="36" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="206" y1="46" x2="214" y2="36" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="72" y1="72" x2="60" y2="64" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="218" y1="72" x2="230" y2="64" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

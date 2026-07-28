@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Under-sink garbage disposal: sink drain above + cylindrical grinding unit below -->
+
+  <!-- Sink basin (viewed from side, partial) -->
+  <rect x="55" y="28" width="180" height="60" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sink interior -->
+  <rect x="65" y="36" width="160" height="44" rx="4" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Water in sink -->
+  <rect x="65" y="62" width="160" height="18" rx="2" ry="2" fill="#90a7d6" stroke="none"/>
+
+  <!-- Drain opening in sink floor -->
+  <ellipse cx="145" cy="80" rx="18" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Drain strainer lines -->
+  <line x1="136" y1="80" x2="154" y2="80" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="145" y1="74" x2="145" y2="86" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+
+  <!-- Drain neck pipe connecting sink to disposal -->
+  <rect x="133" y="87" width="24" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Disposal unit body (cylinder) -->
+  <rect x="100" y="107" width="90" height="75" rx="12" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Top cap of disposal -->
+  <ellipse cx="145" cy="107" rx="45" ry="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottom cap -->
+  <ellipse cx="145" cy="182" rx="45" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Grinding ring detail (horizontal bands) -->
+  <line x1="102" y1="130" x2="188" y2="130" stroke="#7f7f7f" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="102" y1="150" x2="188" y2="150" stroke="#7f7f7f" stroke-width="2.66" stroke-linecap="round"/>
+
+  <!-- Reset button on bottom -->
+  <circle cx="145" cy="192" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55"/>
+
+  <!-- Side drain outlet pipe -->
+  <rect x="188" y="148" width="30" height="14" rx="5" ry="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Power cord -->
+  <path d="M118 194 Q108 210 100 215" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

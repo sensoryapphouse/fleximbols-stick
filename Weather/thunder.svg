@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2000) translate(-256.00 -250.00)">
+<!-- storm cloud -->
+<circle cx="190" cy="180" r="52" fill="#5b6b78"/>
+<circle cx="250" cy="146" r="66" fill="#5b6b78"/>
+<circle cx="318" cy="160" r="58" fill="#5b6b78"/>
+<circle cx="366" cy="190" r="46" fill="#5b6b78"/>
+<rect x="178" y="160" width="200" height="64" rx="32" fill="#5b6b78"/>
+<circle cx="190" cy="180" r="43" fill="#cfd8e0"/>
+<circle cx="250" cy="146" r="57" fill="#cfd8e0"/>
+<circle cx="318" cy="160" r="49" fill="#cfd8e0"/>
+<circle cx="366" cy="190" r="38" fill="#cfd8e0"/>
+<rect x="186" y="168" width="184" height="56" rx="28" fill="#cfd8e0"/>
+<!-- lightning bolt under the cloud (kept, fairly small) -->
+<polygon points="250,228 296,228 268,280 304,280 236,372 262,300 232,300" fill="#f6c500" stroke="#caa015" stroke-width="6" stroke-linejoin="round"/>
+<!-- BOOM: concentric sound-wave arcs emanating from the bolt, fanning to the right -->
+<g stroke="#e0473c" stroke-width="9" stroke-linecap="round" fill="none">
+<path d="M 318 268 A 40 40 0 0 1 318 348"/>
+<path d="M 350 252 A 72 72 0 0 1 350 364"/>
+<path d="M 382 238 A 104 104 0 0 1 382 378"/>
+</g>
+<!-- small impact starburst at the sound origin to mark the loud crack -->
+<g stroke="#e0473c" stroke-width="8" stroke-linecap="round">
+<line x1="300" y1="308" x2="284" y2="308"/>
+<line x1="300" y1="290" x2="290" y2="298"/>
+<line x1="300" y1="326" x2="290" y2="318"/>
+</g>
+</g></svg>

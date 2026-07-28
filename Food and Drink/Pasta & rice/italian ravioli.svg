@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate base -->
+  <ellipse cx="145" cy="205" rx="105" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Plate -->
+  <path d="M48 155 Q44 205 145 219 Q246 205 242 155 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="155" rx="97" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Light butter/sage sauce pool -->
+  <ellipse cx="145" cy="168" rx="80" ry="28" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ravioli 1 - top left - square with crimped edges and filling bulge -->
+  <rect x="68" y="138" width="58" height="50" rx="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Crimped edge top -->
+  <path d="M68 138 Q75 133 82 138 Q89 133 96 138 Q103 133 110 138 Q117 133 124 138 Q126 133 126 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Crimped edge bottom -->
+  <path d="M68 188 Q75 193 82 188 Q89 193 96 188 Q103 193 110 188 Q117 193 124 188 Q126 193 126 188" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Filling bulge in ravioli 1 -->
+  <ellipse cx="97" cy="163" rx="18" ry="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Ravioli 2 - top right -->
+  <rect x="164" y="134" width="58" height="50" rx="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M164 134 Q171 129 178 134 Q185 129 192 134 Q199 129 206 134 Q213 129 218 134 Q222 129 222 134" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M164 184 Q171 189 178 184 Q185 189 192 184 Q199 189 206 184 Q213 189 218 184 Q222 189 222 184" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="193" cy="159" rx="18" ry="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Ravioli 3 - bottom center -->
+  <rect x="116" y="170" width="58" height="48" rx="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M116 170 Q123 165 130 170 Q137 165 144 170 Q151 165 158 170 Q165 165 170 170 Q174 165 174 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M116 218 Q123 223 130 218 Q137 223 144 218 Q151 223 158 218 Q165 223 170 218 Q174 223 174 218" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="145" cy="194" rx="18" ry="13" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Sauce drizzle -->
+  <path d="M68 168 Q85 172 100 168" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M170 162 Q188 166 205 162" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

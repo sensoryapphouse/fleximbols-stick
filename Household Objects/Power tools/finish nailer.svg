@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Slim lightweight finish nailer body -->
+  <!-- Body / motor head — narrower and lighter than framing nailer -->
+  <path d="M 65,28 L 185,28 Q 198,28 198,45 L 198,118 Q 198,130 185,130 L 65,130 Q 52,130 52,118 L 52,45 Q 52,28 65,28 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Slim nose / nailing tip -->
+  <rect x="52" y="130" width="24" height="52" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Narrow contact tip -->
+  <rect x="57" y="180" width="14" height="10" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Pistol grip handle — slim -->
+  <path d="M 158,130 L 185,130 L 202,210 L 172,210 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Trigger (slim) -->
+  <rect x="166" y="148" width="12" height="22" rx="3" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Handle grip lines -->
+  <line x1="177" y1="155" x2="196" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="180" y1="167" x2="199" y2="167" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="183" y1="179" x2="202" y2="179" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Thin straight nail magazine — slim and straight (not angled strip) -->
+  <rect x="76" y="130" width="82" height="18" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Nails in magazine (fine finish nails) -->
+  <line x1="90" y1="132" x2="90" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="102" y1="132" x2="102" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="114" y1="132" x2="114" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="126" y1="132" x2="126" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="138" y1="132" x2="138" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="150" y1="132" x2="150" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Exhaust / air fitting on back -->
+  <circle cx="198" cy="72" r="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="198" cy="72" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Air hose -->
+  <path d="M 212,72 Q 240,65 250,80 Q 260,95 280,90" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Ventilation slots on body -->
+  <line x1="70" y1="50" x2="185" y2="50" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="70" y1="64" x2="185" y2="64" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- LED / indicator light -->
+  <circle cx="125" cy="82" r="8" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Selector switch -->
+  <rect x="88" y="100" width="75" height="16" rx="3" ry="3" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

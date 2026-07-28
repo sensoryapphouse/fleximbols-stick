@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- simple clinical external outline (outer labia), plain educational diagram -->
+<!-- outer labia: two symmetric almond curves meeting top and bottom -->
+<path d="M 256 110
+         Q 332 150 332 256
+         Q 332 362 256 402
+         Q 180 362 180 256
+         Q 180 150 256 110 Z"
+      fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inner cleft line (simple central line, non-explicit) -->
+<path d="M 256 150 Q 256 256 256 362" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- small mons curve at top -->
+<path d="M 214 140 Q 256 122 298 140" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

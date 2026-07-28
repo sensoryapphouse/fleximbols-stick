@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="130.56 123.73 298.67 298.67">
+<!-- ear mould: custom soft earpiece shaped to the ear, with sound tube -->
+<path d="M 196 150 Q 320 130 332 244 Q 340 320 286 360 Q 246 388 214 360 Q 196 344 212 326 Q 240 300 236 268 Q 232 240 206 238 Q 168 234 162 198 Q 158 162 196 150 Z" fill="#f0c9a0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- concha bowl shading -->
+<path d="M 226 198 Q 286 184 296 248 Q 302 300 262 326" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- canal stalk of the mould -->
+<path d="M 214 348 Q 196 376 176 392" fill="none" stroke="#d99a64" stroke-width="22" stroke-linecap="round"/>
+<!-- clear sound tube exiting top -->
+<path d="M 300 200 Q 360 168 396 196" fill="none" stroke="#9ccbe0" stroke-width="12" stroke-linecap="round"/>
+<circle cx="300" cy="200" r="12" fill="#cfe8ff" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

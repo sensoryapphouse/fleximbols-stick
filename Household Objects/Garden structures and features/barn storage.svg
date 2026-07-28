@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Red barn with X-cross door, hay bales stacked beside -->
+  <!-- Ground -->
+  <rect x="10" y="205" width="270" height="20" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Barn body -->
+  <rect x="40" y="100" width="140" height="106" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Barn roof (gambrel) -->
+  <path d="M30 100 L60 70 L60 50 L160 50 L160 70 L190 100 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Hay loft door -->
+  <rect x="96" y="62" width="28" height="28" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Big barn door -->
+  <rect x="80" y="130" width="60" height="76" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Door frame top -->
+  <rect x="78" y="128" width="64" height="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Door split line -->
+  <line x1="110" y1="134" x2="110" y2="206" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- X-cross on doors -->
+  <line x1="80" y1="134" x2="140" y2="206" stroke="#5e1f0a" stroke-width="11.11" stroke-linecap="round"/>
+  <line x1="140" y1="134" x2="80" y2="206" stroke="#5e1f0a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Side window -->
+  <rect x="150" y="120" width="22" height="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56"/>
+  <line x1="161" y1="120" x2="161" y2="142" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="150" y1="131" x2="172" y2="131" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hay bales stacked beside (right) -->
+  <!-- Bottom row -->
+  <rect x="200" y="170" width="36" height="36" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="240" y="170" width="36" height="36" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Top bale -->
+  <rect x="220" y="134" width="36" height="36" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Hay texture (straws) on each bale -->
+  <line x1="206" y1="178" x2="230" y2="184" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="206" y1="190" x2="230" y2="196" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="246" y1="178" x2="270" y2="184" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="246" y1="190" x2="270" y2="196" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="226" y1="142" x2="250" y2="148" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="226" y1="154" x2="250" y2="160" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Twine bands -->
+  <line x1="210" y1="170" x2="210" y2="206" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="226" y1="170" x2="226" y2="206" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="250" y1="170" x2="250" y2="206" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="266" y1="170" x2="266" y2="206" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="230" y1="134" x2="230" y2="170" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="246" y1="134" x2="246" y2="170" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

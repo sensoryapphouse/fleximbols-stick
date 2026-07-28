@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.52 82.93 352.97 352.97"><!-- shin pads (pair) -->
+<!-- left pad -->
+<path d="M 175 110 Q 235 110 235 170 L 235 360 Q 235 410 205 410 Q 175 410 175 360 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left pad inner highlight stripe -->
+<line x1="205" y1="140" x2="205" y2="370" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+<!-- left strap -->
+<path d="M 175 215 Q 150 215 150 230 Q 150 245 175 245" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 175 305 Q 150 305 150 320 Q 150 335 175 335" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- right pad -->
+<path d="M 337 110 Q 277 110 277 170 L 277 360 Q 277 410 307 410 Q 337 410 337 360 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right pad inner highlight stripe -->
+<line x1="307" y1="140" x2="307" y2="370" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+<!-- right strap -->
+<path d="M 337 215 Q 362 215 362 230 Q 362 245 337 245" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 337 305 Q 362 305 362 320 Q 362 335 337 335" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+</svg>

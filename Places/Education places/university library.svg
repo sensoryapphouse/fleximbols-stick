@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="15" y="210" width="260" height="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Main building body - grand, large -->
+  <rect x="30" y="130" width="230" height="80" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Triangular pediment / gable at top -->
+  <polygon points="22,130 145,70 268,130" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pediment inner triangle -->
+  <polygon points="40,130 145,84 250,130" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Columns (6) -->
+  <rect x="44" y="130" width="14" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="74" y="130" width="14" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="104" y="130" width="14" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="172" y="130" width="14" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="202" y="130" width="14" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="232" y="130" width="14" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Column bases -->
+  <rect x="40" y="206" width="210" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Door (central, between middle columns) -->
+  <rect x="125" y="165" width="40" height="45" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M125,165 Q145,152 165,165" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Door knob -->
+  <circle cx="158" cy="190" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- OPEN BOOK emblem in pediment -->
+  <!-- Left page -->
+  <path d="M113,102 L116,116 Q145,108 145,112 L145,98 Q131,92 113,102 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right page -->
+  <path d="M177,102 L174,116 Q145,108 145,112 L145,98 Q159,92 177,102 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Book spine -->
+  <line x1="145" y1="98" x2="145" y2="112" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Book bottom curve -->
+  <path d="M116,116 Q145,122 174,116" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lines left page -->
+  <line x1="117" y1="105" x2="141" y2="103" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="117" y1="110" x2="141" y2="108" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Lines right page -->
+  <line x1="149" y1="103" x2="173" y2="105" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="149" y1="108" x2="173" y2="110" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- GRADUATION CAP emblem (right of book, above pediment centre) -->
+  <!-- Cap board -->
+  <polygon points="200,88 228,80 228,86 214,90 200,94 186,90 172,86 172,80" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cap crown -->
+  <rect x="207" y="82" width="14" height="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cap top button -->
+  <circle cx="214" cy="80" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Tassel -->
+  <line x1="228" y1="83" x2="234" y2="96" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="234" cy="98" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

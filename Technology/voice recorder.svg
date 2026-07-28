@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- small handheld digital voice recorder body -->
+  <rect x="100" y="20" width="90" height="200" rx="12" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="106" y="26" width="78" height="188" rx="8" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- built-in mic at top (twin capsules) -->
+  <circle cx="125" cy="40" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="40" r="5" fill="#7f7f7f"/>
+  <line x1="121" y1="36" x2="129" y2="44" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="129" y1="36" x2="121" y2="44" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="165" cy="40" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="40" r="5" fill="#7f7f7f"/>
+  <line x1="161" y1="36" x2="169" y2="44" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="169" y1="36" x2="161" y2="44" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- screen -->
+  <rect x="114" y="58" width="62" height="56" rx="4" ry="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- screen content: waveform -->
+  <path d="M120,90 L124,82 L128,96 L132,78 L136,98 L140,84 L144,92 L148,80 L152,94 L156,86 L160,90 L164,82 L168,92 L172,88" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- recording dot -->
+  <circle cx="122" cy="68" r="3" fill="#f8130d"/>
+  <!-- time bars at bottom of screen -->
+  <rect x="120" y="103" width="50" height="3" fill="#fff200"/>
+  <!-- record button (red) -->
+  <circle cx="145" cy="135" r="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="135" r="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- transport buttons row -->
+  <circle cx="120" cy="170" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M117,166 L117,174 L124,170 Z" fill="#000000"/>
+  <circle cx="145" cy="170" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="141" y="166" width="3" height="8" fill="#000000"/>
+  <rect x="146" y="166" width="3" height="8" fill="#000000"/>
+  <circle cx="170" cy="170" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="166" y="166" width="8" height="8" fill="#000000"/>
+  <!-- menu/back buttons -->
+  <rect x="115" y="190" width="22" height="12" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="153" y="190" width="22" height="12" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- side clip/wrist strap loop top right -->
+  <rect x="185" y="30" width="10" height="20" rx="3" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- hand holding recorder hint: a few finger curves on right side -->
+  <path d="M195,80 Q215,85 215,100 Q215,115 200,118" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M195,115 Q215,120 215,135 Q215,150 200,153" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M195,150 Q215,155 215,170 Q215,185 200,188" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

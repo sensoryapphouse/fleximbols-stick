@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="170" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- ground / garden -->
+  <rect x="0" y="170" width="290" height="70" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- sun -->
+  <circle cx="245" cy="40" r="16" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left minaret -->
+  <rect x="30" y="120" width="14" height="80" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="37" cy="116" r="9" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M37 100 L37 108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- right minaret -->
+  <rect x="246" y="120" width="14" height="80" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="253" cy="116" r="9" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M253 100 L253 108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- main building base -->
+  <rect x="75" y="135" width="140" height="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- archway -->
+  <path d="M130 200 L130 165 Q145 145 160 165 L160 200 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- dome -->
+  <path d="M95 135 Q95 80 145 75 Q195 80 195 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- dome spire -->
+  <path d="M145 75 L145 55" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="145" cy="52" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- small side domes -->
+  <path d="M78 135 Q78 115 95 113 Q112 115 112 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M178 135 Q178 115 195 113 Q212 115 212 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- reflecting pool -->
+  <rect x="100" y="210" width="90" height="20" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M108 218 L120 218 M135 222 L150 222 M165 218 L180 218" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

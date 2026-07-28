@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2015) translate(-256.00 -294.50)">
+<!-- ===== telegram slip (printed form) ===== -->
+<rect x="128" y="128" width="256" height="332" rx="6" fill="#cdbf99" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="120" y="120" width="256" height="332" rx="8" fill="#f3ead3" stroke="#cdbf99" stroke-width="5"/>
+<!-- printed header banner across the top: telegraph form title (blocky letters, no text) -->
+<rect x="120" y="120" width="256" height="56" rx="8" fill="#5a5347" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="120" y="160" width="256" height="16" fill="#3f3a31" stroke="#1a1a1a" stroke-width="0"/>
+<!-- title lettering block (POST OFFICE TELEGRAPH) suggested as rows of light blocks -->
+<g fill="#f3ead3">
+<rect x="140" y="132" width="18" height="14" rx="2"/>
+<rect x="163" y="132" width="18" height="14" rx="2"/>
+<rect x="186" y="132" width="18" height="14" rx="2"/>
+<rect x="209" y="132" width="18" height="14" rx="2"/>
+<rect x="240" y="132" width="18" height="14" rx="2"/>
+<rect x="263" y="132" width="18" height="14" rx="2"/>
+<rect x="286" y="132" width="18" height="14" rx="2"/>
+<rect x="309" y="132" width="18" height="14" rx="2"/>
+<rect x="332" y="132" width="18" height="14" rx="2"/>
+</g>
+<!-- small printed boxes top-right of header (office stamp / charges grid) -->
+<g fill="none" stroke="#cdbf99" stroke-width="3">
+<rect x="138" y="186" width="60" height="26" rx="2"/>
+<rect x="206" y="186" width="60" height="26" rx="2"/>
+<rect x="274" y="186" width="88" height="26" rx="2"/>
+</g>
+<!-- faint printed horizontal guide lines across the body -->
+<g stroke="#ded2b2" stroke-width="2">
+<line x1="138" y1="240" x2="362" y2="240"/>
+<line x1="138" y1="276" x2="362" y2="276"/>
+<line x1="138" y1="312" x2="362" y2="312"/>
+<line x1="138" y1="348" x2="362" y2="348"/>
+<line x1="138" y1="384" x2="362" y2="384"/>
+<line x1="138" y1="420" x2="362" y2="420"/>
+</g>
+<!-- ===== pasted ticker-tape strips of capitalised words ===== -->
+<!-- strip helper: a raised lighter paper strip with a thin drop shadow + rows of small dark word-blocks -->
+<!-- strip 1 -->
+<rect x="140" y="228" width="226" height="26" rx="2" fill="#cdbf99" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="136" y="224" width="226" height="26" rx="2" fill="#fbf6e8" stroke="#c9bb93" stroke-width="2"/>
+<g fill="#2c2820">
+<rect x="146" y="233" width="30" height="9" rx="1"/>
+<rect x="182" y="233" width="20" height="9" rx="1"/>
+<rect x="208" y="233" width="42" height="9" rx="1"/>
+<rect x="256" y="233" width="26" height="9" rx="1"/>
+<rect x="288" y="233" width="38" height="9" rx="1"/>
+<rect x="332" y="233" width="20" height="9" rx="1"/>
+</g>
+<!-- strip 2 -->
+<rect x="140" y="264" width="226" height="26" rx="2" fill="#cdbf99" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="136" y="260" width="226" height="26" rx="2" fill="#fbf6e8" stroke="#c9bb93" stroke-width="2"/>
+<g fill="#2c2820">
+<rect x="146" y="269" width="24" height="9" rx="1"/>
+<rect x="176" y="269" width="40" height="9" rx="1"/>
+<rect x="222" y="269" width="22" height="9" rx="1"/>
+<rect x="250" y="269" width="34" height="9" rx="1"/>
+<rect x="290" y="269" width="28" height="9" rx="1"/>
+</g>
+<!-- strip 3 -->
+<rect x="140" y="300" width="226" height="26" rx="2" fill="#cdbf99" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="136" y="296" width="226" height="26" rx="2" fill="#fbf6e8" stroke="#c9bb93" stroke-width="2"/>
+<g fill="#2c2820">
+<rect x="146" y="305" width="36" height="9" rx="1"/>
+<rect x="188" y="305" width="22" height="9" rx="1"/>
+<rect x="216" y="305" width="30" height="9" rx="1"/>
+<rect x="252" y="305" width="44" height="9" rx="1"/>
+<rect x="302" y="305" width="24" height="9" rx="1"/>
+</g>
+<!-- strip 4 (short) -->
+<rect x="140" y="336" width="150" height="26" rx="2" fill="#cdbf99" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="136" y="332" width="150" height="26" rx="2" fill="#fbf6e8" stroke="#c9bb93" stroke-width="2"/>
+<g fill="#2c2820">
+<rect x="146" y="341" width="28" height="9" rx="1"/>
+<rect x="180" y="341" width="38" height="9" rx="1"/>
+<rect x="224" y="341" width="50" height="9" rx="1"/>
+</g>
+</g></svg>

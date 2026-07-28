@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="56.48 39.41 395.64 395.64"><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a pretty hair bow with sparkles -->
+<g transform="translate(256 256)">
+<!-- ribbon tails -->
+<path d="M -16 14 L -54 96 L -18 80 Z" fill="#f48fb1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 16 14 L 54 96 L 18 80 Z" fill="#f48fb1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left loop -->
+<path d="M 0 0 L -120 -56 Q -150 -2 -120 52 L 0 0 Z" fill="#ff7eb0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right loop -->
+<path d="M 0 0 L 120 -56 Q 150 -2 120 52 L 0 0 Z" fill="#ff7eb0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- knot -->
+<rect x="-22" y="-26" width="44" height="52" rx="12" fill="#f06292" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<!-- sparkles -->
+<g fill="#ffd23f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+<polygon points="110,150 117,170 137,177 117,184 110,204 103,184 83,177 103,170"/>
+<polygon points="402,156 408,174 426,180 408,186 402,204 396,186 378,180 396,174"/>
+<polygon points="256,120 262,136 278,142 262,148 256,164 250,148 234,142 250,136"/>
+</g>
+</svg>

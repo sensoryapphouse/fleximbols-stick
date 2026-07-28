@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Yellow Snap-style square background -->
+  <rect x="30" y="20" width="230" height="200" rx="24" fill="#fff200" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Ghost icon body -->
+  <path d="M 100,80 Q 100,50 145,50 Q 190,50 190,80 L 190,170 L 178,158 L 166,170 L 154,158 L 145,170 L 136,158 L 124,170 L 112,158 L 100,170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ghost eyes -->
+  <ellipse cx="128" cy="100" rx="6" ry="8" fill="#000000"/>
+  <ellipse cx="162" cy="100" rx="6" ry="8" fill="#000000"/>
+  <!-- Ghost mouth (small smile) -->
+  <path d="M 138,124 Q 145,132 152,124" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Cheek blush (filter effect) -->
+  <circle cx="122" cy="124" r="6" fill="#f4a4b2" stroke="none"/>
+  <circle cx="168" cy="124" r="6" fill="#f4a4b2" stroke="none"/>
+  <!-- Sparkles around ghost -->
+  <path d="M 62,60 L 66,72 L 78,76 L 66,80 L 62,92 L 58,80 L 46,76 L 58,72 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 228,60 L 232,72 L 244,76 L 232,80 L 228,92 L 224,80 L 212,76 L 224,72 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 50,170 L 53,178 L 61,181 L 53,184 L 50,192 L 47,184 L 39,181 L 47,178 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 240,170 L 243,178 L 251,181 L 243,184 L 240,192 L 237,184 L 229,181 L 237,178 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small star -->
+  <path d="M 145,30 L 148,38 L 156,40 L 148,42 L 145,50 L 142,42 L 134,40 L 142,38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bleach bottle on left with cap + small swimming pool icon on right -->
+  <!-- bleach bottle body -->
+  <path d="M50 100 Q50 90 60 90 L100 90 Q110 90 110 100 L110 200 Q110 215 95 215 L65 215 Q50 215 50 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- bottle neck -->
+  <rect x="70" y="60" width="20" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- bottle cap -->
+  <rect x="64" y="45" width="32" height="20" rx="3" ry="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- cap ridges -->
+  <line x1="70" y1="48" x2="70" y2="62" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="80" y1="48" x2="80" y2="62" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="90" y1="48" x2="90" y2="62" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- bottle label -->
+  <rect x="55" y="125" width="50" height="55" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- droplet on label -->
+  <path d="M80 140 Q70 153 73 162 Q76 170 80 170 Q84 170 87 162 Q90 153 80 140 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- swimming pool on right -->
+  <!-- pool outer rim -->
+  <rect x="155" y="100" width="115" height="100" rx="8" ry="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- water -->
+  <rect x="167" y="112" width="91" height="76" rx="4" ry="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- water wave lines -->
+  <path d="M172 135 Q185 128 198 135 T224 135 T250 135" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M172 155 Q185 148 198 155 T224 155 T250 155" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M172 175 Q185 168 198 175 T224 175 T250 175" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- ladder -->
+  <line x1="262" y1="100" x2="262" y2="125" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M258 105 Q262 100 266 105" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+</g></svg>

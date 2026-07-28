@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="126.88 85.92 331.64 331.64">
+<!-- ankle support: foot/ankle brace - sock-shaped wrap around ankle and foot with cross straps. NO person, just the support garment. -->
+<!-- foot + ankle sleeve silhouette (side view, toe to right) -->
+<path d="M 220 120 L 296 120 Q 308 120 308 134 L 308 300 Q 308 320 326 326 L 392 348 Q 404 352 404 366 L 404 384 Q 404 392 392 392 L 200 392 Q 184 392 182 372 Q 178 320 196 280 L 208 200 Z" fill="#8a93c9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ankle opening (top cuff) -->
+<ellipse cx="262" cy="124" rx="44" ry="14" fill="#6f79b0" stroke="#1a1a1a" stroke-width="8"/>
+<!-- cross strap 1 -->
+<line x1="206" y1="250" x2="320" y2="330" stroke="#3a4670" stroke-width="18" stroke-linecap="round"/>
+<line x1="206" y1="250" x2="320" y2="330" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0"/>
+<!-- cross strap 2 -->
+<line x1="300" y1="250" x2="210" y2="330" stroke="#3a4670" stroke-width="18" stroke-linecap="round"/>
+<!-- strap outlines -->
+<line x1="206" y1="250" x2="320" y2="330" stroke="#3a4670" stroke-width="14" stroke-linecap="round"/>
+<line x1="300" y1="250" x2="210" y2="330" stroke="#3a4670" stroke-width="14" stroke-linecap="round"/>
+</svg>

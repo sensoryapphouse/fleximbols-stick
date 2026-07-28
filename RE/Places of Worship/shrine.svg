@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -282.00)">
+<!-- ground -->
+<rect x="0.0" y="470.0" width="512.0" height="42.0" rx="0" fill="#b89a66" stroke="#1a1a1a" stroke-width="0"/>
+<!-- stepped stone base -->
+<rect x="96.0" y="444.0" width="320.0" height="26.0" rx="3" fill="#a89469" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="124.0" y="416.0" width="264.0" height="28.0" rx="3" fill="#cbb892" stroke="#1a1a1a" stroke-width="6"/>
+<!-- ============ SHRINE HOUSING (honden) - solid walled building ============ -->
+<!-- raised plinth/floor -->
+<rect x="184.0" y="392.0" width="144.0" height="24.0" rx="3" fill="#e7d3a6" stroke="#1a1a1a" stroke-width="6"/>
+<!-- solid body / walls (closed, not open posts) -->
+<rect x="196.0" y="252.0" width="120.0" height="140.0" rx="4" fill="#e7d3a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- closed double doors -->
+<rect x="232.0" y="300.0" width="48.0" height="92.0" rx="3" fill="#7a4a24" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="300" x2="256" y2="392" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="246.0" cy="346.0" r="3.5" fill="#e3b23c" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="266.0" cy="346.0" r="3.5" fill="#e3b23c" stroke="#1a1a1a" stroke-width="2"/>
+<!-- eave band under roof -->
+<rect x="180.0" y="240.0" width="152.0" height="16.0" rx="3" fill="#b07a3a" stroke="#1a1a1a" stroke-width="6"/>
+<!-- sweeping curved red roof -->
+<path d="M 160 242 Q 256 168 352 242 L 326 242 Q 256 198 186 242 Z" fill="#d6473c" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 160 242 Q 142 242 136 224" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 352 242 Q 370 242 376 224" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- gold roof finial (sacred ornament) -->
+<line x1="256" y1="190" x2="256" y2="172" stroke="#a8791d" stroke-width="5" stroke-linecap="round"/>
+<circle cx="256.0" cy="166.0" r="8.0" fill="#e3b23c" stroke="#1a1a1a" stroke-width="3"/>
+<!-- ============ RED TORII GATE (dominant shrine identifier, in front) ============ -->
+<!-- left pillar -->
+<rect x="146.0" y="328.0" width="28.0" height="132.0" rx="4" fill="#d6473c" stroke="#1a1a1a" stroke-width="7"/>
+<!-- right pillar -->
+<rect x="338.0" y="328.0" width="28.0" height="132.0" rx="4" fill="#d6473c" stroke="#1a1a1a" stroke-width="7"/>
+<!-- lower tie beam (nuki) -->
+<rect x="134.0" y="346.0" width="244.0" height="20.0" rx="3" fill="#d6473c" stroke="#1a1a1a" stroke-width="6"/>
+<!-- top lintel (shimaki) curving up at ends -->
+<path d="M 112 316 Q 256 296 400 316 L 400 338 Q 256 318 112 338 Z" fill="#d6473c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- ridge cap (kasagi) -->
+<path d="M 106 300 Q 256 280 406 300 L 400 318 Q 256 298 112 318 Z" fill="#b3392f" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- central plaque (gakuzuka) -->
+<rect x="246.0" y="318.0" width="20.0" height="28.0" rx="2" fill="#b3392f" stroke="#1a1a1a" stroke-width="5"/>
+<!-- ============ offering bowl + small flame (secondary cue) ============ -->
+<path d="M 236 458 Q 256 472 276 458 L 270 446 L 242 446 Z" fill="#e3b23c" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 256 420 C 244 436 249 452 256 454 C 263 452 268 436 256 420 Z" fill="#f5a623" stroke="#c8771a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 256 432 C 250 442 253 450 256 452 C 259 450 262 442 256 432 Z" fill="#f0b400" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+</g></svg>

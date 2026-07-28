@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- rounded animal back / body the quills sit on -->
+<path d="M 110 400 C 110 320 170 280 256 280 C 342 280 402 320 402 400 Z" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- quills / spines, banded (dark tip, light middle) -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="132,348 122,150 162,344" fill="#c89a5b"/>
+<polygon points="176,332 176,118 212,330" fill="#c89a5b"/>
+<polygon points="222,318 236,104 262,318" fill="#c89a5b"/>
+<polygon points="272,318 288,104 302,320" fill="#c89a5b"/>
+<polygon points="314,330 344,118 352,332" fill="#c89a5b"/>
+<polygon points="354,344 392,150 384,350" fill="#c89a5b"/>
+</g>
+<!-- dark quill tips -->
+<g fill="#1a1a1a">
+<polygon points="129,224 122,150 144,222"/>
+<polygon points="178,200 176,118 196,200"/>
+<polygon points="229,190 236,104 250,190"/>
+<polygon points="281,190 288,104 295,192"/>
+<polygon points="330,200 344,118 346,202"/>
+<polygon points="372,222 392,150 384,226"/>
+</g>
+</svg>

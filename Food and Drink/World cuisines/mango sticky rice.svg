@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate/base -->
+  <ellipse cx="145" cy="215" rx="125" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="208" rx="125" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="204" rx="115" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Sticky rice mound (left side) -->
+  <ellipse cx="88" cy="200" rx="58" ry="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M35 170 Q35 200 88 210 Q141 200 141 170 Q141 140 88 140 Q35 140 35 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Rice texture lines -->
+  <path d="M50 162 Q88 155 126 162" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M44 173 Q88 165 132 173" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M42 184 Q88 176 134 184" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Coconut cream drizzle on rice -->
+  <path d="M55 148 Q75 140 88 145 Q100 140 120 148" fill="none" stroke="#f5e7c4" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M68 143 Q88 138 108 143" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Mango slices (right side, ripe yellow-orange) -->
+  <!-- Slice 1 (largest, bottom) -->
+  <path d="M148 175 Q155 145 195 138 Q235 145 242 175 Q235 205 195 205 Q155 205 148 175 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Mango flesh markings -->
+  <path d="M158 175 Q195 152 232 175" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M153 185 Q195 163 237 185" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Slice 2 (overlapping top) -->
+  <path d="M152 155 Q158 130 192 124 Q226 130 232 155 Q226 178 192 180 Q158 178 152 155 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M162 155 Q192 138 222 155" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M158 164 Q192 148 226 164" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Coconut cream sesame seeds dots -->
+  <circle cx="68" cy="155" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="82" cy="150" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="97" cy="153" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

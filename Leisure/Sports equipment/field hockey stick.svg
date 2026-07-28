@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- grass ground -->
+  <path d="M30,205 L260,205 L260,220 L30,220 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- grass blades -->
+  <path d="M50,205 L55,195 L60,205 M90,205 L95,193 L100,205 M140,205 L145,195 L150,205 M195,205 L200,193 L205,205 M235,205 L240,195 L245,205"
+        fill="#67832d" stroke="#1a1a1a" stroke-width="3.23" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- L-shape hockey stick: long shaft + curved J-hook head -->
+  <!-- shaft -->
+  <path d="M195,30 L215,30 L130,170 L110,170 Z"
+        fill="#9d7246" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
+  <!-- grip wrap -->
+  <path d="M195,30 L215,30 L207,55 L188,55 Z"
+        fill="#000000" stroke="#1a1a1a" stroke-width="3.23" stroke-linejoin="round"/>
+  <!-- grip stripes -->
+  <path d="M198,40 L212,40 M194,48 L208,48" fill="none" stroke="#f7de58" stroke-width="3.23" stroke-linecap="round"/>
+  <!-- J-hook curved head -->
+  <path d="M130,170 L110,170 Q70,170 65,200 Q65,215 80,215 Q95,215 95,202 Q95,190 110,188 L130,170 Z"
+        fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- tape ring at hook base -->
+  <path d="M120,160 L135,180 L125,188 L110,168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <!-- small white ball on grass -->
+  <circle cx="180" cy="200" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
+  <circle cx="177" cy="197" r="2.5" fill="#efefef" stroke="none"/>
+</g></svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,36.403) scale(0.9289)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- workbench -->
+  <rect x="20" y="150" width="250" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.78"/>
+  <rect x="30" y="170" width="10" height="50" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="250" y="170" width="10" height="50" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M 20,165 L 270,165" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- sawdust on bench and floor -->
+  <circle cx="60" cy="148" r="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="100" cy="146" r="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="130" cy="148" r="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="180" cy="146" r="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="220" cy="148" r="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 50,222 L 270,222" stroke="#eed5b6" stroke-width="4.45"/>
+  <circle cx="80" cy="225" r="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="140" cy="227" r="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="200" cy="225" r="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- hammer on bench -->
+  <rect x="40" y="130" width="50" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="38" y="125" width="10" height="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="88" y="135" width="40" height="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- saw on bench (handsaw, big triangle blade) -->
+  <path d="M 150,150 L 240,150 L 235,140 L 145,140 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- teeth -->
+  <path d="M 150,150 L 154,154 L 158,150 L 162,154 L 166,150 L 170,154 L 174,150 L 178,154 L 182,150 L 186,154 L 190,150 L 194,154 L 198,150 L 202,154 L 206,150 L 210,154 L 214,150 L 218,154 L 222,150 L 226,154 L 230,150 L 234,154 L 238,150" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- saw handle -->
+  <path d="M 240,140 Q 260,140 260,128 Q 260,118 250,118 Q 245,118 244,124 L 244,138 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <circle cx="252" cy="128" r="2.5" fill="#000000"/>
+  <!-- screwdriver upright at left -->
+  <rect x="105" y="105" width="6" height="35" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="100" y="80" width="16" height="28" rx="3" ry="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- wrench leaning -->
+  <path d="M 22,100 L 70,140 L 64,148 L 16,108 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <circle cx="20" cy="100" r="8" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="68" cy="144" r="8" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="60" y="20" width="170" height="32" rx="4" ry="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- safety goggles on workbench (workshop safety) -->
+  <path d="M186 28 Q186 20 196 20 L228 20 Q238 20 238 28 Q238 36 228 36 L196 36 Q186 36 186 28 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <circle cx="204" cy="28" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="28" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="210" y1="28" x2="214" y2="28" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2859" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2859)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

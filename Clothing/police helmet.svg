@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- top knob -->
+<circle cx="256" cy="118" r="16" fill="#1a1a1a"/>
+<line x1="256" y1="132" x2="256" y2="156" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<!-- custodian dome body -->
+<path d="M 168 360 C 150 250 196 150 256 150 C 316 150 362 250 344 360 Q 256 338 168 360 Z" fill="#3d5fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- base rim band -->
+<path d="M 150 360 Q 256 332 362 360 Q 372 392 346 404 Q 256 380 166 404 Q 140 392 150 360 Z" fill="#33509c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- star badge -->
+<polygon points="256,212 274,250 312,238 290,272 318,300 280,300 256,336 232,300 194,300 222,272 200,238 238,250" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="256" cy="276" r="26" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

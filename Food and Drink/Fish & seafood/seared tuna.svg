@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate -->
+  <ellipse cx="145" cy="202" rx="118" ry="24" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="200" rx="112" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Tuna steak thick rectangular block - showing cross-section slice -->
+  <!-- Dark seared crust - top face -->
+  <path d="M 60 142 Q 62 130 78 126 L 212 126 Q 228 130 230 142 L 230 156 Q 212 150 78 150 Q 62 150 60 142 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dark seared crust - bottom band -->
+  <path d="M 60 188 Q 62 196 78 198 L 212 198 Q 228 196 230 188 L 230 175 Q 212 180 78 180 Q 62 180 60 188 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- RED RARE interior band - clearly visible between crust layers -->
+  <path d="M 60 156 L 230 156 L 230 175 L 60 175 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bright rare red center stripe -->
+  <path d="M 62 162 Q 145 160 228 162" fill="none" stroke="#f8130d" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 62 169 Q 145 167 228 169" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Left face showing steak thickness (3D side) -->
+  <path d="M 60 142 L 60 188 Q 62 196 78 198 Q 62 196 60 188 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Steak outline -->
+  <path d="M 60 142 Q 62 130 78 126 L 212 126 Q 228 130 230 142 L 230 188 Q 228 196 212 198 L 78 198 Q 62 196 60 188 Z" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Sear grill marks on top crust -->
+  <line x1="95" y1="127" x2="95" y2="149" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="122" y1="126" x2="122" y2="149" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="150" y1="126" x2="150" y2="149" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="178" y1="126" x2="178" y2="149" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="205" y1="127" x2="205" y2="149" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Sesame seeds on top crust -->
+  <ellipse cx="105" cy="135" rx="4" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="1.67" transform="rotate(20 105 135)"/>
+  <ellipse cx="135" cy="133" rx="4" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="1.67" transform="rotate(-10 135 133)"/>
+  <ellipse cx="163" cy="133" rx="4" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="1.67" transform="rotate(25 163 133)"/>
+  <ellipse cx="192" cy="135" rx="4" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="1.67" transform="rotate(-15 192 135)"/>
+  <!-- Wasabi -->
+  <path d="M 50 184 Q 48 172 58 168 Q 68 170 67 184 Q 62 190 56 190 Q 50 188 50 184 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ginger slices -->
+  <path d="M 222 185 Q 236 180 240 188 Q 237 196 226 196 Q 216 194 222 185 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 218 174 Q 232 169 236 177 Q 233 185 222 185 Q 212 183 218 174 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

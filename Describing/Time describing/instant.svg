@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="25.48 39.14 428.61 428.61" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- instant: stopwatch with a lightning bolt = happens immediately, no waiting -->
+<g>
+<!-- top button + arms -->
+<rect x="222" y="70" width="36" height="26" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="240" y1="96" x2="240" y2="124" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<line x1="318" y1="118" x2="338" y2="98" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- stopwatch body -->
+<circle cx="240" cy="278" r="158" fill="#eaf1f7" stroke="#1a1a1a" stroke-width="9"/>
+<!-- ticks -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round">
+<line x1="240" y1="138" x2="240" y2="162"/>
+<line x1="240" y1="394" x2="240" y2="418"/>
+<line x1="100" y1="278" x2="124" y2="278"/>
+<line x1="356" y1="278" x2="380" y2="278"/>
+</g>
+<!-- lightning bolt = instant -->
+<polygon points="270,176 198,300 244,300 224,392 312,256 258,256"
+ fill="#ffd23f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+</svg>

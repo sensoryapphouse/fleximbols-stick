@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- base -->
+<path d="M 168 360 L 344 360 L 356 410 L 156 410 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="150" y="404" width="212" height="14" rx="7" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- control buttons on base -->
+<circle cx="206" cy="385" r="11" fill="#5aa83c" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="252" cy="385" r="11" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<!-- clear bowl -->
+<path d="M 178 188 L 334 188 L 322 360 L 190 360 Z" fill="#dfeef7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- center spindle + blade -->
+<rect x="248" y="232" width="16" height="120" rx="6" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 200 300 L 312 300 L 296 268 L 216 268 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- lid -->
+<rect x="170" y="158" width="172" height="34" rx="12" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- feed tube -->
+<rect x="236" y="104" width="44" height="60" rx="8" fill="#dfeef7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pusher knob -->
+<rect x="244" y="92" width="28" height="20" rx="8" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</svg>

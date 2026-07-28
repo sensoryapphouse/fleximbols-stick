@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground line -->
+  <line x1="2" y1="205" x2="288" y2="205" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- VERY long stretch limo, low slung, stretched mid-section, multiple doors -->
+  <path d="M 6 200 L 8 175 L 30 150 L 55 140 L 250 140 L 270 150 L 282 175 L 282 200 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- chrome belt line all along -->
+  <rect x="8" y="172" width="276" height="4" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- driver windshield -->
+  <path d="M 38 150 L 50 162 L 72 162 L 72 144 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- driver window -->
+  <rect x="77" y="144" width="30" height="22" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- multiple stretched passenger windows (lots of doors) -->
+  <rect x="112" y="144" width="28" height="22" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="144" y="144" width="28" height="22" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="176" y="144" width="28" height="22" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="208" y="144" width="28" height="22" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rear window -->
+  <path d="M 240 144 L 240 166 L 258 166 L 250 148 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- MULTIPLE side door seams (4 visible doors) -->
+  <line x1="110" y1="168" x2="110" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="142" y1="168" x2="142" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="174" y1="168" x2="174" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="206" y1="168" x2="206" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="238" y1="168" x2="238" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- handles -->
+  <rect x="120" y="182" width="10" height="3" fill="#efefef" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="152" y="182" width="10" height="3" fill="#efefef" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="184" y="182" width="10" height="3" fill="#efefef" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="216" y="182" width="10" height="3" fill="#efefef" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- headlight -->
+  <rect x="10" y="180" width="12" height="9" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- tail light -->
+  <rect x="268" y="180" width="12" height="9" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- wheels (front, mid, rear to emphasise stretch) -->
+  <circle cx="55" cy="205" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="55" cy="205" r="6" fill="#efefef" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="155" cy="205" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="155" cy="205" r="6" fill="#efefef" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="240" cy="205" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="240" cy="205" r="6" fill="#efefef" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

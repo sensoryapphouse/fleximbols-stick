@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Water band -->
+  <rect x="0" y="175" width="290" height="65" rx="0" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wave highlights -->
+  <path d="M10 185 Q30 178 50 185 Q70 192 90 185 Q110 178 130 185 Q150 192 170 185 Q190 178 210 185 Q230 192 250 185 Q270 178 285 185" fill="none" stroke="#dff3fd" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Hull -->
+  <path d="M20 175 L35 155 L250 155 L265 175 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Deck / hull top rail -->
+  <rect x="35" y="150" width="215" height="7" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wheelhouse (tall, aft - right side) -->
+  <rect x="200" y="100" width="55" height="52" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wheelhouse windows -->
+  <rect x="208" y="108" width="14" height="10" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="228" y="108" width="14" height="10" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Bridge top / roof -->
+  <rect x="198" y="95" width="59" height="8" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Antenna mast -->
+  <line x1="225" y1="95" x2="225" y2="65" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="215" y1="70" x2="235" y2="70" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Stern gantry / A-frame -->
+  <line x1="250" y1="152" x2="265" y2="120" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="248" y1="152" x2="233" y2="120" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="233" y1="120" x2="265" y2="120" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Line reel (drum) - aft deck -->
+  <ellipse cx="185" cy="150" rx="12" ry="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="185" y1="138" x2="185" y2="162" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="173" y1="150" x2="197" y2="150" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Second drum -->
+  <ellipse cx="155" cy="150" rx="10" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bow low cabin -->
+  <rect x="40" y="130" width="60" height="22" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="48" y="135" width="12" height="9" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Foremast -->
+  <line x1="72" y1="130" x2="72" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="62" y1="105" x2="82" y2="105" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Fishing line suggestion -->
+  <path d="M265 120 Q278 135 270 155" fill="none" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

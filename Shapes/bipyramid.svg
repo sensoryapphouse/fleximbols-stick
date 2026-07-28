@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <linearGradient id="biL" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#d0e0f8"/>
+    <stop offset="100%" stop-color="#5a8ad6"/>
+  </linearGradient>
+  <linearGradient id="biD" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#5a8ad6"/>
+    <stop offset="100%" stop-color="#3a6ab6"/>
+  </linearGradient>
+</defs>
+<polygon points="145,15 200,120 145,120" fill="url(#biL)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,15 90,120 145,120" fill="#5a8ad6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,225 200,120 145,120" fill="#5a8ad6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,225 90,120 145,120" fill="url(#biD)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,15 245,140 200,120" fill="url(#biL)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,225 245,140 200,120" fill="#5a8ad6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,15 45,140 90,120" fill="#3a6ab6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,225 45,140 90,120" fill="url(#biD)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+</svg>

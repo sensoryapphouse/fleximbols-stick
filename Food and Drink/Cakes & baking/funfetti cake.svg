@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cake slice body - pale interior -->
+  <path d="M 60,215 L 60,95 L 230,95 L 230,215 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Angled top of slice -->
+  <path d="M 60,95 L 145,55 L 230,95" fill="#efefef" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Colourful sprinkles throughout interior - small rotated rects/lines -->
+  <line x1="80" y1="108" x2="88" y2="104" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="105" y1="112" x2="110" y2="105" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="130" y1="106" x2="138" y2="110" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="109" x2="165" y2="103" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="188" y1="107" x2="196" y2="111" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="112" x2="216" y2="106" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="72" y1="128" x2="80" y2="123" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="98" y1="132" x2="103" y2="125" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="150" y1="126" x2="158" y2="130" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="178" y1="130" x2="183" y2="123" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="205" y1="127" x2="213" y2="131" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Frosting layer 1 separator -->
+  <rect x="60" y="140" width="170" height="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="70" y1="162" x2="78" y2="156" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="158" x2="108" y2="163" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="130" y1="165" x2="138" y2="159" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="162" y1="160" x2="168" y2="165" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="192" y1="157" x2="200" y2="162" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="215" y1="163" x2="222" y2="157" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Frosting layer 2 separator -->
+  <rect x="60" y="180" width="170" height="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="78" y1="198" x2="86" y2="193" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="112" y1="202" x2="118" y2="196" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="148" y1="196" x2="156" y2="201" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="180" y1="200" x2="188" y2="195" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="196" x2="218" y2="202" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Top white frosting angled face -->
+  <path d="M 62,95 L 145,57 L 228,95 Q 208,87 188,93 Q 165,83 145,88 Q 125,83 102,93 Q 82,87 62,95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left side frosting -->
+  <rect x="55" y="95" width="9" height="120" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right side frosting -->
+  <rect x="226" y="95" width="9" height="120" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottom base -->
+  <rect x="55" y="210" width="180" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Sprinkles on top surface -->
+  <line x1="118" y1="74" x2="124" y2="69" stroke="#f8130d" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="135" y1="67" x2="141" y2="63" stroke="#2a4ec0" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="152" y1="65" x2="157" y2="70" stroke="#529929" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="168" y1="70" x2="173" y2="65" stroke="#f266aa" stroke-width="3.81" stroke-linecap="round"/>
+</g></svg>

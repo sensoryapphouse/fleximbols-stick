@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -312.50)">
+<!-- ground -->
+<rect x="0" y="470" width="512" height="42" fill="#a89469" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="256" cy="470" rx="232" ry="30" fill="#b3a07a" stroke="#1a1a1a" stroke-width="5"/>
+
+<!-- ===== Main curved facade body (wide ellipse band, side perspective) =====
+     Top cornice bows up in the middle; base bows the same way (parallel curve).
+     Left end full height; right end broken/stepped. -->
+<path d="M 44 250
+         A 260 130 0 0 1 468 250
+         L 468 430
+         A 260 70 0 0 1 44 430
+         Z"
+      fill="#cbb892" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+
+<!-- attic / top storey band (solid, above the arch tiers) -->
+<path d="M 44 250 A 260 130 0 0 1 468 250 L 468 286 A 260 118 0 0 0 44 286 Z"
+      fill="#b3a07a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+
+<!-- ===================== TIER 1 (upper arches) ===================== -->
+<g fill="#2b5688" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+<path d="M 78 322 L 78 304 A 11 14 0 0 1 100 304 L 100 322 Z"/>
+<path d="M 116 312 L 116 294 A 11 14 0 0 1 138 294 L 138 312 Z"/>
+<path d="M 154 305 L 154 287 A 11 14 0 0 1 176 287 L 176 305 Z"/>
+<path d="M 192 300 L 192 282 A 11 14 0 0 1 214 282 L 214 300 Z"/>
+<path d="M 230 297 L 230 279 A 11 14 0 0 1 252 279 L 252 297 Z"/>
+<path d="M 268 297 L 268 279 A 11 14 0 0 1 290 279 L 290 297 Z"/>
+<path d="M 306 300 L 306 282 A 11 14 0 0 1 328 282 L 328 300 Z"/>
+<path d="M 344 305 L 344 287 A 11 14 0 0 1 366 287 L 366 305 Z"/>
+<path d="M 382 312 L 382 294 A 11 14 0 0 1 404 294 L 404 312 Z"/>
+</g>
+
+<!-- ===================== TIER 2 (middle arches) ===================== -->
+<g fill="#2b5688" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+<path d="M 78 378 L 78 360 A 11 14 0 0 1 100 360 L 100 378 Z"/>
+<path d="M 116 372 L 116 354 A 11 14 0 0 1 138 354 L 138 372 Z"/>
+<path d="M 154 368 L 154 350 A 11 14 0 0 1 176 350 L 176 368 Z"/>
+<path d="M 192 365 L 192 347 A 11 14 0 0 1 214 347 L 214 365 Z"/>
+<path d="M 230 364 L 230 346 A 11 14 0 0 1 252 346 L 252 364 Z"/>
+<path d="M 268 364 L 268 346 A 11 14 0 0 1 290 346 L 290 364 Z"/>
+<path d="M 306 365 L 306 347 A 11 14 0 0 1 328 347 L 328 365 Z"/>
+<path d="M 344 368 L 344 350 A 11 14 0 0 1 366 350 L 366 368 Z"/>
+<path d="M 382 372 L 382 354 A 11 14 0 0 1 404 354 L 404 372 Z"/>
+</g>
+
+<!-- ===================== TIER 3 (lower arches) ===================== -->
+<g fill="#2b5688" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+<path d="M 78 432 L 78 414 A 11 14 0 0 1 100 414 L 100 432 Z"/>
+<path d="M 116 428 L 116 410 A 11 14 0 0 1 138 410 L 138 428 Z"/>
+<path d="M 154 425 L 154 407 A 11 14 0 0 1 176 407 L 176 425 Z"/>
+<path d="M 192 423 L 192 405 A 11 14 0 0 1 214 405 L 214 423 Z"/>
+<path d="M 230 422 L 230 404 A 11 14 0 0 1 252 404 L 252 422 Z"/>
+<path d="M 268 422 L 268 404 A 11 14 0 0 1 290 404 L 290 422 Z"/>
+<path d="M 306 423 L 306 405 A 11 14 0 0 1 328 405 L 328 423 Z"/>
+<path d="M 344 425 L 344 407 A 11 14 0 0 1 366 407 L 366 425 Z"/>
+<path d="M 382 428 L 382 410 A 11 14 0 0 1 404 410 L 404 428 Z"/>
+</g>
+
+<!-- ===================== RIGHT END: broken / ruined step-down ===================== -->
+<!-- cover the right-most arches with ruin mass, stepping the wall down in two levels -->
+<path d="M 414 250
+         A 260 130 0 0 1 468 250
+         L 468 286
+         L 446 286
+         L 446 348
+         L 420 348
+         L 420 406
+         A 260 70 0 0 1 414 430
+         Z"
+      fill="#bfaa83" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- jagged broken top edge of the ruin -->
+<path d="M 414 250 L 420 270 L 432 258 L 440 274 L 446 286 L 446 348 L 420 348 L 420 406"
+      fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- partial broken arch on the upper ruin step -->
+<path d="M 451 348 L 451 326 A 6 9 0 0 1 463 326 L 463 348 Z" fill="#23456e" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- partial broken arch on the lower ruin step -->
+<path d="M 426 406 L 426 384 A 6 9 0 0 1 438 384 L 438 406 Z" fill="#23456e" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round"/>
+
+<!-- broken notches on the left top edge for ruined texture -->
+<path d="M 150 287 L 150 303 L 168 301 L 168 289 Z" fill="#bfaa83" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

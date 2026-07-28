@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bone scan: skeletal x-ray image showing highlighted hotspot areas -->
+  <!-- scan film panel -->
+  <rect x="30" y="20" width="230" height="200" fill="#1d0e82" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- inner panel border -->
+  <rect x="40" y="30" width="210" height="180" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- skeleton: skull -->
+  <ellipse cx="145" cy="60" rx="22" ry="24" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- eye sockets -->
+  <circle cx="138" cy="58" r="3" fill="#1d0e82"/>
+  <circle cx="152" cy="58" r="3" fill="#1d0e82"/>
+  <!-- jaw line -->
+  <path d="M133 72 Q145 80 157 72" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- spine (vertebrae as stacked rounded rects) -->
+  <rect x="140" y="86" width="10" height="6" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="94" width="10" height="6" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="102" width="10" height="6" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="110" width="10" height="6" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="118" width="10" height="6" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="126" width="10" height="6" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- shoulders / clavicle -->
+  <path d="M105 92 Q145 86 185 92" fill="none" stroke="#efefef" stroke-width="13.34" stroke-linecap="round"/>
+  <path d="M105 92 Q145 86 185 92" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rib cage -->
+  <path d="M108 100 Q145 115 182 100" fill="none" stroke="#efefef" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M105 110 Q145 128 185 110" fill="none" stroke="#efefef" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M104 122 Q145 140 186 122" fill="none" stroke="#efefef" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M105 134 Q145 152 185 134" fill="none" stroke="#efefef" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- arm bones -->
+  <rect x="92" y="95" width="8" height="55" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="190" y="95" width="8" height="55" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pelvis -->
+  <path d="M115 140 Q145 150 175 140 L170 165 Q145 175 120 165 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pelvis hole -->
+  <ellipse cx="132" cy="158" rx="6" ry="5" fill="#392170"/>
+  <ellipse cx="158" cy="158" rx="6" ry="5" fill="#392170"/>
+  <!-- leg bones -->
+  <rect x="124" y="170" width="10" height="40" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="156" y="170" width="10" height="40" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- highlighted hotspots (warm glow patches) -->
+  <circle cx="195" cy="120" r="12" fill="#ff9900" stroke="#f8130d" stroke-width="6.67"/>
+  <circle cx="195" cy="120" r="5" fill="#f2e40d" stroke="none"/>
+  <circle cx="128" cy="195" r="11" fill="#ff9900" stroke="#f8130d" stroke-width="6.67"/>
+  <circle cx="128" cy="195" r="4" fill="#f2e40d" stroke="none"/>
+  <circle cx="145" cy="100" r="9" fill="#ff9900" stroke="#f8130d" stroke-width="6.67"/>
+  <circle cx="145" cy="100" r="3" fill="#f2e40d" stroke="none"/>
+</g></svg>

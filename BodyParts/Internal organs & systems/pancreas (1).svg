@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Torso ghost -->
+  <path d="M105 30 C90 30 75 45 72 65 L60 160 C58 175 65 195 80 200 L145 210 L210 200 C225 195 232 175 230 160 L218 65 C215 45 200 30 185 30 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="125" y="14" width="40" height="22" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Stomach (context, grey) -->
+  <path d="M140 95 C132 92 122 95 118 104 C115 112 116 124 120 132 C125 140 135 144 145 142 C155 140 160 132 162 122 C165 112 162 100 155 96 C150 93 145 95 140 95 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- PANCREAS: elongated tadpole/sausage shape behind stomach, horizontal, highlighted -->
+  <!-- Head (wider right end) -->
+  <ellipse cx="178" cy="140" rx="16" ry="12" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Body (middle tapering section) -->
+  <path d="M162 140 C158 138 150 136 140 136 C130 136 120 137 112 138 C104 139 98 141 96 143 C94 145 96 149 104 149 C114 150 128 149 140 148 C150 148 158 146 162 143 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tail (thin left end) -->
+  <path d="M96 143 C92 143 86 143 82 142 C79 141 78 139 80 137 C83 135 88 136 92 138 C95 139 96 141 96 143 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pointer dot -->
+  <circle cx="140" cy="140" r="5" fill="#000000"/>
+</g></svg>

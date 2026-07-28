@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wedding dress: white bridal gown, full skirt, veil -->
+  <!-- Veil (behind, so drawn first) -->
+  <path d="M145 25 Q195 30 210 80 Q220 130 205 200 L175 195 Q185 140 180 90 Q170 55 145 45 Q120 55 110 90 Q105 140 115 195 L85 200 Q70 130 80 80 Q95 30 145 25 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Veil crown/tiara -->
+  <path d="M118 32 L125 22 L132 30 L139 18 L145 28 L151 18 L158 30 L165 22 L172 32" fill="none" stroke="#f7de58" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bodice (strapless, fitted) -->
+  <path d="M112 55 Q112 45 145 42 Q178 45 178 55 L175 110 L115 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sweetheart neckline -->
+  <path d="M112 55 Q125 62 145 58 Q165 62 178 55" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Full skirt (wide bell) -->
+  <path d="M115 110 Q80 130 55 220 L235 220 Q210 130 175 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Skirt folds/layers -->
+  <path d="M115 110 Q100 155 85 210" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M125 112 Q115 160 105 215" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M175 110 Q190 155 205 210" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M165 112 Q175 160 185 215" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M145 112 L145 218" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Waist sash/bow -->
+  <ellipse cx="145" cy="112" rx="30" ry="7" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bow left -->
+  <path d="M115 112 L98 105 L102 119 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bow right -->
+  <path d="M175 112 L192 105 L188 119 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

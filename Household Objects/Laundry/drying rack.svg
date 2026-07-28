@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- drying rack: folding accordion drying rack with wet clothes hanging -->
+
+  <!-- Back A-frame leg (lighter) -->
+  <g stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round">
+    <path d="M65 215 L100 70" stroke-width="7.40"/>
+    <path d="M225 215 L190 70" stroke-width="7.40"/>
+  </g>
+  <!-- Back frame inner color -->
+  <path d="M65 215 L100 70" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M225 215 L190 70" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Front A-frame leg -->
+  <path d="M50 215 L85 70" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M240 215 L205 70" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M50 215 L85 70" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M240 215 L205 70" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Top apex (where A-frame pivots) -->
+  <circle cx="92" cy="70" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="198" cy="70" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Horizontal drying bars (4 rungs) -->
+  <g stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round">
+    <line x1="92" y1="85" x2="198" y2="85"/>
+    <line x1="88" y1="120" x2="202" y2="120"/>
+    <line x1="82" y1="155" x2="208" y2="155"/>
+    <line x1="76" y1="190" x2="214" y2="190"/>
+  </g>
+  <!-- Inner bar color -->
+  <g stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round">
+    <line x1="92" y1="85" x2="198" y2="85"/>
+    <line x1="88" y1="120" x2="202" y2="120"/>
+    <line x1="82" y1="155" x2="208" y2="155"/>
+    <line x1="76" y1="190" x2="214" y2="190"/>
+  </g>
+
+  <!-- Wet clothes hanging - towel on top bar -->
+  <path d="M115 85 L115 130 L150 130 L150 85"
+        fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- water drip from towel -->
+  <path d="M125 130 L125 138 Q125 142 122 142 Q120 142 120 138 Z"
+        fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M140 130 L140 140 Q140 144 137 144 Q135 144 135 140 Z"
+        fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- Sock on second bar -->
+  <path d="M165 85 L165 105 Q165 115 175 115 L182 115 L182 105 L172 105 L172 85 Z"
+        fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Shirt on second bar -->
+  <path d="M100 120 L95 138 L105 138 L105 168 L130 168 L130 138 L140 138 L135 120 Z"
+        fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M112 168 L112 172 Q112 175 110 175 Q108 175 108 172 Z"
+        fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- Pants on third bar -->
+  <path d="M155 155 L155 195 L168 195 L170 175 L172 195 L185 195 L185 155 Z"
+        fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Washcloth on bottom bar -->
+  <path d="M85 190 L85 215 L115 215 L115 190 Z"
+        fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M97 215 L97 220 Q97 223 95 223 Q93 223 93 220 Z"
+        fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="52.36 57.48 407.27 407.27" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- green arrow pointing at the dim, cracked, dead bulb (the 'not clever' / silly one) -->
+<line x1="364" y1="150" x2="364" y2="218" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="364" y1="218" x2="334" y2="182" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="364" y1="218" x2="394" y2="182" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="364" y1="150" x2="364" y2="218" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/>
+<line x1="364" y1="218" x2="334" y2="182" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/>
+<line x1="364" y1="218" x2="394" y2="182" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/>
+<!-- bright clever bulb (faded reference, the smart one) -->
+<g opacity="0.34">
+<circle cx="148" cy="300" r="66" fill="#f7e98a" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 118 348 L 178 348 L 178 366 Q 148 380 118 366 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="124" y1="378" x2="172" y2="378" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+</g>
+<!-- dim, dark, cracked bulb = stupid / not switched on -->
+<circle cx="364" cy="300" r="66" fill="#9aa0a7" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 334 348 L 394 348 L 394 366 Q 364 380 334 366 Z" fill="#7e858d" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="340" y1="378" x2="388" y2="378" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- crack -->
+<path d="M 344 268 L 360 296 L 346 312 L 368 336" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- vertical phone-like video frame -->
+  <rect x="95" y="20" width="100" height="170" rx="14" ry="14" fill="#000000" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="103" y="28" width="84" height="154" rx="6" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lightning bolt (Shorts mark) -->
+  <polygon points="148,55 132,110 145,110 138,150 162,98 148,98 158,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- play button overlay -->
+  <circle cx="145" cy="105" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="137,93 137,117 158,105" fill="#d01424" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+
+  <!-- subscribe bell (YouTube notification) -->
+  <path d="M40 140 Q40 120 55 120 Q70 120 70 140 L72 155 L38 155 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="34" y1="155" x2="76" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="55" cy="162" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.70"/>
+</g></svg>

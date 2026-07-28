@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shellac polish bottle (left) -->
+  <!-- cap (with brush handle on top) -->
+  <rect x="55" y="35" width="40" height="50" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cap ridges -->
+  <line x1="60" y1="50" x2="90" y2="50" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="60" y1="60" x2="90" y2="60" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="60" y1="70" x2="90" y2="70" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- bottle neck -->
+  <rect x="62" y="85" width="26" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bottle body (squarish) -->
+  <rect x="45" y="95" width="60" height="100" rx="6" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bottle label -->
+  <rect x="52" y="120" width="46" height="50" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- label text shape (squiggle, no text) -->
+  <path d="M58 135 L92 135 M58 145 L92 145 M58 155 L80 155" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- shine on bottle -->
+  <rect x="50" y="100" width="5" height="80" rx="2" ry="2" fill="#f4a4b2"/>
+  <!-- nails close-up (right) - fingertips with glossy shellac -->
+  <!-- finger 1 -->
+  <path d="M150 200 L150 100 Q150 90 160 90 L175 90 Q185 90 185 100 L185 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="167" cy="100" rx="15" ry="20" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- shine highlight 1 -->
+  <ellipse cx="160" cy="92" rx="3" ry="8" fill="#ffffff"/>
+  <!-- finger 2 -->
+  <path d="M195 200 L195 95 Q195 85 205 85 L220 85 Q230 85 230 95 L230 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="212" cy="95" rx="15" ry="20" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- shine highlight 2 -->
+  <ellipse cx="205" cy="88" rx="3" ry="8" fill="#ffffff"/>
+  <!-- finger 3 -->
+  <path d="M240 200 L240 100 Q240 90 250 90 L265 90 Q275 90 275 100 L275 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="257" cy="100" rx="15" ry="20" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- shine highlight 3 -->
+  <ellipse cx="250" cy="92" rx="3" ry="8" fill="#ffffff"/>
+  <!-- gloss sparkles -->
+  <path d="M140 80 L142 76 L144 80 L148 82 L144 84 L142 88 L140 84 L136 82 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M280 75 L282 71 L284 75 L288 77 L284 79 L282 83 L280 79 L276 77 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+</g></svg>

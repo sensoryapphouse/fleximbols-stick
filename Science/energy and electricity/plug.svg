@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="71.76 90.53 368.48 368.48">
+<!-- electrical plug (UK 3-pin) with cable -->
+<!-- three pins projecting up from the top edge -->
+<rect x="244" y="118" width="24" height="70" rx="4" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="186" y="148" width="24" height="56" rx="4" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="302" y="148" width="24" height="56" rx="4" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+<!-- body / casing -->
+<rect x="160" y="196" width="192" height="166" rx="34" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cable from bottom -->
+<path d="M 256 362 Q 256 426 314 430" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 56.40 411.15 411.15">
+<!-- large wall panel -->
+<rect x="96" y="110" width="320" height="270" rx="8" fill="#f0ece1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- painted scene: sun -->
+<circle cx="165" cy="175" r="30" fill="#f4b740" stroke="#1a1a1a" stroke-width="7"/>
+<!-- rolling hills -->
+<path d="M 96 330 Q 175 250 256 320 Q 340 250 416 320 L 416 372 L 96 372 Z" fill="#7ec97e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- big flower mural motif -->
+<circle cx="320" cy="190" r="20" fill="#e2604f" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="290" cy="200" r="20" fill="#9b6dd6" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="320" cy="225" r="20" fill="#5aa9e6" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="350" cy="200" r="20" fill="#f4b740" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="320" cy="207" r="13" fill="#fdfdfd" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pedestal / ground line for the wall -->
+<rect x="80" y="380" width="352" height="34" rx="6" fill="#c7b89c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

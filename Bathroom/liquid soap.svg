@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- counter line -->
+  <path d="M20 220 L270 220" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- bottle body tall slim for liquid -->
+  <path d="M105 95 L105 215 Q105 220 110 220 L180 220 Q185 220 185 215 L185 95 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- pink liquid inside -->
+  <path d="M112 125 L112 212 Q112 213 114 213 L176 213 Q178 213 178 212 L178 125 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="128" y="80" width="34" height="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pump head -->
+  <path d="M135 50 L165 50 L165 68 L205 68 L205 82 L135 82 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- nozzle -->
+  <rect x="205" y="71" width="14" height="9" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- falling soap drop under nozzle -->
+  <path d="M222 90 Q212 110 222 122 Q232 110 222 90 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- label area -->
+  <rect x="115" y="145" width="60" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M120 188 Q130 183 140 188 Q150 193 160 188 Q170 183 175 188" fill="none" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- soap bubbles on label (replaces LIQUID text) -->
+  <circle cx="105" cy="158" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="150" r="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="158" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="143" cy="150" r="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="157" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

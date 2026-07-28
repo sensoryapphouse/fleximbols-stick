@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- device body -->
+  <rect x="55" y="55" width="180" height="130" rx="14" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="68" y="68" width="154" height="104" rx="6" ry="6" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- dim power icon on dark screen -->
+  <circle cx="145" cy="120" r="36" fill="none" stroke="#7f7f7f" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M145 86 L145 122" fill="none" stroke="#7f7f7f" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- red OFF indicator light -->
+  <circle cx="220" cy="200" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="216" cy="196" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- OFF indicator bar (red with X) -->
+  <rect x="60" y="195" width="80" height="22" rx="6" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M75 200 L125 215" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M125 200 L75 215" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

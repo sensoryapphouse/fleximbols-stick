@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- plate -->
+<ellipse cx="256" cy="360" rx="180" ry="56" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="350" rx="150" ry="42" fill="#fdf3d2" stroke="#1a1a1a" stroke-width="7"/>
+<!-- mound of spaghetti strands -->
+<path d="M 126 350 C 150 268 362 268 386 350 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- long swirling strands -->
+<g fill="none" stroke="#e8b24e" stroke-width="7" stroke-linecap="round">
+<path d="M 150 346 C 142 300 196 280 248 296 C 300 312 300 348 268 352"/>
+<path d="M 178 350 C 168 312 220 300 262 312 C 308 326 326 300 360 322"/>
+<path d="M 204 348 C 230 306 286 312 312 344"/>
+<path d="M 150 332 C 184 318 214 332 232 352"/>
+<path d="M 300 350 C 322 314 352 318 366 344"/>
+</g>
+<g fill="none" stroke="#d8932f" stroke-width="4" stroke-linecap="round">
+<path d="M 162 340 C 158 308 200 296 244 308"/>
+<path d="M 244 342 C 268 312 308 318 330 342"/>
+</g>
+<!-- meatballs -->
+<circle cx="214" cy="326" r="27" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="296" cy="332" r="25" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7"/>
+<!-- tomato sauce dab -->
+<circle cx="256" cy="306" r="14" fill="#d63b46" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

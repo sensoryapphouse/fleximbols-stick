@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- circular pool (different shape from ball-pit) -->
+  <ellipse cx="145" cy="170" rx="125" ry="60" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.22"/>
+  <!-- inner rim -->
+  <ellipse cx="145" cy="170" rx="115" ry="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- child FULL BODY in pool -->
+  <!-- head -->
+  <circle cx="145" cy="60" r="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- hair -->
+  <path d="M127 58 Q127 42 145 40 Q163 42 163 58 Q158 50 145 50 Q132 50 127 58 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="138" cy="60" r="2" fill="#000000"/>
+  <circle cx="152" cy="60" r="2" fill="#000000"/>
+  <!-- smile -->
+  <path d="M138 68 Q145 73 152 68" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="140" y="78" width="10" height="8" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- torso -->
+  <path d="M122 86 L168 86 L170 140 L120 140 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- left arm raised -->
+  <path d="M122 90 L100 75 L92 65" fill="none" stroke="#e6b98a" stroke-width="19.56" stroke-linecap="round"/>
+  <path d="M122 90 L100 75 L92 65" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- right arm raised -->
+  <path d="M168 90 L190 75 L198 65" fill="none" stroke="#e6b98a" stroke-width="19.56" stroke-linecap="round"/>
+  <path d="M168 90 L190 75 L198 65" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- hands -->
+  <circle cx="92" cy="63" r="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="198" cy="63" r="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- legs -->
+  <path d="M132 140 L128 170" fill="none" stroke="#1d0e82" stroke-width="21.34" stroke-linecap="round"/>
+  <path d="M158 140 L162 170" fill="none" stroke="#1d0e82" stroke-width="21.34" stroke-linecap="round"/>
+  <!-- balls in pool -->
+  <circle cx="55" cy="170" r="12" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="180" r="12" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="108" cy="190" r="12" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="195" r="12" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="172" cy="190" r="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="180" r="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="170" r="12" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="68" cy="200" r="12" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="98" cy="208" r="12" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="212" r="12" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="158" cy="212" r="12" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="188" cy="208" r="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="200" r="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

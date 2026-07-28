@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g data-fit="1" transform="translate(256 256) scale(1.2873) translate(-256.00 -262.00)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- back legs (splayed) -->
+<line x1="214" y1="250" x2="178" y2="430" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<line x1="298" y1="250" x2="334" y2="430" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- front legs -->
+<line x1="222" y1="262" x2="200" y2="430" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<line x1="290" y1="262" x2="312" y2="430" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<!-- lower cross strut -->
+<line x1="190" y1="360" x2="322" y2="360" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- footrest -->
+<rect x="218" y="330" width="76" height="16" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- tall backrest (white, slatted detail) -->
+<rect x="208" y="92" width="96" height="150" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="232" y1="108" x2="232" y2="226" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="256" y1="108" x2="256" y2="226" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="280" y1="108" x2="280" y2="226" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- seat / cushion -->
+<rect x="200" y="234" width="112" height="40" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- safety harness slot detail -->
+<circle cx="256" cy="254" r="6" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+<!-- tray (white with raised lip) -->
+<rect x="184" y="252" width="144" height="30" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="196" y="258" width="120" height="10" rx="5" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- straps -->
+  <path d="M 95 30 Q 80 80 85 140" fill="none" stroke="#2a4ec0" stroke-width="21.34" stroke-linecap="round"/>
+  <path d="M 195 30 Q 210 80 205 140" fill="none" stroke="#2a4ec0" stroke-width="21.34" stroke-linecap="round"/>
+  <path d="M 95 30 Q 80 80 85 140" fill="none" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <path d="M 195 30 Q 210 80 205 140" fill="none" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- top loop handle -->
+  <path d="M 130 30 Q 145 15 160 30" fill="none" stroke="#1d0e82" stroke-width="10.67" stroke-linecap="round"/>
+  <path d="M 130 30 Q 145 15 160 30" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- main backpack body -->
+  <path d="M 60 50 Q 60 35 80 35 L 210 35 Q 230 35 230 50 L 230 200 Q 230 220 210 220 L 80 220 Q 60 220 60 200 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- main compartment flap divider -->
+  <path d="M 60 110 L 230 110" fill="none" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- front pocket compartment -->
+  <rect x="85" y="135" width="120" height="65" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- zipper across top compartment -->
+  <path d="M 75 90 L 215 90" fill="none" stroke="#efefef" stroke-width="5.34" stroke-linecap="round"/>
+  <circle cx="215" cy="90" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- zipper across front pocket -->
+  <path d="M 95 150 L 195 150" fill="none" stroke="#efefef" stroke-width="3.55" stroke-linecap="round"/>
+  <circle cx="195" cy="150" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- books peeking out top -->
+  <rect x="100" y="55" width="20" height="35" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="123" y="50" width="20" height="40" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="146" y="58" width="20" height="32" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="169" y="52" width="20" height="38" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- side accent / mesh pocket hint -->
+  <path d="M 75 175 Q 65 185 70 200" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

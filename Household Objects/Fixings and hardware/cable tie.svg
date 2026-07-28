@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bundle of cables -->
+  <path d="M25 50 Q 50 90 80 120 Q 110 150 150 175 Q 200 200 265 215" fill="none" stroke="#d01424" stroke-width="20.01" stroke-linecap="round"/>
+  <path d="M30 65 Q 55 105 85 130 Q 115 160 155 180 Q 205 205 265 200" fill="none" stroke="#1d0e82" stroke-width="20.01" stroke-linecap="round"/>
+  <path d="M40 50 Q 65 95 95 125 Q 125 155 165 175 Q 210 195 270 195" fill="none" stroke="#529929" stroke-width="20.01" stroke-linecap="round"/>
+  <!-- zip-tie wrapping around the middle of the bundle -->
+  <!-- tie strap (loop around) -->
+  <ellipse cx="135" cy="135" rx="35" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" transform="rotate(35 135 135)"/>
+  <!-- ridge texture on tie strap -->
+  <line x1="110" y1="115" x2="118" y2="120" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 135 135)"/>
+  <line x1="120" y1="118" x2="128" y2="123" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 135 135)"/>
+  <line x1="130" y1="121" x2="138" y2="126" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 135 135)"/>
+  <line x1="140" y1="124" x2="148" y2="129" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 135 135)"/>
+  <line x1="150" y1="127" x2="158" y2="132" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 135 135)"/>
+  <!-- locking head of zip-tie (rectangular box) -->
+  <rect x="155" y="115" width="22" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" transform="rotate(35 166 124)"/>
+  <!-- tail end sticking out from the locking head -->
+  <path d="M175 130 L210 105 L215 115 L180 140 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- ridges on the tail -->
+  <line x1="183" y1="125" x2="190" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="190" y1="129" x2="197" y2="124" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="197" y1="133" x2="204" y2="128" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

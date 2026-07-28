@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- satellite dish in upper area -->
+  <path d="M30,30 Q60,5 95,30 L75,55 Q60,42 50,55 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- dish feedhorn -->
+  <line x1="63" y1="42" x2="80" y2="20" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <circle cx="80" cy="20" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- dish mount/pole -->
+  <line x1="62" y1="50" x2="62" y2="95" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- signal waves -->
+  <path d="M105,15 Q115,25 105,35" fill="none" stroke="#2a4ec0" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M115,8 Q130,25 115,42" fill="none" stroke="#2a4ec0" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M125,3 Q145,25 125,48" fill="none" stroke="#2a4ec0" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- receiver unit (main box) -->
+  <rect x="60" y="100" width="200" height="115" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="68" y="108" width="184" height="99" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- display -->
+  <rect x="80" y="118" width="160" height="42" rx="3" ry="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- signal bars on display -->
+  <rect x="90" y="142" width="6" height="10" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="100" y="138" width="6" height="14" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="110" y="134" width="6" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="120" y="130" width="6" height="22" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- small satellite icon on display -->
+  <rect x="190" y="128" width="14" height="10" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="184" y="131" width="6" height="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="204" y="131" width="6" height="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="197" y1="138" x2="197" y2="146" stroke="#fff200" stroke-width="4.45"/>
+  <!-- channel number tile -->
+  <rect x="145" y="135" width="35" height="20" rx="2" ry="2" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 3 dashes representing channel digits -->
+  <rect x="150" y="142" width="6" height="6" fill="#000000"/>
+  <rect x="158" y="142" width="6" height="6" fill="#000000"/>
+  <rect x="166" y="142" width="6" height="6" fill="#000000"/>
+  <!-- buttons grid -->
+  <circle cx="92" cy="180" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="180" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="144" cy="180" r="9" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="180" r="9" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="180" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- volume knob -->
+  <circle cx="225" cy="180" r="13" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="180" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="225" y1="172" x2="225" y2="180" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="20" y="218" width="250" height="10" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Building body -->
+  <rect x="35" y="96" width="220" height="122" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Green header awning — pharmacy identity -->
+  <rect x="25" y="72" width="240" height="30" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bold white cross on green awning (centre) -->
+  <rect x="118" y="79" width="54" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="136" y="72" width="18" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Windows -->
+  <rect x="50" y="112" width="38" height="30" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="202" y="112" width="38" height="30" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Central door -->
+  <rect x="120" y="170" width="50" height="48" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="161" y="191" width="6" height="12" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Mortar-and-pestle emblem on right wall panel -->
+  <!-- Mortar bowl -->
+  <path d="M 192,158 Q 187,176 202,179 Q 217,176 212,158 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Mortar rim -->
+  <line x1="190" y1="158" x2="214" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pestle shaft -->
+  <rect x="197" y="139" width="9" height="24" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Pestle ball top -->
+  <circle cx="201" cy="137" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Small green cross on left panel -->
+  <rect x="57" y="155" width="24" height="8" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="65" y="150" width="8" height="18" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

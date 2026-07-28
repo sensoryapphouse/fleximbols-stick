@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- tall collins glass (straight sides, tall) -->
+  <rect x="108" y="35" width="74" height="190" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- clear liquid -->
+  <rect x="113" y="80" width="64" height="140" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- liquid surface line -->
+  <line x1="113" y1="80" x2="177" y2="80" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- ice cubes -->
+  <rect x="120" y="110" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="148" y="135" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="125" y="165" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lemon slice on rim -->
+  <circle cx="118" cy="38" r="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M118 26 L118 50 M106 38 L130 38 M110 30 L126 46 M126 30 L110 46" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round" fill="none"/>
+  <!-- cherry -->
+  <circle cx="165" cy="50" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M165 41 Q 170 28 178 30" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- straw -->
+  <path d="M155 20 L170 220" fill="none" stroke="#f266aa" stroke-width="13.34" stroke-linecap="round"/>
+  <path d="M155 20 L170 220" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

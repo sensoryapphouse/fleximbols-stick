@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Airbnb-modern: generic host-mark loop/marker pin over a small house/door — NO brand logo/text -->
+  <!-- Small house/door at bottom, stylised -->
+  <!-- House body (small, beneath the marker) -->
+  <rect x="102" y="156" width="86" height="62" rx="5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- House roof (simple triangle) -->
+  <polygon points="90,160 145,112 200,160" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Door (centered) -->
+  <rect x="127" y="174" width="36" height="44" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Door arch -->
+  <path d="M127 182 Q127 174 145 174 Q163 174 163 182" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Door knob -->
+  <circle cx="156" cy="197" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Marker/pin loop (large, rounded loop above house — generic looped pin marker shape) -->
+  <!-- The loop: a rounded teardrop/pin shape pointing down, centered over house -->
+  <!-- Outer loop outline -->
+  <path d="M145 20 C108 20 82 46 82 76 C82 106 108 120 145 150 C182 120 208 106 208 76 C208 46 182 20 145 20 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Inner cut-out of loop (creates the ring/loop effect) -->
+  <circle cx="145" cy="76" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Inner circle fill — creates the loop ring appearance -->
+  <circle cx="145" cy="76" r="20" fill="#f8130d" stroke="none"/>
+</g></svg>

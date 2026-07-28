@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1436) translate(-278.00 -294.00)">
+<!-- white milk carton: canonically white object, white fill, bold dark outline so the WHITE is the subject -->
+<!-- faint cool-grey shadow under the carton so the white body lifts off a white page -->
+<ellipse cx="206" cy="392" rx="92" ry="20" fill="#5b6b78" opacity="0.18"/>
+<!-- carton body -->
+<path d="M 150 200 L 262 200 L 262 388 Q 262 396 254 396 L 158 396 Q 150 396 150 388 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- gable top -->
+<path d="M 150 200 L 206 150 L 262 200 Z" fill="#f4f6f8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- folded gable ridge -->
+<path d="M 206 150 L 206 130 L 240 130 L 262 200" fill="#f4f6f8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crease lines to show the carton is solid white, not blank -->
+<line x1="206" y1="150" x2="206" y2="200" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="150" y1="200" x2="262" y2="200" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- a couple of soft grey ribs to read as a 3D white surface -->
+<line x1="176" y1="232" x2="176" y2="372" stroke="#cdd6dd" stroke-width="6" stroke-linecap="round"/>
+<line x1="236" y1="232" x2="236" y2="372" stroke="#cdd6dd" stroke-width="6" stroke-linecap="round"/>
+<!-- swatch tile: strong dark border + cool-grey drop shadow so a white tile stands out on a white page -->
+<rect x="356" y="356" width="120" height="120" rx="22" fill="#5b6b78" opacity="0.22"/>
+<rect x="350.0" y="350.0" width="120.0" height="120.0" rx="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="11"/>
+<path d="M 368 372 q 28 -10 56 -2" fill="none" stroke="#cdd6dd" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

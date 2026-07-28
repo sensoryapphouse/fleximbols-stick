@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- counter line -->
+  <line x1="6" y1="220" x2="284" y2="220" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
+
+  <!-- Weekly pill organizer (7 compartments) center -->
+  <rect x="22" y="130" width="210" height="64" rx="6" ry="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <!-- compartments dividers -->
+  <line x1="52" y1="130" x2="52" y2="194" stroke="#1a1a1a" stroke-width="4.94"/>
+  <line x1="82" y1="130" x2="82" y2="194" stroke="#1a1a1a" stroke-width="4.94"/>
+  <line x1="112" y1="130" x2="112" y2="194" stroke="#1a1a1a" stroke-width="4.94"/>
+  <line x1="142" y1="130" x2="142" y2="194" stroke="#1a1a1a" stroke-width="4.94"/>
+  <line x1="172" y1="130" x2="172" y2="194" stroke="#1a1a1a" stroke-width="4.94"/>
+  <line x1="202" y1="130" x2="202" y2="194" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- lids (slight inset top) -->
+  <rect x="26" y="134" width="22" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="56" y="134" width="22" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="86" y="134" width="22" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="134" width="22" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="146" y="134" width="22" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="176" y="134" width="22" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="206" y="134" width="22" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- day dots (7 days, different colored pills inside compartments) -->
+  <circle cx="37" cy="172" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="67" cy="172" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="97" cy="172" r="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="127" cy="172" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="172" r="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="187" cy="172" r="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="217" cy="172" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Pill bottle (left) -->
+  <rect x="14" y="76" width="44" height="14" fill="#efefef" stroke="#1a1a1a" stroke-width="6.17" stroke-linejoin="round"/>
+  <rect x="18" y="90" width="36" height="40" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.17" stroke-linejoin="round"/>
+  <!-- label -->
+  <rect x="20" y="100" width="32" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
+  <line x1="24" y1="106" x2="48" y2="106" stroke="#4d4d4d" stroke-width="3.70"/>
+  <line x1="24" y1="112" x2="48" y2="112" stroke="#4d4d4d" stroke-width="3.70"/>
+  <line x1="24" y1="118" x2="40" y2="118" stroke="#4d4d4d" stroke-width="3.70"/>
+
+  <!-- Pill bottle (right) -->
+  <rect x="200" y="76" width="44" height="14" fill="#efefef" stroke="#1a1a1a" stroke-width="6.17" stroke-linejoin="round"/>
+  <rect x="204" y="90" width="36" height="40" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="6.17" stroke-linejoin="round"/>
+  <rect x="206" y="100" width="32" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
+  <line x1="210" y1="106" x2="234" y2="106" stroke="#4d4d4d" stroke-width="3.70"/>
+  <line x1="210" y1="112" x2="234" y2="112" stroke="#4d4d4d" stroke-width="3.70"/>
+  <line x1="210" y1="118" x2="226" y2="118" stroke="#4d4d4d" stroke-width="3.70"/>
+
+  <!-- Prescription pad (top center) -->
+  <rect x="100" y="14" width="92" height="80" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.17" stroke-linejoin="round"/>
+  <!-- Rx symbol -->
+  <path d="M112 30 L112 60 M112 30 L122 30 Q130 30 130 38 Q130 46 122 46 L112 46 M122 46 L132 60" fill="none" stroke="#f8130d" stroke-width="7.41" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cross slash on R foot -->
+  <line x1="118" y1="52" x2="128" y2="62" stroke="#f8130d" stroke-width="7.41" stroke-linecap="round"/>
+  <!-- lines -->
+  <line x1="140" y1="36" x2="184" y2="36" stroke="#4d4d4d" stroke-width="3.70"/>
+  <line x1="140" y1="44" x2="184" y2="44" stroke="#4d4d4d" stroke-width="3.70"/>
+  <line x1="140" y1="52" x2="184" y2="52" stroke="#4d4d4d" stroke-width="3.70"/>
+  <line x1="108" y1="74" x2="184" y2="74" stroke="#4d4d4d" stroke-width="3.70"/>
+  <line x1="108" y1="82" x2="170" y2="82" stroke="#4d4d4d" stroke-width="3.70"/>
+</g></svg>

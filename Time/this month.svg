@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- downward arrow pointing AT a calendar = this/current month -->
+<path d="M 247.0 96.0 L 247.0 203.2 L 230.0 203.2 L 256.0 250.0 L 282.0 203.2 L 265.0 203.2 L 265.0 96.0 A 9.0 9.0 0 0 1 247.0 96.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- calendar -->
+<rect x="140" y="280" width="232" height="130" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M140 290 Q140 280 150 280 L362 280 Q372 280 372 290 L372 320 L140 320 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<g fill="none" stroke="#1a1a1a" stroke-width="6">
+<line x1="198" y1="320" x2="198" y2="410"/>
+<line x1="256" y1="320" x2="256" y2="410"/>
+<line x1="314" y1="320" x2="314" y2="410"/>
+<line x1="140" y1="350" x2="372" y2="350"/>
+<line x1="140" y1="380" x2="372" y2="380"/>
+</g>
+<!-- binding rings -->
+<line x1="186" y1="266" x2="186" y2="296" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="326" y1="266" x2="326" y2="296" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

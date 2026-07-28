@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- flag pole -->
+  <rect x="60" y="30" width="6" height="190" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="63" cy="28" r="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- green flag -->
+  <path d="M66 35 L220 30 Q230 60 220 85 Q230 110 220 130 L66 125 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- big white checkmark on flag -->
+  <path d="M95 75 L130 105 L195 50" fill="none" stroke="#ffffff" stroke-width="17.77" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95 75 L130 105 L195 50" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- happy heart (positive vibe) bottom -->
+  <path d="M155 160 Q140 145 125 160 Q110 175 155 215 Q200 175 185 160 Q170 145 155 160 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- smile on heart -->
+  <circle cx="143" cy="178" r="2" fill="#ffffff"/>
+  <circle cx="167" cy="178" r="2" fill="#ffffff"/>
+  <path d="M143 188 Q155 198 167 188" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- sparkle accents -->
+  <path d="M90 170 L90 185 M82 177 L97 177" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M220 165 L220 178 M213 171 L226 171" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M235 200 L235 213 M228 206 L241 206" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

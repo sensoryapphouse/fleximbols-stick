@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Artist palette shape -->
+  <path d="M60,130 Q44,90 70,58 Q100,22 148,26 Q196,30 218,68 Q238,100 220,136 Q206,162 180,158 Q164,156 160,142 Q156,128 140,130 Q120,132 108,148 Q90,168 68,160 Q46,152 60,130 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Thumb hole -->
+  <ellipse cx="82" cy="148" rx="16" ry="12" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Paint colour blobs on palette -->
+  <circle cx="108" cy="56" r="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="44" r="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="188" cy="58" r="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="96" r="14" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="198" cy="136" r="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sparkle top-right -->
+  <line x1="252" y1="32" x2="252" y2="56" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="240" y1="44" x2="264" y2="44" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="244" y1="36" x2="260" y2="52" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="260" y1="36" x2="244" y2="52" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- AI chip badge -->
+  <rect x="32" y="174" width="52" height="38" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="41" y="183" width="34" height="20" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="51" y1="183" x2="51" y2="203" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="62" y1="183" x2="62" y2="203" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="47" y1="179" x2="47" y2="183" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="58" y1="179" x2="58" y2="183" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="69" y1="179" x2="69" y2="183" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

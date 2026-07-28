@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- tracked base (sits on baseline) -->
+<rect x="88" y="338" width="248" height="74" rx="37" fill="#3a3f44" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="128" cy="375" r="17" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="296" cy="375" r="17" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="184" cy="386" r="11" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="240" cy="386" r="11" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<!-- turntable connecting base to cab -->
+<rect x="150" y="322" width="150" height="22" rx="6" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- rotating cab house -->
+<path d="M 134 322 L 134 232 Q 134 214 152 214 L 278 214 Q 296 214 296 232 L 296 322 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cab window -->
+<rect x="156" y="238" width="74" height="62" rx="6" fill="#bfe0f5" stroke="#1a1a1a" stroke-width="6"/>
+<!-- BOOM + DIPPER (one continuous arm, attaches firmly to the cab at the pivot, ends at the bucket) -->
+<path d="M 270 296 L 350 166 L 418 210 L 414 326" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 270 296 L 350 166 L 418 210 L 414 326" fill="none" stroke="#e08a3a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- pivot pin where boom meets cab -->
+<circle cx="270" cy="296" r="12" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- pivot pin elbow (boom-to-dipper) -->
+<circle cx="350" cy="166" r="9" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+<!-- bucket (curved digging scoop) at the end of the dipper, touching the ground -->
+<path d="M 388 320 L 458 320 Q 466 372 432 398 Q 412 412 388 410 Q 376 380 384 350 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pivot pin dipper-to-bucket -->
+<circle cx="414" cy="324" r="9" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+<!-- bucket teeth -->
+<path d="M 390 410 L 386 424 M 408 412 L 406 426 M 426 408 L 428 422 M 444 400 L 448 412" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Curved trunk - starts from lower center, curves up-right -->
+  <path d="M120 228 Q118 190 130 160 Q140 130 158 100 Q165 85 168 70" fill="none" stroke="#9d7246" stroke-width="17.77" stroke-linecap="round"/>
+  <path d="M120 228 Q118 190 130 160 Q140 130 158 100 Q165 85 168 70" fill="none" stroke="#7d5e23" stroke-width="12.44" stroke-linecap="round" stroke-dasharray="8,12"/>
+  <!-- Ground base -->
+  <ellipse cx="122" cy="228" rx="32" ry="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Palm fronds radiating from crown at top -->
+  <!-- Frond 1 - left sweeping down -->
+  <path d="M165 65 Q130 55 95 72" fill="none" stroke="#137827" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M165 65 Q125 62 88 85" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Frond 2 - far left drooping -->
+  <path d="M162 68 Q128 90 90 115" fill="none" stroke="#137827" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Frond 3 - up left -->
+  <path d="M165 62 Q148 38 128 22" fill="none" stroke="#137827" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M165 62 Q145 35 120 15" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Frond 4 - straight up -->
+  <path d="M168 60 Q172 32 172 10" fill="none" stroke="#137827" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Frond 5 - up right -->
+  <path d="M170 62 Q195 38 215 20" fill="none" stroke="#137827" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M170 62 Q198 42 220 28" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Frond 6 - right -->
+  <path d="M172 67 Q205 58 238 65" fill="none" stroke="#137827" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M172 67 Q208 62 240 72" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Frond 7 - right drooping -->
+  <path d="M170 72 Q205 90 228 115" fill="none" stroke="#137827" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Crown base -->
+  <circle cx="168" cy="68" r="16" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Coconuts cluster - brown round nuts at crown base -->
+  <circle cx="155" cy="82" r="13" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="172" cy="85" r="13" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="163" cy="80" r="12" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Coconut fiber texture hints -->
+  <circle cx="155" cy="82" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="172" cy="85" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="163" cy="80" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.78"/>
+</g></svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Waistband -->
+  <rect x="65" y="22" width="160" height="22" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Waistband rib lines -->
+  <line x1="87" y1="25" x2="87" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="105" y1="25" x2="105" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="123" y1="25" x2="123" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="141" y1="25" x2="141" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="159" y1="25" x2="159" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="177" y1="25" x2="177" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="195" y1="25" x2="195" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Drawstring -->
+  <line x1="125" y1="33" x2="110" y2="52" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="165" y1="33" x2="180" y2="52" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="108" cy="55" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="182" cy="55" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Left leg — straight, wider, open hem (NOT tapered) -->
+  <path d="M65 44 L58 210 L118 210 L122 44 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right leg — straight, wider, open hem -->
+  <path d="M225 44 L232 210 L172 210 L168 44 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Crotch gusset -->
+  <path d="M122 44 L145 88 L168 44 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Open loose hem left — simple wide opening, no cuff -->
+  <line x1="58" y1="210" x2="118" y2="210" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Open loose hem right -->
+  <line x1="172" y1="210" x2="232" y2="210" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

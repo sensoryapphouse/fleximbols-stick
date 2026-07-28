@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.4919) translate(-256.00 -256.00)">
+<!-- document -->
+<path d="M 104 92 L 336 92 L 382 138 L 382 420 Q 382 434 368 434 L 104 434 Q 90 434 90 420 L 90 106 Q 90 92 104 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 336 92 L 336 138 L 382 138 Z" fill="#c7d0d8" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- ordered numbered scene thumbnails (1-2-3) each paired with text lines = retell events in order -->
+<!-- row 1 -->
+<rect x="112" y="160" width="60" height="60" rx="9" fill="#e8f0fa" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="142" cy="190" r="20" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 138 184 L 144 181 L 144 199" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="190" y1="176" x2="356" y2="176" stroke="#c7d0d8" stroke-width="10" stroke-linecap="round"/>
+<line x1="190" y1="206" x2="320" y2="206" stroke="#c7d0d8" stroke-width="10" stroke-linecap="round"/>
+<!-- row 2 -->
+<rect x="112" y="244" width="60" height="60" rx="9" fill="#e8f0fa" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="142" cy="274" r="20" fill="#f0883c" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 135 268 Q 142 262 149 268 Q 149 276 135 285 L 150 285" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="190" y1="260" x2="356" y2="260" stroke="#c7d0d8" stroke-width="10" stroke-linecap="round"/>
+<line x1="190" y1="290" x2="320" y2="290" stroke="#c7d0d8" stroke-width="10" stroke-linecap="round"/>
+<!-- row 3 -->
+<rect x="112" y="328" width="60" height="60" rx="9" fill="#e8f0fa" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="142" cy="358" r="20" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 135 352 Q 142 347 149 352 Q 149 357 143 358 Q 150 359 149 365 Q 142 371 135 365" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="190" y1="344" x2="356" y2="344" stroke="#c7d0d8" stroke-width="10" stroke-linecap="round"/>
+<line x1="190" y1="374" x2="320" y2="374" stroke="#c7d0d8" stroke-width="10" stroke-linecap="round"/>
+<!-- clock turned back = retell PAST events -->
+<circle cx="338" cy="392" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="338" y1="392" x2="338" y2="369" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="338" y1="392" x2="320" y2="400" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 372 371 A 42 42 0 0 0 338 350" fill="none" stroke="#8e6fc6" stroke-width="11" stroke-linecap="round"/>
+<path d="M 338 350 L 349 343 M 338 350 L 349 361" fill="none" stroke="#8e6fc6" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

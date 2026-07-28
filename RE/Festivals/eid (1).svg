@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Eid Modern: mosque dome + minaret silhouette + crescent + festive sparkles -->
+
+  <!-- Ground base -->
+  <rect x="30" y="195" width="230" height="12" rx="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+
+  <!-- Left minaret -->
+  <rect x="42" y="120" width="22" height="76" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Left minaret balcony -->
+  <rect x="37" y="148" width="32" height="8" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Left minaret top -->
+  <path d="M53 120 L42 120 L42 108 Q53 98 64 108 L64 120Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="53" cy="98" rx="5" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+
+  <!-- Right minaret -->
+  <rect x="226" y="120" width="22" height="76" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Right minaret balcony -->
+  <rect x="221" y="148" width="32" height="8" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Right minaret top -->
+  <path d="M237 120 L226 120 L226 108 Q237 98 248 108 L248 120Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="237" cy="98" rx="5" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+
+  <!-- Mosque main wall -->
+  <rect x="72" y="145" width="146" height="50" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+
+  <!-- Arched windows -->
+  <path d="M98 195 L98 168 Q108 156 118 168 L118 195Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <path d="M135 195 L135 168 Q145 156 155 168 L155 195Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <path d="M172 195 L172 168 Q182 156 192 168 L192 195Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+
+  <!-- Main dome -->
+  <path d="M80 145 Q80 88 145 80 Q210 88 210 145Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dome highlight -->
+  <path d="M105 138 Q105 100 145 94 Q170 98 182 118" fill="none" stroke="#90a7d6" stroke-width="3.95" stroke-linecap="round"/>
+
+  <!-- Dome finial -->
+  <rect x="141" y="72" width="8" height="18" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+
+  <!-- Crescent on dome -->
+  <circle cx="145" cy="52" r="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <circle cx="153" cy="47" r="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+
+  <!-- Sparkles -->
+  <path d="M38 75 L41 66 L44 75 L53 78 L44 81 L41 90 L38 81 L29 78Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M248 68 L250 62 L252 68 L258 70 L252 72 L250 78 L248 72 L242 70Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M228 38 L230 33 L232 38 L237 40 L232 42 L230 47 L228 42 L223 40Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M58 45 L60 40 L62 45 L67 47 L62 49 L60 54 L58 49 L53 47Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

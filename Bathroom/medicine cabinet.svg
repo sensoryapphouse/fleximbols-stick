@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- medicine cabinet: wall cabinet with a medical cross + door, a bottle inside view -->
+<!-- cabinet body -->
+<rect x="128" y="120" width="256" height="272" rx="10" fill="#8cc152" stroke="#1a1a1a" stroke-width="9"/>
+<!-- side depth -->
+<path d="M384 120 L408 144 L408 392 L384 392 Z" fill="#6f9e34" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M128 120 L152 144 L408 144 L384 120 Z" fill="#a3d15f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- two doors -->
+<line x1="256" y1="150" x2="256" y2="392" stroke="#1a1a1a" stroke-width="8"/>
+<!-- handles -->
+<line x1="240" y1="240" x2="240" y2="280" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="272" y1="240" x2="272" y2="280" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- white medical cross panel -->
+<rect x="200" y="180" width="112" height="112" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<!-- red plus made of two bars -->
+<path d="M 241 200 L 271 200 L 271 221 L 292 221 L 292 251 L 271 251 L 271 272 L 241 272 L 241 251 L 220 251 L 220 221 L 241 221 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+
+</svg>

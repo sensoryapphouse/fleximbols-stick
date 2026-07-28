@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="84.21 132.00 331.64 331.64">
+<!-- stairlift: chair on a diagonal rail running up staircase -->
+<!-- staircase steps -->
+<path d="M 110 400 L 110 360 L 180 360 L 180 320 L 250 320 L 250 280 L 320 280 L 320 240 L 390 240 L 390 400 Z" fill="#e7d8bf" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- diagonal rail -->
+<line x1="130" y1="378" x2="372" y2="232" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<line x1="130" y1="378" x2="372" y2="232" stroke="#9aa3ab" stroke-width="5" stroke-linecap="round"/>
+<!-- chair seat -->
+<rect x="206" y="252" width="74" height="22" rx="6" fill="#3f7fae" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- chair back -->
+<rect x="206" y="196" width="22" height="60" rx="6" fill="#3f7fae" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- armrest -->
+<line x1="232" y1="244" x2="276" y2="244" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- footrest -->
+<rect x="220" y="288" width="50" height="14" rx="4" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- carriage link to rail -->
+<line x1="243" y1="274" x2="243" y2="300" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

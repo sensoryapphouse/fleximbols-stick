@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dividing line between before and after -->
+  <line x1="145" y1="30" x2="145" y2="215" stroke="#b8b8b8" stroke-width="4.45" stroke-dasharray="8,5"/>
+  <!-- BEFORE (left side) - messy shelf -->
+  <!-- Shelf left -->
+  <rect x="20" y="145" width="118" height="12" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Messy items: tilted, scattered -->
+  <rect x="28" y="105" width="22" height="40" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-18 39 125)"/>
+  <rect x="52" y="108" width="18" height="37" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(12 61 126)"/>
+  <rect x="75" y="103" width="22" height="42" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-8 86 124)"/>
+  <!-- Item fallen off shelf -->
+  <rect x="30" y="155" width="18" height="28" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(90 39 169)"/>
+  <!-- Shelf top (messy items) -->
+  <rect x="20" y="72" width="118" height="10" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="25" y="45" width="14" height="27" rx="2" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 32 58)"/>
+  <rect x="48" y="48" width="20" height="24" rx="2" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 58 60)"/>
+  <rect x="78" y="44" width="18" height="28" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-5 87 58)"/>
+  <!-- BEFORE label hint: small X -->
+  <line x1="35" y1="20" x2="45" y2="30" stroke="#f8130d" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="45" y1="20" x2="35" y2="30" stroke="#f8130d" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- AFTER (right side) - neat shelf -->
+  <!-- Shelf right -->
+  <rect x="152" y="145" width="118" height="12" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Neat upright books -->
+  <rect x="158" y="103" width="20" height="42" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="181" y="103" width="18" height="42" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="202" y="105" width="20" height="40" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="225" y="107" width="18" height="38" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Shelf top neat -->
+  <rect x="152" y="72" width="118" height="10" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="158" y="45" width="16" height="27" rx="2" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="177" y="45" width="18" height="27" rx="2" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="198" y="45" width="16" height="27" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="217" y="47" width="14" height="25" rx="2" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- AFTER check mark -->
+  <path d="M162 20 L170 28 L185 14" fill="none" stroke="#529929" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arrow pointing from before to after (center) -->
+  <polygon points="132,120 158,120 145,108" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="132,120 158,120 145,132" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Floor -->
+  <rect x="20" y="210" width="250" height="14" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

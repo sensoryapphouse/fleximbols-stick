@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Water band -->
+  <rect x="0" y="178" width="290" height="62" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 188 Q30 181 50 188 Q70 195 90 188 Q110 181 130 188 Q150 195 170 188 Q190 181 210 188 Q230 195 250 188 Q270 181 285 188" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hull - white survey vessel -->
+  <path d="M22 178 L40 158 L256 158 L268 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Blue waterline stripe -->
+  <path d="M22 178 L30 170 L260 170 L268 178" fill="#3aa6a0" stroke="none"/>
+  <!-- Hull-mounted sonar pod on keel -->
+  <ellipse cx="145" cy="182" rx="22" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Deck -->
+  <rect x="40" y="152" width="216" height="8" rx="1" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Superstructure - forward-biased (instruments-forward differentiator) -->
+  <rect x="45" y="112" width="95" height="42" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Upper bridge -->
+  <rect x="52" y="97" width="78" height="17" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bridge windows -->
+  <rect x="58" y="100" width="12" height="9" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="76" y="100" width="12" height="9" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="94" y="100" width="12" height="9" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="112" y="100" width="12" height="9" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Main deck portholes -->
+  <rect x="56" y="120" width="11" height="9" rx="1" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="74" y="120" width="11" height="9" rx="1" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="92" y="120" width="11" height="9" rx="1" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Instrument mast - tall, forward -->
+  <line x1="75" y1="97" x2="75" y2="62" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Instrument platform / multiple heads -->
+  <rect x="67" y="60" width="16" height="5" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="70" cy="57" r="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="57" r="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Yardarm -->
+  <line x1="60" y1="72" x2="90" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- SIDE SURVEY BOOMS - the key differentiator from research-vessel -->
+  <!-- Port-side boom extending forward from bow -->
+  <line x1="42" y1="160" x2="10" y2="158" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <circle cx="10" cy="158" r="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Starboard-side boom extending aft -->
+  <line x1="250" y1="160" x2="278" y2="158" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <circle cx="278" cy="158" r="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Small launch / tender on aft deck -->
+  <ellipse cx="218" cy="148" rx="22" ry="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="200" y1="148" x2="238" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Aft winch/equipment deck -->
+  <rect x="165" y="138" width="28" height="15" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Funnel (small, aft) -->
+  <rect x="155" y="118" width="14" height="20" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="152" y="115" width="20" height="5" rx="1" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

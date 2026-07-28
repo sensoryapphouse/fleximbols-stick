@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- wings -->
+<ellipse cx="226" cy="170" rx="54" ry="34" fill="#dfeefc" stroke="#9bb6cf" stroke-width="6" transform="rotate(-28 226 170)"/>
+<ellipse cx="292" cy="170" rx="54" ry="34" fill="#dfeefc" stroke="#9bb6cf" stroke-width="6" transform="rotate(28 292 170)"/>
+<!-- thorax -->
+<ellipse cx="256" cy="246" rx="58" ry="52" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<!-- narrow waist -->
+<rect x="240" y="284" width="32" height="34" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<!-- pointed abdomen with stripes -->
+<path d="M 196 318 Q 256 320 316 318 L 286 408 Q 256 432 226 408 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<clipPath id="waspab"><path d="M 196 318 Q 256 320 316 318 L 286 408 Q 256 432 226 408 Z"/></clipPath>
+<g clip-path="url(#waspab)">
+<rect x="190" y="338" width="140" height="20" fill="#1a1a1a"/>
+<rect x="190" y="378" width="140" height="20" fill="#1a1a1a"/>
+</g>
+<path d="M 196 318 Q 256 320 316 318 L 286 408 Q 256 432 226 408 Z" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<circle cx="256" cy="156" r="42" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<!-- antennae -->
+<path d="M 238 124 q -10 -26 -28 -32" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="208" cy="88" r="6" fill="#1a1a1a"/>
+<path d="M 274 124 q 10 -26 28 -32" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="304" cy="88" r="6" fill="#1a1a1a"/>
+<!-- eyes -->
+<circle cx="242" cy="154" r="9" fill="#1a1a1a"/>
+<circle cx="270" cy="154" r="9" fill="#1a1a1a"/>
+<!-- sting -->
+<polygon points="256 432 246 456 266 456" fill="#1a1a1a"/>
+</svg>

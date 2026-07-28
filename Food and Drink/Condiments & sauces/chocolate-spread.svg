@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- chocolate spread jar -->
+<!-- red lid -->
+<rect x="186" y="118" width="140" height="42" rx="8" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="198" y="100" width="116" height="24" rx="6" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- squat wide jar of chocolate spread -->
+<path d="M 184 160 L 328 160 L 328 384 Q 328 412 300 412 L 212 412 Q 184 412 184 384 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- glossy chocolate top surface -->
+<path d="M 184 188 Q 256 174 328 188 L 328 160 L 184 160 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- white label -->
+<rect x="200" y="246" width="112" height="120" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<!-- bread slice + chocolate motif -->
+<path d="M 234 332 L 278 332 L 278 304 Q 278 286 256 286 Q 234 286 234 304 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 240 312 Q 256 302 272 312 Q 272 320 256 320 Q 240 320 240 312 Z" fill="#6b4a2b" stroke="none"/>
+</svg>

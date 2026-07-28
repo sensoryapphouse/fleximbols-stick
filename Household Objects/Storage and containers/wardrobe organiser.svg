@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- closet frame -->
+  <rect x="30" y="20" width="230" height="200" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- vertical divider -->
+  <line x1="150" y1="20" x2="150" y2="220" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- LEFT side: top shelves with folded items -->
+  <line x1="30" y1="60" x2="150" y2="60" stroke="#5e1f0a" stroke-width="6.67"/>
+  <line x1="30" y1="100" x2="150" y2="100" stroke="#5e1f0a" stroke-width="6.67"/>
+  <!-- folded items on shelves -->
+  <rect x="45" y="35" width="30" height="20" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="80" y="35" width="30" height="20" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="115" y="35" width="30" height="20" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="50" y="75" width="35" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="90" y="75" width="35" height="20" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- LEFT: hanging rod -->
+  <line x1="35" y1="110" x2="145" y2="110" stroke="#4d4d4d" stroke-width="6.67"/>
+  <!-- hangers and clothes -->
+  <path d="M55 110 L50 125 L65 125 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="48" y="125" width="20" height="40" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M85 110 L80 125 L95 125 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="78" y="125" width="20" height="40" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M115 110 L110 125 L125 125 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="108" y="125" width="20" height="40" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- LEFT bottom drawers -->
+  <line x1="30" y1="175" x2="150" y2="175" stroke="#5e1f0a" stroke-width="6.67"/>
+  <rect x="40" y="180" width="100" height="15" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="40" y="198" width="100" height="15" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="90" cy="187" r="2" fill="#000000"/>
+  <circle cx="90" cy="205" r="2" fill="#000000"/>
+  <!-- RIGHT side: long hanging rod with long clothes -->
+  <line x1="155" y1="50" x2="255" y2="50" stroke="#4d4d4d" stroke-width="6.67"/>
+  <path d="M175 50 L170 65 L185 65 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="168" y="65" width="20" height="90" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M210 50 L205 65 L220 65 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="203" y="65" width="20" height="90" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M240 50 L235 65 L250 65 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="233" y="65" width="20" height="90" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- RIGHT bottom: shoes lined up -->
+  <line x1="150" y1="175" x2="260" y2="175" stroke="#5e1f0a" stroke-width="6.67"/>
+  <path d="M160 200 L160 192 Q165 188 175 190 L185 195 L185 200 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M195 200 L195 192 Q200 188 210 190 L220 195 L220 200 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M230 200 L230 192 Q235 188 245 190 L255 195 L255 200 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

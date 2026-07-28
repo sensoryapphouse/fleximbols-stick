@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Open headband arc (no crown — key distinguisher) -->
+  <path d="M62,155 Q60,110 145,98 Q230,110 228,155" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Headband body — a curved strip -->
+  <path d="M62,155 Q60,110 145,98 Q230,110 228,155 L218,160 Q228,118 145,108 Q62,118 72,160 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Open top — show sky/void clearly by not filling above band -->
+  <!-- Curved brim projecting forward from front of band -->
+  <path d="M72,160 Q55,163 38,172 Q34,181 44,186 Q80,190 145,188 Q210,190 246,186 Q256,181 252,172 Q235,163 218,160 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Brim underside -->
+  <path d="M72,160 Q56,165 46,174 Q80,180 145,178 Q210,180 244,174 Q234,165 218,160" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sweatband inner strip -->
+  <path d="M72,155 Q145,148 218,155 L218,162 Q145,156 72,162 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Velcro/adjustment strap at back centre top of band -->
+  <rect x="118" y="98" width="54" height="14" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Strap texture dots -->
+  <circle cx="133" cy="105" r="3" fill="#b8b8b8" stroke="none"/>
+  <circle cx="145" cy="105" r="3" fill="#b8b8b8" stroke="none"/>
+  <circle cx="157" cy="105" r="3" fill="#b8b8b8" stroke="none"/>
+  <!-- Brim stitch -->
+  <path d="M52,176 Q145,182 238,176" fill="none" stroke="#f7de58" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="5,4"/>
+</g></svg>

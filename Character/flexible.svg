@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bent ruler/rod: curves in a smooth arc -->
+  <!-- Shadow/depth layer -->
+  <path d="M38,185 Q90,180 145,120 Q200,60 252,55" fill="none" stroke="#b8b8b8" stroke-width="26.65" stroke-linecap="round"/>
+  <!-- Main rod (blue) -->
+  <path d="M38,185 Q90,180 145,120 Q200,60 252,55" fill="none" stroke="#2a4ec0" stroke-width="20.73" stroke-linecap="round"/>
+  <!-- Outline -->
+  <path d="M38,185 Q90,180 145,120 Q200,60 252,55" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+
+  <!-- Ruler tick marks along the rod -->
+  <!-- Approximate perpendicular ticks spaced along the arc -->
+  <line x1="62" y1="193" x2="56" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="92" y1="188" x2="86" y2="174" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="118" y1="166" x2="110" y2="154" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="148" y1="136" x2="140" y2="124" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="178" y1="104" x2="170" y2="92" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="76" x2="202" y2="64" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="238" y1="62" x2="232" y2="48" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Bend arrows: one at the lower end, one at the upper end, showing the curve force -->
+  <!-- Lower-left arrow: pointing inward-upward (force bending bottom up) -->
+  <path d="M28,195 Q22,175 38,165" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <polygon points="40,158 28,162 36,172" fill="#000000"/>
+
+  <!-- Upper-right arrow: pointing inward-downward (force bending top down) -->
+  <path d="M262,45 Q268,65 252,75" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <polygon points="250,82 262,78 254,68" fill="#000000"/>
+</g></svg>

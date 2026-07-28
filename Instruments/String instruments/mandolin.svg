@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Modern mandolin: small teardrop/almond body, round soundhole, short fretted neck, 8 strings in 4 pairs, scroll headstock -->
+  <!-- Body - teardrop/almond shape, warm brown wood -->
+  <path d="M158 100 C168 86 178 76 185 70 C196 64 210 66 218 76 C230 90 228 112 220 130 C210 150 192 168 172 176 C152 184 130 180 116 168 C100 154 96 132 104 114 C112 96 132 86 148 90 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Body wood grain shading -->
+  <path d="M158 100 C168 86 178 76 185 70" fill="none" stroke="#7d5e23" stroke-width="4.45"/>
+  <path d="M162 106 C172 92 182 82 188 76" fill="none" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Round soundhole -->
+  <circle cx="168" cy="132" r="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="168" cy="132" r="16" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Soundhole ring decoration -->
+  <circle cx="168" cy="132" r="22" fill="none" stroke="#f7de58" stroke-width="6.67"/>
+  <!-- Tailpiece/bridge area -->
+  <rect x="152" y="162" width="32" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Bridge -->
+  <rect x="154" y="148" width="28" height="5" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- 8 strings (4 pairs) from tailpiece up the neck -->
+  <line x1="157" y1="168" x2="138" y2="52" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="160" y1="168" x2="141" y2="52" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="163" y1="168" x2="144" y2="52" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="166" y1="168" x2="147" y2="52" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="169" y1="168" x2="150" y2="52" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="172" y1="168" x2="153" y2="52" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="175" y1="168" x2="156" y2="52" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="178" y1="168" x2="159" y2="52" stroke="#b8b8b8" stroke-width="3.33"/>
+  <!-- Neck - short, fretted -->
+  <path d="M118 96 C122 78 130 62 138 48 L162 54 C154 68 148 84 146 102 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Fret lines on neck -->
+  <line x1="121" y1="88" x2="149" y2="94" stroke="#b8b8b8" stroke-width="5.56"/>
+  <line x1="124" y1="80" x2="152" y2="86" stroke="#b8b8b8" stroke-width="5.56"/>
+  <line x1="128" y1="72" x2="156" y2="78" stroke="#b8b8b8" stroke-width="5.56"/>
+  <line x1="132" y1="64" x2="160" y2="70" stroke="#b8b8b8" stroke-width="5.56"/>
+  <!-- Nut at top of neck -->
+  <rect x="136" y="47" width="26" height="5" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Headstock with scroll - teardrop/scroll shape -->
+  <path d="M136 47 C128 40 120 34 116 28 C112 20 116 12 124 12 C132 12 138 20 134 28 C132 34 128 38 132 42 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Scroll curl -->
+  <path d="M124 12 C120 16 120 22 124 24 C128 26 132 22 130 18" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Tuners on headstock - 4 pairs = 8 tuners -->
+  <circle cx="126" cy="32" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="28" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="128" cy="40" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="138" cy="36" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Strap/endpin -->
+  <circle cx="162" cy="184" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Underground entrance arch -->
+  <rect x="60" y="60" width="170" height="120" rx="12" ry="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Arch cutout top -->
+  <path d="M95 60 Q145 20 195 60" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Entrance opening -->
+  <rect x="108" y="110" width="74" height="70" rx="8" ry="8" fill="#000000" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Stairs inside entrance -->
+  <rect x="108" y="150" width="74" height="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="108" y="138" width="60" height="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="108" y="126" width="46" height="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Underground sign circle -->
+  <circle cx="145" cy="82" r="20" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- U letter lines in circle (no text) -->
+  <path d="M135 73 L135 87 Q135 92 145 92 Q155 92 155 87 L155 73" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Train hint at bottom -->
+  <rect x="75" y="195" width="140" height="25" rx="6" ry="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <circle cx="103" cy="215" r="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="187" cy="215" r="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="198" width="40" height="14" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="160" y="198" width="40" height="14" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- mane / shoulder fur -->
+<path d="M 256 120 C 340 120 392 196 392 300 C 392 360 360 396 312 404 L 200 404 C 152 396 120 360 120 300 C 120 196 172 120 256 120 Z" fill="#8a7a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<path d="M 256 150 C 318 150 356 206 356 280 C 356 332 330 364 296 372 L 216 372 C 182 364 156 332 156 280 C 156 206 194 150 256 150 Z" fill="#a8966f" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- brow -->
+<path d="M 200 222 Q 228 210 252 222" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 260 222 Q 284 210 312 222" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- eyes deep set -->
+<circle cx="224" cy="244" r="11" fill="#1a1a1a"/>
+<circle cx="288" cy="244" r="11" fill="#1a1a1a"/>
+<!-- long protruding muzzle -->
+<path d="M 256 268 C 296 268 322 300 322 348 C 322 392 294 420 256 420 C 218 420 190 392 190 348 C 190 300 216 268 256 268 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- muzzle ridge highlight -->
+<path d="M 256 280 L 256 392" fill="none" stroke="#6b4a2b" stroke-width="7" stroke-linecap="round"/>
+<!-- nostrils at tip -->
+<ellipse cx="240" cy="384" rx="6" ry="8" fill="#1a1a1a"/>
+<ellipse cx="272" cy="384" rx="6" ry="8" fill="#1a1a1a"/>
+<!-- mouth line -->
+<path d="M 222 406 Q 256 418 290 406" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

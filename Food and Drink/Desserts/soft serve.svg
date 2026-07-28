@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Waffle cone -->
+  <path d="M 95,160 Q 145,170 195,160 L 165,228 Q 145,236 125,228 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cone crosshatch lines -->
+  <path d="M 100,165 L 128,226 M 115,163 L 138,228 M 130,162 L 150,228 M 148,162 L 162,228 M 165,163 L 168,225 M 180,165 L 170,223" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 95,170 Q 145,178 195,170 M 100,180 Q 145,188 190,180 M 107,194 Q 145,200 183,194 M 116,208 Q 145,212 174,208" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Swirled soft serve - built as stacked curves giving coiled appearance -->
+  <!-- Bottom coil tier -->
+  <path d="M 100,162 Q 88,148 92,132 Q 96,118 118,118 Q 130,118 138,128 Q 146,118 158,118 Q 180,118 184,132 Q 188,148 178,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Middle coil tier -->
+  <path d="M 108,122 Q 98,108 102,94 Q 106,80 124,80 Q 136,80 144,90 Q 152,80 164,80 Q 182,80 186,94 Q 188,108 178,122" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Upper coil tier narrowing -->
+  <path d="M 115,84 Q 108,72 112,60 Q 116,48 130,48 Q 140,48 145,58 Q 150,48 160,48 Q 174,48 178,60 Q 182,72 175,84" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Top peak -->
+  <path d="M 122,52 Q 128,38 145,28 Q 162,38 168,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Swirl tip peak -->
+  <path d="M 145,28 Q 148,20 145,14" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

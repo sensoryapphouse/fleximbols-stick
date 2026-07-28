@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- collards: large round dark-green leaves with thick stems bunched -->
+  <!-- bundle base & tie -->
+  <ellipse cx="145" cy="215" rx="55" ry="9" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="190" width="54" height="20" rx="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- thick stems -->
+  <path d="M128,195 Q100,150 85,95" stroke="#eed5b6" stroke-width="11.85" fill="none" stroke-linecap="round"/>
+  <path d="M128,195 Q100,150 85,95" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M145,195 L145,55" stroke="#eed5b6" stroke-width="11.85" fill="none" stroke-linecap="round"/>
+  <path d="M145,195 L145,55" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M162,195 Q190,150 205,95" stroke="#eed5b6" stroke-width="11.85" fill="none" stroke-linecap="round"/>
+  <path d="M162,195 Q190,150 205,95" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <!-- big round leaves (back layer lighter) -->
+  <ellipse cx="85" cy="90" rx="50" ry="42" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="205" cy="90" rx="50" ry="42" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- center largest leaf -->
+  <ellipse cx="145" cy="100" rx="60" ry="55" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- ribs on center leaf -->
+  <path d="M145,55 L145,150" stroke="#eed5b6" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145,55 L145,150" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" fill="none"/>
+  <path d="M145,80 Q120,95 100,100" stroke="#67832d" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M145,80 Q170,95 190,100" stroke="#67832d" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M145,115 Q120,128 105,135" stroke="#67832d" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M145,115 Q170,128 185,135" stroke="#67832d" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <!-- veins on side leaves -->
+  <path d="M85,55 L85,128" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M205,55 L205,128" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

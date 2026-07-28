@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- classic pink rubber eraser, slight 3D, with pencil-mark smudge on side -->
+  <!-- pencil mark smudge being erased, behind/under -->
+  <path d="M 35 180 Q 80 165 130 175" fill="none" stroke="#4d4d4d" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M 35 195 Q 70 188 110 195" fill="none" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- eraser top face (perspective) -->
+  <polygon points="80,90 235,90 250,75 95,75" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- eraser right side face -->
+  <polygon points="235,90 250,75 250,150 235,165" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- eraser front face -->
+  <rect x="80" y="90" width="155" height="75" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- worn rounded corner suggestion -->
+  <path d="M 80 90 Q 85 92 85 100" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- subtle brand band -->
+  <rect x="100" y="120" width="115" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <circle cx="157" cy="129" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

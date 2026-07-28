@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- combine harvester -->
+<!-- main body / grain tank -->
+<path d="M 230 315 L 230 215 L 270 215 L 270 180 L 330 180 L 330 215 L 425 215 L 425 315 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- grain tank raised top -->
+<path d="M 338 215 L 418 215 L 408 188 L 348 188 Z" fill="#8cc152" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- cab window -->
+<rect x="278" y="190" width="44" height="34" rx="4" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<!-- unloading auger spout -->
+<line x1="425" y1="235" x2="470" y2="200" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<line x1="425" y1="235" x2="470" y2="200" stroke="#8cc152" stroke-width="8" stroke-linecap="round"/>
+<!-- header / cutting deck (front lower, attached to body) -->
+<path d="M 110 305 L 235 305 L 235 332 L 110 332 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- header support to body -->
+<path d="M 175 280 L 230 245" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<path d="M 175 280 L 230 245" fill="none" stroke="#e08a3a" stroke-width="6" stroke-linecap="round"/>
+<!-- reel (spinning bat reel above header) -->
+<circle cx="150" cy="275" r="40" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="150" y1="275" x2="150" y2="235" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="150" y1="275" x2="190" y2="275" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="150" y1="275" x2="150" y2="315" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="150" y1="275" x2="110" y2="275" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="150" y1="275" x2="178" y2="247" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="150" y1="275" x2="122" y2="303" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="150" y1="275" x2="178" y2="303" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="150" y1="275" x2="122" y2="247" stroke="#1a1a1a" stroke-width="6"/>
+<!-- big drive wheel -->
+<circle cx="300" cy="335" r="48" fill="#1a1a1a"/>
+<circle cx="300" cy="335" r="20" fill="#f4c430" stroke="#1a1a1a" stroke-width="7"/>
+<!-- small rear wheel -->
+<circle cx="405" cy="345" r="28" fill="#1a1a1a"/>
+<circle cx="405" cy="345" r="12" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

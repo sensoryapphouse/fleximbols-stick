@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky -->
+  <rect x="0" y="0" width="290" height="130" fill="#dff3fd" stroke="none"/>
+  <!-- Mountain -->
+  <polygon points="145,10 290,180 0,180" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Snow cap on mountain peak -->
+  <polygon points="145,10 190,80 100,80" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Avalanche snow wall cascading down right slope -->
+  <path d="M 175,75 Q 230,95 265,150 Q 255,160 235,150 Q 215,140 200,160 Q 185,178 165,170 Q 148,162 155,140 Q 165,115 175,75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Snow billow puffs -->
+  <ellipse cx="248" cy="140" rx="22" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <ellipse cx="268" cy="155" rx="16" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <ellipse cx="230" cy="160" rx="18" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <ellipse cx="215" cy="150" rx="14" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Ground / slope base -->
+  <rect x="0" y="178" width="290" height="52" fill="#9d7246" stroke="none"/>
+  <line x1="0" y1="178" x2="290" y2="178" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- Snow on ground -->
+  <path d="M 0,178 Q 40,168 80,176 Q 120,184 160,172 Q 200,160 240,170 Q 270,178 290,172 L 290,195 L 0,195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Skier silhouette fleeing (left side, lower slope) -->
+  <!-- Body -->
+  <ellipse cx="72" cy="165" rx="7" ry="10" fill="#000000" stroke="#1a1a1a" stroke-width="2.54"/>
+  <!-- Head -->
+  <circle cx="72" cy="153" r="7" fill="#000000" stroke="#1a1a1a" stroke-width="2.54"/>
+  <!-- Ski poles -->
+  <line x1="65" y1="162" x2="48" y2="180" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="79" y1="162" x2="90" y2="180" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Skis -->
+  <line x1="58" y1="178" x2="38" y2="182" stroke="#f8130d" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="72" y1="178" x2="52" y2="182" stroke="#f8130d" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Motion lines behind skier -->
+  <line x1="90" y1="158" x2="105" y2="158" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="92" y1="165" x2="108" y2="165" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="90" y1="172" x2="106" y2="172" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+</g></svg>

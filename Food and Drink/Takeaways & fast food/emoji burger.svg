@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Top bun -->
+  <path d="M50 110 Q50 40 145 38 Q240 40 240 110 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+
+  <!-- Sesame seeds -->
+  <ellipse cx="100" cy="80" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="130" cy="62" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="160" cy="58" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="190" cy="68" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="80" cy="95" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="85" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="210" cy="92" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="115" cy="100" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="180" cy="98" rx="5" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Cheese (yellow squiggly slice) -->
+  <path d="M48 112 L242 112 L235 138 Q220 130 200 138 Q180 130 160 138 Q140 130 120 138 Q100 130 80 138 Q60 130 55 138 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+
+  <!-- Lettuce (green wavy) -->
+  <path d="M45 138 Q60 130 75 138 Q90 130 105 138 Q120 130 135 138 Q150 130 165 138 Q180 130 195 138 Q210 130 225 138 Q240 130 245 138 L242 152 L48 152 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+
+  <!-- Tomato slice -->
+  <path d="M45 152 L245 152 L240 168 L50 168 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Tomato seeds hint -->
+  <circle cx="100" cy="160" r="2" fill="#d01424"/>
+  <circle cx="160" cy="160" r="2" fill="#d01424"/>
+  <circle cx="210" cy="160" r="2" fill="#d01424"/>
+
+  <!-- Patty -->
+  <path d="M45 168 L245 168 L240 195 L50 195 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Patty texture -->
+  <circle cx="90" cy="182" r="3" fill="#4d4d4d"/>
+  <circle cx="140" cy="180" r="3" fill="#4d4d4d"/>
+  <circle cx="190" cy="184" r="3" fill="#4d4d4d"/>
+  <circle cx="220" cy="178" r="3" fill="#4d4d4d"/>
+
+  <!-- Bottom bun -->
+  <path d="M50 195 L240 195 Q245 220 145 222 Q45 220 50 195 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+</g></svg>

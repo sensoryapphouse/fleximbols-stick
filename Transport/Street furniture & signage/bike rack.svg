@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <rect x="20" y="205" width="250" height="16" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- rack: two upright posts -->
+  <rect x="55" y="120" width="16" height="88" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="219" y="120" width="16" height="88" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- rack: top horizontal bar -->
+  <rect x="55" y="118" width="180" height="18" rx="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- rack: lower horizontal bar -->
+  <rect x="55" y="168" width="180" height="14" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- rack feet -->
+  <rect x="44" y="198" width="36" height="10" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="210" y="198" width="36" height="10" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- one bike leaning against rack -->
+  <!-- rear wheel -->
+  <circle cx="170" cy="192" r="26" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="192" r="11" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- front wheel -->
+  <circle cx="240" cy="192" r="26" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="192" r="11" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- frame -->
+  <line x1="170" y1="192" x2="196" y2="163" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="192" x2="192" y2="154" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="192" y1="154" x2="212" y2="154" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="212" y1="154" x2="196" y2="163" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="212" y1="154" x2="240" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- seat post -->
+  <line x1="192" y1="154" x2="189" y2="143" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="178" y="137" width="22" height="8" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- handlebar -->
+  <line x1="212" y1="154" x2="216" y2="141" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="141" x2="224" y2="141" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- crank -->
+  <circle cx="196" cy="174" r="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- frame fill colour -->
+  <line x1="196" y1="163" x2="196" y2="174" stroke="#2a4ec0" stroke-width="2.66" stroke-linecap="round"/>
+</g></svg>

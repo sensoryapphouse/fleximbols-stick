@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- wall plate -->
+<rect x="120" y="150" width="34" height="200" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bracket arm reaching right -->
+<path d="M 154 250 L 300 250 Q 320 250 320 270" fill="none" stroke="#9aa0a6" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- spindle bar through roll -->
+<line x1="216" y1="250" x2="396" y2="250" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- toilet roll cylinder -->
+<rect x="232" y="208" width="150" height="120" rx="16" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- roll end face -->
+<ellipse cx="232" cy="268" rx="22" ry="60" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="232" cy="268" r="18" fill="#c89a5b" stroke="#1a1a1a" stroke-width="7"/>
+<!-- hanging sheet -->
+<path d="M 282 328 L 350 328 L 350 410 L 316 392 L 282 410 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="300" y1="350" x2="332" y2="350" stroke="#cfd6dc" stroke-width="5" stroke-linecap="round"/>
+<line x1="300" y1="372" x2="332" y2="372" stroke="#cfd6dc" stroke-width="5" stroke-linecap="round"/>
+</svg>

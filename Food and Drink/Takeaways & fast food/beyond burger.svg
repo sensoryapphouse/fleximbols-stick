@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bottom bun base -->
+  <path d="M45,218 Q45,232 145,232 Q245,232 245,218 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="218" rx="100" ry="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Lettuce -->
+  <path d="M50,200 Q76,190 102,202 Q128,190 154,202 Q180,190 206,202 L240,198" fill="none" stroke="#529929" stroke-width="11.85" stroke-linecap="round"/>
+  <!-- COOLER PINK patty - distinct from Impossible (uses #f266aa, cooler/brighter) -->
+  <rect x="55" y="162" width="180" height="28" rx="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Lighter highlight band on top surface -->
+  <rect x="64" y="162" width="162" height="9" rx="5" fill="#f4a4b2" stroke="none"/>
+  <!-- Sear marks - different spacing from Impossible -->
+  <path d="M72,172 Q110,168 140,172" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M154,170 Q190,166 214,170" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M92,180 L112,170" fill="none" stroke="#d01424" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M162,178 L182,168" fill="none" stroke="#d01424" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- DIFFERENT 3-lobed leaf shape (broader, rounder, 3 lobes) - top right of bun -->
+  <path d="M222,76 Q232,58 248,66 Q258,54 267,70 Q260,92 238,90 Q226,88 222,76 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- 3-lobe veins -->
+  <path d="M224,76 Q245,70 266,70" fill="none" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M234,76 Q244,63 257,66" fill="none" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M222,76 L218,86" stroke="#137827" stroke-width="2.96" stroke-linecap="round" fill="none"/>
+  <!-- Top bun - plain (no sesame seeds, differentiating from Impossible) -->
+  <path d="M50,154 Q50,92 145,92 Q240,92 240,154 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="154" rx="95" ry="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Darker golden sheen on bun -->
+  <path d="M68,128 Q105,108 145,104 Q185,108 222,128" fill="none" stroke="#9d7246" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

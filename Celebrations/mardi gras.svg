@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Jester hat body - left lobe purple -->
+  <path d="M145,55 C145,55 95,30 80,75 C70,105 95,120 145,125 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Jester hat body - right lobe yellow -->
+  <path d="M145,55 C145,55 195,30 210,75 C220,105 195,120 145,125 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Jester hat body - center green -->
+  <path d="M110,125 C110,125 120,75 145,55 C170,75 180,125 180,125 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Hat brim -->
+  <rect x="90" y="118" width="110" height="16" rx="8" ry="8" fill="#392170" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bell left -->
+  <circle cx="80" cy="75" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="75" r="3" fill="#000000" stroke="none"/>
+  <!-- Bell right -->
+  <circle cx="210" cy="75" r="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="75" r="3" fill="#000000" stroke="none"/>
+  <!-- Bell top -->
+  <circle cx="145" cy="55" r="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="55" r="3" fill="#000000" stroke="none"/>
+  <!-- Bead strand 1 - purple -->
+  <path d="M40,155 C80,140 120,165 145,155 C170,145 210,165 250,150" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <path d="M40,155 C80,140 120,165 145,155 C170,145 210,165 250,150" fill="none" stroke="#7c3fac" stroke-width="5.55" stroke-linecap="round" stroke-dasharray="12,8"/>
+  <!-- Bead strand 2 - yellow -->
+  <path d="M35,175 C75,158 118,182 145,172 C172,162 215,182 255,168" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <path d="M35,175 C75,158 118,182 145,172 C172,162 215,182 255,168" fill="none" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round" stroke-dasharray="12,8"/>
+  <!-- Bead strand 3 - green -->
+  <path d="M40,195 C80,178 120,202 145,192 C170,182 210,202 250,188" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <path d="M40,195 C80,178 120,202 145,192 C170,182 210,202 250,188" fill="none" stroke="#529929" stroke-width="5.55" stroke-linecap="round" stroke-dasharray="12,8"/>
+  <!-- Individual bead dots for clarity -->
+  <circle cx="40" cy="155" r="7" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="250" cy="150" r="7" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="35" cy="175" r="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="255" cy="168" r="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="40" cy="195" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="250" cy="188" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Stars/confetti -->
+  <polygon points="58,130 62,122 66,130 74,130 68,136 70,144 62,139 54,144 56,136 50,130" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="232,130 236,122 240,130 248,130 242,136 244,144 236,139 228,144 230,136 224,130" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

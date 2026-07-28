@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Coffee bean - large central oval with characteristic crease -->
+  <ellipse cx="145" cy="105" rx="68" ry="52" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Bean crease line -->
+  <path d="M145,55 Q125,85 145,105 Q165,125 145,157" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Bean highlight -->
+  <ellipse cx="122" cy="78" rx="14" ry="9" fill="#9d7246" stroke="none"/>
+  <!-- Puckered grimace face below the bean -->
+  <!-- Face circle -->
+  <circle cx="145" cy="188" r="44" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Eyes - squinting/puckered -->
+  <!-- Left eye - squint arc -->
+  <path d="M120,178 Q127,170 134,178" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Right eye - squint arc -->
+  <path d="M156,178 Q163,170 170,178" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Eyebrow furrow - left -->
+  <path d="M118,170 Q127,164 136,168" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Eyebrow furrow - right -->
+  <path d="M154,168 Q163,164 172,170" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Puckered grimace mouth - pursed/puckered -->
+  <path d="M126,205 Q135,196 145,198 Q155,200 164,205" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Puckered lip detail -->
+  <path d="M130,205 Q145,200 160,205" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cheek lines showing puckering -->
+  <path d="M113,195 Q118,200 115,206" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M177,195 Q172,200 175,206" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Small dark cocoa pieces scattered -->
+  <ellipse cx="50" cy="118" rx="12" ry="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M50,112 Q44,120 50,126" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="240" cy="122" rx="11" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M240,116 Q234,124 240,128" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="55" cy="155" rx="10" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="238" cy="158" rx="9" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

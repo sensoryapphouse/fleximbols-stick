@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="86.69 95.22 347.15 347.15">
+<rect x="290" y="232" width="118" height="26" rx="13" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 120 244 a 96 96 0 0 0 192 0 Z" fill="#cfd3d7" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 112 244 L 320 244" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<clipPath id="sievebowl"><path d="M 124 246 a 92 92 0 0 0 184 0 Z"/></clipPath>
+<g clip-path="url(#sievebowl)" stroke="#9aa0a6" stroke-width="4">
+<line x1="148" y1="246" x2="148" y2="346"/>
+<line x1="176" y1="246" x2="176" y2="346"/>
+<line x1="204" y1="246" x2="204" y2="346"/>
+<line x1="232" y1="246" x2="232" y2="346"/>
+<line x1="260" y1="246" x2="260" y2="346"/>
+<line x1="288" y1="246" x2="288" y2="346"/>
+<line x1="124" y1="272" x2="308" y2="272"/>
+<line x1="124" y1="300" x2="308" y2="300"/>
+<line x1="124" y1="328" x2="308" y2="328"/>
+</g>
+<path d="M 124 246 a 92 92 0 0 0 184 0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="216" cy="200" r="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="184" cy="214" r="5" fill="#f4c430" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="246" cy="216" r="5" fill="#f4c430" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

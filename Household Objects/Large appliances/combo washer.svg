@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Washer-dryer combo: round door + water drop + heat lines together -->
+  <!-- Body -->
+  <rect x="40" y="30" width="210" height="190" rx="16" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top panel -->
+  <rect x="40" y="30" width="210" height="30" rx="16" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Control knob on top panel -->
+  <circle cx="195" cy="45" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="195" y1="37" x2="195" y2="41" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Door porthole outer ring -->
+  <circle cx="145" cy="138" r="72" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Door porthole glass -->
+  <circle cx="145" cy="138" r="56" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Drum fins -->
+  <line x1="145" y1="82" x2="145" y2="98" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="178" x2="145" y2="194" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="89" y1="138" x2="105" y2="138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="185" y1="138" x2="201" y2="138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Door handle -->
+  <rect x="195" y="131" width="12" height="14" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Water drop symbol (left side, distinguishes from plain dryer) -->
+  <path d="M68 80 Q68 60 80 50 Q92 60 92 80 Q92 95 80 98 Q68 95 68 80 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Heat lines (right side, shared with dryer) -->
+  <path d="M210 72 Q217 67 223 72" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M210 82 Q217 77 223 82" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M210 92 Q217 87 223 92" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Feet -->
+  <rect x="65" y="210" width="24" height="12" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="200" y="210" width="24" height="12" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

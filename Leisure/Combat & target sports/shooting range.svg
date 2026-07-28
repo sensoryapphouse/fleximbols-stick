@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lane floor -->
+  <rect x="20" y="185" width="250" height="18" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lane left wall -->
+  <polygon points="20,60 55,185 20,185" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lane right wall -->
+  <polygon points="270,60 235,185 270,185" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lane ceiling/booth top -->
+  <rect x="20" y="50" width="250" height="18" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lane floor perspective lines -->
+  <line x1="55" y1="185" x2="235" y2="185" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Shooter booth partition (left) -->
+  <rect x="20" y="60" width="12" height="130" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Target backing board -->
+  <rect x="100" y="60" width="90" height="115" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bullseye target rings -->
+  <circle cx="145" cy="118" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="118" r="34" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="118" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="118" r="15" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="118" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Shot holes -->
+  <circle cx="148" cy="116" r="4" fill="#000000"/>
+  <circle cx="138" cy="122" r="3" fill="#000000"/>
+  <circle cx="155" cy="108" r="3" fill="#000000"/>
+  <circle cx="130" cy="102" r="3" fill="#000000"/>
+  <circle cx="160" cy="130" r="3" fill="#000000"/>
+  <!-- Target hanger line -->
+  <line x1="145" y1="60" x2="145" y2="72" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Shooter bench -->
+  <rect x="30" y="172" width="55" height="14" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

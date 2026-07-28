@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="65.94 84.71 380.12 380.12">
+<!-- seizure / soft protective head-injury helmet: padded soft-shell cap with chin strap -->
+<!-- soft padded dome -->
+<path d="M 116 312 Q 116 124 256 124 Q 396 124 396 312 Z" fill="#6a4ab0" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- padded brim roll -->
+<path d="M 104 312 Q 256 286 408 312 Q 422 314 414 332 L 98 332 Q 90 314 104 312 Z" fill="#8a6ad0" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- ventilation holes -->
+<circle cx="200" cy="216" r="13" fill="#4a3290" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256" cy="196" r="13" fill="#4a3290" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="312" cy="216" r="13" fill="#4a3290" stroke="#1a1a1a" stroke-width="5"/>
+<!-- soft-padding quilt seam lines -->
+<path d="M 168 170 Q 176 240 172 308" fill="none" stroke="#4a3290" stroke-width="5" stroke-linecap="round"/>
+<path d="M 344 170 Q 336 240 340 308" fill="none" stroke="#4a3290" stroke-width="5" stroke-linecap="round"/>
+<!-- chin strap -->
+<path d="M 128 330 Q 116 410 196 416" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<path d="M 384 330 Q 396 410 316 416" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<rect x="226" y="404" width="60" height="24" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

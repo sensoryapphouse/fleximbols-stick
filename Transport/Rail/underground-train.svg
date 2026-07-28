@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- tunnel arch surround -->
+<path d="M 96 360 L 96 240 Q 96 120 256 120 Q 416 120 416 240 L 416 360 Z" fill="none" stroke="#b9bdc2" stroke-width="22" stroke-linejoin="round"/>
+<path d="M 96 360 L 96 240 Q 96 120 256 120 Q 416 120 416 240 L 416 360 Z" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- tunnel dark mouth fill -->
+<path d="M 120 360 L 120 244 Q 120 144 256 144 Q 392 144 392 244 L 392 360 Z" fill="#2b2f33" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- emerging tube train front -->
+<path d="M 150 350 L 150 244 Q 150 196 256 196 Q 362 196 362 244 L 362 350 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- destination band -->
+<rect x="150" y="218" width="212" height="26" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="150" y1="218" x2="362" y2="218" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="150" y1="244" x2="362" y2="244" stroke="#1a1a1a" stroke-width="6"/>
+<!-- twin cab windows -->
+<rect x="176" y="258" width="60" height="56" rx="10" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="276" y="258" width="60" height="56" rx="10" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="6"/>
+<!-- centre door -->
+<rect x="240" y="258" width="32" height="92" rx="4" fill="#a82e38" stroke="#1a1a1a" stroke-width="6"/>
+<!-- headlamps -->
+<circle cx="186" cy="336" r="11" fill="#f4c430" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="326" cy="336" r="11" fill="#f4c430" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

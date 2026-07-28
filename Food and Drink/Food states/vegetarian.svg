@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate rim -->
+  <ellipse cx="145" cy="175" rx="110" ry="22" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Plate surface -->
+  <ellipse cx="145" cy="168" rx="110" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Plate inner well -->
+  <ellipse cx="145" cy="164" rx="88" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Carrot on plate -->
+  <path d="M 100,158 Q 95,145 105,128 Q 112,118 122,122 Q 132,128 128,145 Q 124,158 115,162 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 110,118 Q 106,105 100,98" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 116,116 Q 116,102 114,94" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 122,120 Q 128,108 132,100" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Broccoli floret on plate -->
+  <path d="M 155,162 L 158,138" fill="none" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <circle cx="158" cy="128" r="14" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="145" cy="120" r="12" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="171" cy="120" r="11" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tomato half on plate -->
+  <path d="M 178,162 Q 172,148 178,138 Q 185,130 194,134 Q 202,140 198,154 Q 195,162 185,164 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 178,148 Q 186,144 198,148" fill="none" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Fork to left of plate -->
+  <path d="M 28,130 L 28,210" fill="none" stroke="#b8b8b8" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 22,130 L 22,155 Q 22,160 28,160 Q 34,160 34,155 L 34,130" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 22,130 L 22,148 M 28,128 L 28,150 M 34,130 L 34,148" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Knife to right of plate -->
+  <path d="M 262,130 L 262,210" fill="none" stroke="#b8b8b8" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 262,130 Q 272,138 268,155 L 262,160" fill="#efefef" stroke="#b8b8b8" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

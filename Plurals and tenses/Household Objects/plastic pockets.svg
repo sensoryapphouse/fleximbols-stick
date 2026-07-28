@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g transform="translate(0.000,24.013) scale(0.9531)">
+<!-- clear plastic sleeve -->
+<rect x="150" y="96" width="230" height="320" rx="8" fill="#eaf3fa" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- binder strip down the left with punched holes -->
+<rect x="150" y="96" width="46" height="320" fill="#cfe3f2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="173" cy="150" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="173" cy="225" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="173" cy="300" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="173" cy="370" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- sheen highlights -->
+<line x1="240" y1="130" x2="240" y2="380" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+<line x1="300" y1="130" x2="300" y2="380" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2217" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2217)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

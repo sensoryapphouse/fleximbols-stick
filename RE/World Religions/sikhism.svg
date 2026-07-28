@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.9546) translate(-256.00 -256.00)">
+<circle cx="256.00" cy="256.00" r="232.00" fill="#eef2f5" stroke="#c4cfd6" stroke-width="8"/>
+
+<!-- ===== two kirpans (single-edged curved sabres) crossing in an X at the base ===== -->
+<!-- left kirpan: handle at lower-right, blade curving up the left side, tip flaring outward -->
+<path d="M 300 430 C 250 410 150 400 116 300 C 96 240 100 168 150 116 C 168 98 192 96 206 110"
+      fill="none" stroke="#41505a" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- left kirpan handle stub below the crossing -->
+<line x1="300" y1="430" x2="326" y2="448" stroke="#2c373f" stroke-width="26" stroke-linecap="round"/>
+<!-- right kirpan: handle at lower-left, blade curving up the right side, tip flaring outward -->
+<path d="M 212 430 C 262 410 362 400 396 300 C 416 240 412 168 362 116 C 344 98 320 96 306 110"
+      fill="none" stroke="#41505a" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- right kirpan handle stub below the crossing -->
+<line x1="212" y1="430" x2="186" y2="448" stroke="#2c373f" stroke-width="26" stroke-linecap="round"/>
+
+<!-- ===== chakkar (full ring) behind the central blade ===== -->
+<circle cx="256.00" cy="256.00" r="92.00" fill="none" stroke="#41505a" stroke-width="30"/>
+
+<!-- ===== central Khanda: broad double-edged sword ===== -->
+<!-- blade body (leaf-shaped, two cutting edges, pointed tip), drawn over the ring -->
+<path d="M 256 60
+         C 268 96 282 150 282 196
+         L 282 318
+         C 282 338 272 350 256 350
+         C 240 350 230 338 230 318
+         L 230 196
+         C 230 150 244 96 256 60 Z"
+      fill="#dfe6ec" stroke="#2c373f" stroke-width="12" stroke-linejoin="round"/>
+<!-- central ridge line down the double-edged blade -->
+<line x1="256" y1="84" x2="256" y2="330" stroke="#2c373f" stroke-width="6" stroke-linecap="round"/>
+<!-- small rounded pommel / grip at the base of the Khanda -->
+<circle cx="256.00" cy="372.00" r="20.00" fill="#dfe6ec" stroke="#2c373f" stroke-width="12"/>
+</g></svg>

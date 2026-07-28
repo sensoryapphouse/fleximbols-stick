@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="0" y="162" width="290" height="78" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sky strip (not full canvas - only 162 tall) -->
+  <rect x="0" y="0" width="290" height="162" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Dark storm cloud - menacing, lumpy -->
+  <ellipse cx="115" cy="58" rx="98" ry="45" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="68" cy="50" rx="55" ry="38" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="162" cy="45" rx="52" ry="34" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="112" cy="32" rx="45" ry="30" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Car silhouette on ground -->
+  <rect x="158" y="130" width="118" height="46" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="178" y="112" width="78" height="24" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Car windows -->
+  <rect x="182" y="115" width="32" height="17" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="218" y="115" width="32" height="17" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Car wheels -->
+  <circle cx="184" cy="178" r="14" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="184" cy="178" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="248" cy="178" r="14" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="248" cy="178" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- HAILSTONES - big round white balls falling, NOT droplets -->
+  <!-- Stone 1 (in air, leftmost) -->
+  <circle cx="38" cy="112" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="38" cy="112" r="7" fill="#dff3fd" stroke="#b8b8b8" stroke-width="1.48"/>
+  <!-- Stone 2 (in air) -->
+  <circle cx="82" cy="124" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="124" r="8" fill="#dff3fd" stroke="#b8b8b8" stroke-width="1.48"/>
+  <!-- Stone 3 (in air) -->
+  <circle cx="124" cy="112" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="124" cy="112" r="6" fill="#dff3fd" stroke="#b8b8b8" stroke-width="1.48"/>
+  <!-- Stone 4 (about to hit car) -->
+  <circle cx="210" cy="106" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="106" r="7" fill="#dff3fd" stroke="#b8b8b8" stroke-width="1.48"/>
+  <!-- Stone 5 (bouncing on ground) -->
+  <circle cx="52" cy="166" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Stone 6 on ground -->
+  <circle cx="108" cy="170" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Motion lines (vertical fall lines above each stone) -->
+  <line x1="38" y1="94" x2="38" y2="100" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="82" y1="105" x2="82" y2="111" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="124" y1="96" x2="124" y2="102" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="210" y1="88" x2="210" y2="94" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Impact dent on car roof -->
+  <path d="M200 112 Q204 108 208 112" fill="none" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

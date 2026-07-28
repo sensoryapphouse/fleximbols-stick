@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lion dance: rounded head + 2 performer legs underneath -->
+  <!-- Lion head (large rounded) -->
+  <ellipse cx="145" cy="95" rx="85" ry="65" fill="#d01424" stroke="#1a1a1a" stroke-width="6.22"/>
+  <!-- Yellow mane fringe around head -->
+  <path d="M60 95 Q60 60 90 50 Q120 35 145 35 Q170 35 200 50 Q230 60 230 95" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Gold accent stripes on mane -->
+  <path d="M75 70 Q90 55 110 50" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M180 50 Q200 55 215 70" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Forehead jewel/horn -->
+  <circle cx="145" cy="55" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M145 45 L150 55 L145 65 L140 55 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Eyes (big round bulging) -->
+  <circle cx="115" cy="90" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="115" cy="92" r="8" fill="#000000"/>
+  <circle cx="175" cy="90" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="175" cy="92" r="8" fill="#000000"/>
+  <!-- Eyebrows (white furry) -->
+  <path d="M100 75 Q115 68 130 75" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M160 75 Q175 68 190 75" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Nose -->
+  <path d="M138 115 Q145 122 152 115 Q150 125 145 128 Q140 125 138 115 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mouth (big open) -->
+  <path d="M110 135 Q145 160 180 135 Q180 150 145 155 Q110 150 110 135 Z" fill="#392170" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Teeth -->
+  <path d="M120 140 L125 148 L130 140 L135 148 L140 140 L145 148 L150 140 L155 148 L160 140 L165 148 L170 140" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- Ears -->
+  <ellipse cx="75" cy="80" rx="12" ry="16" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="215" cy="80" rx="12" ry="16" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Body fabric below head (red+gold flowing) -->
+  <path d="M70 150 Q70 175 80 195 L210 195 Q220 175 220 150" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Gold trim on body -->
+  <path d="M75 170 L215 170" stroke="#f7de58" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Performer 1 legs (left) -->
+  <rect x="92" y="195" width="14" height="35" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="112" y="195" width="14" height="35" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Performer 1 shoes -->
+  <ellipse cx="99" cy="232" rx="10" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="119" cy="232" rx="10" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Performer 2 legs (right) -->
+  <rect x="164" y="195" width="14" height="35" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="184" y="195" width="14" height="35" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Performer 2 shoes -->
+  <ellipse cx="171" cy="232" rx="10" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="191" cy="232" rx="10" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

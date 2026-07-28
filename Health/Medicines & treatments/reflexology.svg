@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Foot diagram (sole view) with reflex points -->
+  <!-- Foot outline -->
+  <path d="M 90 50 Q 70 50 65 80 Q 60 110 70 140 Q 75 175 90 195 Q 105 215 130 215 Q 160 215 175 200 Q 185 180 185 155 Q 195 140 200 110 Q 200 80 185 60 Q 175 45 155 45 Q 135 45 125 50 Q 110 48 90 50 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Toes -->
+  <ellipse cx="95" cy="48" rx="13" ry="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="120" cy="42" rx="10" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="142" cy="40" rx="10" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="163" cy="42" rx="9" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="183" cy="48" rx="9" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- Reflex zone divider lines (dashed) -->
+  <path d="M 75 100 Q 130 95 195 100" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-dasharray="3,3"/>
+  <path d="M 70 140 Q 130 135 200 140" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-dasharray="3,3"/>
+  <path d="M 75 175 Q 130 170 190 175" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-dasharray="3,3"/>
+
+  <!-- Reflex points (colored dots) -->
+  <circle cx="100" cy="80" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="75" r="5" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="80" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="95" cy="120" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="115" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="120" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="105" cy="160" r="5" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="160" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="195" r="5" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Thumb pressing one point (the highlighted big one in middle) -->
+  <!-- Hand/thumb coming from right -->
+  <path d="M 200 80 Q 245 90 260 115 Q 265 130 240 130 Q 200 130 180 125 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Thumb tip pressing -->
+  <ellipse cx="150" cy="115" rx="10" ry="8" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Nail -->
+  <path d="M 145 112 Q 150 109 155 112" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pressure indicator arrow -->
+  <path d="M 152 100 L 152 108" stroke="#d01424" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M 148 104 L 152 108 L 156 104" fill="none" stroke="#d01424" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

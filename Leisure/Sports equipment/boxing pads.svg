@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Boxing focus mitts: two circular padded targets -->
+  <!-- Left pad -->
+  <!-- Pad body (circular padded target face) -->
+  <circle cx="88" cy="120" r="58" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Padding ridges on face -->
+  <circle cx="88" cy="120" r="44" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <circle cx="88" cy="120" r="28" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <!-- Central strike zone -->
+  <circle cx="88" cy="120" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Hand strap on back (visible at side) -->
+  <path d="M88,178 C70,182 55,175 50,162 C45,150 52,140 65,138" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <rect x="62" y="135" width="22" height="10" rx="3" ry="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.89" stroke-linejoin="round"/>
+  <!-- Right pad (angled slightly) -->
+  <circle cx="202" cy="120" r="58" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="202" cy="120" r="44" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <circle cx="202" cy="120" r="28" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <circle cx="202" cy="120" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Hand strap right -->
+  <path d="M202,178 C220,182 235,175 240,162 C245,150 238,140 225,138" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <rect x="206" y="135" width="22" height="10" rx="3" ry="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.89" stroke-linejoin="round"/>
+</g></svg>

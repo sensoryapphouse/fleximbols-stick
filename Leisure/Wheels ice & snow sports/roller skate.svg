@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- high-top boot upper (classic roller skate) -->
+  <path d="M65 50 L65 140 Q65 152 78 154 L200 154 Q215 152 220 138 L222 110 Q222 96 210 92 L130 88 Q120 86 116 78 L112 56 Q108 50 100 50 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- ankle line -->
+  <path d="M70 75 Q90 70 110 73" stroke="#1a1a1a" stroke-width="3.56" fill="none"/>
+  <!-- tongue -->
+  <path d="M122 95 Q145 90 170 95 L168 140 Q145 144 124 140 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- laces zigzag -->
+  <line x1="128" y1="105" x2="164" y2="115" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="164" y1="105" x2="128" y2="115" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="128" y1="120" x2="164" y2="130" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="164" y1="120" x2="128" y2="130" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- eyelets -->
+  <circle cx="128" cy="105" r="2" fill="#000000"/>
+  <circle cx="164" cy="105" r="2" fill="#000000"/>
+  <circle cx="128" cy="115" r="2" fill="#000000"/>
+  <circle cx="164" cy="115" r="2" fill="#000000"/>
+  <circle cx="128" cy="125" r="2" fill="#000000"/>
+  <circle cx="164" cy="125" r="2" fill="#000000"/>
+  <circle cx="128" cy="135" r="2" fill="#000000"/>
+  <circle cx="164" cy="135" r="2" fill="#000000"/>
+  <!-- pompom top decoration -->
+  <circle cx="78" cy="50" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- sole -->
+  <path d="M62 154 L222 154 L222 170 L64 170 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- truck plate -->
+  <path d="M62 170 L222 170 L218 180 L66 180 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- front axle -->
+  <line x1="65" y1="190" x2="115" y2="190" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- rear axle -->
+  <line x1="165" y1="190" x2="220" y2="190" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- TOE STOP (front, quad-skate signature) -->
+  <ellipse cx="55" cy="180" rx="12" ry="9" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- 4 WHEELS in 2x2 QUAD arrangement -->
+  <!-- front-left -->
+  <circle cx="75" cy="200" r="18" fill="#fff200" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="75" cy="200" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="75" cy="200" r="2" fill="#000000"/>
+  <!-- front-right (just behind/beside in 2D, slightly offset) -->
+  <circle cx="115" cy="200" r="18" fill="#fff200" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="115" cy="200" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="115" cy="200" r="2" fill="#000000"/>
+  <!-- gap separating front pair from back pair -->
+  <!-- rear-left -->
+  <circle cx="170" cy="200" r="18" fill="#fff200" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="170" cy="200" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="170" cy="200" r="2" fill="#000000"/>
+  <!-- rear-right -->
+  <circle cx="210" cy="200" r="18" fill="#fff200" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="210" cy="200" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="210" cy="200" r="2" fill="#000000"/>
+  <!-- pair-grouping bracket visual: front pair connector -->
+  <rect x="73" y="178" width="44" height="6" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- rear pair connector -->
+  <rect x="168" y="178" width="44" height="6" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

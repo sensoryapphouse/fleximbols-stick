@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Toast slice -->
+  <rect x="55" y="100" width="180" height="120" rx="12" ry="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Toast crust top edge -->
+  <rect x="55" y="100" width="180" height="22" rx="10" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Toast crust bottom -->
+  <rect x="55" y="198" width="180" height="22" rx="10" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Toast crust left -->
+  <rect x="55" y="100" width="20" height="120" rx="8" ry="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Toast crust right -->
+  <rect x="215" y="100" width="20" height="120" rx="8" ry="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Smashed avocado mash - green base -->
+  <path d="M 80 120 Q 95 115 120 118 Q 145 112 170 118 Q 195 114 210 120 L 208 195 Q 190 198 170 196 Q 145 200 120 196 Q 95 198 82 195 Z" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Avocado texture lumps -->
+  <path d="M 88 135 Q 105 128 122 134 Q 110 145 90 142 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 130 130 Q 150 124 168 131 Q 158 142 132 140 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 170 136 Q 185 130 202 136 Q 195 147 172 145 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 90 155 Q 115 148 140 154 Q 125 165 92 163 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 148 150 Q 170 144 192 151 Q 178 162 150 160 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Salt flakes -->
+  <rect x="100" y="170" width="6" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="148" y="165" width="6" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="185" y="172" width="6" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Red chilli flakes -->
+  <ellipse cx="118" cy="180" rx="4" ry="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(30 118 180)"/>
+  <ellipse cx="162" cy="178" rx="4" ry="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 162 178)"/>
+</g></svg>

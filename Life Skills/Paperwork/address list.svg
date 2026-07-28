@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Address book / list with entries and people icons -->
+  <!-- Book cover (back) -->
+  <rect x="40" y="30" width="210" height="185" rx="6" ry="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Pages (white sheet) -->
+  <rect x="50" y="38" width="195" height="170" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Tab dividers on right edge (A,B,C) -->
+  <rect x="240" y="55" width="18" height="22" rx="3" ry="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="240" y="92" width="18" height="22" rx="3" ry="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="240" y="129" width="18" height="22" rx="3" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="240" y="166" width="18" height="22" rx="3" ry="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Binding rings down the left -->
+  <circle cx="60" cy="60" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="100" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="140" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="180" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Entry 1: person icon + lines -->
+  <circle cx="92" cy="63" r="9" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M82 82 Q92 72 102 82 L102 90 L82 90 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="114" y="58" width="115" height="5" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="114" y="70" width="90" height="5" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Entry 2: person icon + lines -->
+  <circle cx="92" cy="103" r="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M82 122 Q92 112 102 122 L102 130 L82 130 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="114" y="98" width="115" height="5" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="114" y="110" width="80" height="5" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Entry 3: person icon + lines -->
+  <circle cx="92" cy="143" r="9" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M82 162 Q92 152 102 162 L102 170 L82 170 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="114" y="138" width="115" height="5" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="114" y="150" width="100" height="5" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Entry 4: person icon + lines -->
+  <circle cx="92" cy="183" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M82 202 Q92 192 102 202 L102 200 L82 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="114" y="178" width="115" height="5" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="114" y="190" width="70" height="5" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

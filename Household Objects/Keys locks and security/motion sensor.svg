@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wall corner indicator (mounting bracket) -->
+  <path d="M 80,30 L 210,30 L 200,42 L 90,42 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sensor housing (trapezoid mounted on wall) -->
+  <path d="M 90,42 L 200,42 L 215,90 L 75,90 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Sensor lens (dome at front) -->
+  <ellipse cx="145" cy="85" rx="55" ry="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Lens highlight -->
+  <ellipse cx="130" cy="78" rx="12" ry="5" fill="#7f7f7f"/>
+  <!-- LED -->
+  <circle cx="145" cy="55" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Trigger indicator (alarm) badge -->
+  <circle cx="240" cy="55" r="20" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="240" y1="44" x2="240" y2="60" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
+  <circle cx="240" cy="68" r="3" fill="#ffffff"/>
+  <!-- Sound waves from alarm -->
+  <path d="M 263,40 Q 273,40 275,30" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 263,55 Q 278,55 282,55" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 263,70 Q 273,70 275,80" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Detection cone (fanning down from sensor) -->
+  <path d="M 145,98 L 60,225 L 230,225 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cone wave bands inside (showing detection field) -->
+  <path d="M 95,180 Q 145,170 195,180" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <path d="M 78,210 Q 145,196 212,210" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <!-- Moving figure inside the cone (walking icon) -->
+  <circle cx="145" cy="150" r="9" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.70"/>
+  <path d="M 138,158 L 152,158 L 150,180 L 140,180 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M 138,162 L 130,175" fill="none" stroke="#5e1f0a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 152,162 L 160,175" fill="none" stroke="#5e1f0a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 142,180 L 138,200" fill="none" stroke="#5e1f0a" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 148,180 L 154,200" fill="none" stroke="#5e1f0a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

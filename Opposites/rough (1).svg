@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- rough-modern: jagged/grainy textured rock surface with bumps and speckle dots -->
+  <!-- Rock base shape with jagged silhouette -->
+  <polygon points="25,205 30,160 55,140 50,110 75,85 95,95 110,65 130,80 145,60 162,75 178,55 198,78 215,68 232,90 250,88 265,115 260,145 270,175 265,205" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Rock face internal layers/cracks -->
+  <path d="M 50 110 L 80 125 L 95 115 L 120 130 L 145 118 L 170 128 L 195 115 L 220 125 L 245 118" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 60 145 L 90 158 L 120 148 L 150 160 L 178 150 L 210 162 L 240 150" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 55 178 L 90 185 L 130 178 L 165 186 L 200 178 L 240 184" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Texture speckle dots on rock face -->
+  <circle cx="88" cy="105" r="4" fill="#4d4d4d" stroke="none"/>
+  <circle cx="110" cy="95" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="135" cy="110" r="5" fill="#4d4d4d" stroke="none"/>
+  <circle cx="160" cy="98" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="185" cy="108" r="4" fill="#4d4d4d" stroke="none"/>
+  <circle cx="210" cy="100" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="230" cy="112" r="4" fill="#4d4d4d" stroke="none"/>
+  <circle cx="72" cy="135" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="102" cy="142" r="5" fill="#4d4d4d" stroke="none"/>
+  <circle cx="148" cy="138" r="4" fill="#4d4d4d" stroke="none"/>
+  <circle cx="190" cy="135" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="222" cy="140" r="5" fill="#4d4d4d" stroke="none"/>
+  <circle cx="118" cy="165" r="4" fill="#4d4d4d" stroke="none"/>
+  <circle cx="155" cy="170" r="3" fill="#4d4d4d" stroke="none"/>
+  <circle cx="195" cy="163" r="4" fill="#4d4d4d" stroke="none"/>
+  <circle cx="240" cy="168" r="3" fill="#4d4d4d" stroke="none"/>
+</g></svg>

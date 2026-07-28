@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- High heat flame under pan -->
+  <path d="M70 232 Q60 215 70 198 Q74 208 80 200 Q82 188 90 178 Q94 192 90 202 Q98 192 96 180 Q106 192 100 210 Q108 200 108 188 Q116 202 110 232 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M76 232 Q72 218 80 206 Q84 214 88 206 Q90 198 94 192 Q96 204 92 212 Q100 204 98 194 Q106 204 100 216 Q106 210 106 200 Q112 212 108 232 Z" fill="#ff9900" stroke="none"/>
+  <path d="M180 232 Q170 218 180 202 Q186 210 192 202 Q194 192 200 184 Q204 196 200 206 Q208 196 206 186 Q214 196 208 214 Q216 206 216 194 Q224 206 218 232 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M186 232 Q182 220 188 208 Q192 214 196 208 Q200 200 204 194 Q206 204 202 212 Q210 204 208 196 Q214 206 210 218 Q216 210 216 202 Q220 214 216 232 Z" fill="#ff9900" stroke="none"/>
+  <!-- Pan body -->
+  <ellipse cx="145" cy="172" rx="100" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <path d="M45 172 Q45 195 60 200 L230 200 Q245 195 245 172 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="172" rx="92" ry="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Pan handle -->
+  <rect x="240" y="166" width="40" height="14" rx="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Steak in pan - browned crust -->
+  <path d="M90 156 Q88 144 102 140 L188 138 Q204 142 202 156 Q200 172 184 174 L104 174 Q90 170 90 156 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Browning highlights -->
+  <path d="M108 148 Q130 144 158 146 Q178 148 188 152" fill="none" stroke="#9d7246" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M104 164 Q126 168 156 166 Q178 164 192 162" fill="none" stroke="#9d7246" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Pink interior peeking on side -->
+  <path d="M100 156 Q102 152 108 152 L184 152 Q188 154 186 158 Q186 160 184 160 L106 162 Q100 160 100 156 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Sizzle marks above -->
+  <path d="M118 124 Q120 116 124 112" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150 118 Q152 108 156 102" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M180 124 Q182 116 186 112" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="132" cy="110" r="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="168" cy="108" r="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- High heat arrow indicator -->
+  <path d="M30 110 L30 60" fill="none" stroke="#d01424" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M22 70 L30 56 L38 70 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M26 96 L34 96" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M24 88 L36 88" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

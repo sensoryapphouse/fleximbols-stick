@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- left handle: loop attached to the rim -->
+<path d="M 118 250 Q 62 250 62 280 Q 62 310 118 310" fill="none" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
+<path d="M 118 250 Q 76 250 76 280 Q 76 310 118 310" fill="none" stroke="#9aa0a6" stroke-width="12" stroke-linecap="round"/>
+<!-- right handle: loop attached to the rim -->
+<path d="M 394 250 Q 450 250 450 280 Q 450 310 394 310" fill="none" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
+<path d="M 394 250 Q 436 250 436 280 Q 436 310 394 310" fill="none" stroke="#9aa0a6" stroke-width="12" stroke-linecap="round"/>
+<!-- tin body in perspective -->
+<path d="M 112 250 L 400 250 L 366 384 Q 360 408 334 408 L 178 408 Q 152 408 146 384 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rim (top ellipse) sits over the handle roots so they read as attached -->
+<ellipse cx="256" cy="250" rx="150" ry="36" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner well -->
+<ellipse cx="256" cy="250" rx="118" ry="22" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+</g></svg>

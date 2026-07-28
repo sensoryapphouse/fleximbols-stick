@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Outer glow ring (solid ring shape using two circles simulated as thick stroke) -->
+  <circle cx="145" cy="120" r="88" fill="#fff200" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="120" r="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Radiating rays -->
+  <line x1="145" y1="28" x2="145" y2="14" stroke="#fff200" stroke-width="4.94" stroke-linecap="round"/>
+  <line x1="145" y1="212" x2="145" y2="226" stroke="#fff200" stroke-width="4.94" stroke-linecap="round"/>
+  <line x1="57" y1="120" x2="43" y2="120" stroke="#fff200" stroke-width="4.94" stroke-linecap="round"/>
+  <line x1="233" y1="120" x2="247" y2="120" stroke="#fff200" stroke-width="4.94" stroke-linecap="round"/>
+  <line x1="81" y1="54" x2="71" y2="44" stroke="#fff200" stroke-width="3.95" stroke-linecap="round"/>
+  <line x1="209" y1="54" x2="219" y2="44" stroke="#fff200" stroke-width="3.95" stroke-linecap="round"/>
+  <line x1="81" y1="186" x2="71" y2="196" stroke="#fff200" stroke-width="3.95" stroke-linecap="round"/>
+  <line x1="209" y1="186" x2="219" y2="196" stroke="#fff200" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Lightning bolt inside circle -->
+  <polygon points="158,52 128,124 148,124 132,188 172,108 150,108" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner highlight on bolt -->
+  <polygon points="154,68 144,110 150,110 143,148 162,114 154,114" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

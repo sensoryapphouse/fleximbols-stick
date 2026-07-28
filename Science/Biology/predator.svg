@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0000) translate(-256.00 -256.00)">
+<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#fdeede" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="0.0" y="440.0" width="512.0" height="72.0" rx="0" fill="#e9c89a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- PREDATOR: side-profile wolf lunging left, open jaws, upper-left -->
+<g transform="translate(-18 -36)">
+<!-- back legs -->
+<path d="M 372 360 q 6 44 -8 70" fill="none" stroke="#6f5f4d" stroke-width="20" stroke-linecap="round"/>
+<path d="M 412 352 q 14 40 4 74" fill="none" stroke="#5f4f3d" stroke-width="20" stroke-linecap="round"/>
+<!-- body -->
+<path d="M 196 300 Q 250 250 330 256 Q 420 262 446 326 Q 452 372 410 384 Q 320 396 252 372 Q 196 352 196 300 Z" fill="#8a7660" stroke="#5a4a38" stroke-width="8" stroke-linejoin="round"/>
+<!-- front legs (lunging forward) -->
+<path d="M 250 360 q -18 40 -40 62" fill="none" stroke="#8a7660" stroke-width="20" stroke-linecap="round"/>
+<path d="M 286 366 q -10 44 -22 70" fill="none" stroke="#7a6a58" stroke-width="20" stroke-linecap="round"/>
+<!-- tail -->
+<path d="M 446 300 Q 492 282 498 232" fill="none" stroke="#8a7660" stroke-width="22" stroke-linecap="round"/>
+<!-- neck/head (lowered, pouncing) -->
+<path d="M 214 300 Q 168 292 152 322 L 152 360 Q 152 362 196 356 Q 238 350 240 322 Q 240 302 214 300 Z" fill="#8a7660" stroke="#5a4a38" stroke-width="8" stroke-linejoin="round"/>
+<!-- ear -->
+<polygon points="216,272 240,304 254,272" fill="#8a7660" stroke="#5a4a38" stroke-width="7" stroke-linejoin="round"/>
+<!-- open jaws: upper + lower snout with teeth -->
+<path d="M 152 322 L 108 316 L 152 332 Z" fill="#8a7660" stroke="#5a4a38" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 152 348 L 110 360 L 152 348" fill="none" stroke="#5a4a38" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 152 336 L 112 348 L 152 348 Z" fill="#8a7660" stroke="#5a4a38" stroke-width="7" stroke-linejoin="round"/>
+<!-- teeth -->
+<polygon points="116,318 126,316 122,328" fill="#ffffff" stroke="#5a4a38" stroke-width="2"/>
+<polygon points="132,320 142,319 138,330" fill="#ffffff" stroke="#5a4a38" stroke-width="2"/>
+<polygon points="120,346 128,348 124,338" fill="#ffffff" stroke="#5a4a38" stroke-width="2"/>
+<!-- eye -->
+<circle cx="206" cy="318" r="6.5" fill="#2a2a2a"/>
+<!-- nose -->
+<circle cx="110" cy="316" r="6" fill="#2a2a2a"/>
+</g>
+<!-- ARROW predator -> prey (from snout area to prey) -->
+<line x1="110" y1="320" x2="356" y2="430" stroke="#d62828" stroke-width="15" stroke-linecap="round"/>
+<polygon points="382.0,442.0 346.0,442.0 360.0,412.0" fill="#d62828" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- PREY: small rabbit fleeing, bottom-right, clear of predator -->
+<g transform="translate(266 18)">
+<ellipse cx="168" cy="430" rx="44" ry="30" fill="#cdbfa6" stroke="#8a7c63" stroke-width="6"/>
+<circle cx="214" cy="416" r="22" fill="#cdbfa6" stroke="#8a7c63" stroke-width="6"/>
+<ellipse cx="220" cy="382" rx="7" ry="24" fill="#cdbfa6" stroke="#8a7c63" stroke-width="5"/>
+<ellipse cx="208" cy="384" rx="7" ry="24" fill="#cdbfa6" stroke="#8a7c63" stroke-width="5"/>
+<circle cx="222" cy="414" r="5" fill="#2a2a2a"/>
+<circle cx="124" cy="428" r="10" fill="#f1ece0" stroke="#cdbfa6" stroke-width="3"/>
+<path d="M 150 454 q -6 14 2 24" fill="none" stroke="#8a7c63" stroke-width="10" stroke-linecap="round"/>
+<path d="M 184 454 q 6 14 -2 24" fill="none" stroke="#8a7c63" stroke-width="10" stroke-linecap="round"/>
+</g>
+</g></svg>

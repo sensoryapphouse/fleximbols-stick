@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="91.07 77.42 387.88 387.88"><!-- home visit: medical bag in front of a house -->
+<!-- house roof -->
+<path d="M 150 220 L 300 130 L 450 220 Z" fill="#e8b04a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- house body -->
+<rect x="180" y="220" width="240" height="170" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- door -->
+<rect x="350" y="300" width="50" height="90" fill="#b5772e" stroke="#1a1a1a" stroke-width="7"/>
+<!-- medical bag in front -->
+<path d="M 120 320 L 280 320 L 270 412 L 130 412 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 168 320 Q 168 290 200 290 Q 232 290 232 320" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="120" y1="346" x2="280" y2="346" stroke="#1a1a1a" stroke-width="7"/>
+<!-- white cross on bag -->
+<rect x="186" y="356" width="28" height="44" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="172" y="370" width="56" height="16" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

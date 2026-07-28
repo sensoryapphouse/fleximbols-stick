@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- simple high wing (slightly swept-back delta of a microlight) -->
+<path d="M 96 196 L 416 178 L 416 196 L 256 232 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- king post / mast joining wing to pod -->
+<line x1="256" y1="232" x2="256" y2="268" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- support struts from wing to pod -->
+<line x1="200" y1="210" x2="236" y2="272" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="312" y1="206" x2="278" y2="272" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- open seat / trike pod -->
+<path d="M 214 272 Q 214 262 230 262 L 292 262 Q 306 262 306 278 L 298 322 Q 296 332 282 332 L 232 332 Q 218 332 216 320 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- two open seats (windscreen / occupants area) -->
+<circle cx="244" cy="288" r="11" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="278" cy="288" r="11" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="4"/>
+<!-- hub mount linking pod to propeller -->
+<rect x="300" y="272" width="22" height="20" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- big propeller at the back (right) -->
+<line x1="328" y1="236" x2="328" y2="328" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="328" cy="282" r="10" fill="#1a1a1a"/>
+<!-- light landing gear: trike (one nose wheel front, two rear) -->
+<line x1="240" y1="332" x2="206" y2="382" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="276" y1="332" x2="296" y2="384" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="200" cy="392" r="16" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="302" cy="392" r="16" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+</g></svg>

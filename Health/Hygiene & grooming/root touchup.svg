@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Top-down view of head with a clear PARTING showing dark roots being painted -->
+  <!-- head (top-down oval) -->
+  <ellipse cx="145" cy="130" rx="105" ry="85" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- light blonde hair (lighter colour, the lengths) -->
+  <path d="M 40 130 Q 50 60 145 50 Q 240 60 250 130 Q 250 195 200 215 L 90 215 Q 40 195 40 130 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- hair strands going outward (light) -->
+  <path d="M 60 100 Q 50 80 45 70" stroke="#9d7246" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M 100 70 Q 95 55 90 45" stroke="#9d7246" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M 190 70 Q 195 55 200 45" stroke="#9d7246" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M 230 100 Q 240 80 245 70" stroke="#9d7246" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M 60 170 Q 50 190 45 200" stroke="#9d7246" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M 230 170 Q 240 190 245 200" stroke="#9d7246" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- THE PARTING showing dark roots (vertical strip down the middle) -->
+  <rect x="135" y="55" width="20" height="155" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- root texture lines -->
+  <path d="M 140 70 L 140 200 M 145 70 L 145 200 M 150 70 L 150 200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- BRUSH being applied to roots -->
+  <!-- brush handle coming in from top-right -->
+  <rect x="180" y="14" width="58" height="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" transform="rotate(35 180 14)"/>
+  <!-- brush head over the parting -->
+  <path d="M 150 50 L 175 30 L 188 44 L 162 64 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- colour drip on the roots -->
+  <path d="M 145 65 Q 142 75 144 82 Q 148 86 150 82 Q 152 75 148 65 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

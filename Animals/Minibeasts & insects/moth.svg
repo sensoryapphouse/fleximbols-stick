@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- big triangular grey forewings -->
+<path d="M 256 196 L 110 120 Q 84 168 100 236 Q 120 300 256 296 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 196 L 402 120 Q 428 168 412 236 Q 392 300 256 296 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- lower hindwings -->
+<path d="M 256 296 L 150 320 Q 132 360 168 388 Q 210 410 256 360 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 296 L 362 320 Q 380 360 344 388 Q 302 410 256 360 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wing eye-spots -->
+<circle cx="168" cy="216" r="20" fill="#8a5a2b"/>
+<circle cx="344" cy="216" r="20" fill="#8a5a2b"/>
+<!-- furry body -->
+<rect x="238" y="186" width="36" height="190" rx="18" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- head -->
+<circle cx="256" cy="172" r="30" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- feathery antennae -->
+<path d="M 240 150 Q 214 122 196 96" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 272 150 Q 298 122 316 96" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 226 134 l -10 8 M 214 122 l -10 8 M 202 110 l -10 8" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 286 134 l 10 8 M 298 122 l 10 8 M 310 110 l 10 8" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- eyes -->
+<circle cx="247" cy="170" r="6" fill="#fff"/>
+<circle cx="265" cy="170" r="6" fill="#fff"/>
+</svg>

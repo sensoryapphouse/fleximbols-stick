@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cabinet body -->
+  <rect x="55" y="25" width="180" height="195" rx="10" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Glass door panel -->
+  <rect x="68" y="38" width="154" height="155" rx="7" ry="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Door handle -->
+  <rect x="182" y="95" width="10" height="50" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Shelf 1 -->
+  <rect x="72" y="88" width="146" height="8" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Shelf 2 -->
+  <rect x="72" y="138" width="146" height="8" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Shelf 3 -->
+  <rect x="72" y="168" width="146" height="8" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Wine bottle row 1 (horizontal, on shelf 1) -->
+  <rect x="82" y="62" width="52" height="26" rx="13" ry="13" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="134" y="62" width="52" height="26" rx="13" ry="13" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wine bottle row 2 (horizontal, on shelf 2) -->
+  <rect x="82" y="112" width="52" height="26" rx="13" ry="13" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="134" y="112" width="52" height="26" rx="13" ry="13" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wine bottle row 3 (horizontal, on shelf 3) -->
+  <rect x="82" y="147" width="52" height="20" rx="10" ry="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="134" y="147" width="52" height="20" rx="10" ry="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Temperature display at bottom -->
+  <rect x="78" y="182" width="50" height="18" rx="4" ry="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <rect x="68" y="215" width="20" height="8" rx="3" ry="3" fill="#000000"/>
+  <rect x="202" y="215" width="20" height="8" rx="3" ry="3" fill="#000000"/>
+</g></svg>

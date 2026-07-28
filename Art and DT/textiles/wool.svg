@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="91.58 90.72 351.03 351.03">
+<!-- ball of wool / yarn with loose strand -->
+<circle cx="248" cy="262" r="130" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- criss-cross wound strands -->
+<path d="M 138 200 Q 250 250 358 200" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 130 270 Q 250 320 366 270" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 150 340 Q 250 380 346 340" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 200 138 Q 250 250 200 384" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 296 138 Q 246 250 296 384" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- loose trailing strand -->
+<path d="M 366 270 Q 430 300 410 360 Q 392 410 360 396" fill="none" stroke="#e85a8a" stroke-width="12" stroke-linecap="round"/>
+<path d="M 366 270 Q 430 300 410 360 Q 392 410 360 396" fill="none" stroke="#c23a6a" stroke-width="5" stroke-linecap="round"/>
+</svg>

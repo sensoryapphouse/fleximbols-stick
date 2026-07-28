@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- salad dressing cruet, two layers -->
+<!-- cap -->
+<rect x="234" y="92" width="44" height="26" rx="5" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neck -->
+<path d="M 240 150 L 272 150 L 272 118 L 240 118 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rounded body (clear glass) -->
+<path d="M 256 150 Q 196 168 188 270 Q 182 360 220 396 Q 256 420 292 396 Q 330 360 324 270 Q 316 168 256 150 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- lower layer: oil (gold) clipped within body -->
+<path d="M 196 300 Q 196 360 222 388 Q 256 412 290 388 Q 316 360 316 300 Z" fill="#f4c430" stroke="none"/>
+<!-- upper layer: vinegar/herb (reddish) -->
+<path d="M 198 268 L 314 268 Q 316 286 314 300 L 198 300 Q 196 286 198 268 Z" fill="#d63b46" stroke="none"/>
+<!-- herb flecks in oil -->
+<circle cx="232" cy="346" r="6" fill="#2e7d40"/>
+<circle cx="276" cy="360" r="6" fill="#2e7d40"/>
+<circle cx="252" cy="372" r="5" fill="#5aa83c"/>
+<!-- layer separation line -->
+<line x1="198" y1="300" x2="316" y2="300" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- re-stroke glass outline over fills -->
+<path d="M 256 150 Q 196 168 188 270 Q 182 360 220 396 Q 256 420 292 396 Q 330 360 324 270 Q 316 168 256 150 Z" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

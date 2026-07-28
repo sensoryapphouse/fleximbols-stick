@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- antenna -->
+<rect x="196" y="96" width="20" height="74" rx="10" fill="#1a1a1a"/>
+<!-- volume knob -->
+<rect x="286" y="120" width="20" height="50" rx="8" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- body -->
+<rect x="160" y="160" width="190" height="256" rx="26" fill="#3f3f44" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- speaker / screen window -->
+<rect x="192" y="190" width="126" height="70" rx="10" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<!-- keypad buttons -->
+<g fill="#6b6b70" stroke="#1a1a1a" stroke-width="5">
+<rect x="196" y="286" width="30" height="22" rx="6"/>
+<rect x="240" y="286" width="30" height="22" rx="6"/>
+<rect x="284" y="286" width="30" height="22" rx="6"/>
+<rect x="196" y="320" width="30" height="22" rx="6"/>
+<rect x="240" y="320" width="30" height="22" rx="6"/>
+<rect x="284" y="320" width="30" height="22" rx="6"/>
+</g>
+<!-- speaker grille -->
+<line x1="196" y1="364" x2="314" y2="364" stroke="#b9bdc2" stroke-width="6" stroke-linecap="round"/>
+<line x1="196" y1="378" x2="314" y2="378" stroke="#b9bdc2" stroke-width="6" stroke-linecap="round"/>
+<line x1="196" y1="392" x2="314" y2="392" stroke="#b9bdc2" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Monument stone (tall) -->
+  <rect x="30" y="28" width="160" height="128" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Header band -->
+  <rect x="30" y="28" width="160" height="28" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="30" y="48" width="160" height="10" fill="#7f7f7f" stroke="none"/>
+  <!-- Digit "1" -->
+  <path d="M45,66 L45,138" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M35,75 L45,66" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <line x1="36" y1="138" x2="55" y2="138" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Digit "0" -->
+  <ellipse cx="76" cy="102" rx="13" ry="28" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Digit "0" -->
+  <ellipse cx="108" cy="102" rx="13" ry="28" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Digit "0" -->
+  <ellipse cx="140" cy="102" rx="13" ry="28" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Plinth base -->
+  <rect x="20" y="156" width="180" height="16" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Hourglass beside monument -->
+  <polygon points="218,30 258,30 238,80" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="218,130 258,130 238,80" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="214" y="26" width="48" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="214" y="126" width="48" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Hourglass sand stream -->
+  <line x1="238" y1="78" x2="238" y2="90" stroke="#f2e40d" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Long timeline -->
+  <line x1="20" y1="210" x2="270" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="20" y1="204" x2="20" y2="216" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="270" y1="204" x2="270" y2="216" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="270,210 258,204 258,216" fill="#000000"/>
+  <!-- Many small millennium ticks (10 ticks) -->
+  <line x1="45" y1="207" x2="45" y2="213" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="70" y1="207" x2="70" y2="213" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="95" y1="207" x2="95" y2="213" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="120" y1="207" x2="120" y2="213" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="145" y1="207" x2="145" y2="213" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="170" y1="207" x2="170" y2="213" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="195" y1="207" x2="195" y2="213" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="220" y1="207" x2="220" y2="213" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="245" y1="207" x2="245" y2="213" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.2112) translate(-243.00 -294.50)">
+<g transform="translate(29.0,63.2) scale(0.757)"><!-- Baby monitor camera, left region -->
+  <!-- wifi waves -->
+  <path d="M60,150 Q135,75 210,150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M85,178 Q135,128 185,178" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M110,205 Q135,180 160,205" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="135" cy="222" r="9" fill="#4488ff" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- camera body -->
+  <rect x="40" y="250" width="200" height="150" rx="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+  <!-- lens -->
+  <circle cx="140" cy="325" r="58" fill="#222222" stroke="#1a1a1a" stroke-width="6"/>
+  <circle cx="140" cy="325" r="40" fill="#2244aa" stroke="#1a1a1a" stroke-width="4"/>
+  <circle cx="140" cy="325" r="20" fill="#4466cc"/>
+  <circle cx="126" cy="311" r="8" fill="#aaccff"/>
+  <!-- status light -->
+  <circle cx="210" cy="278" r="11" fill="#44ff44" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- small mic -->
+  <circle cx="72" cy="278" r="8" fill="#cccccc" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- stand -->
+  <rect x="118" y="400" width="44" height="26" fill="#cccccc" stroke="#1a1a1a" stroke-width="5"/>
+  <ellipse cx="140" cy="438" rx="70" ry="20" fill="#dddddd" stroke="#1a1a1a" stroke-width="6"/></g>
+<line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#33373d"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#33373d"/>
+<line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffcf33" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#5a3a1f" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

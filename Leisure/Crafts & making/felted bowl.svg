@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Felted wool bowl - decorative, natural fibre look -->
+  <!-- Bowl back (inner curve) -->
+  <ellipse cx="145" cy="100" rx="95" ry="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.65"/>
+  <!-- Inner hollow -->
+  <ellipse cx="145" cy="100" rx="85" ry="16" fill="#392170" stroke="#1a1a1a" stroke-width="4.04"/>
+
+  <!-- Outer bowl wall -->
+  <path d="M 50 100 Q 30 175 100 200 Q 145 210 190 200 Q 260 175 240 100 Q 220 122 145 122 Q 70 122 50 100 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.47" stroke-linejoin="round"/>
+
+  <!-- Felted wool surface texture: irregular fluffy bumps across body -->
+  <g stroke="#1a1a1a" stroke-width="2.58">
+    <circle cx="65" cy="135" r="6" fill="#f5e7c4"/>
+    <circle cx="85" cy="155" r="6" fill="#eed5b6"/>
+    <circle cx="105" cy="175" r="6" fill="#f5e7c4"/>
+    <circle cx="130" cy="185" r="6" fill="#eed5b6"/>
+    <circle cx="160" cy="190" r="6" fill="#f5e7c4"/>
+    <circle cx="185" cy="180" r="6" fill="#eed5b6"/>
+    <circle cx="210" cy="160" r="6" fill="#f5e7c4"/>
+    <circle cx="225" cy="135" r="6" fill="#eed5b6"/>
+    <circle cx="75" cy="170" r="5" fill="#eed5b6"/>
+    <circle cx="120" cy="155" r="5" fill="#f5e7c4"/>
+    <circle cx="170" cy="155" r="5" fill="#f5e7c4"/>
+    <circle cx="200" cy="190" r="5" fill="#eed5b6"/>
+    <circle cx="145" cy="170" r="5" fill="#eed5b6"/>
+    <circle cx="100" cy="195" r="5" fill="#f5e7c4"/>
+    <circle cx="195" cy="195" r="5" fill="#f5e7c4"/>
+  </g>
+
+  <!-- Decorative felt motifs (dots in coloured wool) -->
+  <g stroke="#1a1a1a" stroke-width="2.91">
+    <circle cx="95" cy="140" r="5" fill="#f8130d"/>
+    <circle cx="145" cy="135" r="5" fill="#f7de58"/>
+    <circle cx="195" cy="140" r="5" fill="#3aa6a0"/>
+    <circle cx="115" cy="175" r="5" fill="#7c3fac"/>
+    <circle cx="175" cy="175" r="5" fill="#ff9900"/>
+    <circle cx="145" cy="200" r="5" fill="#f266aa"/>
+  </g>
+
+  <!-- A loose wool strand draped over rim -->
+  <path d="M 220 105 Q 235 92 245 105 Q 240 118 250 122" fill="none" stroke="#7d5e23" stroke-width="4.85" stroke-linecap="round"/>
+
+  <!-- Small ball of wool yarn beside bowl -->
+  <circle cx="55" cy="55" r="20" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.85"/>
+  <path d="M 40 50 Q 55 40 70 55 M 42 60 Q 58 50 68 65 M 45 68 Q 58 60 66 72" fill="none" stroke="#1a1a1a" stroke-width="2.91" stroke-linecap="round"/>
+</g></svg>

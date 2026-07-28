@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Clear retainer arch (horseshoe shape, transparent acrylic tinted) -->
+  <path d="M 55,185 Q 50,130 60,95 Q 75,55 145,48 Q 215,55 230,95 Q 240,130 235,185 L 210,185 Q 218,138 210,105 Q 198,72 145,66 Q 92,72 80,105 Q 72,138 80,185 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Inner arch edge (gives thickness to the retainer plate) -->
+  <path d="M 80,185 Q 75,142 84,112 Q 96,80 145,74 Q 194,80 206,112 Q 215,142 210,185" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tooth impressions moulded into retainer (bumps along inner edge) -->
+  <ellipse cx="100" cy="155" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="118" cy="138" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="138" cy="130" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="158" cy="130" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="178" cy="138" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="196" cy="155" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wire clasp on left molar area -->
+  <path d="M 62,172 Q 54,160 58,148 Q 64,138 76,140 Q 80,150 72,158 Q 68,165 72,172" fill="none" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wire clasp on right molar area -->
+  <path d="M 228,172 Q 236,160 232,148 Q 226,138 214,140 Q 210,150 218,158 Q 222,165 218,172" fill="none" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Acrylic plate base (palate area fill) -->
+  <path d="M 80,185 Q 80,200 145,205 Q 210,200 210,185 L 195,185 Q 195,196 145,198 Q 95,196 95,185 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Retainer case hint (open box at bottom) -->
+  <rect x="48" y="210" width="194" height="22" rx="8" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 48,218 Q 145,214 242,218" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

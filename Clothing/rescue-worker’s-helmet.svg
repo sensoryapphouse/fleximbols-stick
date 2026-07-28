@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2947) translate(-256.00 -255.50)">
+<g transform="translate(79.7,-85.3) scale(1.259)"><!-- rescue worker's helmet (hard hat with cross emblem) -->
+  <!-- brim -->
+  <ellipse cx="140" cy="350" rx="135" ry="42" fill="#FB8C00" stroke="#1a1a1a" stroke-width="6"/>
+  <ellipse cx="140" cy="345" rx="135" ry="40" fill="#FFA726" stroke="#1a1a1a" stroke-width="6"/>
+  <!-- dome -->
+  <path d="M40 350 Q40 150 140 150 Q240 150 240 350 Z" fill="#FB8C00" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <!-- ridges -->
+  <path d="M105 350 Q108 175 140 162" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+  <path d="M175 350 Q172 175 140 162" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- front badge cross -->
+  <rect x="108" y="225" width="64" height="64" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+  <rect x="132" y="232" width="16" height="50" fill="#e53935"/>
+  <rect x="115" y="249" width="50" height="16" fill="#e53935"/></g>
+</g></svg>

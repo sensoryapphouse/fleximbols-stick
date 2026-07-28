@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Building facade -->
+  <rect x="20" y="88" width="250" height="132" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Roof parapet / band -->
+  <rect x="10" y="70" width="270" height="24" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Awning -->
+  <rect x="20" y="88" width="250" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Door -->
+  <rect x="122" y="158" width="46" height="62" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="145" y1="158" x2="145" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Left window -->
+  <rect x="32" y="112" width="68" height="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Right window -->
+  <rect x="190" y="112" width="68" height="50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- DUMBBELL (center facade, large) -->
+  <!-- Bar -->
+  <rect x="104" y="126" width="82" height="10" rx="5" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left weight plate outer -->
+  <rect x="90" y="112" width="18" height="36" rx="4" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left weight plate inner -->
+  <rect x="94" y="117" width="10" height="26" rx="2" ry="2" fill="#4d4d4d" stroke="none"/>
+  <!-- Right weight plate outer -->
+  <rect x="182" y="112" width="18" height="36" rx="4" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right weight plate inner -->
+  <rect x="186" y="117" width="10" height="26" rx="2" ry="2" fill="#4d4d4d" stroke="none"/>
+  <!-- TREADMILL (left window) -->
+  <!-- Treadmill frame/deck -->
+  <rect x="36" y="143" width="60" height="14" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Treadmill belt texture -->
+  <line x1="45" y1="143" x2="45" y2="157" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="55" y1="143" x2="55" y2="157" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="65" y1="143" x2="65" y2="157" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="75" y1="143" x2="75" y2="157" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="85" y1="143" x2="85" y2="157" stroke="#7f7f7f" stroke-width="2.96"/>
+  <!-- Handlebars -->
+  <rect x="46" y="120" width="6" height="26" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.70"/>
+  <rect x="80" y="120" width="6" height="26" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.70"/>
+  <rect x="46" y="118" width="40" height="6" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Console -->
+  <rect x="54" y="113" width="24" height="10" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="56" y="115" width="20" height="6" rx="1" ry="1" fill="#529929" stroke="none"/>
+  <!-- RUNNING FIGURE (right window) -->
+  <!-- Head -->
+  <circle cx="224" cy="121" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Torso -->
+  <rect x="217" y="130" width="14" height="18" rx="4" ry="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Left leg (forward) -->
+  <line x1="220" y1="148" x2="208" y2="162" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="208" y1="162" x2="200" y2="158" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Right leg (back) -->
+  <line x1="228" y1="148" x2="238" y2="162" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="238" y1="162" x2="248" y2="158" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Left arm (forward) -->
+  <line x1="217" y1="133" x2="205" y2="145" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Right arm (back) -->
+  <line x1="231" y1="133" x2="243" y2="143" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Ground line -->
+  <line x1="20" y1="220" x2="270" y2="220" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

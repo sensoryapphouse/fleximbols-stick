@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Go board -->
+  <rect x="30" y="30" width="230" height="180" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- grid lines vertical -->
+  <path d="M58 50 L58 190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M91 50 L91 190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M124 50 L124 190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M157 50 L157 190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M190 50 L190 190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M223 50 L223 190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- grid lines horizontal -->
+  <path d="M58 50 L223 50" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M58 78 L223 78" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M58 106 L223 106" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M58 134 L223 134" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M58 162 L223 162" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M58 190 L223 190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- star points -->
+  <circle cx="91" cy="78" r="2.5" fill="#000000"/>
+  <circle cx="190" cy="78" r="2.5" fill="#000000"/>
+  <circle cx="91" cy="162" r="2.5" fill="#000000"/>
+  <circle cx="190" cy="162" r="2.5" fill="#000000"/>
+  <circle cx="140.5" cy="120" r="2.5" fill="#000000"/>
+  <!-- black stones -->
+  <circle cx="91" cy="78" r="13" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="124" cy="78" r="13" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="124" cy="106" r="13" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="134" r="13" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- white stones -->
+  <circle cx="157" cy="78" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="106" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="124" cy="134" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="106" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="124" cy="162" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- highlight on white stones -->
+  <circle cx="153" cy="74" r="3" fill="#dff3fd"/>
+  <circle cx="153" cy="102" r="3" fill="#dff3fd"/>
+  <circle cx="186" cy="102" r="3" fill="#dff3fd"/>
+  <circle cx="120" cy="130" r="3" fill="#dff3fd"/>
+  <circle cx="120" cy="158" r="3" fill="#dff3fd"/>
+</g></svg>

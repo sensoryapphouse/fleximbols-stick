@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Napkin modern: a folded napkin with decorative band and NAPKIN lettering -->
+  <!-- Outer folded napkin (diamond/triangle fold) -->
+  <path d="M65,180 L145,40 L225,180 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Inner fold layer -->
+  <path d="M85,180 L145,75 L205,180 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Inner-most fold layer -->
+  <path d="M105,180 L145,110 L185,180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Base under napkin (subtle plate) -->
+  <ellipse cx="145" cy="185" rx="100" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- Decorative band across the napkin -->
+  <path d="M93,155 L197,155" stroke="#7c3fac" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M93,162 L197,162" stroke="#7c3fac" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- NAPKIN lettering as paths (yellow) -->
+  <!-- N -->
+  <path d="M110,135 L110,148 M110,135 L120,148 M120,135 L120,148" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M125,148 L131,135 L137,148 M127.5,143 L134.5,143" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- P -->
+  <path d="M141,148 L141,135 L149,135 Q152,135 152,139 Q152,143 149,143 L141,143" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- K -->
+  <path d="M157,135 L157,148 M157,142 L164,135 M157,142 L164,148" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- I -->
+  <path d="M170,135 L170,148" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- N -->
+  <path d="M175,148 L175,135 L184,148 L184,135" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

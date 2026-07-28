@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1553) translate(-247.50 -269.00)">
+<g transform="translate(31.5,88.6) scale(0.784)"><!-- inhale: lungs with arrows flowing in -->
+  <!-- trachea -->
+  <rect x="120" y="120" width="24" height="80" rx="10" fill="#f7a6b0" stroke="#1a1a1a" stroke-width="6"/>
+  <!-- bronchi split -->
+  <path d="M132 195 Q132 230 95 250" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M132 195 Q132 230 169 250" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+  <!-- left lung -->
+  <path d="M100 235 Q55 250 50 330 Q48 400 95 410 Q120 410 124 380 L124 250 Q120 235 100 235 Z"
+        fill="#f48fb1" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <!-- right lung -->
+  <path d="M164 235 Q209 250 214 330 Q216 400 169 410 Q144 410 140 380 L140 250 Q144 235 164 235 Z"
+        fill="#f48fb1" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <!-- inward arrow (air entering at top) -->
+  <line x1="132" y1="40" x2="132" y2="105" stroke="#3aa9d6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M108 86 L132 116 L156 86" fill="none" stroke="#3aa9d6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M 338.0 197.0 L 398.0 197.0 L 398.0 287.0 L 424.0 389.0 L 312.0 389.0 L 338.0 287.0 Z" fill="#d6529e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="350" y1="389" x2="344" y2="455" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="386" y1="389" x2="392" y2="455" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<ellipse cx="344" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="392" cy="457" rx="13" ry="7" fill="#33373d"/>
+<line x1="338" y1="199" x2="318" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="398" y1="199" x2="418" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="368" y1="197" x2="368" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 321.0 184.0 L 321.0 128.0 Q 321.0 76.0 368 76.0 Q 415.0 76.0 415.0 128.0 L 415.0 184.0 L 402.0 184.0 L 402.0 130.0 Q 402.0 96.0 368 96.0 Q 334.0 96.0 334.0 130.0 L 334.0 184.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<circle id="h1" data-fig="fa" cx="368" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 330.0 96.0 Q 368 82.0 406.0 96.0 Q 368 92.0 330.0 96.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

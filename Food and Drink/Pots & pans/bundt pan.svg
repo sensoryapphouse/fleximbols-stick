@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ring-shaped bundt pan with fluted decorative pattern -->
+  <!-- Outer fluted ring body -->
+  <path d="M 40 130
+           Q 40 100 60 80
+           Q 90 55 145 55
+           Q 200 55 230 80
+           Q 250 100 250 130
+           Q 250 175 220 195
+           Q 185 215 145 215
+           Q 105 215 75 195
+           Q 40 175 40 130 Z"
+        fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top ring (the visible top of pan) outer ellipse -->
+  <ellipse cx="145" cy="100" rx="105" ry="40" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner hole opening -->
+  <ellipse cx="145" cy="100" rx="28" ry="13" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Center tube column rising -->
+  <ellipse cx="145" cy="95" rx="22" ry="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fluted decorative ridges on outer body (vertical lines) -->
+  <path d="M 50 115 Q 48 150 75 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 75 130 Q 73 165 95 205" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 105 135 Q 105 175 120 212" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145 135 L 145 215" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 185 135 Q 185 175 170 212" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 215 130 Q 217 165 195 205" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 240 115 Q 242 150 215 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Fluted ripples on top rim -->
+  <path d="M 50 105 Q 60 95 70 105 Q 80 95 90 105 Q 100 95 110 105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 180 105 Q 190 95 200 105 Q 210 95 220 105 Q 230 95 240 105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

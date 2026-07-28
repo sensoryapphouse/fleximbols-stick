@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- house body -->
+  <rect x="40" y="100" width="180" height="110" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- roof -->
+  <polygon points="30,105 130,30 230,105" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- chimney -->
+  <rect x="180" y="55" width="20" height="35" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- door frame -->
+  <rect x="105" y="135" width="50" height="75" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- door knob -->
+  <circle cx="147" cy="175" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- window left -->
+  <rect x="55" y="125" width="35" height="35" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="72" y1="125" x2="72" y2="160" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="55" y1="142" x2="90" y2="142" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- window right -->
+  <rect x="170" y="125" width="35" height="35" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="187" y1="125" x2="187" y2="160" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="170" y1="142" x2="205" y2="142" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- welcome mat -->
+  <rect x="90" y="208" width="80" height="14" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="98" y1="215" x2="162" y2="215" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- host figure full body in doorway (adult) -->
+  <circle cx="125" cy="148" r="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M118 144 Q125 137 132 144 L132 142 Q125 134 118 142 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="117" y="156" width="16" height="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- arm waving -->
+  <line x1="117" y1="160" x2="108" y2="150" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="133" y1="160" x2="138" y2="170" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <circle cx="107" cy="148" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- legs -->
+  <line x1="121" y1="178" x2="121" y2="195" stroke="#4d4d4d" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="129" y1="178" x2="129" y2="195" stroke="#4d4d4d" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- shoes -->
+  <ellipse cx="121" cy="200" rx="5" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="129" cy="200" rx="5" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- suitcase outside -->
+  <rect x="225" y="165" width="40" height="32" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="237" y="158" width="16" height="8" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
+  <line x1="225" y1="178" x2="265" y2="178" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="232" cy="173" r="2" fill="#000000"/>
+
+  <!-- small heart over door -->
+  <path d="M130 80 C126 75 118 75 118 82 C118 88 130 95 130 95 C130 95 142 88 142 82 C142 75 134 75 130 80 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

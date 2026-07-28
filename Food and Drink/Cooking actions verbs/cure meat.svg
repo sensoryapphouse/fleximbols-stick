@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Curing room back wall (warm tone) -->
+  <rect x="26" y="32" width="238" height="176" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="10.16"/>
+  <!-- Wood beam at top (where meat hangs from) -->
+  <rect x="14" y="28" width="262" height="20" fill="#7d5e23" stroke="#1a1a1a" stroke-width="10.16"/>
+  <!-- Hanging cord 1 -->
+  <line x1="80" y1="48" x2="80" y2="80" stroke="#1a1a1a" stroke-width="7.62"/>
+  <!-- Hook 1 -->
+  <path d="M76 78 Q72 84 80 88 Q88 84 84 78" fill="none" stroke="#7f7f7f" stroke-width="7.62" stroke-linecap="round"/>
+  <!-- Cured meat 1 (salami / ham shape) -->
+  <ellipse cx="80" cy="138" rx="28" ry="52" fill="#9d7246" stroke="#1a1a1a" stroke-width="10.16"/>
+  <!-- Darker cured surface highlights -->
+  <ellipse cx="80" cy="125" rx="20" ry="20" fill="#7d5e23" stroke="none"/>
+  <ellipse cx="80" cy="170" rx="18" ry="14" fill="#7d5e23" stroke="none"/>
+  <!-- White salt / cure dusting -->
+  <circle cx="68" cy="118" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="86" cy="130" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="74" cy="148" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="92" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="70" cy="178" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Hanging cord 2 -->
+  <line x1="145" y1="48" x2="145" y2="76" stroke="#1a1a1a" stroke-width="7.62"/>
+  <path d="M141 74 Q137 80 145 84 Q153 80 149 74" fill="none" stroke="#7f7f7f" stroke-width="7.62" stroke-linecap="round"/>
+  <!-- Cured meat 2 (whole leg / prosciutto shape) -->
+  <path d="M145 84 Q120 100 118 140 Q120 180 134 198 Q145 208 156 198 Q170 180 172 140 Q170 100 145 84 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="10.16" stroke-linejoin="round"/>
+  <!-- Inner cured red meat patches -->
+  <ellipse cx="145" cy="140" rx="18" ry="34" fill="#9d7246" stroke="none"/>
+  <ellipse cx="145" cy="138" rx="10" ry="20" fill="#d01424" stroke="none"/>
+  <!-- White salt grains on prosciutto -->
+  <rect x="132" y="100" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <rect x="152" y="112" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <rect x="128" y="130" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <rect x="158" y="148" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <rect x="136" y="172" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Hanging cord 3 -->
+  <line x1="210" y1="48" x2="210" y2="80" stroke="#1a1a1a" stroke-width="7.62"/>
+  <path d="M206 78 Q202 84 210 88 Q218 84 214 78" fill="none" stroke="#7f7f7f" stroke-width="7.62" stroke-linecap="round"/>
+  <!-- Cured meat 3 (sausage link) -->
+  <ellipse cx="210" cy="138" rx="24" ry="48" fill="#9d7246" stroke="#1a1a1a" stroke-width="10.16"/>
+  <ellipse cx="210" cy="125" rx="16" ry="16" fill="#7d5e23" stroke="none"/>
+  <ellipse cx="210" cy="170" rx="14" ry="12" fill="#7d5e23" stroke="none"/>
+  <circle cx="200" cy="120" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="218" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="202" cy="160" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="220" cy="174" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Cure-time clock (bottom-left corner) -->
+  <circle cx="46" cy="208" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.16"/>
+  <circle cx="46" cy="208" r="17" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.08"/>
+  <line x1="46" y1="208" x2="46" y2="196" stroke="#1a1a1a" stroke-width="7.62" stroke-linecap="round"/>
+  <line x1="46" y1="208" x2="56" y2="212" stroke="#1a1a1a" stroke-width="7.62" stroke-linecap="round"/>
+  <circle cx="46" cy="208" r="2" fill="#000000" stroke="none"/>
+  <!-- Salt pile bottom-right -->
+  <path d="M240 218 Q252 198 264 218 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.62" stroke-linejoin="round"/>
+  <rect x="246" y="208" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <rect x="254" y="204" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+</g></svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- matzah (square unleavened bread) - top left -->
+  <rect x="20" y="25" width="100" height="100" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- matzah perforations grid -->
+  <circle cx="40" cy="45" r="1.5" fill="#7d5e23"/>
+  <circle cx="60" cy="45" r="1.5" fill="#7d5e23"/>
+  <circle cx="80" cy="45" r="1.5" fill="#7d5e23"/>
+  <circle cx="100" cy="45" r="1.5" fill="#7d5e23"/>
+  <circle cx="40" cy="65" r="1.5" fill="#7d5e23"/>
+  <circle cx="60" cy="65" r="1.5" fill="#7d5e23"/>
+  <circle cx="80" cy="65" r="1.5" fill="#7d5e23"/>
+  <circle cx="100" cy="65" r="1.5" fill="#7d5e23"/>
+  <circle cx="40" cy="85" r="1.5" fill="#7d5e23"/>
+  <circle cx="60" cy="85" r="1.5" fill="#7d5e23"/>
+  <circle cx="80" cy="85" r="1.5" fill="#7d5e23"/>
+  <circle cx="100" cy="85" r="1.5" fill="#7d5e23"/>
+  <circle cx="40" cy="105" r="1.5" fill="#7d5e23"/>
+  <circle cx="60" cy="105" r="1.5" fill="#7d5e23"/>
+  <circle cx="80" cy="105" r="1.5" fill="#7d5e23"/>
+  <circle cx="100" cy="105" r="1.5" fill="#7d5e23"/>
+  <!-- speckle texture -->
+  <circle cx="50" cy="55" r="1" fill="#9d7246"/>
+  <circle cx="75" cy="75" r="1" fill="#9d7246"/>
+  <circle cx="95" cy="100" r="1" fill="#9d7246"/>
+  <circle cx="35" cy="95" r="1" fill="#9d7246"/>
+  <!-- wine cup (top right) -->
+  <path d="M 200 25 Q 200 30 200 60 Q 200 95 230 95 Q 260 95 260 60 Q 260 30 260 25 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- wine fill -->
+  <path d="M 207 35 Q 207 65 230 90 Q 253 65 253 35 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 207 35 L 253 35" stroke="#392170" stroke-width="4.45"/>
+  <!-- stem -->
+  <rect x="226" y="95" width="8" height="20" fill="#efefef" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- base -->
+  <ellipse cx="230" cy="118" rx="22" ry="5" fill="#efefef" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- seder plate (bottom) with 6 sections -->
+  <circle cx="145" cy="180" r="55" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.78"/>
+  <circle cx="145" cy="180" r="45" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 6 division lines -->
+  <path d="M 145 135 L 145 180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 184 158 L 145 180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 184 203 L 145 180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 145 225 L 145 180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 106 203 L 145 180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 106 158 L 145 180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 6 symbolic foods (small circles) -->
+  <circle cx="155" cy="150" r="6" fill="#67832d" stroke="#1a1a1a" stroke-width="4.00"/>
+  <circle cx="172" cy="170" r="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.00"/>
+  <circle cx="170" cy="195" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.00"/>
+  <circle cx="148" cy="208" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.00"/>
+  <circle cx="122" cy="195" r="6" fill="#137827" stroke="#1a1a1a" stroke-width="4.00"/>
+  <circle cx="120" cy="167" r="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.00"/>
+</g></svg>

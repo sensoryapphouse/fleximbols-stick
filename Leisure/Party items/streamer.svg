@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60.08 78.86 420.85 420.85">
+<!-- party streamers: a roll up top with two long colourful paper ribbons cascading down -->
+<!-- ribbon 1 (red) cascading -->
+<path d="M 196 168
+         C 150 230 250 270 196 340
+         C 150 400 250 430 210 470
+         L 246 470
+         C 286 430 196 400 250 340
+         C 296 280 206 240 252 178
+         Z"
+      fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ribbon 2 (blue) cascading, offset right -->
+<path d="M 296 168
+         C 360 230 250 270 312 336
+         C 366 392 270 420 320 466
+         L 356 460
+         C 312 416 400 392 344 332
+         C 296 280 372 240 350 178
+         Z"
+      fill="#3aa6d6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- the roll the ribbons come off, at the top -->
+<ellipse cx="270" cy="150" rx="92" ry="40" fill="#f0b400" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="270" cy="150" rx="40" ry="18" fill="#fff3c4" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

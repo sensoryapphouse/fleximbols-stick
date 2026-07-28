@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ballot paper -->
+  <rect x="20" y="20" width="170" height="200" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- header -->
+  <rect x="20" y="20" width="170" height="26" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- 'D' shape (path) on header indicating single party -->
+  <path d="M40 26 L40 40 L52 40 Q60 40 60 33 Q60 26 52 26 Z M46 31 L46 35 L52 35 Q55 35 55 33 Q55 31 52 31 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- star -->
+  <path d="M175 27 L177 33 L183 33 L178 37 L180 43 L175 39 L170 43 L172 37 L167 33 L173 33 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <!-- single-party candidates: D logos beside each row -->
+  <!-- row 1 -->
+  <rect x="32" y="60" width="16" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M34 68 L40 73 L48 62" fill="none" stroke="#137827" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 'D' badge -->
+  <circle cx="62" cy="68" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M58 63 L58 73 L64 73 Q68 73 68 68 Q68 63 64 63 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M82 65 Q110 60 140 65 Q160 68 178 64" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M82 73 Q110 70 140 74 Q160 76 175 73" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- row 2 -->
+  <rect x="32" y="95" width="16" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="62" cy="103" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M58 98 L58 108 L64 108 Q68 108 68 103 Q68 98 64 98 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M82 100 Q110 95 140 100 Q160 103 178 99" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M82 108 Q110 105 140 109 Q160 111 175 108" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- row 3 -->
+  <rect x="32" y="130" width="16" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="62" cy="138" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M58 133 L58 143 L64 143 Q68 143 68 138 Q68 133 64 133 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M82 135 Q110 130 140 135 Q160 138 178 134" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M82 143 Q110 140 140 144 Q160 146 175 143" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- row 4 -->
+  <rect x="32" y="165" width="16" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="62" cy="173" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M58 168 L58 178 L64 178 Q68 178 68 173 Q68 168 64 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M82 170 Q110 165 140 170 Q160 173 178 169" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M82 178 Q110 175 140 179 Q160 181 175 178" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- ballot box at right -->
+  <path d="M205 130 L275 130 L278 220 L202 220 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <rect x="218" y="138" width="42" height="6" fill="#000000"/>
+  <!-- small ballot heading into slot -->
+  <rect x="222" y="105" width="34" height="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M227 115 L251 115 M227 123 L251 123 M227 131 L246 131" stroke="#4d4d4d" stroke-width="3.56"/>
+  <!-- big D party logo on box -->
+  <circle cx="240" cy="175" r="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M233 167 L233 183 L243 183 Q251 183 251 175 Q251 167 243 167 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+</g></svg>

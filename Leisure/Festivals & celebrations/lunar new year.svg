@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="49.45 62.25 413.09 413.09">
+<!-- red lantern -->
+<!-- top cap -->
+<rect x="216" y="118" width="80" height="22" rx="6" fill="#f0b400" stroke="#1a1a1a" stroke-width="9"/>
+<!-- top string -->
+<line x1="256" y1="118" x2="256" y2="92" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- lantern body -->
+<ellipse cx="256" cy="256" rx="118" ry="118" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9"/>
+<!-- ribs -->
+<path d="M 256 138 Q 196 256 256 374" fill="none" stroke="#b53a30" stroke-width="7"/>
+<path d="M 256 138 Q 316 256 256 374" fill="none" stroke="#b53a30" stroke-width="7"/>
+<!-- top + bottom bands -->
+<path d="M 168 188 Q 256 152 344 188" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 168 324 Q 256 360 344 324" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<!-- bottom cap -->
+<rect x="216" y="372" width="80" height="22" rx="6" fill="#f0b400" stroke="#1a1a1a" stroke-width="9"/>
+<!-- tassels -->
+<line x1="232" y1="394" x2="232" y2="438" stroke="#f6c500" stroke-width="8" stroke-linecap="round"/>
+<line x1="256" y1="394" x2="256" y2="446" stroke="#f6c500" stroke-width="8" stroke-linecap="round"/>
+<line x1="280" y1="394" x2="280" y2="438" stroke="#f6c500" stroke-width="8" stroke-linecap="round"/>
+</svg>

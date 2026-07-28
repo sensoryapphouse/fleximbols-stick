@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="25" y="195" width="240" height="22" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Car body lower -->
+  <rect x="38" y="158" width="175" height="40" rx="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Car cabin upper -->
+  <path d="M78 158 Q92 118 130 113 L185 113 Q210 115 218 158 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Windscreen -->
+  <path d="M88 155 Q98 126 130 120 L178 120 Q198 122 208 155 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wheels -->
+  <circle cx="85" cy="198" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="85" cy="198" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="185" cy="198" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="185" cy="198" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Headlight -->
+  <ellipse cx="210" cy="168" rx="8" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Tailpipe -->
+  <rect x="25" y="178" width="22" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Exhaust cloud puffs -->
+  <circle cx="22" cy="162" r="13" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="38" cy="152" r="15" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="57" cy="148" r="13" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="74" cy="143" r="11" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="89" cy="138" r="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="102" cy="132" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Door line -->
+  <path d="M138 158 L138 195" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Door handle -->
+  <rect x="148" y="172" width="14" height="5" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+</g></svg>

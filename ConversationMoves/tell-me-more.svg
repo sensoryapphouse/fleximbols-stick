@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.3330) translate(-264.00 -254.00)">
+<!-- speech bubble (the source of more info) -->
+<path d="M 232.0 96.0 L 400.0 96.0 Q 426.0 96.0 426.0 122.0 L 426.0 220.0 Q 426.0 246.0 400.0 246.0 L 286.0 246.0 L 263.0 276.0 L 260.0 246.0 L 232.0 246.0 Q 206.0 246.0 206.0 220.0 L 206.0 122.0 Q 206.0 96.0 232.0 96.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- ellipsis = ongoing / more being said -->
+<circle cx="282.0" cy="171.0" r="9.0" fill="#1a1a1a"/>
+<circle cx="318.0" cy="171.0" r="12.0" fill="#1a1a1a"/>
+<circle cx="360.0" cy="171.0" r="15.0" fill="#1a1a1a"/>
+<!-- 'more' plus sign clear above the top-right of bubble -->
+<g transform="translate(372 120) scale(1.30) translate(-414 -76)"><line x1="430" y1="60" x2="430" y2="92" stroke="#e0473c" stroke-width="14" stroke-linecap="round"/></g>
+<g transform="translate(372 120) scale(1.30) translate(-414 -76)"><line x1="414" y1="76" x2="446" y2="76" stroke="#e0473c" stroke-width="14" stroke-linecap="round"/></g>
+<!-- listener 'me' head with prominent ear, lower-left, receiving the info -->
+<circle class="skin" cx="150.0" cy="372.0" r="48.0" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 118.0 372.0 Q 118.0 330.0 150 330.0 Q 182.0 330.0 182.0 372.0 Q 150 348.0 118.0 372.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- ear cupped toward the bubble (listening) -->
+<path class="skin" d="M 196 360 q 22 -4 22 18 q 0 22 -22 18" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- red arrow: info flows FROM bubble TOWARD the listener -->
+
+
+</g></svg>

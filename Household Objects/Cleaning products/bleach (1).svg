@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bottle shoulder -->
+  <path d="M110 70 Q110 56 124 56 L166 56 Q180 56 180 70 L180 82 L110 82 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- cap -->
+  <rect x="128" y="38" width="34" height="22" rx="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- bottle body -->
+  <path d="M96 86 Q96 80 104 80 L186 80 Q194 80 194 86 L194 210 Q194 220 184 220 L106 220 Q96 220 96 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- label -->
+  <rect x="106" y="120" width="78" height="60" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- BLEACH text drawn as path-style bars -->
+  <rect x="114" y="132" width="62" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="114" y="148" width="44" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="114" y="160" width="54" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- warning triangle -->
+  <path d="M210 150 L240 150 L225 124 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="222" y="134" width="6" height="9" fill="#000000"/>
+  <rect x="222" y="145" width="6" height="4" fill="#000000"/>
+  <!-- whitening sparkles -->
+  <path d="M60 70 L66 84 L80 90 L66 96 L60 110 L54 96 L40 90 L54 84 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M222 88 L226 96 L234 100 L226 104 L222 112 L218 104 L210 100 L218 96 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M50 160 L54 168 L62 172 L54 176 L50 184 L46 176 L38 172 L46 168 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

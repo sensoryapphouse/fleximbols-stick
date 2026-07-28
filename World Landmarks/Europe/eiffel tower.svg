@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Paris skyline silhouette -->
+  <path d="M10 175 L40 175 L40 160 L55 160 L55 175 L80 175 L80 155 L95 155 L95 175 L210 175 L210 160 L225 160 L225 150 L240 150 L240 165 L260 165 L260 170 L280 170 L280 210 L10 210 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- skyline windows -->
+  <g fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22">
+    <rect x="48" y="167" width="3" height="4"/>
+    <rect x="85" y="162" width="3" height="4"/>
+    <rect x="215" y="167" width="3" height="4"/>
+    <rect x="245" y="158" width="3" height="4"/>
+  </g>
+  <!-- Eiffel Tower centred -->
+  <!-- four legs splayed -->
+  <path d="M115 175 L135 90 L155 90 L175 175 L160 175 L150 130 L140 130 L130 175 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- mid section -->
+  <rect x="133" y="85" width="24" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- upper tower -->
+  <path d="M137 85 L141 50 L149 50 L153 85 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- top mast -->
+  <rect x="143" y="38" width="4" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M145 30 L145 38" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="28" r="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- lattice cross-bracing on legs -->
+  <path d="M120 165 L170 165 M125 145 L165 145 M130 125 L160 125 M135 105 L155 105" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M120 165 L170 145 M120 165 L155 145 M170 165 L120 145 M170 165 L135 145" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- arch under tower -->
+  <path d="M125 165 Q145 150 165 165" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- ground -->
+  <rect x="10" y="208" width="270" height="22" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- 'PARIS' as path-outlined letters -->
+  <g fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round">
+    <!-- P -->
+    <path d="M55 220 L55 235 M55 220 L65 220 Q70 220 70 225 Q70 230 65 230 L55 230"/>
+    <!-- A -->
+    <path d="M78 235 L84 220 L90 235 M81 230 L87 230"/>
+    <!-- R -->
+    <path d="M98 220 L98 235 M98 220 L108 220 Q112 220 112 225 Q112 230 108 230 L98 230 M108 230 L113 235"/>
+    <!-- I -->
+    <path d="M122 220 L122 235"/>
+    <!-- S -->
+    <path d="M138 222 Q132 220 132 225 Q132 228 138 228 Q144 228 144 232 Q144 236 138 235 Q132 234 132 232"/>
+  </g>
+</g></svg>

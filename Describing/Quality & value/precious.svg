@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.04 66.83 351.03 351.03"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- precious: a cut gemstone (diamond) with sparkle accents -->
+<!-- crown facets (top band) -->
+<polygon points="176,210 256,210 232,154 200,154" fill="#7fdfff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="256,210 336,210 312,154 280,154" fill="#7fdfff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="232,154 280,154 270,124 242,124" fill="#bff0ff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- table (flat top) -->
+<polygon points="200,154 312,154 280,124 232,124" fill="#a8e9ff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pavilion (lower point) -->
+<polygon points="176,210 336,210 256,360" fill="#5cc8f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pavilion inner facet lines -->
+<line x1="232" y1="210" x2="256" y2="360" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="280" y1="210" x2="256" y2="360" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- girdle dividing crown facets -->
+<line x1="232" y1="210" x2="232" y2="154" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="280" y1="210" x2="280" y2="154" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- sparkle accents -->
+<g stroke="#f7d83a" stroke-width="11" stroke-linecap="round">
+<line x1="384" y1="150" x2="384" y2="196"/>
+<line x1="361" y1="173" x2="407" y2="173"/>
+</g>
+<g stroke="#f7d83a" stroke-width="9" stroke-linecap="round">
+<line x1="128" y1="300" x2="128" y2="336"/>
+<line x1="110" y1="318" x2="146" y2="318"/>
+</g>
+<g stroke="#f7d83a" stroke-width="8" stroke-linecap="round">
+<line x1="372" y1="320" x2="372" y2="348"/>
+<line x1="358" y1="334" x2="386" y2="334"/>
+</g>
+</svg>

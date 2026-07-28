@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Keyboard Synth: wide body, white/black keys, large knob panel, pitch+mod wheels left -->
+  <!-- Main body casing -->
+  <rect x="20" y="58" width="250" height="162" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Panel top section (control area) -->
+  <rect x="20" y="58" width="250" height="74" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Key bed background -->
+  <rect x="25" y="130" width="240" height="84" rx="4" fill="#4d4d4d" stroke="none"/>
+
+  <!-- Pitch bend wheel (left, black housing) -->
+  <rect x="28" y="68" width="18" height="52" rx="5" fill="#000000" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="30" y="84" width="14" height="14" rx="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Mod wheel -->
+  <rect x="50" y="68" width="18" height="52" rx="5" fill="#000000" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="52" y="98" width="14" height="14" rx="3" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Knobs row: 6 large knobs -->
+  <circle cx="92" cy="80" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="92" y1="80" x2="92" y2="71" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="116" cy="80" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="116" y1="80" x2="119" y2="71" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="140" cy="80" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="140" y1="80" x2="140" y2="71" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="164" cy="80" r="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="164" y1="80" x2="157" y2="73" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="188" cy="80" r="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="188" y1="80" x2="188" y2="71" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Sliders row: 4 sliders -->
+  <rect x="88" y="100" width="8" height="28" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="86" y="110" width="12" height="8" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="112" y="100" width="8" height="28" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="110" y="118" width="12" height="8" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="136" y="100" width="8" height="28" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="134" y="105" width="12" height="8" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="160" y="100" width="8" height="28" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="158" y="113" width="12" height="8" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- Display screen (right of panel) -->
+  <rect x="208" y="66" width="54" height="34" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="212" y="70" width="46" height="26" rx="2" fill="#67832d" stroke="none"/>
+
+  <!-- White keys: 13 white keys -->
+  <rect x="27" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="47" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="67" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="87" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="107" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="127" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="147" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="167" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="187" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="207" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="227" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="247" y="138" width="17" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Black keys: C# D# _ F# G# A# _ pattern x2 -->
+  <rect x="40" y="138" width="11" height="42" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="60" y="138" width="11" height="42" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="100" y="138" width="11" height="42" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="120" y="138" width="11" height="42" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="140" y="138" width="11" height="42" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="180" y="138" width="11" height="42" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="200" y="138" width="11" height="42" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="220" y="138" width="11" height="42" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="240" y="138" width="11" height="42" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

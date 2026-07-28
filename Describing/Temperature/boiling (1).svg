@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Flames under pot -->
+  <!-- Flame left -->
+  <path d="M72,190 Q60,170 68,155 Q72,148 68,138 Q80,152 76,162 Q85,148 82,135 Q95,150 90,165 Q98,150 96,138 Q108,155 100,170 Q110,155 108,142 Q120,160 114,175 Q118,162 116,150 Q128,168 120,182 Q115,192 72,190 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Flame inner orange -->
+  <path d="M85,190 Q78,178 82,165 Q88,172 86,160 Q96,170 92,180 Q100,168 98,157 Q108,172 104,183 Q108,172 106,162 Q116,176 110,187 Q105,193 85,190 Z" fill="#ff9900" stroke="none"/>
+  <!-- Flame right -->
+  <path d="M128,192 Q140,170 132,155 Q144,165 140,150 Q152,165 148,178 Q155,163 152,150 Q162,168 156,182 Q162,168 160,156 Q172,172 166,186 Q170,172 168,160 Q180,175 175,190 Q170,197 128,192 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M140,192 Q148,178 144,166 Q152,174 149,162 Q158,174 154,184 Q160,172 157,162 Q166,176 161,188 Q158,195 140,192 Z" fill="#ff9900" stroke="none"/>
+  <!-- Stove top / base -->
+  <rect x="40" y="188" width="210" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pot body -->
+  <rect x="55" y="148" width="180" height="48" rx="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Pot rim/lid -->
+  <rect x="45" y="138" width="200" height="18" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Lid handle -->
+  <rect x="120" y="126" width="50" height="18" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pot handles -->
+  <rect x="22" y="152" width="34" height="16" rx="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="234" y="152" width="34" height="16" rx="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bubbles bursting over rim -->
+  <circle cx="100" cy="134" r="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="128" r="13" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="162" cy="131" r="11" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="133" r="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Burst bubbles (open circles) -->
+  <path d="M115,120 Q112,108 120,106 Q128,104 130,116" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M148,115 Q145,101 155,99 Q165,97 166,111" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Vigorous steam plumes -->
+  <path d="M95,118 Q82,96 95,78 Q108,60 95,42" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <path d="M95,118 Q82,96 95,78 Q108,60 95,42" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+
+  <path d="M145,112 Q132,90 145,72 Q158,54 145,36" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <path d="M145,112 Q132,90 145,72 Q158,54 145,36" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+
+  <path d="M195,116 Q182,94 195,76 Q208,58 195,40" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <path d="M195,116 Q182,94 195,76 Q208,58 195,40" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Steam puff clouds at top -->
+  <circle cx="95" cy="36" r="15" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="29" r="11" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="112" cy="27" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <circle cx="145" cy="30" r="15" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="23" r="11" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="162" cy="21" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <circle cx="195" cy="34" r="15" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="27" r="11" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="212" cy="25" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

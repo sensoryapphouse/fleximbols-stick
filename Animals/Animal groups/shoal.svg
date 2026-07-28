@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a shoal of fish all swimming the same way -->
+<!-- water bubbles -->
+<g fill="none" stroke="#9aa0a6" stroke-width="6">
+<circle cx="430" cy="120" r="10"/>
+<circle cx="455" cy="160" r="6"/>
+<circle cx="95" cy="380" r="9"/>
+</g>
+<g stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+<!-- fish (define shape, reused at sizes) facing right -->
+<!-- fish 1 big centre -->
+<g transform="translate(250 230) scale(1.15)">
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#e08a3a"/>
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#f4c430"/>
+<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#e08a3a" stroke-width="7"/>
+<circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
+<path d="M -30 -10 q 16 12 0 24 M -8 -14 q 18 16 0 30" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+</g>
+<!-- fish 2 upper-left, blue -->
+<g transform="translate(135 130) scale(0.72)">
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#3d7fb5"/>
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#4a90d9"/>
+<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#3d7fb5" stroke-width="7"/>
+<circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
+</g>
+<!-- fish 3 upper-right, blue -->
+<g transform="translate(390 145) scale(0.72)">
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#3d7fb5"/>
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#4a90d9"/>
+<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#3d7fb5" stroke-width="7"/>
+<circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
+</g>
+<!-- fish 4 lower-left, orange -->
+<g transform="translate(150 345) scale(0.76)">
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#e08a3a"/>
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#f4c430"/>
+<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#e08a3a" stroke-width="7"/>
+<circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
+</g>
+<!-- fish 5 lower-right, orange -->
+<g transform="translate(375 340) scale(0.78)">
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#e08a3a"/>
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#f4c430"/>
+<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#e08a3a" stroke-width="7"/>
+<circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
+</g>
+</g>
+</svg>

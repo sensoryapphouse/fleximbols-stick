@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1673) translate(-251.00 -271.00)">
+<line x1="117" y1="303" x2="108" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="147" y1="303" x2="156" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="108" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="156" cy="457" rx="13" ry="7" fill="#33373d"/>
+<polygon points="100,197 164,197 162,305 102,305" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="102" y1="199" x2="74" y2="211" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="162" y1="199" x2="190" y2="211" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="132" y1="197" x2="132" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" class="skin" cx="132" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 92.0 130.0 Q 92.0 80.0 132 80.0 Q 172.0 80.0 172.0 130.0 Q 132 103.0 92.0 130.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 64.0 211.0 Q 74.0 223.0 84.0 211.0" fill="none" stroke="#f5d6b0" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 180.0 211.0 Q 190.0 223.0 200.0 211.0" fill="none" stroke="#f5d6b0" stroke-width="4" stroke-linejoin="round"/>
+<!-- big DICE = chance / possibility -->
+<!-- die 1 -->
+<rect x="262" y="232" width="118" height="118" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" transform="rotate(-10 321 291)"/>
+<g fill="#1a1a1a" transform="rotate(-10 321 291)">
+<circle cx="290" cy="261" r="11"/>
+<circle cx="352" cy="261" r="11"/>
+<circle cx="321" cy="291" r="11"/>
+<circle cx="290" cy="321" r="11"/>
+<circle cx="352" cy="321" r="11"/>
+</g>
+<!-- die 2 (behind/right, partly showing) -->
+<rect x="372" y="318" width="96" height="96" rx="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" transform="rotate(12 420 366)"/>
+<g fill="#1a1a1a" transform="rotate(12 420 366)">
+<circle cx="397" cy="343" r="9"/>
+<circle cx="443" cy="389" r="9"/>
+</g>
+<!-- small question mark = uncertain outcome -->
+<path d="M 392 150 Q 392 126 416 126 Q 440 126 440 148 Q 440 166 422 174 Q 414 178 414 192" fill="none" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/><path d="M 392 150 Q 392 126 416 126 Q 440 126 440 148 Q 440 166 422 174 Q 414 178 414 192" fill="none" stroke="#e08a1e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="414" cy="214" r="10" fill="#e08a1e" stroke="#1a1a1a" stroke-width="4"/>
+</g></svg>

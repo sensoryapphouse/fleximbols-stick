@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Three thin AAA batteries side by side -->
+  <!-- Battery 1 body -->
+  <rect x="55" y="50" width="40" height="150" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Battery 1 positive cap -->
+  <rect x="65" y="38" width="20" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- + symbol on battery 1 -->
+  <rect x="71" y="95" width="8" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="73.5" y="90" width="3" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Label band 1 -->
+  <rect x="55" y="130" width="40" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Battery 2 body -->
+  <rect x="125" y="50" width="40" height="150" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="135" y="38" width="20" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="141" y="95" width="8" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="143.5" y="90" width="3" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="125" y="130" width="40" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Battery 3 body -->
+  <rect x="195" y="50" width="40" height="150" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="205" y="38" width="20" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="211" y="95" width="8" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="213.5" y="90" width="3" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="195" y="130" width="40" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- "AAA" letters as paths on the yellow band, middle battery -->
+  <!-- A 1 -->
+  <path d="M 60 148 L 65 134 L 70 148 M 62 144 L 68 144" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 75 148 L 80 134 L 85 148 M 77 144 L 83 144" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 130 148 L 135 134 L 140 148 M 132 144 L 138 144" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 145 148 L 150 134 L 155 148 M 147 144 L 153 144" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 200 148 L 205 134 L 210 148 M 202 144 L 208 144" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 215 148 L 220 134 L 225 148 M 217 144 L 223 144" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

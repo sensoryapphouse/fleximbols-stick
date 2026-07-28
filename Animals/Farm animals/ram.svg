@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ram: male sheep with big curled horns, woolly body -->
+<!-- legs -->
+<g stroke="#1a1a1a" stroke-width="19" stroke-linecap="round">
+<line x1="200" y1="338" x2="196" y2="410"/>
+<line x1="248" y1="344" x2="248" y2="412"/>
+<line x1="292" y1="344" x2="296" y2="412"/>
+</g>
+<!-- woolly body bumps -->
+<g fill="#f0ece2" stroke="#1a1a1a" stroke-width="8">
+<circle cx="168" cy="292" r="34"/>
+<circle cx="186" cy="244" r="34"/>
+<circle cx="228" cy="220" r="38"/>
+<circle cx="276" cy="228" r="36"/>
+<circle cx="252" cy="324" r="34"/>
+<circle cx="198" cy="326" r="32"/>
+<circle cx="294" cy="316" r="32"/>
+<circle cx="300" cy="266" r="34"/>
+</g>
+<ellipse cx="236" cy="276" rx="74" ry="58" fill="#f0ece2" stroke="none"/>
+<!-- big curled rams horns (behind head, spiralling down beside face) -->
+<path d="M 332 214 C 300 196 270 214 268 252 C 266 286 296 304 326 296" fill="none" stroke="#8a5a2b" stroke-width="15" stroke-linecap="round"/>
+<path d="M 368 214 C 400 196 430 214 432 252 C 434 286 404 304 374 296" fill="none" stroke="#8a5a2b" stroke-width="15" stroke-linecap="round"/>
+<!-- head -->
+<ellipse cx="350" cy="266" rx="42" ry="46" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ears -->
+<ellipse cx="314" cy="276" rx="18" ry="10" fill="#c89a5b" stroke="#1a1a1a" stroke-width="6" transform="rotate(-15 314 276)"/>
+<ellipse cx="386" cy="276" rx="18" ry="10" fill="#c89a5b" stroke="#1a1a1a" stroke-width="6" transform="rotate(15 386 276)"/>
+<!-- eyes + nose -->
+<circle cx="338" cy="262" r="7" fill="#1a1a1a"/>
+<circle cx="362" cy="262" r="7" fill="#1a1a1a"/>
+<ellipse cx="350" cy="292" rx="9" ry="7" fill="#1a1a1a"/>
+</svg>

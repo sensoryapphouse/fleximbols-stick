@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- motor base -->
+<path d="M 168 360 L 344 360 L 332 408 L 180 408 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="160" y="404" width="192" height="20" rx="8" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- control button -->
+<rect x="300" y="372" width="30" height="20" rx="6" fill="#d63b46" stroke="#1a1a1a" stroke-width="6"/>
+<!-- jug -->
+<path d="M 178 168 L 334 168 L 322 360 L 190 360 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- contents (smoothie) -->
+<path d="M 196 270 L 316 270 L 309 348 L 203 348 Z" fill="#8cc152" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- spout -->
+<path d="M 334 168 L 352 158 L 348 184 L 330 192 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- handle -->
+<path d="M 322 200 Q 372 210 360 286 Q 348 300 326 300" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- lid -->
+<rect x="170" y="140" width="172" height="32" rx="10" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="238" y="116" width="36" height="28" rx="8" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg1015" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg1015)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

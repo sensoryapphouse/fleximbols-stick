@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Eyeshadow palette (bottom right) -->
+  <!-- Compact base -->
+  <rect x="152" y="140" width="128" height="90" rx="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Inner palette surface -->
+  <rect x="160" y="148" width="112" height="74" rx="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Colour pans — row 1 -->
+  <rect x="168" y="156" width="28" height="24" rx="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="202" y="156" width="28" height="24" rx="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="236" y="156" width="28" height="24" rx="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Colour pans — row 2 -->
+  <rect x="168" y="186" width="28" height="24" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="202" y="186" width="28" height="24" rx="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="236" y="186" width="28" height="24" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Large eye close-up (upper half of canvas) -->
+  <!-- Eye white area -->
+  <path d="M 20 100 Q 28 62 145 56 Q 262 62 270 100 Q 262 138 145 144 Q 28 138 20 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Iris -->
+  <circle cx="145" cy="100" r="36" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Pupil -->
+  <circle cx="145" cy="100" r="20" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Highlight in eye -->
+  <circle cx="155" cy="90" r="7" fill="#ffffff" stroke="none"/>
+  <!-- Upper eyelid shadow area (eyelid fold) -->
+  <path d="M 42 80 Q 145 48 248 80" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Eyelid — top lid shape -->
+  <path d="M 20 100 Q 28 62 145 56 Q 262 62 270 100" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Eyeshadow colour on eyelid -->
+  <path d="M 50 86 Q 80 64 145 60 Q 210 64 240 86 Q 200 92 145 94 Q 90 92 50 86 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Crease / highlight band -->
+  <path d="M 70 78 Q 145 66 220 78 Q 200 80 145 82 Q 90 80 70 78 Z" fill="#f4a4b2" stroke="none"/>
+  <!-- Eyelashes top -->
+  <line x1="50" y1="72" x2="42" y2="58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="62" x2="76" y2="46" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="110" y1="56" x2="108" y2="40" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="54" x2="145" y2="38" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="178" y1="56" x2="180" y2="40" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="208" y1="62" x2="213" y2="46" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="238" y1="72" x2="247" y2="58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lower eyelid -->
+  <path d="M 20 100 Q 28 138 145 144 Q 262 138 270 100" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+
+  <!-- Eyeshadow applicator brush (angled, applying to upper lid) -->
+  <!-- Handle -->
+  <rect x="228" y="30" width="10" height="60" rx="5" transform="rotate(40 228 30)" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Ferrule -->
+  <rect x="220" y="62" width="14" height="9" rx="2" transform="rotate(40 220 62)" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Applicator tip (small flat sponge) -->
+  <ellipse cx="207" cy="83" rx="12" ry="7" transform="rotate(40 207 83)" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

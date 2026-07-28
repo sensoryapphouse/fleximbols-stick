@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- Trunk: thick gnarled oak trunk -->
+  <path d="M128 210 Q118 185 122 165 Q115 155 120 140 Q130 130 145 132 Q160 130 170 140 Q175 155 168 165 Q172 185 162 210 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Trunk gnarl detail -->
+  <path d="M125 175 Q110 168 118 158" fill="none" stroke="#5e1f0a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M165 175 Q180 168 172 158" fill="none" stroke="#5e1f0a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Main canopy: broad rounded spreading lobes deep green -->
+  <ellipse cx="145" cy="100" rx="90" ry="65" fill="#137827" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Secondary lobes for rounded spreading silhouette -->
+  <ellipse cx="75" cy="115" rx="45" ry="38" fill="#137827" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="215" cy="115" rx="45" ry="38" fill="#137827" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="105" cy="75" rx="40" ry="32" fill="#137827" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="185" cy="75" rx="40" ry="32" fill="#137827" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="145" cy="55" rx="38" ry="28" fill="#529929" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Highlight inner canopy -->
+  <ellipse cx="145" cy="100" rx="72" ry="50" fill="#529929" stroke="none"/>
+  <!-- Acorns -->
+  <circle cx="80" cy="145" r="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M74 138 Q80 134 86 138" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="80" y1="134" x2="80" y2="129" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="210" cy="148" r="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M204 141 Q210 137 216 141" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="210" y1="137" x2="210" y2="132" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

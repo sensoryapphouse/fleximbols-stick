@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30.06 10.43 451.88 451.88"><g>
+<!-- end pin -->
+<line x1="256" y1="430" x2="256" y2="408" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round"/>
+<!-- body: violin-family shape (upper + lower bouts) -->
+<path d="M 256 150
+C 300 150 318 178 314 208
+C 312 230 300 240 300 252
+C 300 264 318 278 326 304
+C 340 350 312 410 256 410
+C 200 410 172 350 186 304
+C 194 278 212 264 212 252
+C 212 240 200 230 198 208
+C 194 178 212 150 256 150 Z"
+fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- f-holes -->
+<path d="M 224 286 q -10 14 0 30" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 288 286 q 10 14 0 30" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- bridge -->
+<line x1="232" y1="338" x2="280" y2="338" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- neck + fingerboard -->
+<rect x="246" y="78" width="20" height="78" rx="4" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- scroll/pegbox -->
+<path d="M 256 78 q -22 -4 -18 -24 q 4 -16 18 -10 q 14 -6 18 10 q 4 20 -18 24 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- strings -->
+<line x1="250" y1="92" x2="244" y2="338" stroke="#f4c430" stroke-width="3"/>
+<line x1="256" y1="92" x2="256" y2="338" stroke="#f4c430" stroke-width="3"/>
+<line x1="262" y1="92" x2="268" y2="338" stroke="#f4c430" stroke-width="3"/>
+</g></svg>

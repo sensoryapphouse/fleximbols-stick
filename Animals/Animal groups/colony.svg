@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- an ant colony: anthill mound + ants -->
+<!-- mound -->
+<path d="M 110 360 Q 256 200 402 360 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="358" rx="34" ry="16" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- texture specks -->
+<g fill="#8a5a2b"><circle cx="200" cy="330" r="6"/><circle cx="312" cy="330" r="6"/><circle cx="256" cy="300" r="6"/></g>
+<!-- ground line -->
+<line x1="80" y1="360" x2="432" y2="360" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- ant (define as group, reused) -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<!-- ant 1 (top of mound) -->
+<g transform="translate(256 246) scale(1.0)">
+<g stroke="#1a1a1a" stroke-width="6" fill="none">
+<path d="M -18 0 L -30 -14 M -18 4 L -34 4 M -18 8 L -30 22"/>
+<path d="M 6 -2 L 18 -16 M 6 2 L 22 2 M 6 6 L 18 20"/>
+</g>
+<circle cx="-22" cy="0" r="11" fill="#6b4a2b"/>
+<circle cx="-2" cy="0" r="9" fill="#6b4a2b"/>
+<ellipse cx="20" cy="0" rx="16" ry="12" fill="#6b4a2b"/>
+<path d="M -30 -8 L -40 -20 M -28 -10 L -34 -24" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+</g>
+<!-- ant 2 (left ground) -->
+<g transform="translate(148 392) scale(1.05)">
+<g stroke="#1a1a1a" stroke-width="6" fill="none">
+<path d="M -18 0 L -30 -14 M -18 4 L -34 4 M -18 8 L -30 22"/>
+<path d="M 6 -2 L 18 -16 M 6 2 L 22 2 M 6 6 L 18 20"/>
+</g>
+<circle cx="-22" cy="0" r="11" fill="#1a1a1a"/>
+<circle cx="-2" cy="0" r="9" fill="#1a1a1a"/>
+<ellipse cx="20" cy="0" rx="16" ry="12" fill="#1a1a1a"/>
+<path d="M -30 -8 L -40 -20 M -28 -10 L -34 -24" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+</g>
+<!-- ant 3 (right ground) -->
+<g transform="translate(362 392) scale(1.05) scale(-1 1)">
+<g stroke="#1a1a1a" stroke-width="6" fill="none">
+<path d="M -18 0 L -30 -14 M -18 4 L -34 4 M -18 8 L -30 22"/>
+<path d="M 6 -2 L 18 -16 M 6 2 L 22 2 M 6 6 L 18 20"/>
+</g>
+<circle cx="-22" cy="0" r="11" fill="#1a1a1a"/>
+<circle cx="-2" cy="0" r="9" fill="#1a1a1a"/>
+<ellipse cx="20" cy="0" rx="16" ry="12" fill="#1a1a1a"/>
+<path d="M -30 -8 L -40 -20 M -28 -10 L -34 -24" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Amigurumi: small crocheted toy ANIMAL (bear) with cute features -->
+  <!-- Body (round) -->
+  <ellipse cx="145" cy="170" rx="58" ry="48" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- Body crochet stitch V's -->
+  <g stroke="#9d7246" stroke-width="3.20" fill="none" stroke-linecap="round">
+    <path d="M 100 150 q 4 5 8 0 M 110 150 q 4 5 8 0 M 120 150 q 4 5 8 0 M 130 150 q 4 5 8 0 M 140 150 q 4 5 8 0 M 150 150 q 4 5 8 0 M 160 150 q 4 5 8 0 M 170 150 q 4 5 8 0 M 180 150 q 4 5 8 0"/>
+    <path d="M 95 168 q 4 5 8 0 M 105 168 q 4 5 8 0 M 115 168 q 4 5 8 0 M 125 168 q 4 5 8 0 M 165 168 q 4 5 8 0 M 175 168 q 4 5 8 0 M 185 168 q 4 5 8 0"/>
+    <path d="M 95 188 q 4 5 8 0 M 105 188 q 4 5 8 0 M 115 188 q 4 5 8 0 M 165 188 q 4 5 8 0 M 175 188 q 4 5 8 0 M 185 188 q 4 5 8 0"/>
+  </g>
+
+  <!-- Belly patch -->
+  <ellipse cx="145" cy="180" rx="28" ry="22" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Legs -->
+  <ellipse cx="115" cy="215" rx="18" ry="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="175" cy="215" rx="18" ry="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="115" cy="215" rx="9" ry="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="175" cy="215" rx="9" ry="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.67"/>
+
+  <!-- Arms -->
+  <ellipse cx="80" cy="160" rx="13" ry="22" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33" transform="rotate(-20 80 160)"/>
+  <ellipse cx="210" cy="160" rx="13" ry="22" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33" transform="rotate(20 210 160)"/>
+
+  <!-- Head -->
+  <circle cx="145" cy="80" r="50" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- Head stitches -->
+  <g stroke="#9d7246" stroke-width="3.20" fill="none" stroke-linecap="round">
+    <path d="M 110 55 q 4 5 8 0 M 120 55 q 4 5 8 0 M 130 55 q 4 5 8 0 M 140 55 q 4 5 8 0 M 150 55 q 4 5 8 0 M 160 55 q 4 5 8 0 M 170 55 q 4 5 8 0"/>
+    <path d="M 105 105 q 4 5 8 0 M 115 105 q 4 5 8 0 M 165 105 q 4 5 8 0 M 175 105 q 4 5 8 0"/>
+  </g>
+
+  <!-- Bear ears -->
+  <circle cx="108" cy="42" r="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="182" cy="42" r="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="108" cy="42" r="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="182" cy="42" r="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- Muzzle -->
+  <ellipse cx="145" cy="95" rx="20" ry="14" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Eyes (big black) -->
+  <circle cx="125" cy="78" r="7" fill="#000000"/>
+  <circle cx="165" cy="78" r="7" fill="#000000"/>
+  <circle cx="127" cy="76" r="2.5" fill="#ffffff"/>
+  <circle cx="167" cy="76" r="2.5" fill="#ffffff"/>
+
+  <!-- Nose -->
+  <ellipse cx="145" cy="90" rx="5" ry="3.5" fill="#000000"/>
+  <!-- Mouth -->
+  <path d="M 145 94 L 145 100 M 145 100 Q 138 105 134 102 M 145 100 Q 152 105 156 102" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+
+  <!-- Cheek blush -->
+  <circle cx="112" cy="92" r="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.13"/>
+  <circle cx="178" cy="92" r="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.13"/>
+</g></svg>

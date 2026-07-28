@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- gutter at top -->
+<path d="M 150 110 L 360 110 L 360 150 L 150 150 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="150" y1="130" x2="360" y2="130" stroke="#1a1a1a" stroke-width="6"/>
+<!-- vertical downpipe -->
+<rect x="232" y="150" width="48" height="200" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- joint band -->
+<rect x="226" y="232" width="60" height="22" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- curved shoe / outlet at bottom: same 48px diameter as the downpipe, bends out to the right -->
+<path d="M 232 300 L 232 356 A 62 62 0 0 0 294 418 L 372 418 L 372 370 L 294 370 A 14 14 0 0 1 280 356 L 280 300 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- water drops from the spout mouth -->
+<path d="M 372 390 q -10 12 0 22 q 10 -10 0 -22 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 392 416 q -8 10 0 18 q 8 -8 0 -18 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- wall mounting brackets -->
+<line x1="232" y1="185" x2="208" y2="185" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="232" y1="310" x2="208" y2="310" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

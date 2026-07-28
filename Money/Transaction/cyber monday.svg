@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Laptop base -->
+  <rect x="40" y="170" width="210" height="18" rx="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Laptop hinge -->
+  <rect x="120" y="162" width="50" height="10" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Laptop screen surround -->
+  <rect x="55" y="58" width="180" height="108" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Screen -->
+  <rect x="66" y="68" width="158" height="88" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shopping cart on screen -->
+  <path d="M 85 92 L 96 92 L 102 118 L 140 118 L 148 98 L 100 98" fill="none" stroke="#2a4ec0" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="110" cy="126" r="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="134" cy="126" r="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Starburst discount on screen -->
+  <polygon points="175,82 179,92 190,90 184,99 190,108 179,106 174,116 170,106 159,108 165,99 160,90 170,92" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Percent marks -->
+  <circle cx="169" cy="96" r="3" fill="#000000"/>
+  <circle cx="179" cy="105" r="3" fill="#000000"/>
+  <line x1="171" y1="106" x2="178" y2="95" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
+  <!-- Wi-fi arcs above laptop (online feel) -->
+  <path d="M 120 40 Q 145 28 170 40" fill="none" stroke="#2a4ec0" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 128 50 Q 145 42 162 50" fill="none" stroke="#2a4ec0" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="57" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

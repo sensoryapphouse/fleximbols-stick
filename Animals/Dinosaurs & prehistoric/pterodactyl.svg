@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- pterodactyl: flying reptile, wide membrane wings, long pointed head crest + beak -->
+<!-- left wing membrane -->
+<path d="M 256 240
+         Q 150 180 70 230
+         Q 130 250 160 290
+         Q 120 300 96 340
+         Q 180 320 256 300 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right wing membrane -->
+<path d="M 256 240
+         Q 362 180 442 230
+         Q 382 250 352 290
+         Q 392 300 416 340
+         Q 332 320 256 300 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wing finger bones -->
+<path d="M 256 250 Q 170 210 96 246" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 256 250 Q 342 210 416 246" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- body -->
+<ellipse cx="256" cy="278" rx="40" ry="60" fill="#a06a3b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- legs -->
+<path d="M 240 330 L 226 372 M 272 330 L 286 372" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- neck + head -->
+<path d="M 256 222 Q 252 180 268 160 Q 300 152 312 168 Q 300 184 280 196 Q 268 206 264 222 Z" fill="#a06a3b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- long pointed beak -->
+<path d="M 300 168 L 366 150 L 312 184 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- head crest (backwards point) -->
+<path d="M 268 160 L 226 132 L 280 150 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- eye -->
+<circle cx="288" cy="168" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="290" cy="170" r="3.5" fill="#1a1a1a"/>
+</svg>

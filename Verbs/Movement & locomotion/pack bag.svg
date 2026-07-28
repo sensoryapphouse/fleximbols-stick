@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hands putting items into an open backpack -->
+  <!-- Backpack body (open, sitting on surface) -->
+  <rect x="95" y="110" width="110" height="110" rx="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Backpack open top flap (folded back) -->
+  <path d="M95 110 Q150 90 205 110" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Backpack open mouth / interior visible -->
+  <ellipse cx="150" cy="112" rx="48" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Backpack front pocket -->
+  <rect x="110" y="162" width="80" height="45" rx="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pocket zipper line -->
+  <path d="M115 175 Q150 171 185 175" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Pocket zipper pull -->
+  <circle cx="150" cy="173" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Backpack straps on back -->
+  <path d="M112 118 Q96 148 100 185" fill="none" stroke="#1d0e82" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M188 118 Q204 148 200 185" fill="none" stroke="#1d0e82" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Book being placed in (tilted, half in bag) -->
+  <rect x="118" y="72" width="32" height="52" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 134 98)"/>
+  <!-- Book spine line -->
+  <line x1="120" y1="74" x2="118" y2="118" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Book pages lines -->
+  <line x1="126" y1="75" x2="138" y2="76" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="126" y1="82" x2="139" y2="83" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Left hand placing book -->
+  <ellipse cx="112" cy="92" rx="14" ry="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Left arm -->
+  <path d="M90 65 Q100 78 112 90" fill="none" stroke="#eed5b6" stroke-width="14.44" stroke-linecap="round"/>
+  <!-- Water bottle to the right, leaning in -->
+  <rect x="162" y="70" width="22" height="54" rx="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bottle cap -->
+  <rect x="166" y="62" width="14" height="12" rx="4" fill="#137827" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Right hand on bottle -->
+  <ellipse cx="185" cy="88" rx="13" ry="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right arm -->
+  <path d="M210 62 Q198 74 186 88" fill="none" stroke="#eed5b6" stroke-width="14.44" stroke-linecap="round"/>
+  <!-- Surface line -->
+  <line x1="40" y1="220" x2="250" y2="220" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wallet body -->
+  <rect x="60" y="68" width="154" height="114" rx="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Wallet flap fold -->
+  <path d="M60,104 Q137,92 214,104" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Card slots -->
+  <rect x="74" y="118" width="56" height="10" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="74" y="136" width="56" height="10" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Flame — top area, above wallet -->
+  <path d="M137,28 Q128,42 132,54 Q122,44 124,56 Q118,46 120,62 Q112,58 116,70 Q108,80 120,88 Q130,96 145,96 Q162,96 170,84 Q178,68 168,56 Q162,62 162,70 Q154,58 158,44 Q150,52 150,62 Q143,46 137,28Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Inner flame highlight -->
+  <path d="M141,46 Q136,56 140,64 Q136,60 137,68 Q133,64 135,72 Q130,80 140,86 Q148,90 155,84 Q162,76 156,66 Q152,70 152,76 Q146,68 148,58 Q143,62 141,46Z" fill="#ff9900" stroke="none"/>
+  <!-- WiFi waves — bottom-right -->
+  <path d="M196,188 Q209,176 222,188" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M188,200 Q209,182 230,200" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M180,212 Q209,188 238,212" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- WiFi center dot -->
+  <circle cx="209" cy="218" r="5" fill="#000000"/>
+</g></svg>

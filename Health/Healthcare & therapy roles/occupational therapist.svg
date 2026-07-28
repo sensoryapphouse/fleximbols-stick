@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="89.21 109.69 333.58 333.58"><!-- stacking-ring therapy aid -->
+<!-- base -->
+<ellipse cx="256" cy="392" rx="120" ry="26" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- post -->
+<rect x="246" y="150" width="20" height="232" rx="8" fill="#e8b04a" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="256" cy="150" r="16" fill="#e8b04a" stroke="#1a1a1a" stroke-width="8"/>
+<!-- bottom ring (big, red) -->
+<path d="M 150 360 a 106 30 0 1 0 212 0 a 106 30 0 1 0 -212 0 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="356" rx="34" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- middle ring (green) -->
+<path d="M 168 300 a 88 26 0 1 0 176 0 a 88 26 0 1 0 -176 0 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="296" rx="30" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- top ring (blue) -->
+<path d="M 184 246 a 72 22 0 1 0 144 0 a 72 22 0 1 0 -144 0 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="242" rx="26" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

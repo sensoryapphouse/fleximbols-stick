@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- box front -->
+<polygon points="110,150 300,150 300,420 110,420" fill="#8cc152" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- box side -->
+<polygon points="300,150 340,124 340,394 300,420" fill="#6fae33" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- box top -->
+<polygon points="110,150 150,124 340,124 300,150" fill="#a8d36a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bowl on front -->
+<ellipse cx="205" cy="262" rx="78" ry="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<ellipse cx="205" cy="258" rx="62" ry="32" fill="#e8b24e" stroke="#1a1a1a" stroke-width="7"/>
+<!-- bran flakes -->
+<ellipse cx="186" cy="252" rx="13" ry="9" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="216" cy="248" rx="13" ry="9" fill="#a06a30" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="232" cy="266" rx="12" ry="8" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="194" cy="270" rx="12" ry="8" fill="#a06a30" stroke="#1a1a1a" stroke-width="4"/>
+<!-- spoon -->
+<ellipse cx="150" cy="340" rx="26" ry="15" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="172" y1="346" x2="262" y2="368" stroke="#cfd6dc" stroke-width="13" stroke-linecap="round"/>
+<line x1="172" y1="346" x2="262" y2="368" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<!-- wheat stalk -->
+<line x1="392" y1="420" x2="404" y2="280" stroke="#8a5a2b" stroke-width="9" stroke-linecap="round"/>
+<g fill="#f3cd6e" stroke="#1a1a1a" stroke-width="5">
+<ellipse cx="392" cy="300" rx="12" ry="20" transform="rotate(-25 392 300)"/>
+<ellipse cx="418" cy="300" rx="12" ry="20" transform="rotate(25 418 300)"/>
+<ellipse cx="390" cy="332" rx="12" ry="20" transform="rotate(-25 390 332)"/>
+<ellipse cx="420" cy="332" rx="12" ry="20" transform="rotate(25 420 332)"/>
+<ellipse cx="404" cy="276" rx="12" ry="20"/>
+</g>
+</svg>

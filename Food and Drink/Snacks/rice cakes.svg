@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- BACK rice cake (standing, shows the thick puffed edge) -->
+<g>
+  <!-- side wall (thickness) -->
+  <path d="M 132 196 a 110 36 0 0 0 220 0 l 0 40 a 110 36 0 0 1 -220 0 Z" fill="#e7d3a0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <!-- puffed-rice bumps on the side wall -->
+  <g fill="none" stroke="#caa46a" stroke-width="5" stroke-linecap="round">
+    <path d="M 150 212 q 6 10 12 0"/><path d="M 178 220 q 6 10 12 0"/><path d="M 210 224 q 6 10 12 0"/>
+    <path d="M 244 224 q 6 10 12 0"/><path d="M 278 220 q 6 10 12 0"/><path d="M 312 212 q 6 10 12 0"/>
+  </g>
+  <!-- top face -->
+  <ellipse cx="242" cy="196" rx="110" ry="36" fill="#efe0b8" stroke="#1a1a1a" stroke-width="9"/>
+  <!-- knobbly puffed-rice cluster texture -->
+  <g fill="#d8c084" stroke="#c0a060" stroke-width="2">
+    <circle cx="200" cy="186" r="11"/><circle cx="226" cy="178" r="9"/><circle cx="252" cy="186" r="12"/>
+    <circle cx="280" cy="180" r="9"/><circle cx="216" cy="200" r="10"/><circle cx="246" cy="204" r="11"/>
+    <circle cx="276" cy="200" r="9"/><circle cx="184" cy="200" r="9"/><circle cx="300" cy="190" r="8"/>
+    <circle cx="170" cy="190" r="7"/>
+  </g>
+</g>
+<!-- FRONT rice cake (overlapping, lower-right) -->
+<g>
+  <path d="M 188 332 a 116 38 0 0 0 232 0 l 0 42 a 116 38 0 0 1 -232 0 Z" fill="#e7d3a0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <g fill="none" stroke="#caa46a" stroke-width="5" stroke-linecap="round">
+    <path d="M 208 350 q 6 10 12 0"/><path d="M 240 358 q 6 10 12 0"/><path d="M 276 362 q 6 10 12 0"/>
+    <path d="M 312 362 q 6 10 12 0"/><path d="M 348 358 q 6 10 12 0"/><path d="M 380 350 q 6 10 12 0"/>
+  </g>
+  <ellipse cx="304" cy="332" rx="116" ry="38" fill="#efe0b8" stroke="#1a1a1a" stroke-width="9"/>
+  <g fill="#d8c084" stroke="#c0a060" stroke-width="2">
+    <circle cx="258" cy="320" r="11"/><circle cx="286" cy="312" r="10"/><circle cx="316" cy="320" r="12"/>
+    <circle cx="346" cy="314" r="10"/><circle cx="276" cy="338" r="11"/><circle cx="308" cy="342" r="11"/>
+    <circle cx="340" cy="338" r="10"/><circle cx="240" cy="336" r="9"/><circle cx="368" cy="326" r="9"/>
+    <circle cx="228" cy="324" r="7"/><circle cx="382" cy="338" r="7"/>
+  </g>
+</g>
+</svg>

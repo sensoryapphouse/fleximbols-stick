@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.5537) translate(-256.00 -271.00)">
+<!-- bottle body (clear/glossy moulded plastic) -->
+<path d="M 206 196 L 306 196 L 314 264 Q 322 300 322 340 L 322 392 Q 322 412 302 412 L 210 412 Q 190 412 190 392 L 190 340 Q 190 300 198 264 Z" fill="#5cc1ec" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- moulded grip ring -->
+<path d="M 193 318 Q 256 332 319 318" fill="none" stroke="#2b7fa6" stroke-width="6" stroke-linecap="round"/>
+<path d="M 193 340 Q 256 354 319 340" fill="none" stroke="#2b7fa6" stroke-width="6" stroke-linecap="round"/>
+<!-- neck + cap -->
+<rect x="224.0" y="150.0" width="64.0" height="50.0" rx="6" fill="#5cc1ec" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="220.0" y="130.0" width="72.0" height="28.0" rx="8" fill="#2b7fa6" stroke="#1a1a1a" stroke-width="8"/>
+<!-- glossy highlight sheen -->
+<path d="M 216 214 Q 208 300 214 396" fill="none" stroke="#ffffff" stroke-width="13" stroke-linecap="round" opacity="0.92"/>
+<path d="M 236 214 Q 230 290 234 360" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.75"/>
+<!-- small resin-code triangle (corner mark) -->
+<g transform="translate(289 376)" stroke="#1a1a1a" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" fill="none">
+<path d="M -15 8 L 0 -18 L 15 8 Z"/>
+<path d="M 0 -7 L 0 1 M 0 1 L -3 -2"/>
+</g>
+</g></svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="none"/>
+  <!-- Ground -->
+  <rect x="0" y="200" width="290" height="40" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Westminster building backdrop (left) -->
+  <rect x="10" y="120" width="60" height="85" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Pointed roof spire on backdrop -->
+  <polygon points="15,120 40,90 65,120" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Backdrop windows -->
+  <rect x="20" y="135" width="10" height="14" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="35" y="135" width="10" height="14" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="50" y="135" width="10" height="14" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="20" y="160" width="10" height="14" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="35" y="160" width="10" height="14" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="50" y="160" width="10" height="14" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="20" y="183" width="40" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Big Ben clock tower (central) -->
+  <!-- Spire on top -->
+  <polygon points="120,15 145,15 132.5,0" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="118" y="15" width="29" height="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Ornate top section -->
+  <rect x="113" y="25" width="39" height="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <polygon points="113,25 152,25 156,38 109,38" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Clock face section -->
+  <rect x="108" y="47" width="49" height="55" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Clock face -->
+  <circle cx="132.5" cy="74" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.78"/>
+  <circle cx="132.5" cy="74" r="2" fill="#000000"/>
+  <!-- Clock numbers as dashes -->
+  <line x1="132.5" y1="57" x2="132.5" y2="61" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132.5" y1="87" x2="132.5" y2="91" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="115" y1="74" x2="119" y2="74" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="146" y1="74" x2="150" y2="74" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Clock hands -->
+  <line x1="132.5" y1="74" x2="132.5" y2="62" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="132.5" y1="74" x2="142" y2="74" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Tower body -->
+  <rect x="113" y="102" width="39" height="103" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.78" stroke-linejoin="round"/>
+  <!-- Vertical detail lines -->
+  <line x1="121" y1="102" x2="121" y2="200" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="132.5" y1="102" x2="132.5" y2="200" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="144" y1="102" x2="144" y2="200" stroke="#9d7246" stroke-width="4.45"/>
+  <!-- Horizontal banding -->
+  <line x1="113" y1="135" x2="152" y2="135" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="113" y1="170" x2="152" y2="170" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Tower base -->
+  <rect x="108" y="200" width="49" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- London double-decker bus (right) -->
+  <rect x="180" y="145" width="100" height="55" rx="6" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Bus upper deck windows -->
+  <rect x="186" y="152" width="14" height="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="204" y="152" width="14" height="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="222" y="152" width="14" height="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="240" y="152" width="14" height="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="258" y="152" width="16" height="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mid bus stripe -->
+  <line x1="180" y1="173" x2="280" y2="173" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lower deck windows -->
+  <rect x="186" y="178" width="20" height="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="210" y="178" width="20" height="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="234" y="178" width="20" height="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Door at front -->
+  <rect x="258" y="178" width="16" height="20" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Wheels -->
+  <circle cx="200" cy="205" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="200" cy="205" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="260" cy="205" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="260" cy="205" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

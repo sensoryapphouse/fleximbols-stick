@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Building facade -->
+  <rect x="30" y="100" width="230" height="120" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Roof -->
+  <polygon points="20,100 145,30 270,100" fill="#90a7d6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Awning -->
+  <rect x="30" y="98" width="230" height="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Door -->
+  <rect x="118" y="158" width="54" height="62" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <circle cx="162" cy="191" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Left window -->
+  <rect x="42" y="118" width="58" height="46" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <line x1="71" y1="118" x2="71" y2="164" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="42" y1="141" x2="100" y2="141" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Right window -->
+  <rect x="190" y="118" width="58" height="46" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <line x1="219" y1="118" x2="219" y2="164" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="190" y1="141" x2="248" y2="141" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- SCISSORS emblem (center) -->
+  <!-- Blade 1 -->
+  <line x1="127" y1="116" x2="152" y2="150" stroke="#b8b8b8" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- Blade 2 -->
+  <line x1="153" y1="116" x2="128" y2="150" stroke="#b8b8b8" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- Pivot -->
+  <circle cx="140" cy="133" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Handle rings -->
+  <circle cx="124" cy="153" r="7" fill="none" stroke="#1a1a1a" stroke-width="6.22"/>
+  <circle cx="156" cy="153" r="7" fill="none" stroke="#1a1a1a" stroke-width="6.22"/>
+  <!-- COMB -->
+  <rect x="160" y="120" width="26" height="8" rx="2" ry="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="164" y1="128" x2="164" y2="137" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="169" y1="128" x2="169" y2="137" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="174" y1="128" x2="174" y2="137" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="179" y1="128" x2="179" y2="137" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- STYLING CHAIR (left window) -->
+  <!-- Seat -->
+  <rect x="47" y="150" width="28" height="10" rx="2" ry="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Back -->
+  <rect x="47" y="130" width="10" height="22" rx="2" ry="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Headrest -->
+  <rect x="47" y="127" width="10" height="6" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Pedestal -->
+  <rect x="57" y="160" width="6" height="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Base -->
+  <rect x="52" y="168" width="16" height="4" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- MIRROR (right window) -->
+  <ellipse cx="219" cy="136" rx="15" ry="19" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="215" y="155" width="8" height="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Ground line -->
+  <line x1="30" y1="220" x2="260" y2="220" stroke="#1a1a1a" stroke-width="7.11"/>
+</g></svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- white whole egg, side view, cute outline -->
+  <!-- egg shape (top narrower than bottom) -->
+  <path d="M145 30 C95 30 75 110 75 150 C75 195 110 215 145 215 C180 215 215 195 215 150 C215 110 195 30 145 30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.35" stroke-linejoin="round"/>
+  <!-- subtle shading on left side -->
+  <path d="M105 70 C90 100 85 140 90 180" fill="none" stroke="#efefef" stroke-width="7.62" stroke-linecap="round"/>
+  <path d="M105 70 C90 100 85 140 90 180" fill="none" stroke="#b8b8b8" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- highlight on upper left -->
+  <ellipse cx="115" cy="75" rx="12" ry="20" fill="#efefef" stroke="#1a1a1a" stroke-width="2.54"/>
+</g></svg>

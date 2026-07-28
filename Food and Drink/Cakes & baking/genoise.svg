@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Genoise: Italian sponge cake slice with fine crumb texture + Italian flag accent -->
+  <!-- Plate base -->
+  <ellipse cx="145" cy="218" rx="105" ry="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Slice body - triangular wedge viewed from front, golden sponge colour -->
+  <path d="M 55,205 L 235,205 L 170,82 L 120,82 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cake layers - fine texture lines showing sponge strata -->
+  <path d="M 62,196 Q 145,194 228,196" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 70,185 Q 145,183 220,185" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 80,174 Q 145,172 210,174" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 92,163 Q 145,161 198,163" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 105,152 Q 145,150 185,152" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 118,141 Q 145,139 172,141" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 128,130 Q 145,128 162,130" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Fine crumb dots - sponge air holes -->
+  <circle cx="100" cy="178" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="120" cy="190" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="140" cy="168" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="165" cy="182" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="185" cy="170" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="145" cy="155" r="2" fill="#9d7246" stroke="none"/>
+  <!-- Top surface - light dusting powdered sugar -->
+  <path d="M 120,82 L 170,82" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" fill="none"/>
+  <path d="M 122,80 Q 145,72 168,80" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Italian flag accent - small tricolour on top right of slice -->
+  <rect x="195" y="50" width="6" height="22" rx="1" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="201" y="50" width="6" height="22" rx="1" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="207" y="50" width="6" height="22" rx="1" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Flag pole -->
+  <line x1="213" y1="50" x2="213" y2="36" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

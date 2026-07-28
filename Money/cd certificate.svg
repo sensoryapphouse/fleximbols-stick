@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Scroll body -->
+  <rect x="45" y="42" width="200" height="152" rx="8" ry="8" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Scroll left curl -->
+  <ellipse cx="45" cy="118" rx="12" ry="68" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Scroll right curl -->
+  <ellipse cx="245" cy="118" rx="12" ry="68" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Decorative border lines -->
+  <rect x="58" y="54" width="174" height="128" rx="4" ry="4" fill="none" stroke="#9d7246" stroke-width="2.96"/>
+  <!-- Top horizontal rule -->
+  <line x1="68" y1="74" x2="222" y2="74" stroke="#9d7246" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Bottom horizontal rule -->
+  <line x1="68" y1="162" x2="222" y2="162" stroke="#9d7246" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Certificate title bar (abstract) -->
+  <rect x="88" y="57" width="114" height="16" rx="3" ry="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Three text-line placeholders -->
+  <rect x="80" y="80" width="130" height="9" rx="3" ry="3" fill="#b8b8b8" stroke="none"/>
+  <rect x="90" y="96" width="110" height="9" rx="3" ry="3" fill="#b8b8b8" stroke="none"/>
+  <rect x="100" y="112" width="90" height="9" rx="3" ry="3" fill="#b8b8b8" stroke="none"/>
+  <!-- Gold coin bottom-left -->
+  <circle cx="88" cy="150" r="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.94"/>
+  <circle cx="88" cy="150" r="11" fill="none" stroke="#7d5e23" stroke-width="2.96"/>
+  <!-- Lock bottom-right -->
+  <rect x="172" y="140" width="26" height="22" rx="4" ry="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <path d="M177 140 Q177 128 185 128 Q193 128 193 140" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <circle cx="185" cy="151" r="4" fill="#000000"/>
+  <!-- Clock bottom-center -->
+  <circle cx="145" cy="150" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
+  <line x1="145" y1="150" x2="145" y2="140" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <line x1="145" y1="150" x2="152" y2="154" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+</g></svg>

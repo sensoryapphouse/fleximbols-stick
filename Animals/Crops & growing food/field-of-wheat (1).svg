@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- field of wheat: cluster of golden wheat stalks with grain heads -->
+<!-- ground -->
+<path d="M 96 398 L 416 398 L 400 416 L 112 416 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wheat stalks -->
+<g fill="none" stroke="#e8b24e" stroke-width="9" stroke-linecap="round">
+<path d="M 160 398 Q 156 300 150 200"/>
+<path d="M 256 398 L 256 150"/>
+<path d="M 352 398 Q 356 300 362 200"/>
+</g>
+<!-- grain heads (gold ears) -->
+<g fill="#f4c430" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+<!-- left ear -->
+<path d="M 150 200 Q 130 188 124 162 Q 148 168 150 188 Q 152 168 176 162 Q 170 188 150 200 Z"/>
+<path d="M 150 170 Q 130 158 124 132 Q 148 138 150 158 Q 152 138 176 132 Q 170 158 150 170 Z"/>
+<path d="M 150 142 Q 132 130 128 108 Q 148 114 150 132 Q 152 114 172 108 Q 168 130 150 142 Z"/>
+<!-- centre ear (tallest) -->
+<path d="M 256 150 Q 234 136 228 108 Q 254 114 256 136 Q 258 114 284 108 Q 278 136 256 150 Z"/>
+<path d="M 256 118 Q 234 104 228 76 Q 254 82 256 104 Q 258 82 284 76 Q 278 104 256 118 Z"/>
+<path d="M 256 88 Q 236 76 232 52 Q 254 58 256 76 Q 258 58 280 52 Q 276 76 256 88 Z"/>
+<!-- right ear -->
+<path d="M 362 200 Q 342 188 336 162 Q 360 168 362 188 Q 364 168 388 162 Q 382 188 362 200 Z"/>
+<path d="M 362 170 Q 342 158 336 132 Q 360 138 362 158 Q 364 138 388 132 Q 382 158 362 170 Z"/>
+<path d="M 362 142 Q 344 130 340 108 Q 360 114 362 132 Q 364 114 384 108 Q 380 130 362 142 Z"/>
+</g>
+<!-- awns / whiskers at top of each ear -->
+<g fill="none" stroke="#e8b24e" stroke-width="4" stroke-linecap="round">
+<path d="M 150 108 L 150 84 M 138 110 L 130 90 M 162 110 L 170 90"/>
+<path d="M 256 52 L 256 28 M 244 54 L 236 34 M 268 54 L 276 34"/>
+<path d="M 362 108 L 362 84 M 350 110 L 342 90 M 374 110 L 382 90"/>
+</g>
+</svg>

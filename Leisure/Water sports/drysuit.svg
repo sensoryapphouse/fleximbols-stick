@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- hanger hook -->
+  <path d="M145 18 Q145 6 155 6 Q165 6 165 16" fill="none" stroke="#7f7f7f" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- hanger bar -->
+  <path d="M145 20 L85 55 Q80 60 85 63 L205 63 Q210 60 205 55 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="145" y1="20" x2="205" y2="57" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- NECK SEAL (prominent collar) -->
+  <ellipse cx="145" cy="68" rx="28" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M120 65 Q145 80 170 65 Q170 78 145 82 Q120 78 120 65 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- main suit body -->
+  <path d="M118 78 L75 105 Q70 115 75 125 L80 130 L80 205 Q80 215 92 215 L122 215 Q132 215 132 207 L132 155 L158 155 L158 207 Q158 215 168 215 L198 215 Q210 215 210 205 L210 130 L215 125 Q220 115 215 105 L172 78 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left arm -->
+  <path d="M75 105 L50 155 Q47 168 58 170 L78 168 L82 135 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right arm -->
+  <path d="M215 105 L240 155 Q243 168 232 170 L212 168 L208 135 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- WRIST SEAL left -->
+  <ellipse cx="65" cy="170" rx="18" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M50 168 Q65 175 80 168 L80 174 Q65 180 50 174 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- WRIST SEAL right -->
+  <ellipse cx="225" cy="170" rx="18" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M210 168 Q225 175 240 168 L240 174 Q225 180 210 174 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ZIPPER ACROSS CHEST (diagonal/horizontal) -->
+  <path d="M90 110 L200 110" stroke="#f7de58" stroke-width="17.78" stroke-linecap="round"/>
+  <path d="M90 110 L200 110" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- zipper teeth -->
+  <line x1="100" y1="106" x2="100" y2="114" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="115" y1="106" x2="115" y2="114" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="130" y1="106" x2="130" y2="114" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="145" y1="106" x2="145" y2="114" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="160" y1="106" x2="160" y2="114" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="175" y1="106" x2="175" y2="114" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="190" y1="106" x2="190" y2="114" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- zipper pull -->
+  <rect x="195" y="106" width="12" height="8" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

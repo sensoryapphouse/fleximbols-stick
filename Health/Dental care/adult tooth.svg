@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="72.73 75.29 366.55 366.55">
+<!-- adult tooth: tall crown + two long roots -->
+<path d="M 174 232 Q 162 118 256 102 Q 350 118 338 232 L 320 232 Q 314 364 288 408 Q 270 430 264 372 Q 256 336 248 372 Q 242 430 224 408 Q 198 364 192 232 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- gum line -->
+<line x1="178" y1="232" x2="334" y2="232" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 22"/>
+<!-- enamel groove -->
+<path d="M 256 130 L 256 214 M 214 158 Q 256 184 298 158" fill="none" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+</svg>

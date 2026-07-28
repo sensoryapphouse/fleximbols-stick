@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Phone body -->
+  <rect x="75" y="18" width="140" height="208" rx="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Phone screen -->
+  <rect x="85" y="32" width="120" height="180" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Map road grid -->
+  <line x1="85" y1="110" x2="205" y2="110" stroke="#ffffff" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="85" y1="150" x2="205" y2="150" stroke="#ffffff" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="130" y1="32" x2="130" y2="212" stroke="#ffffff" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="168" y1="32" x2="168" y2="212" stroke="#ffffff" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Map blocks -->
+  <rect x="90" y="38" width="36" height="68" rx="3" fill="#b8b8b8"/>
+  <rect x="134" y="38" width="30" height="68" rx="3" fill="#b8b8b8"/>
+  <rect x="172" y="38" width="28" height="68" rx="3" fill="#b8b8b8"/>
+  <rect x="90" y="115" width="36" height="30" rx="3" fill="#b8b8b8"/>
+  <rect x="172" y="115" width="28" height="30" rx="3" fill="#b8b8b8"/>
+  <!-- Small car icon on map -->
+  <rect x="118" y="118" width="44" height="22" rx="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M124 118 Q128 110 138 108 L144 108 Q152 110 156 118 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="126" cy="140" r="6" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="154" cy="140" r="6" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Pink mustache on car (Lyft cue) -->
+  <path d="M128 116 Q140 112 152 116" fill="none" stroke="#f4a4b2" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pickup pin - PINK accent (key differentiator from uber-app) -->
+  <path d="M148 75 Q148 57 160 53 Q172 49 174 62 Q174 72 160 83 Q148 75 148 75 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="161" cy="63" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Second pin (dropoff) -->
+  <path d="M92 88 Q92 73 102 70 Q112 67 113 78 Q113 86 102 95 Q92 88 92 88 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="103" cy="78" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Bottom panel -->
+  <rect x="85" y="170" width="120" height="42" rx="0" fill="#ffffff"/>
+  <rect x="85" y="170" width="120" height="2" fill="#b8b8b8"/>
+  <!-- Pink CTA pill -->
+  <rect x="95" y="178" width="100" height="26" rx="13" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dots suggest label -->
+  <circle cx="122" cy="191" r="4" fill="#ffffff"/>
+  <circle cx="145" cy="191" r="4" fill="#ffffff"/>
+  <circle cx="168" cy="191" r="4" fill="#ffffff"/>
+  <!-- Home button -->
+  <rect x="126" y="220" width="38" height="5" rx="2" fill="#7f7f7f"/>
+</g></svg>

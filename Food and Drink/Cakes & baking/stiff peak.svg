@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl -->
+  <path d="M40 140 Q40 220 110 228 Q145 232 180 228 Q250 220 250 140 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="140" rx="105" ry="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sharp pointed peaks above rim (stiff - tall, narrow, pointed straight up) -->
+  <path d="M50 144 L78 90 L100 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M95 144 L130 60 L160 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M155 144 L185 70 L215 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M210 144 L232 95 L246 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Whisk lifted to the right with peaked stiff cream stuck on it (peak straight up) -->
+  <!-- (peaks themselves are enough; add whisk on side to differentiate from soft-peak via tall sharp triangles) -->
+  <rect x="258" y="20" width="12" height="44" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <path d="M257 64 Q250 90 256 110" fill="none" stroke="#7f7f7f" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M271 64 Q278 90 272 110" fill="none" stroke="#7f7f7f" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Stiff peak tip on whisk -->
+  <path d="M256 110 L264 76 L272 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+</g></svg>

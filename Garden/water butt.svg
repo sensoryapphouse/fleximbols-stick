@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stocky shorter barrel body -->
+  <rect x="80" y="85" width="130" height="115" rx="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Barrel top ellipse -->
+  <ellipse cx="145" cy="85" rx="65" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Barrel bands -->
+  <line x1="80" y1="118" x2="210" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="153" x2="210" y2="153" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="185" x2="210" y2="185" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lid/cover hint on top -->
+  <ellipse cx="145" cy="84" rx="50" ry="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- TAP/SPIGOT - prominent feature at base center -->
+  <rect x="130" y="191" width="30" height="14" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tap handle (horizontal lever) -->
+  <line x1="118" y1="198" x2="142" y2="198" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Tap spout pointing down -->
+  <line x1="162" y1="196" x2="174" y2="208" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Water drop from tap -->
+  <ellipse cx="174" cy="216" rx="5" ry="6" fill="#2a4ec0"/>
+  <!-- Downspout from top -->
+  <rect x="180" y="30" width="14" height="58" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Ground -->
+  <line x1="55" y1="215" x2="235" y2="215" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Raised on small plinth/bricks for clearance -->
+  <rect x="100" y="208" width="90" height="10" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

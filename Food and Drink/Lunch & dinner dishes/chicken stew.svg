@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pot body (lighter coloured - cream/tan, not cast iron) -->
+  <path d="M45,110 L55,200 Q60,220 145,225 Q230,220 235,200 L245,110 Q220,128 145,133 Q70,128 45,110 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pot rim top -->
+  <ellipse cx="145" cy="112" rx="100" ry="22" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- LIGHT YELLOW broth surface (key distinction from beef stew) -->
+  <ellipse cx="145" cy="118" rx="88" ry="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Broth surface shimmer - lighter yellow highlights -->
+  <ellipse cx="118" cy="114" rx="20" ry="10" fill="#fff200" stroke="none"/>
+  <ellipse cx="168" cy="116" rx="18" ry="9" fill="#fff200" stroke="none"/>
+  <!-- Chicken chunk 1 - pale/white cooked chicken pieces -->
+  <path d="M88,106 Q80,98 84,90 Q88,82 98,84 Q108,86 106,97 Q104,108 88,106 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- Chicken chunk 2 (slightly golden from broth) -->
+  <path d="M152,104 Q145,96 148,88 Q151,80 161,82 Q171,84 169,95 Q167,106 152,104 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- Chicken chunk 3 -->
+  <path d="M185,110 Q178,103 181,95 Q184,87 193,89 Q202,91 200,101 Q198,111 185,110 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- Carrot slices in broth -->
+  <ellipse cx="116" cy="108" rx="10" ry="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="142" cy="105" rx="9" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Celery pieces (green) -->
+  <rect x="105" y="98" width="8" height="5" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="165" y="96" width="8" height="5" rx="2" fill="#137827" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Pea dots in yellow broth -->
+  <circle cx="130" cy="114" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="168" cy="112" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="175" cy="107" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pot handles (lighter coloured) -->
+  <path d="M45,110 Q30,108 26,120 Q22,132 35,136 Q45,138 50,130" fill="none" stroke="#e6b98a" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M245,110 Q260,108 264,120 Q268,132 255,136 Q245,138 240,130" fill="none" stroke="#e6b98a" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- Chicken silhouette (small, bottom-right) -->
+  <!-- Chicken body -->
+  <ellipse cx="245" cy="185" rx="18" ry="13" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Chicken wing suggestion -->
+  <path d="M232,183 Q228,178 234,175 Q240,172 242,178" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Chicken head -->
+  <circle cx="260" cy="176" r="9" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Beak -->
+  <path d="M266,176 L273,175 L266,179 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <circle cx="262" cy="174" r="2" fill="#000000"/>
+  <!-- Comb -->
+  <path d="M258,168 Q260,163 262,168" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Wattle -->
+  <ellipse cx="264" cy="181" rx="4" ry="3" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Chicken legs -->
+  <line x1="238" y1="197" x2="236" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="248" y1="198" x2="248" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tail feathers -->
+  <path d="M227,183 Q220,178 222,172" fill="none" stroke="#e6b98a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M226,186 Q218,184 219,176" fill="none" stroke="#f5e7c4" stroke-width="5.18" stroke-linecap="round"/>
+</g></svg>

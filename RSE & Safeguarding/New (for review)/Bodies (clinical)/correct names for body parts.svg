@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata>
+<!-- neutral whole-body front outline with marker dots to several regions -->
+<!-- legs -->
+<path d="M 232 300 L 224 470 Q 224 480 234 480 L 248 480 Q 254 480 254 470 L 256 360 L 258 470 Q 258 480 264 480 L 278 480 Q 288 480 288 470 L 280 300 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- arms -->
+<path d="M 214 200 L 188 320 Q 186 330 196 332 Q 206 332 208 322 L 230 210 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 298 200 L 324 320 Q 326 330 316 332 Q 306 332 304 322 L 282 210 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- torso -->
+<path d="M 222 196 L 290 196 Q 298 196 298 206 L 292 300 Q 256 312 220 300 L 214 206 Q 214 196 222 196 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neck -->
+<rect x="244" y="166" width="24" height="34" rx="8" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9"/>
+<!-- head -->
+<circle id="h1" data-fig="ma" cx="256" cy="120" r="46" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9"/>
+<!-- marker dots + thin grey leader lines to regions -->
+<!-- head -->
+<circle cx="176" cy="100" r="9" fill="#2f6db0" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="185" y1="103" x2="216" y2="116" stroke="#9aa3ad" stroke-width="4" stroke-linecap="round"/>
+<!-- chest -->
+<circle cx="350" cy="220" r="9" fill="#4a9d3f" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="341" y1="222" x2="294" y2="232" stroke="#9aa3ad" stroke-width="4" stroke-linecap="round"/>
+<!-- tummy -->
+<circle cx="170" cy="270" r="9" fill="#e8a33d" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="179" y1="271" x2="220" y2="276" stroke="#9aa3ad" stroke-width="4" stroke-linecap="round"/>
+<!-- private region -->
+<circle cx="352" cy="312" r="9" fill="#7a5fb0" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="343" y1="312" x2="284" y2="306" stroke="#9aa3ad" stroke-width="4" stroke-linecap="round"/>
+<!-- leg -->
+<circle cx="168" cy="400" r="9" fill="#e0473c" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="177" y1="400" x2="232" y2="400" stroke="#9aa3ad" stroke-width="4" stroke-linecap="round"/>
+</svg>

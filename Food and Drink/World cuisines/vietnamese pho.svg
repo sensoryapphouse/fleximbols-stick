@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl base -->
+  <ellipse cx="145" cy="195" rx="105" ry="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl body -->
+  <path d="M50 120 Q40 195 145 210 Q250 195 240 120 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Broth (clear amber) -->
+  <path d="M60 130 Q55 190 145 200 Q235 190 230 130 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="120" rx="95" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Noodles - flat rice noodles -->
+  <path d="M80 145 Q110 135 145 145 Q175 155 210 145" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M75 158 Q110 148 145 158 Q178 168 215 158" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M80 170 Q112 160 145 170 Q177 180 210 170" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Beef slices -->
+  <ellipse cx="100" cy="140" rx="18" ry="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-15 100 140)"/>
+  <ellipse cx="125" cy="133" rx="18" ry="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-10 125 133)"/>
+  <!-- Bean sprouts -->
+  <line x1="185" y1="155" x2="195" y2="140" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="192" y1="158" x2="205" y2="143" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="195" cy="139" r="4" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="205" cy="142" r="4" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Basil sprig -->
+  <line x1="170" y1="115" x2="168" y2="80" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="160" cy="90" rx="10" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-30 160 90)"/>
+  <ellipse cx="176" cy="85" rx="10" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 176 85)"/>
+  <ellipse cx="167" cy="78" rx="9" ry="6" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-10 167 78)"/>
+  <!-- Lime wedge -->
+  <path d="M205 95 Q220 80 230 95 Q220 108 205 95 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M207 95 Q220 83 228 95" fill="none" stroke="#529929" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="218" y1="80" x2="218" y2="95" stroke="#529929" stroke-width="2.96"/>
+</g></svg>

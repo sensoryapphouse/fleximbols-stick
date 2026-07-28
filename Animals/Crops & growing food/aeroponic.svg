@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- chamber box -->
+  <rect x="55" y="25" width="180" height="110" rx="8" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- chamber lid -->
+  <rect x="55" y="25" width="180" height="22" rx="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- net pot holes in lid -->
+  <ellipse cx="105" cy="36" rx="14" ry="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="36" rx="14" ry="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="185" cy="36" rx="14" ry="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- plant stems above lid -->
+  <line x1="105" y1="36" x2="105" y2="22" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="92" cy="16" rx="16" ry="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 92 16)"/>
+  <ellipse cx="118" cy="13" rx="16" ry="9" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 118 13)"/>
+  <line x1="145" y1="36" x2="145" y2="20" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="132" cy="14" rx="16" ry="9" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 132 14)"/>
+  <ellipse cx="158" cy="12" rx="16" ry="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 158 12)"/>
+  <line x1="185" y1="36" x2="185" y2="22" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="172" cy="16" rx="16" ry="9" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 172 16)"/>
+  <ellipse cx="198" cy="13" rx="16" ry="9" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 198 13)"/>
+  <!-- roots hanging inside chamber -->
+  <!-- left plant roots -->
+  <path d="M105,47 Q100,68 98,88" fill="none" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M105,47 Q112,72 108,95" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M105,47 Q95,80 90,105" fill="none" stroke="#eed5b6" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M105,47 Q118,80 115,108" fill="none" stroke="#e6b98a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- center plant roots -->
+  <path d="M145,47 Q140,70 138,92" fill="none" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,47 Q150,72 152,96" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,47 Q135,82 132,110" fill="none" stroke="#eed5b6" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M145,47 Q155,82 158,108" fill="none" stroke="#e6b98a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- right plant roots -->
+  <path d="M185,47 Q180,68 178,90" fill="none" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M185,47 Q192,72 190,95" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M185,47 Q175,82 172,108" fill="none" stroke="#eed5b6" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M185,47 Q198,80 200,106" fill="none" stroke="#e6b98a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- spray nozzle left on chamber wall -->
+  <rect x="62" y="100" width="14" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="76,103 90,97 90,113" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- mist spray left -->
+  <line x1="90" y1="100" x2="105" y2="92" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="90" y1="105" x2="108" y2="102" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="90" y1="110" x2="105" y2="116" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- spray nozzle right on chamber wall -->
+  <rect x="214" y="100" width="14" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="214,103 200,97 200,113" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- mist spray right -->
+  <line x1="200" y1="100" x2="185" y2="92" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="200" y1="105" x2="182" y2="102" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="200" y1="110" x2="185" y2="116" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- water reservoir below -->
+  <rect x="75" y="148" width="140" height="30" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- pump pipe -->
+  <rect x="138" y="135" width="14" height="20" rx="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- water level line -->
+  <line x1="82" y1="162" x2="208" y2="162" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- base legs -->
+  <rect x="85" y="178" width="12" height="40" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="193" y="178" width="12" height="40" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

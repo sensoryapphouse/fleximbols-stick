@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- tail fin (forked) at the left -->
+<path d="M 200 256 L 120 196 L 150 256 L 120 316 Z" fill="#a8adb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- dorsal fin on top -->
+<path d="M 248 188 Q 290 120 332 184 Z" fill="#a8adb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- belly/pelvic fin -->
+<path d="M 276 326 Q 300 372 332 328 Z" fill="#a8adb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body: head to the right, tail to the left -->
+<path d="M 180 256 Q 230 184 320 178 Q 392 174 412 256 Q 392 338 320 334 Q 230 328 180 256 Z" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pectoral fin -->
+<path d="M 352 272 Q 372 308 328 308 Z" fill="#a8adb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- eye near the head -->
+<circle cx="372" cy="234" r="17" fill="#e6e9ec" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="376" cy="234" r="8" fill="#33373d"/>
+<!-- mouth line at the head -->
+<path d="M 398 268 Q 408 274 408 282" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- GILL: red slits just behind the head (the named part) -->
+<path d="M 330 210 C 312 240 312 272 330 302" fill="none" stroke="#d63b46" stroke-width="11" stroke-linecap="round"/>
+<path d="M 308 216 C 292 244 292 268 308 296" fill="none" stroke="#d63b46" stroke-width="11" stroke-linecap="round"/>
+</svg>

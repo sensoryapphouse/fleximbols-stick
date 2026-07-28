@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- tote-bag-modern: large open-top rectangular tote shopper with two parallel carry handles -->
+  <!-- Left handle -->
+  <path d="M100 100 Q95 58 115 55 Q135 52 135 75" fill="none" stroke="#7d5e23" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right handle -->
+  <path d="M190 100 Q195 58 175 55 Q155 52 155 75" fill="none" stroke="#7d5e23" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bag body: trapezoid wider at bottom -->
+  <path d="M75 100 L80 215 L210 215 L215 100 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Open top edge line -->
+  <line x1="75" y1="100" x2="215" y2="100" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Left handle attachment bar -->
+  <rect x="88" y="95" width="26" height="10" rx="3" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right handle attachment bar -->
+  <rect x="176" y="95" width="26" height="10" rx="3" ry="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Front panel interior line (structural seam) -->
+  <path d="M90 115 L90 208" fill="none" stroke="#f2e40d" stroke-width="3.70"/>
+  <path d="M200 115 L200 208" fill="none" stroke="#f2e40d" stroke-width="3.70"/>
+  <!-- Bottom seam -->
+  <path d="M82 208 L208 208" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+</g></svg>

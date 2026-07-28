@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Electric unicycle: self-balancing single wheel, foot pegs on sides, handle on top -->
+  <!-- Tall main wheel -->
+  <circle cx="145" cy="155" r="65" fill="#000000" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="155" r="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tire tread marks -->
+  <path d="M 95 130 L 90 128 M 95 155 L 88 155 M 95 180 L 90 182 M 195 130 L 200 128 M 195 155 L 202 155 M 195 180 L 200 182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Central body/housing (electric module) -->
+  <rect x="120" y="115" width="50" height="80" rx="6" fill="#392170" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Power button / LED on body -->
+  <circle cx="145" cy="135" r="6" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="135" r="2" fill="#ffffff"/>
+  <!-- LED strip -->
+  <rect x="128" y="155" width="34" height="4" rx="1" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Left foot peg (extending out from body) -->
+  <rect x="80" y="165" width="42" height="14" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Right foot peg -->
+  <rect x="168" y="165" width="42" height="14" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Foot peg grip texture left -->
+  <path d="M 88 172 L 116 172" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 176 172 L 204 172" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Handle on top (trolley handle) -->
+  <path d="M 130 115 L 130 60 L 160 60 L 160 115" fill="none" stroke="#7f7f7f" stroke-width="13.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 130 115 L 130 60 L 160 60 L 160 115" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Handle grip -->
+  <rect x="128" y="55" width="34" height="10" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lightning bolt to indicate electric -->
+  <path d="M 50 85 L 38 110 L 48 110 L 42 130 L 60 105 L 50 105 L 56 85 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ramadan: crescent moon + star + lantern + date-fruit plate -->
+  <!-- Crescent moon (top left) -->
+  <circle cx="60" cy="55" r="32" fill="#fff200" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="75" cy="50" r="28" fill="#392170" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Star next to crescent -->
+  <path d="M120 50 L125 65 L140 65 L128 73 L133 88 L120 80 L107 88 L112 73 L100 65 L115 65 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Smaller stars -->
+  <path d="M155 25 L157 31 L163 31 L158 35 L160 41 L155 37 L150 41 L152 35 L147 31 L153 31 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M195 35 L197 41 L203 41 L198 45 L200 51 L195 47 L190 51 L192 45 L187 41 L193 41 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <!-- Ramadan lantern (right side, hanging) -->
+  <!-- Hanging chain -->
+  <path d="M225 10 L225 35" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Top cap -->
+  <path d="M210 40 L240 40 L235 30 L215 30 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lantern body (geometric Islamic shape) -->
+  <path d="M205 45 L245 45 L240 110 L210 110 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Lantern glass panel (yellow glow) -->
+  <rect x="215" y="55" width="20" height="45" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Decorative cross pattern on lantern -->
+  <path d="M225 55 L225 100 M215 77 L235 77" stroke="#137827" stroke-width="3.56"/>
+  <!-- Lantern base -->
+  <path d="M203 110 L247 110 L243 122 L207 122 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lantern bottom finial -->
+  <path d="M220 122 L230 122 L228 132 L222 132 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- Date-fruit plate (bottom, for iftar) -->
+  <!-- Plate -->
+  <ellipse cx="120" cy="200" rx="75" ry="15" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="120" cy="195" rx="75" ry="13" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dates on plate (5 dates) -->
+  <ellipse cx="80" cy="190" rx="11" ry="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M75 185 Q80 178 85 185" fill="none" stroke="#392170" stroke-width="2.67"/>
+  <ellipse cx="100" cy="186" rx="11" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M95 181 Q100 174 105 181" fill="none" stroke="#392170" stroke-width="2.67"/>
+  <ellipse cx="120" cy="184" rx="11" ry="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M115 179 Q120 172 125 179" fill="none" stroke="#392170" stroke-width="2.67"/>
+  <ellipse cx="140" cy="186" rx="11" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M135 181 Q140 174 145 181" fill="none" stroke="#392170" stroke-width="2.67"/>
+  <ellipse cx="160" cy="190" rx="11" ry="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M155 185 Q160 178 165 185" fill="none" stroke="#392170" stroke-width="2.67"/>
+  <!-- Highlight on each date -->
+  <ellipse cx="78" cy="187" rx="2" ry="3" fill="#9d7246"/>
+  <ellipse cx="118" cy="181" rx="2" ry="3" fill="#9d7246"/>
+  <ellipse cx="158" cy="187" rx="2" ry="3" fill="#9d7246"/>
+</g></svg>

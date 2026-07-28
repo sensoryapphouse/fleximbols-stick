@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- spreadsheet column -->
+  <rect x="30" y="30" width="130" height="180" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- header -->
+  <rect x="30" y="30" width="130" height="28" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rows -->
+  <line x1="30" y1="86" x2="160" y2="86" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="30" y1="124" x2="160" y2="124" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="30" y1="162" x2="160" y2="162" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- ascending bars: small to large (going down isn't ascending; we'll do small at top to bigger? for A->Z top is A small) -->
+  <!-- A row (smallest content bar) -->
+  <rect x="44" y="68" width="24" height="14" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- B row -->
+  <rect x="44" y="100" width="44" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- C row -->
+  <rect x="44" y="136" width="70" height="20" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- D row -->
+  <rect x="44" y="176" width="96" height="22" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- A→Z arrow up on right side -->
+  <!-- A letter top -->
+  <path d="M 196 70 L 210 38 L 224 70 M 202 58 L 218 58" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Z letter bottom -->
+  <path d="M 196 174 L 224 174 L 196 206 L 224 206" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- arrow shaft and head pointing up -->
+  <path d="M 250 200 L 250 90" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M 240 100 L 250 80 L 260 100" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- SORT lettering across top header -->
+  <!-- ascending sort arrows (replaces SORT text) -->
+  <path d="M230 70 L230 120 M224 78 L230 70 L236 78" fill="none" stroke="#2a4ec0" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M250 70 L250 120 M244 78 L250 70 L256 78" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

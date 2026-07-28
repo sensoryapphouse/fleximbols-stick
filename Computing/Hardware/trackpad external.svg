@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- trackpad shadow / desk indicator -->
+  <rect x="30" y="200" width="230" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- trackpad body (slightly tilted in perspective) -->
+  <path d="M 35 60 L 255 50 L 260 195 L 30 200 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- subtle inner surface line -->
+  <path d="M 45 70 L 245 62 L 250 185 L 42 190 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <!-- multi-touch gesture lines: 3 fingers swiping -->
+  <!-- finger 1 path -->
+  <path d="M 80 100 Q 115 130 140 165" fill="none" stroke="#7c3fac" stroke-width="7.11" stroke-linecap="round"/>
+  <circle cx="80" cy="100" r="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- finger 2 path -->
+  <path d="M 130 90 Q 165 120 185 160" fill="none" stroke="#2a4ec0" stroke-width="7.11" stroke-linecap="round"/>
+  <circle cx="130" cy="90" r="9" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- finger 3 path -->
+  <path d="M 180 85 Q 210 115 225 155" fill="none" stroke="#67832d" stroke-width="7.11" stroke-linecap="round"/>
+  <circle cx="180" cy="85" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bottom of swipe markers -->
+  <circle cx="140" cy="165" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="185" cy="160" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="225" cy="155" r="5" fill="#67832d" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

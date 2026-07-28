@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Central server rack (target) -->
+  <rect x="115" y="80" width="60" height="110" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Server units -->
+  <rect x="122" y="90" width="46" height="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="122" y="112" width="46" height="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="122" y="134" width="46" height="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="122" y="156" width="46" height="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Server LEDs -->
+  <circle cx="160" cy="98" r="2.5" fill="#d01424"/>
+  <circle cx="160" cy="120" r="2.5" fill="#d01424"/>
+  <circle cx="160" cy="142" r="2.5" fill="#d01424"/>
+  <circle cx="160" cy="164" r="2.5" fill="#d01424"/>
+  <!-- Slot lines -->
+  <line x1="128" y1="98" x2="150" y2="98" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="128" y1="120" x2="150" y2="120" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="128" y1="142" x2="150" y2="142" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="128" y1="164" x2="150" y2="164" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Downed indicator: red X over server -->
+  <line x1="100" y1="65" x2="190" y2="200" stroke="#f8130d" stroke-width="10.67" stroke-linecap="round"/>
+  <line x1="190" y1="65" x2="100" y2="200" stroke="#f8130d" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- Attacking arrows - top left -->
+  <path d="M 20,30 L 105,90 L 95,85 M 105,90 L 100,80" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top -->
+  <path d="M 60,15 L 130,80 L 122,77 M 130,80 L 128,72" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top right -->
+  <path d="M 150,15 L 155,80 L 148,75 M 155,80 L 162,75" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right top -->
+  <path d="M 270,30 L 180,90 L 188,85 M 180,90 L 185,80" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right middle -->
+  <path d="M 275,135 L 180,135 L 188,130 M 180,135 L 188,140" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right bottom -->
+  <path d="M 270,210 L 185,175 L 188,182 M 185,175 L 192,172" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bottom -->
+  <path d="M 150,225 L 150,195 L 145,202 M 150,195 L 155,202" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left middle -->
+  <path d="M 15,135 L 110,135 L 102,130 M 110,135 L 102,140" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Source nodes (small circles representing botnet) -->
+  <circle cx="20" cy="30" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="60" cy="15" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="150" cy="15" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="270" cy="30" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="275" cy="135" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="270" cy="210" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="150" cy="225" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="15" cy="135" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

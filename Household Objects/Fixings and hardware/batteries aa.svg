@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shadow line under batteries -->
+  <path d="M40 215 L250 215" fill="none" stroke="#b8b8b8" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- BATTERY 1 (left) -->
+  <!-- positive tip -->
+  <rect x="100" y="35" width="20" height="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- body -->
+  <rect x="85" y="45" width="50" height="160" rx="4" ry="4" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- top stripe -->
+  <rect x="85" y="55" width="50" height="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- bottom stripe -->
+  <rect x="85" y="190" width="50" height="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- AA label (drawn as paths inside white panel) -->
+  <rect x="90" y="100" width="40" height="45" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- A 1 -->
+  <path d="M97 138 L103 110 L109 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M99 128 L107 128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- A 2 -->
+  <path d="M114 138 L120 110 L126 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M116 128 L124 128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- + sign on top -->
+  <path d="M110 70 L110 80 M105 75 L115 75" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- - sign on bottom -->
+  <path d="M105 180 L115 180" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- BATTERY 2 (right) -->
+  <!-- positive tip -->
+  <rect x="170" y="35" width="20" height="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- body -->
+  <rect x="155" y="45" width="50" height="160" rx="4" ry="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- top stripe -->
+  <rect x="155" y="55" width="50" height="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- bottom stripe -->
+  <rect x="155" y="190" width="50" height="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- AA label panel -->
+  <rect x="160" y="100" width="40" height="45" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- A 1 -->
+  <path d="M167 138 L173 110 L179 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M169 128 L177 128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- A 2 -->
+  <path d="M184 138 L190 110 L196 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M186 128 L194 128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- + sign -->
+  <path d="M180 70 L180 80 M175 75 L185 75" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- - sign -->
+  <path d="M175 180 L185 180" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- SIZE INDICATOR: scale bar showing AA size -->
+  <path d="M225 45 L225 205" fill="none" stroke="#4d4d4d" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M220 45 L230 45" fill="none" stroke="#4d4d4d" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M220 205 L230 205" fill="none" stroke="#4d4d4d" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- tick marks -->
+  <path d="M223 85 L227 85" fill="none" stroke="#4d4d4d" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M223 125 L227 125" fill="none" stroke="#4d4d4d" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M223 165 L227 165" fill="none" stroke="#4d4d4d" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- small AA tag at bottom-left to reinforce size -->
+  <rect x="40" y="175" width="34" height="30" rx="3" ry="3" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M46 199 L51 181 L56 199" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M47 192 L55 192" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M58 199 L63 181 L68 199" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M59 192 L67 192" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

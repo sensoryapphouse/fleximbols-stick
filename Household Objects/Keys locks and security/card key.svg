@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hotel keycard: flat card with magnetic stripe + contactless wave symbol -->
+  <!-- Card body -->
+  <rect x="50" y="68" width="190" height="118" rx="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Card chip (contact chip, golden) -->
+  <rect x="74" y="92" width="38" height="30" rx="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Chip contact lines -->
+  <line x1="82" y1="92" x2="82" y2="122" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="92" y1="92" x2="92" y2="122" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="102" y1="92" x2="102" y2="122" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="74" y1="106" x2="112" y2="106" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Magnetic stripe across bottom of card -->
+  <rect x="50" y="155" width="190" height="16" rx="0" fill="#000000"/>
+  <!-- Magnetic stripe sheen -->
+  <rect x="50" y="155" width="190" height="5" fill="#4d4d4d"/>
+  <!-- Contactless wave symbol (arcs, right side of card) -->
+  <path d="M165 107 Q178 107 178 120 Q178 133 165 133" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M165 96 Q194 96 194 120 Q194 144 165 144" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Center dot of contactless symbol -->
+  <circle cx="161" cy="120" r="5" fill="#ffffff" stroke="none"/>
+  <!-- Hotel key icon - small diamond or star highlight on card -->
+  <rect x="194" y="88" width="28" height="18" rx="5" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small key silhouette in that box -->
+  <circle cx="204" cy="95" r="5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="207" y="93" width="12" height="4" rx="1" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="215" y="97" width="4" height="3" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

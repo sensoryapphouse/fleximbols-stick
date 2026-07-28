@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- microdermabrasion: handheld diamond-tip device exfoliating skin + before/after cheek -->
+
+  <!-- before cheek (left) - rough, with dots/blemishes -->
+  <path d="M 30,90 Q 25,120 30,150 Q 35,180 65,185 Q 78,185 80,170 L 80,105 Q 78,90 65,90 Q 45,88 30,90 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="14.82" stroke-linejoin="round"/>
+  <!-- blemish dots -->
+  <circle cx="45" cy="115" r="2.5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="58" cy="125" r="2.5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="140" r="2.5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="65" cy="148" r="2.5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="42" cy="158" r="2.5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="55" cy="170" r="2.5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- texture lines -->
+  <path d="M 40,130 Q 50,128 60,130" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 40,165 Q 50,163 60,165" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- "before" arrow -->
+  <line x1="50" y1="200" x2="50" y2="215" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <polygon points="45,213 55,213 50,222" fill="#000000"/>
+
+  <!-- after cheek (right) - smooth, clean -->
+  <path d="M 215,90 Q 210,120 215,150 Q 220,180 250,185 Q 263,185 265,170 L 265,105 Q 263,90 250,90 Q 230,88 215,90 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="14.82" stroke-linejoin="round"/>
+  <!-- sparkle / shine marks (smooth) -->
+  <path d="M 230,110 L 234,114 L 230,118 L 226,114 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 250,140 L 254,144 L 250,148 L 246,144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 240,165 L 244,169 L 240,173 L 236,169 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- handheld device (center) - diamond-tip wand -->
+  <!-- device handle (angled) -->
+  <rect x="120" y="40" width="40" height="110" rx="14" ry="14" fill="#90a7d6" stroke="#1a1a1a" stroke-width="14.82" stroke-linejoin="round" transform="rotate(15 140 95)"/>
+  <!-- device button / indicator -->
+  <circle cx="148" cy="80" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- grip lines -->
+  <line x1="125" y1="105" x2="143" y2="110" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" transform="rotate(15 140 95)"/>
+  <line x1="125" y1="115" x2="143" y2="120" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" transform="rotate(15 140 95)"/>
+  <line x1="125" y1="125" x2="143" y2="130" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" transform="rotate(15 140 95)"/>
+
+  <!-- diamond tip (bottom of device) -->
+  <polygon points="142,150 130,165 145,180 160,165" fill="#dff3fd" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round"/>
+  <!-- diamond facets -->
+  <line x1="142" y1="150" x2="145" y2="180" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="130" y1="165" x2="160" y2="165" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- sparkles around diamond tip -->
+  <path d="M 110,160 L 114,164 L 110,168 L 106,164 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 175,155 L 179,159 L 175,163 L 171,159 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- exfoliation arrows showing motion -->
+  <path d="M 100,200 Q 130,210 160,200" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <polygon points="155,196 163,200 155,205" fill="#000000"/>
+</g></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- bleach: thick angled-neck bottle, white body, warning triangle label -->
+<!-- bottle body with angled shoulder/neck -->
+<path d="M 184 226 L 184 388 Q 184 414 210 414 L 302 414 Q 328 414 328 388 L 328 226 Q 328 200 304 196 L 286 160 L 286 132 L 252 132 L 252 192 Q 210 196 196 210 Q 184 214 184 226 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cap on the upright neck -->
+<rect x="246" y="98" width="46" height="38" rx="6" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9"/>
+<!-- label panel -->
+<rect x="198" y="248" width="116" height="130" rx="10" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="7"/>
+<!-- warning triangle on label -->
+<path d="M 256 268 L 296 338 L 216 338 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<line x1="256" y1="290" x2="256" y2="318" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<circle cx="256" cy="330" r="4.5" fill="#1a1a1a"/>
+</svg>

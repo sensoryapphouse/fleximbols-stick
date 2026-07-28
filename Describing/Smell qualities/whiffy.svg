@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 48.25 376.24 376.24">
+<!-- WHIFFY: old trainer/shoe giving off a faint bad smell with a fly -->
+<!-- stink waves -->
+<g fill="none" stroke="#7a8b53" stroke-width="11" stroke-linecap="round">
+<path d="M 180 196 q -22 -24 0 -48 q 22 -24 0 -48"/>
+<path d="M 244 178 q -22 -24 0 -48 q 22 -24 0 -48"/>
+</g>
+<!-- fly -->
+<g>
+<ellipse cx="316" cy="150" rx="13" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 316 143 q -24 -20 -40 -7" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 316 143 q 24 -20 40 -7" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- shoe sole -->
+<path d="M 96 392 L 392 392 Q 416 392 416 372 L 414 358 L 110 358 Q 96 358 96 372 Z" fill="#d7dde2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- shoe upper -->
+<path d="M 110 358 L 110 300 Q 110 268 152 264 L 252 256 Q 300 252 332 282 Q 380 300 410 330 Q 420 344 414 358 Z" fill="#5a8fd6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tongue / opening -->
+<path d="M 152 264 Q 200 280 232 286 Q 222 320 200 326 Q 168 320 150 300 Z" fill="#cfe0f6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- laces -->
+<line x1="244" y1="288" x2="300" y2="304" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="248" y1="306" x2="306" y2="322" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</svg>

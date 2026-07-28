@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- right backplate (fixed) -->
+<rect x="300" y="206" width="86" height="100" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="343" cy="232" r="7" fill="#1a1a1a"/>
+<circle cx="343" cy="280" r="7" fill="#1a1a1a"/>
+<!-- staple loop on right plate -->
+<rect x="316" y="244" width="34" height="26" rx="6" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<!-- left backplate (on swinging bar) -->
+<rect x="126" y="206" width="74" height="100" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="163" cy="232" r="7" fill="#1a1a1a"/>
+<circle cx="163" cy="280" r="7" fill="#1a1a1a"/>
+<!-- hasp bar -->
+<path d="M 170 232 L 332 232 L 332 280 L 300 280 L 300 256 L 170 256 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pivot -->
+<circle cx="170" cy="256" r="12" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Modern chocolate bar: rectangular bar with broken squares + partial wrapper, cleaner modern look -->
+
+  <!-- Wrapper background (right half, peeled back) -->
+  <path d="M170,28 L260,28 Q272,28 272,40 L272,210 Q272,222 260,222 L180,222 Q176,210 178,180 Q180,140 178,100 Q176,60 170,28 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Wrapper foil tear edge highlight -->
+  <path d="M176,38 Q178,80 178,120 Q178,160 176,210" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Foil inside wrapper (silver showing where bar is broken) -->
+  <path d="M186,40 L266,40 L266,210 L186,210 Z" fill="#dff3fd" stroke="none"/>
+  <path d="M186,40 L266,40" stroke="#b8b8b8" stroke-width="2.67"/>
+
+  <!-- Chocolate bar body (3 rows x 2 columns of squares visible, modern flat) -->
+  <!-- Outer bar shape -->
+  <rect x="30" y="38" width="160" height="170" rx="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+
+  <!-- Square segments (2x3 grid) -->
+  <rect x="40" y="48" width="68" height="50" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <rect x="114" y="48" width="68" height="50" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <rect x="40" y="104" width="68" height="50" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <rect x="114" y="104" width="68" height="50" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Bottom-left square broken off (irregular jagged edge instead of square) -->
+  <path d="M40,160 L100,160 L108,170 L106,184 L96,196 L84,200 L70,198 L52,200 L42,194 L40,182 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Bottom-right square (intact) -->
+  <rect x="114" y="160" width="68" height="40" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+
+  <!-- Broken-off chocolate chunk (lying on right, on the foil) -->
+  <path d="M196,156 L240,148 L256,162 L254,184 L232,196 L210,190 L196,180 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Chunk inner shadow -->
+  <path d="M204,166 L240,158 L250,168 L246,182 L228,188 L210,180 Z" fill="#9d7246" stroke="none"/>
+
+  <!-- Small chocolate crumb -->
+  <ellipse cx="220" cy="206" rx="6" ry="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="252" cy="200" rx="4" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- Wrapper logo-style accent (modern minimal stripe) -->
+  <rect x="190" y="60" width="76" height="12" rx="3" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="190" y="80" width="76" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- Highlight stripe on chocolate squares (sheen) -->
+  <line x1="46" y1="56" x2="100" y2="56" stroke="#7d5e23" stroke-width="3.56"/>
+  <line x1="120" y1="56" x2="176" y2="56" stroke="#7d5e23" stroke-width="3.56"/>
+  <line x1="46" y1="112" x2="100" y2="112" stroke="#7d5e23" stroke-width="3.56"/>
+  <line x1="120" y1="112" x2="176" y2="112" stroke="#7d5e23" stroke-width="3.56"/>
+</g></svg>

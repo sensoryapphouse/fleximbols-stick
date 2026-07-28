@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- paella pan: shallow round pan with two handles -->
+<circle cx="256" cy="276" r="22" fill="none"/>
+<!-- handles -->
+<circle cx="86" cy="276" r="26" fill="none" stroke="#9aa0a6" stroke-width="14"/>
+<circle cx="426" cy="276" r="26" fill="none" stroke="#9aa0a6" stroke-width="14"/>
+<!-- pan body -->
+<circle cx="256" cy="276" r="158" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9"/>
+<!-- saffron rice -->
+<circle cx="256" cy="276" r="134" fill="#f4c430" stroke="#1a1a1a" stroke-width="7"/>
+<!-- toppings: prawns, peas, peppers, mussels -->
+<!-- prawn (curled, orange) -->
+<path d="M 188 222 Q 168 232 174 256 Q 182 276 206 270 Q 196 252 206 238 Q 200 224 188 222 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 196 312 Q 176 322 182 346 Q 190 366 214 360 Q 204 342 214 328 Q 208 314 196 312 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- red pepper strips -->
+<rect x="276" y="216" width="64" height="14" rx="7" fill="#d63b46" stroke="#1a1a1a" stroke-width="5" transform="rotate(20 308 223)"/>
+<rect x="262" y="320" width="64" height="14" rx="7" fill="#d63b46" stroke="#1a1a1a" stroke-width="5" transform="rotate(-16 294 327)"/>
+<!-- mussel shells -->
+<path d="M 312 276 Q 330 262 352 272 Q 346 296 320 296 Q 308 288 312 276 Z" fill="#3a2a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- peas -->
+<g fill="#5aa83c" stroke="#1a1a1a" stroke-width="4">
+<circle cx="232" cy="250" r="11"/><circle cx="262" cy="288" r="11"/><circle cx="226" cy="306" r="11"/><circle cx="298" cy="250" r="11"/>
+</g>
+</g></svg>

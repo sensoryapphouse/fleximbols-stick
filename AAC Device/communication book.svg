@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- left page -->
+<path d="M 92 138 L 256 168 L 256 384 L 92 372 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right page -->
+<path d="M 420 138 L 256 168 L 256 384 L 420 372 Z" fill="#fff6cf" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="256" y1="168" x2="256" y2="384" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- left cells -->
+<g stroke="#1a1a1a" stroke-width="6">
+<rect x="112" y="186" width="54" height="46" rx="5" fill="#f4c430"/><rect x="174" y="192" width="54" height="46" rx="5" fill="#8cc152"/>
+<rect x="112" y="244" width="54" height="46" rx="5" fill="#3d7fb5"/><rect x="174" y="250" width="54" height="46" rx="5" fill="#e85a8a"/>
+<rect x="112" y="302" width="54" height="46" rx="5" fill="#e08a3a"/><rect x="174" y="308" width="54" height="46" rx="5" fill="#f4c430"/>
+</g>
+<!-- right cells -->
+<g stroke="#1a1a1a" stroke-width="6">
+<rect x="284" y="192" width="54" height="46" rx="5" fill="#e85a8a"/><rect x="346" y="186" width="54" height="46" rx="5" fill="#3d7fb5"/>
+<rect x="284" y="250" width="54" height="46" rx="5" fill="#8cc152"/><rect x="346" y="244" width="54" height="46" rx="5" fill="#f4c430"/>
+<rect x="284" y="308" width="54" height="46" rx="5" fill="#f4c430"/><rect x="346" y="302" width="54" height="46" rx="5" fill="#e08a3a"/>
+</g>
+</svg>

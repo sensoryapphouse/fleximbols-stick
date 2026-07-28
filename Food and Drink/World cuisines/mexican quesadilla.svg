@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate -->
+  <ellipse cx="145" cy="215" rx="125" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Quesadilla cut into wedges — showing from slight above angle -->
+  <!-- Full folded half-circle quesadilla split into 3 wedge cuts -->
+
+  <!-- WEDGE 1 (bottom-left) -->
+  <path d="M145 140 L55 195 Q90 220 145 215 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tortilla edge crust -->
+  <path d="M55 195 Q75 210 145 215" fill="none" stroke="#e6b98a" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Melted cheese stringing out -->
+  <path d="M100 197 Q108 183 115 175" fill="none" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M95 200 Q103 185 110 177" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- WEDGE 2 (bottom-right) -->
+  <path d="M145 140 L145 215 Q200 215 235 195 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tortilla edge crust right -->
+  <path d="M145 215 Q200 218 235 195" fill="none" stroke="#e6b98a" stroke-width="8.88" stroke-linecap="round"/>
+
+  <!-- WEDGE 3 (top center — pointing up) -->
+  <path d="M145 140 L55 195 L145 80 L235 195 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Cheese fill visible inside wedges -->
+  <path d="M145 140 Q110 165 90 185" fill="none" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M145 140 Q180 165 200 185" fill="none" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+
+  <!-- Melted cheese layer fills on wedge faces -->
+  <!-- Wedge 3 cheese bubbles -->
+  <ellipse cx="145" cy="155" rx="25" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="120" cy="170" rx="18" ry="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="170" cy="170" rx="18" ry="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+
+  <!-- Cheese strings visible at cut seams -->
+  <path d="M145 140 Q138 128 132 118" fill="none" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M145 140 Q152 128 158 118" fill="none" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M145 140 Q140 126 144 112" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Cut line dividers (dark) -->
+  <line x1="145" y1="140" x2="55" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="140" x2="235" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="140" x2="145" y2="75" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Char marks on tortilla surface -->
+  <ellipse cx="100" cy="185" rx="8" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="190" cy="183" rx="8" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="145" cy="110" rx="8" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

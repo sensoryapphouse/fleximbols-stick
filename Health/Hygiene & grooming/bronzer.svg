@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bronzer modern: warm brown compact + large fluffy brush + sun-kissed swatch -->
+  <!-- Sun-kissed swatch (left side, smear of bronze on skin) -->
+  <ellipse cx="56" cy="130" rx="36" ry="78" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Bronze swatch streak on skin -->
+  <path d="M 32 102 Q 56 96 80 102 Q 80 138 56 158 Q 32 138 32 102 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lighter inner streak -->
+  <path d="M 42 110 Q 56 106 70 110 Q 70 134 56 146 Q 42 134 42 110 Z" fill="#ff9900" stroke="none"/>
+  <!-- Streak edge feathering -->
+  <line x1="40" y1="120" x2="36" y2="124" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="76" y1="118" x2="80" y2="124" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Bronzer compact (round, warm brown) bottom right -->
+  <circle cx="210" cy="170" r="56" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Inner rim -->
+  <circle cx="210" cy="170" r="46" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Powder pan -->
+  <circle cx="210" cy="170" r="38" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lighter powder centre -->
+  <circle cx="210" cy="170" r="28" fill="#ff9900" stroke="none"/>
+  <!-- Matte powder surface lines (no shine) -->
+  <line x1="184" y1="166" x2="236" y2="166" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="180" y1="172" x2="240" y2="172" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="184" y1="178" x2="236" y2="178" stroke="#e65a00" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Large fluffy brush (top right, angled) -->
+  <g transform="rotate(20 170 80)">
+    <!-- Handle -->
+    <rect x="160" y="74" width="120" height="14" rx="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40"/>
+    <!-- Ferrule -->
+    <rect x="156" y="70" width="14" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93"/>
+    <!-- Fluffy round brush head -->
+    <ellipse cx="130" cy="81" rx="34" ry="26" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+    <!-- Bristle wisps -->
+    <line x1="102" y1="68" x2="92" y2="60" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="98" y1="80" x2="86" y2="80" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="102" y1="94" x2="92" y2="102" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="116" y1="58" x2="112" y2="48" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="146" y1="58" x2="150" y2="48" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Powder dust between brush and compact -->
+  <circle cx="170" cy="146" r="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="178" cy="156" r="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

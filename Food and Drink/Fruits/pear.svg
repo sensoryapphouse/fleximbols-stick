@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- stalk -->
+<path d="M 256 158 Q 252 118 268 96" fill="none" stroke="#6b4a2b" stroke-width="14" stroke-linecap="round"/>
+<!-- leaf -->
+<path d="M 268 128 Q 328 96 348 138 Q 306 162 274 146 Q 262 140 268 128 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 284 138 Q 316 130 340 136" fill="none" stroke="#2e7d40" stroke-width="6" stroke-linecap="round"/>
+<!-- pear body (widened ~1.22x about centre x=256): narrow neck at top, widening to a round base -->
+<g transform="translate(256 0) scale(1.22 1) translate(-256 0)">
+<path d="M 256 150
+ C 232 150 224 186 234 216
+ C 244 244 226 258 210 286
+ C 188 322 186 380 226 412
+ C 264 442 306 428 320 384
+ C 336 336 316 292 292 262
+ C 278 244 288 216 292 200
+ C 300 168 284 150 256 150 Z" fill="#a8cf4e" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- shine highlight -->
+<path d="M 232 320 Q 226 366 250 400" fill="none" stroke="#c9e07a" stroke-width="8" stroke-linecap="round"/>
+</g>
+</g></svg>

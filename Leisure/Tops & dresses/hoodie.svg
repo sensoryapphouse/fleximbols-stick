@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="77.58 100.62 356.85 356.85">
+<!-- left sleeve -->
+<path d="M 166 196 L 104 220 L 116 340 L 168 330 L 178 250 Z" fill="#3f7a6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve -->
+<path d="M 346 196 L 408 220 L 396 340 L 344 330 L 334 250 Z" fill="#3f7a6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left ribbed cuff -->
+<rect x="106" y="316" width="56" height="28" rx="6" fill="#2c5a51" stroke="#1a1a1a" stroke-width="8"/>
+<!-- right ribbed cuff -->
+<rect x="350" y="316" width="56" height="28" rx="6" fill="#2c5a51" stroke="#1a1a1a" stroke-width="8"/>
+<!-- body -->
+<path d="M 166 196 L 200 176 L 312 176 L 346 196 L 334 250 L 340 392 L 256 402 L 172 392 L 178 250 Z" fill="#4b9182" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ribbed hem -->
+<path d="M 172 388 L 256 398 L 340 388 L 340 404 L 256 414 L 172 404 Z" fill="#2c5a51" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- hood -->
+<path d="M 200 176 Q 256 116 312 176 Q 284 200 256 200 Q 228 200 200 176 Z" fill="#3f7a6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hood inner -->
+<path d="M 220 178 Q 256 148 292 178 Q 256 192 220 178 Z" fill="#2c5a51" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- kangaroo pocket -->
+<path d="M 200 300 L 312 300 L 300 356 L 212 356 Z" fill="#3f7a6e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- drawstring left -->
+<line x1="240" y1="190" x2="236" y2="262" stroke="#fff6cf" stroke-width="7" stroke-linecap="round"/>
+<!-- drawstring right -->
+<line x1="272" y1="190" x2="276" y2="262" stroke="#fff6cf" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ceiling hook/bar -->
+  <line x1="80" y1="18" x2="210" y2="18" stroke="#4d4d4d" stroke-width="6.83" stroke-linecap="round"/>
+  <!-- Chains: left -->
+  <line x1="95" y1="18" x2="108" y2="100" stroke="#7f7f7f" stroke-width="4.79" stroke-linecap="round"/>
+  <line x1="95" y1="18" x2="100" y2="50" stroke="#7f7f7f" stroke-width="4.79" stroke-linecap="round"/>
+  <line x1="100" y1="50" x2="104" y2="75" stroke="#7f7f7f" stroke-width="4.79" stroke-linecap="round"/>
+  <!-- Chains: right -->
+  <line x1="195" y1="18" x2="182" y2="100" stroke="#7f7f7f" stroke-width="4.79" stroke-linecap="round"/>
+  <line x1="195" y1="18" x2="190" y2="50" stroke="#7f7f7f" stroke-width="4.79" stroke-linecap="round"/>
+  <line x1="190" y1="50" x2="186" y2="75" stroke="#7f7f7f" stroke-width="4.79" stroke-linecap="round"/>
+  <!-- Chain: centre back -->
+  <line x1="145" y1="18" x2="145" y2="100" stroke="#7f7f7f" stroke-width="4.79" stroke-linecap="round"/>
+  <!-- Basket body: hemisphere -->
+  <path d="M105 100 Q105 160 145 165 Q185 160 185 100 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.47" stroke-linejoin="round"/>
+  <!-- Basket weave lines -->
+  <path d="M110 115 Q145 122 180 115" stroke="#7d5e23" stroke-width="3.42" fill="none"/>
+  <path d="M108 130 Q145 138 182 130" stroke="#7d5e23" stroke-width="3.42" fill="none"/>
+  <path d="M110 145 Q145 153 180 145" stroke="#7d5e23" stroke-width="3.42" fill="none"/>
+  <!-- Basket rim -->
+  <ellipse cx="145" cy="100" rx="40" ry="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.47"/>
+  <!-- Cascading flowers left -->
+  <path d="M112 105 Q90 125 78 145" stroke="#529929" stroke-width="4.79" fill="none" stroke-linecap="round"/>
+  <circle cx="76" cy="148" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.42"/>
+  <path d="M108 108 Q85 135 72 158" stroke="#529929" stroke-width="4.10" fill="none" stroke-linecap="round"/>
+  <circle cx="70" cy="161" r="7" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.42"/>
+  <!-- Cascading flowers right -->
+  <path d="M178 105 Q200 125 212 145" stroke="#529929" stroke-width="4.79" fill="none" stroke-linecap="round"/>
+  <circle cx="214" cy="148" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.42"/>
+  <path d="M182 108 Q205 135 218 158" stroke="#529929" stroke-width="4.10" fill="none" stroke-linecap="round"/>
+  <circle cx="220" cy="161" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.42"/>
+  <!-- Top plants in basket -->
+  <ellipse cx="130" cy="92" rx="16" ry="10" fill="#67832d" stroke="#1a1a1a" stroke-width="4.10" transform="rotate(-20 130 92)"/>
+  <ellipse cx="160" cy="90" rx="16" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.10" transform="rotate(20 160 90)"/>
+  <circle cx="145" cy="84" r="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.10"/>
+</g></svg>

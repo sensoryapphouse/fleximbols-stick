@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- breast milk storage bag: stand-up pouch with zip seal, measurement lines, label area -->
+  <!-- bag body (rounded rectangle with zip top) -->
+  <path d="M75 50 L75 215 Q75 222 82 222 L208 222 Q215 222 215 215 L215 50 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- zip seal strip at top -->
+  <rect x="75" y="50" width="140" height="16" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.06"/>
+  <!-- zip teeth -->
+  <path d="M82 58 L88 58 M92 58 L98 58 M102 58 L108 58 M112 58 L118 58 M122 58 L128 58 M132 58 L138 58 M142 58 L148 58 M152 58 L158 58 M162 58 L168 58 M172 58 L178 58 M182 58 L188 58 M192 58 L198 58 M202 58 L208 58" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- zip slider -->
+  <rect x="195" y="46" width="14" height="22" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.05"/>
+  <!-- milk fill -->
+  <path d="M82 130 L208 130 L208 215 Q208 218 205 218 L85 218 Q82 218 82 215 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.05" stroke-linejoin="round"/>
+  <!-- liquid surface wave -->
+  <path d="M82 130 Q105 124 145 130 Q185 136 208 130" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round" fill="none"/>
+  <!-- measurement marks on right side -->
+  <path d="M195 85 L208 85" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M198 105 L208 105" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M195 125 L208 125" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M198 145 L208 145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M195 165 L208 165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M198 185 L208 185" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- label area at top (write-on date) -->
+  <rect x="85" y="75" width="95" height="38" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.05"/>
+  <!-- label write lines -->
+  <path d="M92 86 L172 86" stroke="#7f7f7f" stroke-width="4.04" stroke-linecap="round"/>
+  <path d="M92 98 L172 98" stroke="#7f7f7f" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- milk droplet icon on bag -->
+  <path d="M115 160 Q105 175 115 188 Q125 188 125 175 Q125 168 115 160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.05" stroke-linejoin="round"/>
+  <!-- bag base/stand fold -->
+  <path d="M82 215 Q145 230 208 215" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round" fill="none"/>
+</g></svg>

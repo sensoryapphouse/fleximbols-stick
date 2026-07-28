@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- LEFT HALF -->
+  <path d="M 20 85 L 125 80 L 130 175 L 25 180 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- left half keys -->
+  <g fill="#efefef" stroke="#1a1a1a" stroke-width="2.67">
+    <rect x="32" y="95" width="14" height="14" rx="2"/>
+    <rect x="49" y="94" width="14" height="14" rx="2"/>
+    <rect x="66" y="93" width="14" height="14" rx="2"/>
+    <rect x="83" y="92" width="14" height="14" rx="2"/>
+    <rect x="100" y="91" width="14" height="14" rx="2"/>
+    <rect x="33" y="115" width="14" height="14" rx="2"/>
+    <rect x="50" y="114" width="14" height="14" rx="2"/>
+    <rect x="67" y="113" width="14" height="14" rx="2"/>
+    <rect x="84" y="112" width="14" height="14" rx="2"/>
+    <rect x="101" y="111" width="14" height="14" rx="2"/>
+    <rect x="34" y="135" width="14" height="14" rx="2"/>
+    <rect x="51" y="134" width="14" height="14" rx="2"/>
+    <rect x="68" y="133" width="14" height="14" rx="2"/>
+    <rect x="85" y="132" width="14" height="14" rx="2"/>
+    <rect x="102" y="131" width="14" height="14" rx="2"/>
+    <rect x="40" y="155" width="36" height="14" rx="2"/>
+    <rect x="80" y="154" width="20" height="14" rx="2"/>
+    <rect x="103" y="153" width="14" height="14" rx="2"/>
+  </g>
+  <!-- GAP between halves: visible space + connecting cable -->
+  <path d="M 130 130 Q 145 145 160 130" fill="none" stroke="#392170" stroke-width="6.22" stroke-linecap="round"/>
+  <circle cx="129" cy="130" r="3" fill="#000000"/>
+  <circle cx="161" cy="130" r="3" fill="#000000"/>
+  <!-- RIGHT HALF -->
+  <path d="M 165 80 L 270 85 L 265 180 L 160 175 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- right half keys -->
+  <g fill="#efefef" stroke="#1a1a1a" stroke-width="2.67">
+    <rect x="176" y="91" width="14" height="14" rx="2"/>
+    <rect x="193" y="92" width="14" height="14" rx="2"/>
+    <rect x="210" y="93" width="14" height="14" rx="2"/>
+    <rect x="227" y="94" width="14" height="14" rx="2"/>
+    <rect x="244" y="95" width="14" height="14" rx="2"/>
+    <rect x="175" y="111" width="14" height="14" rx="2"/>
+    <rect x="192" y="112" width="14" height="14" rx="2"/>
+    <rect x="209" y="113" width="14" height="14" rx="2"/>
+    <rect x="226" y="114" width="14" height="14" rx="2"/>
+    <rect x="243" y="115" width="14" height="14" rx="2"/>
+    <rect x="174" y="131" width="14" height="14" rx="2"/>
+    <rect x="191" y="132" width="14" height="14" rx="2"/>
+    <rect x="208" y="133" width="14" height="14" rx="2"/>
+    <rect x="225" y="134" width="14" height="14" rx="2"/>
+    <rect x="242" y="135" width="14" height="14" rx="2"/>
+    <rect x="173" y="153" width="14" height="14" rx="2"/>
+    <rect x="190" y="154" width="20" height="14" rx="2"/>
+    <rect x="214" y="155" width="36" height="14" rx="2"/>
+  </g>
+  <!-- emphasise gap with arrows pointing inward -->
+  <path d="M 135 200 L 145 195 L 135 190" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 155 200 L 145 195 L 155 190" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 132 195 L 158 195" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

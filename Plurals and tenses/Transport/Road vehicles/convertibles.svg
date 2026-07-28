@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground line -->
+  <line x1="15" y1="200" x2="275" y2="200" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- convertible body, OPEN TOP - no roof above doors -->
+  <path d="M 25 195 L 30 165 L 80 130 L 220 130 L 245 150 L 265 165 L 265 195 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- small windshield (only) -->
+  <path d="M 95 130 L 110 100 L 125 100 L 125 130 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- open cockpit interior (dark) showing the open top -->
+  <path d="M 95 130 L 220 130 L 215 165 L 100 165 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- 2 seats inside (visible because top is open) -->
+  <path d="M 115 165 L 115 135 L 145 135 L 145 165 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 165 165 L 165 135 L 195 135 L 195 165 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- folded soft-top stowed at rear -->
+  <path d="M 215 130 L 235 132 L 232 145 L 215 145 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- side body line -->
+  <line x1="35" y1="180" x2="260" y2="180" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- headlight -->
+  <ellipse cx="40" cy="170" rx="10" ry="6" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- tail light -->
+  <ellipse cx="252" cy="172" rx="8" ry="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- wheels -->
+  <circle cx="80" cy="200" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="80" cy="200" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="215" cy="200" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="215" cy="200" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg3413" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg3413)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

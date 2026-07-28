@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(-24 12)">
+<!-- exposed bone running down to the knuckle (drawn first, meat overlaps top) -->
+<path d="M 244 320 L 190 404" stroke="#1a1a1a" stroke-width="34" stroke-linecap="round"/>
+<path d="M 244 320 L 190 404" stroke="#fff" stroke-width="20" stroke-linecap="round"/>
+<!-- knuckle: two rounded lobes at the bone end -->
+<circle cx="168" cy="404" r="30" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="206" cy="428" r="28" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- rounded meat end (thigh) at the top: one smooth teardrop lobe wrapping the bone -->
+<path d="M 300 118
+ C 378 118 428 176 424 250
+ C 420 316 372 356 312 356
+ C 278 356 254 336 244 306
+ C 236 282 246 258 268 250
+ C 288 242 296 224 292 198
+ C 288 168 290 140 300 118 Z" fill="#b06a34" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crispy skin highlights -->
+<path d="M 316 168 C 350 160 386 176 400 210" fill="none" stroke="#d69154" stroke-width="9" stroke-linecap="round"/>
+<circle cx="356" cy="238" r="10" fill="#d69154"/>
+<circle cx="382" cy="276" r="8" fill="#d69154"/>
+<circle cx="330" cy="300" r="8" fill="#d69154"/>
+</g></svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Canopy -->
+  <path d="M80,75 Q80,30 155,30 Q220,30 220,75 L220,90 L80,90 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Canopy visor edge -->
+  <path d="M80,90 Q150,100 220,90" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Seat body -->
+  <rect x="80" y="88" width="140" height="80" rx="10" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Seat padding -->
+  <rect x="90" y="96" width="120" height="64" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <!-- Baby (simplified sitting) -->
+  <circle cx="150" cy="112" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="134" y="124" width="32" height="25" rx="8" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Frame left strut -->
+  <path d="M85,165 L55,210" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Frame right strut -->
+  <path d="M215,165 L215,210" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Handle bar -->
+  <path d="M55,130 Q55,95 85,88" fill="none" stroke="#4d4d4d" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M55,130 L55,155" fill="none" stroke="#4d4d4d" stroke-width="7.11" stroke-linecap="round"/>
+  <rect x="38" y="125" width="36" height="14" rx="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Chassis bottom bar -->
+  <path d="M55,208 L215,208" fill="none" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Front wheel (right) -->
+  <circle cx="215" cy="215" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="215" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Rear wheel (left) -->
+  <circle cx="55" cy="215" r="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="55" cy="215" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Second rear wheel -->
+  <circle cx="75" cy="215" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="215" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Second front wheel -->
+  <circle cx="195" cy="215" r="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="215" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.66"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg3589" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg3589)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

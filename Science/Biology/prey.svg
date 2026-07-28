@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -309.50)">
+<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#eef6f0" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="0.0" y="400.0" width="512.0" height="112.0" rx="0" fill="#3fae5a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 0 400 Q 130 386 260 400 Q 390 414 512 400 L 512 428 L 0 428 Z" fill="#2e8b46" stroke="#1a1a1a" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="300.0" cy="320.0" rx="78.0" ry="56.0" fill="#cdbfa6" stroke="#8a7c63" stroke-width="6"/>
+<circle cx="364.0" cy="290.0" r="36.0" fill="#cdbfa6" stroke="#8a7c63" stroke-width="6"/>
+<ellipse cx="356.0" cy="234.0" rx="12.0" ry="40.0" fill="#cdbfa6" stroke="#8a7c63" stroke-width="5"/>
+<ellipse cx="382.0" cy="236.0" rx="12.0" ry="40.0" fill="#cdbfa6" stroke="#8a7c63" stroke-width="5"/>
+<ellipse cx="356.0" cy="234.0" rx="6.0" ry="28.0" fill="#e2649a" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="382.0" cy="236.0" rx="6.0" ry="28.0" fill="#e2649a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="374.0" cy="284.0" r="7.0" fill="#2a2a2a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="376.0" cy="282.0" r="2.5" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="394.0" cy="296.0" r="5.0" fill="#e2649a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 260 360 q -20 22 -8 44" fill="none" stroke="#8a7c63" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 330 364 q 18 20 6 40" fill="none" stroke="#8a7c63" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="250.0" cy="406.0" rx="22.0" ry="10.0" fill="#8a7c63" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="226.0" cy="316.0" r="18.0" fill="#f1ece0" stroke="#cdbfa6" stroke-width="4"/>
+<!-- PREDATOR cue: dark open-jawed predator head at left, chasing the rabbit -->
+<g transform="translate(0 8)">
+<!-- upper head + snout (jaws open downward) -->
+<path d="M 152 262 Q 92 250 64 282 Q 52 298 66 312 L 158 300 L 116 286 Z" fill="#5a4636" stroke="#3a2c20" stroke-width="6" stroke-linejoin="round"/>
+<!-- lower jaw -->
+<path d="M 66 326 Q 96 352 158 340 L 158 322 L 100 326 Z" fill="#4a3829" stroke="#3a2c20" stroke-width="6" stroke-linejoin="round"/>
+<!-- open mouth interior (light, so the gape reads at small size) -->
+<polygon points="158,300 100,310 158,322" fill="#7a2a22" stroke="none"/>
+<!-- ear -->
+<polygon points="120,266 144,300 158,264" fill="#5a4636" stroke="#3a2c20" stroke-width="6" stroke-linejoin="round"/>
+<!-- upper fangs pointing down into the gape -->
+<polygon points="120,300 132,300 126,316" fill="#ffffff" stroke="#3a2c20" stroke-width="2"/>
+<polygon points="138,300 150,300 144,314" fill="#ffffff" stroke="#3a2c20" stroke-width="2"/>
+<!-- lower fangs pointing up -->
+<polygon points="118,322 130,322 124,308" fill="#ffffff" stroke="#3a2c20" stroke-width="2"/>
+<!-- eye -->
+<circle cx="116" cy="290" r="7" fill="#f0b400"/>
+<circle cx="116" cy="290" r="3" fill="#1a1a1a"/>
+<!-- nose -->
+<circle cx="66" cy="294" r="6" fill="#1a1a1a"/>
+</g>
+<!-- ARROW from predator to prey -->
+<line x1="166" y1="322" x2="208" y2="332" stroke="#e0473c" stroke-width="16" stroke-linecap="round"/>
+<polygon points="238,338 206,350 208,314" fill="#e0473c" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- main padded fist (rounded) -->
+  <path d="M60 95 Q60 50 130 45 Q210 45 230 95 Q240 130 220 165 L200 175 Q170 185 130 180 Q85 175 70 160 Q55 130 60 95 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- thumb (separated) -->
+  <path d="M55 110 Q35 115 30 140 Q30 165 55 170 Q70 168 78 158 Q70 140 65 120 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- thumb crease -->
+  <path d="M60 115 Q55 135 62 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- knuckle crease (top) -->
+  <path d="M85 90 Q145 75 215 95" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- finger crease -->
+  <path d="M90 130 Q145 120 220 130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- wrist cuff -->
+  <path d="M180 165 L260 165 Q270 165 270 175 L270 215 Q270 225 260 225 L180 225 Q170 225 170 215 L170 175 Q170 165 180 165 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- laces panel -->
+  <rect x="195" y="172" width="50" height="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lace X's -->
+  <line x1="200" y1="178" x2="240" y2="190" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="178" x2="200" y2="190" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="200" y1="195" x2="240" y2="207" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="195" x2="200" y2="207" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- lace holes -->
+  <circle cx="200" cy="178" r="2" fill="#000000"/>
+  <circle cx="240" cy="178" r="2" fill="#000000"/>
+  <circle cx="200" cy="212" r="2" fill="#000000"/>
+  <circle cx="240" cy="212" r="2" fill="#000000"/>
+  <!-- highlight -->
+  <ellipse cx="100" cy="85" rx="18" ry="10" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Loom frame -->
+  <rect x="30" y="30" width="230" height="175" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="42" y="42" width="206" height="151" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Warp threads (vertical) -->
+  <line x1="62" y1="48" x2="62" y2="187" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="82" y1="48" x2="82" y2="187" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="102" y1="48" x2="102" y2="187" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="122" y1="48" x2="122" y2="187" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="142" y1="48" x2="142" y2="187" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="162" y1="48" x2="162" y2="187" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="182" y1="48" x2="182" y2="187" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="202" y1="48" x2="202" y2="187" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="222" y1="48" x2="222" y2="187" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Woven cloth area (interlaced weft rows) -->
+  <!-- Row 1 - over odd, under even -->
+  <rect x="62" y="130" width="16" height="14" fill="#2a4ec0" stroke="none"/>
+  <rect x="102" y="130" width="16" height="14" fill="#2a4ec0" stroke="none"/>
+  <rect x="142" y="130" width="16" height="14" fill="#2a4ec0" stroke="none"/>
+  <rect x="182" y="130" width="16" height="14" fill="#2a4ec0" stroke="none"/>
+  <rect x="222" y="130" width="16" height="14" fill="#2a4ec0" stroke="none"/>
+  <line x1="48" y1="137" x2="238" y2="137" stroke="#2a4ec0" stroke-width="15.24" stroke-linecap="round"/>
+  <!-- Row 2 -->
+  <line x1="48" y1="153" x2="238" y2="153" stroke="#f8130d" stroke-width="15.24" stroke-linecap="round"/>
+  <!-- Row 3 -->
+  <line x1="48" y1="169" x2="238" y2="169" stroke="#f7de58" stroke-width="15.24" stroke-linecap="round"/>
+  <!-- Warp over weft overlays for interlacing illusion -->
+  <line x1="82" y1="125" x2="82" y2="148" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="122" y1="125" x2="122" y2="148" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="162" y1="125" x2="162" y2="148" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="202" y1="125" x2="202" y2="148" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="62" y1="141" x2="62" y2="164" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="102" y1="141" x2="102" y2="164" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="142" y1="141" x2="142" y2="164" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="182" y1="141" x2="182" y2="164" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="222" y1="141" x2="222" y2="164" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Shuttle passing through -->
+  <rect x="48" y="104" width="100" height="18" rx="9" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="98" y1="96" x2="98" y2="130" stroke="#fff200" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Loom top bar -->
+  <rect x="30" y="22" width="230" height="14" rx="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Loom bottom bar -->
+  <rect x="30" y="198" width="230" height="14" rx="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

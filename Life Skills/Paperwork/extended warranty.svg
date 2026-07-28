@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Extended warranty - shield + clock (extra time) + EXTENDED letter blocks + product -->
+  <!-- Product box -->
+  <rect x="20" y="130" width="70" height="70" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <line x1="55" y1="130" x2="55" y2="200" stroke="#7d5e23" stroke-width="3.81"/>
+  <line x1="20" y1="160" x2="90" y2="160" stroke="#7d5e23" stroke-width="3.81"/>
+  <!-- Shield body -->
+  <path d="M 130 30 L 215 30 L 215 110 Q 215 165 172 195 Q 130 165 130 110 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Shield inner -->
+  <path d="M 140 42 L 205 42 L 205 108 Q 205 152 172 178 Q 140 152 140 108 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Clock face inside shield -->
+  <circle cx="172" cy="110" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- Clock ticks -->
+  <line x1="172" y1="78" x2="172" y2="84" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="172" y1="136" x2="172" y2="142" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="140" y1="110" x2="146" y2="110" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="198" y1="110" x2="204" y2="110" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Clock hands - pointing past 12 indicating extra time -->
+  <line x1="172" y1="110" x2="172" y2="88" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <line x1="172" y1="110" x2="192" y2="118" stroke="#d01424" stroke-width="5.08" stroke-linecap="round"/>
+  <circle cx="172" cy="110" r="3" fill="#000000"/>
+  <!-- Arrow curving around clock indicating extension -->
+  <path d="M 205 88 Q 222 110 200 138" fill="none" stroke="#137827" stroke-width="6.34" stroke-linecap="round"/>
+  <path d="M 196 130 L 200 138 L 208 134" fill="#137827" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Plus sign for "extended" -->
+  <circle cx="232" cy="60" r="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.08"/>
+  <line x1="232" y1="50" x2="232" y2="70" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <line x1="222" y1="60" x2="242" y2="60" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <!-- EXTENDED letters as path blocks at bottom -->
+  <!-- calendar + checkmark (replaces EXTENDED text) -->
+  <rect x="30" y="190" width="220" height="40" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.81"/>
+  <rect x="40" y="194" width="32" height="30" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <rect x="40" y="194" width="32" height="10" rx="2" fill="#d01424" stroke="#1a1a1a" stroke-width="2.54"/>
+  <path d="M44 214 L51 221 L65 207" fill="none" stroke="#137827" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- plus sign -->
+  <path d="M110 200 L110 224 M98 212 L122 212" fill="none" stroke="#f2e40d" stroke-width="6.34" stroke-linecap="round"/>
+</g></svg>

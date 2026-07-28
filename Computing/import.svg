@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Box body -->
+  <polygon points="50,145 145,175 240,145 240,210 50,210" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Box front face -->
+  <polygon points="50,145 50,210 145,210 145,175" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Box lid flap left -->
+  <polygon points="50,145 145,115 145,175 50,145" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Box lid flap right -->
+  <polygon points="145,115 240,145 145,175" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arrow shaft coming straight down into box -->
+  <line x1="145" y1="38" x2="145" y2="92" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arrowhead pointing down into box (tip on shaft axis, base perpendicular + symmetric) -->
+  <polygon points="145,128 118,92 172,92" fill="#000000" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

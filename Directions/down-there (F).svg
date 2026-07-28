@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1857) translate(-256.00 -287.50)">
+<line x1="70" y1="430" x2="442" y2="430" stroke="#9aa7b1" stroke-width="8" stroke-linecap="round"/>
+<!-- figure: standing on the baseline, right arm pointing down toward the location -->
+<g transform="translate(-70 95) scale(0.7)">
+<line x1="241" y1="303" x2="232" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="271" y1="303" x2="280" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="232" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="280" cy="457" rx="13" ry="7" fill="#33373d"/>
+<polygon points="224,197 288,197 286,305 226,305" fill="#2b6fb0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="226" y1="199" x2="206" y2="287" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="286" y1="199" x2="330" y2="300" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="256" y1="197" x2="256" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 209.0 184.0 L 209.0 128.0 Q 209.0 76.0 256.0 76.0 Q 303.0 76.0 303.0 128.0 L 303.0 184.0 L 290.0 184.0 L 290.0 130.0 Q 290.0 96.0 256.0 96.0 Q 222.0 96.0 222.0 130.0 L 222.0 184.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<circle id="h1" data-fig="fa" class="skin" cx="256" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 218.0 96.0 Q 256.0 82.0 294.0 96.0 Q 256.0 92.0 218.0 96.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+</g>
+<!-- green arrow leading down from the hand to the location pin -->
+<path d="M 241.0 153.8 L 293.0 277.8 L 277.9 283.8 L 320.0 318.0 L 326.1 264.2 L 311.0 270.2 L 259.0 146.2 Z" fill="#2f9e4a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+
+<!-- location pin, placed LOW -->
+<path d="M 372 430 C 301.7 346.4 334.0 317.9 372 317.9 C 410.0 317.9 442.3 346.4 372 430 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="372" cy="354" r="18" fill="#fff" stroke="#1a1a1a" stroke-width="4"/>
+</g></svg>

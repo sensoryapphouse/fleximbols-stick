@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <linearGradient id="parF" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#7aaae8"/>
+    <stop offset="100%" stop-color="#5a8ad6"/>
+  </linearGradient>
+  <linearGradient id="parT" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#d0e0f8"/>
+    <stop offset="100%" stop-color="#7aaae8"/>
+  </linearGradient>
+  <linearGradient id="parR" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#5a8ad6"/>
+    <stop offset="100%" stop-color="#3a6ab6"/>
+  </linearGradient>
+</defs>
+<polygon points="35,140 175,140 230,75 90,75" fill="url(#parT)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="35,140 175,140 175,215 35,215" fill="url(#parF)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="175,140 230,75 230,150 175,215" fill="url(#parR)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+</svg>

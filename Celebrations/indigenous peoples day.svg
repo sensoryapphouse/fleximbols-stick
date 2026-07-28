@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- dreamcatcher ring (left) -->
+  <circle cx="95" cy="100" r="55" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.78"/>
+  <circle cx="95" cy="100" r="55" fill="none" stroke="#5e1f0a" stroke-width="5.56"/>
+  <!-- web pattern -->
+  <path d="M 95 45 L 95 155 M 40 100 L 150 100 M 56 61 L 134 139 M 134 61 L 56 139" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="95" cy="100" r="22" fill="none" stroke="#7d5e23" stroke-width="3.33"/>
+  <circle cx="95" cy="100" r="10" fill="none" stroke="#7d5e23" stroke-width="3.33"/>
+  <!-- beads on web -->
+  <circle cx="95" cy="100" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="73" cy="100" r="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="117" cy="100" r="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- hanging strings + feathers from ring -->
+  <path d="M 70 152 L 65 200" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 95 154 L 95 210" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 120 152 L 125 200" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- small bead -->
+  <circle cx="65" cy="185" r="3" fill="#d01424" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="95" cy="195" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="125" cy="185" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- small feathers under ring -->
+  <path d="M 65 200 Q 60 215 65 230 Q 70 215 65 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 65 200 L 65 230" stroke="#5e1f0a" stroke-width="3.33"/>
+  <path d="M 95 210 Q 90 220 95 235 Q 100 220 95 210 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 95 210 L 95 235" stroke="#5e1f0a" stroke-width="3.33"/>
+  <path d="M 125 200 Q 120 215 125 230 Q 130 215 125 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 125 200 L 125 230" stroke="#5e1f0a" stroke-width="3.33"/>
+  <!-- large eagle feather (right) -->
+  <path d="M 225 30 Q 200 70 200 130 Q 210 150 230 150 Q 250 150 255 130 Q 255 70 240 30 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- feather quill -->
+  <path d="M 230 30 L 232 150 L 245 215" fill="none" stroke="#5e1f0a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- feather banding -->
+  <path d="M 207 90 Q 230 100 250 90" fill="none" stroke="#5e1f0a" stroke-width="4.45"/>
+  <path d="M 205 110 Q 230 120 252 110" fill="none" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- feather barbs -->
+  <path d="M 215 50 L 230 55 M 218 60 L 232 64 M 213 75 L 231 80 M 248 50 L 232 55 M 245 60 L 232 64 M 250 75 L 232 80" stroke="#7d5e23" stroke-width="2.67"/>
+  <!-- feather tip dark -->
+  <path d="M 225 30 Q 230 28 235 30 Q 232 50 230 60 Q 225 50 225 30 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- traditional pattern band at bottom -->
+  <rect x="10" y="218" width="270" height="14" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 20 218 L 30 232 L 40 218 L 50 232 L 60 218 L 70 232 L 80 218 L 90 232 L 100 218 L 110 232 L 120 218 L 130 232 L 140 218 L 150 232 L 160 218 L 170 232 L 180 218 L 190 232 L 200 218 L 210 232 L 220 218 L 230 232 L 240 218 L 250 232 L 260 218 L 270 232" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- clamp -->
+  <path d="M40 165 Q35 150 50 145 L75 145 Q90 150 85 165 L80 175 Q70 180 60 178 Q48 178 40 165 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="55" y="170" width="22" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- adjustable arm -->
+  <path d="M70 155 Q95 130 130 110" fill="none" stroke="#4d4d4d" stroke-width="8.88" stroke-linecap="round"/>
+  <circle cx="95" cy="135" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- reflector dome (cone shape, silver) -->
+  <path d="M120 100 L240 60 L240 150 L120 130 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- inside of dome (darker) -->
+  <path d="M125 105 L235 70 L235 142 L125 125 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- bulb glowing inside -->
+  <ellipse cx="175" cy="105" rx="18" ry="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="170" cy="98" rx="5" ry="7" fill="#fff200"/>
+  <!-- bulb socket/base -->
+  <rect x="160" y="80" width="20" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- light rays coming out front -->
+  <line x1="240" y1="80" x2="265" y2="70" stroke="#f2e40d" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="245" y1="105" x2="275" y2="105" stroke="#f2e40d" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="240" y1="135" x2="265" y2="145" stroke="#f2e40d" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- cord -->
+  <path d="M60 184 Q55 210 80 215" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

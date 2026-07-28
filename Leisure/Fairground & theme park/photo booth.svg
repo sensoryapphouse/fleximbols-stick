@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor -->
+  <rect x="0" y="220" width="290" height="16" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- BOOTH STRUCTURE (left/centre) -->
+  <!-- side walls -->
+  <rect x="40" y="50" width="14" height="170" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.78"/>
+  <rect x="156" y="50" width="14" height="170" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.78"/>
+  <!-- roof -->
+  <rect x="34" y="40" width="142" height="16" fill="#392170" stroke="#1a1a1a" stroke-width="7.78"/>
+  <!-- sign on roof -->
+  <rect x="60" y="20" width="90" height="22" rx="3" fill="#fff200" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- camera-like marks on sign (no text) -->
+  <circle cx="80" cy="31" r="5" fill="#000000"/>
+  <circle cx="80" cy="31" r="2.5" fill="#ffffff"/>
+  <circle cx="105" cy="31" r="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="125" cy="31" r="3" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- CURTAIN behind opening -->
+  <path d="M54 56 Q60 100 56 220 L100 220 Q98 130 100 56 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M156 56 Q150 130 152 220 L110 220 Q112 130 110 56 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- curtain folds -->
+  <path d="M68 70 Q70 140 68 215" fill="none" stroke="#5e1f0a" stroke-width="4.45"/>
+  <path d="M84 70 Q86 140 84 215" fill="none" stroke="#5e1f0a" stroke-width="4.45"/>
+  <path d="M138 70 Q140 140 138 215" fill="none" stroke="#5e1f0a" stroke-width="4.45"/>
+  <path d="M122 70 Q124 140 122 215" fill="none" stroke="#5e1f0a" stroke-width="4.45"/>
+
+  <!-- CAMERA (mounted on front of booth, at top) -->
+  <rect x="78" y="60" width="54" height="36" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="105" cy="78" r="13" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="105" cy="78" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="105" cy="78" r="3" fill="#ffffff"/>
+  <!-- flash -->
+  <rect x="120" y="64" width="8" height="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- PROPS BIN (right side, in front) -->
+  <rect x="190" y="160" width="80" height="56" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- moustache prop on a stick -->
+  <rect x="200" y="120" width="3" height="42" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M188 118 Q195 110 202 116 Q208 110 216 118 Q210 124 202 122 Q195 124 188 118 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- glasses prop -->
+  <rect x="228" y="110" width="3" height="52" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="224" cy="105" r="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="240" cy="105" r="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M232 105 L233 105" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- top hat prop -->
+  <rect x="258" y="116" width="3" height="46" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="248" y="100" width="22" height="18" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="244" y="116" width="30" height="5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- PHOTO STRIP (lower left, sticking out) -->
+  <rect x="14" y="130" width="28" height="88" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- 4 frames on strip -->
+  <rect x="18" y="134" width="20" height="18" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="18" y="155" width="20" height="18" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="18" y="176" width="20" height="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="18" y="197" width="20" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tiny smileys on each -->
+  <circle cx="24" cy="142" r="2" fill="#000000"/>
+  <circle cx="32" cy="142" r="2" fill="#000000"/>
+  <path d="M24 148 Q28 150 32 148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="24" cy="163" r="2" fill="#000000"/>
+  <circle cx="32" cy="163" r="2" fill="#000000"/>
+  <path d="M24 169 Q28 171 32 169" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="24" cy="184" r="2" fill="#000000"/>
+  <circle cx="32" cy="184" r="2" fill="#000000"/>
+  <path d="M24 190 Q28 192 32 190" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="24" cy="205" r="2" fill="#000000"/>
+  <circle cx="32" cy="205" r="2" fill="#000000"/>
+  <path d="M24 211 Q28 213 32 211" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left figure (speaker) FULL BODY -->
+  <!-- head -->
+  <circle cx="55" cy="60" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- hair -->
+  <path d="M40 58 Q42 44 55 44 Q68 44 70 58 Q64 52 55 52 Q46 52 40 58 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="50" cy="60" r="1.6" fill="#000000"/>
+  <circle cx="60" cy="60" r="1.6" fill="#000000"/>
+  <!-- confident smirk -->
+  <path d="M49 67 Q55 71 62 67" fill="none" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M38 76 L72 76 L70 140 L40 140 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- left arm (down) -->
+  <path d="M38 80 L28 120 L32 140" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <circle cx="32" cy="142" r="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- right arm (gesture up) -->
+  <path d="M72 80 L88 100 L80 118" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <circle cx="80" cy="120" r="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- legs -->
+  <path d="M44 140 L42 200" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M66 140 L68 200" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <rect x="36" y="200" width="14" height="6" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="61" y="200" width="14" height="6" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- right figure (listener with heart eyes) FULL BODY -->
+  <!-- head -->
+  <circle cx="235" cy="60" r="16" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- long hair -->
+  <path d="M218 60 Q218 42 235 42 Q252 42 252 60 L252 80 L248 78 Q252 64 235 64 Q218 64 222 78 L218 80 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- heart eyes -->
+  <path d="M227 60 Q224 56 221 60 Q218 64 227 70 Q236 64 233 60 Q230 56 227 60 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M243 60 Q240 56 237 60 Q234 64 243 70 Q252 64 249 60 Q246 56 243 60 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- smile -->
+  <path d="M229 73 Q235 78 241 73" fill="none" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M218 76 L252 76 L250 140 L220 140 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M218 80 L208 120 L212 140" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <circle cx="212" cy="142" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M252 80 L262 120 L258 140" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <circle cx="258" cy="142" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- legs -->
+  <path d="M224 140 L222 200" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M246 140 L248 200" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <rect x="216" y="200" width="14" height="6" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="241" y="200" width="14" height="6" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- speech bubble from left figure -->
+  <path d="M95 40 L195 40 Q205 40 205 50 L205 105 Q205 115 195 115 L130 115 L115 130 L120 115 L95 115 Q85 115 85 105 L85 50 Q85 40 95 40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- humorous icon (winking face) inside bubble -->
+  <circle cx="125" cy="75" r="15" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M119 73 L124 73" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="131" cy="73" r="1.8" fill="#000000"/>
+  <path d="M119 80 Q125 86 131 80" fill="none" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
+  <!-- heart icon inside bubble -->
+  <path d="M170 70 Q165 65 160 70 Q155 75 170 88 Q185 75 180 70 Q175 65 170 70 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

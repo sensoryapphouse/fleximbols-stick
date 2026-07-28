@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ctx"],["h2","ctx"],["h3","fc"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1920) translate(-256.00 -268.50)"><!-- FRONT: a queue of 3 facing right; the LEADING (front) one is highlighted gold, with a horizontal arrow pointing at its front -->
+<!-- ground line -->
+<line x1="70" y1="392" x2="442" y2="392" stroke="#9aa7b5" stroke-width="6" stroke-linecap="round"/>
+
+<!-- back figure (faded) -->
+<g opacity="0.34">
+<circle id="h1" data-fig="ctx" cx="350" cy="262" r="30" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 318 388 q 0 -78 32 -78 q 32 0 32 78 Z" fill="#cdd3da" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</g>
+<!-- middle figure (faded) -->
+<g opacity="0.34">
+<circle id="h2" data-fig="ctx" cx="262" cy="262" r="30" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 230 388 q 0 -78 32 -78 q 32 0 32 78 Z" fill="#cdd3da" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</g>
+
+<!-- FRONT figure = first, highlighted gold + bold outline -->
+<circle id="h3" data-fig="fc" cx="150" cy="258" r="34" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 112 392 q 0 -86 38 -86 q 38 0 38 86 Z" fill="#f0b400" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+
+<!-- bold green HORIZONTAL arrow pointing RIGHT at the FRONT (leading side) of the front figure -->
+<g transform="translate(0,60)"><line x1="44" y1="300" x2="98" y2="300" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="98" y1="300" x2="72" y2="276" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="98" y1="300" x2="72" y2="324" stroke="#1a1a1a" stroke-width="25.0" stroke-linecap="round"/><line x1="44" y1="300" x2="98" y2="300" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/>
+<line x1="98" y1="300" x2="72" y2="276" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/>
+<line x1="98" y1="300" x2="72" y2="324" stroke="#2f9e4a" stroke-width="19.5" stroke-linecap="round"/></g>
+</g></svg>

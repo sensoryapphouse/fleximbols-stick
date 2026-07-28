@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- VIP queue rope posts -->
+  <rect x="25" y="100" width="10" height="100" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="30" cy="95" r="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="255" y="100" width="10" height="100" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="260" cy="95" r="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- velvet rope -->
+  <path d="M30 95 Q145 50 260 95" fill="none" stroke="#d01424" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- posts base -->
+  <ellipse cx="30" cy="205" rx="14" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="260" cy="205" rx="14" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- membership card (priority pass) center -->
+  <rect x="60" y="115" width="170" height="100" rx="12" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.22"/>
+  <!-- gold border accent -->
+  <rect x="68" y="123" width="154" height="84" rx="8" fill="none" stroke="#f2e40d" stroke-width="4.45"/>
+  <!-- VIP badge -->
+  <circle cx="100" cy="160" r="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M88 155 L94 175 L100 158 L106 175 L112 155" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- card detail lines (no text) -->
+  <rect x="135" y="145" width="80" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="135" y="160" width="60" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- chip -->
+  <rect x="135" y="180" width="20" height="16" rx="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="135" y1="188" x2="155" y2="188" stroke="#1a1a1a" stroke-width="1.78"/>
+  <line x1="145" y1="180" x2="145" y2="196" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- airplane silhouette top-right of card -->
+  <path d="M195 130 L215 130 L210 138 L218 138 L222 130 L226 132 L218 145 L195 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+</g></svg>

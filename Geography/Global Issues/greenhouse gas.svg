@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground strip -->
+  <rect x="25" y="195" width="240" height="22" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dome outline (partial, arc only — gas rising toward it) -->
+  <path d="M55 195 Q55 90 145 65 Q235 90 235 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dome tint -->
+  <path d="M55 195 Q55 90 145 65 Q235 90 235 195" fill="#dff3fd" stroke="none"/>
+  <path d="M55 195 Q55 90 145 65 Q235 90 235 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Earth surface bump -->
+  <ellipse cx="145" cy="195" rx="90" ry="14" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Gas cloud 1 — low, rising from ground left -->
+  <circle cx="90" cy="178" r="13" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="104" cy="170" r="15" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="178" r="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="178" width="38" height="12" fill="#b8b8b8" stroke="none"/>
+  <!-- Rising arrow from cloud 1 -->
+  <line x1="104" y1="155" x2="104" y2="128" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <polyline points="96,134 104,128 112,134" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Gas cloud 2 — mid height, centre -->
+  <circle cx="138" cy="145" r="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="152" cy="137" r="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="166" cy="145" r="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="138" y="145" width="38" height="11" fill="#7f7f7f" stroke="none"/>
+  <!-- Rising arrow from cloud 2 -->
+  <line x1="152" y1="123" x2="152" y2="96" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <polyline points="144,102 152,96 160,102" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Gas cloud 3 — high, near dome ceiling -->
+  <circle cx="128" cy="100" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="142" cy="92" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="156" cy="100" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="128" y="100" width="38" height="10" fill="#4d4d4d" stroke="none"/>
+</g></svg>

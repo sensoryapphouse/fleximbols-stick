@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tripod legs -->
+  <line x1="145" y1="185" x2="90" y2="230" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="145" y1="185" x2="145" y2="230" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="145" y1="185" x2="200" y2="230" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Tripod top mounting -->
+  <rect x="130" y="175" width="30" height="14" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Device body -->
+  <rect x="108" y="120" width="74" height="60" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Device face panel -->
+  <rect x="114" y="126" width="62" height="48" rx="5" ry="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Level vial on device -->
+  <rect x="124" y="133" width="42" height="16" rx="4" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.70"/>
+  <line x1="138" y1="133" x2="138" y2="149" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="152" y1="133" x2="152" y2="149" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="141" rx="6" ry="5" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Laser emitter dot -->
+  <circle cx="145" cy="162" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Horizontal laser beam -->
+  <line x1="10" y1="141" x2="108" y2="141" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="182" y1="141" x2="280" y2="141" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Laser beam dashes suggestion -->
+  <line x1="10" y1="141" x2="40" y2="141" stroke="#f7de58" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="245" y1="141" x2="280" y2="141" stroke="#f7de58" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Vertical laser beam -->
+  <line x1="145" y1="10" x2="145" y2="118" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="183" x2="145" y2="172" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cross highlight at intersection -->
+  <circle cx="145" cy="141" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

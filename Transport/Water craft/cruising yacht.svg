@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cruising-yacht: comfortable sailing yacht with roomy cabin/coachroof, bimini, single mast + sails -->
+
+  <!-- water band -->
+  <path d="M 0 190 Q 36 180 72 190 Q 108 200 144 190 Q 180 180 216 190 Q 252 200 290 190 L 290 240 L 0 240 Z" fill="#2a4ec0" stroke="none"/>
+  <path d="M 0 190 Q 36 180 72 190 Q 108 200 144 190 Q 180 180 216 190 Q 252 200 290 190" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- hull (wider, deeper, more rounded than racing) -->
+  <path d="M 40 180 Q 50 195 100 200 Q 160 204 220 198 L 248 182 L 240 170 L 80 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- hull waterline stripe (blue boot stripe) -->
+  <path d="M 60 192 Q 110 198 175 196 L 215 192 L 212 187 Q 165 193 110 190 L 68 187 Z" fill="#2a4ec0" stroke="none"/>
+
+  <!-- keel stub -->
+  <path d="M 130 200 L 125 220 L 150 224 L 165 220 L 158 200" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- deck -->
+  <path d="M 80 170 L 240 170 L 240 162 L 80 162 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- roomy coachroof / cabin top (wide and high = comfort) -->
+  <rect x="110" y="138" width="120" height="28" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- cabin side windows (2 large portlights — comfortable cruiser has big windows) -->
+  <rect x="120" y="144" width="28" height="16" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="144" width="28" height="16" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="196" y="144" width="22" height="16" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- bimini (sun awning over cockpit) -->
+  <path d="M 80 145 L 113 138 L 113 128 L 80 128 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="80" y1="128" x2="80" y2="165" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="113" y1="128" x2="113" y2="142" stroke="#4d4d4d" stroke-width="4.45"/>
+
+  <!-- cockpit coaming -->
+  <path d="M 78 162 L 112 162 L 112 155 L 78 155 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- mast (single, centred on cabin) -->
+  <line x1="163" y1="165" x2="163" y2="25" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+
+  <!-- boom (gentle angle downward) -->
+  <line x1="163" y1="138" x2="240" y2="162" stroke="#4d4d4d" stroke-width="5.93" stroke-linecap="round"/>
+
+  <!-- mainsail (full comfortable shape) -->
+  <path d="M 163 27 L 240 162 L 163 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="163" y1="65" x2="212" y2="118" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="163" y1="95" x2="228" y2="145" stroke="#b8b8b8" stroke-width="2.22"/>
+
+  <!-- jib -->
+  <path d="M 163 36 L 82 158 L 163 142 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- forestay -->
+  <line x1="163" y1="27" x2="83" y2="162" stroke="#4d4d4d" stroke-width="2.96"/>
+  <!-- shrouds -->
+  <line x1="163" y1="48" x2="118" y2="163" stroke="#4d4d4d" stroke-width="2.96"/>
+  <line x1="163" y1="48" x2="208" y2="163" stroke="#4d4d4d" stroke-width="2.96"/>
+
+  <!-- burgee flag at masthead -->
+  <path d="M 163 23 L 180 17 L 163 11 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

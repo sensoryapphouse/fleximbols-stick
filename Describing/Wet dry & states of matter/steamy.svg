@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pot body -->
+  <rect x="65" y="140" width="160" height="80" rx="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Pot rim -->
+  <rect x="55" y="132" width="180" height="18" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Pot handles -->
+  <rect x="28" y="145" width="38" height="18" rx="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="224" y="145" width="38" height="18" rx="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Liquid inside pot (hot water showing) -->
+  <rect x="72" y="148" width="146" height="65" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Bubbles in liquid -->
+  <circle cx="105" cy="175" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="165" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="185" cy="178" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Bold curling steam clouds -->
+  <path d="M100,130 Q88,110 100,92 Q112,74 100,56 Q94,47 100,40" fill="none" stroke="#efefef" stroke-width="6.66" stroke-linecap="round"/>
+  <path d="M100,130 Q88,110 100,92 Q112,74 100,56 Q94,47 100,40" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round" stroke-dasharray="0"/>
+  <!-- Re-draw steam in light color with black outline -->
+  <path d="M100,130 Q86,108 98,90 Q110,72 98,54 Q92,45 99,38" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M100,130 Q86,108 98,90 Q110,72 98,54 Q92,45 99,38" fill="none" stroke="#efefef" stroke-width="5.55" stroke-linecap="round"/>
+
+  <path d="M145,130 Q131,108 143,90 Q155,72 143,54 Q137,45 144,38" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M145,130 Q131,108 143,90 Q155,72 143,54 Q137,45 144,38" fill="none" stroke="#efefef" stroke-width="5.55" stroke-linecap="round"/>
+
+  <path d="M190,130 Q176,108 188,90 Q200,72 188,54 Q182,45 189,38" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M190,130 Q176,108 188,90 Q200,72 188,54 Q182,45 189,38" fill="none" stroke="#efefef" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Steam cloud puffs at top -->
+  <circle cx="100" cy="34" r="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="28" r="11" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="114" cy="26" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <circle cx="144" cy="34" r="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="132" cy="28" r="11" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="158" cy="26" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <circle cx="188" cy="34" r="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="176" cy="28" r="11" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="202" cy="26" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

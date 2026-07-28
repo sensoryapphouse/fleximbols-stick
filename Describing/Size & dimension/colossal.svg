@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Colossal: huge statue/column dwarfing a tiny person at base -->
+  <!-- Stone pedestal -->
+  <rect x="85" y="188" width="120" height="32" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Column shaft -->
+  <rect x="118" y="52" width="54" height="140" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Column top capital -->
+  <rect x="105" y="44" width="80" height="16" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Column fluting lines (vertical grooves) -->
+  <line x1="133" y1="55" x2="133" y2="188" stroke="#b8b8b8" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="145" y1="55" x2="145" y2="188" stroke="#b8b8b8" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="157" y1="55" x2="157" y2="188" stroke="#b8b8b8" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Statue head on top of column -->
+  <circle cx="145" cy="28" r="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- Statue face features -->
+  <circle cx="139" cy="24" r="3" fill="#4d4d4d"/>
+  <circle cx="151" cy="24" r="3" fill="#4d4d4d"/>
+  <path d="M140 32 Q145 36 150 32" fill="none" stroke="#4d4d4d" stroke-width="3.81" stroke-linecap="round"/>
+
+  <!-- Tiny person at base, far right of pedestal -->
+  <circle cx="230" cy="201" r="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.08"/>
+  <rect x="224" y="207" width="12" height="17" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <rect x="225" y="222" width="4" height="10" rx="2" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <rect x="231" y="222" width="4" height="10" rx="2" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+</g></svg>

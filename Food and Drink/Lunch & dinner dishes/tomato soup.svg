@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl body - smooth red soup -->
+  <path d="M35,110 Q28,188 120,215 Q185,225 215,210 Q248,192 242,110 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="138" cy="110" rx="103" ry="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Smooth red tomato soup surface -->
+  <ellipse cx="138" cy="115" rx="89" ry="15" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Soup surface sheen highlights -->
+  <ellipse cx="112" cy="112" rx="20" ry="7" fill="#d01424" stroke="none"/>
+  <ellipse cx="158" cy="113" rx="16" ry="6" fill="#d01424" stroke="none"/>
+  <!-- Basil leaf floating on soup -->
+  <ellipse cx="155" cy="107" rx="14" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-20 155 107)"/>
+  <path d="M148,112 Q155,104 162,108" fill="none" stroke="#137827" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Small cream swirl / drizzle on soup -->
+  <path d="M110,116 Q120,110 130,116 Q135,119 128,122" fill="none" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Bowl base -->
+  <ellipse cx="138" cy="212" rx="72" ry="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Grilled cheese sandwich (to the right) -->
+  <!-- Bread bottom slice -->
+  <rect x="210" y="175" width="68" height="14" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Cheese layer oozing out -->
+  <rect x="213" y="162" width="64" height="14" rx="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cheese ooze side drip left -->
+  <path d="M213,165 Q208,169 210,175" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cheese ooze side drip right -->
+  <path d="M277,165 Q282,169 278,175" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bread top slice (golden grilled) -->
+  <rect x="210" y="148" width="68" height="15" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Grill marks on top bread -->
+  <line x1="222" y1="150" x2="222" y2="161" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="233" y1="150" x2="233" y2="161" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="244" y1="150" x2="244" y2="161" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

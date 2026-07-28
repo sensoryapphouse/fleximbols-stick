@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Multi-compartment desktop organizer caddy -->
+
+  <!-- Base / bottom platform -->
+  <rect x="30" y="190" width="230" height="18" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- LEFT TALL compartment (pen/pencil holder) -->
+  <rect x="36" y="90" width="58" height="100" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pens sticking out -->
+  <!-- Pen 1 (pencil yellow) -->
+  <rect x="46" y="52" width="8" height="44" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="46,52 54,52 50,38" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pen 2 (blue pen) -->
+  <rect x="58" y="58" width="8" height="38" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="58,58 66,58 62,44" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pen 3 (red pen) -->
+  <rect x="70" y="64" width="8" height="32" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="70,64 78,64 74,50" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ruler sticking out -->
+  <rect x="81" y="70" width="7" height="28" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="84" y1="73" x2="84" y2="96" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+
+  <!-- MIDDLE-LEFT compartment (shorter, medium) - paperclips/misc -->
+  <rect x="102" y="128" width="52" height="62" rx="5" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Paperclips: small curved shapes -->
+  <path d="M114 120 Q118 110 126 112 Q132 114 130 122 Q128 130 120 128 Q112 126 114 120 Z" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 118 Q134 108 142 110 Q148 112 146 120 Q144 128 136 126 Q128 124 130 118 Z" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- MIDDLE-RIGHT compartment (medium wide) - papers standing upright -->
+  <rect x="162" y="112" width="58" height="78" rx="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Paper sheets sticking up -->
+  <rect x="170" y="88" width="14" height="30" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="188" y="92" width="14" height="26" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="202" y="96" width="12" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lines on papers -->
+  <line x1="173" y1="96" x2="181" y2="96" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="173" y1="102" x2="181" y2="102" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- RIGHT compartment (small, narrow - sticky notes or scissors) -->
+  <rect x="228" y="148" width="26" height="42" rx="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Scissors handle rings -->
+  <ellipse cx="241" cy="136" rx="7" ry="9" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="241" cy="120" rx="7" ry="9" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Scissors blades -->
+  <line x1="238" y1="128" x2="224" y2="106" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="244" y1="128" x2="258" y2="106" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="238" y1="128" x2="224" y2="106" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="244" y1="128" x2="258" y2="106" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Divider walls between sections -->
+  <line x1="100" y1="90" x2="100" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="112" x2="160" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="226" y1="148" x2="226" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

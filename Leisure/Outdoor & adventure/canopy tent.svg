@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground line -->
+  <line x1="30" y1="205" x2="260" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- four vertical poles -->
+  <line x1="55" y1="105" x2="55" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="235" y1="105" x2="235" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="85" y1="95" x2="85" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="205" y1="95" x2="205" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- flat roof canopy top surface -->
+  <polygon points="40,105 145,70 250,105 250,118 145,83 40,118" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- canopy top face -->
+  <polygon points="40,105 145,70 250,105 145,88" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- canopy front valance -->
+  <polygon points="40,105 250,105 240,128 50,128" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- canopy back valance -->
+  <polygon points="40,118 145,83 250,118 240,138 145,100 50,138" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- center peak post (short) -->
+  <line x1="145" y1="70" x2="145" y2="88" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- pole foot pads -->
+  <rect x="47" y="202" width="16" height="6" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.66"/>
+  <rect x="227" y="202" width="16" height="6" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.66"/>
+  <rect x="77" y="197" width="16" height="6" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.66"/>
+  <rect x="197" y="197" width="16" height="6" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.66"/>
+</g></svg>

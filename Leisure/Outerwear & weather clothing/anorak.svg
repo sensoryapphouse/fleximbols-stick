@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 92.78 345.21 345.21">
+<!-- left sleeve -->
+<path d="M 158 176 L 110 224 L 138 286 L 180 256 Z" fill="#2f9e6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve -->
+<path d="M 354 176 L 402 224 L 374 286 L 332 256 Z" fill="#2f9e6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body (anorak = pullover, no zip) -->
+<path d="M 158 176 L 200 150 L 312 150 L 354 176 L 332 256 L 338 398 L 256 408 L 174 398 L 180 256 Z" fill="#37b97f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- hood -->
+<path d="M 206 150 Q 256 96 306 150 Q 256 134 206 150 Z" fill="#2f9e6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- drawstring opening (kangaroo pocket top) -->
+<path d="M 214 168 Q 256 196 298 168" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- kangaroo pocket -->
+<path d="M 198 322 L 314 322 L 304 370 L 208 370 Z" fill="#2f9e6e" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- drawcord toggles -->
+<circle cx="236" cy="186" r="8" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="276" cy="186" r="8" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

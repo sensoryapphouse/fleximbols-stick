@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl base -->
+  <ellipse cx="145" cy="202" rx="108" ry="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bowl walls -->
+  <path d="M37 202 Q37 158 145 158 Q253 158 253 202Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="202" rx="108" ry="16" fill="#efefef" stroke="none"/>
+  <!-- Tabbouleh fill — vivid green (dominant) -->
+  <ellipse cx="145" cy="186" rx="90" ry="24" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Finely chopped parsley texture (dark green mass) -->
+  <ellipse cx="145" cy="182" rx="78" ry="18" fill="#137827" stroke="none"/>
+  <!-- Fine chop texture specks -->
+  <circle cx="118" cy="178" r="3" fill="#67832d" stroke="none"/>
+  <circle cx="130" cy="175" r="3" fill="#529929" stroke="none"/>
+  <circle cx="142" cy="173" r="3" fill="#67832d" stroke="none"/>
+  <circle cx="156" cy="174" r="3" fill="#529929" stroke="none"/>
+  <circle cx="168" cy="177" r="3" fill="#67832d" stroke="none"/>
+  <circle cx="125" cy="184" r="3" fill="#529929" stroke="none"/>
+  <circle cx="145" cy="183" r="3" fill="#67832d" stroke="none"/>
+  <circle cx="163" cy="184" r="3" fill="#529929" stroke="none"/>
+  <circle cx="110" cy="183" r="3" fill="#67832d" stroke="none"/>
+  <circle cx="178" cy="183" r="3" fill="#529929" stroke="none"/>
+  <!-- Bulgur (pale yellow grains among green) -->
+  <circle cx="122" cy="181" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="148" cy="179" r="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="165" cy="181" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="135" cy="186" r="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="156" cy="187" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Tomato bits (red) - key accent -->
+  <circle cx="112" cy="176" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="136" cy="172" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="162" cy="172" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="178" cy="176" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lemon wedge garnish (yellow) -->
+  <path d="M220 178 Q240 165 252 185 Q240 195 220 178Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 178 Q236 182 252 185" fill="none" stroke="#fff200" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Spring onion accent (green stalk) -->
+  <line x1="198" y1="175" x2="200" y2="205" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <ellipse cx="198" cy="173" rx="5" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

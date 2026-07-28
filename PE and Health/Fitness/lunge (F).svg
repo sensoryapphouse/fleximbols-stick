@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0779) translate(-256.00 -272.00)">
+<line x1="64" y1="455" x2="448" y2="455" stroke="#9a6a3a" stroke-width="7" stroke-linecap="round"/>
+<!-- BACK leg: extended straight back-and-down, rear knee lowered toward ground -->
+<line x1="256" y1="320" x2="196" y2="410" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<line x1="196" y1="410" x2="232" y2="452" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="216" cy="452" rx="13" ry="7" fill="#33373d"/>
+<!-- FRONT leg: thigh near horizontal, shin vertical, knee bent ~90 deg -->
+<line x1="256" y1="320" x2="322" y2="360" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<line x1="322" y1="360" x2="322" y2="452" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="328" cy="453" rx="15" ry="7" fill="#33373d"/>
+<!-- torso upright -->
+<polygon points="234,210 282,210 278,320 238,320" fill="#e8821e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- arms: front arm reaching forward over front knee, back arm bent back for balance -->
+<line x1="276" y1="218" x2="312" y2="248" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<line x1="312" y1="248" x2="320" y2="290" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<line x1="240" y1="218" x2="208" y2="244" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<line x1="208" y1="244" x2="222" y2="276" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<!-- neck -->
+<line x1="258" y1="212" x2="258" y2="176" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<path d="M 211.0 192.0 L 211.0 136.0 Q 211.0 84.0 258.0 84.0 Q 305.0 84.0 305.0 136.0 L 305.0 192.0 L 292.0 192.0 L 292.0 138.0 Q 292.0 104.0 258.0 104.0 Q 224.0 104.0 224.0 138.0 L 224.0 192.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<circle id="h1" data-fig="fa" class="skin" cx="258" cy="138" r="40" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 220.0 104.0 Q 258.0 90.0 296.0 104.0 Q 258.0 100.0 220.0 104.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<!-- small down arrow at the hips to show the lowering motion -->
+<path d="M 353 287 L 371 287 L 371 340 L 384 340 L 362 370 L 340 340 L 353 340 Z" fill="#2f9e4a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</g></svg>

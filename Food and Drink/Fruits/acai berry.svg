@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Leaf at top right -->
+  <path d="M180 40 C 205 30 235 38 244 60 C 224 70 198 66 180 50 Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M186 45 C 205 52 224 58 240 60" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Twig connecting leaf to berries -->
+  <path d="M180 50 C 170 65 158 78 145 92" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Three round dark purple berries -->
+  <circle cx="90" cy="135" r="42" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="135" r="42" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="180" r="48" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- lighter purple highlights -->
+  <ellipse cx="78" cy="120" rx="10" ry="6" fill="#7c3fac" stroke="none"/>
+  <ellipse cx="188" cy="120" rx="10" ry="6" fill="#7c3fac" stroke="none"/>
+  <ellipse cx="132" cy="163" rx="12" ry="7" fill="#7c3fac" stroke="none"/>
+  <!-- tiny pit dots -->
+  <circle cx="90" cy="135" r="3" fill="#000000" stroke="none"/>
+  <circle cx="200" cy="135" r="3" fill="#000000" stroke="none"/>
+  <circle cx="145" cy="180" r="3" fill="#000000" stroke="none"/>
+</g></svg>

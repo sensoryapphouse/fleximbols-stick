@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- shallow bowl -->
+<path d="M 96 286 Q 256 268 416 286 Q 400 384 256 396 Q 112 384 96 286 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bowl rim -->
+<ellipse cx="256" cy="288" rx="160" ry="30" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- creamy risotto mound -->
+<path d="M 132 290 Q 256 256 380 290 Q 366 360 256 372 Q 146 360 132 290 Z" fill="#f4e4c0" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- rice-grain stipple -->
+<g fill="#e8b24e" stroke="none">
+<ellipse cx="190" cy="300" rx="9" ry="5" transform="rotate(20 190 300)"/>
+<ellipse cx="230" cy="318" rx="9" ry="5" transform="rotate(-15 230 318)"/>
+<ellipse cx="280" cy="306" rx="9" ry="5" transform="rotate(30 280 306)"/>
+<ellipse cx="320" cy="324" rx="9" ry="5" transform="rotate(-25 320 324)"/>
+<ellipse cx="256" cy="340" rx="9" ry="5" transform="rotate(10 256 340)"/>
+<ellipse cx="206" cy="344" rx="9" ry="5" transform="rotate(40 206 344)"/>
+<ellipse cx="300" cy="346" rx="9" ry="5" transform="rotate(-10 300 346)"/>
+</g>
+<!-- peas / parmesan garnish -->
+<circle cx="216" cy="300" r="10" fill="#5aa83c" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="300" cy="312" r="10" fill="#5aa83c" stroke="#1a1a1a" stroke-width="4"/>
+<!-- parsley sprig -->
+<path d="M 256 296 q -14 -10 -26 -6 q 8 12 26 6 q 18 6 26 -6 q -12 -4 -26 6 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+</g></svg>

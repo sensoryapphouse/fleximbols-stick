@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pan/skillet body (wide shallow pan) -->
+  <path d="M35 175 Q35 215 145 215 Q255 215 255 175 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pan rim (water surface) -->
+  <ellipse cx="145" cy="175" rx="110" ry="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Pan handle -->
+  <rect x="255" y="168" width="28" height="14" rx="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Water fill colour visible through pan -->
+  <path d="M35 175 Q35 215 145 215 Q255 215 255 175 Q145 195 35 175 Z" fill="#90a7d6" stroke="none"/>
+  <!-- Water surface re-draw (top of water) -->
+  <ellipse cx="145" cy="175" rx="110" ry="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Poached egg white (submerged, slightly below surface) -->
+  <ellipse cx="145" cy="182" rx="52" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Egg yolk -->
+  <circle cx="145" cy="182" r="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Gentle ripple rings (barely-moving water) -->
+  <ellipse cx="145" cy="175" rx="68" ry="10" fill="none" stroke="#90a7d6" stroke-width="2.96"/>
+  <ellipse cx="145" cy="175" rx="88" ry="14" fill="none" stroke="#90a7d6" stroke-width="2.96"/>
+  <!-- Very tiny bubbles (gentle, barely simmering) -->
+  <circle cx="90" cy="192" r="4" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="76" cy="185" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="200" cy="190" r="4" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="214" cy="182" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Very light steam (barely any) -->
+  <path d="M105 174 Q100 162 106 150" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M185 174 Q180 162 186 150" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dragon dance: long snake-like body on multiple poles, multiple performers below -->
+  <!-- Dragon body undulating across canvas -->
+  <path d="M30 70 Q70 40 110 70 Q150 100 190 70 Q230 40 265 70 L265 95 Q230 65 190 95 Q150 125 110 95 Q70 65 30 95 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Yellow scales along body top -->
+  <path d="M40 75 Q50 65 60 75 M70 75 Q80 60 90 75 M100 80 Q110 70 120 80 M130 85 Q140 75 150 85 M160 85 Q170 70 180 85 M195 80 Q205 65 215 80 M225 75 Q235 60 245 75" fill="none" stroke="#f7de58" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Belly stripes -->
+  <path d="M45 85 L55 85 M75 85 L85 85 M115 100 L125 100 M155 105 L165 105 M205 95 L215 95 M235 85 L245 85" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Dragon head (right end, larger) -->
+  <ellipse cx="245" cy="75" rx="35" ry="28" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Dragon snout -->
+  <path d="M270 75 Q283 70 282 80 Q278 88 268 87" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Dragon horn -->
+  <path d="M232 50 L228 30 L240 45 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M250 48 L255 30 L260 45 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Dragon eye -->
+  <circle cx="252" cy="68" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="253" cy="69" r="3.5" fill="#000000"/>
+  <!-- Dragon nostril -->
+  <circle cx="275" cy="78" r="2" fill="#000000"/>
+  <!-- Dragon whisker -->
+  <path d="M268 90 Q275 105 265 115" fill="none" stroke="#f7de58" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- Dragon tail (left end) -->
+  <path d="M30 80 L10 70 L15 85 L8 90 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Three support poles -->
+  <rect x="65" y="95" width="5" height="80" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="143" y="115" width="5" height="60" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="220" y="95" width="5" height="80" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Performer 1 (left) full body -->
+  <circle cx="68" cy="180" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="60" y="187" width="16" height="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="56" y="195" width="6" height="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="74" y="187" width="6" height="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="60" y="208" width="7" height="20" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="69" y="208" width="7" height="20" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="63" cy="231" rx="5" ry="3" fill="#000000"/>
+  <ellipse cx="72" cy="231" rx="5" ry="3" fill="#000000"/>
+  <!-- Performer 2 (middle) full body -->
+  <circle cx="146" cy="180" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="138" y="187" width="16" height="22" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="134" y="195" width="6" height="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="152" y="195" width="6" height="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="138" y="208" width="7" height="20" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="147" y="208" width="7" height="20" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="141" cy="231" rx="5" ry="3" fill="#000000"/>
+  <ellipse cx="150" cy="231" rx="5" ry="3" fill="#000000"/>
+  <!-- Performer 3 (right) full body -->
+  <circle cx="223" cy="180" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="215" y="187" width="16" height="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="211" y="195" width="6" height="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="229" y="195" width="6" height="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="215" y="208" width="7" height="20" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="224" y="208" width="7" height="20" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="218" cy="231" rx="5" ry="3" fill="#000000"/>
+  <ellipse cx="227" cy="231" rx="5" ry="3" fill="#000000"/>
+</g></svg>

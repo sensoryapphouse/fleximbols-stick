@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Rabies tag: round tag with medical caduceus/cross emblem + split ring -->
+  <!-- Split ring -->
+  <path d="M135 50 C135 37 155 37 155 50 C155 55 150 58 145 58 C140 58 135 55 135 50" fill="none" stroke="#b8b8b8" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M140 53 C140 45 150 45 150 53" fill="none" stroke="#b8b8b8" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Connector -->
+  <line x1="145" y1="58" x2="145" y2="75" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Round tag body -->
+  <circle cx="145" cy="155" r="75" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tag hole -->
+  <circle cx="145" cy="80" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Medical cross emblem (bold red cross) -->
+  <rect x="128" y="120" width="34" height="70" rx="5" fill="#f8130d"/>
+  <rect x="110" y="138" width="70" height="34" rx="5" fill="#f8130d"/>
+  <!-- Caduceus staff vertical (over cross) -->
+  <line x1="145" y1="118" x2="145" y2="192" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Snake curves on staff -->
+  <path d="M145 130 C132 135 132 148 145 150" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M145 150 C158 152 158 165 145 168" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Wings at top of staff -->
+  <path d="M145 120 C133 112 122 118 128 124" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M145 120 C157 112 168 118 162 124" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

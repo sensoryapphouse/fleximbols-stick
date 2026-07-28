@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- chessboard base squares -->
+  <rect x="20" y="215" width="62" height="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="82" y="215" width="62" height="20" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="144" y="215" width="62" height="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="206" y="215" width="62" height="20" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- broad base -->
+  <path d="M100 215 L190 215 L180 198 L110 198 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <rect x="110" y="188" width="70" height="12" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- straight castle tower body (defining feature: square tower, not bell-shaped) -->
+  <rect x="118" y="100" width="54" height="90" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- arrow slit window -->
+  <rect x="140" y="135" width="10" height="25" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- top widening (machicolation lip) -->
+  <rect x="112" y="88" width="66" height="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- crenellated battlements (defining feature) -->
+  <path d="M112 88 L112 60 L125 60 L125 75 L138 75 L138 60 L152 60 L152 75 L165 75 L165 60 L178 60 L178 88 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+</g></svg>

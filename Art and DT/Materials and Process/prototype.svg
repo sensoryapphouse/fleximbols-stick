@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2481) translate(-282.50 -241.50)">
+<!-- workbench / base line -->
+<rect x="150.0" y="392.0" width="265.0" height="20.0" rx="6" fill="#9aa7b3" stroke="#1a1a1a" stroke-width="8"/>
+<!-- back legs (solid, built, set behind) -->
+<rect x="224.0" y="322.0" width="16.0" height="68.0" rx="4" fill="#9c7440" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="272.0" y="322.0" width="16.0" height="68.0" rx="4" fill="#9c7440" stroke="#1a1a1a" stroke-width="8"/>
+<!-- chair seat (solid, partly built) -->
+<rect x="196.0" y="300.0" width="120.0" height="30.0" rx="6" fill="#caa06a" stroke="#1a1a1a" stroke-width="8"/>
+<!-- front legs (solid, built) -->
+<rect x="204.0" y="330.0" width="18.0" height="62.0" rx="4" fill="#caa06a" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="290.0" y="330.0" width="18.0" height="62.0" rx="4" fill="#caa06a" stroke="#1a1a1a" stroke-width="8"/>
+<!-- back of chair drawn as DASHED 'work in progress' plan -->
+<path d="M 200 300 L 200 180 L 312 180 L 312 300" fill="none" stroke="#3aa6d6" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="20 16"/>
+<path d="M 200 196 L 312 196" fill="none" stroke="#3aa6d6" stroke-width="8" stroke-linecap="round" stroke-dasharray="20 16"/>
+<path d="M 240 196 L 240 300" fill="none" stroke="#3aa6d6" stroke-width="8" stroke-linecap="round" stroke-dasharray="18 14"/>
+<path d="M 272 196 L 272 300" fill="none" stroke="#3aa6d6" stroke-width="8" stroke-linecap="round" stroke-dasharray="18 14"/>
+<!-- v1 tag -->
+<g transform="rotate(-12 372 180)">
+<rect x="338" y="158" width="68" height="46" rx="8" fill="#f0c419" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="350" cy="172" r="6" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 354 174 L 372 192" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="356" y="172" width="40" height="9" rx="4" fill="#1a1a1a"/>
+<rect x="356" y="186" width="26" height="9" rx="4" fill="#1a1a1a"/>
+</g>
+</g></svg>

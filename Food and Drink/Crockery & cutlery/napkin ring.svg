@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Napkin ring: decorative ring with a folded napkin pulled through it -->
+  <!-- Napkin tail flaring upward out of ring (top) -->
+  <path d="M115,28 L175,28 L165,110 L125,110 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Pleat lines on top napkin -->
+  <path d="M130,40 L132,108 M145,38 L145,108 M160,40 L158,108" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Napkin tail flaring downward out of ring (bottom) -->
+  <path d="M125,150 L165,150 L180,225 L110,225 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Pleat lines on bottom napkin -->
+  <path d="M130,158 L122,220 M145,155 L145,222 M160,158 L168,220" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Bottom napkin fringe -->
+  <path d="M112,225 L114,232 M126,225 L128,232 M140,225 L142,232 M154,225 L156,232 M168,225 L170,232" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- The ring (a flat band, ellipse with inner ellipse cutaway feel) -->
+  <ellipse cx="145" cy="130" rx="78" ry="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Ring shadow/edge band on inner top -->
+  <path d="M75,128 Q145,108 215,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Decorative band gems on ring -->
+  <circle cx="100" cy="130" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="130" r="7" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="130" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Decorative scrolls between gems -->
+  <path d="M115,130 Q122,124 130,130 Q138,136 130,130" fill="none" stroke="#7d5e23" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M160,130 Q168,124 175,130 Q182,136 175,130" fill="none" stroke="#7d5e23" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

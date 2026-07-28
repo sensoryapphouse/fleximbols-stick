@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Oscillating multi-tool: inline body, triangular flat blade at front, oscillation arc lines -->
+
+  <!-- Main body (inline barrel / in-line grip) -->
+  <rect x="40" y="95" width="165" height="50" rx="16" ry="16" fill="#529929" stroke="#1a1a1a" stroke-width="7.40"/>
+
+  <!-- Grip texture / rubber overmold section -->
+  <rect x="55" y="95" width="80" height="50" rx="12" ry="12" fill="#67832d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Grip ridges -->
+  <line x1="68" y1="95" x2="68" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="95" x2="80" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="92" y1="95" x2="92" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="104" y1="95" x2="104" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="116" y1="95" x2="116" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- On/off switch on top -->
+  <rect x="148" y="88" width="32" height="14" rx="5" ry="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- Head / attachment hub (slightly wider nub before blade) -->
+  <rect x="200" y="102" width="24" height="36" rx="5" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40"/>
+
+  <!-- Flat triangular blade at front -->
+  <polygon points="222,108 258,98 258,142 222,132" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Blade tip (triangular point) -->
+  <polygon points="258,98 272,120 258,142" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Blade mounting holes -->
+  <circle cx="232" cy="115" r="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="232" cy="125" r="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="245" cy="120" r="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Oscillation/vibration arc lines around the blade attachment -->
+  <path d="M 220,90 Q 235,100 220,110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 215,86 Q 235,100 215,114" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 220,130 Q 235,140 220,150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 215,126 Q 235,140 215,154" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

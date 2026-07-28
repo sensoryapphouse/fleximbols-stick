@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Water body (flood) -->
+  <rect x="20" y="148" width="250" height="72" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Water wave layer 1 -->
+  <path d="M20 158 Q50 148 80 158 Q110 168 140 158 Q170 148 200 158 Q230 168 270 158" fill="none" stroke="#dff3fd" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Water wave layer 2 -->
+  <path d="M20 174 Q55 164 90 174 Q125 184 160 174 Q195 164 230 174 Q248 180 270 174" fill="none" stroke="#dff3fd" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Water wave layer 3 -->
+  <path d="M20 190 Q50 182 80 190 Q110 198 140 190 Q170 182 200 190 Q230 198 270 190" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- House walls (submerged lower half) -->
+  <rect x="80" y="118" width="130" height="100" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- House roof -->
+  <polygon points="68,122 145,52 222,122" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Roof ridge cap -->
+  <line x1="68" y1="122" x2="222" y2="122" stroke="#d01424" stroke-width="5.93" stroke-linecap="round"/>
+
+  <!-- House door -->
+  <rect x="127" y="158" width="36" height="60" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Door knob -->
+  <circle cx="156" cy="192" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- House window left -->
+  <rect x="90" y="130" width="34" height="28" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="107" y1="130" x2="107" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="90" y1="144" x2="124" y2="144" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- House window right -->
+  <rect x="166" y="130" width="34" height="28" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="183" y1="130" x2="183" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="166" y1="144" x2="200" y2="144" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Waterline mark on house wall -->
+  <line x1="80" y1="148" x2="210" y2="148" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round" stroke-dasharray="8 6"/>
+
+  <!-- Rain drops -->
+  <ellipse cx="42" cy="90" rx="5" ry="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="62" cy="72" rx="5" ry="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="230" cy="80" rx="5" ry="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="252" cy="62" rx="5" ry="8" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="38" cy="110" rx="4" ry="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="256" cy="100" rx="4" ry="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

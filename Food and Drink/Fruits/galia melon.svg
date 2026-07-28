@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- round green netted melon on left, wedge showing pale green-yellow flesh on right -->
+  <!-- whole melon body (green netted skin) -->
+  <ellipse cx="100" cy="135" rx="62" ry="58" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- netted skin pattern -->
+  <path d="M48 110 Q100 125 152 110" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M44 135 Q100 150 156 135" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M50 162 Q100 175 150 162" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M70 80 Q90 135 76 188" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M100 78 Q108 135 100 192" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 80 Q112 135 124 188" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- small dots -->
+  <circle cx="68" cy="120" r="2" fill="#f5e7c4"/>
+  <circle cx="85" cy="100" r="2" fill="#f5e7c4"/>
+  <circle cx="115" cy="100" r="2" fill="#f5e7c4"/>
+  <circle cx="132" cy="120" r="2" fill="#f5e7c4"/>
+  <circle cx="80" cy="155" r="2" fill="#f5e7c4"/>
+  <circle cx="120" cy="155" r="2" fill="#f5e7c4"/>
+  <circle cx="100" cy="175" r="2" fill="#f5e7c4"/>
+  <!-- stem -->
+  <path d="M95 78 Q100 68 108 70" fill="none" stroke="#529929" stroke-width="8.89" stroke-linecap="round"/>
+
+  <!-- cut wedge showing pale green-yellow flesh -->
+  <path d="M195 80 Q260 105 260 160 Q260 200 215 200 Q200 200 195 180 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- rind line (green skin) -->
+  <path d="M200 88 Q257 110 256 160 Q255 195 215 195" fill="none" stroke="#67832d" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- seed cavity -->
+  <ellipse cx="225" cy="150" rx="14" ry="22" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="222" cy="142" r="2" fill="#7d5e23"/>
+  <circle cx="228" cy="150" r="2" fill="#7d5e23"/>
+  <circle cx="222" cy="158" r="2" fill="#7d5e23"/>
+</g></svg>

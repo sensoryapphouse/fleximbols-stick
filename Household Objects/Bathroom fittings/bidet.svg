@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- back tap fixture -->
+<rect x="238" y="150" width="36" height="26" rx="6" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="220" cy="163" r="8" fill="#4a90d9" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="292" cy="163" r="8" fill="#4a90d9" stroke="#1a1a1a" stroke-width="0"/>
+<!-- water jet fountaining up from centre of bowl -->
+<path d="M 256 232 Q 234 188 256 150 Q 278 188 256 232 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 256 226 Q 222 196 210 168" fill="none" stroke="#4a90d9" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 226 Q 290 196 302 168" fill="none" stroke="#4a90d9" stroke-width="7" stroke-linecap="round"/>
+<!-- bidet bowl rim (oval seen from front-above) -->
+<ellipse cx="256" cy="270" rx="118" ry="60" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="278" rx="84" ry="40" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<!-- central plug/jet hole -->
+<ellipse cx="256" cy="282" rx="16" ry="8" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pedestal base -->
+<path d="M 216 322 L 296 322 L 308 408 L 204 408 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="198" y1="408" x2="314" y2="408" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

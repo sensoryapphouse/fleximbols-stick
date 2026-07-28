@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) scale(0.97) translate(-256 -256)">
+<!-- rails -->
+<line x1="36" y1="408" x2="476" y2="408" stroke="#7d8893" stroke-width="12" stroke-linecap="round"/>
+<line x1="70" y1="400" x2="70" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="160" y1="400" x2="160" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="250" y1="400" x2="250" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="340" y1="400" x2="340" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="430" y1="400" x2="430" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<!-- diesel loco (left) -->
+<path d="M 44 200 L 150 200 Q 162 200 162 212 L 162 356 L 44 356 Q 36 356 36 348 L 36 212 Q 36 200 44 200 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<rect x="56" y="222" width="60" height="46" rx="8" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="36" y1="300" x2="162" y2="300" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="142" cy="282" r="9" fill="#f4c430" stroke="#1a1a1a" stroke-width="5"/>
+<!-- flat-bed goods wagon with crates -->
+<rect x="180" y="304" width="130" height="52" rx="4" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="10"/>
+<rect x="196" y="252" width="46" height="54" rx="4" fill="#c89a5b" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="252" y="262" width="46" height="44" rx="4" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- open-top hopper wagon (right) with coal -->
+<path d="M 330 304 L 330 270 L 460 270 L 460 304 L 460 356 L 330 356 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<path d="M 340 282 Q 360 268 380 280 Q 400 266 420 280 Q 440 268 452 282 L 452 296 L 340 296 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- couplers -->
+<line x1="162" y1="340" x2="180" y2="340" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="310" y1="340" x2="330" y2="340" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- wheels -->
+<circle cx="80" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="80" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="130" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="130" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="210" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="210" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="280" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="280" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="360" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="360" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="430" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="430" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

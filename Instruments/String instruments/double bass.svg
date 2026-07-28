@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- BOW (upper right) -->
+  <line x1="245" y1="20" x2="255" y2="215" stroke="#7d5e23" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Bow hair -->
+  <line x1="248" y1="26" x2="259" y2="215" stroke="#efefef" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="250" y1="26" x2="261" y2="215" stroke="#efefef" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Frog -->
+  <rect x="241" y="16" width="10" height="10" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tip -->
+  <path d="M 255,213 L 261,213 L 263,220 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- DOUBLE BASS BODY — hourglass with distinctive SLOPED shoulders -->
+  <path d="M 108,62
+    Q 88,62 76,78
+    Q 62,94 66,112
+    Q 70,126 82,132
+    C 86,138 84,150 80,158
+    Q 70,172 64,188
+    Q 60,204 76,214
+    Q 96,222 118,223
+    Q 140,222 160,214
+    Q 176,204 172,188
+    Q 166,172 156,158
+    C 152,150 150,138 154,132
+    Q 166,126 170,112
+    Q 174,94 160,78
+    Q 148,62 128,62
+    Q 118,60 108,62 Z"
+    fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Body front face -->
+  <path d="M 110,65
+    Q 90,65 78,81
+    Q 64,97 68,114
+    Q 72,128 84,134
+    C 88,140 86,152 82,160
+    Q 72,174 66,190
+    Q 62,206 78,214
+    Q 98,220 118,221
+    Q 138,220 158,214
+    Q 174,206 170,190
+    Q 164,174 154,160
+    C 150,152 148,140 152,134
+    Q 164,128 168,114
+    Q 172,97 158,81
+    Q 146,65 126,65
+    Q 118,63 110,65 Z"
+    fill="#9d7246" stroke="none"/>
+  <!-- C-bout waist left -->
+  <path d="M 68,122 Q 78,118 82,130 Q 78,142 68,139"
+    fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- C-bout waist right -->
+  <path d="M 168,122 Q 158,118 154,130 Q 158,142 168,139"
+    fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Edge purfling -->
+  <path d="M 76,78 Q 62,94 66,112"
+    fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 160,78 Q 174,94 170,112"
+    fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Left f-hole -->
+  <path d="M 90,122 Q 86,130 88,138 Q 90,144 94,142 Q 92,148 90,156 Q 88,162 92,164"
+    fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="91" cy="124" r="4.5" fill="#000000" stroke="none"/>
+  <circle cx="91" cy="162" r="4.5" fill="#000000" stroke="none"/>
+  <!-- Right f-hole -->
+  <path d="M 146,122 Q 150,130 148,138 Q 146,144 142,142 Q 144,148 146,156 Q 148,162 144,164"
+    fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="124" r="4.5" fill="#000000" stroke="none"/>
+  <circle cx="145" cy="162" r="4.5" fill="#000000" stroke="none"/>
+
+  <!-- Scroll -->
+  <path d="M 112,20
+    Q 105,15 103,9
+    Q 101,3 107,-1
+    Q 113,-5 117,1
+    Q 121,7 117,13
+    Q 114,17 110,17"
+    fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Scroll spiral -->
+  <path d="M 109,3 Q 105,4 106,8 Q 107,12 111,13 Q 115,14 116,11 Q 117,8 115,6"
+    fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Pegbox -->
+  <rect x="108" y="20" width="22" height="24" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Machine tuners (geared, distinguishes double-bass from cello/violin) -->
+  <rect x="101" y="23" width="10" height="5" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="101" y="32" width="10" height="5" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="127" y="23" width="10" height="5" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="127" y="32" width="10" height="5" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Tuner shafts -->
+  <line x1="100" y1="25" x2="109" y2="25" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="34" x2="109" y2="34" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="129" y1="25" x2="138" y2="25" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="129" y1="34" x2="138" y2="34" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Nut -->
+  <rect x="108" y="42" width="22" height="4" rx="1" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Neck (long, wide) -->
+  <rect x="107" y="38" width="24" height="28" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Fingerboard overlay -->
+  <rect x="110" y="40" width="18" height="26" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Bridge with feet and cutouts -->
+  <path d="M 100,148 L 98,162 M 138,148 L 140,162"
+    fill="none" stroke="#f5e7c4" stroke-width="2.96"/>
+  <path d="M 98,162 Q 110,156 118,158 Q 126,156 140,162 L 138,148 Q 126,143 118,145 Q 110,143 100,148 Z"
+    fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="109" cy="157" r="4" fill="#9d7246" stroke="none"/>
+  <circle cx="127" cy="157" r="4" fill="#9d7246" stroke="none"/>
+  <!-- Bridge feet lines -->
+  <line x1="101" y1="162" x2="101" y2="148" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="137" y1="162" x2="137" y2="148" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Tailpiece -->
+  <path d="M 108,204 L 128,204 L 132,217 L 104,217 Z"
+    fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- End button -->
+  <circle cx="118" cy="220" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Endpin spike -->
+  <line x1="118" y1="225" x2="118" y2="236" stroke="#7f7f7f" stroke-width="7.40" stroke-linecap="round"/>
+  <polygon points="118,239 114,233 122,233" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- 4 strings — very thick (E A D G from lowest to highest) -->
+  <line x1="112" y1="46" x2="110" y2="208" stroke="#4d4d4d" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="116" y1="46" x2="115" y2="208" stroke="#4d4d4d" stroke-width="5.18" stroke-linecap="round"/>
+  <line x1="120" y1="46" x2="121" y2="208" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="124" y1="46" x2="126" y2="208" stroke="#b8b8b8" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

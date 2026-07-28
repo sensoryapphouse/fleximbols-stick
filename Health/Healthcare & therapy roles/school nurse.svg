@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 109.54 321.94 321.94"><!-- first-aid kit box with cross -->
+<!-- box -->
+<rect x="120" y="180" width="272" height="210" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- lid band -->
+<rect x="120" y="180" width="272" height="40" rx="16" fill="#e8eaed" stroke="#1a1a1a" stroke-width="9"/>
+<!-- handle -->
+<path d="M 216 180 Q 216 150 256 150 Q 296 150 296 180" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- red cross (single path) -->
+<path d="M 240 240 L 272 240 L 272 284 L 316 284 L 316 316 L 272 316 L 272 360 L 240 360 L 240 316 L 196 316 L 196 284 L 240 284 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

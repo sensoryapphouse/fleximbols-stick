@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="64.00 50.35 384.00 384.00">
+<!-- chain -->
+<path d="M 256 96 C 200 110 188 150 230 168" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<circle cx="256" cy="92" r="14" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<!-- crown / top knob -->
+<rect x="240" y="118" width="32" height="22" rx="5" fill="#e0b24a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- outer case -->
+<circle cx="256" cy="288" r="118" fill="#f0c860" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner face -->
+<circle cx="256" cy="288" r="92" fill="#fdf3d6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- hour ticks -->
+<line x1="256" y1="206" x2="256" y2="224" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="256" y1="352" x2="256" y2="370" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="174" y1="288" x2="192" y2="288" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="320" y1="288" x2="338" y2="288" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="198" y1="230" x2="210" y2="242" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="314" y1="230" x2="302" y2="242" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="198" y1="346" x2="210" y2="334" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="314" y1="346" x2="302" y2="334" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- hands -->
+<line x1="256" y1="288" x2="256" y2="234" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="256" y1="288" x2="300" y2="300" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="256" cy="288" r="9" fill="#1a1a1a"/>
+<!-- patina / age swirl on case -->
+<path d="M 200 360 C 214 376 240 380 256 372" fill="none" stroke="#b8943a" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Trunk: straight grey ash trunk -->
+  <path d="M136 210 L133 172 L134 148 L145 142 L156 148 L157 172 L154 210 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Grey bark stripes -->
+  <line x1="140" y1="210" x2="138" y2="148" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="150" y1="210" x2="152" y2="148" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Upright oval canopy -->
+  <ellipse cx="145" cy="100" rx="72" ry="82" fill="#529929" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Feathery compound leaf texture (lines across canopy) -->
+  <ellipse cx="145" cy="100" rx="55" ry="65" fill="#67832d" stroke="none"/>
+  <!-- Compound leaf clusters: small paired leaflets -->
+  <ellipse cx="115" cy="75" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="175" cy="75" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="100" cy="95" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="190" cy="95" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="108" cy="120" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="182" cy="120" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="125" cy="58" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="165" cy="58" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="45" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="148" rx="16" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Feathery rachis lines -->
+  <line x1="115" y1="75" x2="145" y2="90" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="175" y1="75" x2="145" y2="90" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="95" x2="130" y2="105" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="190" y1="95" x2="160" y2="105" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

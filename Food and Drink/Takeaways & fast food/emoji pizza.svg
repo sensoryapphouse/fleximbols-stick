@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pizza slice triangle (point down) -->
+  <!-- Crust (top edge, curved) -->
+  <path d="M50 50 Q145 25 240 50 L145 220 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Crust top bar (separating crust from cheese) -->
+  <path d="M50 50 Q145 25 240 50 L235 75 Q145 50 55 75 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Cheese layer -->
+  <path d="M55 75 Q145 50 235 75 L145 218 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Melted cheese drips -->
+  <path d="M85 88 Q83 100 90 105 Q97 100 95 88 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M175 92 Q172 105 180 108 Q188 105 185 92 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M130 130 Q128 145 138 148 Q145 143 142 130 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- Pepperoni circles -->
+  <circle cx="105" cy="105" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="110" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="155" r="13" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="175" r="11" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Pepperoni darker spots -->
+  <circle cx="101" cy="102" r="3" fill="#5e1f0a"/>
+  <circle cx="110" cy="108" r="2.5" fill="#5e1f0a"/>
+  <circle cx="166" cy="107" r="3" fill="#5e1f0a"/>
+  <circle cx="174" cy="113" r="2.5" fill="#5e1f0a"/>
+  <circle cx="132" cy="152" r="2.5" fill="#5e1f0a"/>
+  <circle cx="139" cy="158" r="2.5" fill="#5e1f0a"/>
+  <circle cx="163" cy="172" r="2.5" fill="#5e1f0a"/>
+
+  <!-- Basil/herb specks -->
+  <ellipse cx="120" cy="135" rx="4" ry="2" fill="#529929" stroke="#1a1a1a" stroke-width="2.22" transform="rotate(30 120 135)"/>
+  <ellipse cx="150" cy="105" rx="4" ry="2" fill="#529929" stroke="#1a1a1a" stroke-width="2.22" transform="rotate(-20 150 105)"/>
+  <ellipse cx="150" cy="195" rx="4" ry="2" fill="#529929" stroke="#1a1a1a" stroke-width="2.22" transform="rotate(60 150 195)"/>
+</g></svg>

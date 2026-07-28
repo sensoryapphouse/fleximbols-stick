@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Left handle -->
+  <path d="M 22,100 L 68,100 Q 78,100 78,112 L 78,148 Q 78,160 68,160 L 22,160 Q 12,160 12,148 L 12,112 Q 12,100 22,100 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left handle grip ridges -->
+  <path d="M 26,112 L 26,148 M 36,108 L 36,152 M 46,106 L 46,154 M 56,108 L 56,152 M 66,112 L 66,148" fill="none" stroke="#7f7f7f" stroke-width="1.78" stroke-linecap="round"/>
+  <!-- Right handle -->
+  <path d="M 222,100 L 268,100 Q 278,100 278,112 L 278,148 Q 278,160 268,160 L 222,160 Q 212,160 212,148 L 212,112 Q 212,100 222,100 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right handle grip ridges -->
+  <path d="M 226,112 L 226,148 M 236,108 L 236,152 M 246,106 L 246,154 M 256,108 L 256,152 M 266,112 L 266,148" fill="none" stroke="#7f7f7f" stroke-width="1.78" stroke-linecap="round"/>
+  <!-- Tube connecting handles - slight arc (stretched look) -->
+  <path d="M 78,118 Q 145,88 212,118" fill="none" stroke="#1a1a1a" stroke-width="11.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 78,118 Q 145,88 212,118" fill="none" stroke="#529929" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 78,142 Q 145,168 212,142" fill="none" stroke="#1a1a1a" stroke-width="11.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 78,142 Q 145,168 212,142" fill="none" stroke="#529929" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tube body fill between arcs -->
+  <path d="M 78,118 Q 145,88 212,118 L 212,142 Q 145,168 78,142 Z" fill="#67832d" stroke="none"/>
+  <!-- Metal carabiner rings at handle connections -->
+  <circle cx="78" cy="130" r="10" fill="none" stroke="#b8b8b8" stroke-width="3.55"/>
+  <circle cx="212" cy="130" r="10" fill="none" stroke="#b8b8b8" stroke-width="3.55"/>
+</g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- spray/wake water -->
+<path d="M 40 366 Q 84 352 124 366 T 204 366 T 284 366 T 364 366 T 444 366 T 474 366 L 474 416 L 40 416 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- planing hull, raked bow at right -->
+<path d="M 78 318 L 360 286 Q 446 280 452 326 Q 446 352 410 352 L 132 352 Q 84 352 78 318 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- white deck stripe -->
+<path d="M 94 308 L 362 278 Q 422 274 430 296 L 100 322 Z" fill="#fff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- cockpit coaming rising from deck -->
+<path d="M 178 300 L 286 286 L 286 262 L 178 276 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- raked windshield, sitting on the coaming -->
+<path d="M 186 274 L 280 262 L 262 224 L 200 234 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- speed lines (motion) behind stern -->
+<line x1="38" y1="250" x2="118" y2="262" stroke="#9aa0a6" stroke-width="10" stroke-linecap="round"/>
+<line x1="36" y1="288" x2="112" y2="298" stroke="#9aa0a6" stroke-width="10" stroke-linecap="round"/>
+</svg>

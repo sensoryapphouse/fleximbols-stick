@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Marketplace backing panel -->
+  <rect x="20" y="22" width="250" height="160" rx="8" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Inner gallery wall -->
+  <rect x="30" y="32" width="230" height="140" rx="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tile 1 -->
+  <rect x="40" y="42" width="60" height="60" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="70" cy="72" r="14" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+  <polygon points="58,86 70,68 82,86" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Tile 2 (Ethereum logo) -->
+  <rect x="115" y="42" width="60" height="60" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,48 159,72 145,80 131,72" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,80 159,72 145,96 131,72" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Tile 3 -->
+  <rect x="190" y="42" width="60" height="60" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="208" cy="62" r="6" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 198,90 L 210,76 L 222,86 L 238,70 L 238,96 L 198,96 Z" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Tile 4 (highlighted - bought) -->
+  <rect x="40" y="112" width="60" height="54" rx="4" fill="#dff3fd" stroke="#ff9900" stroke-width="5.93" stroke-linejoin="round"/>
+  <polygon points="70,120 80,138 90,138 82,148 86,160 70,152 54,160 58,148 50,138 60,138" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Tile 5 -->
+  <rect x="115" y="112" width="60" height="54" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="140" rx="20" ry="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="139" cy="138" r="2" fill="#000000"/>
+  <circle cx="151" cy="138" r="2" fill="#000000"/>
+  <!-- Tile 6 -->
+  <rect x="190" y="112" width="60" height="54" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="220,120 230,134 244,138 234,150 236,162 220,156 204,162 206,150 196,138 210,134" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- NFT badge band -->
+  <rect x="60" y="196" width="170" height="34" rx="6" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- N -->
+  <path d="M 78,224 L 78,204 L 84,204 L 92,218 L 92,204 L 98,204 L 98,224 L 92,224 L 84,210 L 84,224 Z" fill="#fff200" stroke="none"/>
+  <!-- F -->
+  <path d="M 108,204 L 108,224 L 114,224 L 114,216 L 120,216 L 120,212 L 114,212 L 114,208 L 122,208 L 122,204 Z" fill="#fff200" stroke="none"/>
+  <!-- T -->
+  <path d="M 130,204 L 152,204 L 152,208 L 144,208 L 144,224 L 138,224 L 138,208 L 130,208 Z" fill="#fff200" stroke="none"/>
+  <!-- $ tag -->
+  <path d="M 180,206 L 180,222 M 174,212 Q 174,208 180,208 L 184,208 Q 190,208 190,212 Q 190,216 184,216 L 180,216 Q 174,216 174,220 Q 174,222 180,222 L 184,222 Q 190,222 190,218" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

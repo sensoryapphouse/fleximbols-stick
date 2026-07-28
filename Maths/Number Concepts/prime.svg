@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.9795) translate(-267.00 -285.00)">
+<!-- PRIME (lead, dominant): 7 dots, only ever a single row (1 x 7) -> two factors only -->
+<!-- single-row capsule to stress 'one line only' (1 x 7) -->
+<rect x="40" y="116" width="432" height="68" rx="34" fill="#f1e7f6" stroke="#8e44ad" stroke-width="5"/>
+<circle cx="80.0" cy="150" r="26" fill="#8e44ad" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="141.3" cy="150" r="26" fill="#8e44ad" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="202.7" cy="150" r="26" fill="#8e44ad" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="264.0" cy="150" r="26" fill="#8e44ad" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="325.3" cy="150" r="26" fill="#8e44ad" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="386.7" cy="150" r="26" fill="#8e44ad" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="448.0" cy="150" r="26" fill="#8e44ad" stroke="#1a1a1a" stroke-width="6"/>
+<!-- big green tick: this single-row-only number IS prime -->
+<path d="M 399.8 263.3 L 425.0 289.4 L 489.8 219.2 L 502.4 232.7 L 425.0 315.5 L 386.3 275.9 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="7.0" stroke-linejoin="round"/>
+<!-- COMPOSITE (contrast): 6 dots split into equal groups (2 rows of 3) -> more than two factors -->
+<!-- grouping ovals show it divides into equal groups -->
+<rect x="150" y="330" width="212" height="56" rx="28" fill="none" stroke="#5b6b7a" stroke-width="6"/>
+<rect x="150" y="398" width="212" height="56" rx="28" fill="none" stroke="#5b6b7a" stroke-width="6"/>
+<circle cx="192.0" cy="358.0" r="22" fill="#9aa7b3" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256.0" cy="358.0" r="22" fill="#9aa7b3" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="320.0" cy="358.0" r="22" fill="#9aa7b3" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="192.0" cy="426.0" r="22" fill="#9aa7b3" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256.0" cy="426.0" r="22" fill="#9aa7b3" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="320.0" cy="426.0" r="22" fill="#9aa7b3" stroke="#1a1a1a" stroke-width="5"/>
+<!-- small red cross badge: this one is NOT prime (it splits into equal groups) -->
+<circle cx="410" cy="392" r="30" fill="#ffffff" stroke="#e0473c" stroke-width="6"/>
+<line x1="396" y1="378" x2="424" y2="406" stroke="#e0473c" stroke-width="9" stroke-linecap="round"/>
+<line x1="424" y1="378" x2="396" y2="406" stroke="#e0473c" stroke-width="9" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bottom English muffin half -->
+  <path d="M42,220 Q42,234 145,234 Q248,234 248,220 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="220" rx="103" ry="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Nook/cranny texture on bottom muffin -->
+  <path d="M80,222 Q86,232 90,228" fill="none" stroke="#7d5e23" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M130,224 Q136,234 140,230" fill="none" stroke="#7d5e23" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M175,222 Q181,232 185,228" fill="none" stroke="#7d5e23" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Melted cheese layer -->
+  <path d="M50,196 L54,180 L236,180 L240,196 Q205,210 145,206 Q85,210 50,196 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <path d="M62,200 Q60,212 66,208" fill="none" stroke="#f7de58" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M228,200 Q230,212 224,208" fill="none" stroke="#f7de58" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- FRIED EGG - centered and prominent, egg white large -->
+  <ellipse cx="145" cy="160" rx="80" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Ruffled egg white edge -->
+  <path d="M65,160 Q74,146 90,152 Q100,142 116,150 Q126,140 142,148 Q152,140 164,148 Q176,142 188,154 Q202,146 216,158 Q225,162 225,162" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Bold egg yolk -->
+  <circle cx="145" cy="160" r="25" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Yolk highlight -->
+  <circle cx="145" cy="155" r="14" fill="#f7de58"/>
+  <!-- Top English muffin half -->
+  <ellipse cx="145" cy="114" rx="103" ry="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <path d="M42,114 Q42,52 145,52 Q248,52 248,114 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Muffin top texture lines (nooks/crannies) -->
+  <line x1="80" y1="86" x2="86" y2="106" stroke="#9d7246" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="112" y1="70" x2="116" y2="98" stroke="#9d7246" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="145" y1="64" x2="145" y2="94" stroke="#9d7246" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="178" y1="70" x2="174" y2="98" stroke="#9d7246" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="210" y1="86" x2="204" y2="106" stroke="#9d7246" stroke-width="2.54" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Abdomen/torso (person's midsection, viewed from front) -->
+  <path d="M80,100 Q80,60 145,58 Q210,60 210,100 L210,180 Q210,210 145,212 Q80,210 80,180 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Navel -->
+  <ellipse cx="145" cy="148" rx="8" ry="5" fill="none" stroke="#9d7246" stroke-width="3.33"/>
+  <!-- Insulin pen body (angled, injecting lower-right quadrant of abdomen) -->
+  <!-- Pen body -->
+  <g transform="rotate(-38, 200, 130)">
+    <!-- Pen cap end (top) -->
+    <rect x="188" y="62" width="24" height="16" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+    <!-- Pen barrel -->
+    <rect x="188" y="78" width="24" height="80" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+    <!-- Dose window -->
+    <rect x="192" y="90" width="16" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <!-- Insulin visible in window -->
+    <rect x="193" y="91" width="14" height="20" rx="3" fill="#3aa6a0" stroke="none"/>
+    <!-- Dose dial -->
+    <rect x="188" y="158" width="24" height="16" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <!-- Needle hub -->
+    <rect x="194" y="174" width="12" height="10" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <!-- Needle -->
+    <line x1="200" y1="184" x2="200" y2="202" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  </g>
+  <!-- Blood/insulin drop at injection site -->
+  <path d="M178,162 Q183,154 178,148 Q173,154 178,162 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Injection site pinch marks -->
+  <path d="M166,156 Q170,150 172,158" fill="none" stroke="#9d7246" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M190,156 Q186,150 184,158" fill="none" stroke="#9d7246" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

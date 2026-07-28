@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Triangular glass roof -->
+  <polygon points="145,28 260,105 30,105" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.88" stroke-linejoin="round"/>
+  <!-- Roof ridge line -->
+  <line x1="145" y1="28" x2="145" y2="105" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Roof glazing bars -->
+  <line x1="145" y1="28" x2="200" y2="105" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="145" y1="28" x2="90" y2="105" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Glass walls -->
+  <rect x="30" y="105" width="230" height="118" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.88" rx="2"/>
+  <!-- Wall glazing bars -->
+  <line x1="97" y1="105" x2="97" y2="223" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="145" y1="105" x2="145" y2="223" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="193" y1="105" x2="193" y2="223" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="30" y1="163" x2="260" y2="163" stroke="#7f7f7f" stroke-width="2.96"/>
+  <!-- Plants inside: left pot -->
+  <rect x="52" y="192" width="22" height="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" rx="1"/>
+  <path d="M60 192 Q58 175 52 165 M60 192 Q60 172 65 162 M60 192 Q63 174 72 165" fill="none" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Plants inside: centre pot -->
+  <rect x="132" y="192" width="22" height="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" rx="1"/>
+  <path d="M143 192 Q140 172 133 162 M143 192 Q143 170 143 158 M143 192 Q146 172 153 162" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Plants inside: right pot -->
+  <rect x="210" y="192" width="22" height="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" rx="1"/>
+  <path d="M221 192 Q218 175 212 165 M221 192 Q221 172 221 160 M221 192 Q224 174 231 165" fill="none" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

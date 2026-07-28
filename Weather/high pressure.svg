@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Background panel -->
+  <rect x="26" y="32" width="238" height="176" rx="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Barometer gauge body (circle) -->
+  <circle cx="145" cy="128" r="82" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="128" r="72" fill="#efefef" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Gauge arc scale markings (semi-circle, low on left, high on right) -->
+  <!-- Low zone arc (left side, blue) -->
+  <path d="M75 168 A72 72 0 0 1 145 56" fill="none" stroke="#2a4ec0" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- High zone arc (right side, orange/red) -->
+  <path d="M145 56 A72 72 0 0 1 215 168" fill="none" stroke="#f8130d" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Tick marks on gauge -->
+  <!-- Low (9 o'clock ~left) -->
+  <line x1="73" y1="128" x2="86" y2="128" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- 10 o'clock -->
+  <line x1="82" y1="87" x2="91" y2="96" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- 12 o'clock (top) -->
+  <line x1="145" y1="56" x2="145" y2="69" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- 2 o'clock -->
+  <line x1="208" y1="87" x2="199" y2="96" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- High (3 o'clock ~right) -->
+  <line x1="217" y1="128" x2="204" y2="128" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Needle pointing to high-right (between 1 and 2 o'clock, high pressure zone) -->
+  <!-- Needle at ~60 degrees from 12, pointing right-high -->
+  <line x1="145" y1="128" x2="198" y2="87" stroke="#f8130d" stroke-width="6.22" stroke-linecap="round"/>
+  <!-- Needle base cap -->
+  <circle cx="145" cy="128" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- "LOW" label area left (drawn as small tick label lines only — no text) -->
+  <!-- "HIGH" label area right (drawn geometric only) -->
+  <!-- Bold drawn "H" shape (meteorological symbol) — 3 thick path strokes -->
+  <!-- Left vertical stroke of H -->
+  <line x1="38" y1="50" x2="38" y2="110" stroke="#1d0e82" stroke-width="12.44" stroke-linecap="round"/>
+  <!-- Right vertical stroke of H -->
+  <line x1="72" y1="50" x2="72" y2="110" stroke="#1d0e82" stroke-width="12.44" stroke-linecap="round"/>
+  <!-- Crossbar of H -->
+  <line x1="38" y1="80" x2="72" y2="80" stroke="#1d0e82" stroke-width="12.44" stroke-linecap="round"/>
+</g></svg>

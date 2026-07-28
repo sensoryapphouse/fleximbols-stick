@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- life-support backpack (behind torso) -->
+  <rect x="98" y="78" width="94" height="90" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="106" y="86" width="78" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="106" y="106" width="20" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="164" y="106" width="20" height="14" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- torso (suit) -->
+  <path d="M 100 90 Q 100 78 116 78 L 174 78 Q 190 78 190 90 L 188 168 Q 188 178 178 178 L 112 178 Q 102 178 102 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- chest control panel -->
+  <rect x="124" y="110" width="42" height="26" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="132" cy="123" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="145" cy="123" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="158" cy="123" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- helmet -->
+  <circle cx="145" cy="58" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- visor -->
+  <path d="M 118 52 Q 145 30 172 52 Q 172 70 145 78 Q 118 70 118 52 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 124 48 Q 135 42 146 44" fill="none" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- neck ring -->
+  <rect x="128" y="92" width="34" height="8" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- arms -->
+  <path d="M 100 100 Q 78 110 70 150 Q 66 168 80 180 L 96 178 Q 90 162 92 148 Q 94 130 102 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 190 100 Q 212 110 220 150 Q 224 168 210 180 L 194 178 Q 200 162 198 148 Q 196 130 188 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- gloves -->
+  <circle cx="82" cy="184" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="184" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- legs -->
+  <rect x="110" y="178" width="32" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="178" width="32" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- boots -->
+  <path d="M 104 214 L 144 214 L 144 226 Q 144 232 138 232 L 110 232 Q 104 232 104 226 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 146 214 L 186 214 L 186 226 Q 186 232 180 232 L 152 232 Q 146 232 146 226 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

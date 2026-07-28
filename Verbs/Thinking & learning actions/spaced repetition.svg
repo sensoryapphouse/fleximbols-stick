@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stack of flashcards (back cards) -->
+  <rect x="42" y="52" width="110" height="76" rx="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="36" y="46" width="110" height="76" rx="8" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Front flashcard -->
+  <rect x="30" y="40" width="110" height="76" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Card content lines -->
+  <line x1="48" y1="62" x2="122" y2="62" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="48" y1="76" x2="108" y2="76" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="48" y1="90" x2="116" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Star on card -->
+  <polygon points="85,96 88,108 100,108 90,116 94,128 85,120 76,128 80,116 70,108 82,108" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Timeline bar -->
+  <rect x="30" y="175" width="230" height="10" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Interval tick 1 (short gap) -->
+  <rect x="52" y="162" width="8" height="22" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Interval tick 2 (medium gap) -->
+  <rect x="90" y="158" width="8" height="26" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Interval tick 3 (larger gap) -->
+  <rect x="142" y="154" width="8" height="30" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Interval tick 4 (largest gap) -->
+  <rect x="216" y="150" width="8" height="34" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Circular arrow (repeat/review icon) top right -->
+  <path d="M196 44 A38 38 0 1 1 233 82" fill="none" stroke="#f8130d" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Arrow head -->
+  <polygon points="233,68 233,96 248,82" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Clock face inside the arrow -->
+  <circle cx="214" cy="82" r="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Clock hands -->
+  <line x1="214" y1="82" x2="214" y2="66" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="214" y1="82" x2="226" y2="88" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Clock centre dot -->
+  <circle cx="214" cy="82" r="4" fill="#000000"/>
+</g></svg>

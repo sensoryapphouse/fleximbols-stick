@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- wall plug / rawl plug: ribbed expanding sleeve, vertical -->
+<!-- collar lip at top -->
+<rect x="196" y="100" width="120" height="30" rx="10" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tapered body -->
+<path d="M 206 130 L 306 130 L 282 392 Q 256 420 230 392 Z" fill="#8cc152" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- central split slot -->
+<line x1="256" y1="150" x2="256" y2="380" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- expansion ribs (left) -->
+<line x1="218" y1="180" x2="244" y2="180" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="220" y1="230" x2="244" y2="230" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="223" y1="280" x2="245" y2="280" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="226" y1="330" x2="246" y2="330" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- expansion ribs (right) -->
+<line x1="268" y1="180" x2="294" y2="180" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="268" y1="230" x2="292" y2="230" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="267" y1="280" x2="289" y2="280" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="266" y1="330" x2="286" y2="330" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

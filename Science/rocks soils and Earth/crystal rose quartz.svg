@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Main rounded chunk body -->
+  <path d="M80,185 C60,175 50,148 55,118 C60,88 78,65 100,55 C118,47 140,48 162,52 C188,58 215,75 225,105 C235,135 220,170 200,185 C182,198 155,205 130,205 C108,205 92,192 80,185 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Inner lighter facet 1 -->
+  <path d="M100,72 C118,62 148,62 168,72 C190,84 205,108 195,132 C185,155 168,168 148,170 C128,172 108,162 98,145 C86,126 82,86 100,72 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Facet line suggestion — top break -->
+  <path d="M80,185 C90,160 92,130 100,72" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M225,105 C210,115 195,132 200,185" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M100,55 C115,80 120,115 115,150" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Highlight -->
+  <ellipse cx="115" cy="80" rx="18" ry="10" fill="#ffffff" stroke="none" transform="rotate(-30 115 80)"/>
+  <!-- Small highlight dot -->
+  <circle cx="165" cy="70" r="6" fill="#ffffff"/>
+</g></svg>

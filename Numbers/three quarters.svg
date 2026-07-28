@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- circle showing three quarters filled, one quarter (top-right) empty -->
+<circle cx="256" cy="256" r="158" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- three filled quarters: from top going clockwise we leave top-right empty.
+     Fill quarters: top-left, bottom-left, bottom-right (i.e. everything except 12->3 o'clock) -->
+<path d="M256 256 L256 98 A158 158 0 0 0 98 256 A158 158 0 0 0 256 414 A158 158 0 0 0 414 256 L256 256 Z"
+fill="#8cc152" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- quarter grid lines -->
+<line x1="256" y1="98" x2="256" y2="414" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="98" y1="256" x2="414" y2="256" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

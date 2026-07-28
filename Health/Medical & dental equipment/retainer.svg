@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 84.25 345.21 345.21"><g>
+<!-- removable orthodontic retainer: pink acrylic plate with a curved front wire -->
+<!-- acrylic palate plate (horseshoe) -->
+<path d="M 256 380 Q 110 380 110 230 Q 110 140 180 140 Q 220 140 224 196 Q 230 270 256 270 Q 282 270 288 196 Q 292 140 332 140 Q 402 140 402 230 Q 402 380 256 380 Z" fill="#f3aeb6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- plate inner shading -->
+<path d="M 256 348 Q 150 348 150 238" fill="none" stroke="#e08a94" stroke-width="6" stroke-linecap="round"/>
+<path d="M 256 348 Q 362 348 362 238" fill="none" stroke="#e08a94" stroke-width="6" stroke-linecap="round"/>
+<!-- labial bow wire across the front -->
+<path d="M 150 210 Q 150 150 200 142 Q 256 130 312 142 Q 362 150 362 210" fill="none" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
+<path d="M 150 210 Q 150 150 200 142 Q 256 130 312 142 Q 362 150 362 210" fill="none" stroke="#cdd3da" stroke-width="6" stroke-linecap="round"/>
+<!-- little adjustment loops -->
+<circle cx="150" cy="212" r="13" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="362" cy="212" r="13" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Main knit dome -->
+  <path d="M55,148 Q52,90 145,72 Q238,90 235,148 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Folded ribbed brim -->
+  <rect x="55" y="148" width="180" height="42" rx="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rib lines on brim -->
+  <line x1="80" y1="150" x2="80" y2="188" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="150" x2="100" y2="188" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="120" y1="150" x2="120" y2="188" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="140" y1="150" x2="140" y2="188" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="150" x2="160" y2="188" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="180" y1="150" x2="180" y2="188" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="200" y1="150" x2="200" y2="188" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="150" x2="210" y2="188" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Knit texture on dome (horizontal wavy rows) -->
+  <path d="M68,138 Q79,133 90,138 Q101,143 112,138 Q123,133 134,138 Q145,143 156,138 Q167,133 178,138 Q189,143 200,138 Q211,133 222,138" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M63,120 Q75,115 87,120 Q99,125 111,120 Q123,115 135,120 Q147,125 159,120 Q171,115 183,120 Q195,125 207,120 Q219,115 228,120" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M62,102 Q74,97 86,102 Q98,107 110,102 Q122,97 134,102 Q146,107 158,102 Q170,97 182,102 Q194,107 206,102 Q218,97 228,102" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M68,86 Q80,81 92,86 Q104,91 116,86 Q128,81 140,86 Q152,91 164,86 Q176,81 188,86 Q200,91 210,86" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pom-pom on top -->
+  <circle cx="145" cy="72" r="18" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="72" r="10" fill="#d01424" stroke="none"/>
+</g></svg>

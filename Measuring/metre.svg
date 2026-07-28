@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0102) translate(-256.00 -256.00)">
+<!-- long metre stick / ruler -->
+<rect x="36.0" y="300.0" width="440.0" height="84.0" rx="10" fill="#f4c869" stroke="#caa015" stroke-width="5"/>
+<!-- gradations along the bottom edge -->
+<line x1="36" y1="384" x2="36" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="58" y1="384" x2="58" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="80" y1="384" x2="80" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="102" y1="384" x2="102" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="124" y1="384" x2="124" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="146" y1="384" x2="146" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="168" y1="384" x2="168" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="190" y1="384" x2="190" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="212" y1="384" x2="212" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="234" y1="384" x2="234" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="256" y1="384" x2="256" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="278" y1="384" x2="278" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="300" y1="384" x2="300" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="322" y1="384" x2="322" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="344" y1="384" x2="344" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="366" y1="384" x2="366" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="388" y1="384" x2="388" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="410" y1="384" x2="410" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="432" y1="384" x2="432" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<line x1="454" y1="384" x2="454" y2="356" stroke="#caa015" stroke-width="4" stroke-linecap="round"/>
+<line x1="476" y1="384" x2="476" y2="334" stroke="#caa015" stroke-width="5" stroke-linecap="round"/>
+<!-- full-length span arrow above, marking it as a single whole unit -->
+<line x1="44" y1="236" x2="468" y2="236" stroke="#e0473c" stroke-width="11" stroke-linecap="round"/>
+<polygon points="36.0,236.0 62.0,221.0 62.0,251.0" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+<polygon points="476.0,236.0 450.0,251.0 450.0,221.0" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+<!-- bold "1 m" unit label drawn as shapes (no text) -->
+<!-- digit 1 -->
+<g fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="176,120 200,104 200,196"/>
+<line x1="176" y1="196" x2="226" y2="196"/>
+</g>
+<!-- letter m -->
+<g fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+<line x1="262" y1="196" x2="262" y2="138"/>
+<path d="M262 152 q14 -18 28 0 v44"/>
+<path d="M290 152 q14 -18 28 0 v44"/>
+</g>
+</g></svg>

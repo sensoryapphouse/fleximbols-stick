@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Trunk -->
+  <rect x="126" y="158" width="38" height="54" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Canopy -->
+  <ellipse cx="145" cy="105" rx="88" ry="72" fill="#529929" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Pomegranates: round red with distinctive crown calyx tips -->
+  <!-- Pomegranate 1 -->
+  <circle cx="103" cy="115" r="15" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Crown calyx - 5-pointed star tips -->
+  <path d="M103,100 L100,94 L97,100 L95,93 L103,100 L111,93 L109,100 L106,94Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="103" y1="93" x2="103" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pomegranate 2 -->
+  <circle cx="145" cy="88" r="15" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M145,73 L142,67 L139,73 L137,66 L145,73 L153,66 L151,73 L148,67Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="145" y1="66" x2="145" y2="73" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pomegranate 3 -->
+  <circle cx="188" cy="112" r="15" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M188,97 L185,91 L182,97 L180,90 L188,97 L196,90 L194,97 L191,91Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="188" y1="90" x2="188" y2="97" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pomegranate 4 -->
+  <circle cx="120" cy="138" r="15" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M120,123 L117,117 L114,123 L112,116 L120,123 L128,116 L126,123 L123,117Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="120" y1="116" x2="120" y2="123" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pomegranate 5 -->
+  <circle cx="168" cy="135" r="15" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M168,120 L165,114 L162,120 L160,113 L168,120 L176,113 L174,120 L171,114Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="168" y1="113" x2="168" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

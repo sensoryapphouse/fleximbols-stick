@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- ground line -->
+<line x1="60" y1="400" x2="452" y2="400" stroke="#9aa0a6" stroke-width="10" stroke-linecap="round"/>
+<!-- rails across the ground -->
+<line x1="120" y1="392" x2="452" y2="392" stroke="#7d8893" stroke-width="8" stroke-linecap="round"/>
+<line x1="120" y1="376" x2="452" y2="376" stroke="#7d8893" stroke-width="8" stroke-linecap="round"/>
+<!-- left post (base) -->
+<rect x="118" y="150" width="30" height="250" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- pivot -->
+<circle cx="133" cy="172" r="14" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<!-- raised barrier boom (red & white stripes), angled up -->
+<g>
+<rect x="120" y="120" width="280" height="34" rx="6" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" transform="rotate(-26 133 137)"/>
+</g>
+<!-- white stripes on boom -->
+<g transform="rotate(-26 133 137)">
+<rect x="178" y="120" width="34" height="34" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="266" y="120" width="34" height="34" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="354" y="120" width="34" height="34" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+</g>
+<!-- warning light heads on the right -->
+<circle cx="356" cy="210" r="26" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="356" cy="276" r="26" fill="#f4c430" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="343" y="296" width="26" height="104" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+</g></svg>

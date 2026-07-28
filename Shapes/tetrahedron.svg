@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <linearGradient id="tetFront" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#d0e0f8"/>
+    <stop offset="100%" stop-color="#5a8ad6"/>
+  </linearGradient>
+  <linearGradient id="tetSide" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#5a8ad6"/>
+    <stop offset="100%" stop-color="#3a6ab6"/>
+  </linearGradient>
+</defs>
+<polygon points="145,25 55,215 235,215" fill="url(#tetFront)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,25 235,215 195,170" fill="url(#tetSide)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="145" y1="25" x2="195" y2="170" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5 4" opacity="0.5"/>
+<line x1="55" y1="215" x2="195" y2="170" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5 4" opacity="0.5"/>
+</svg>

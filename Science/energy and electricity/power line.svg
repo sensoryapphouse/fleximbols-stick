@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="38.79 67.80 434.42 434.42">
+<!-- wooden utility pole carrying overhead power cables -->
+<!-- pole -->
+<rect x="246" y="150" width="20" height="270" rx="4" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- cross-arm -->
+<rect x="160" y="178" width="192" height="20" rx="4" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- insulators on cross-arm -->
+<circle cx="186" cy="172" r="11" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="172" r="11" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="326" cy="172" r="11" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="6"/>
+<!-- drooping cables to both edges -->
+<path d="M 70 150 Q 128 220 186 172" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 186 172 Q 256 232 326 172" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 326 172 Q 384 220 442 150" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- spark to indicate power -->
+<polygon points="288 250 268 296 286 296 274 336 314 286 292 286 308 250" fill="#f4c430" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+</svg>

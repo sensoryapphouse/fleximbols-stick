@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- can body -->
+<path d="M 168 150 L 344 150 L 344 392 L 168 392 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top rim ellipse -->
+<ellipse cx="256" cy="150" rx="88" ry="26" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="150" rx="68" ry="17" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<!-- bottom rim -->
+<path d="M 168 392 Q 256 418 344 392" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- label band -->
+<rect x="168" y="208" width="176" height="118" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="168" y1="208" x2="344" y2="208" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="168" y1="326" x2="344" y2="326" stroke="#1a1a1a" stroke-width="9"/>
+<!-- label motif: bean/veg pictogram -->
+<ellipse cx="240" cy="262" rx="18" ry="26" fill="#f4c430" stroke="#1a1a1a" stroke-width="7" transform="rotate(-20 240 262)"/>
+<ellipse cx="272" cy="276" rx="18" ry="26" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7" transform="rotate(20 272 276)"/>
+</g></svg>

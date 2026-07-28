@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- nature backdrop: hill -->
+  <path d="M0 200 Q70 160 145 175 Q220 190 290 165 L290 240 L0 240 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- tree on right (nature backdrop) -->
+  <rect x="245" y="155" width="10" height="40" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.04"/>
+  <circle cx="250" cy="145" r="20" fill="#529929" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- globe (centre-left) -->
+  <circle cx="95" cy="120" r="45" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.65"/>
+  <!-- continents on globe -->
+  <path d="M70 105 Q80 95 95 100 Q105 110 100 120 Q90 125 80 120 Q72 115 70 105 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <path d="M105 130 Q120 128 125 140 Q118 150 108 148 Q102 140 105 130 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <path d="M75 135 Q88 138 90 148 Q82 155 72 150 Q68 142 75 135 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <!-- large green leaf on top of globe -->
+  <path d="M155 80 Q180 30 230 50 Q220 95 170 105 Q160 95 155 80 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
+  <!-- leaf vein -->
+  <path d="M158 88 Q190 70 225 55" fill="none" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- 'G' shape (path, not text) -->
+  <path d="M205 145 A28 28 0 1 0 233 173 L233 168 L218 168 L218 175 L222 175 L222 178 A18 18 0 1 1 215 155 Q220 153 225 156 L233 148 Q220 138 205 145 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+</g></svg>

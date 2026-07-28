@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1673) translate(-233.50 -271.00)">
+<!-- ===== IRONING BOARD (redone) ===== -->
+<!-- A-frame legs -->
+<line x1="170" y1="316" x2="150" y2="452" stroke="#566270" stroke-width="11" stroke-linecap="round"/>
+<line x1="170" y1="316" x2="214" y2="452" stroke="#566270" stroke-width="11" stroke-linecap="round"/>
+<line x1="158" y1="392" x2="206" y2="392" stroke="#566270" stroke-width="8" stroke-linecap="round"/>
+<line x1="300" y1="316" x2="280" y2="452" stroke="#566270" stroke-width="11" stroke-linecap="round"/>
+<line x1="300" y1="316" x2="324" y2="452" stroke="#566270" stroke-width="11" stroke-linecap="round"/>
+<line x1="288" y1="384" x2="336" y2="384" stroke="#566270" stroke-width="8" stroke-linecap="round"/>
+<!-- long flat padded top with rounded/tapered nose at the left -->
+<path d="M 120 316 Q 100 316 100 304 Q 100 292 120 292 L 330 292 Q 342 292 342 304 Q 342 316 330 316 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- garment laid on the board -->
+<path d="M 150 292 L 250 292 L 244 286 L 156 286 Z" fill="#dbe6f0" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- ===== FIGURE ===== -->
+<line x1="353" y1="303" x2="344" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="383" y1="303" x2="392" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="344" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="392" cy="457" rx="13" ry="7" fill="#33373d"/>
+<polygon points="336,197 400,197 398,305 338,305" fill="#e8821e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- left arm reaching down to the iron on the board -->
+<line x1="338" y1="199" x2="300" y2="278" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<!-- right arm -->
+<line x1="398" y1="199" x2="418" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="368" y1="197" x2="368" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 321.0 184.0 L 321.0 128.0 Q 321.0 76.0 368.0 76.0 Q 415.0 76.0 415.0 128.0 L 415.0 184.0 L 402.0 184.0 L 402.0 130.0 Q 402.0 96.0 368.0 96.0 Q 334.0 96.0 334.0 130.0 L 334.0 184.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<circle id="h1" data-fig="fa" cx="368" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 330.0 96.0 Q 368.0 82.0 406.0 96.0 Q 368.0 92.0 330.0 96.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<!-- ===== IRON in the figure's left hand ===== -->
+<path d="M 268 282 Q 274 258 308 256 L 318 256 Q 330 256 330 268 L 330 280 Q 330 286 322 286 L 286 286 Q 272 286 268 282 Z" fill="#dc2626" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 268 282 Q 264 290 286 292 L 322 292 Q 330 292 330 284 L 330 280 L 286 286 Q 272 286 268 282 Z" fill="#9ca3af" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 286 256 Q 290 238 308 238 Q 326 238 326 256" fill="none" stroke="#39414b" stroke-width="12" stroke-linecap="round"/>
+<circle cx="300" cy="280" r="11" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="4"/>
+<!-- steam -->
+<path d="M 250 258 q -10 -14 0 -26" fill="none" stroke="#9aa7b3" stroke-width="6" stroke-linecap="round"/>
+<path d="M 268 250 q -10 -14 0 -26" fill="none" stroke="#9aa7b3" stroke-width="6" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky -->
+  <rect x="0" y="0" width="290" height="155" fill="#dff3fd" stroke="none"/>
+  <!-- Ground -->
+  <rect x="0" y="153" width="290" height="77" fill="#9d7246" stroke="none"/>
+  <line x1="0" y1="153" x2="290" y2="153" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Smaller ground crack (secondary tremor — narrower than earthquake-modern) -->
+  <polyline points="128,148 120,160 132,167 123,178 134,186 124,200 133,215" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Chasm fill -->
+  <polygon points="128,148 120,160 132,167 123,178 134,186 124,200 133,215 142,215 148,200 140,185 150,177 141,166 152,158 144,148" fill="#000000" stroke="none"/>
+  <!-- Small house with minor damage -->
+  <rect x="170" y="100" width="50" height="55" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <polygon points="163,100 227,100 196,76" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="184" y="122" width="12" height="16" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="204" y="112" width="10" height="10" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Small crack on house wall -->
+  <polyline points="175,118 180,125 174,132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Clock indicating "later" (top left area) -->
+  <circle cx="52" cy="72" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Clock face inner -->
+  <circle cx="52" cy="72" r="28" fill="#ffffff" stroke="none"/>
+  <!-- Clock tick marks -->
+  <line x1="52" y1="46" x2="52" y2="52" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="52" y1="90" x2="52" y2="96" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="26" y1="72" x2="32" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="72" y1="72" x2="78" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hour hand pointing ~7 (past event) -->
+  <line x1="52" y1="72" x2="38" y2="86" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Minute hand pointing ~2 -->
+  <line x1="52" y1="72" x2="62" y2="56" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Center dot -->
+  <circle cx="52" cy="72" r="3" fill="#000000"/>
+  <!-- Warning triangle (top right) -->
+  <polygon points="220,15 270,100 170,100" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Exclamation mark -->
+  <rect x="239" y="40" width="10" height="38" rx="4" fill="#000000"/>
+  <circle cx="244" cy="88" r="5" fill="#000000"/>
+  <!-- Small shake lines near crack -->
+  <line x1="108" y1="165" x2="98" y2="163" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="107" y1="175" x2="96" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="108" y1="185" x2="98" y2="187" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

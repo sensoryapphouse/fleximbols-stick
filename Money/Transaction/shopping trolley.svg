@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Trolley bag body (upright wheeled bag) -->
+  <rect x="85" y="52" width="120" height="136" rx="14" ry="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Bag front pocket -->
+  <rect x="98" y="118" width="94" height="60" rx="10" ry="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Pocket zip line -->
+  <line x1="98" y1="136" x2="192" y2="136" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Pocket zip pull -->
+  <circle cx="144" cy="136" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Top zip across bag -->
+  <line x1="85" y1="72" x2="205" y2="72" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <circle cx="144" cy="72" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Retractable handle — inner tube -->
+  <rect x="136" y="20" width="18" height="40" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Handle grip bar -->
+  <rect x="116" y="18" width="58" height="14" rx="7" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Axle bar -->
+  <line x1="85" y1="188" x2="205" y2="188" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
+  <!-- Two large wheels at bottom -->
+  <circle cx="106" cy="207" r="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.34"/>
+  <circle cx="106" cy="207" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="184" cy="207" r="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.34"/>
+  <circle cx="184" cy="207" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Bag logo patch area -->
+  <ellipse cx="145" cy="88" rx="28" ry="18" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.81"/>
+</g></svg>

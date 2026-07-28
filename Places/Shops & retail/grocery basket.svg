@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Basket body (trapezoidal) -->
+  <path d="M 48 110 L 62 210 Q 64 220 76 220 L 214 220 Q 226 220 228 210 L 242 110 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Basket weave lines horizontal -->
+  <line x1="52" y1="136" x2="238" y2="136" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="56" y1="162" x2="235" y2="162" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="188" x2="232" y2="188" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Basket weave lines vertical -->
+  <line x1="90" y1="110" x2="82" y2="220" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="120" y1="110" x2="116" y2="220" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="145" y2="220" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="110" x2="174" y2="220" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="200" y1="110" x2="208" y2="220" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Basket rim bar -->
+  <rect x="44" y="106" width="202" height="14" rx="7" ry="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Left handle arc -->
+  <path d="M 72 110 Q 48 62 88 44 Q 110 34 118 62 Q 120 72 110 78" fill="none" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 72 110 Q 48 62 88 44 Q 110 34 118 62 Q 120 72 110 78" fill="none" stroke="#7d5e23" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right handle arc -->
+  <path d="M 218 110 Q 242 62 202 44 Q 180 34 172 62 Q 170 72 180 78" fill="none" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 218 110 Q 242 62 202 44 Q 180 34 172 62 Q 170 72 180 78" fill="none" stroke="#7d5e23" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Groceries in basket: apple -->
+  <circle cx="100" cy="100" r="18" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M 99 82 Q 100 74 103 78" fill="none" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Groceries in basket: lemon -->
+  <ellipse cx="148" cy="97" rx="18" ry="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Groceries in basket: leafy green top -->
+  <ellipse cx="195" cy="94" rx="16" ry="20" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="195" y1="74" x2="195" y2="114" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="186" y1="78" x2="195" y2="88" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="204" y1="78" x2="195" y2="88" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

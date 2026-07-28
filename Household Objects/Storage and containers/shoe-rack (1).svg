@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- frame uprights -->
+<line x1="150" y1="150" x2="170" y2="400" stroke="#8a5a2b" stroke-width="12" stroke-linecap="round"/>
+<line x1="362" y1="150" x2="342" y2="400" stroke="#8a5a2b" stroke-width="12" stroke-linecap="round"/>
+<!-- two shelves -->
+<line x1="152" y1="270" x2="360" y2="270" stroke="#c89a5b" stroke-width="13" stroke-linecap="round"/>
+<line x1="160" y1="372" x2="352" y2="372" stroke="#c89a5b" stroke-width="13" stroke-linecap="round"/>
+<line x1="155" y1="168" x2="357" y2="168" stroke="#c89a5b" stroke-width="13" stroke-linecap="round"/>
+<!-- top-shelf shoe (left) -->
+<path d="M 178 168 L 178 150 Q 200 142 214 152 L 250 162 Q 258 164 258 168 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 196 154 q 8 8 18 6" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- top-shelf shoe (right) -->
+<path d="M 272 168 L 272 152 Q 294 144 308 154 L 340 162 Q 348 164 348 168 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 290 156 q 8 8 18 6" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- middle-shelf trainer -->
+<path d="M 180 270 L 178 250 Q 200 240 220 248 Q 248 256 256 266 Q 260 270 252 270 Z" fill="#fff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 200 252 l 10 14 m 12 -10 l 8 12" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 178 264 L 256 264" stroke="#5aa83c" stroke-width="6" stroke-linecap="round"/>
+<!-- bottom-shelf boot -->
+<path d="M 280 372 L 278 320 Q 278 312 288 312 L 304 312 Q 312 312 312 322 L 314 352 L 344 360 Q 352 362 352 372 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+</g></svg>

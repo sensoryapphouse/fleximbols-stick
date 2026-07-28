@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Classroom pole -->
+  <rect x="48" y="40" width="6" height="130" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- German flag: horizontal black-red-yellow bands -->
+  <rect x="54" y="40" width="90" height="20" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="54" y="60" width="90" height="20" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="54" y="80" width="90" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Flag outline -->
+  <rect x="54" y="40" width="90" height="60" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Beer stein beside flag -->
+  <!-- Stein body -->
+  <rect x="166" y="115" width="48" height="65" rx="5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Stein top rim (wider) -->
+  <rect x="162" y="110" width="56" height="10" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Stein base (wider) -->
+  <rect x="162" y="178" width="56" height="8" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Handle -->
+  <path d="M214,120 Q242,120 242,148 Q242,172 214,172" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Foam top -->
+  <ellipse cx="172" cy="108" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="185" cy="105" rx="9" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="198" cy="105" rx="9" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="210" cy="108" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Beer fill colour -->
+  <rect x="169" y="120" width="42" height="58" rx="3" fill="#f7de58" stroke="none"/>
+  <rect x="166" y="115" width="48" height="65" rx="5" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Ground baseline -->
+  <line x1="30" y1="200" x2="260" y2="200" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

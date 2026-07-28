@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a flock of birds in flight: each = body + head + two wings -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+<!-- bird 1 (big, centre) -->
+<g transform="translate(206 210) scale(1.15)">
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#3d7fb5"/>
+<circle cx="0" cy="-4" r="14" fill="#3d7fb5"/>
+<polygon points="-2,-6 -22,-2 -2,4" fill="#f4c430" stroke-width="6"/>
+</g>
+<!-- bird 2 (upper left) -->
+<g transform="translate(118 130) scale(0.78)">
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#4a90d9"/>
+<circle cx="0" cy="-4" r="14" fill="#4a90d9"/>
+</g>
+<!-- bird 3 (upper right) -->
+<g transform="translate(380 145) scale(0.82)">
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#4a90d9"/>
+<circle cx="0" cy="-4" r="14" fill="#4a90d9"/>
+</g>
+<!-- bird 4 (lower left) -->
+<g transform="translate(135 320) scale(0.8)">
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#3d7fb5"/>
+<circle cx="0" cy="-4" r="14" fill="#3d7fb5"/>
+</g>
+<!-- bird 5 (lower right) -->
+<g transform="translate(372 330) scale(0.85)">
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#3d7fb5"/>
+<circle cx="0" cy="-4" r="14" fill="#3d7fb5"/>
+</g>
+</g>
+</svg>

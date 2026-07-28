@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.3653) translate(-256.00 -269.00)">
+<!-- candles -->
+<line x1="176" y1="170" x2="176" y2="232" stroke="#3aa6d6" stroke-width="14" stroke-linecap="round"/>
+<line x1="256" y1="160" x2="256" y2="232" stroke="#1a1a1a" stroke-width="21.0" stroke-linecap="round"/><line x1="256" y1="160" x2="256" y2="232" stroke="#3fae5a" stroke-width="15.5" stroke-linecap="round"/>
+<line x1="336" y1="170" x2="336" y2="232" stroke="#3aa6d6" stroke-width="14" stroke-linecap="round"/>
+<!-- flames -->
+<path d="M 176 150 Q 188 162 176 174 Q 164 162 176 150 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 256 140 Q 268 152 256 164 Q 244 152 256 140 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 336 150 Q 348 162 336 174 Q 324 162 336 150 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- cake top tier (frosting) -->
+<path d="M 144 232 L 368 232 L 368 268 Q 340 252 312 268 Q 284 284 256 268 Q 228 252 200 268 Q 172 284 144 268 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- cake body -->
+<path d="M 128 268 L 384 268 L 384 384 Q 384 396 372 396 L 140 396 Q 128 396 128 384 Z" fill="#f0b400" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- decorative band -->
+<line x1="128" y1="332" x2="384" y2="332" stroke="#1a1a1a" stroke-width="5"/>
+<!-- plate -->
+<line x1="104" y1="396" x2="408" y2="396" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- laundry basket: woven plastic basket with handles + clothes piled inside -->
+
+  <!-- Clothes mound peeking above rim -->
+  <g stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round">
+    <!-- piled shirt 1 (blue) -->
+    <path d="M65 95 Q90 60 130 70 Q165 60 195 80 Q220 75 230 100 L220 110 L70 110 Z"
+          fill="#2a4ec0"/>
+    <!-- piled shirt 2 (red) sleeve flap -->
+    <path d="M100 90 Q115 75 140 80 Q160 75 175 90 L170 100 L105 100 Z"
+          fill="#d01424"/>
+    <!-- yellow sock peek -->
+    <path d="M195 85 L210 80 L215 95 L200 100 Z" fill="#f2e40d"/>
+    <!-- white shirt fold -->
+    <path d="M75 95 Q85 88 100 92 L100 105 L75 105 Z" fill="#efefef"/>
+  </g>
+
+  <!-- Basket body (trapezoid, narrower at base) -->
+  <path d="M45 105 L245 105 L225 215 L65 215 Z"
+        fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Basket rim (top band) -->
+  <path d="M40 95 L250 95 L245 110 L45 110 Z"
+        fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Woven holes pattern (rows of small ovals) -->
+  <g fill="#dff3fd" stroke="#1a1a1a" stroke-width="1.67">
+    <!-- row 1 -->
+    <ellipse cx="70" cy="125" rx="6" ry="4"/>
+    <ellipse cx="95" cy="125" rx="6" ry="4"/>
+    <ellipse cx="120" cy="125" rx="6" ry="4"/>
+    <ellipse cx="145" cy="125" rx="6" ry="4"/>
+    <ellipse cx="170" cy="125" rx="6" ry="4"/>
+    <ellipse cx="195" cy="125" rx="6" ry="4"/>
+    <ellipse cx="220" cy="125" rx="6" ry="4"/>
+    <!-- row 2 -->
+    <ellipse cx="82" cy="145" rx="6" ry="4"/>
+    <ellipse cx="107" cy="145" rx="6" ry="4"/>
+    <ellipse cx="132" cy="145" rx="6" ry="4"/>
+    <ellipse cx="157" cy="145" rx="6" ry="4"/>
+    <ellipse cx="182" cy="145" rx="6" ry="4"/>
+    <ellipse cx="207" cy="145" rx="6" ry="4"/>
+    <!-- row 3 -->
+    <ellipse cx="75" cy="165" rx="6" ry="4"/>
+    <ellipse cx="100" cy="165" rx="6" ry="4"/>
+    <ellipse cx="125" cy="165" rx="6" ry="4"/>
+    <ellipse cx="150" cy="165" rx="6" ry="4"/>
+    <ellipse cx="175" cy="165" rx="6" ry="4"/>
+    <ellipse cx="200" cy="165" rx="6" ry="4"/>
+    <ellipse cx="215" cy="165" rx="6" ry="4"/>
+    <!-- row 4 -->
+    <ellipse cx="88" cy="185" rx="6" ry="4"/>
+    <ellipse cx="113" cy="185" rx="6" ry="4"/>
+    <ellipse cx="138" cy="185" rx="6" ry="4"/>
+    <ellipse cx="163" cy="185" rx="6" ry="4"/>
+    <ellipse cx="188" cy="185" rx="6" ry="4"/>
+    <ellipse cx="207" cy="185" rx="6" ry="4"/>
+  </g>
+
+  <!-- Handle holes cut into rim (left and right) -->
+  <path d="M70 95 Q70 82 95 82 Q120 82 120 95"
+        fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M170 95 Q170 82 195 82 Q220 82 220 95"
+        fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

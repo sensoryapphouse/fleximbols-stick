@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Warmer base/body: round cylinder appliance -->
+  <rect x="95" y="120" width="100" height="80" rx="18" ry="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Warmer inner well -->
+  <ellipse cx="145" cy="120" rx="38" ry="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Warmer top rim -->
+  <ellipse cx="145" cy="120" rx="50" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Baby bottle body seated in warmer -->
+  <rect x="126" y="48" width="38" height="80" rx="14" ry="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottle neck -->
+  <rect x="135" y="34" width="20" height="20" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottle nipple -->
+  <rect x="139" y="22" width="12" height="14" rx="6" ry="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottle liquid level line -->
+  <line x1="130" y1="90" x2="164" y2="90" stroke="#90a7d6" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Dial on warmer front -->
+  <circle cx="145" cy="172" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="172" x2="145" y2="161" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Heat waves left of bottle -->
+  <path d="M110 60 Q104 52 110 44" fill="none" stroke="#f8130d" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M116 60 Q110 52 116 44" fill="none" stroke="#f8130d" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Heat waves right of bottle -->
+  <path d="M174 60 Q168 52 174 44" fill="none" stroke="#f8130d" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M180 60 Q174 52 180 44" fill="none" stroke="#f8130d" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Base foot -->
+  <rect x="88" y="192" width="114" height="14" rx="7" ry="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

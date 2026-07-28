@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- back wall -->
+  <rect x="20" y="10" width="250" height="180" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- top shelf board -->
+  <rect x="25" y="30" width="240" height="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- coat hook rail -->
+  <rect x="35" y="60" width="220" height="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hooks -->
+  <path d="M65 74 L65 86 Q65 92 71 92" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M115 74 L115 86 Q115 92 121 92" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M165 74 L165 86 Q165 92 171 92" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M215 74 L215 86 Q215 92 221 92" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- coat hung on hook -->
+  <path d="M85 92 Q105 95 105 115 L105 135 L65 135 L65 115 Q65 95 85 92 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- jacket on hook -->
+  <path d="M185 92 Q205 95 205 115 L205 135 L165 135 L165 115 Q165 95 185 92 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bench seat -->
+  <rect x="30" y="150" width="230" height="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bench frame below -->
+  <rect x="30" y="168" width="230" height="60" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cubby dividers -->
+  <line x1="105" y1="168" x2="105" y2="228" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="180" y1="168" x2="180" y2="228" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- shoes in cubby 1 -->
+  <ellipse cx="55" cy="210" rx="20" ry="9" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M40 210 Q50 196 75 200" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- shoes in cubby 2 -->
+  <ellipse cx="142" cy="210" rx="20" ry="9" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M127 210 Q137 196 162 200" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- boots in cubby 3 -->
+  <rect x="200" y="186" width="14" height="32" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M195 218 L218 218 L218 224 L195 224 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="225" y="186" width="14" height="32" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M220 218 L243 218 L243 224 L220 224 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl body - shifted left to make room for carton -->
+  <path d="M 20,128 Q 22,190 118,207 Q 214,190 216,128 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Milk in bowl -->
+  <path d="M 31,136 Q 118,154 206,136 Q 203,174 165,192 Q 118,210 71,192 Q 33,174 31,136 Z" fill="#ffffff" stroke="none"/>
+  <!-- Bowl rim -->
+  <ellipse cx="118" cy="128" rx="98" ry="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Cereal flakes in bowl -->
+  <path d="M 60,130 Q 57,124 65,122 Q 73,122 74,128 Q 72,133 63,133 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 82,126 Q 79,120 87,118 Q 95,118 96,124 Q 94,130 85,129 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 104,130 Q 101,124 109,122 Q 117,122 118,128 Q 116,133 107,133 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 126,126 Q 123,120 131,118 Q 139,118 140,124 Q 138,130 129,129 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 148,130 Q 145,124 153,122 Q 161,122 162,128 Q 160,133 151,133 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 170,126 Q 167,120 175,118 Q 183,118 184,124 Q 182,130 173,129 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 78,142 Q 75,136 83,134 Q 91,134 92,140 Q 90,146 81,145 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 108,146 Q 105,140 113,138 Q 121,138 122,144 Q 120,150 111,149 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 138,142 Q 135,136 143,134 Q 151,134 152,140 Q 150,146 141,145 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 162,146 Q 159,140 167,138 Q 175,138 176,144 Q 174,150 165,149 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- MILK CARTON - right side -->
+  <!-- Carton body -->
+  <rect x="228" y="80" width="52" height="80" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Carton top gable roof -->
+  <path d="M 228,80 L 254,60 L 280,80 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Carton label stripe -->
+  <rect x="228" y="104" width="52" height="28" rx="0" fill="#2a4ec0" stroke="none"/>
+  <!-- Carton label text area - white strip -->
+  <rect x="232" y="108" width="44" height="16" rx="3" fill="#ffffff" stroke="none"/>
+  <!-- Milk text hint - three lines -->
+  <line x1="236" y1="113" x2="272" y2="113" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="236" y1="118" x2="264" y2="118" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pour spout / milk stream pouring into bowl -->
+  <!-- Carton tilted - pour stream -->
+  <path d="M 236,140 Q 228,158 200,162 Q 182,164 175,156" fill="none" stroke="#dff3fd" stroke-width="17.78" stroke-linecap="round"/>
+  <path d="M 236,140 Q 228,158 200,162 Q 182,164 175,156" fill="none" stroke="#ffffff" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Splash/motion lines at pour point -->
+  <path d="M 175,156 Q 170,152 168,146" fill="none" stroke="#dff3fd" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M 178,158 Q 172,156 168,150" fill="none" stroke="#dff3fd" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

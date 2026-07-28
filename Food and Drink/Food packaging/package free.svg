@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Three loose apples / produce items - no wrapper -->
+  <!-- Apple 1 left -->
+  <path d="M72,130 Q58,108 68,90 Q80,72 98,82 Q108,72 118,82 Q132,96 118,118 Q108,138 95,148 Q82,138 72,130 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95,82 Q95,70 102,62" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M102,62 Q112,55 118,60" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Apple 2 centre -->
+  <path d="M118,145 Q104,123 114,105 Q126,87 144,97 Q154,87 164,97 Q178,111 164,133 Q154,153 141,163 Q128,153 118,145 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M141,97 Q141,85 148,77" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M148,77 Q158,70 164,75" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Apple 3 right -->
+  <path d="M170,130 Q156,108 166,90 Q178,72 196,82 Q206,72 216,82 Q230,96 216,118 Q206,138 193,148 Q180,138 170,130 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M193,82 Q193,70 200,62" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M200,62 Q210,55 216,60" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- No-box symbol bottom right -->
+  <!-- Box outline crossed out -->
+  <rect x="198" y="168" width="52" height="44" rx="5" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linejoin="round" stroke-dasharray="7,4"/>
+  <line x1="198" y1="168" x2="250" y2="212" stroke="#f8130d" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="250" y1="168" x2="198" y2="212" stroke="#f8130d" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Ground -->
+  <ellipse cx="145" cy="210" rx="110" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

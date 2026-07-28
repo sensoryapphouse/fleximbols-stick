@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bubble (large transparent circle enclosing figure) -->
+  <circle cx="145" cy="132" r="88" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Bubble highlight sheen -->
+  <ellipse cx="118" cy="72" rx="18" ry="10" fill="#ffffff" stroke="none"/>
+  <!-- Figure inside bubble -->
+  <!-- Head -->
+  <circle cx="145" cy="98" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Body -->
+  <path d="M 126 130 L 164 130 Q 160 158 145 164 Q 130 158 126 130 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <path d="M 126 130 Q 116 160 114 178 M 164 130 Q 174 160 176 178" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- Outside icons being blocked (faded/different) -->
+  <!-- Star shape outside right -->
+  <polygon points="248,80 252,94 266,94 255,103 259,117 248,108 237,117 241,103 230,94 244,94" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Question mark outside left (circle + dot) -->
+  <circle cx="42" cy="80" r="16" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.95"/>
+  <circle cx="42" cy="95" r="3" fill="#000000"/>
+  <path d="M 36 70 Q 36 62 42 62 Q 50 62 50 70 Q 50 76 42 78" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Small icon outside left-bottom -->
+  <rect x="22" y="148" width="28" height="20" rx="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Small icon outside right-bottom -->
+  <polygon points="252,150 268,162 252,174" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Bubble outline on top layer (redraw front arc to obscure crossing) -->
+  <circle cx="145" cy="132" r="88" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

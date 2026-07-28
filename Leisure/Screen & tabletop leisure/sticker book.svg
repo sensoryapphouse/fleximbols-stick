@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="75.68 84.21 331.64 331.64">
+<!-- book cover -->
+<rect x="138" y="110" width="206" height="280" rx="12" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spine -->
+<line x1="166" y1="118" x2="166" y2="382" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- sticker sheet inset -->
+<rect x="186" y="138" width="138" height="224" rx="8" fill="#fff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- star sticker -->
+<polygon points="222,168 230,190 254,190 235,204 242,228 222,213 202,228 209,204 190,190 214,190" fill="#f4c430" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- heart sticker -->
+<path d="M 290 188 C 290 176 308 176 308 190 C 308 176 326 176 326 188 C 326 202 308 214 308 214 C 308 214 290 202 290 188 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- circle sticker -->
+<circle cx="222" cy="270" r="22" fill="#5aa83c" stroke="#1a1a1a" stroke-width="6"/>
+<!-- peeling sticker (bottom right) lifted corner -->
+<path d="M 282 300 L 330 300 L 330 348 L 300 348 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 300 348 L 330 348 L 300 330 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

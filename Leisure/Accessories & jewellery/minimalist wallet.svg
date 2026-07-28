@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Minimalist wallet: very slim flat card-holder, cards fanned out of top -->
+  <!-- Card 3 (back, fanned leftmost) -->
+  <rect x="62" y="48" width="80" height="52" rx="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-18,102,74)"/>
+  <!-- Card 2 (middle) -->
+  <rect x="82" y="44" width="80" height="52" rx="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-6,122,70)"/>
+  <!-- Card chip on card 2 -->
+  <rect x="95" y="58" width="16" height="12" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-6,122,70)"/>
+  <!-- Card 1 (front, fanned rightmost) -->
+  <rect x="105" y="42" width="80" height="52" rx="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(7,145,68)"/>
+  <!-- Chip on front card -->
+  <rect x="118" y="58" width="16" height="12" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(7,145,68)"/>
+  <!-- The wallet body (slim, flat holder) -->
+  <rect x="78" y="118" width="135" height="92" rx="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Wallet front face inner panel (slightly inset) -->
+  <rect x="88" y="128" width="115" height="72" rx="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Card slot opening at top of wallet body -->
+  <rect x="96" y="118" width="98" height="10" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Wallet side stitching detail (left) -->
+  <line x1="88" y1="130" x2="88" y2="188" stroke="#5e1f0a" stroke-width="2.96" stroke-dasharray="5,5"/>
+  <!-- Wallet side stitching detail (right) -->
+  <line x1="202" y1="130" x2="202" y2="188" stroke="#5e1f0a" stroke-width="2.96" stroke-dasharray="5,5"/>
+  <!-- RFID/decoration line on wallet face -->
+  <rect x="98" y="152" width="94" height="6" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="39.76 35.49 432.48 432.48">
+<!-- base platform -->
+<ellipse cx="256" cy="408" rx="156" ry="28" fill="#cfe6c9" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="110" y="352" width="292" height="56" fill="#bfe0f5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- decorative panel dots -->
+<circle cx="160" cy="380" r="8" fill="#e23c3c" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="380" r="8" fill="#f4a93c" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="352" cy="380" r="8" fill="#3fae5a" stroke="#1a1a1a" stroke-width="4"/>
+<!-- center pole -->
+<rect x="246" y="150" width="20" height="206" rx="4" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8"/>
+<!-- horse poles (barber striped) -->
+<line x1="158" y1="186" x2="158" y2="352" stroke="#e23c3c" stroke-width="9" stroke-linecap="round"/>
+<line x1="158" y1="186" x2="158" y2="352" stroke="#fbe7a8" stroke-width="4" stroke-dasharray="12 12"/>
+<line x1="354" y1="186" x2="354" y2="352" stroke="#e23c3c" stroke-width="9" stroke-linecap="round"/>
+<line x1="354" y1="186" x2="354" y2="352" stroke="#fbe7a8" stroke-width="4" stroke-dasharray="12 12"/>
+<line x1="256" y1="186" x2="256" y2="352" stroke="#3a8fd6" stroke-width="9" stroke-linecap="round"/>
+<!-- two horses + one bench gondola -->
+<g transform="translate(158 288)">
+<path d="M -28 22 Q -32 -8 0 -10 L 26 -10 Q 36 -10 36 8 L 36 30 Q 36 40 24 40 L -16 40 Q -28 40 -28 22 Z" fill="#fff6cf" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M -28 4 L -42 -12 L -34 12 Z" fill="#fff6cf" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="-32" cy="2" r="3.5" fill="#1a1a1a"/>
+<line x1="-16" y1="40" x2="-16" y2="56" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="20" y1="40" x2="20" y2="56" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g>
+<g transform="translate(354 288)">
+<path d="M -28 22 Q -32 -8 0 -10 L 26 -10 Q 36 -10 36 8 L 36 30 Q 36 40 24 40 L -16 40 Q -28 40 -28 22 Z" fill="#fff6cf" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M -28 4 L -42 -12 L -34 12 Z" fill="#fff6cf" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="-32" cy="2" r="3.5" fill="#1a1a1a"/>
+<line x1="-16" y1="40" x2="-16" y2="56" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="20" y1="40" x2="20" y2="56" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- striped conical roof -->
+<path d="M 256 92 L 110 196 L 402 196 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 92 L 196 196 L 256 196 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 256 92 L 316 196 L 256 196 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 110 196 Q 138 224 166 196 Q 194 224 222 196 Q 250 224 278 196 Q 306 224 334 196 Q 362 224 390 196 L 402 196" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- flag -->
+<line x1="256" y1="92" x2="256" y2="66" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 68 L 294 78 L 256 88 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

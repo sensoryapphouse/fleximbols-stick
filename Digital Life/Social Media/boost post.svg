@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- boost-post: post card + upward rocket + audience-reach radiating arc -->
+  <!-- post card -->
+  <rect x="28" y="90" width="170" height="120" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- card content lines -->
+  <rect x="44" y="112" width="138" height="10" rx="4" fill="#b8b8b8" stroke="none"/>
+  <rect x="44" y="130" width="110" height="10" rx="4" fill="#b8b8b8" stroke="none"/>
+  <rect x="44" y="148" width="124" height="10" rx="4" fill="#b8b8b8" stroke="none"/>
+  <!-- like/share icons row -->
+  <!-- heart shape -->
+  <path d="M50,178 C50,172 44,168 40,172 C36,176 40,184 50,192 C60,184 64,176 60,172 C56,168 50,172 50,178 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- reach arcs emanating upward-right -->
+  <path d="M210,90 A30,30 0 0,1 240,60" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M210,90 A52,52 0 0,1 252,42" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M210,90 A74,74 0 0,1 264,22" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- rocket body -->
+  <ellipse cx="210" cy="90" rx="16" ry="28" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rocket nose -->
+  <ellipse cx="210" cy="62" rx="16" ry="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="194,68 210,34 226,68" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- rocket window -->
+  <circle cx="210" cy="90" r="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- rocket fins -->
+  <polygon points="194,110 188,128 204,118" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <polygon points="226,110 232,128 216,118" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- rocket flame -->
+  <ellipse cx="210" cy="130" rx="10" ry="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.55"/>
+  <ellipse cx="210" cy="136" rx="6" ry="8" fill="#ff9900" stroke="none"/>
+</g></svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -249.00)">
+<rect x="0.0" y="452.0" width="512.0" height="60.0" rx="0" fill="#6f9a4a" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="0" y1="452" x2="512" y2="452" stroke="#557a36" stroke-width="6" stroke-linecap="round"/>
+
+<!-- ===== grand, tall feasting hall: big dark-timber body ===== -->
+<rect x="64.0" y="236.0" width="384.0" height="216.0" rx="0" fill="#7a5230" stroke="#553722" stroke-width="7"/>
+<line x1="100" y1="236" x2="100" y2="452" stroke="#553722" stroke-width="4" stroke-linecap="round"/>
+<line x1="140" y1="236" x2="140" y2="452" stroke="#553722" stroke-width="4" stroke-linecap="round"/>
+<line x1="180" y1="236" x2="180" y2="452" stroke="#553722" stroke-width="4" stroke-linecap="round"/>
+<line x1="332" y1="236" x2="332" y2="452" stroke="#553722" stroke-width="4" stroke-linecap="round"/>
+<line x1="372" y1="236" x2="372" y2="452" stroke="#553722" stroke-width="4" stroke-linecap="round"/>
+<line x1="412" y1="236" x2="412" y2="452" stroke="#553722" stroke-width="4" stroke-linecap="round"/>
+<line x1="64" y1="312" x2="448" y2="312" stroke="#9c6b3a" stroke-width="5" stroke-linecap="round"/>
+<line x1="64" y1="388" x2="448" y2="388" stroke="#9c6b3a" stroke-width="5" stroke-linecap="round"/>
+<rect x="64.0" y="236.0" width="384.0" height="216.0" rx="0" fill="none" stroke="#553722" stroke-width="7"/>
+
+<!-- warm light spilling from tall side windows (hall in use) -->
+<rect x="206.0" y="300.0" width="34.0" height="50.0" rx="0" fill="#ffd86b" stroke="#553722" stroke-width="4"/>
+<line x1="223" y1="300" x2="223" y2="350" stroke="#553722" stroke-width="3"/>
+<rect x="272.0" y="300.0" width="34.0" height="50.0" rx="0" fill="#ffd86b" stroke="#553722" stroke-width="4"/>
+<line x1="289" y1="300" x2="289" y2="350" stroke="#553722" stroke-width="3"/>
+
+<!-- wide grand doorway with warm glow inside -->
+<rect x="216.0" y="338.0" width="80.0" height="114.0" rx="0" fill="#2a1d10" stroke="#caa24a" stroke-width="5"/>
+<rect x="228.0" y="372.0" width="56.0" height="80.0" rx="0" fill="#ffcf5c" stroke="none"/>
+<rect x="216.0" y="338.0" width="80.0" height="114.0" rx="0" fill="none" stroke="#caa24a" stroke-width="5"/>
+<line x1="256" y1="338" x2="256" y2="452" stroke="#caa24a" stroke-width="4"/>
+<!-- carved door lintel -->
+<polygon points="208 338 256 312 304 338" fill="#9c6b3a" stroke="#553722" stroke-width="4" stroke-linejoin="round"/>
+
+<!-- banner/shield hung over the doorway -->
+<rect x="236.0" y="252.0" width="40.0" height="52.0" rx="4" fill="#9e2b25" stroke="#caa24a" stroke-width="4"/>
+<line x1="236" y1="278" x2="276" y2="278" stroke="#caa24a" stroke-width="4"/>
+<line x1="256" y1="252" x2="256" y2="304" stroke="#caa24a" stroke-width="4"/>
+
+<!-- big thatched/timber roof, taller pitch -->
+<polygon points="40.0 242 256.0 96 472.0 242" fill="#d9b35e" stroke="#b08a36" stroke-width="7" stroke-linejoin="round"/>
+<line x1="150" y1="168" x2="362" y2="168" stroke="#b08a36" stroke-width="3" stroke-linecap="round"/>
+<line x1="95" y1="205" x2="417" y2="205" stroke="#b08a36" stroke-width="3" stroke-linecap="round"/>
+<line x1="50" y1="237" x2="462" y2="237" stroke="#b08a36" stroke-width="3" stroke-linecap="round"/>
+<line x1="46" y1="242" x2="256" y2="96" stroke="#b08a36" stroke-width="5" stroke-linecap="round"/>
+<line x1="466" y1="242" x2="256" y2="96" stroke="#b08a36" stroke-width="5" stroke-linecap="round"/>
+
+<!-- carved animal-head gable finial crowning the apex (single dragon/beast head) -->
+<path d="M 256 98 L 256 74 Q 240 70 236 54 Q 252 58 256 44 Q 260 58 276 54 Q 272 70 256 74 Z" fill="#8a5e22" stroke="#553722" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="256" cy="60" r="3.5" fill="#553722" stroke="none"/>
+<!-- carved beast-head ridge ends at each eave -->
+<path d="M 46 242 Q 28 238 24 222 Q 40 226 44 212 Q 54 224 66 222 L 56 240 Z" fill="#8a5e22" stroke="#553722" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 466 242 Q 484 238 488 222 Q 472 226 468 212 Q 458 224 446 222 L 456 240 Z" fill="#8a5e22" stroke="#553722" stroke-width="4" stroke-linejoin="round"/>
+
+<!-- smoke rising from the roof (feast in progress) -->
+<path d="M 188 206 Q 174 180 190 160 Q 204 142 190 120" fill="none" stroke="#e6e2d8" stroke-width="11" stroke-linecap="round"/>
+<path d="M 188 206 Q 174 180 190 160 Q 204 142 190 120" fill="none" stroke="#b7b1a3" stroke-width="6" stroke-linecap="round"/>
+<path d="M 328 206 Q 342 182 328 162 Q 316 144 330 122" fill="none" stroke="#e6e2d8" stroke-width="10" stroke-linecap="round"/>
+<path d="M 328 206 Q 342 182 328 162 Q 316 144 330 122" fill="none" stroke="#b7b1a3" stroke-width="5" stroke-linecap="round"/>
+</g></svg>

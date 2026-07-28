@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bag body (large square courier backpack) -->
+  <rect x="62" y="58" width="166" height="162" rx="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- bag top flap -->
+  <rect x="62" y="58" width="166" height="40" rx="12" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- flap bottom straight edge -->
+  <rect x="62" y="86" width="166" height="12" rx="0" fill="#1d0e82" stroke="none"/>
+  <line x1="62" y1="98" x2="228" y2="98" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- zipper line -->
+  <line x1="68" y1="106" x2="222" y2="106" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-dasharray="8 5"/>
+  <!-- zipper pull -->
+  <rect x="140" y="100" width="10" height="14" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- insulation quilting lines (vertical) -->
+  <line x1="110" y1="112" x2="110" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="112" x2="145" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="180" y1="112" x2="180" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- reflective stripe -->
+  <rect x="62" y="170" width="166" height="14" rx="0" fill="#f7de58" stroke="none"/>
+  <line x1="62" y1="170" x2="228" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="62" y1="184" x2="228" y2="184" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- meal icon: bowl with steam arcs -->
+  <ellipse cx="145" cy="148" rx="28" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M117,148 Q117,168 145,168 Q173,168 173,148" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- steam arcs -->
+  <path d="M133,138 Q129,130 133,122" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145,136 Q141,128 145,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M157,138 Q153,130 157,122" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- shoulder straps -->
+  <path d="M80,58 Q48,90 52,160" fill="none" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80,58 Q48,90 52,160" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M210,58 Q242,90 238,160" fill="none" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210,58 Q242,90 238,160" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- handle top -->
+  <path d="M122,58 Q145,38 168,58" fill="none" stroke="#1a1a1a" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M122,58 Q145,38 168,58" fill="none" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

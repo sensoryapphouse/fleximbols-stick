@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1264) translate(-226.00 -270.50)">
+<!-- empty plate, lower left -->
+<ellipse cx="150.0" cy="430.0" rx="120.0" ry="36.0" fill="#ffffff" stroke="#42525e" stroke-width="7"/>
+<ellipse cx="150.0" cy="430.0" rx="74.0" ry="22.0" fill="#eef2f6" stroke="#a9b2bc" stroke-width="4"/>
+<!-- thought bubble of food, upper left -->
+<circle cx="150.0" cy="150.0" r="76.0" fill="#ffffff" stroke="#8b97a3" stroke-width="6"/>
+<ellipse cx="150.0" cy="168.0" rx="50.0" ry="16.0" fill="#f2b84a" stroke="#c98f1e" stroke-width="3"/>
+<circle cx="126.0" cy="156.0" r="16.0" fill="#e8843f" stroke="#b85d22" stroke-width="2"/>
+<circle cx="156.0" cy="152.0" r="17.0" fill="#7bbf57" stroke="#4d8a36" stroke-width="2"/>
+<circle cx="182.0" cy="158.0" r="14.0" fill="#e0473c" stroke="#b23227" stroke-width="2"/>
+<circle cx="206.0" cy="222.0" r="13.0" fill="#ffffff" stroke="#8b97a3" stroke-width="5"/>
+<circle cx="228.0" cy="252.0" r="9.0" fill="#ffffff" stroke="#8b97a3" stroke-width="4"/>
+<!-- figure: head -->
+<circle cx="360.0" cy="150.0" r="56.0" fill="#f6c453" stroke="#caa015" stroke-width="6"/>
+<circle cx="340.0" cy="140.0" r="7.0" fill="#1a1a1a"/>
+<circle cx="380.0" cy="140.0" r="7.0" fill="#1a1a1a"/>
+<path d="M 338 178 q 22 -16 44 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- body/torso -->
+<path d="M 360 206 q -44 6 -52 60 q -6 44 4 96 l 96 0 q 10 -52 4 -96 q -8 -54 -52 -60 Z" fill="#7bb0e0" stroke="#3f6f9e" stroke-width="6" stroke-linejoin="round"/>
+<!-- far arm hanging -->
+<path d="M 314 280 q -26 30 -22 70" fill="none" stroke="#3f6f9e" stroke-width="16" stroke-linecap="round"/>
+<!-- near arm: hand on tummy -->
+<path d="M 408 280 q 24 26 -14 60" fill="none" stroke="#3f6f9e" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="392.0" cy="346.0" rx="22.0" ry="18.0" fill="#f0c9a3" stroke="#c98f5a" stroke-width="5"/>
+<g stroke="#c98f5a" stroke-width="4" stroke-linecap="round" fill="none">
+<path d="M 378 342 l 28 0"/>
+<path d="M 378 352 l 28 0"/>
+</g>
+</g></svg>

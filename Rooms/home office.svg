@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- desk surface -->
+  <rect x="28" y="148" width="234" height="14" rx="6" ry="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- desk legs -->
+  <rect x="36" y="162" width="12" height="54" rx="4" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55"/>
+  <rect x="242" y="162" width="12" height="54" rx="4" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- monitor body -->
+  <rect x="88" y="34" width="114" height="80" rx="8" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- screen -->
+  <rect x="97" y="42" width="96" height="63" rx="4" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen content — simple document lines -->
+  <rect x="106" y="52" width="60" height="6" rx="3" ry="3" fill="#90a7d6" stroke="none"/>
+  <rect x="106" y="63" width="78" height="5" rx="2" ry="2" fill="#b8b8b8" stroke="none"/>
+  <rect x="106" y="72" width="68" height="5" rx="2" ry="2" fill="#b8b8b8" stroke="none"/>
+  <rect x="106" y="81" width="50" height="5" rx="2" ry="2" fill="#b8b8b8" stroke="none"/>
+  <!-- monitor stand -->
+  <rect x="136" y="114" width="18" height="16" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="128" width="54" height="8" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- laptop on desk (left of monitor) -->
+  <rect x="34" y="124" width="52" height="34" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="38" y="128" width="44" height="26" rx="3" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- laptop keyboard base -->
+  <rect x="30" y="148" width="60" height="8" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- lamp on desk (right) -->
+  <!-- lamp base -->
+  <rect x="228" y="140" width="22" height="8" rx="4" ry="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- lamp pole -->
+  <line x1="239" y1="140" x2="239" y2="100" stroke="#7d5e23" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- lamp arm angle -->
+  <line x1="239" y1="100" x2="220" y2="80" stroke="#7d5e23" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- lamp shade -->
+  <path d="M 205,68 L 236,74 L 232,86 L 208,82 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- plant pot on desk (far left) -->
+  <rect x="36" y="128" width="0" height="0"/>
+  <!-- pot -->
+  <path d="M 248,140 L 254,140 L 258,160 L 244,160 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- soil -->
+  <rect x="244" y="138" width="14" height="6" rx="2" ry="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- plant stem -->
+  <line x1="251" y1="138" x2="251" y2="118" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- leaves -->
+  <ellipse cx="242" cy="120" rx="12" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 242 120)"/>
+  <ellipse cx="260" cy="122" rx="12" ry="8" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 260 122)"/>
+  <ellipse cx="251" cy="112" rx="10" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- office chair (left, partial) -->
+  <rect x="42" y="170" width="60" height="34" rx="10" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="52" y="162" width="40" height="12" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="72" y1="204" x2="72" y2="218" stroke="#7f7f7f" stroke-width="5.55" stroke-linecap="round"/>
+  <ellipse cx="72" cy="220" rx="20" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

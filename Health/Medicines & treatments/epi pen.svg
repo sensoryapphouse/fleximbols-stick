@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- EpiPen auto-injector: blue cap top, yellow body, orange tip down -->
+  <!-- Orange tip cap (bottom) -->
+  <rect x="128" y="178" width="34" height="38" rx="6" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Orange tip needle point -->
+  <polygon points="145,216 134,224 156,224" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Main body (yellow) -->
+  <rect x="124" y="72" width="42" height="112" rx="8" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Label band (dark blue stripe across mid-body) -->
+  <rect x="124" y="118" width="42" height="22" rx="0" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Body highlight line -->
+  <line x1="135" y1="78" x2="135" y2="114" stroke="#ffffff" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Blue safety cap (top) -->
+  <rect x="122" y="38" width="46" height="38" rx="10" ry="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cap pull-ring -->
+  <ellipse cx="145" cy="24" rx="12" ry="8" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="32" x2="145" y2="38" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Grip ribs on body -->
+  <line x1="124" y1="148" x2="166" y2="148" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="124" y1="156" x2="166" y2="156" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="124" y1="164" x2="166" y2="164" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+</g></svg>

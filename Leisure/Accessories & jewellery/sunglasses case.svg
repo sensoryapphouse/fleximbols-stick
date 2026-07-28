@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sunglasses case: larger clamshell with dark sunglasses resting on top -->
+  <!-- Case body — slightly larger/wider than glasses-case -->
+  <!-- Bottom half -->
+  <rect x="35" y="142" width="220" height="70" rx="35" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top half -->
+  <rect x="35" y="74" width="220" height="70" rx="35" fill="#392170" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lid sheen -->
+  <rect x="52" y="82" width="185" height="22" rx="26" fill="#7c3fac" stroke="none"/>
+  <!-- Seam -->
+  <line x1="35" y1="142" x2="255" y2="142" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hinge right -->
+  <rect x="244" y="132" width="14" height="20" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Latch left -->
+  <rect x="34" y="135" width="18" height="14" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sunglasses resting on top of closed case -->
+  <!-- Left lens (dark, large oval) -->
+  <ellipse cx="102" cy="40" rx="38" ry="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right lens -->
+  <ellipse cx="188" cy="40" rx="38" ry="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bridge connecting lenses -->
+  <line x1="140" y1="40" x2="150" y2="40" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Left arm/temple -->
+  <line x1="64" y1="35" x2="42" y2="50" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Right arm/temple -->
+  <line x1="226" y1="35" x2="248" y2="50" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

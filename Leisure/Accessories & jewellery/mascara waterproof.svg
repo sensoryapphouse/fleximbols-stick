@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Mascara waterproof: mascara tube + water-droplet repelled icon -->
+  <!-- Mascara tube body -->
+  <rect x="60" y="50" width="60" height="150" rx="10" fill="#000000" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Label band -->
+  <rect x="62" y="100" width="56" height="50" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- WATERPROOF text implied as a path/line group on label -->
+  <line x1="68" y1="116" x2="112" y2="116" stroke="#dff3fd" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="68" y1="124" x2="112" y2="124" stroke="#dff3fd" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="68" y1="132" x2="112" y2="132" stroke="#dff3fd" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="78" y1="140" x2="102" y2="140" stroke="#dff3fd" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Cap -->
+  <rect x="68" y="22" width="44" height="30" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Collar -->
+  <rect x="60" y="46" width="60" height="8" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube shine -->
+  <line x1="68" y1="60" x2="68" y2="190" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Water droplet (large, beside tube) -->
+  <path d="M210,70 Q240,110 222,150 Q198,168 178,148 Q172,108 210,70 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Droplet shine -->
+  <path d="M198,90 Q190,108 192,124" stroke="#ffffff" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- Repelled / no-water slash across droplet -->
+  <circle cx="205" cy="115" r="58" fill="none" stroke="#f8130d" stroke-width="6.66"/>
+  <line x1="166" y1="76" x2="244" y2="154" stroke="#f8130d" stroke-width="6.66" stroke-linecap="round"/>
+</g></svg>

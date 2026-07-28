@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- simple buttocks outline (rear), clinical -->
+<!-- two rounded cheeks meeting at a central cleft -->
+<path d="M 256 130
+         Q 150 130 138 250
+         Q 128 360 200 392
+         Q 248 412 256 340
+         Q 264 412 312 392
+         Q 384 360 374 250
+         Q 362 130 256 130 Z"
+      fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- central cleft line -->
+<path d="M 256 150 Q 256 250 256 338" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- lower fold curves under each cheek -->
+<path d="M 168 360 Q 210 388 248 360" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 264 360 Q 302 388 344 360" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

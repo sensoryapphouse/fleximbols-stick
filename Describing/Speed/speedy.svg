@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8.69 8.38 543.03 543.03">
+<!-- speedy: race car with motion streaks + forward arrow. Car flipped horizontally in place (about its centre) so it faces the other way; streaks + arrow left exactly where they were. -->
+<g transform="translate(525.65 0) scale(-1 1)">
+<!-- motion streak lines (behind) -->
+<line x1="30" y1="270" x2="120" y2="270" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="46" y1="312" x2="120" y2="312" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="46" y1="354" x2="120" y2="354" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- ground line -->
+<line x1="120" y1="396" x2="490" y2="396" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- CAR: flipped horizontally in place (translate 602, scale -1 about car centre x=301) -->
+<g transform="translate(602 0) scale(-1 1)">
+<!-- car body -->
+<path d="M 120 360 L 150 300 Q 162 280 188 278 L 246 274 L 300 226 Q 312 216 330 216 L 392 216 Q 414 216 420 238 L 436 300 L 470 318 Q 484 326 484 344 L 484 360 Z"
+      fill="#2f7fd1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cockpit windshield -->
+<path d="M 252 274 L 300 234 Q 310 226 324 226 L 360 226 L 372 274 Z"
+      fill="#bfe0f5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- rear spoiler -->
+<line x1="118" y1="300" x2="170" y2="300" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="124" y1="300" x2="124" y2="330" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- wheels -->
+<circle cx="200" cy="392" r="40" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="200" cy="392" r="15" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="408" cy="392" r="40" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="408" cy="392" r="15" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8"/>
+</g>
+<!-- forward arrow (unchanged) -->
+<path d="M 360.0 160.0 L 464.0 160.0 L 464.0 172.0 L 496.0 150.0 L 464.0 128.0 L 464.0 140.0 L 360.0 140.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+</svg>

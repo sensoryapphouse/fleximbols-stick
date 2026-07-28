@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Patchwork quilt - draped over bed/rail to differentiate visually but same patchwork concept -->
+  <!-- Draped quilt shape: trapezoid with hanging side -->
+  <path d="M 30 50 L 260 50 L 260 175 Q 240 215 220 215 L 70 215 Q 50 215 30 175 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+
+  <!-- Patchwork: 4x4 grid of square patches following the drape shape -->
+  <!-- Top row -->
+  <path d="M 30 50 L 88 50 L 88 95 L 30 95 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 88 50 L 145 50 L 145 95 L 88 95 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 145 50 L 202 50 L 202 95 L 145 95 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 202 50 L 260 50 L 260 95 L 202 95 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 2 -->
+  <path d="M 30 95 L 88 95 L 88 140 L 30 140 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 88 95 L 145 95 L 145 140 L 88 140 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 145 95 L 202 95 L 202 140 L 145 140 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 202 95 L 260 95 L 260 140 L 202 140 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 3 -->
+  <path d="M 30 140 L 88 140 L 88 175 L 30 175 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 88 140 L 145 140 L 145 175 L 88 175 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 145 140 L 202 140 L 202 175 L 145 175 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 202 140 L 260 140 L 260 175 L 202 175 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 4 - drape bottom curves -->
+  <path d="M 30 175 Q 50 215 70 215 L 88 215 L 88 175 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 88 175 L 88 215 L 145 215 L 145 175 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 145 175 L 145 215 L 202 215 L 202 175 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 202 175 L 202 215 L 220 215 Q 240 215 260 175 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Decorative motifs in patches: hearts, stars, flowers -->
+  <g stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round">
+    <!-- Heart -->
+    <path d="M 59 65 q -8 -8 -12 0 q 0 6 12 14 q 12 -8 12 -14 q -4 -8 -12 0 Z" fill="#ffffff"/>
+    <!-- Star -->
+    <polygon points="173,58 178,70 191,70 181,78 185,90 173,82 161,90 165,78 155,70 168,70" fill="#ffffff"/>
+    <!-- Flower -->
+    <circle cx="116" cy="118" r="4" fill="#ffffff"/>
+    <circle cx="109" cy="113" r="4" fill="#ffffff"/>
+    <circle cx="123" cy="113" r="4" fill="#ffffff"/>
+    <circle cx="109" cy="123" r="4" fill="#ffffff"/>
+    <circle cx="123" cy="123" r="4" fill="#ffffff"/>
+    <!-- Diamond -->
+    <polygon points="231,108 240,118 231,128 222,118" fill="#ffffff"/>
+    <!-- X stitch -->
+    <path d="M 53 152 l 14 14 M 67 152 l -14 14" fill="none"/>
+    <path d="M 168 152 l 14 14 M 182 152 l -14 14" fill="none"/>
+    <!-- Small flower -->
+    <circle cx="231" cy="158" r="3" fill="#ffffff"/>
+    <circle cx="225" cy="153" r="3" fill="#ffffff"/>
+    <circle cx="237" cy="153" r="3" fill="#ffffff"/>
+    <circle cx="225" cy="163" r="3" fill="#ffffff"/>
+    <circle cx="237" cy="163" r="3" fill="#ffffff"/>
+  </g>
+
+  <!-- Quilting stitch lines (dashed) -->
+  <g stroke="#1a1a1a" stroke-width="2.13" stroke-dasharray="3 3" fill="none">
+    <line x1="35" y1="55" x2="255" y2="55"/>
+    <line x1="35" y1="210" x2="255" y2="210" stroke-dasharray="3 3"/>
+  </g>
+</g></svg>

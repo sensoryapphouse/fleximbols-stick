@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Main central trunk -->
+  <rect x="130" y="130" width="30" height="90" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.42"/>
+  <!-- Ground base -->
+  <ellipse cx="145" cy="225" rx="100" ry="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.05"/>
+  <!-- Wide spreading canopy -->
+  <ellipse cx="145" cy="75" rx="120" ry="68" fill="#529929" stroke="#1a1a1a" stroke-width="3.42"/>
+  <ellipse cx="110" cy="65" rx="78" ry="52" fill="#137827" stroke="#1a1a1a" stroke-width="2.05"/>
+  <ellipse cx="178" cy="68" rx="72" ry="50" fill="#137827" stroke="#1a1a1a" stroke-width="2.05"/>
+  <ellipse cx="145" cy="55" rx="80" ry="45" fill="#67832d" stroke="#1a1a1a" stroke-width="2.05"/>
+  <!-- AERIAL ROOTS - thick rope-like roots hanging down from branches -->
+  <!-- Root 1 far left -->
+  <path d="M48 108 Q44 150 42 195" fill="none" stroke="#9d7246" stroke-width="5.47" stroke-linecap="round"/>
+  <path d="M42 195 Q40 210 40 222" fill="none" stroke="#7d5e23" stroke-width="4.79" stroke-linecap="round"/>
+  <!-- Root 2 left -->
+  <path d="M75 118 Q72 155 70 195" fill="none" stroke="#9d7246" stroke-width="5.47" stroke-linecap="round"/>
+  <path d="M70 195 Q68 210 68 222" fill="none" stroke="#7d5e23" stroke-width="4.79" stroke-linecap="round"/>
+  <!-- Root 3 left-center -->
+  <path d="M105 130 Q102 162 100 198" fill="none" stroke="#9d7246" stroke-width="4.79" stroke-linecap="round"/>
+  <path d="M100 198 Q99 211 99 222" fill="none" stroke="#7d5e23" stroke-width="4.10" stroke-linecap="round"/>
+  <!-- Root 4 right-center -->
+  <path d="M185 130 Q188 162 190 198" fill="none" stroke="#9d7246" stroke-width="4.79" stroke-linecap="round"/>
+  <path d="M190 198 Q191 211 191 222" fill="none" stroke="#7d5e23" stroke-width="4.10" stroke-linecap="round"/>
+  <!-- Root 5 right -->
+  <path d="M215 118 Q218 155 220 195" fill="none" stroke="#9d7246" stroke-width="5.47" stroke-linecap="round"/>
+  <path d="M220 195 Q222 210 222 222" fill="none" stroke="#7d5e23" stroke-width="4.79" stroke-linecap="round"/>
+  <!-- Root 6 far right -->
+  <path d="M242 108 Q246 150 248 195" fill="none" stroke="#9d7246" stroke-width="5.47" stroke-linecap="round"/>
+  <path d="M248 195 Q250 210 250 222" fill="none" stroke="#7d5e23" stroke-width="4.79" stroke-linecap="round"/>
+  <!-- Secondary smaller root -->
+  <path d="M130 132 Q127 162 126 198" fill="none" stroke="#7d5e23" stroke-width="3.42" stroke-linecap="round"/>
+  <path d="M160 132 Q163 162 164 198" fill="none" stroke="#7d5e23" stroke-width="3.42" stroke-linecap="round"/>
+</g></svg>

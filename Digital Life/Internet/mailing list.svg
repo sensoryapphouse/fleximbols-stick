@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stack of envelopes (back) -->
+  <rect x="155" y="40" width="100" height="68" rx="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 155,44 L 205,82 L 255,44" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Stack of envelopes (front) -->
+  <rect x="165" y="60" width="100" height="68" rx="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 165,64 L 215,102 L 265,64" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Address list / checkbox sheet -->
+  <rect x="25" y="50" width="135" height="170" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="25" y="50" width="135" height="26" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Checkbox rows -->
+  <rect x="35" y="90" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 37,97 L 41,101 L 47,93" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="56" y1="98" x2="148" y2="98" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="35" y="120" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 37,127 L 41,131 L 47,123" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="56" y1="128" x2="148" y2="128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="35" y="150" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="56" y1="158" x2="148" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="35" y="180" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="56" y1="188" x2="148" y2="188" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- @ symbol (email icon) replacing MAILING header -->
+  <rect x="48" y="22" width="145" height="28" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.70"/>
+  <path d="M120 32 Q120 26 128 26 Q136 26 136 32 L136 40 Q136 46 128 46 Q120 46 120 40 Q120 34 128 34" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M136 40 Q136 46 142 46 Q148 46 148 36 Q148 26 136 26" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

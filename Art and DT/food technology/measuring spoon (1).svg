@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- set of 4 measuring spoons on a ring -->
+  <!-- central ring -->
+  <circle cx="145" cy="40" r="14" fill="none" stroke="#1a1a1a" stroke-width="7.11"/>
+  <circle cx="145" cy="40" r="8" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- spoon 1 (largest, far left) -->
+  <path d="M 145 50 L 60 100" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" fill="none"/>
+  <ellipse cx="50" cy="115" rx="28" ry="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round" transform="rotate(-30 50 115)"/>
+  <ellipse cx="50" cy="115" rx="20" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.55" transform="rotate(-30 50 115)"/>
+  <!-- spoon 2 (medium-large, mid-left) -->
+  <path d="M 145 50 L 100 140" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" fill="none"/>
+  <ellipse cx="92" cy="158" rx="24" ry="18" fill="#529929" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round" transform="rotate(-15 92 158)"/>
+  <ellipse cx="92" cy="158" rx="17" ry="11" fill="#67832d" stroke="#1a1a1a" stroke-width="3.55" transform="rotate(-15 92 158)"/>
+  <!-- spoon 3 (medium-small, mid-right) -->
+  <path d="M 145 50 L 190 140" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" fill="none"/>
+  <ellipse cx="198" cy="158" rx="20" ry="15" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round" transform="rotate(15 198 158)"/>
+  <ellipse cx="198" cy="158" rx="14" ry="9" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.55" transform="rotate(15 198 158)"/>
+  <!-- spoon 4 (smallest, far right) -->
+  <path d="M 145 50 L 230 100" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" fill="none"/>
+  <ellipse cx="240" cy="115" rx="16" ry="12" fill="#d01424" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round" transform="rotate(30 240 115)"/>
+  <ellipse cx="240" cy="115" rx="11" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.55" transform="rotate(30 240 115)"/>
+  <!-- handle base tags (showing measurements as little shapes, not text) -->
+  <rect x="65" y="85" width="10" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(-30 70 88)"/>
+  <rect x="108" y="125" width="10" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(-15 113 128)"/>
+  <rect x="172" y="125" width="10" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(15 177 128)"/>
+  <rect x="215" y="85" width="10" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(30 220 88)"/>
+</g></svg>

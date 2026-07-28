@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- DESKTOP MONITOR -->
+  <rect x="30" y="25" width="155" height="115" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Screen -->
+  <rect x="40" y="34" width="135" height="97" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- CODE BLOCKS on screen (coloured drawn blocks, no text) -->
+  <!-- Row 1 -->
+  <rect x="48" y="42" width="38" height="10" rx="3" fill="#f8130d"/>
+  <rect x="92" y="42" width="24" height="10" rx="3" fill="#f7de58"/>
+  <rect x="122" y="42" width="45" height="10" rx="3" fill="#529929"/>
+  <!-- Row 2 (indented) -->
+  <rect x="58" y="57" width="50" height="10" rx="3" fill="#2a4ec0"/>
+  <rect x="114" y="57" width="30" height="10" rx="3" fill="#f8130d"/>
+  <!-- Row 3 (more indented) -->
+  <rect x="68" y="72" width="28" height="10" rx="3" fill="#ff9900"/>
+  <rect x="102" y="72" width="42" height="10" rx="3" fill="#ffffff"/>
+  <!-- Row 4 -->
+  <rect x="48" y="87" width="55" height="10" rx="3" fill="#f266aa"/>
+  <rect x="109" y="87" width="25" height="10" rx="3" fill="#f7de58"/>
+  <!-- Row 5 (indented) -->
+  <rect x="58" y="102" width="36" height="10" rx="3" fill="#3aa6a0"/>
+  <rect x="100" y="102" width="50" height="10" rx="3" fill="#f8130d"/>
+  <!-- Monitor stand neck -->
+  <rect x="93" y="140" width="20" height="20" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Monitor base -->
+  <rect x="68" y="158" width="70" height="12" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Keyboard -->
+  <rect x="30" y="175" width="155" height="28" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="38" y="181" width="139" height="16" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Keyboard key rows -->
+  <line x1="38" y1="188" x2="177" y2="188" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="65" y1="181" x2="65" y2="197" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="95" y1="181" x2="95" y2="197" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="125" y1="181" x2="125" y2="197" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="155" y1="181" x2="155" y2="197" stroke="#b8b8b8" stroke-width="2.22"/>
+  <!-- ALGORITHM FLOWCHART (right side) -->
+  <!-- Start oval -->
+  <ellipse cx="235" cy="45" rx="30" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Arrow down -->
+  <line x1="235" y1="59" x2="235" y2="75" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="229,73 235,84 241,73" fill="#000000"/>
+  <!-- Process box -->
+  <rect x="208" y="84" width="54" height="26" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Arrow down -->
+  <line x1="235" y1="110" x2="235" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="229,124 235,135 241,124" fill="#000000"/>
+  <!-- Decision diamond -->
+  <polygon points="235,135 262,155 235,175 208,155" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Arrow down from diamond -->
+  <line x1="235" y1="175" x2="235" y2="191" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="229,189 235,200 241,189" fill="#000000"/>
+  <!-- End oval -->
+  <ellipse cx="235" cy="210" rx="30" ry="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

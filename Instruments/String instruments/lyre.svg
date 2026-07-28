@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lyre: U/horseshoe yoke frame, soundbox base, vertical strings across opening -->
+  <!-- Soundbox base (rectangular/trapezoidal) -->
+  <rect x="85" y="170" width="120" height="50" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Soundbox detail line -->
+  <line x1="85" y1="185" x2="205" y2="185" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Left arm of yoke -->
+  <path d="M100,170 Q80,130 82,80 Q83,50 110,40" fill="none" stroke="#9d7246" stroke-width="40.01" stroke-linecap="round"/>
+  <path d="M100,170 Q80,130 82,80 Q83,50 110,40" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Right arm of yoke -->
+  <path d="M190,170 Q210,130 208,80 Q207,50 180,40" fill="none" stroke="#9d7246" stroke-width="40.01" stroke-linecap="round"/>
+  <path d="M190,170 Q210,130 208,80 Q207,50 180,40" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Crossbar at top connecting both arms -->
+  <line x1="110" y1="40" x2="180" y2="40" stroke="#9d7246" stroke-width="35.57" stroke-linecap="round"/>
+  <line x1="110" y1="40" x2="180" y2="40" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Strings (7) from crossbar down to soundbox -->
+  <line x1="118" y1="42" x2="105" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="128" y1="42" x2="112" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="135" y1="42" x2="121" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="42" x2="132" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="155" y1="42" x2="152" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="162" y1="42" x2="165" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="172" y1="42" x2="178" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tuning pins on crossbar -->
+  <circle cx="118" cy="38" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="128" cy="38" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="138" cy="38" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="38" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="158" cy="38" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="38" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="172" cy="38" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

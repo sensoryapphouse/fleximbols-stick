@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- saltwater taffy: three wrapped pieces with twisted ends -->
+
+  <!-- Taffy 1 (pink) top-left -->
+  <g stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round">
+    <!-- left twist -->
+    <path d="M30 70 L55 55 L50 75 L60 85 L48 95 L55 110 L30 95 Z" fill="#f4a4b2"/>
+    <!-- main body -->
+    <rect x="55" y="55" width="80" height="55" rx="10" fill="#f266aa"/>
+    <!-- stripe -->
+    <path d="M70 60 L70 105" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+    <path d="M95 60 L95 105" fill="none" stroke="#f4a4b2" stroke-width="4.45"/>
+    <path d="M120 60 L120 105" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+    <!-- right twist -->
+    <path d="M160 70 L135 55 L140 75 L130 85 L142 95 L135 110 L160 95 Z" fill="#f4a4b2"/>
+  </g>
+
+  <!-- Taffy 2 (yellow) center -->
+  <g stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 130 L175 115 L170 135 L180 145 L168 155 L175 170 L150 155 Z" fill="#fff200"/>
+    <rect x="175" y="115" width="80" height="55" rx="10" fill="#f2e40d"/>
+    <path d="M190 120 L190 165" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+    <path d="M215 120 L215 165" fill="none" stroke="#ff9900" stroke-width="4.45"/>
+    <path d="M240 120 L240 165" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+    <path d="M280 130 L255 115 L260 135 L250 145 L262 155 L255 170 L280 155 Z" fill="#fff200"/>
+  </g>
+
+  <!-- Taffy 3 (teal) bottom-left -->
+  <g stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 180 L40 165 L35 185 L45 195 L33 205 L40 220 L15 205 Z" fill="#dff3fd"/>
+    <rect x="40" y="165" width="80" height="55" rx="10" fill="#3aa6a0"/>
+    <path d="M55 170 L55 215" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+    <path d="M80 170 L80 215" fill="none" stroke="#dff3fd" stroke-width="4.45"/>
+    <path d="M105 170 L105 215" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+    <path d="M145 180 L120 165 L125 185 L115 195 L127 205 L120 220 L145 205 Z" fill="#dff3fd"/>
+  </g>
+</g></svg>

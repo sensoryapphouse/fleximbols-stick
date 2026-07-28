@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cylindrical dispenser body -->
+  <rect x="100" y="40" width="90" height="120" rx="14" ry="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- top cap -->
+  <ellipse cx="145" cy="42" rx="45" ry="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- clip / carabiner at top -->
+  <path d="M 130 22 Q 130 8 145 8 Q 160 8 160 22 L 160 38" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="20" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- vertical band/seam -->
+  <line x1="145" y1="55" x2="145" y2="150" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- highlight stripe -->
+  <rect x="110" y="55" width="8" height="90" rx="3" ry="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- dispense slot -->
+  <rect x="115" y="155" width="60" height="8" rx="3" ry="3" fill="#000000"/>
+  <!-- bag hanging from slot -->
+  <path d="M 122 163 Q 118 200 130 220 L 165 220 Q 175 200 168 163 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 130 180 L 145 195 L 160 180" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

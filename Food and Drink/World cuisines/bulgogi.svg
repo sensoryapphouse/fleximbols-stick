@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate/bowl base -->
+  <ellipse cx="145" cy="195" rx="118" ry="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="185" rx="118" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Glossy sauce pool in bowl -->
+  <ellipse cx="145" cy="178" rx="100" ry="20" fill="#d01424" stroke="none"/>
+  <!-- Thin marinated beef strips (overlapping thin slices) -->
+  <!-- Strip 1 -->
+  <ellipse cx="100" cy="172" rx="38" ry="11" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-20 100 172)"/>
+  <!-- Strip 2 -->
+  <ellipse cx="135" cy="165" rx="40" ry="11" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(10 135 165)"/>
+  <!-- Strip 3 -->
+  <ellipse cx="170" cy="170" rx="36" ry="11" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-5 170 170)"/>
+  <!-- Strip 4 (top layer, glossy coat) -->
+  <ellipse cx="118" cy="158" rx="32" ry="9" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(15 118 158)"/>
+  <!-- Sesame seeds (small circles) -->
+  <circle cx="125" cy="153" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="157" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="149" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="148" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="110" cy="162" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Green onion pieces (thin diagonal rectangles) -->
+  <rect x="105" y="147" width="5" height="22" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 107 158)"/>
+  <rect x="158" y="142" width="5" height="22" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 160 153)"/>
+  <rect x="178" y="155" width="5" height="18" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 180 164)"/>
+  <!-- Sauce shine highlight -->
+  <ellipse cx="120" cy="170" rx="22" ry="7" fill="#ffffff" stroke="none"/>
+</g></svg>

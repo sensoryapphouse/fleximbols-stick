@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.18) translate(-256.00 -274.00)">
+<!-- ===== berry bush on the left: leafy shrub with multiple berry clumps ===== -->
+<!-- main stems -->
+<path d="M 156 420 L 156 230 M 156 300 L 108 244 M 156 300 L 206 248 M 156 240 L 120 186 M 156 240 L 192 188" fill="none" stroke="#2c6636" stroke-width="10" stroke-linecap="round"/>
+<!-- leaves (cluster) -->
+<path d="M 108 244 Q 72 224 62 184 Q 102 192 122 232 Z" fill="#3d8a4a" stroke="#2c6636" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 206 248 Q 244 228 254 188 Q 214 196 194 236 Z" fill="#3d8a4a" stroke="#2c6636" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 120 186 Q 92 150 96 110 Q 132 130 140 176 Z" fill="#3d8a4a" stroke="#2c6636" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 192 188 Q 220 150 216 110 Q 180 132 172 178 Z" fill="#3d8a4a" stroke="#2c6636" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 156 230 Q 144 188 156 146 Q 170 188 158 230 Z" fill="#3d8a4a" stroke="#2c6636" stroke-width="4" stroke-linejoin="round"/>
+<!-- berry clump 1 (top) -->
+<circle cx="156" cy="120" r="14" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<circle cx="138" cy="138" r="12" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<circle cx="174" cy="138" r="12" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<!-- berry clump 2 (left) -->
+<circle cx="92" cy="212" r="13" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<circle cx="76" cy="230" r="11" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<!-- berry clump 3 (right) -->
+<circle cx="222" cy="216" r="13" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<circle cx="238" cy="234" r="11" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<!-- ===== gathering basket on the right, heaped with mixed berries & roots ===== -->
+<!-- basket body (woven) -->
+<path d="M 296 332 L 452 332 L 432 440 L 316 440 Z" fill="#c79a5f" stroke="#a87c45" stroke-width="7" stroke-linejoin="round"/>
+<!-- weave lines -->
+<line x1="312" y1="366" x2="438" y2="366" stroke="#a87c45" stroke-width="4" stroke-linecap="round"/>
+<line x1="314" y1="402" x2="436" y2="402" stroke="#a87c45" stroke-width="4" stroke-linecap="round"/>
+<line x1="346" y1="338" x2="346" y2="438" stroke="#a87c45" stroke-width="4" stroke-linecap="round"/>
+<line x1="376" y1="338" x2="376" y2="438" stroke="#a87c45" stroke-width="4" stroke-linecap="round"/>
+<line x1="406" y1="338" x2="406" y2="438" stroke="#a87c45" stroke-width="4" stroke-linecap="round"/>
+<!-- rim -->
+<ellipse cx="374" cy="332" rx="80" ry="16" fill="#d8ab6e" stroke="#a87c45" stroke-width="6"/>
+<!-- heaped contents mounding ABOVE the rim (drawn last, on top) -->
+<!-- back row roots/tubers tucked in -->
+<ellipse cx="338" cy="316" rx="20" ry="10" fill="#c79a5f" stroke="#8a6326" stroke-width="3" transform="rotate(-20 338 316)"/>
+<ellipse cx="406" cy="318" rx="20" ry="10" fill="#d8ab6e" stroke="#8a6326" stroke-width="3" transform="rotate(18 406 318)"/>
+<!-- front mound of mixed berries -->
+<circle cx="320" cy="320" r="15" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<circle cx="350" cy="308" r="16" fill="#b8527f" stroke="#6e2a4d" stroke-width="3"/>
+<circle cx="382" cy="306" r="16" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<circle cx="414" cy="316" r="15" fill="#b8527f" stroke="#6e2a4d" stroke-width="3"/>
+<circle cx="366" cy="322" r="13" fill="#9c3b6b" stroke="#6e2a4d" stroke-width="3"/>
+<circle cx="398" cy="324" r="12" fill="#b8527f" stroke="#6e2a4d" stroke-width="3"/>
+</g></svg>

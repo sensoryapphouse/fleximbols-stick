@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Screen/monitor frame -->
+  <rect x="80" y="32" width="130" height="100" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Screen surface (display) -->
+  <rect x="88" y="40" width="114" height="84" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Monitor stand -->
+  <rect x="130" y="132" width="30" height="14" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="118" y="144" width="54" height="8" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Attractive avatar shown on screen -->
+  <!-- Avatar head (idealised) -->
+  <circle cx="145" cy="70" r="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Avatar hair (nice) -->
+  <path d="M127 65 q0-20 18-22 q18 2 18 22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Avatar eyes -->
+  <circle cx="138" cy="68" r="3" fill="#1d0e82"/>
+  <circle cx="152" cy="68" r="3" fill="#1d0e82"/>
+  <!-- Avatar smile -->
+  <path d="M137 78 q8 6 16 0" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Avatar shoulders -->
+  <path d="M127 88 q18 8 36 0" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Fish hook hanging over screen -->
+  <path d="M210 20 l0 38 q0 16 -12 16 q-12 0 -12 -12 q0 -10 10 -10" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hook barb -->
+  <path d="M196 52 l6 8" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Fishing line up -->
+  <line x1="210" y1="20" x2="210" y2="8" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Real (masked) figure lurking behind screen (partially visible) -->
+  <!-- Body peek behind screen -->
+  <rect x="52" y="100" width="24" height="44" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Head peek -->
+  <circle cx="64" cy="84" r="16" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mask over face (domino mask) -->
+  <rect x="52" y="78" width="24" height="10" rx="5" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Eye holes in mask -->
+  <ellipse cx="59" cy="83" rx="4" ry="3" fill="#7f7f7f"/>
+  <ellipse cx="69" cy="83" rx="4" ry="3" fill="#7f7f7f"/>
+  <!-- Left leg -->
+  <rect x="52" y="142" width="10" height="34" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Right leg -->
+  <rect x="66" y="142" width="10" height="34" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Arm reaching to screen -->
+  <line x1="76" y1="112" x2="88" y2="108" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+
+  <!-- Ground line -->
+  <line x1="28" y1="182" x2="262" y2="182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

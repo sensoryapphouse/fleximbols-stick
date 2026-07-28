@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- water shut-off valve with round red handwheel on a pipe -->
+<!-- pipe left -->
+<rect x="108" y="288" width="120" height="64" rx="6" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pipe right -->
+<rect x="284" y="288" width="120" height="64" rx="6" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- valve body (bonnet) -->
+<rect x="214" y="272" width="84" height="96" rx="10" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rising stem -->
+<rect x="248" y="150" width="16" height="130" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- round handwheel -->
+<circle cx="256" cy="140" r="60" fill="none" stroke="#d63b46" stroke-width="22"/>
+<circle cx="256" cy="140" r="60" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="140" r="38" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<!-- spokes -->
+<line x1="256" y1="102" x2="256" y2="178" stroke="#d63b46" stroke-width="16" stroke-linecap="round"/>
+<line x1="218" y1="140" x2="294" y2="140" stroke="#d63b46" stroke-width="16" stroke-linecap="round"/>
+<line x1="256" y1="102" x2="256" y2="178" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="218" y1="140" x2="294" y2="140" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<circle cx="256" cy="140" r="12" fill="#e8b24e" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

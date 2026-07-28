@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cup body (weighted, wider bottom) -->
+  <path d="M108 85 L98 195 Q98 206 110 206 L185 206 Q197 206 197 195 L182 85 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Weighted base bump -->
+  <ellipse cx="145" cy="202" rx="50" ry="12" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- 360-degree rim lid — outer ring -->
+  <ellipse cx="145" cy="84" rx="52" ry="16" fill="#529929" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- 360-degree rim lid — inner ring (channel) -->
+  <ellipse cx="145" cy="84" rx="34" ry="10" fill="#67832d" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Rim top dome (no-spill lip) -->
+  <path d="M93 84 Q93 58 145 58 Q197 58 197 84" fill="#529929" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tilt motion arc (shows cup tilts freely) -->
+  <path d="M54 150 Q46 120 64 96" fill="none" stroke="#f8130d" stroke-width="3.95" stroke-linecap="round" stroke-dasharray="7 5"/>
+  <!-- Tilt arc arrowhead -->
+  <polygon points="64,96 52,90 70,86" fill="#f8130d" stroke="#f8130d" stroke-width="1.97" stroke-linejoin="round"/>
+  <!-- Liquid level inside cup -->
+  <path d="M113 148 L110 195 Q110 201 116 201 L179 201 Q185 201 185 195 L182 148 Z" fill="#90a7d6" stroke="none"/>
+  <line x1="112" y1="148" x2="183" y2="148" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+</g></svg>

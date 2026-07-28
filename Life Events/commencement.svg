@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- banner string behind podium -->
+  <path d="M20 50 Q145 30 270 50" fill="none" stroke="#4d4d4d" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- bunting triangles along the string -->
+  <path d="M40 46 L52 46 L46 62 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M65 43 L77 43 L71 59 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M90 40 L102 40 L96 56 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M115 38 L127 38 L121 54 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M140 36 L152 36 L146 52 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M165 38 L177 38 L171 54 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M190 40 L202 40 L196 56 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M215 43 L227 43 L221 59 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M240 46 L252 46 L246 62 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- main banner rectangle behind podium -->
+  <rect x="55" y="68" width="180" height="50" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.78" stroke-linejoin="round"/>
+  <!-- decorative stripes on banner -->
+  <line x1="65" y1="80" x2="225" y2="80" stroke="#f8130d" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="65" y1="106" x2="225" y2="106" stroke="#f8130d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- graduation cap motif centred on banner -->
+  <path d="M115 95 L145 85 L175 95 L145 105 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M127 99 L127 110 Q145 116 163 110 L163 99" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="145" y1="95" x2="175" y2="108" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- podium top -->
+  <path d="M90 130 L200 130 L210 145 L80 145 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.78" stroke-linejoin="round"/>
+  <!-- podium body -->
+  <path d="M95 145 L195 145 L205 220 L85 220 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.78" stroke-linejoin="round"/>
+  <!-- podium panel -->
+  <rect x="115" y="160" width="60" height="45" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- graduation cap on top of podium -->
+  <path d="M115 122 L145 110 L175 122 L145 134 Z" fill="#000000" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="145" cy="121" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="145" y1="121" x2="172" y2="135" stroke="#f7de58" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M169 135 L173 150 L177 135 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- microphone stem rising from podium -->
+  <line x1="100" y1="130" x2="80" y2="95" stroke="#4d4d4d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- microphone head -->
+  <ellipse cx="78" cy="88" rx="9" ry="13" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="72" y1="82" x2="84" y2="82" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="71" y1="88" x2="85" y2="88" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="72" y1="94" x2="84" y2="94" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

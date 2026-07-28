@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100.62 80.99 356.85 356.85">
+<!-- scale and polish: tooth cleaned by a scaler tool, sparkles = polished clean -->
+<path d="M 150 250 Q 138 144 224 130 Q 296 144 286 250 L 270 250 Q 264 366 240 406 Q 224 426 218 372 Q 210 338 204 372 Q 198 426 182 406 Q 156 366 150 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 218 158 L 218 236 M 182 184 Q 218 206 254 184" fill="none" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+<!-- scaler / pick tool tip touching the tooth -->
+<line x1="408" y1="404" x2="318" y2="276" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<line x1="408" y1="404" x2="318" y2="276" stroke="#9aa3ac" stroke-width="6" stroke-linecap="round"/>
+<path d="M 318 276 Q 300 262 290 246" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- sparkles of cleanliness -->
+<g stroke="#4ec0e0" stroke-width="8" stroke-linecap="round">
+<line x1="232" y1="108" x2="232" y2="138"/><line x1="217" y1="123" x2="247" y2="123"/>
+<line x1="318" y1="150" x2="318" y2="172"/><line x1="307" y1="161" x2="329" y2="161"/>
+</g>
+</svg>

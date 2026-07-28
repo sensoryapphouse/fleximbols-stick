@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 67.49 411.15 411.15">
+<!-- EXTRA: a group + one added/set aside, with a plus cue -->
+<line x1="80" y1="372" x2="432" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- main group (left): 4 balls -->
+<circle cx="150" cy="330" r="40" fill="#5b9bd5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="234" cy="330" r="40" fill="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="192" cy="258" r="40" fill="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="276" cy="258" r="40" fill="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<!-- extra one set aside (right) -->
+<circle cx="372" cy="330" r="40" fill="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- plus cue above the extra one (added) -->
+<g stroke="#2e8b3d" stroke-width="14" stroke-linecap="round">
+<line x1="372" y1="176" x2="372" y2="226"/>
+<line x1="347" y1="201" x2="397" y2="201"/>
+</g>
+</svg>

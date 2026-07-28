@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- drawing pin / push pin, side-on: rounded grip cap on a short pin -->
+<!-- flat rounded cap (grip top): wide and low -->
+<path d="M 148 196 Q 148 168 256 168 Q 364 168 364 196 Q 364 224 256 224 Q 148 224 148 196 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- waist collar -->
+<rect x="224" y="220" width="64" height="28" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pin spike -->
+<path d="M 244 248 L 268 248 L 258 396 L 256 412 L 254 396 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- highlight on cap -->
+<path d="M 184 184 Q 218 172 258 172" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+</svg>

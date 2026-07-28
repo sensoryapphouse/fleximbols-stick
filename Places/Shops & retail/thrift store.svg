@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd"/>
+  <!-- Building body (modest, worn look) -->
+  <rect x="20" y="65" width="250" height="150" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Simple flat roof -->
+  <rect x="15" y="57" width="260" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Shop window (left) -->
+  <rect x="30" y="82" width="140" height="95" rx="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Door (right) -->
+  <rect x="196" y="153" width="54" height="62" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="210" cy="184" r="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Clothing rack emblem (in window) -->
+  <!-- Rack bar (horizontal pole) -->
+  <line x1="40" y1="104" x2="158" y2="104" stroke="#7f7f7f" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Left upright -->
+  <line x1="40" y1="104" x2="40" y2="168" stroke="#7f7f7f" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Right upright -->
+  <line x1="158" y1="104" x2="158" y2="168" stroke="#7f7f7f" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Feet -->
+  <line x1="33" y1="168" x2="47" y2="168" stroke="#7f7f7f" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="151" y1="168" x2="165" y2="168" stroke="#7f7f7f" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Garment 1: jacket (left) -->
+  <!-- Hanger hook -->
+  <path d="M60,104 Q60,96 68,96 Q72,96 72,100" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Jacket body -->
+  <rect x="52" y="106" width="36" height="44" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Jacket sleeves -->
+  <rect x="38" y="108" width="16" height="28" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="86" y="108" width="16" height="28" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Garment 2: dress (middle) -->
+  <!-- Hanger hook -->
+  <path d="M110,104 Q110,96 118,96 Q122,96 122,100" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Dress body -->
+  <polygon points="104,106 132,106 138,150 98,150" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Garment 3: shirt (right) -->
+  <!-- Hanger hook -->
+  <path d="M148,104 Q148,96 155,96 Q158,96 158,100" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Shirt body -->
+  <rect x="140" y="106" width="30" height="38" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Shirt sleeves (narrow) -->
+  <rect x="130" y="108" width="12" height="20" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="168" y="108" width="12" height="20" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Price tag hanging from rack (right side) -->
+  <rect x="196" y="90" width="36" height="22" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="214" y1="82" x2="214" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="214" cy="81" r="3" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dollar sign on tag (simplified: a vertical line with two horizontal bars) -->
+  <line x1="214" y1="94" x2="214" y2="108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="208" y1="98" x2="220" y2="98" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="208" y1="104" x2="220" y2="104" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Ground -->
+  <line x1="10" y1="215" x2="280" y2="215" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

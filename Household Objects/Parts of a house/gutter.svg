@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- roof edge dimmed -->
+<path d="M 130 200 L 256 120 L 382 200 Z" fill="#e9e2d2" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<rect x="150" y="200" width="212" height="40" rx="0" fill="#e9e2d2" stroke="#1a1a1a" stroke-width="7"/>
+<!-- highlighted gutter trough along eave -->
+<path d="M 116 240 L 396 240 L 396 262 Q 396 286 372 286 L 140 286 Q 116 286 116 262 Z"
+fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="116" y1="252" x2="396" y2="252" stroke="#9aa0a6" stroke-width="5" stroke-linecap="round"/>
+<!-- downpipe -->
+<rect x="338" y="286" width="34" height="126" rx="4" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- water droplets falling from the downpipe spout -->
+<path d="M 355 418 q -11 15 0 24 q 11 -9 0 -24 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="355" cy="400" r="8" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

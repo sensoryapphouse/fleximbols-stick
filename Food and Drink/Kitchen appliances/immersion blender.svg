@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Immersion blender: tall thin shaft held into a beaker, bell blade at bottom -->
+  <!-- Beaker / jug -->
+  <path d="M75 135 L75 215 Q75 222 82 222 L175 222 Q182 222 182 215 L182 135 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Beaker spout -->
+  <path d="M175 148 Q192 145 196 135" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Liquid in beaker -->
+  <path d="M75 175 Q128 168 182 175 L182 215 Q182 222 175 222 L82 222 Q75 222 75 215 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Beaker measurement lines -->
+  <line x1="78" y1="185" x2="88" y2="185" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="78" y1="200" x2="88" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Blender shaft (single thin pole) -->
+  <rect x="123" y="58" width="16" height="150" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bell guard at bottom of shaft -->
+  <path d="M110 195 Q110 210 131 215 Q152 210 152 195 Q152 185 131 183 Q110 185 110 195 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Blade cross inside bell -->
+  <line x1="120" y1="199" x2="142" y2="199" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="189" x2="131" y2="211" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Motor body / handle top -->
+  <rect x="112" y="28" width="38" height="36" rx="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Power button on motor -->
+  <circle cx="131" cy="46" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M131 38 L131 42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M124 41 Q119 46 121 52 Q124 58 131 58 Q138 58 141 52 Q143 46 138 41" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Speed strip on shaft -->
+  <rect x="127" y="70" width="8" height="30" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

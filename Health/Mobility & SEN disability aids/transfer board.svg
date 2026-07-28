@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 92.78 345.21 345.21">
+<!-- transfer board: flat smooth board with hand-hole cutouts, slight bridge curve -->
+<path d="M 110 230 Q 256 210 402 230 L 402 300 Q 256 320 110 300 Z" fill="#e0a85a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wood grain lines -->
+<path d="M 140 252 Q 256 236 372 252" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5"/>
+<path d="M 140 282 Q 256 298 372 282" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5"/>
+<!-- left hand hole -->
+<ellipse cx="160" cy="266" rx="20" ry="11" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- right hand hole -->
+<ellipse cx="352" cy="266" rx="20" ry="11" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

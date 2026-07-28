@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- all souls day: candles in graveyard + cross + flowers on graves -->
+  <!-- dim evening sky -->
+  <rect x="0" y="0" width="290" height="170" fill="#392170" stroke="none"/>
+  <!-- moon -->
+  <circle cx="240" cy="40" r="16" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- ground -->
+  <path d="M0 170 Q145 160 290 170 L290 240 L0 240 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- LEFT headstone (rounded top) -->
+  <path d="M30 175 L30 110 Q30 90 55 90 Q80 90 80 110 L80 175 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- engraved cross on left headstone -->
+  <rect x="52" y="110" width="6" height="26" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="44" y="118" width="22" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- CENTER large cross headstone -->
+  <rect x="130" y="115" width="14" height="60" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="143" y="115" width="14" height="60" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- cross vertical -->
+  <rect x="138" y="55" width="14" height="120" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- cross horizontal -->
+  <rect x="115" y="80" width="60" height="14" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- RIGHT headstone -->
+  <path d="M210 175 L210 110 Q210 90 235 90 Q260 90 260 110 L260 175 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <rect x="230" y="115" width="10" height="20" fill="#4d4d4d"/>
+  <rect x="225" y="120" width="20" height="10" fill="#4d4d4d"/>
+  <!-- flowers in front of LEFT headstone -->
+  <line x1="42" y1="200" x2="42" y2="180" stroke="#137827" stroke-width="4.45"/>
+  <line x1="55" y1="200" x2="55" y2="178" stroke="#137827" stroke-width="4.45"/>
+  <circle cx="42" cy="176" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="55" cy="174" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="68" cy="178" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="68" y1="200" x2="68" y2="182" stroke="#137827" stroke-width="4.45"/>
+  <!-- flowers in front of CENTER cross -->
+  <line x1="128" y1="210" x2="128" y2="188" stroke="#137827" stroke-width="4.45"/>
+  <line x1="145" y1="210" x2="145" y2="185" stroke="#137827" stroke-width="4.45"/>
+  <line x1="162" y1="210" x2="162" y2="188" stroke="#137827" stroke-width="4.45"/>
+  <circle cx="128" cy="186" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="182" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="162" cy="186" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- flowers in front of RIGHT headstone -->
+  <line x1="222" y1="200" x2="222" y2="180" stroke="#137827" stroke-width="4.45"/>
+  <line x1="235" y1="200" x2="235" y2="178" stroke="#137827" stroke-width="4.45"/>
+  <line x1="248" y1="200" x2="248" y2="182" stroke="#137827" stroke-width="4.45"/>
+  <circle cx="222" cy="176" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="235" cy="174" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="248" cy="178" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- candles in foreground -->
+  <!-- left candle -->
+  <rect x="90" y="200" width="12" height="30" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M96 200 L96 192" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M96 192 Q91 184 96 178 Q101 184 96 192 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- middle candle -->
+  <rect x="180" y="205" width="14" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M187 205 L187 195" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M187 195 Q181 186 187 178 Q193 186 187 195 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

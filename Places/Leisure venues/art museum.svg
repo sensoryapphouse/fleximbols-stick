@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Art museum: grand classical building with columns, pediment, framed painting on facade -->
+  <!-- Building base steps -->
+  <rect x="18" y="212" width="254" height="14" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="26" y="200" width="238" height="14" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Main building body -->
+  <rect x="34" y="112" width="222" height="90" rx="4" ry="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pediment (triangular roof) -->
+  <polygon points="22,112 145,46 268,112" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pediment inner triangle detail -->
+  <polygon points="50,112 145,62 240,112" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- 6 columns -->
+  <rect x="44" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="80" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="116" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="156" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="192" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="228" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Column capitals (top flare) -->
+  <rect x="40" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="76" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="112" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="152" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="188" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="224" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- FRAMED PAINTING emblem centred on facade -->
+  <!-- Frame outer -->
+  <rect x="110" y="128" width="70" height="56" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Canvas -->
+  <rect x="118" y="134" width="54" height="44" rx="2" ry="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Simple landscape painting: sky + ground + sun -->
+  <rect x="118" y="134" width="54" height="22" rx="2" ry="2" fill="#90a7d6" stroke="none"/>
+  <ellipse cx="145" cy="140" rx="9" ry="9" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Green ground -->
+  <rect x="118" y="156" width="54" height="22" rx="0" ry="2" fill="#529929" stroke="none"/>
+</g></svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor line -->
+  <line x1="0" y1="210" x2="290" y2="210" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="0" y="210" width="290" height="30" fill="#eed5b6" stroke="none"/>
+  <!-- camera body (squat unit with treat dispenser) -->
+  <rect x="34" y="100" width="120" height="110" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- top dome (rounded, friendly) -->
+  <path d="M 34 110 Q 34 70 94 70 Q 154 70 154 110 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- camera lens (large, centred upper) -->
+  <circle cx="94" cy="100" r="22" fill="#000000" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="94" cy="100" r="15" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="94" cy="100" r="7" fill="#000000"/>
+  <circle cx="90" cy="96" r="2" fill="#ffffff"/>
+  <!-- status LED -->
+  <circle cx="124" cy="84" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- treat dispenser opening (chute on side / bottom front) -->
+  <rect x="58" y="170" width="72" height="22" rx="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="62" y="174" width="64" height="14" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- treat (bone-shaped) coming out -->
+  <path d="M 100 198 Q 96 196 96 200 Q 92 200 92 204 Q 92 208 96 208 Q 96 212 100 210 L 116 210 Q 120 212 120 208 Q 124 208 124 204 Q 124 200 120 200 Q 120 196 116 198 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- dog (in view of camera, right side) -->
+  <!-- body -->
+  <ellipse cx="220" cy="180" rx="46" ry="26" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- head -->
+  <circle cx="246" cy="148" r="26" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- ears (floppy) -->
+  <path d="M 228 130 Q 220 124 218 138 Q 220 146 230 144 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M 264 130 Q 272 124 274 138 Q 272 146 262 144 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- snout -->
+  <ellipse cx="252" cy="158" rx="10" ry="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- nose -->
+  <ellipse cx="256" cy="154" rx="3" ry="2.5" fill="#000000"/>
+  <!-- eyes -->
+  <circle cx="240" cy="144" r="2.5" fill="#000000"/>
+  <circle cx="254" cy="142" r="2.5" fill="#000000"/>
+  <!-- mouth -->
+  <path d="M 250 160 Q 252 164 256 162" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- tongue (excited about treat) -->
+  <path d="M 252 162 Q 253 168 256 168 Q 259 168 258 162" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <!-- front legs -->
+  <rect x="190" y="194" width="10" height="20" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="208" y="196" width="10" height="18" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- back legs -->
+  <rect x="234" y="196" width="10" height="18" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="252" y="196" width="10" height="18" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tail wagging -->
+  <path d="M 264 168 Q 280 156 274 142" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- view-cone lines from camera to dog -->
+  <line x1="116" y1="100" x2="190" y2="138" stroke="#f2e40d" stroke-width="3.56" stroke-linecap="round"/>
+  <line x1="116" y1="116" x2="190" y2="170" stroke="#f2e40d" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

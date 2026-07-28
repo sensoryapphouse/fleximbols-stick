@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <path d="M 20 205 Q 145 198 270 205" fill="none" stroke="#67832d" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bell tent main canvas -->
+  <path d="M 145 25 L 38 195 L 252 195 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tent center pole shadow line -->
+  <line x1="145" y1="25" x2="145" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tent door opening (arched) -->
+  <path d="M 118 195 Q 118 155 145 148 Q 172 155 172 195" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Door panels open (tied back) -->
+  <path d="M 118 195 Q 112 170 116 155 Q 122 148 130 158 Q 128 175 132 195" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 172 195 Q 178 170 174 155 Q 168 148 160 158 Q 162 175 158 195" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tent seam lines -->
+  <line x1="145" y1="25" x2="85" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="145" y1="25" x2="205" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Guy ropes left -->
+  <line x1="80" y1="100" x2="40" y2="130" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="132" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Guy ropes right -->
+  <line x1="210" y1="100" x2="250" y2="130" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="250" cy="132" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Interior furnishings visible through door -->
+  <!-- Bed/mattress -->
+  <path d="M 122 190 Q 145 182 168 190 L 168 178 Q 145 170 122 178 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pillow -->
+  <ellipse cx="135" cy="174" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lantern outside left -->
+  <rect x="55" y="168" width="14" height="18" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="62" y1="162" x2="62" y2="168" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="55" y1="186" x2="69" y2="186" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lantern glow lines -->
+  <line x1="52" y1="175" x2="47" y2="172" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="52" y1="179" x2="47" y2="182" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Potted plant right of door -->
+  <rect x="218" y="183" width="18" height="14" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 227 183 Q 218 168 222 160 Q 227 155 227 168" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 227 183 Q 236 166 232 158 Q 227 153 227 168" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Stars in sky -->
+  <circle cx="55" cy="42" r="3" fill="#f7de58" stroke="none"/>
+  <circle cx="240" cy="35" r="3" fill="#f7de58" stroke="none"/>
+  <circle cx="200" cy="55" r="2" fill="#f7de58" stroke="none"/>
+  <circle cx="75" cy="60" r="2" fill="#f7de58" stroke="none"/>
+</g></svg>

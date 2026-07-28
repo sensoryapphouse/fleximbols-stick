@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- mouse body -->
+<path d="M 256 140 Q 350 140 350 250 L 350 330 Q 350 410 256 410 Q 162 410 162 330 L 162 250 Q 162 140 256 140 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- divider lines for buttons -->
+<line x1="256" y1="142" x2="256" y2="246" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 162 246 L 350 246" stroke="#1a1a1a" stroke-width="7"/>
+<!-- left button highlighted -->
+<path d="M 256 142 Q 200 142 178 178 Q 162 210 162 250 L 162 246 L 256 246 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- scroll wheel -->
+<rect x="244" y="176" width="24" height="44" rx="11" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<!-- click burst over left button -->
+<g stroke="#1a1a1a" stroke-width="11" stroke-linecap="round">
+<line x1="208" y1="118" x2="208" y2="88"/>
+<line x1="172" y1="134" x2="150" y2="112"/>
+<line x1="160" y1="186" x2="128" y2="178"/>
+</g>
+</svg>

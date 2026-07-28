@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Doorstep / step -->
+  <rect x="30" y="192" width="230" height="22" rx="5" ry="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Ground / path -->
+  <rect x="30" y="210" width="230" height="12" rx="0" ry="0" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Grocery bag left -->
+  <rect x="42" y="148" width="50" height="48" rx="6" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Bag left top fold -->
+  <path d="M 42 160 Q 67 152 92 160" fill="#67832d" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bag left handles -->
+  <path d="M 52 148 Q 52 134 67 134 Q 82 134 82 148" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- Carrot top sticking out left bag -->
+  <line x1="60" y1="148" x2="55" y2="132" stroke="#529929" stroke-width="3.95" stroke-linecap="round"/>
+  <line x1="67" y1="148" x2="67" y2="128" stroke="#529929" stroke-width="3.95" stroke-linecap="round"/>
+  <line x1="74" y1="148" x2="79" y2="132" stroke="#529929" stroke-width="3.95" stroke-linecap="round"/>
+  <ellipse cx="67" cy="152" rx="12" ry="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Grocery bag middle -->
+  <rect x="102" y="144" width="56" height="52" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Bag middle handles -->
+  <path d="M 113 144 Q 113 128 130 128 Q 147 128 147 144" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- Baguette sticking out -->
+  <rect x="120" y="122" width="10" height="30" rx="5" ry="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Grocery bag right -->
+  <rect x="168" y="150" width="48" height="46" rx="6" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Bag right handles -->
+  <path d="M 178 150 Q 178 136 192 136 Q 206 136 206 150" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- Apple sticking out right bag -->
+  <circle cx="192" cy="147" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Delivery van in background -->
+  <rect x="148" y="88" width="112" height="70" rx="8" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Van cab -->
+  <path d="M 220 88 L 238 88 Q 260 88 260 112 L 260 158" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Van windscreen -->
+  <rect x="228" y="96" width="26" height="28" rx="5" ry="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Van side window -->
+  <rect x="156" y="98" width="42" height="24" rx="5" ry="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Van wheels -->
+  <circle cx="180" cy="166" r="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94"/>
+  <circle cx="180" cy="166" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="244" cy="166" r="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94"/>
+  <circle cx="244" cy="166" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Van side panel logo suggestion (simple box outline) -->
+  <rect x="158" y="126" width="38" height="24" rx="4" ry="4" fill="none" stroke="#90a7d6" stroke-width="2.96"/>
+</g></svg>

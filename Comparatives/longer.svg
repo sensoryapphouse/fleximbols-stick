@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.4441) translate(-276.00 -306.00)">
+<!-- two solid bars, common LEFT baseline -->
+<rect x="120.0" y="190.0" width="170.0" height="64.0" rx="10" fill="#e07a2c" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="120.0" y="300.0" width="312.0" height="64.0" rx="10" fill="#e07a2c" stroke="#1a1a1a" stroke-width="6"/>
+<!-- red length span under the long (target) bar -->
+<line x1="120" y1="404" x2="432" y2="404" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/><line x1="120" y1="404" x2="432" y2="404" stroke="#e0473c" stroke-width="12" stroke-linecap="round"/>
+<line x1="120" y1="386" x2="120" y2="422" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/><line x1="120" y1="386" x2="120" y2="422" stroke="#e0473c" stroke-width="12" stroke-linecap="round"/>
+<line x1="432" y1="386" x2="432" y2="422" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/><line x1="432" y1="386" x2="432" y2="422" stroke="#e0473c" stroke-width="12" stroke-linecap="round"/>
+<polygon points="120.0,404.0 150.0,389.0 150.0,419.0" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+<polygon points="432.0,404.0 402.0,389.0 402.0,419.0" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+</g></svg>

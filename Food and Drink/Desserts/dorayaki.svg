@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Shadow beneath -->
+  <ellipse cx="145" cy="210" rx="98" ry="14" fill="#b8b8b8" stroke="none"/>
+  <!-- Bottom pancake disc - round, golden brown -->
+  <ellipse cx="145" cy="185" rx="95" ry="30" fill="#ff9900" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Bottom disc darker underside edge -->
+  <path d="M50 185 Q50 200 145 205 Q240 200 240 185" fill="#e65a00" stroke="none"/>
+  <!-- Red bean filling visible between pancakes -->
+  <ellipse cx="145" cy="162" rx="90" ry="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Bean filling texture -->
+  <ellipse cx="145" cy="162" rx="78" ry="13" fill="#5e1f0a" stroke="none"/>
+  <!-- Individual bean dots in filling -->
+  <circle cx="108" cy="162" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="122" cy="157" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="138" cy="162" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="157" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="162" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="185" cy="157" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Top pancake disc -->
+  <ellipse cx="145" cy="140" rx="95" ry="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Top disc surface - slightly darker golden center -->
+  <ellipse cx="145" cy="140" rx="80" ry="22" fill="#ff9900" stroke="none"/>
+  <!-- Top disc browned center spot -->
+  <ellipse cx="145" cy="138" rx="48" ry="14" fill="#e65a00" stroke="none"/>
+  <!-- Top disc highlight ring -->
+  <ellipse cx="145" cy="137" rx="38" ry="10" fill="#ff9900" stroke="none"/>
+  <!-- Pancake surface bubbles/pores -->
+  <circle cx="118" cy="135" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="128" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="130" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="137" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="128" cy="148" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="162" cy="147" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

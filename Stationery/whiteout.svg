@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Deep snow ground -->
+  <rect x="0" y="175" width="290" height="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Snow drifts on ground -->
+  <ellipse cx="70" cy="178" rx="80" ry="22" fill="#ffffff" stroke="#b8b8b8" stroke-width="4.45"/>
+  <ellipse cx="220" cy="180" rx="78" ry="20" fill="#ffffff" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- Heavy snow blizzard blobs in sky - white mass -->
+  <ellipse cx="75" cy="42" rx="62" ry="32" fill="#ffffff" stroke="#b8b8b8" stroke-width="6.67"/>
+  <ellipse cx="195" cy="35" rx="68" ry="30" fill="#ffffff" stroke="#b8b8b8" stroke-width="6.67"/>
+  <ellipse cx="135" cy="22" rx="55" ry="24" fill="#ffffff" stroke="#b8b8b8" stroke-width="6.67"/>
+  <ellipse cx="40" cy="72" rx="48" ry="28" fill="#efefef" stroke="#b8b8b8" stroke-width="4.45"/>
+  <ellipse cx="255" cy="68" rx="45" ry="26" fill="#efefef" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- Figure barely visible - grey silhouette in winter coat -->
+  <!-- Head -->
+  <circle cx="145" cy="108" r="13" fill="#b8b8b8" stroke="#7f7f7f" stroke-width="6.67"/>
+  <!-- Hood -->
+  <path d="M132 108 Q145 95 158 108" fill="#efefef" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Body (bulky coat) -->
+  <rect x="129" y="121" width="32" height="48" rx="7" fill="#b8b8b8" stroke="#7f7f7f" stroke-width="6.67"/>
+  <!-- Left arm -->
+  <line x1="129" y1="132" x2="112" y2="142" stroke="#b8b8b8" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Right arm -->
+  <line x1="161" y1="132" x2="178" y2="142" stroke="#b8b8b8" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Legs (partially in snow) -->
+  <line x1="138" y1="169" x2="133" y2="184" stroke="#b8b8b8" stroke-width="11.11" stroke-linecap="round"/>
+  <line x1="152" y1="169" x2="157" y2="184" stroke="#b8b8b8" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Falling snowflakes scattered across scene -->
+  <!-- Flake A - large, top-left -->
+  <circle cx="48" cy="118" r="7" fill="#ffffff" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="48" y1="110" x2="48" y2="126" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="40" y1="118" x2="56" y2="118" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="43" y1="113" x2="53" y2="123" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="53" y1="113" x2="43" y2="123" stroke="#7f7f7f" stroke-width="4.45"/>
+  <!-- Flake B - large, right -->
+  <circle cx="242" cy="95" r="8" fill="#ffffff" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="242" y1="86" x2="242" y2="104" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="233" y1="95" x2="251" y2="95" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="236" y1="89" x2="248" y2="101" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="248" y1="89" x2="236" y2="101" stroke="#7f7f7f" stroke-width="4.45"/>
+  <!-- Flake C - medium, lower left -->
+  <circle cx="88" cy="158" r="6" fill="#ffffff" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="88" y1="151" x2="88" y2="165" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="81" y1="158" x2="95" y2="158" stroke="#7f7f7f" stroke-width="4.45"/>
+  <!-- Flake D - medium, right side -->
+  <circle cx="202" cy="148" r="6" fill="#ffffff" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="202" y1="141" x2="202" y2="155" stroke="#7f7f7f" stroke-width="4.45"/>
+  <line x1="195" y1="148" x2="209" y2="148" stroke="#7f7f7f" stroke-width="4.45"/>
+  <!-- Small snow dots scattered -->
+  <circle cx="25" cy="138" r="4" fill="#ffffff" stroke="#b8b8b8" stroke-width="2.22"/>
+  <circle cx="268" cy="128" r="4" fill="#ffffff" stroke="#b8b8b8" stroke-width="2.22"/>
+  <circle cx="108" cy="88" r="4" fill="#ffffff" stroke="#b8b8b8" stroke-width="2.22"/>
+  <circle cx="178" cy="76" r="4" fill="#ffffff" stroke="#b8b8b8" stroke-width="2.22"/>
+  <circle cx="172" cy="160" r="3" fill="#ffffff" stroke="#b8b8b8" stroke-width="2.22"/>
+  <circle cx="68" cy="162" r="3" fill="#ffffff" stroke="#b8b8b8" stroke-width="2.22"/>
+</g></svg>

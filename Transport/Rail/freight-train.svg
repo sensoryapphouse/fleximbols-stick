@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) scale(0.97) translate(-256 -256)">
+<!-- rails -->
+<line x1="36" y1="408" x2="476" y2="408" stroke="#7d8893" stroke-width="12" stroke-linecap="round"/>
+<line x1="70" y1="400" x2="70" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="160" y1="400" x2="160" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="250" y1="400" x2="250" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="340" y1="400" x2="340" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<line x1="430" y1="400" x2="430" y2="416" stroke="#9aa3ac" stroke-width="7" stroke-linecap="round"/>
+<!-- locomotive (left) -->
+<path d="M 44 220 L 150 220 Q 162 220 162 232 L 162 356 L 44 356 Q 36 356 36 348 L 36 232 Q 36 220 44 220 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<rect x="58" y="240" width="58" height="48" rx="8" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="142" cy="266" r="9" fill="#f4c430" stroke="#1a1a1a" stroke-width="5"/>
+<!-- container wagon 1 (gold) -->
+<rect x="180" y="250" width="130" height="106" rx="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="10"/>
+<line x1="223" y1="250" x2="223" y2="356" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="266" y1="250" x2="266" y2="356" stroke="#1a1a1a" stroke-width="6"/>
+<!-- container wagon 2 (green) -->
+<rect x="330" y="250" width="130" height="106" rx="6" fill="#2e7d40" stroke="#1a1a1a" stroke-width="10"/>
+<line x1="373" y1="250" x2="373" y2="356" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="416" y1="250" x2="416" y2="356" stroke="#1a1a1a" stroke-width="6"/>
+<!-- couplers -->
+<line x1="162" y1="340" x2="180" y2="340" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="310" y1="340" x2="330" y2="340" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- wheels -->
+<circle cx="80" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="80" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="130" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="130" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="210" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="210" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="280" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="280" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="360" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="360" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="430" cy="372" r="24" fill="#222428" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="430" cy="372" r="10" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

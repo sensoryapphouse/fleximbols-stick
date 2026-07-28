@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- desk surface -->
+  <rect x="15" y="208" width="260" height="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- built-in kickstand cover folded out behind -->
+  <path d="M 175 200 L 235 175 L 235 200 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- slim portable monitor body (thin profile, tilted slightly) -->
+  <rect x="55" y="55" width="170" height="150" rx="5" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- ultra thin bezel -->
+  <rect x="63" y="63" width="154" height="134" rx="2" ry="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- screen content lighter / mobile-style -->
+  <rect x="71" y="71" width="138" height="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="71" y="98" width="65" height="40" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="142" y="98" width="67" height="40" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="71" y="143" width="138" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="80" y1="158" x2="200" y2="158" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="170" x2="180" y2="170" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="182" x2="190" y2="182" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- USB-C cable -->
+  <path d="M 55 130 Q 35 135 25 145" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <rect x="20" y="142" width="10" height="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

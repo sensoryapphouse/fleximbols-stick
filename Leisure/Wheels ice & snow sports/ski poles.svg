@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left pole -->
+  <path d="M105 30 L95 210" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" fill="none"/>
+  <!-- left grip -->
+  <rect x="98" y="25" width="14" height="22" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- left strap -->
+  <path d="M112 32 Q124 36 118 46" stroke="#1a1a1a" stroke-width="5.34" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left basket -->
+  <ellipse cx="95" cy="195" rx="22" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.34"/>
+  <line x1="95" y1="187" x2="95" y2="203" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="78" y1="195" x2="112" y2="195" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- left tip -->
+  <path d="M93 203 L95 215 L97 203 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- right pole -->
+  <path d="M185 30 L195 210" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" fill="none"/>
+  <!-- right grip -->
+  <rect x="178" y="25" width="14" height="22" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- right strap -->
+  <path d="M178 32 Q166 36 172 46" stroke="#1a1a1a" stroke-width="5.34" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right basket -->
+  <ellipse cx="195" cy="195" rx="22" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.34"/>
+  <line x1="195" y1="187" x2="195" y2="203" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="178" y1="195" x2="212" y2="195" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- right tip -->
+  <path d="M193 203 L195 215 L197 203 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- pole color stripes -->
+  <rect x="102" y="60" width="6" height="20" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="182" y="60" width="6" height="20" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

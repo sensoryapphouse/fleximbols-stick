@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky (thin atmosphere — paler blue at top) -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- thin atmosphere wisps -->
+  <path d="M30 50 q 20 -6 40 0 q 20 -6 40 0" fill="none" stroke="#90a7d6" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M200 40 q 18 -6 36 0 q 14 -4 28 2" fill="none" stroke="#90a7d6" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- distant smaller peak -->
+  <path d="M20 220 L 70 130 L 110 180 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- snow cap distant -->
+  <path d="M58 148 L 70 130 L 84 152 Q 72 144 58 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- main tall mountain -->
+  <path d="M70 220 L 160 50 L 260 220 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- big snow cap -->
+  <path d="M122 124 L 160 50 L 200 130 Q 188 110 178 122 Q 170 108 160 120 Q 150 108 142 122 Q 132 110 122 124 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- shadow side -->
+  <path d="M160 50 L 260 220 L 200 130 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- tiny climber at peak -->
+  <circle cx="158" cy="42" r="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="156" y="44" width="4" height="8" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M156 50 l-3 6 M160 50 l3 6" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M156 46 l-4 -2 M160 46 l4 4" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- flag held by climber -->
+  <line x1="164" y1="50" x2="164" y2="32" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M164 32 l8 3 l-8 4 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- altitude indicator arrow on left -->
+  <path d="M20 200 v -120 M14 86 l6 -8 l6 8" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

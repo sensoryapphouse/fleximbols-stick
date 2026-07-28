@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- ball of string / twine with a loose end -->
+<!-- ball -->
+<circle cx="240" cy="280" r="135" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9"/>
+<!-- wound strands (diagonal arcs across the ball) -->
+<path d="M 130 210 Q 240 250 350 210" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 120 270 Q 240 320 360 270" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 135 335 Q 240 380 345 335" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 200 158 Q 250 280 215 398" fill="none" stroke="#c89a5b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 285 165 Q 235 280 280 395" fill="none" stroke="#c89a5b" stroke-width="7" stroke-linecap="round"/>
+<!-- loose trailing end -->
+<path d="M 350 250 Q 420 270 408 330 Q 398 372 432 388" fill="none" stroke="#f4c430" stroke-width="11" stroke-linecap="round"/>
+<path d="M 350 250 Q 420 270 408 330 Q 398 372 432 388" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" opacity="0"/>
+</svg>

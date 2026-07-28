@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- water -->
+<path d="M 48 360 Q 86 346 124 360 T 200 360 T 276 360 T 352 360 T 428 360 T 466 360 L 466 410 L 48 410 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- canoe hull (open canoe, pointed both ends, upcurved) -->
+<path d="M 70 252 Q 256 230 442 252 Q 410 348 256 348 Q 102 348 70 252 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- inner rim -->
+<path d="M 110 262 Q 256 248 402 262 Q 376 314 256 314 Q 136 314 110 262 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- thwart bars -->
+<line x1="186" y1="258" x2="196" y2="312" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="326" y1="258" x2="316" y2="312" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- single-blade paddle -->
+<line x1="372" y1="120" x2="332" y2="270" stroke="#6b4a2b" stroke-width="11" stroke-linecap="round"/>
+<path d="M 318 252 Q 300 300 332 320 Q 360 300 352 258 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

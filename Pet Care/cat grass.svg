@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pot body (tapered) -->
+  <path d="M 90 150 L 105 220 L 185 220 L 200 150 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Pot rim -->
+  <rect x="85" y="140" width="120" height="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Soil line -->
+  <ellipse cx="145" cy="148" rx="55" ry="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Wheatgrass shoots -->
+  <path d="M 100 145 Q 95 110 90 60" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 110 145 Q 108 105 105 50" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 120 145 Q 118 100 115 55" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 130 145 Q 132 95 130 40" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 140 145 Q 140 90 140 35" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 150 145 Q 152 95 155 45" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 160 145 Q 162 100 165 52" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 170 145 Q 172 105 175 58" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 180 145 Q 185 110 192 65" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 125 145 Q 128 110 130 70" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 155 145 Q 158 115 160 75" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tips highlight -->
+  <circle cx="90" cy="60" r="2.5" fill="#67832d" stroke="#1a1a1a" stroke-width="1.11"/>
+  <circle cx="140" cy="35" r="2.5" fill="#529929" stroke="#1a1a1a" stroke-width="1.11"/>
+  <circle cx="192" cy="65" r="2.5" fill="#67832d" stroke="#1a1a1a" stroke-width="1.11"/>
+</g></svg>

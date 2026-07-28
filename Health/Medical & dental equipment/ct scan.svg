@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- CT scanner gantry ring (donut shape) -->
+  <rect x="30" y="40" width="130" height="150" rx="65" ry="65" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- ring inner opening -->
+  <ellipse cx="95" cy="115" rx="36" ry="42" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- inner ring detail -->
+  <ellipse cx="95" cy="115" rx="28" ry="32" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <!-- base of ring -->
+  <rect x="30" y="180" width="130" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- patient bed extending through ring -->
+  <rect x="100" y="148" width="120" height="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bed support -->
+  <rect x="200" y="160" width="14" height="40" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- patient on bed (head visible exiting ring) -->
+  <circle cx="155" cy="142" r="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- body under sheet -->
+  <rect x="100" y="135" width="60" height="14" rx="4" ry="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- feet -->
+  <rect x="92" y="138" width="12" height="12" rx="3" ry="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cross-section image beside (monitor) -->
+  <rect x="180" y="40" width="90" height="80" rx="4" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen inner -->
+  <rect x="186" y="46" width="78" height="68" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- cross-section: outer body circle -->
+  <circle cx="225" cy="80" r="28" fill="#7f7f7f" stroke="#ffffff" stroke-width="2.96"/>
+  <!-- bone/spine spots -->
+  <circle cx="225" cy="80" r="6" fill="#efefef" stroke="#ffffff" stroke-width="2.96"/>
+  <circle cx="215" cy="72" r="3" fill="#efefef" stroke="#ffffff" stroke-width="1.48"/>
+  <circle cx="235" cy="72" r="3" fill="#efefef" stroke="#ffffff" stroke-width="1.48"/>
+  <circle cx="215" cy="88" r="3" fill="#efefef" stroke="#ffffff" stroke-width="1.48"/>
+  <circle cx="235" cy="88" r="3" fill="#efefef" stroke="#ffffff" stroke-width="1.48"/>
+  <!-- monitor stand -->
+  <rect x="220" y="120" width="10" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="210" y="132" width="30" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<polygon points="150,430 362,430 312,250 200,250" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="256" y1="270" x2="256" y2="300" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<line x1="256" y1="324" x2="256" y2="360" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+<line x1="256" y1="384" x2="256" y2="420" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+<rect x="206" y="258" width="14" height="22" rx="2" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="292" y="258" width="14" height="22" rx="2" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<!-- climbing aeroplane (side profile, nose up-right) -->
+<g transform="translate(256 150) rotate(-24) scale(0.62)">
+<!-- fuselage -->
+<path d="M -140 0 Q -110 -32 -10 -32 L 128 -28 Q 156 -20 156 0 Q 156 20 128 28 L -10 32 Q -110 32 -140 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- nose cone -->
+<path d="M 128 -28 Q 170 -20 170 0 Q 170 20 128 28 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- tail fin -->
+<path d="M -110 0 L -164 -76 L -110 -52 L -64 -4 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- wing -->
+<path d="M -10 8 L 40 72 L 88 72 L 40 8 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- windows -->
+<circle cx="-10" cy="0" r="9" fill="#3d7fb5"/>
+<circle cx="28" cy="0" r="9" fill="#3d7fb5"/>
+<circle cx="66" cy="0" r="9" fill="#3d7fb5"/>
+</g>
+</g></svg>

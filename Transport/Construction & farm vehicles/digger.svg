@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- digger -->
+<!-- digging arm -->
+<path d="M 200 250 L 330 150 L 380 175 L 415 280" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 200 250 L 330 150 L 380 175 L 415 280" fill="none" stroke="#f4c430" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- bucket -->
+<path d="M 392 270 L 440 268 L 438 312 Q 416 330 396 312 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- bucket teeth -->
+<path d="M 400 312 L 400 326 M 416 314 L 416 330 M 432 312 L 432 326" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- cab body -->
+<path d="M 120 250 L 240 250 L 240 200 L 175 200 L 150 250 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- window -->
+<path d="M 178 244 L 195 210 L 232 210 L 232 244 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- lower chassis -->
+<rect x="110" y="250" width="150" height="40" rx="8" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- track base -->
+<rect x="95" y="300" width="200" height="55" rx="27" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="130" cy="327" r="20" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="195" cy="327" r="20" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="260" cy="327" r="20" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl body -->
+  <path d="M 35,118 Q 38,185 145,205 Q 252,185 255,118 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Milk fill - white pool inside bowl -->
+  <path d="M 48,126 Q 145,146 242,126 Q 238,168 195,188 Q 145,207 95,188 Q 52,168 48,126 Z" fill="#ffffff" stroke="none"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="118" rx="110" ry="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Milk surface hint -->
+  <ellipse cx="145" cy="126" rx="97" ry="12" fill="#ffffff" stroke="none"/>
+  <!-- Cereal FLAKES - flat golden shapes scattered on milk surface -->
+  <!-- Flake shapes: rounded quads/pentagons in gold/tan -->
+  <path d="M 78,122 Q 74,116 80,113 Q 88,112 90,118 Q 88,124 80,124 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 100,118 Q 97,112 104,110 Q 112,110 113,116 Q 111,122 103,121 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 120,122 Q 117,115 125,113 Q 133,113 134,119 Q 132,125 123,124 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 142,119 Q 139,113 147,111 Q 155,111 156,117 Q 154,123 146,122 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 164,122 Q 161,116 169,114 Q 177,114 178,120 Q 176,126 167,125 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 186,119 Q 183,113 191,111 Q 199,111 200,117 Q 198,123 190,122 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 205,124 Q 202,118 210,116 Q 217,117 217,123 Q 214,128 206,127 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Second row of flakes deeper in bowl -->
+  <path d="M 88,134 Q 85,128 93,126 Q 101,126 102,132 Q 100,138 91,137 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 112,138 Q 109,132 117,130 Q 125,130 126,136 Q 124,142 115,141 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 136,134 Q 133,128 141,126 Q 149,126 150,132 Q 148,138 139,137 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 158,138 Q 155,132 163,130 Q 171,130 172,136 Q 170,142 161,141 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 180,134 Q 177,128 185,126 Q 193,126 194,132 Q 192,138 183,137 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Third row, deeper -->
+  <path d="M 100,150 Q 97,144 105,142 Q 113,142 114,148 Q 112,154 103,153 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 126,154 Q 123,148 131,146 Q 139,146 140,152 Q 138,158 129,157 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 152,150 Q 149,144 157,142 Q 165,142 166,148 Q 164,154 155,153 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 176,154 Q 173,148 181,146 Q 189,146 190,152 Q 188,158 179,157 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

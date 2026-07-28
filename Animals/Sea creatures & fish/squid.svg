@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- triangular fins at the top of the mantle -->
+<polygon points="256,78 200,150 256,150" fill="#d6487c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="256,78 312,150 256,150" fill="#d6487c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tentacles (8 arms + 2 longer feeding tentacles) drawn behind the head -->
+<g fill="none" stroke="#d6487c" stroke-width="14" stroke-linecap="round">
+<path d="M 214 300 C 196 350 180 392 162 428"/>
+<path d="M 300 300 C 318 350 334 392 352 428"/>
+<path d="M 256 312 C 256 366 256 412 256 452"/>
+</g>
+<g fill="none" stroke="#e85a8a" stroke-width="16" stroke-linecap="round">
+<path d="M 230 308 C 218 360 206 404 192 444"/>
+<path d="M 246 312 C 242 368 236 416 230 456"/>
+<path d="M 266 312 C 270 368 276 416 282 456"/>
+<path d="M 282 308 C 296 360 308 404 322 444"/>
+</g>
+<!-- pointed mantle (torpedo body, apex up) -->
+<path d="M 256 110 C 214 110 196 156 196 214 C 196 262 220 296 256 296 C 292 296 316 262 316 214 C 316 156 298 110 256 110 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head band where arms attach -->
+<path d="M 200 270 C 214 300 236 312 256 312 C 276 312 298 300 312 270 Z" fill="#d6487c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- two large eyes on the sides of the head -->
+<circle cx="224" cy="248" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="227" cy="251" r="9" fill="#1a1a1a"/>
+<circle cx="288" cy="248" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="285" cy="251" r="9" fill="#1a1a1a"/>
+</svg>

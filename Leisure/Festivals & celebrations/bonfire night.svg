@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="63.03 80.95 385.94 385.94">
+<!-- ground -->
+<ellipse cx="256" cy="416" rx="150" ry="22" fill="#3fae5a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- logs -->
+<path d="M 150 414 L 320 350" fill="none" stroke="#8a5a32" stroke-width="26" stroke-linecap="round"/>
+<path d="M 362 414 L 192 350" fill="none" stroke="#a06a3c" stroke-width="26" stroke-linecap="round"/>
+<path d="M 150 414 L 320 350" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-dasharray="0.1 40" stroke-linecap="round"/>
+<path d="M 362 414 L 192 350" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-dasharray="0.1 40" stroke-linecap="round"/>
+<!-- outer flame -->
+<path d="M 256 360 Q 150 300 200 180 Q 214 250 250 240 Q 220 170 280 110 Q 270 200 312 200 Q 336 250 320 290 Q 362 300 360 360 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- middle flame -->
+<path d="M 256 350 Q 196 320 224 230 Q 240 280 262 268 Q 244 210 286 176 Q 280 240 312 250 Q 324 300 296 348 Z" fill="#f0871e" stroke="#1a1a1a" stroke-width="0"/>
+<!-- inner flame -->
+<path d="M 256 344 Q 226 320 244 264 Q 256 296 272 286 Q 260 250 282 224 Q 282 290 300 300 Q 304 330 282 344 Z" fill="#f6c500" stroke="#1a1a1a" stroke-width="0"/>
+<!-- sparks -->
+<circle cx="170" cy="200" r="6" fill="#f6c500"/>
+<circle cx="350" cy="170" r="6" fill="#f6c500"/>
+<circle cx="320" cy="110" r="5" fill="#f0871e"/>
+<circle cx="190" cy="140" r="5" fill="#f0871e"/>
+</svg>

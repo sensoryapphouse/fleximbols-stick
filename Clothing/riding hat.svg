@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- riding hat: domed equestrian helmet with peak -->
+<path d="M128 286 Q128 150 256 150 Q384 150 384 286 L384 296 Q256 270 128 296 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ridge lines on the dome -->
+<path d="M196 158 Q176 220 184 290" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M256 150 Q252 218 256 286" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M316 158 Q336 220 328 290" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- button on top -->
+<circle cx="256" cy="146" r="12" fill="#4a3219" stroke="#1a1a1a" stroke-width="6"/>
+<!-- peak / brim sweeping down-right -->
+<path d="M128 296 Q256 270 384 296 Q420 300 408 320 Q300 296 150 322 Q120 320 128 296 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

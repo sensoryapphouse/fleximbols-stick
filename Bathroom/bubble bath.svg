@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- bottle body -->
+<path d="M 196 200 Q 196 180 216 180 L 296 180 Q 316 180 316 200 L 316 396 Q 316 416 296 416 L 216 416 Q 196 416 196 396 Z" fill="#f8c8e0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cap -->
+<rect x="226" y="146" width="60" height="40" rx="8" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- liquid window -->
+<path d="M 214 244 L 298 244 L 298 392 Q 256 404 214 392 Z" fill="#bfe3f5" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- bubbles in liquid -->
+<circle cx="240" cy="356" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="276" cy="368" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="262" cy="332" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<!-- floating bubbles above cap -->
+<circle cx="338" cy="150" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="372" cy="186" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="180" cy="160" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<!-- shine -->
+<line x1="232" y1="266" x2="232" y2="312" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- open mouth: rounded oval (lips) -->
+<ellipse cx="256" cy="262" rx="150" ry="130" fill="#d63b46" stroke="#1a1a1a" stroke-width="9"/>
+<!-- dark mouth interior -->
+<ellipse cx="256" cy="266" rx="118" ry="102" fill="#7a1f25" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pink upper gum -->
+<path d="M 142 244 Q 256 176 370 244 L 358 280 Q 256 220 154 280 Z" fill="#e85a8a" stroke="none"/>
+<!-- pink lower gum -->
+<path d="M 150 318 Q 256 372 362 318 L 350 286 Q 256 330 162 286 Z" fill="#e85a8a" stroke="none"/>
+<!-- top row small teeth -->
+<rect x="230" y="196" width="22" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="260" y="196" width="22" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<!-- two large pointed FANGS (upper, hanging down) -->
+<path d="M 178 206 L 204 206 L 191 318 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 308 206 L 334 206 L 321 318 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- bottom small teeth -->
+<rect x="230" y="316" width="22" height="24" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="260" y="316" width="22" height="24" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+</svg>

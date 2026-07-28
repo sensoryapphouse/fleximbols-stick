@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lip stain bottle (small slim bottle with brush applicator) -->
+  <!-- Bottle body -->
+  <path d="M90 110 Q90 100 100 100 L140 100 Q150 100 150 110 L150 215 Q150 222 143 222 L97 222 Q90 222 90 215 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Inner stain liquid window -->
+  <rect x="98" y="115" width="44" height="90" rx="3" ry="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tint highlight inside -->
+  <line x1="105" y1="125" x2="105" y2="190" stroke="#f4a4b2" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Neck of bottle -->
+  <rect x="105" y="88" width="30" height="14" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Cap (top) -->
+  <rect x="100" y="60" width="40" height="28" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Cap shine -->
+  <line x1="108" y1="66" x2="108" y2="84" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Brush stain stroke on the side (tint mark on skin/paper - long-lasting tint) -->
+  <path d="M175 130 Q200 115 235 122 Q260 130 270 145 Q265 158 245 162 Q220 162 195 152 Q178 145 175 130 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Tint fade (lighter edge - shows it stains/soaks in) -->
+  <path d="M180 135 Q205 125 235 132" fill="none" stroke="#f266aa" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Small tint dot drops (soaking in) -->
+  <circle cx="190" cy="172" r="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="225" cy="175" r="2.5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- STAIN label as paths (S T A I N) -->
+  <!-- lips silhouette (replaces STAIN text) -->
+  <path d="M210 162 Q222 154 234 162 Q240 170 234 176 Q222 182 210 176 Q204 170 210 162 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M214 162 Q222 158 230 162" fill="none" stroke="#d01424" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

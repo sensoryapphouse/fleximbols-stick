@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <linearGradient id="pyrLight" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#c0d4f0"/>
+    <stop offset="100%" stop-color="#5a8ad6"/>
+  </linearGradient>
+  <linearGradient id="pyrDark" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#5a8ad6"/>
+    <stop offset="100%" stop-color="#2a4080"/>
+  </linearGradient>
+</defs>
+<polygon points="145,25 95,180 195,180" fill="url(#pyrLight)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,25 195,180 245,150" fill="#5a8ad6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,25 95,180 45,150" fill="url(#pyrDark)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="45,150 95,180 195,180 245,150" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="145" y1="25" x2="145" y2="180" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="4 3" opacity="0.4"/>
+</svg>

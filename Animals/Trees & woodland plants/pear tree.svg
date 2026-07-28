@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Trunk -->
+  <rect x="126" y="158" width="38" height="54" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Canopy - slightly oval upward -->
+  <ellipse cx="145" cy="100" rx="85" ry="78" fill="#529929" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Pear-shaped fruits: pear = small top circle + larger bottom circle -->
+  <!-- Pear 1 -->
+  <circle cx="100" cy="125" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="110" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="100" y1="103" x2="101" y2="97" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="102" cy="95" rx="4" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pear 2 -->
+  <circle cx="138" cy="85" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="138" cy="70" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="138" y1="63" x2="139" y2="57" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="140" cy="55" rx="4" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pear 3 -->
+  <circle cx="170" cy="90" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="75" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="170" y1="68" x2="171" y2="62" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="172" cy="60" rx="4" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pear 4 -->
+  <circle cx="197" cy="118" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="197" cy="103" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="197" y1="96" x2="198" y2="90" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="199" cy="88" rx="4" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pear 5 -->
+  <circle cx="130" cy="130" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="115" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="130" y1="108" x2="131" y2="102" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="132" cy="100" rx="4" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pear 6 -->
+  <circle cx="163" cy="128" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="163" cy="113" r="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="163" y1="106" x2="164" y2="100" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="165" cy="98" rx="4" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

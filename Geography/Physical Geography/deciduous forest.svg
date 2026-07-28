@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- ground -->
+  <rect x="0" y="200" width="290" height="40" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left oak: thick trunk + lobed canopy -->
+  <path d="M55,200 L52,140 Q48,120 55,90 Q62,120 58,140 L62,200 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- left oak canopy (lobed) -->
+  <path d="M55,90 Q30,85 22,65 Q15,45 35,40 Q45,25 65,30 Q85,25 90,45 Q105,55 95,75 Q85,95 60,90 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- highlight patches -->
+  <ellipse cx="40" cy="60" rx="12" ry="9" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="78" cy="50" rx="10" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- middle maple -->
+  <rect x="138" y="115" width="14" height="90" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- maple leaf-shaped canopy (5 lobes) -->
+  <path d="M145,115 L120,105 L105,80 L125,75 L115,50 L145,60 L145,30 L150,60 L180,50 L170,75 L190,80 L175,105 L150,115 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <ellipse cx="135" cy="75" rx="10" ry="8" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="165" cy="85" rx="10" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right oak -->
+  <path d="M235,200 L232,135 Q228,115 235,90 Q243,115 239,135 L243,200 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M237,90 Q215,88 208,68 Q202,48 222,42 Q230,28 250,32 Q268,28 273,48 Q285,58 275,75 Q265,93 240,88 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <ellipse cx="225" cy="60" rx="11" ry="9" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="260" cy="55" rx="10" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- fallen leaves (maple-ish) -->
+  <path d="M30,215 L25,210 L20,213 L25,217 L20,222 L28,220 L30,225 L34,220 L40,222 L35,217 L40,213 L33,212 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M100,225 L96,221 L92,223 L96,227 L92,232 L99,230 L101,234 L104,230 L110,232 L106,227 L110,223 L103,222 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M175,228 L171,224 L167,226 L171,230 L168,235 L175,233 L177,236 L180,233 L186,235 L182,230 L186,226 L179,225 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M260,218 L256,214 L252,216 L256,220 L252,225 L259,223 L261,227 L264,223 L270,225 L266,220 L270,216 L263,215 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor line -->
+  <line x1="10" y1="220" x2="280" y2="220" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- couch back -->
+  <rect x="30" y="120" width="230" height="50" rx="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- couch seat -->
+  <rect x="20" y="165" width="250" height="40" rx="8" fill="#392170" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- arm rests -->
+  <rect x="15" y="140" width="20" height="60" rx="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="255" y="140" width="20" height="60" rx="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- cushion lines -->
+  <line x1="105" y1="170" x2="105" y2="200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <line x1="185" y1="170" x2="185" y2="200" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- traveler on the right side, full body lying -->
+  <!-- head -->
+  <circle cx="220" cy="150" r="13" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M209 146 Q220 134 232 146 L232 142 Q220 132 209 142 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- torso lying -->
+  <rect x="155" y="148" width="60" height="22" rx="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- arm -->
+  <line x1="170" y1="155" x2="160" y2="145" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
+  <circle cx="158" cy="143" r="3.5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="200" y1="160" x2="195" y2="170" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
+  <!-- legs lying -->
+  <rect x="105" y="155" width="55" height="12" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="103" cy="161" rx="6" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.67"/>
+
+  <!-- host figure full body standing on left -->
+  <!-- head -->
+  <circle cx="78" cy="105" r="11" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M68 102 Q78 92 89 102 L89 98 Q78 88 68 99 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- torso -->
+  <rect x="68" y="115" width="21" height="32" rx="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- arms (holding laptop) -->
+  <line x1="68" y1="120" x2="55" y2="138" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
+  <line x1="89" y1="120" x2="102" y2="138" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
+  <!-- laptop in hands -->
+  <rect x="55" y="135" width="50" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="57" y="137" width="46" height="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- legs -->
+  <line x1="74" y1="147" x2="72" y2="165" stroke="#4d4d4d" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="83" y1="147" x2="85" y2="165" stroke="#4d4d4d" stroke-width="8.89" stroke-linecap="round"/>
+
+  <!-- heart between host and couch -->
+  <path d="M130 70 C124 62 112 62 112 74 C112 86 130 100 130 100 C130 100 148 86 148 74 C148 62 136 62 130 70 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

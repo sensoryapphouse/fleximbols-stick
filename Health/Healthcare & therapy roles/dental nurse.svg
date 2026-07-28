@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- dental nurse: nurse figure in scrubs with tooth cue -->
+<!-- neck -->
+<rect x="228" y="150" width="32" height="92" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<!-- head -->
+<circle cx="244" cy="128" r="44" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<!-- hair -->
+<path d="M 200 128 Q 198 84 244 84 Q 290 84 288 128 Q 288 112 272 108 Q 258 118 244 116 Q 230 118 216 108 Q 200 112 200 128 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- torso: nurse tunic (teal scrubs) -->
+<path d="M 148 434 Q 152 236 244 230 Q 336 236 340 434 Z" fill="#3fb0a8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- collar V -->
+<path d="M 216 238 L 244 274 L 272 238" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- pocket -->
+<rect x="280" y="330" width="44" height="40" rx="4" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+<!-- tooth cue -->
+<path d="M 372 268 C 348 268 342 292 350 322 C 356 342 362 372 372 372 C 381 372 382 352 388 352 C 394 352 395 372 404 372 C 415 372 421 342 425 322 C 433 292 427 268 405 268 C 394 268 397 278 388 278 C 379 278 383 268 372 268 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

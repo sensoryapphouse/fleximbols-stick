@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Push pin: round coloured BALL/SPHERE head + thin metal spike -->
+  <!-- Shadow under pin -->
+  <ellipse cx="145" cy="222" rx="30" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="2.54"/>
+  <!-- Metal spike -->
+  <polygon points="145,148 139,206 151,206" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Spike tip -->
+  <polygon points="145,206 141,220 149,220" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round"/>
+  <!-- Collar between ball and spike -->
+  <rect x="132" y="142" width="26" height="14" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Ball head - sphere with highlight -->
+  <circle cx="145" cy="92" r="58" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- Sphere highlight (top-left bright spot) -->
+  <ellipse cx="124" cy="68" rx="18" ry="14" fill="#f4a4b2" stroke="none" transform="rotate(-20 124 68)"/>
+  <!-- Sphere secondary shine -->
+  <ellipse cx="118" cy="62" rx="8" ry="6" fill="#ffffff" stroke="none" transform="rotate(-20 118 62)"/>
+  <!-- Sphere depth shading (bottom-right subtle dark arc) -->
+  <path d="M 168 128 Q 196 112 192 88" fill="none" stroke="#d01424" stroke-width="6.34" stroke-linecap="round"/>
+</g></svg>

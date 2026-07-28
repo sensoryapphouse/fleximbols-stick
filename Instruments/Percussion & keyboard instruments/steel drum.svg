@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Steel drum: concave bowl-shaped steel pan with hammered note sections, on a stand -->
+
+  <!-- Stand legs (two legs, V-shape) -->
+  <line x1="100" y1="210" x2="130" y2="155" stroke="#4d4d4d" stroke-width="10.67" stroke-linecap="round"/>
+  <line x1="190" y1="210" x2="160" y2="155" stroke="#4d4d4d" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- Stand cross brace -->
+  <line x1="108" y1="194" x2="182" y2="194" stroke="#4d4d4d" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Feet -->
+  <line x1="92" y1="210" x2="112" y2="210" stroke="#4d4d4d" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="182" y1="210" x2="202" y2="210" stroke="#4d4d4d" stroke-width="8.89" stroke-linecap="round"/>
+
+  <!-- Steel pan body: concave bowl (top view showing the dished surface) -->
+  <!-- Outer pan rim -->
+  <ellipse cx="145" cy="115" rx="110" ry="40" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Pan inner concave surface (slightly lower) -->
+  <ellipse cx="145" cy="118" rx="100" ry="34" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34"/>
+
+  <!-- Pan side wall depth (cylindrical container below rim) -->
+  <path d="M 35,115 Q 35,155 145,158 Q 255,155 255,115" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11"/>
+  <ellipse cx="145" cy="115" rx="110" ry="40" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
+
+  <!-- Note sections hammered into surface (characteristic steel pan layout) -->
+  <!-- Central notes (inner ring) -->
+  <ellipse cx="145" cy="112" rx="20" ry="12" fill="none" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Middle ring sections (divided into segments) -->
+  <ellipse cx="145" cy="112" rx="42" ry="24" fill="none" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- Outer note sections -->
+  <ellipse cx="145" cy="112" rx="68" ry="34" fill="none" stroke="#1a1a1a" stroke-width="5.34"/>
+
+  <!-- Radial dividers for note sections (spokes) -->
+  <line x1="145" y1="78" x2="145" y2="88" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="103" y1="88" x2="112" y2="95" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="187" y1="88" x2="178" y2="95" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="78" y1="110" x2="90" y2="112" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="212" y1="110" x2="200" y2="112" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="88" y1="130" x2="96" y2="123" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="202" y1="130" x2="194" y2="123" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="120" y1="136" x2="122" y2="125" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="170" y1="136" x2="168" y2="125" stroke="#1a1a1a" stroke-width="3.55"/>
+
+  <!-- Inner note dividers -->
+  <line x1="145" y1="88" x2="145" y2="100" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="128" y1="100" x2="135" y2="104" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="162" y1="100" x2="155" y2="104" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

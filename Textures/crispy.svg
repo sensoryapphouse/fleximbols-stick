@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Crisp/chip — thin wavy flat piece of fried food -->
+  <!-- Main chip body — thin wavy irregular shape -->
+  <path d="M 50,145 Q 55,120 75,118 Q 100,112 130,115 Q 160,112 185,118 Q 210,124 220,140 Q 230,158 215,172 Q 195,182 160,180 Q 130,182 100,180 Q 65,178 50,165 Q 42,155 50,145 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Crispy golden-brown edge shading (thin inner highlight) -->
+  <path d="M 58,148 Q 62,128 80,126 Q 104,120 130,122 Q 156,120 178,126 Q 198,132 207,145 Q 215,158 202,168 Q 184,176 155,174 Q 130,176 104,174 Q 74,172 60,161 Q 52,154 58,148 Z" fill="#ff9900" stroke="none"/>
+  <!-- Centre lighter area -->
+  <path d="M 90,148 Q 95,132 120,130 Q 145,128 165,132 Q 182,138 185,150 Q 182,162 162,165 Q 145,167 120,165 Q 98,162 90,150 Z" fill="#f7de58" stroke="none"/>
+  <!-- Crispy wavy surface texture lines -->
+  <path d="M 85,140 Q 95,136 105,140 Q 115,144 125,140 Q 135,136 145,140" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 140,155 Q 150,151 160,155 Q 170,159 180,155" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Flake bits flying off edges -->
+  <path d="M 55,130 L 44,122 L 50,118 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 222,132 L 234,124 L 238,130 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 80,112 L 74,100 L 82,98 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 170,110 L 176,98 L 182,102 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 45,162 L 32,158 L 36,165 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 235,168 L 248,165 L 244,172 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Small flake specks -->
+  <circle cx="100" cy="95" r="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="62" cy="110" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="102" r="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="238" cy="148" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Crisp-edge highlight on top rim -->
+  <path d="M 75,118 Q 130,110 185,118" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

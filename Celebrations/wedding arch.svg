@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wedding-arch: floral arch, standing structure, flowers cascading -->
+  <!-- back -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- ground -->
+  <rect x="10" y="200" width="270" height="20" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- arch structure (white standing) -->
+  <!-- left post -->
+  <rect x="45" y="80" width="14" height="125" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- right post -->
+  <rect x="231" y="80" width="14" height="125" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- curved top arch -->
+  <path d="M45 90 Q45 40 145 35 Q245 40 245 90 L245 80 Q245 50 145 45 Q45 50 45 80 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- base feet -->
+  <rect x="38" y="200" width="28" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="224" y="200" width="28" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- flowers cascading along arch -->
+  <!-- top crown of flowers -->
+  <ellipse cx="145" cy="38" rx="50" ry="16" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="115" cy="38" r="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="32" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="32" r="9" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="38" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="44" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="46" r="8" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="44" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- left cascade -->
+  <circle cx="50" cy="65" r="8" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="48" cy="85" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="52" cy="105" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="125" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left greenery trailing -->
+  <path d="M52 70 Q40 95 48 130 Q55 165 50 195" fill="none" stroke="#529929" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M58 80 Q70 100 60 125" fill="none" stroke="#529929" stroke-width="6.67" stroke-linecap="round"/>
+  <circle cx="55" cy="150" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="175" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- right cascade -->
+  <circle cx="240" cy="65" r="8" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="242" cy="85" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="238" cy="105" r="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="125" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M238 70 Q250 95 242 130 Q235 165 240 195" fill="none" stroke="#529929" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M232 80 Q220 100 230 125" fill="none" stroke="#529929" stroke-width="6.67" stroke-linecap="round"/>
+  <circle cx="235" cy="150" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="175" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

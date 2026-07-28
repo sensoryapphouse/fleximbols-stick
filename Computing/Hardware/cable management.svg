@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- before/after comparison: messy cables LEFT, sleeve/box RIGHT -->
+  <!-- divider line -->
+  <line x1="145" y1="30" x2="145" y2="210" stroke="#1a1a1a" stroke-width="1.78" stroke-dasharray="4 3"/>
+  <!-- LEFT: messy tangled cables -->
+  <path d="M30 60 Q 50 80 35 100 Q 25 130 60 140 Q 90 150 70 170 Q 50 195 100 200" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M40 50 Q 90 90 50 120 Q 30 150 90 160 Q 130 175 80 200" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M60 70 Q 30 100 80 130 Q 110 155 40 175 Q 60 195 110 195" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M100 50 Q 70 90 110 110 Q 130 140 90 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- RIGHT: tidy cable sleeve/box -->
+  <!-- management box / sleeve -->
+  <rect x="160" y="100" width="115" height="50" rx="22" ry="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- sleeve seam stitching -->
+  <line x1="175" y1="125" x2="260" y2="125" stroke="#b8b8b8" stroke-width="1.78" stroke-dasharray="3 3"/>
+  <!-- cables entering left and exiting right neatly -->
+  <line x1="155" y1="115" x2="170" y2="115" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="125" x2="170" y2="125" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="135" x2="170" y2="135" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="265" y1="115" x2="282" y2="115" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="265" y1="125" x2="282" y2="125" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="265" y1="135" x2="282" y2="135" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- check mark on tidy side -->
+  <path d="M195 60 L215 80 L250 45" fill="none" stroke="#529929" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- X mark on messy side -->
+  <line x1="35" y1="35" x2="60" y2="60" stroke="#d01424" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="60" y1="35" x2="35" y2="60" stroke="#d01424" stroke-width="5.33" stroke-linecap="round"/>
+</g></svg>

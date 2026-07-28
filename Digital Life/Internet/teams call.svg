@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Main window frame -->
+  <rect x="20" y="30" width="220" height="165" rx="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Title bar -->
+  <rect x="20" y="30" width="220" height="28" rx="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="20" y="44" width="220" height="14" rx="0" fill="#2a4ec0" stroke="none"/>
+  <!-- Title bar dots -->
+  <circle cx="40" cy="44" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="58" cy="44" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="76" cy="44" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Participant tile 1 (top-left) -->
+  <rect x="30" y="65" width="95" height="70" rx="6" fill="#392170" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="77" cy="88" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 55,135 Q 55,110 77,110 Q 99,110 99,135" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Participant tile 2 (top-right) -->
+  <rect x="135" y="65" width="95" height="70" rx="6" fill="#392170" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="182" cy="88" r="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 160,135 Q 160,110 182,110 Q 204,110 204,135" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottom toolbar -->
+  <rect x="20" y="170" width="220" height="25" rx="0" fill="#2a4ec0" stroke="none"/>
+  <rect x="20" y="170" width="220" height="25" rx="10" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Mic icon -->
+  <rect x="55" y="176" width="10" height="14" rx="5" fill="#ffffff" stroke="none"/>
+  <path d="M 50,184 Q 50,194 60,194 Q 70,194 70,184" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Camera icon -->
+  <rect x="90" y="178" width="18" height="12" rx="3" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="108,181 118,177 118,191 108,187" fill="#ffffff" stroke="none"/>
+  <!-- End call button -->
+  <rect x="145" y="175" width="40" height="16" rx="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Side camera widget -->
+  <rect x="248" y="80" width="30" height="60" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="263" cy="102" r="8" fill="#000000" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="263" cy="102" r="4" fill="#2a4ec0" stroke="none"/>
+  <rect x="255" y="128" width="16" height="6" rx="3" fill="#f7de58" stroke="none"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- salt shaker, tilted slightly to the right to suggest pouring -->
+  <!-- main glass jar body -->
+  <path d="M95 75 L195 75 L210 220 L80 220 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- glass highlight stripe -->
+  <path d="M110 95 L115 200" fill="none" stroke="#ffffff" stroke-width="13.34" stroke-linecap="round"/>
+  <!-- metal cap on top -->
+  <rect x="90" y="50" width="110" height="28" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- cap rim -->
+  <rect x="88" y="72" width="114" height="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- shaker holes (small circles on the cap) -->
+  <circle cx="110" cy="62" r="3" fill="#000000"/>
+  <circle cx="125" cy="60" r="3" fill="#000000"/>
+  <circle cx="140" cy="62" r="3" fill="#000000"/>
+  <circle cx="155" cy="60" r="3" fill="#000000"/>
+  <circle cx="170" cy="62" r="3" fill="#000000"/>
+  <circle cx="185" cy="60" r="3" fill="#000000"/>
+  <!-- salt level inside jar -->
+  <path d="M88 140 L202 140 L210 220 L80 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- granules pouring out from holes above -->
+  <circle cx="118" cy="40" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="132" cy="32" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="25" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="163" cy="20" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="178" cy="18" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="22" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="32" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="45" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="238" cy="60" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="248" cy="78" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="256" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky panel -->
+  <rect x="26" y="32" width="238" height="176" rx="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Large dominant sun with bold rays -->
+  <!-- Rays -->
+  <line x1="145" y1="38" x2="145" y2="18" stroke="#f7de58" stroke-width="9.77" stroke-linecap="round"/>
+  <line x1="193" y1="54" x2="207" y2="40" stroke="#f7de58" stroke-width="9.77" stroke-linecap="round"/>
+  <line x1="212" y1="105" x2="232" y2="105" stroke="#f7de58" stroke-width="9.77" stroke-linecap="round"/>
+  <line x1="190" y1="154" x2="204" y2="168" stroke="#f7de58" stroke-width="9.77" stroke-linecap="round"/>
+  <line x1="97" y1="54" x2="83" y2="40" stroke="#f7de58" stroke-width="9.77" stroke-linecap="round"/>
+  <line x1="78" y1="105" x2="58" y2="105" stroke="#f7de58" stroke-width="9.77" stroke-linecap="round"/>
+  <line x1="100" y1="154" x2="86" y2="168" stroke="#f7de58" stroke-width="9.77" stroke-linecap="round"/>
+  <!-- Sun body -->
+  <circle cx="145" cy="105" r="55" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- One small cloud at bottom-right edge (~15% of sky) -->
+  <circle cx="228" cy="170" r="18" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="246" cy="163" r="15" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="262" cy="170" r="16" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="228" y="170" width="50" height="22" fill="#efefef"/>
+  <line x1="228" y1="192" x2="278" y2="192" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="228" y1="172" x2="228" y2="192" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="278" y1="172" x2="278" y2="192" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60.78 27.50 409.21 409.21"><!-- screechy: fingernails scraping a chalkboard, jagged sound -->
+<!-- chalkboard -->
+<rect x="96" y="120" width="320" height="240" rx="10" fill="#3c4a3a" stroke="#8a5a2b" stroke-width="18"/>
+<rect x="96" y="120" width="320" height="240" rx="10" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<!-- three drag scratch marks -->
+<g fill="none" stroke="#e8e8e8" stroke-width="8" stroke-linecap="round">
+<path d="M 150 170 Q 200 230 160 320"/>
+<path d="M 178 170 Q 228 230 188 320"/>
+<path d="M 206 170 Q 256 230 216 320"/>
+</g>
+<!-- hand back (knuckles) scraping down the board -->
+<path d="M 206 140 Q 256 122 306 140 Q 318 168 306 200 L 206 200 Q 194 168 206 140 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- wrist/forearm up to top -->
+<path d="M 234 140 Q 256 96 290 100 L 320 108 Q 322 130 306 144 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- four fingers with nails dragging -->
+<g fill="#f1c9a5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round">
+<path d="M 212 198 L 210 286 Q 222 298 234 286 L 232 198 Z"/>
+<path d="M 240 200 L 238 296 Q 250 308 262 296 L 260 200 Z"/>
+<path d="M 268 200 L 266 296 Q 278 308 290 296 L 288 200 Z"/>
+<path d="M 296 198 L 294 286 Q 306 298 318 286 L 316 198 Z"/>
+</g>
+<!-- nail tips -->
+<g fill="#fff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round">
+<path d="M 210 286 Q 222 298 234 286 L 234 274 Q 222 282 210 274 Z"/>
+<path d="M 238 296 Q 250 308 262 296 L 262 284 Q 250 292 238 284 Z"/>
+<path d="M 266 296 Q 278 308 290 296 L 290 284 Q 278 292 266 284 Z"/>
+<path d="M 294 286 Q 306 298 318 286 L 318 274 Q 306 282 294 274 Z"/>
+</g>
+<!-- jagged screech sound burst -->
+<polyline points="360 150 384 178 360 196 392 214 364 236" fill="none" stroke="#2f9e4a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="404 168 432 200 404 218 440 238" fill="none" stroke="#2f9e4a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

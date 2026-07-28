@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pencil on right side -->
+  <!-- Pencil body -->
+  <polygon points="210,30 225,38 180,155 165,147" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pencil tip wood -->
+  <polygon points="165,147 180,155 172,178" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pencil tip graphite -->
+  <polygon points="172,178 168,185 166,178" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pencil eraser band -->
+  <polygon points="210,30 225,38 222,28 207,20" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pencil eraser -->
+  <polygon points="207,20 222,28 219,18 204,10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Shape being outlined: a large star-like blob/pentagon, empty inside, bold dashed outline traced by pencil -->
+  <!-- Bold outline of a simple house/pentagon shape, empty fill (white) with dashed stroke effect -->
+  <!-- Solid outer shape -->
+  <polygon points="95,50 145,20 145,20 165,80 145,130 50,130 30,80" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dashed trace line on top (the "being drawn" part) -->
+  <polygon points="95,50 145,20 165,80 145,130 50,130 30,80" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="10,7" stroke-linejoin="round"/>
+  <!-- Dot at pencil tip meeting the shape outline -->
+  <circle cx="168" cy="145" r="4" fill="#000000"/>
+</g></svg>

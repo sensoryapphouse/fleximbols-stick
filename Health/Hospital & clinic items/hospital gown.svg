@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="103.76 126.80 304.48 304.48">
+<!-- hospital gown: short-sleeved gown shape on hanger-free flat -->
+<!-- sleeves -->
+<path d="M 176 168 L 128 220 L 150 250 L 192 214 Z" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 336 168 L 384 220 L 362 250 L 320 214 Z" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body of gown -->
+<path d="M 184 162 Q 256 140 328 162 L 332 400 Q 256 416 180 400 Z" fill="#d7eef8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neckline -->
+<path d="M 214 158 Q 256 188 298 158" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- back-opening tie ribbons -->
+<path d="M 256 240 q 30 14 16 44" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 240 q -30 14 -16 44" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- pattern dots -->
+<circle cx="222" cy="300" r="7" fill="#7fb5e6"/>
+<circle cx="290" cy="300" r="7" fill="#7fb5e6"/>
+<circle cx="256" cy="350" r="7" fill="#7fb5e6"/>
+</svg>

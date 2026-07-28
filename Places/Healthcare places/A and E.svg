@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hospital building -->
+  <rect x="100" y="60" width="120" height="160" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Hospital roof -->
+  <rect x="95" y="55" width="130" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Hospital windows -->
+  <rect x="115" y="110" width="14" height="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="138" y="110" width="14" height="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="168" y="110" width="14" height="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="191" y="110" width="14" height="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="115" y="140" width="14" height="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="191" y="140" width="14" height="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Door -->
+  <rect x="148" y="175" width="24" height="45" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="168" cy="198" r="2" fill="#f2e40d"/>
+  <!-- Medical cross on building -->
+  <rect x="138" y="68" width="44" height="35" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="155" y="68" width="10" height="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="138" y="80" width="44" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- ER SIGN (bold red sign above door) -->
+  <rect x="100" y="30" width="120" height="28" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- 'E' as path -->
+  <path d="M140 38 L130 38 L130 52 L140 52 M130 45 L138 45" fill="none" stroke="#ffffff" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 'R' as path -->
+  <path d="M155 52 L155 38 L168 38 Q172 38 172 43 Q172 47 168 47 L155 47 M165 47 L172 52" fill="none" stroke="#ffffff" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Ambulance on left -->
+  <!-- Body -->
+  <rect x="10" y="155" width="80" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Cab -->
+  <path d="M10 155 L10 130 L40 130 L48 155 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Cab window -->
+  <rect x="15" y="135" width="22" height="14" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Red cross on ambulance side -->
+  <rect x="55" y="165" width="22" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="63" y="165" width="6" height="22" fill="#ffffff"/>
+  <rect x="55" y="173" width="22" height="6" fill="#ffffff"/>
+  <!-- Red stripe -->
+  <rect x="10" y="165" width="40" height="6" fill="#d01424" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- Wheels -->
+  <circle cx="25" cy="200" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="25" cy="200" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="75" cy="200" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="75" cy="200" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Siren -->
+  <rect x="35" y="122" width="14" height="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M42 110 L42 120 M35 115 L29 110 M49 115 L55 110" stroke="#ff9900" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- 24/7 clock upper right -->
+  <circle cx="250" cy="50" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Clock face ticks -->
+  <path d="M250 26 L250 30 M270 50 L266 50 M250 74 L250 70 M230 50 L234 50" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Clock hands -->
+  <path d="M250 50 L250 35" stroke="#d01424" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M250 50 L262 56" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <circle cx="250" cy="50" r="3" fill="#000000"/>
+  <!-- '24/7' label below clock -->
+  <!-- 2 -->
+  <path d="M230 92 Q230 88 234 88 Q238 88 238 92 Q238 95 234 99 L230 103 L238 103" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 4 -->
+  <path d="M246 88 L242 98 L250 98 M248 88 L248 103" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- / -->
+  <path d="M258 88 L254 103" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- 7 -->
+  <path d="M262 88 L270 88 L266 103" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

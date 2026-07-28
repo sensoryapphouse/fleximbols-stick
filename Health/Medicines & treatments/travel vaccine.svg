@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- globe -->
+  <circle cx="55" cy="60" r="32" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M25 55 Q55 40 85 55 Q55 75 25 55 Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <path d="M48 32 Q42 60 50 88" fill="none" stroke="#1a1a1a" stroke-width="3.95"/>
+  <path d="M68 32 Q74 60 66 88" fill="none" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- plane top right -->
+  <path d="M170 30 L240 45 L260 32 L270 42 L250 60 L230 65 L170 60 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M210 50 L195 70 L205 70 L225 55 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- yellow vaccination card -->
+  <rect x="30" y="110" width="140" height="100" rx="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.92"/>
+  <rect x="30" y="110" width="140" height="20" fill="#fff200" stroke="#1a1a1a" stroke-width="4.94"/>
+  <rect x="40" y="116" width="60" height="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- medical cross -->
+  <rect x="46" y="148" width="12" height="40" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="32" y="162" width="40" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- card lines -->
+  <rect x="84" y="148" width="76" height="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="84" y="162" width="76" height="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="84" y="176" width="60" height="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- syringe diagonal -->
+  <path d="M180 100 L195 85" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <rect x="190" y="95" width="70" height="22" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(45 225 106)"/>
+  <rect x="240" y="135" width="22" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.94" transform="rotate(45 251 142)"/>
+  <path d="M258 152 L278 172" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <rect x="180" y="80" width="14" height="22" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.94" transform="rotate(45 187 91)"/>
+  <!-- liquid hint -->
+  <path d="M200 110 L240 150" fill="none" stroke="#f2e40d" stroke-width="7.90" stroke-linecap="round"/>
+</g></svg>

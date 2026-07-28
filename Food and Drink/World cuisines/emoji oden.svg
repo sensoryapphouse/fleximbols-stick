@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- skewer with daikon, egg, fish-cake in broth -->
+  <!-- broth bowl at bottom -->
+  <path d="M30 175 C30 215 260 215 260 175 L250 165 L40 165 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- broth surface -->
+  <ellipse cx="145" cy="170" rx="115" ry="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- skewer stick -->
+  <rect x="142" y="20" width="8" height="170" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- top piece: daikon radish (white round) -->
+  <circle cx="146" cy="55" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="146" cy="55" r="18" fill="none" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- middle piece: boiled egg (oval, cream) -->
+  <ellipse cx="146" cy="115" rx="26" ry="22" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="146" cy="115" rx="12" ry="9" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- bottom piece: fish cake (chikuwa) brown ring -->
+  <ellipse cx="146" cy="160" rx="30" ry="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="146" cy="160" rx="8" ry="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- steam wisps -->
+  <path d="M110 15 C105 25 115 30 110 40" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M180 15 C185 25 175 30 180 40" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

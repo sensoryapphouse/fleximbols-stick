@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- monitor frame -->
+  <rect x="20" y="20" width="250" height="170" rx="10" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"></rect>
+  <!-- screen area (wallpaper) -->
+  <rect x="32" y="32" width="226" height="138" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"></rect>
+  <!-- wallpaper: mountains + sun -->
+  <circle cx="220" cy="60" r="14" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <path d="M 32,135 L 80,90 L 120,120 L 165,80 L 220,130 L 258,110 L 258,170 L 32,170 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
+  <!-- desktop icons (grid of small folders / app squares) -->
+  <rect x="42" y="44" width="18" height="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <rect x="42" y="68" width="18" height="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <rect x="42" y="92" width="18" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <rect x="68" y="44" width="18" height="14" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <rect x="68" y="68" width="18" height="14" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <!-- dock/taskbar strip at bottom of screen -->
+  <rect x="50" y="148" width="190" height="18" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"></rect>
+  <circle cx="70" cy="157" r="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="90" cy="157" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="110" cy="157" r="6" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="130" cy="157" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="150" cy="157" r="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="170" cy="157" r="6" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="190" cy="157" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="210" cy="157" r="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <!-- monitor stand -->
+  <path d="M 120,190 L 170,190 L 180,215 L 110,215 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"></path>
+  <!-- base -->
+  <rect x="85" y="215" width="120" height="12" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"></rect>
+</g></svg>

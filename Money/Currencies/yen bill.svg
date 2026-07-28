@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bill outer (cream/teal yen) -->
+  <rect x="15" y="40" width="260" height="160" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <rect x="25" y="50" width="240" height="140" rx="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- Mount Fuji motif (iconic Japanese banknote element) -->
+  <path d="M55 165 L115 95 L130 110 L145 90 L175 120 L235 165 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- snow cap -->
+  <path d="M105 105 L115 95 L130 110 L145 90 L160 105 L150 110 L140 105 L125 115 L115 108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- ground -->
+  <rect x="25" y="165" width="240" height="25" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cherry blossom branch top-left -->
+  <path d="M30 60 Q50 70 70 65" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="40" cy="65" r="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="55" cy="60" r="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="68" cy="68" r="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- ¥ symbol big (top-right) -->
+  <path d="M210 60 L222 78 L234 60 M210 80 L234 80 M210 88 L234 88 M222 78 L222 95" fill="none" stroke="#d01424" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- YEN text bottom-left -->
+  <!-- Y -->
+  <path d="M40 178 L45 184 L50 178 M45 184 L45 190" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M62 178 L55 178 L55 190 L62 190 M55 184 L60 184" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- N -->
+  <path d="M67 190 L67 178 L75 190 L75 178" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- "1000" denomination top-left -->
+  <path d="M30 95 L33 92 L33 110" fill="none" stroke="#d01424" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="45" cy="101" rx="4" ry="6" fill="none" stroke="#d01424" stroke-width="5.33"/>
+  <ellipse cx="58" cy="101" rx="4" ry="6" fill="none" stroke="#d01424" stroke-width="5.33"/>
+  <ellipse cx="71" cy="101" rx="4" ry="6" fill="none" stroke="#d01424" stroke-width="5.33"/>
+  <!-- "1000" bottom-right -->
+  <path d="M205 178 L208 175 L208 190" fill="none" stroke="#d01424" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="220" cy="183" rx="3" ry="5" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <ellipse cx="232" cy="183" rx="3" ry="5" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <ellipse cx="244" cy="183" rx="3" ry="5" fill="none" stroke="#d01424" stroke-width="4.45"/>
+  <!-- red seal stamp (hanko) -->
+  <rect x="245" y="105" width="22" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <path d="M250 113 L262 113 M250 119 L262 119 M256 110 L256 124" stroke="#ffffff" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- sun in sky -->
+  <circle cx="200" cy="75" r="9" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

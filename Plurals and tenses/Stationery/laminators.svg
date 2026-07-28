@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Laminator body -->
+  <rect x="30" y="90" width="230" height="75" rx="12" ry="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+  <!-- Heat roller slot opening -->
+  <rect x="55" y="108" width="180" height="18" rx="5" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- Roller indicator lines inside slot -->
+  <line x1="100" y1="112" x2="100" y2="122" stroke="#7f7f7f" stroke-width="3.23"/>
+  <line x1="145" y1="112" x2="145" y2="122" stroke="#7f7f7f" stroke-width="3.23"/>
+  <line x1="190" y1="112" x2="190" y2="122" stroke="#7f7f7f" stroke-width="3.23"/>
+  <!-- Heat symbol (small wavy lines on machine top) -->
+  <path d="M105 78 Q110 70 115 78 Q120 86 125 78" fill="none" stroke="#f8130d" stroke-width="4.85" stroke-linecap="round"/>
+  <path d="M130 78 Q135 70 140 78 Q145 86 150 78" fill="none" stroke="#f8130d" stroke-width="4.85" stroke-linecap="round"/>
+  <path d="M155 78 Q160 70 165 78 Q170 86 175 78" fill="none" stroke="#f8130d" stroke-width="4.85" stroke-linecap="round"/>
+  <!-- Power light -->
+  <circle cx="235" cy="105" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="3.23"/>
+  <!-- Paper going IN on left -->
+  <rect x="10" y="115" width="55" height="25" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.47"/>
+  <!-- Lines on input paper -->
+  <line x1="17" y1="122" x2="55" y2="122" stroke="#b8b8b8" stroke-width="3.23"/>
+  <line x1="17" y1="129" x2="55" y2="129" stroke="#b8b8b8" stroke-width="3.23"/>
+  <!-- Arrow showing input direction -->
+  <polygon points="58,121 68,127.5 58,134" fill="#000000"/>
+  <!-- Laminated sheet coming OUT on right (glossy, slightly wider) -->
+  <rect x="225" y="112" width="60" height="31" rx="3" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.47"/>
+  <!-- Glossy sheen lines on output sheet -->
+  <line x1="232" y1="116" x2="232" y2="138" stroke="#90a7d6" stroke-width="4.04" stroke-linecap="round"/>
+  <line x1="239" y1="114" x2="239" y2="140" stroke="#90a7d6" stroke-width="2.43" stroke-linecap="round"/>
+  <!-- Arrow showing output direction -->
+  <polygon points="222,121 212,127.5 222,134" fill="#000000"/>
+  <!-- Base feet -->
+  <rect x="55" y="162" width="35" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.85"/>
+  <rect x="200" y="162" width="35" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- Label line on machine front -->
+  <rect x="75" y="140" width="80" height="12" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="3.23"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg3036" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg3036)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

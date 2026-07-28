@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- boot upper -->
+  <path d="M50 60 L50 130 Q50 145 65 148 L210 148 Q225 145 228 130 L230 105 Q230 92 218 90 L130 86 Q120 84 116 76 L110 56 Q108 50 100 50 L62 50 Q50 52 50 60 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- ankle cuff -->
+  <path d="M55 75 Q90 70 110 75" stroke="#1a1a1a" stroke-width="3.56" fill="none"/>
+  <!-- tongue and lace area -->
+  <path d="M120 95 Q145 90 175 95 L172 140 Q148 144 122 140 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <line x1="128" y1="105" x2="168" y2="105" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="128" y1="115" x2="168" y2="115" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="128" y1="125" x2="168" y2="125" stroke="#ffffff" stroke-width="4.45"/>
+  <line x1="128" y1="135" x2="168" y2="135" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- buckle strap top -->
+  <rect x="55" y="80" width="55" height="10" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="100" y="78" width="10" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- sole / frame top -->
+  <path d="M48 148 L228 148 L226 162 L50 162 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- INLINE FRAME (single rail holding wheels in one line) -->
+  <path d="M50 162 L228 162 L222 186 L56 186 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- 4 WHEELS IN A SINGLE LINE (inline signature) -->
+  <circle cx="70" cy="200" r="18" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="70" cy="200" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="70" cy="200" r="2" fill="#000000"/>
+
+  <circle cx="118" cy="200" r="18" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="118" cy="200" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="118" cy="200" r="2" fill="#000000"/>
+
+  <circle cx="166" cy="200" r="18" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="166" cy="200" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="166" cy="200" r="2" fill="#000000"/>
+
+  <circle cx="214" cy="200" r="18" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="214" cy="200" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="214" cy="200" r="2" fill="#000000"/>
+</g></svg>

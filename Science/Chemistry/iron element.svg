@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- horseshoe magnet on left + iron nail on right -->
+  <!-- horseshoe magnet outer arc (red top half) -->
+  <path d="M30 130 Q30 50 90 50 Q150 50 150 130 L120 130 Q120 78 90 78 Q60 78 60 130 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- horseshoe lower legs (silver/grey) -->
+  <rect x="30" y="125" width="30" height="80" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="120" y="125" width="30" height="80" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pole caps -->
+  <rect x="27" y="200" width="36" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="117" y="200" width="36" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- magnet field lines -->
+  <path d="M50 220 Q90 240 130 220" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- iron nail on right -->
+  <!-- nail head -->
+  <ellipse cx="220" cy="50" rx="22" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- nail head top highlight -->
+  <ellipse cx="220" cy="48" rx="16" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- nail shaft -->
+  <polygon points="208,55 232,55 226,200 214,200" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- nail shaft highlight -->
+  <line x1="216" y1="65" x2="218" y2="190" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- nail tip -->
+  <polygon points="214,200 226,200 220,225" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

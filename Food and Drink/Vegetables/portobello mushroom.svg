@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- large brown-capped flat mushroom with gills visible + thick stem -->
+  <!-- thick stem -->
+  <path d="M 110 138 L 115 200 Q 130 212 145 212 Q 162 212 175 200 L 180 138 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- visible gill area under cap -->
+  <path d="M 50 138 Q 145 150 240 138 Q 240 162 145 168 Q 50 162 50 138 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- gill lines (radial) -->
+  <path d="M 65 145 L 65 165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 85 148 L 85 167" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 105 150 L 105 167" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 125 152 L 125 168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145 152 L 145 168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 165 152 L 165 168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 185 150 L 185 167" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 205 148 L 205 167" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 225 145 L 225 165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- wide flat brown cap -->
+  <path d="M 45 138 Q 50 80 145 65 Q 240 80 245 138 Q 200 145 145 145 Q 90 145 45 138 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cap highlight -->
+  <path d="M 80 90 Q 110 75 145 78 Q 140 92 115 100 Q 88 100 80 90 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

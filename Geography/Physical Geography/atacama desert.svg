@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky -->
+  <rect x="0" y="0" width="290" height="120" fill="#dff3fd" stroke="none"/>
+  <!-- Sun -->
+  <circle cx="248" cy="38" r="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Andes mountains in background (snow-capped) -->
+  <polygon points="0,135 35,75 65,110 95,60 130,105 165,70 200,115 235,80 270,118 290,90 290,135" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Snow caps -->
+  <polygon points="88,68 95,60 102,68 98,72 92,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="158,78 165,70 172,78 168,82 162,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="228,88 235,80 242,88 238,92 232,92" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="28,82 35,75 42,82 38,86 32,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Mid arid ground -->
+  <rect x="0" y="130" width="290" height="40" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cracked dry earth lines -->
+  <path d="M30,150 L50,158 L40,165" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M200,148 L215,155 L210,165" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Salt flat (foreground) -->
+  <rect x="0" y="168" width="290" height="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Polygonal salt crust pattern -->
+  <path d="M20,180 L60,180 L80,195 L60,215 L20,215 L0,200 Z" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M80,195 L120,185 L155,200 L130,225 L90,225 L60,215 Z" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M155,200 L200,188 L240,200 L220,230 L170,230 L130,225 Z" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M240,200 L290,195 L290,225 L260,235 L220,230 Z" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small salt pools -->
+  <ellipse cx="70" cy="205" rx="10" ry="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="195" cy="212" rx="12" ry="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- A lone dry rock cluster (mid-ground) for arid feel -->
+  <ellipse cx="135" cy="160" rx="14" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="142" cy="156" rx="8" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

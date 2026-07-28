@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- boot body (black hockey skate) -->
+  <path d="M55 80 L55 150 Q55 162 67 164 L215 164 Q230 160 232 148 L234 120 Q234 108 222 104 L130 100 Q120 98 116 90 L106 70 Q102 64 92 64 L67 64 Q55 66 55 80 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- ankle reinforcement (PROTECTIVE PADDING — hockey signature) -->
+  <path d="M55 80 Q70 70 95 72 L100 90 Q90 110 75 115 Q60 110 55 100 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tongue padding -->
+  <path d="M115 100 Q140 95 165 100 L160 145 Q140 150 120 145 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- laces (simple straight) -->
+  <line x1="125" y1="108" x2="155" y2="108" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="125" y1="118" x2="155" y2="118" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="125" y1="128" x2="155" y2="128" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="125" y1="138" x2="155" y2="138" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- lace eyelets -->
+  <circle cx="125" cy="108" r="2.5" fill="#000000"/>
+  <circle cx="155" cy="108" r="2.5" fill="#000000"/>
+  <circle cx="125" cy="118" r="2.5" fill="#000000"/>
+  <circle cx="155" cy="118" r="2.5" fill="#000000"/>
+  <circle cx="125" cy="128" r="2.5" fill="#000000"/>
+  <circle cx="155" cy="128" r="2.5" fill="#000000"/>
+  <circle cx="125" cy="138" r="2.5" fill="#000000"/>
+  <circle cx="155" cy="138" r="2.5" fill="#000000"/>
+  <!-- heel reinforcement -->
+  <path d="M195 110 Q220 108 230 130 L228 152 Q220 160 200 158 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- toe cap reinforcement -->
+  <path d="M170 130 Q175 115 200 115 L200 155 Q185 158 170 155 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sole -->
+  <path d="M55 162 L232 162 L230 172 L57 172 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- blade holder -->
+  <path d="M65 172 L225 172 Q230 180 222 184 L70 184 Q60 180 65 172 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- SMOOTH CURVED BLADE (no toe pick — hockey signature) -->
+  <path d="M55 184 Q40 188 50 196 Q145 208 240 196 Q250 188 235 184 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- blade shine -->
+  <path d="M70 188 Q145 196 220 188" stroke="#ffffff" stroke-width="2.96" fill="none"/>
+</g></svg>

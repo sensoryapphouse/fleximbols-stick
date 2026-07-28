@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pan base -->
+  <rect x="30" y="190" width="200" height="14" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Pan handle -->
+  <rect x="220" y="193" width="50" height="8" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pan rim ellipse -->
+  <ellipse cx="130" cy="190" rx="100" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Pan interior -->
+  <ellipse cx="130" cy="187" rx="92" ry="14" fill="#7f7f7f"/>
+  <!-- Egg white spread on pan - not flipped -->
+  <path d="M55,178 Q48,162 65,154 Q85,140 110,154 Q122,142 148,144 Q172,138 190,154 Q212,160 215,175 Q218,188 195,192 Q162,198 130,198 Q98,198 65,192 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Egg white extra lobe top -->
+  <ellipse cx="130" cy="158" rx="22" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Tall runny yolk dome - key differentiator from over-easy -->
+  <!-- Yolk base circle -->
+  <ellipse cx="130" cy="170" rx="26" ry="10" fill="#e65a00"/>
+  <!-- Yolk dome - tall and round, clearly 3D sphere shape -->
+  <ellipse cx="130" cy="160" rx="26" ry="26" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Yolk dome layers - bright top -->
+  <ellipse cx="130" cy="150" rx="20" ry="18" fill="#f7de58"/>
+  <ellipse cx="128" cy="148" rx="12" ry="10" fill="#fff200"/>
+  <!-- Highlight on dome -->
+  <ellipse cx="122" cy="145" r="5" fill="#ffffff"/>
+  <!-- Runny yolk lower band -->
+  <ellipse cx="130" cy="163" rx="24" ry="7" fill="#f7de58"/>
+</g></svg>

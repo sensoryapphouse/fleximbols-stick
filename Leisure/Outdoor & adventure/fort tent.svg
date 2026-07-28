@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- blanket fort with chairs + child full body inside + cosy -->
+  <!-- left chair back (peeking out) -->
+  <rect x="22" y="100" width="22" height="110" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="14" y="200" width="38" height="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right chair back -->
+  <rect x="246" y="100" width="22" height="110" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="238" y="200" width="38" height="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- blanket draped over chairs (sagging in middle) -->
+  <path d="M22 100 Q22 88 38 88 L52 88 Q70 86 90 96 Q145 116 200 96 Q220 86 238 88 L252 88 Q268 88 268 100 L268 130 Q220 150 145 144 Q70 150 22 130 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- blanket pattern (polka dots) -->
+  <circle cx="70" cy="110" r="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="110" cy="120" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="180" cy="120" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="220" cy="110" r="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="128" r="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- second blanket layer below (cosy) -->
+  <path d="M52 138 Q145 156 238 138 L238 200 L52 200 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- child sitting inside, full body -->
+  <!-- legs crossed -->
+  <ellipse cx="125" cy="200" rx="22" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="165" cy="200" rx="22" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- torso -->
+  <path d="M118 158 Q118 150 128 150 L162 150 Q172 150 172 158 L172 198 L118 198 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M118 162 L102 188 L110 192 L122 168 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M172 162 L188 188 L180 192 L168 168 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="145" cy="140" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M127 134 Q128 118 145 116 Q162 118 163 134 Q158 126 145 126 Q132 126 127 134 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="139" cy="141" r="2" fill="#000000"/>
+  <circle cx="151" cy="141" r="2" fill="#000000"/>
+  <path d="M139 148 Q145 152 151 148" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- little pillow -->
+  <ellipse cx="80" cy="195" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="210" cy="195" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floss container (rounded disc) -->
+  <ellipse cx="145" cy="130" rx="90" ry="75" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- container inner ring -->
+  <ellipse cx="145" cy="130" rx="75" ry="62" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- label band across center -->
+  <rect x="55" y="120" width="180" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- F -->
+  <path d="M95 125 L95 137 M95 125 L102 125 M95 131 L101 131" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- L -->
+  <path d="M108 125 L108 137 L115 137" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- O -->
+  <ellipse cx="124" cy="131" rx="4" ry="6" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- S -->
+  <path d="M141 126 Q134 126 134 130 Q134 134 141 134 Q148 134 148 138 Q148 142 141 142" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- S -->
+  <path d="M161 126 Q154 126 154 130 Q154 134 161 134 Q168 134 168 138 Q168 142 161 142" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- inner reel circle showing wound thread -->
+  <circle cx="145" cy="130" r="22" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="130" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="130" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- thread coming out of slot -->
+  <rect x="225" y="125" width="14" height="10" fill="#000000"/>
+  <path d="M238 130 Q252 130 258 142 Q262 152 252 160 Q244 165 238 175 Q235 185 245 195" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- cutting edge (small metal blade at slot) -->
+  <path d="M225 122 L240 122 L242 125 L223 125 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- blade teeth -->
+  <path d="M225 122 L227 119 L229 122 L231 119 L233 122 L235 119 L237 122 L239 119" stroke="#1a1a1a" stroke-width="3.33" fill="none" stroke-linejoin="round"/>
+</g></svg>

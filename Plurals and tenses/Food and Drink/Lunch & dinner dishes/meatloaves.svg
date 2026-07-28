@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Serving plate/board -->
+  <ellipse cx="145" cy="215" rx="118" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="212" rx="118" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Meatloaf main body - brown rectangular loaf -->
+  <rect x="48" y="125" width="194" height="88" rx="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- Loaf side face slightly lighter -->
+  <rect x="48" y="125" width="194" height="75" rx="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- Ketchup glaze on top - bright red stripe -->
+  <rect x="52" y="125" width="186" height="28" rx="12" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ketchup drips down sides -->
+  <path d="M90 148 Q88 158 90 165" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M145 148 Q143 161 145 168" fill="none" stroke="#f8130d" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M196 147 Q194 157 197 163" fill="none" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Ketchup glaze highlight -->
+  <rect x="68" y="127" width="90" height="10" rx="5" fill="#d01424" stroke="none"/>
+  <!-- Slices cut from left end -->
+  <!-- Slice 1 - leftmost detached -->
+  <rect x="48" y="132" width="28" height="72" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Slice 1 interior texture -->
+  <rect x="54" y="138" width="16" height="58" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Meat texture specks -->
+  <circle cx="60" cy="148" r="3" fill="#5e1f0a"/>
+  <circle cx="64" cy="160" r="2.5" fill="#5e1f0a"/>
+  <circle cx="57" cy="170" r="3" fill="#5e1f0a"/>
+  <circle cx="66" cy="180" r="2.5" fill="#5e1f0a"/>
+  <!-- Gap between slice and loaf -->
+  <rect x="76" y="132" width="8" height="72" rx="2" fill="#efefef" stroke="none"/>
+  <!-- Main loaf body texture -->
+  <circle cx="115" cy="155" r="3.5" fill="#5e1f0a"/>
+  <circle cx="140" cy="148" r="3" fill="#5e1f0a"/>
+  <circle cx="165" cy="158" r="3.5" fill="#5e1f0a"/>
+  <circle cx="190" cy="150" r="3" fill="#5e1f0a"/>
+  <circle cx="125" cy="170" r="3" fill="#5e1f0a"/>
+  <circle cx="155" cy="168" r="3.5" fill="#5e1f0a"/>
+  <circle cx="180" cy="165" r="3" fill="#5e1f0a"/>
+  <!-- Slice 2 partially cut -->
+  <path d="M84 132 L106 132 L106 200 L84 200 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ketchup on slices -->
+  <rect x="48" y="132" width="28" height="14" rx="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <rect x="84" y="132" width="22" height="14" rx="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg1384" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg1384)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

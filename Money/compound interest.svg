@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- growing dollar stacks left-to-right -->
+  <rect x="20" y="180" width="28" height="40" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="34" cy="180" r="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M34 172 L34 188 M30 175 Q26 175 26 178 Q26 181 34 181 Q42 181 42 184 Q42 187 34 187 Q27 187 27 184" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <rect x="60" y="150" width="32" height="70" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="76" cy="150" r="16" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M76 140 L76 160 M71 144 Q66 144 66 148 Q66 152 76 152 Q86 152 86 156 Q86 160 76 160 Q67 160 67 156" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <rect x="105" y="110" width="38" height="110" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="124" cy="110" r="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M124 98 L124 122 M118 102 Q112 102 112 106 Q112 111 124 111 Q136 111 136 115 Q136 120 124 120 Q114 120 114 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <rect x="158" y="60" width="46" height="160" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="181" cy="60" r="24" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M181 46 L181 74 M174 50 Q167 50 167 55 Q167 60 181 60 Q195 60 195 65 Q195 70 181 70 Q170 70 170 65" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- exponential curve arrow above stacks -->
+  <path d="M30 200 Q90 195 130 150 Q170 90 250 30" fill="none" stroke="#d01424" stroke-width="8.88" stroke-linecap="round"/>
+  <polygon points="250,30 232,38 248,50" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- small percent badge -->
+  <circle cx="248" cy="170" r="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="240" cy="162" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="256" cy="178" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M260 154 L236 188" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- small spiral hint -->
+  <path d="M245 215 m 0 -10 a 10 10 0 1 1 -1 0 m 1 4 a 5 5 0 1 0 1 0" fill="none" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

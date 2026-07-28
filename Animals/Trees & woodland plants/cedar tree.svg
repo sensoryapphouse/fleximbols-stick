@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Trunk: broad visible trunk -->
+  <path d="M131 210 L128 175 L133 155 L145 150 L157 155 L162 175 L159 210 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cedar: broad wide flat HORIZONTAL TIERED foliage layers, wide spreading -->
+  <!-- Tier 1 (bottom, widest, ground-hugging flat layer) -->
+  <path d="M30 182 Q88 172 145 174 Q202 172 260 182 Q210 192 145 194 Q80 192 30 182 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tier 1 top surface highlight -->
+  <path d="M50 182 Q98 175 145 177 Q192 175 240 182 Q192 178 145 180 Q98 178 50 182 Z" fill="#529929" stroke="none"/>
+  <!-- Tier 2 (narrower) -->
+  <path d="M50 158 Q98 148 145 150 Q192 148 240 158 Q200 168 145 170 Q90 168 50 158 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M68 158 Q106 151 145 153 Q184 151 222 158 Q184 154 145 156 Q106 154 68 158 Z" fill="#529929" stroke="none"/>
+  <!-- Tier 3 -->
+  <path d="M68 134 Q106 124 145 126 Q184 124 222 134 Q188 144 145 146 Q102 144 68 134 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M82 134 Q112 127 145 129 Q178 127 208 134 Q178 130 145 132 Q112 130 82 134 Z" fill="#529929" stroke="none"/>
+  <!-- Tier 4 -->
+  <path d="M88 110 Q116 100 145 102 Q174 100 202 110 Q172 120 145 122 Q118 120 88 110 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M100 110 Q121 103 145 105 Q169 103 190 110 Q169 106 145 108 Q121 106 100 110 Z" fill="#529929" stroke="none"/>
+  <!-- Tier 5 -->
+  <path d="M105 86 Q124 76 145 78 Q166 76 185 86 Q168 96 145 98 Q122 96 105 86 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M114 86 Q128 80 145 82 Q162 80 176 86 Q162 82 145 84 Q128 82 114 86 Z" fill="#529929" stroke="none"/>
+  <!-- Tier 6 (top, narrow) -->
+  <path d="M118 64 Q130 55 145 57 Q160 55 172 64 Q160 72 145 74 Q130 72 118 64 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Crown tip -->
+  <path d="M132 55 L145 35 L158 55 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

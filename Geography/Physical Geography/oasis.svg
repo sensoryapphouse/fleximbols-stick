@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="120" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- sun -->
+  <circle cx="240" cy="40" r="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- distant dune -->
+  <path d="M0,150 Q70,110 150,135 Q220,160 290,130 L290,170 L0,170 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- foreground dunes -->
+  <path d="M0,200 Q50,160 110,185 Q170,210 230,180 Q260,165 290,190 L290,240 L0,240 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- pond -->
+  <ellipse cx="145" cy="200" rx="55" ry="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="145" cy="197" rx="48" ry="9" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- palm 1 trunk -->
+  <path d="M95,200 Q92,160 100,120" fill="none" stroke="#5e1f0a" stroke-width="12.45" stroke-linecap="round"/>
+  <!-- palm 1 fronds -->
+  <path d="M100,120 Q70,100 55,115" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M100,120 Q130,100 145,115" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M100,120 Q85,85 75,75" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M100,120 Q115,85 125,75" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M100,120 Q100,90 100,70" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- palm 2 trunk -->
+  <path d="M195,200 Q200,150 192,100" fill="none" stroke="#5e1f0a" stroke-width="12.45" stroke-linecap="round"/>
+  <!-- palm 2 fronds -->
+  <path d="M192,100 Q165,80 150,90" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M192,100 Q220,80 235,90" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M192,100 Q175,65 165,55" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M192,100 Q210,65 220,55" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M192,100 Q192,75 192,55" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- coconuts -->
+  <circle cx="100" cy="125" r="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="192" cy="105" r="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

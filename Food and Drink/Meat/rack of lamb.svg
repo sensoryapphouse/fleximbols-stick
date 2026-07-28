@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate (oval) -->
+  <ellipse cx="145" cy="218" rx="125" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rack meat base: single long piece of meat at bottom connecting all bones -->
+  <path d="M 38,175 Q 38,145 58,138 L 232,138 Q 252,145 252,175 Q 252,195 232,198 L 58,198 Q 38,195 38,175 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fat cap on top of rack (cream layer on top of meat) -->
+  <path d="M 58,138 Q 58,128 72,126 L 218,126 Q 232,128 232,138" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rib bones 1-5: frenched, standing up from meat (evenly spaced) -->
+  <!-- Bone 1 -->
+  <rect x="62" y="32" width="14" height="106" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="69" cy="34" rx="9" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bone 2 -->
+  <rect x="104" y="28" width="14" height="110" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="111" cy="30" rx="9" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bone 3 (centre, tallest) -->
+  <rect x="138" y="22" width="14" height="116" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="24" rx="9" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bone 4 -->
+  <rect x="172" y="28" width="14" height="110" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="179" cy="30" rx="9" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bone 5 -->
+  <rect x="214" y="32" width="14" height="106" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="221" cy="34" rx="9" ry="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Meat surface sear marks -->
+  <path d="M 50,158 Q 90,148 130,158 Q 170,148 220,158" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 50,170 Q 90,162 130,170 Q 170,162 220,170" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

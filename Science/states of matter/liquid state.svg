@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- beaker body -->
+  <path d="M 65 40 L 65 200 Q 65 215 80 215 L 210 215 Q 225 215 225 200 L 225 40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- pouring spout -->
+  <path d="M 65 40 L 50 30 L 65 50" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- graduation marks -->
+  <line x1="65" y1="90" x2="85" y2="90" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="65" y1="130" x2="85" y2="130" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="65" y1="170" x2="85" y2="170" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- wavy water surface and fill -->
+  <path d="M 65 110 Q 85 95 105 110 Q 125 125 145 110 Q 165 95 185 110 Q 205 125 225 110 L 225 200 Q 225 215 210 215 L 80 215 Q 65 215 65 200 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- loosely arranged molecule dots -->
+  <circle cx="90" cy="145" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="160" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="140" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="155" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="185" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="195" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="190" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="180" r="7" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

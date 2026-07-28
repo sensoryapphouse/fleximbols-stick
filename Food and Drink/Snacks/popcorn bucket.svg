@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bucket body (trapezoid) -->
+  <path d="M75,115 L85,215 L205,215 L215,115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bucket stripes -->
+  <path d="M100,115 L107,215 L122,215 L115,115 Z" fill="#f8130d"/>
+  <path d="M130,115 L137,215 L152,215 L145,115 Z" fill="#f8130d"/>
+  <path d="M160,115 L167,215 L182,215 L175,115 Z" fill="#f8130d"/>
+  <!-- Bucket rim -->
+  <rect x="68" y="108" width="154" height="16" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bucket outline re-draw on top of stripes -->
+  <path d="M75,115 L85,215 L205,215 L215,115" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Popcorn pieces overflowing - bottom layer -->
+  <ellipse cx="108" cy="105" rx="18" ry="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="100" rx="20" ry="15" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="182" cy="105" rx="18" ry="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Popcorn middle layer -->
+  <ellipse cx="90" cy="92" rx="16" ry="13" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="125" cy="85" rx="18" ry="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="162" cy="87" rx="17" ry="13" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="198" cy="93" rx="15" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Popcorn top layer -->
+  <ellipse cx="105" cy="72" rx="15" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="65" rx="18" ry="14" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="183" cy="73" rx="15" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Popcorn peak -->
+  <ellipse cx="145" cy="48" rx="14" ry="11" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Popcorn kernel texture bumps -->
+  <ellipse cx="108" cy="103" rx="6" ry="4" fill="#f5e7c4"/>
+  <ellipse cx="145" cy="98" rx="7" ry="5" fill="#eed5b6"/>
+  <ellipse cx="125" cy="83" rx="6" ry="4" fill="#eed5b6"/>
+  <ellipse cx="145" cy="63" rx="6" ry="4" fill="#eed5b6"/>
+</g></svg>

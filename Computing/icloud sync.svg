@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cloud (Apple-style: smooth, symmetrical) -->
+  <path d="M 70,140 Q 45,140 45,118 Q 45,98 65,96 Q 70,72 95,72 Q 115,72 124,88 Q 132,76 148,76 Q 172,76 178,98 Q 205,98 210,118 Q 215,140 190,140 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Sync arrows in centre of cloud -->
+  <path d="M 110,108 Q 110,96 125,96 L 144,96" fill="none" stroke="#2a4ec0" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 140,90 L 150,96 L 140,102" fill="#2a4ec0" stroke="#2a4ec0" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 150,128 Q 150,140 135,140 L 116,140" fill="none" stroke="#2a4ec0" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 120,134 L 110,140 L 120,146" fill="#2a4ec0" stroke="#2a4ec0" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Devices below cloud: iPhone + iPad -->
+  <rect x="50" y="160" width="40" height="70" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="55" y="168" width="30" height="50" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="70" cy="224" r="3" fill="#000000" stroke="none"/>
+  <rect x="200" y="160" width="60" height="70" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="206" y="168" width="48" height="50" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="230" cy="224" r="3" fill="#000000" stroke="none"/>
+  <!-- Connection lines from cloud to devices -->
+  <path d="M 90,150 L 70,160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="4 3"/>
+  <path d="M 200,150 L 230,160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="4 3"/>
+  <!-- 'iCLOUD' path letters across top -->
+  <!-- i (dot + body) -->
+  <circle cx="33" cy="28" r="3" fill="#000000" stroke="none"/>
+  <path d="M 30,34 L 36,34 L 36,52 L 30,52 Z" fill="#000000" stroke="none"/>
+  <!-- C -->
+  <path d="M 48,28 L 60,28 Q 66,28 66,34 L 60,36 Q 60,34 58,34 L 50,34 Q 48,34 48,36 L 48,46 Q 48,48 50,48 L 58,48 Q 60,48 60,46 L 66,48 Q 66,52 60,52 L 48,52 Q 42,52 42,46 L 42,34 Q 42,28 48,28 Z" fill="#000000" stroke="none"/>
+  <!-- L -->
+  <path d="M 70,28 L 76,28 L 76,46 L 86,46 L 86,52 L 70,52 Z" fill="#000000" stroke="none"/>
+  <!-- O -->
+  <path d="M 96,28 Q 90,28 90,34 L 90,46 Q 90,52 96,52 L 104,52 Q 110,52 110,46 L 110,34 Q 110,28 104,28 Z M 96,34 L 104,34 Q 106,34 106,36 L 106,44 Q 106,46 104,46 L 96,46 Q 94,46 94,44 L 94,36 Q 94,34 96,34 Z" fill="#000000" stroke="none" fill-rule="evenodd"/>
+  <!-- U -->
+  <path d="M 116,28 L 122,28 L 122,44 Q 122,46 124,46 L 130,46 Q 132,46 132,44 L 132,28 L 138,28 L 138,46 Q 138,52 132,52 L 122,52 Q 116,52 116,46 Z" fill="#000000" stroke="none"/>
+  <!-- D -->
+  <path d="M 144,28 L 154,28 Q 162,28 162,36 L 162,44 Q 162,52 154,52 L 144,52 Z M 150,34 L 150,46 L 154,46 Q 156,46 156,44 L 156,36 Q 156,34 154,34 Z" fill="#000000" stroke="none" fill-rule="evenodd"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- big gummy bear, front-facing -->
+<!-- ears -->
+<circle cx="180" cy="150" r="36" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="332" cy="150" r="36" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- head -->
+<circle cx="256" cy="196" r="78" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- body -->
+<path d="M 168 300 Q 168 250 256 250 Q 344 250 344 300 L 344 360 Q 344 410 256 410 Q 168 410 168 360 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- arms (stubs) -->
+<circle cx="160" cy="296" r="34" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="352" cy="296" r="34" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- tummy oval -->
+<ellipse cx="256" cy="330" rx="44" ry="54" fill="#f0a253" stroke="none"/>
+<!-- face -->
+<circle cx="232" cy="190" r="9" fill="#1a1a1a" stroke="none"/>
+<circle cx="280" cy="190" r="9" fill="#1a1a1a" stroke="none"/>
+<ellipse cx="256" cy="216" rx="16" ry="12" fill="#b5631f" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

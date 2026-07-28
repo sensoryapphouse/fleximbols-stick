@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Deep blue evening sky -->
+  <rect x="26" y="20" width="238" height="148" rx="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Warm orange-red glow on horizon below sky -->
+  <rect x="26" y="120" width="238" height="48" rx="0" fill="#e65a00" stroke="none"/>
+  <rect x="26" y="138" width="238" height="30" rx="0" fill="#ff9900" stroke="none"/>
+  <!-- Redraw sky panel outline (bring to front visually) -->
+  <rect x="26" y="20" width="238" height="148" rx="10" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Ground / horizon bar -->
+  <rect x="26" y="168" width="238" height="42" rx="0" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Horizon glow ellipse (sun fully set, just warm haze) -->
+  <ellipse cx="145" cy="168" rx="80" ry="16" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="168" rx="45" ry="8" fill="#ff9900" stroke="none"/>
+  <!-- First evening stars appearing in upper sky -->
+  <circle cx="60" cy="45" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="52" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="38" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Small secondary stars -->
+  <circle cx="95" cy="68" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="245" cy="80" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

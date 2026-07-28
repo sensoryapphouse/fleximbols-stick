@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- toaster body -->
+  <path d="M30 100 Q30 90 40 90 L180 90 Q190 90 190 100 L190 210 Q190 220 180 220 L40 220 Q30 220 30 210 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- top slot -->
+  <rect x="45" y="98" width="130" height="10" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- toaster front panel detail -->
+  <rect x="50" y="170" width="120" height="30" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- lever -->
+  <rect x="158" y="120" width="22" height="14" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- dial -->
+  <circle cx="75" cy="185" r="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="75" y1="185" x2="75" y2="179" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- toasted bread popping up (slice 1) -->
+  <path d="M55 55 Q55 35 75 35 L95 35 Q105 35 105 50 L105 100 L55 100 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- bread golden-brown inner -->
+  <path d="M62 58 Q62 45 78 45 L92 45 Q98 45 98 53 L98 96 L62 96 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- slice 2 -->
+  <path d="M115 55 Q115 35 135 35 L155 35 Q165 35 165 50 L165 100 L115 100 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <path d="M122 58 Q122 45 138 45 L152 45 Q158 45 158 53 L158 96 L122 96 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- butter beside toaster -->
+  <path d="M210 175 L275 175 L275 215 Q275 220 270 220 L215 220 Q210 220 210 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- butter stick on dish -->
+  <path d="M220 145 L265 145 L260 175 L225 175 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <line x1="232" y1="148" x2="230" y2="172" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="245" y1="148" x2="243" y2="172" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="258" y1="148" x2="256" y2="172" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- heat lines from toaster top -->
+  <path d="M70 30 Q75 20 70 10" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 30 Q135 20 130 10" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

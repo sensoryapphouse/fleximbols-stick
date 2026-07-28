@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.4676) translate(-275.50 -354.00)">
+<g transform="translate(77.6,162.3) scale(0.755)"><!-- Baby bottle in the left region -->
+  <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Teat / nipple -->
+    <path d="M105 70c0-16 60-16 60 0 0 14-9 20-9 32h-42c0-12-9-18-9-32z" fill="#ffd24a" />
+    <!-- Collar dome -->
+    <path d="M85 118c0-20 100-20 100 0v34H85z" fill="#ffe08a" />
+    <!-- Screw ring -->
+    <rect x="62" y="152" width="146" height="40" rx="10" fill="#cfd6e6" />
+    <!-- Bottle body -->
+    <path d="M74 192h122v202a56 56 0 0 1-56 56 56 56 0 0 1-56-56z" fill="#dff0fb" />
+    <!-- Milk fill -->
+    <path d="M74 320h122v74a56 56 0 0 1-56 56 56 56 0 0 1-56-56z" fill="#aee0f5" />
+    <!-- Measure marks -->
+    <line x1="98" y1="240" x2="138" y2="240" />
+    <line x1="98" y1="284" x2="148" y2="284" />
+    <line x1="98" y1="328" x2="138" y2="328" />
+  </g></g>
+<line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#33373d"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#33373d"/>
+<line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffcf33" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#5a3a1f" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

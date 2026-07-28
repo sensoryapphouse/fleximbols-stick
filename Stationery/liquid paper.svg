@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Liquid Paper: bottle-and-brush format, brush actively painting onto paper -->
+  <!-- Paper/surface at bottom right with a white stroke being applied -->
+  <rect x="148" y="150" width="100" height="60" rx="5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Lines of text on paper -->
+  <line x1="156" y1="164" x2="240" y2="164" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="156" y1="174" x2="240" y2="174" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="156" y1="184" x2="240" y2="184" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- White correction stroke painted over line (brush stroke) -->
+  <path d="M 158,170 Q 180,167 210,170 Q 225,172 240,169" fill="none" stroke="#ffffff" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- Bottle body: squat rectangular with rounded corners -->
+  <rect x="62" y="105" width="90" height="85" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Label band -->
+  <rect x="62" y="124" width="90" height="38" rx="0" fill="#2a4ec0" stroke="none"/>
+  <path d="M 62,124 L 62,162 L 152,162 L 152,124 Z" fill="#2a4ec0" stroke="none"/>
+  <!-- Neck -->
+  <rect x="84" y="76" width="46" height="32" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Screw cap -->
+  <rect x="76" y="46" width="62" height="34" rx="8" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Cap thread lines -->
+  <line x1="83" y1="56" x2="130" y2="56" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="81" y1="64" x2="132" y2="64" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Brush handle extended (at an angle, painting down-right) -->
+  <line x1="107" y1="46" x2="155" y2="148" stroke="#4d4d4d" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- Brush bristle tip (at the painting end) -->
+  <path d="M 151,142 Q 162,152 155,160 Q 148,155 148,144 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- White fluid on bristle -->
+  <circle cx="154" cy="153" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Label detail on bottle -->
+  <rect x="70" y="127" width="74" height="28" rx="3" fill="#ffffff" stroke="none"/>
+  <line x1="76" y1="136" x2="136" y2="136" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="144" x2="130" y2="144" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="61.09 80.72 389.82 389.82">
+<!-- a shower of falling confetti: rectangles, squares, and curly streamers -->
+<!-- curly streamers -->
+<path d="M 150 120 q 30 30 0 60 q -30 30 0 60" fill="none" stroke="#e23c3c" stroke-width="10" stroke-linecap="round"/>
+<path d="M 360 110 q 30 30 0 60 q -30 30 0 60" fill="none" stroke="#3fae5a" stroke-width="10" stroke-linecap="round"/>
+<path d="M 256 150 q 28 26 0 52 q -28 26 0 52" fill="none" stroke="#3f6fb0" stroke-width="10" stroke-linecap="round"/>
+<!-- confetti pieces, various rotations and colours -->
+<g transform="rotate(25 170 200)"><rect x="158" y="192" width="30" height="18" rx="3" fill="#f6c500" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(-30 250 190)"><rect x="238" y="182" width="30" height="18" rx="3" fill="#e0559e" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(45 340 210)"><rect x="328" y="202" width="30" height="18" rx="3" fill="#8e5fb0" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(-15 200 280)"><rect x="188" y="272" width="30" height="18" rx="3" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(35 300 290)"><rect x="288" y="282" width="30" height="18" rx="3" fill="#f08a24" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(-40 158 330)"><rect x="146" y="322" width="30" height="18" rx="3" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(20 360 320)"><rect x="348" y="312" width="30" height="18" rx="3" fill="#e23c3c" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(-25 252 360)"><rect x="240" y="352" width="30" height="18" rx="3" fill="#f6c500" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(50 200 400)"><rect x="188" y="392" width="30" height="18" rx="3" fill="#e0559e" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(-10 320 390)"><rect x="308" y="382" width="30" height="18" rx="3" fill="#3f6fb0" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(15 256 430)"><rect x="244" y="422" width="30" height="18" rx="3" fill="#8e5fb0" stroke="#1a1a1a" stroke-width="6"/></g>
+</svg>

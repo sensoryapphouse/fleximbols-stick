@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- skin patch (leg/arm section) -->
+  <rect x="25" y="130" width="240" height="80" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- before side (hairs) - left -->
+  <path d="M 40 130 Q 38 120 40 110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 55 130 Q 53 118 56 108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 70 130 Q 68 120 70 110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 48 130 Q 46 122 48 115" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 62 130 Q 60 120 62 112" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 78 130 Q 76 120 78 110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- divider (treatment zone) -->
+  <path d="M 95 125 L 95 215" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="5,3" fill="none"/>
+  <!-- follicle being zapped (centre) -->
+  <ellipse cx="135" cy="175" rx="12" ry="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="135" cy="175" r="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- zap lines coming from follicle -->
+  <path d="M 135 160 L 130 152" stroke="#fff200" stroke-width="6.67" stroke-linecap="round" fill="none"/>
+  <path d="M 145 165 L 153 160" stroke="#fff200" stroke-width="6.67" stroke-linecap="round" fill="none"/>
+  <path d="M 125 165 L 117 160" stroke="#fff200" stroke-width="6.67" stroke-linecap="round" fill="none"/>
+  <!-- after side (smooth, no hair) - right -->
+  <!-- a few sparkle marks for "smooth" -->
+  <path d="M 215 105 L 217 109 L 221 111 L 217 113 L 215 117 L 213 113 L 209 111 L 213 109 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M 240 115 L 242 119 L 246 121 L 242 123 L 240 127 L 238 123 L 234 121 L 238 119 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- handheld laser device -->
+  <!-- body -->
+  <path d="M 100 30 L 175 30 Q 185 30 185 42 L 185 95 Q 185 105 175 105 L 100 105 Q 90 105 90 95 L 90 42 Q 90 30 100 30 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- grip -->
+  <rect x="105" y="38" width="60" height="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- emitter window -->
+  <rect x="105" y="80" width="65" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- laser beam down to follicle -->
+  <path d="M 137 105 L 135 155" stroke="#f8130d" stroke-width="8.89" stroke-linecap="round" fill="none"/>
+  <!-- beam edges -->
+  <path d="M 125 105 L 130 155" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M 149 105 L 140 155" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- power indicator -->
+  <circle cx="170" cy="49" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

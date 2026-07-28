@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- tax form -->
+  <rect x="25" y="25" width="155" height="190" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="25" y="25" width="155" height="28" fill="#392170" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- form lines -->
+  <rect x="35" y="65" width="135" height="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="35" y="83" width="135" height="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="35" y="101" width="80" height="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- giant question mark on form (path) -->
+  <path d="M 80 130 a 25 25 0 1 1 40 20 L 100 165 L 100 178 M 100 188 L 100 198" fill="none" stroke="#d01424" stroke-width="20.01" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- dollar with question - estimated -->
+  <circle cx="225" cy="80" r="38" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- $ -->
+  <path d="M 225 60 L 225 65 a 10 7 0 0 0 -10 7 a 10 7 0 0 0 10 7 a 10 7 0 0 1 10 7 a 10 7 0 0 1 -10 7 L 225 100 M 215 68 L 215 92" fill="none" stroke="#137827" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- mini question above dollar -->
+  <path d="M 248 50 a 8 8 0 1 1 12 6 L 254 62 M 254 68 L 254 72" fill="none" stroke="#d01424" stroke-width="7.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- mini calendar bottom right -->
+  <rect x="195" y="135" width="75" height="75" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="195" y="135" width="75" height="18" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="195" y1="172" x2="270" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="195" y1="191" x2="270" y2="191" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="220" y1="153" x2="220" y2="210" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="245" y1="153" x2="245" y2="210" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="207" cy="163" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="257" cy="182" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="232" cy="201" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

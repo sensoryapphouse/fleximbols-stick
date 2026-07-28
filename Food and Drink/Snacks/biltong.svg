@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Biltong: thicker, chunkier South African dried meat strips (thicker than jerky) + 'BILTONG' label -->
+
+  <!-- Hanging string at top (biltong is traditionally air-dried, hung) -->
+  <line x1="40" y1="22" x2="250" y2="22" stroke="#7d5e23" stroke-width="5.56" stroke-linecap="round"/>
+
+  <!-- Strip 1 (thick chunk, dark, hanging by a string clip on top) -->
+  <path d="M62,22 L66,30" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M60,32 Q56,30 56,34 L52,90 Q52,104 70,108 Q88,104 88,90 L84,34 Q84,30 80,32 Q72,38 60,32 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tough texture lines -->
+  <path d="M58,46 Q70,42 84,46" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M58,58 Q70,54 84,58" fill="none" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M58,72 Q70,68 84,72" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M58,86 Q70,82 84,86" fill="none" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Fat seam on edge (signature biltong feature) -->
+  <path d="M54,40 Q52,70 56,100" fill="none" stroke="#f5e7c4" stroke-width="6.67" stroke-linecap="round"/>
+
+  <!-- Strip 2 (centre, thicker) -->
+  <path d="M142,22 L146,32" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M138,34 Q132,32 132,38 L128,110 Q128,128 150,134 Q172,128 172,110 L168,38 Q168,32 162,34 Q150,40 138,34 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M132,52 Q150,48 168,52" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M132,68 Q150,64 168,68" fill="none" stroke="#5e1f0a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M132,84 Q150,80 168,84" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M132,100 Q150,96 168,100" fill="none" stroke="#5e1f0a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M130,46 Q128,84 132,122" fill="none" stroke="#f5e7c4" stroke-width="6.67" stroke-linecap="round"/>
+
+  <!-- Strip 3 (right) -->
+  <path d="M218,22 L222,30" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M216,32 Q210,30 210,34 L206,96 Q206,112 226,116 Q246,112 246,96 L242,34 Q242,30 238,32 Q228,38 216,32 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M212,48 Q226,44 242,48" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M212,62 Q226,58 242,62" fill="none" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M212,76 Q226,72 242,76" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M212,92 Q226,88 242,92" fill="none" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M208,42 Q206,78 212,108" fill="none" stroke="#f5e7c4" stroke-width="6.67" stroke-linecap="round"/>
+
+  <!-- 'BILTONG' label, 7 letters, range ~40-250 -->
+  <!-- B -->
+  <path d="M40,170 L60,170 Q68,170 68,178 L68,182 Q68,186 64,188 Q68,190 68,194 L68,200 Q68,208 60,208 L40,208 Z M48,178 L48,186 L58,186 Q60,186 60,184 L60,180 Q60,178 58,178 Z M48,192 L48,200 L58,200 Q60,200 60,198 L60,194 Q60,192 58,192 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+  <!-- I -->
+  <path d="M72,170 L82,170 L82,208 L72,208 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- L -->
+  <path d="M86,170 L96,170 L96,200 L108,200 L108,208 L86,208 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- T -->
+  <path d="M112,170 L138,170 L138,178 L130,178 L130,208 L120,208 L120,178 L112,178 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- O -->
+  <path d="M150,170 Q142,170 142,178 L142,200 Q142,208 150,208 L162,208 Q170,208 170,200 L170,178 Q170,170 162,170 Z M150,178 L162,178 Q162,178 162,180 L162,198 Q162,200 162,200 L150,200 Q150,200 150,198 L150,180 Q150,178 150,178 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
+  <!-- N -->
+  <path d="M174,170 L184,170 L196,194 L196,170 L206,170 L206,208 L196,208 L184,184 L184,208 L174,208 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- G -->
+  <path d="M218,170 Q210,170 210,178 L210,200 Q210,208 218,208 L230,208 Q238,208 238,200 L238,188 L224,188 L224,196 L230,196 L230,198 Q230,200 228,200 L220,200 Q218,200 218,198 L218,180 Q218,178 220,178 L228,178 Q230,178 230,180 L230,182 L238,182 L238,178 Q238,170 230,170 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Plate or block underneath to ground the composition (small dish hint) -->
+  <path d="M50,222 Q145,228 240,222" fill="none" stroke="#9d7246" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

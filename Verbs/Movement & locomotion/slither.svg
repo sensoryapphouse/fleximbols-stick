@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="20" y1="195" x2="270" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Snake body in S-curve along ground — whole snake visible -->
+  <!-- Body — thick S-shape path -->
+  <path d="M50,185 Q75,165 110,175 Q145,185 175,165 Q205,145 240,160 Q255,168 260,178"
+        stroke="#529929" stroke-width="24.44" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Body outline -->
+  <path d="M50,185 Q75,165 110,175 Q145,185 175,165 Q205,145 240,160 Q255,168 260,178"
+        stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Scale pattern on body (darker green stripes) -->
+  <path d="M80,170 Q95,168 108,174" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M120,178 Q138,180 152,175" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M165,168 Q182,160 196,162" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M215,152 Q228,150 242,158" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- Belly (lighter stripe) -->
+  <path d="M55,183 Q78,168 110,176 Q143,185 173,167 Q202,148 238,162 Q252,169 258,178"
+        stroke="#f5e7c4" stroke-width="8.88" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head at right end -->
+  <ellipse cx="262" cy="178" rx="18" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Eye -->
+  <circle cx="268" cy="174" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="269" cy="174" r="2" fill="#000000"/>
+  <!-- Forked tongue -->
+  <path d="M278,178 L286,176 M286,176 L290,174 M286,176 L290,178" stroke="#f8130d" stroke-width="3.33" fill="none" stroke-linecap="round"/>
+  <!-- Tail tip (tapered at left) -->
+  <path d="M50,185 Q42,183 36,184" stroke="#529929" stroke-width="11.11" fill="none" stroke-linecap="round"/>
+  <path d="M36,184 Q30,183 25,185" stroke="#529929" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <!-- Motion trail dots behind tail -->
+  <circle cx="18" cy="186" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="10" cy="187" r="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

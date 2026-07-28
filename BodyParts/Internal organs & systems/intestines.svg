@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- intestines: outer colon frame (pink) + coiled small intestine inside -->
+<!-- colon frame: up the right, across, down the left, like an upside-down U / question shape -->
+<path d="M 150 380 L 150 200 Q 150 150 200 150 L 312 150 Q 362 150 362 200 L 362 360 Q 362 392 332 392" fill="none" stroke="#d98a96" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 150 380 L 150 200 Q 150 150 200 150 L 312 150 Q 362 150 362 200 L 362 360 Q 362 392 332 392" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 150 380 L 150 200 Q 150 150 200 150 L 312 150 Q 362 150 362 200 L 362 360 Q 362 392 332 392" fill="none" stroke="#d98a96" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- coiled small intestine inside the frame -->
+<path d="M 196 230 q 40 -26 70 0 q 30 26 -2 50 q -40 26 8 50 q 44 22 -6 48 q -40 22 60 18" fill="none" stroke="#e6a3ae" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 196 230 q 40 -26 70 0 q 30 26 -2 50 q -40 26 8 50 q 44 22 -6 48 q -40 22 60 18" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 196 230 q 40 -26 70 0 q 30 26 -2 50 q -40 26 8 50 q 44 22 -6 48 q -40 22 60 18" fill="none" stroke="#e6a3ae" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

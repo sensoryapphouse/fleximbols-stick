@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Brow pomade: pot + angled brush + thick pigment swatch -->
+  <!-- Pomade pot (squat round jar) -->
+  <rect x="40" y="100" width="100" height="80" rx="12" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pot lid (slightly wider, sitting on top) -->
+  <rect x="34" y="84" width="112" height="24" rx="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Lid label dot -->
+  <circle cx="90" cy="96" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pot interior (thick brown pigment visible at top, lid off effect on right side) -->
+  <ellipse cx="90" cy="106" rx="46" ry="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pot shine -->
+  <line x1="48" y1="115" x2="48" y2="170" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Angled brush (handle diagonal, bristles flat angled) -->
+  <!-- Handle -->
+  <rect x="160" y="60" width="14" height="100" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" transform="rotate(25 167 110)"/>
+  <!-- Ferrule -->
+  <rect x="156" y="156" width="22" height="14" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25 167 163)"/>
+  <!-- Angled bristles (slanted block) -->
+  <polygon points="150,170 178,170 190,200 174,210" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Thick pigment swatch (a curved brow shape stroke) below/right -->
+  <path d="M200,150 Q230,130 270,148" stroke="#5e1f0a" stroke-width="14.81" fill="none" stroke-linecap="round"/>
+  <!-- Small hair strokes on swatch -->
+  <line x1="215" y1="142" x2="213" y2="130" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="232" y1="134" x2="232" y2="122" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="250" y1="136" x2="252" y2="124" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

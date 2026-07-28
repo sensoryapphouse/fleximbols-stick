@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- plate -->
+<ellipse cx="256" cy="392" rx="150" ry="26" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- scone body (rounded top, flat base) -->
+<path d="M 132 318
+ Q 120 224 256 220
+ Q 392 224 380 318
+ Q 256 346 132 318 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- base band -->
+<path d="M 132 318 Q 256 346 380 318 L 380 344 Q 256 374 132 344 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crack/split line -->
+<path d="M 150 312 Q 256 332 362 312" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<!-- raisins -->
+<ellipse cx="208" cy="276" rx="14" ry="11" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="288" cy="262" rx="14" ry="11" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="320" cy="292" rx="13" ry="10" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="246" cy="290" rx="13" ry="10" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

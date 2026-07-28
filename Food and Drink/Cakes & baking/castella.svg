@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate/surface -->
+  <ellipse cx="145" cy="210" rx="110" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Castella slice - tall rectangular sponge cake -->
+  <!-- Dark bottom crust layer -->
+  <rect x="68" y="178" width="154" height="22" rx="3" ry="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Main golden sponge body -->
+  <rect x="68" y="82" width="154" height="100" rx="3" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Honey golden tone inside sponge (slightly darker face) -->
+  <rect x="75" y="88" width="140" height="88" rx="2" fill="#ff9900" stroke="none"/>
+  <!-- Sponge texture - horizontal air bubble lines -->
+  <path d="M78 105 Q145 102 215 105" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M78 118 Q145 115 215 118" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M78 131 Q145 128 215 131" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M78 144 Q145 141 215 144" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M78 157 Q145 154 215 157" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M78 170 Q145 167 215 170" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Top golden-brown caramelised top crust -->
+  <rect x="68" y="82" width="154" height="18" rx="3" ry="3" fill="#e65a00" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Top crust shine highlight -->
+  <path d="M80 88 Q145 84 213 88" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cut face left edge brighter highlight -->
+  <rect x="68" y="82" width="8" height="118" rx="0" fill="#f5e7c4" stroke="none"/>
+  <!-- Sugar/honey drip on side -->
+  <path d="M190 99 Q194 108 192 120 Q190 128 193 135" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pancake 4 (bottom) - widest -->
+  <ellipse cx="145" cy="200" rx="108" ry="16" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 37,192 Q 37,208 145,216 Q 253,208 253,192 Q 253,184 145,180 Q 37,184 37,192 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="182" rx="108" ry="16" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Pancake 3 -->
+  <ellipse cx="145" cy="172" rx="96" ry="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 49,164 Q 49,178 145,186 Q 241,178 241,164 Q 241,156 145,152 Q 49,156 49,164 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="154" rx="96" ry="14" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Syrup dripping between layers -->
+  <path d="M 100,154 Q 96,162 94,172 Q 92,180 92,190" fill="none" stroke="#e65a00" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M 175,154 Q 179,162 182,172 Q 184,180 184,192" fill="none" stroke="#e65a00" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Pancake 2 -->
+  <ellipse cx="145" cy="142" rx="82" ry="13" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 63,134 Q 63,148 145,156 Q 227,148 227,134 Q 227,126 145,122 Q 63,126 63,134 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="124" rx="82" ry="13" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Syrup dripping -->
+  <path d="M 115,124 Q 112,132 110,142" fill="none" stroke="#e65a00" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M 170,124 Q 174,132 176,142" fill="none" stroke="#e65a00" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Pancake 1 (top) - narrowest -->
+  <ellipse cx="145" cy="112" rx="68" ry="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 77,104 Q 77,116 145,124 Q 213,116 213,104 Q 213,96 145,92 Q 77,96 77,104 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="94" rx="68" ry="12" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Butter pat on top pancake -->
+  <rect x="118" y="82" width="54" height="20" rx="5" fill="#fff200" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Melting butter edges -->
+  <path d="M 118,95 Q 108,100 105,108" fill="none" stroke="#f7de58" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M 172,95 Q 182,100 185,108" fill="none" stroke="#f7de58" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Maple syrup poured over top -->
+  <path d="M 138,82 Q 134,70 130,62" fill="none" stroke="#e65a00" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M 152,82 Q 156,70 160,62" fill="none" stroke="#e65a00" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Syrup pool on top pancake -->
+  <path d="M 110,92 Q 120,86 145,84 Q 168,86 178,92 Q 175,98 145,100 Q 115,98 110,92 Z" fill="#ff9900" stroke="none"/>
+</g></svg>

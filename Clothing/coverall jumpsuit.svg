@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Coverall / boilersuit: long sleeves, long legs, front zip, full body coverage -->
+
+  <!-- Left sleeve -->
+  <path d="M72 68 L42 110 Q38 118 44 124 Q50 130 58 126 L88 90 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left cuff -->
+  <path d="M42 110 L36 120 Q34 126 40 130 Q46 134 52 128 L58 126 Q50 130 44 124 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Right sleeve -->
+  <path d="M218 68 L248 110 Q252 118 246 124 Q240 130 232 126 L202 90 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right cuff -->
+  <path d="M248 110 L254 120 Q256 126 250 130 Q244 134 238 128 L232 126 Q240 130 246 124 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Body torso -->
+  <path d="M88 50 L72 68 L88 90 L100 130 L190 130 L202 90 L218 68 L202 50 Q190 42 145 42 Q100 42 88 50 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Collar / neck -->
+  <path d="M118 42 Q130 36 145 36 Q160 36 172 42 L168 54 Q158 48 145 48 Q132 48 122 54 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Left trouser leg -->
+  <path d="M100 130 L92 218 Q92 224 100 224 L132 224 Q140 224 140 218 L138 130 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right trouser leg -->
+  <path d="M190 130 L198 218 Q198 224 190 224 L158 224 Q150 224 150 218 L152 130 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Crotch gusset -->
+  <path d="M138 130 Q145 142 152 130 L152 155 Q145 165 138 155 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Front zip line -->
+  <line x1="145" y1="54" x2="145" y2="128" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <!-- Zip pull -->
+  <rect x="138" y="82" width="14" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <line x1="145" y1="92" x2="145" y2="98" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+
+  <!-- Chest pocket left -->
+  <rect x="96" y="72" width="36" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Chest pocket right -->
+  <rect x="158" y="72" width="36" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- Ankle cuffs -->
+  <rect x="92" y="212" width="48" height="12" rx="3" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="150" y="212" width="48" height="12" rx="3" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

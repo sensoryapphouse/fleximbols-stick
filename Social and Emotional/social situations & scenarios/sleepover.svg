@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="42.51 13.50 457.70 457.70"><metadata id="sah">{"v":1,"fig":[["h1","mc"],["h2","mc"]]}</metadata>
+<!-- moon -->
+<path d="M 100 56 A 28 28 0 1 0 100 112 A 24 24 0 1 1 100 56 Z" fill="#f7e08a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- stars -->
+<polygon points="156,65 158,71 165,71 160,75 161,81 156,78 151,81 152,75 147,71 154,71" fill="#f0c419" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="438,91 440,97 447,97 442,101 443,107 438,104 433,107 434,101 429,97 436,97" fill="#f0c419" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="404,53 406,59 413,59 408,63 409,69 404,66 399,69 400,63 395,59 402,59" fill="#f0c419" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<!-- Zzz -->
+<text x="230" y="270" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#5a6a8a">z</text>
+<text x="252" y="248" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="bold" fill="#5a6a8a">z</text>
+<text x="278" y="222" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="bold" fill="#5a6a8a">Z</text>
+
+<!-- ===== CHILD 1: in the bed ===== -->
+<!-- bed frame -->
+<rect x="86" y="356" width="250" height="66" rx="10" fill="#8a6a4a" stroke="#1a1a1a" stroke-width="4"/>
+<!-- mattress -->
+<rect x="86" y="344" width="250" height="28" rx="8" fill="#eef2f6" stroke="#1a1a1a" stroke-width="4"/>
+<!-- pillow -->
+<rect x="98" y="326" width="80" height="38" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<!-- head 1 (on pillow) -->
+<circle id="h1" data-fig="mc" cx="150" cy="338" r="24" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M 128 328 q 22 -16 44 -2" fill="none" stroke="#6b4a2b" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 138 340 q 6 5 12 0" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 160 340 q 6 5 12 0" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<!-- duvet over body 1 -->
+<path d="M 176 366 L 332 366 Q 332 330 288 330 Q 220 328 182 350 Z" fill="#3a6ea5" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="212" y1="348" x2="212" y2="366" stroke="#2b5688" stroke-width="2" stroke-linecap="round"/>
+<line x1="258" y1="340" x2="258" y2="366" stroke="#2b5688" stroke-width="2" stroke-linecap="round"/>
+<line x1="300" y1="336" x2="300" y2="366" stroke="#2b5688" stroke-width="2" stroke-linecap="round"/>
+
+<!-- ===== CHILD 2: in a sleeping bag on the floor, SAME SIZE ===== -->
+<!-- floor -->
+<line x1="96" y1="446" x2="470" y2="446" stroke="#9aa7b5" stroke-width="5" stroke-linecap="round"/>
+<!-- pillow 2 -->
+<rect x="336" y="400" width="52" height="26" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<!-- sleeping bag -->
+<path d="M 372 438 L 462 438 Q 470 400 434 400 L 400 400 Q 366 400 372 438 Z" fill="#3fae5a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="414" y1="404" x2="414" y2="438" stroke="#2e8a44" stroke-width="2" stroke-linecap="round"/>
+<line x1="440" y1="404" x2="440" y2="438" stroke="#2e8a44" stroke-width="2" stroke-linecap="round"/>
+<!-- head 2 (same radius as head 1) -->
+<circle id="h2" data-fig="mc" cx="360" cy="413" r="24" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M 338 403 q 22 -16 44 -2" fill="none" stroke="#6b4a2b" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 348 415 q 6 5 12 0" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 370 415 q 6 5 12 0" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+</svg>

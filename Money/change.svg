@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2047) translate(-264.50 -268.00)">
+<!-- TOP: banknote paid/handed in, moving right -->
+<rect x="120.0" y="84.0" width="180.0" height="92.0" rx="10" fill="#5fae5a" stroke="#3c7a3a" stroke-width="5"/>
+<rect x="130.0" y="94.0" width="160.0" height="72.0" rx="6" fill="none" stroke="#3c7a3a" stroke-width="3"/>
+<circle cx="210.0" cy="130.0" r="30.0" fill="#cdeccb" stroke="#3c7a3a" stroke-width="3"/>
+<g fill="none" stroke="#3c7a3a" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"><path d="M 223.0 112.3 Q 223.0 104.0 214.1 104.0 Q 202.9 104.0 202.9 117.6 L 202.9 143.0"/><path d="M 195.2 148.3 L 228.9 148.3"/><path d="M 195.2 131.8 L 218.9 131.8"/></g>
+<!-- pay-in arrow: rightward, grey/neutral -->
+<line x1="404" y1="130" x2="384" y2="142" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="142" y1="236" x2="166" y2="244" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="318" y1="130" x2="404" y2="130" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="180" y1="216" x2="142" y2="236" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="404" y1="130" x2="384" y2="118" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="142" y1="236" x2="151" y2="212" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="318" y1="130" x2="404" y2="130" stroke="#5b6b78" stroke-width="14.5" stroke-linecap="round"/>
+<line x1="404" y1="130" x2="384" y2="118" stroke="#5b6b78" stroke-width="14.5" stroke-linecap="round"/>
+<line x1="404" y1="130" x2="384" y2="142" stroke="#5b6b78" stroke-width="14.5" stroke-linecap="round"/>
+<!-- RETURN arrow: big red, leftward = money given BACK -->
+<path d="M 408 244 Q 300 188 150 232" fill="none" stroke="#e0473c" stroke-width="15" stroke-linejoin="round"/>
+<line x1="180" y1="216" x2="142" y2="236" stroke="#e0473c" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="142" y1="236" x2="166" y2="244" stroke="#e0473c" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="142" y1="236" x2="151" y2="212" stroke="#e0473c" stroke-width="16.5" stroke-linecap="round"/>
+<!-- coins returned, falling toward the open hand -->
+<circle cx="300.0" cy="244.0" r="42.0" fill="#c98a0e"/>
+<circle cx="300.0" cy="244.0" r="37.0" fill="#f2b51e"/>
+<circle cx="300.0" cy="244.0" r="37.0" fill="none" stroke="#c98a0e" stroke-width="3"/>
+<g fill="none" stroke="#8a5e08" stroke-width="7.9" stroke-linecap="round" stroke-linejoin="round"><path d="M 316.0 222.5 Q 316.0 212.0 305.2 212.0 Q 291.5 212.0 291.5 228.6 L 291.5 259.0"/><path d="M 282.2 265.4 L 323.0 265.4"/><path d="M 282.2 245.3 L 311.0 245.3"/></g>
+<circle cx="226.0" cy="300.0" r="42.0" fill="#c98a0e"/>
+<circle cx="226.0" cy="300.0" r="37.0" fill="#f2b51e"/>
+<circle cx="226.0" cy="300.0" r="37.0" fill="none" stroke="#c98a0e" stroke-width="3"/>
+<g fill="none" stroke="#8a5e08" stroke-width="7.9" stroke-linecap="round" stroke-linejoin="round"><path d="M 242.0 278.5 Q 242.0 268.0 231.2 268.0 Q 217.5 268.0 217.5 284.6 L 217.5 315.0"/><path d="M 208.2 321.4 L 249.0 321.4"/><path d="M 208.2 301.3 L 237.0 301.3"/></g>
+<!-- OPEN UPTURNED HAND catching the change (bottom) -->
+<!-- four fingers -->
+<rect x="150.0" y="350.0" width="26.0" height="58.0" rx="13" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="182.0" y="344.0" width="26.0" height="64.0" rx="13" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="214.0" y="344.0" width="26.0" height="64.0" rx="13" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="246.0" y="350.0" width="26.0" height="58.0" rx="13" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<!-- thumb -->
+<rect x="120.0" y="384.0" width="56.0" height="26.0" rx="13" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" transform="rotate(-28 148 397)"/>
+<!-- palm -->
+<path d="M 132 392 Q 132 374 152 374 L 280 374 Q 300 374 300 396 L 300 420 Q 300 452 264 452 L 168 452 Q 132 452 132 420 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+</g></svg>

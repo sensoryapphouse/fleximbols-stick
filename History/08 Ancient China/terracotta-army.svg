@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -354.50)">
+<rect x="0.0" y="470.0" width="512.0" height="42.0" rx="0" fill="#d8c9a6" stroke="#1a1a1a" stroke-width="0"/>
+
+<!-- back warrior (center, slightly smaller, behind) -->
+<g fill="#bb8f63" stroke="#8a5836" stroke-width="3.2" stroke-linejoin="round">
+<path d="M 226 250 L 286 250 L 304 470 L 208 470 Z"/>
+<path d="M 226 256 Q 196 286 206 360 L 230 352 Z"/>
+<path d="M 286 256 Q 316 286 306 360 L 282 352 Z"/>
+</g>
+<g stroke="#8a5836" stroke-width="2.4" stroke-linecap="round">
+<line x1="240" y1="300" x2="236" y2="466"/>
+<line x1="256" y1="300" x2="256" y2="466"/>
+<line x1="272" y1="300" x2="276" y2="466"/>
+</g>
+<rect x="232.0" y="262.0" width="48.0" height="44.0" rx="2" fill="#a6794f" stroke="#8a5836" stroke-width="3"/>
+<g stroke="#8a5836" stroke-width="2" fill="none">
+<line x1="232" y1="277" x2="280" y2="277"/><line x1="232" y1="292" x2="280" y2="292"/>
+<line x1="248" y1="262" x2="248" y2="306"/><line x1="264" y1="262" x2="264" y2="306"/>
+</g>
+<circle cx="256.0" cy="216.0" r="32.0" fill="#bb8f63" stroke="#8a5836" stroke-width="3.2"/>
+<path d="M 256 200 Q 270 184 256 172 Q 246 184 256 200 Z" fill="#a6794f" stroke="#8a5836" stroke-width="3"/>
+<circle cx="247" cy="214" r="2.4" fill="#8a5836"/>
+<circle cx="265" cy="214" r="2.4" fill="#8a5836"/>
+<path d="M 247 230 Q 256 236 265 230" fill="none" stroke="#8a5836" stroke-width="2.4"/>
+
+<!-- front-left warrior -->
+<g fill="#caa07a" stroke="#a96e44" stroke-width="3.6" stroke-linejoin="round">
+<path d="M 96 286 L 168 286 L 188 478 L 76 478 Z"/>
+<path d="M 96 292 Q 60 326 72 408 L 100 398 Z"/>
+<path d="M 168 292 Q 204 326 192 408 L 164 398 Z"/>
+</g>
+<g stroke="#a96e44" stroke-width="2.7" stroke-linecap="round">
+<line x1="112" y1="340" x2="106" y2="474"/>
+<line x1="132" y1="340" x2="132" y2="474"/>
+<line x1="152" y1="340" x2="158" y2="474"/>
+</g>
+<rect x="100.0" y="300.0" width="64.0" height="52.0" rx="2" fill="#b07a4f" stroke="#a96e44" stroke-width="3.4"/>
+<g stroke="#a96e44" stroke-width="2.2" fill="none">
+<line x1="100" y1="317" x2="164" y2="317"/><line x1="100" y1="334" x2="164" y2="334"/>
+<line x1="121" y1="300" x2="121" y2="352"/><line x1="143" y1="300" x2="143" y2="352"/>
+</g>
+<circle cx="132.0" cy="248.0" r="38.0" fill="#caa07a" stroke="#a96e44" stroke-width="3.6"/>
+<path d="M 132 230 Q 148 210 132 196 Q 120 210 132 230 Z" fill="#b07a4f" stroke="#a96e44" stroke-width="3.4"/>
+<circle cx="122" cy="246" r="2.8" fill="#a96e44"/>
+<circle cx="142" cy="246" r="2.8" fill="#a96e44"/>
+<path d="M 121 264 Q 132 271 143 264" fill="none" stroke="#a96e44" stroke-width="2.7"/>
+
+<!-- front-right warrior -->
+<g fill="#caa07a" stroke="#a96e44" stroke-width="3.6" stroke-linejoin="round">
+<path d="M 344 286 L 416 286 L 436 478 L 324 478 Z"/>
+<path d="M 344 292 Q 308 326 320 408 L 348 398 Z"/>
+<path d="M 416 292 Q 452 326 440 408 L 412 398 Z"/>
+</g>
+<g stroke="#a96e44" stroke-width="2.7" stroke-linecap="round">
+<line x1="360" y1="340" x2="354" y2="474"/>
+<line x1="380" y1="340" x2="380" y2="474"/>
+<line x1="400" y1="340" x2="406" y2="474"/>
+</g>
+<rect x="348.0" y="300.0" width="64.0" height="52.0" rx="2" fill="#b07a4f" stroke="#a96e44" stroke-width="3.4"/>
+<g stroke="#a96e44" stroke-width="2.2" fill="none">
+<line x1="348" y1="317" x2="412" y2="317"/><line x1="348" y1="334" x2="412" y2="334"/>
+<line x1="369" y1="300" x2="369" y2="352"/><line x1="391" y1="300" x2="391" y2="352"/>
+</g>
+<circle cx="380.0" cy="248.0" r="38.0" fill="#caa07a" stroke="#a96e44" stroke-width="3.6"/>
+<path d="M 380 230 Q 396 210 380 196 Q 368 210 380 230 Z" fill="#b07a4f" stroke="#a96e44" stroke-width="3.4"/>
+<circle cx="370" cy="246" r="2.8" fill="#a96e44"/>
+<circle cx="390" cy="246" r="2.8" fill="#a96e44"/>
+<path d="M 369 264 Q 380 271 391 264" fill="none" stroke="#a96e44" stroke-width="2.7"/>
+</g></svg>

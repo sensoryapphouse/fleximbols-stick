@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- CLEARANCE sign at top -->
+  <rect x="25" y="15" width="240" height="34" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Store rack: horizontal bar on legs -->
+  <line x1="40" y1="80" x2="250" y2="80" stroke="#4d4d4d" stroke-width="11.85" stroke-linecap="round"/>
+  <line x1="55" y1="80" x2="55" y2="225" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="235" y1="80" x2="235" y2="225" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Feet -->
+  <line x1="40" y1="225" x2="70" y2="225" stroke="#4d4d4d" stroke-width="8.88" stroke-linecap="round"/>
+  <line x1="220" y1="225" x2="250" y2="225" stroke="#4d4d4d" stroke-width="8.88" stroke-linecap="round"/>
+
+  <!-- Hanger 1 + shirt -->
+  <path d="M 75 80 L 75 88 Q 75 92 80 92 L 100 92 Q 105 92 105 88 L 105 80" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 90 80 L 90 75 Q 90 70 95 70" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 72 92 L 108 92 L 116 110 L 105 110 L 105 165 L 75 165 L 75 110 L 64 110 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tag on shirt -->
+  <path d="M 82 130 L 96 130 L 100 142 L 86 142 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="84" y1="125" x2="80" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="85" y1="134" x2="93" y2="138" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Hanger 2 + shirt -->
+  <path d="M 130 80 L 130 88 Q 130 92 135 92 L 155 92 Q 160 92 160 88 L 160 80" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145 80 L 145 75 Q 145 70 150 70" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 127 92 L 163 92 L 171 110 L 160 110 L 160 170 L 130 170 L 130 110 L 119 110 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tag -->
+  <path d="M 137 132 L 151 132 L 155 144 L 141 144 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="139" y1="127" x2="135" y2="122" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="145" cy="138" r="2" fill="#000000"/>
+  <line x1="142" y1="141" x2="148" y2="134" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Hanger 3 + dress -->
+  <path d="M 185 80 L 185 88 Q 185 92 190 92 L 210 92 Q 215 92 215 88 L 215 80" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 200 80 L 200 75 Q 200 70 205 70" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 182 92 L 218 92 L 226 108 L 213 108 L 230 180 L 170 180 L 187 108 L 174 108 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tag -->
+  <path d="M 192 134 L 206 134 L 210 146 L 196 146 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="194" y1="129" x2="190" y2="124" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="195" y1="138" x2="207" y2="142" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- price tag with big % replacing CLEARANCE sign text -->
+  <rect x="50" y="22" width="180" height="42" rx="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- % symbol -->
+  <circle cx="100" cy="40" r="8" fill="none" stroke="#ffffff" stroke-width="5.93"/>
+  <circle cx="130" cy="40" r="8" fill="none" stroke="#ffffff" stroke-width="5.93"/>
+  <line x1="142" y1="25" x2="88" y2="55" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- price tag hole -->
+  <circle cx="217" cy="43" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

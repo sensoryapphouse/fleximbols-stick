@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"><g transform="translate(-127.89 -28.89) scale(1.1128)"><path d="M 177.2 452.0 L 151.0 471.0 L 141.6 466.1 L 135.0 453.0 L 127.5 424.0 L 130.3 410.4 L 142.5 394.6 L 168.8 379.2 L 184.7 377.9 L 200.7 398.7 L 200.7 419.9 L 177.2 452.0 Z M 377.0 74.9 L 366.7 81.7 L 355.4 76.2 L 352.6 65.8 L 367.6 45.9 L 374.2 41.0 L 379.8 45.0 L 383.5 50.5 L 384.5 58.6 L 377.0 74.9 Z" fill="#9ccb6a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" fill-rule="evenodd"/></g><rect x="310" y="357" width="188" height="141" fill="#ffffff"/><g transform="translate(310 357) scale(0.29375)">
+  <path fill="#12ad2b" d="M0 0h640v480H0z"/>
+  <path fill="#ffce00" d="M0 137.1h640V343H0z"/>
+  <path fill="#d21034" d="M0 0v480l240-240"/>
+  <g id="st-c" transform="translate(351.6 240)scale(.34286)">
+    <g id="st-b">
+      <path id="st-a" fill="#000001" d="M0-200V0h100" transform="rotate(18 0 -200)"/>
+      <use xlink:href="#st-a" width="100%" height="100%" transform="scale(-1 1)"/>
+    </g>
+    <use xlink:href="#st-b" width="100%" height="100%" transform="rotate(72)"/>
+    <use xlink:href="#st-b" width="100%" height="100%" transform="rotate(144)"/>
+    <use xlink:href="#st-b" width="100%" height="100%" transform="rotate(-144)"/>
+    <use xlink:href="#st-b" width="100%" height="100%" transform="rotate(-72)"/>
+  </g>
+  <use xlink:href="#st-c" width="100%" height="100%" x="700" transform="translate(-523.2)"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#000000" stroke-width="2"/>
+</g><rect x="310" y="357" width="188" height="141" fill="none" stroke="#1a1a1a" stroke-width="7"/></svg>

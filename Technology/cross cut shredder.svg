@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Waste bin (lower body) -->
+  <rect x="60" y="130" width="170" height="90" rx="8" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Bin texture lines -->
+  <line x1="95" y1="145" x2="95" y2="215" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="145" y1="145" x2="145" y2="215" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="195" y1="145" x2="195" y2="215" stroke="#b8b8b8" stroke-width="3.33"/>
+  <!-- Shredder head unit -->
+  <rect x="50" y="90" width="190" height="48" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Paper feed slot at top -->
+  <rect x="80" y="80" width="130" height="18" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Paper sheet going into slot -->
+  <rect x="100" y="48" width="90" height="40" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Lines on input paper -->
+  <line x1="110" y1="58" x2="180" y2="58" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="110" y1="66" x2="180" y2="66" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="110" y1="74" x2="180" y2="74" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- Arrow down into slot -->
+  <polygon points="141,83 149,83 145,92" fill="#000000"/>
+  <!-- Power button on shredder head (red to differentiate) -->
+  <circle cx="220" cy="110" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cross-cut confetti pieces tumbling out (small rectangles at various angles) -->
+  <rect x="82" y="142" width="14" height="8" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15, 89, 146)"/>
+  <rect x="100" y="148" width="12" height="7" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20, 106, 151)"/>
+  <rect x="117" y="140" width="13" height="8" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-8, 123, 144)"/>
+  <rect x="132" y="150" width="11" height="7" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30, 137, 153)"/>
+  <rect x="149" y="143" width="14" height="8" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-22, 156, 147)"/>
+  <rect x="164" y="149" width="12" height="7" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(12, 170, 152)"/>
+  <rect x="181" y="141" width="13" height="8" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10, 187, 145)"/>
+  <!-- Second row of confetti lower down -->
+  <rect x="87" y="163" width="11" height="7" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25, 92, 166)"/>
+  <rect x="108" y="168" width="13" height="8" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-18, 114, 172)"/>
+  <rect x="127" y="161" width="12" height="7" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(8, 133, 164)"/>
+  <rect x="146" y="167" width="14" height="8" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-28, 153, 171)"/>
+  <rect x="166" y="162" width="11" height="7" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(18, 171, 165)"/>
+  <rect x="183" y="168" width="13" height="8" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-5, 189, 172)"/>
+</g></svg>

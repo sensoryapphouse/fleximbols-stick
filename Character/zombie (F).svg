@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1553) translate(-259.00 -269.00)">
+<g transform="translate(45.9,122.0) scale(0.670)"><!-- zombie head -->
+  <path d="M70 200 Q70 90 165 90 Q260 90 260 210 Q260 320 200 360 L195 410 Q165 430 135 410 L130 360 Q70 320 70 200 Z" fill="#76bf6a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- stitches across forehead -->
+  <path d="M90 160 H245" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+  <g stroke="#1a1a1a" stroke-width="4">
+    <path d="M105 150 V170"/><path d="M125 150 V170"/><path d="M145 150 V170"/>
+    <path d="M165 150 V170"/><path d="M185 150 V170"/><path d="M205 150 V170"/><path d="M225 150 V170"/>
+  </g>
+  <!-- eyes -->
+  <circle cx="135" cy="225" r="26" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+  <circle cx="210" cy="225" r="26" fill="#fff" stroke="#1a1a1a" stroke-width="5"/>
+  <circle cx="135" cy="227" r="9" fill="#1a1a1a"/>
+  <circle cx="210" cy="227" r="9" fill="#1a1a1a"/>
+  <!-- stitched mouth -->
+  <path d="M110 305 H230" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+  <g stroke="#1a1a1a" stroke-width="4">
+    <path d="M125 295 L130 315"/><path d="M150 295 L155 315"/><path d="M175 295 L180 315"/><path d="M200 295 L205 315"/>
+  </g>
+  <!-- scar on cheek -->
+  <path d="M225 260 l18 22" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+  <path d="M228 264 l6 -3 M236 274 l6 -3" fill="none" stroke="#1a1a1a" stroke-width="3"/></g>
+<path d="M 338.0 197.0 L 398.0 197.0 L 398.0 287.0 L 424.0 389.0 L 312.0 389.0 L 338.0 287.0 Z" fill="#d6529e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="350" y1="389" x2="344" y2="455" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="386" y1="389" x2="392" y2="455" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<ellipse cx="344" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="392" cy="457" rx="13" ry="7" fill="#33373d"/>
+<line x1="338" y1="199" x2="318" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="398" y1="199" x2="418" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="368" y1="197" x2="368" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 321.0 184.0 L 321.0 128.0 Q 321.0 76.0 368 76.0 Q 415.0 76.0 415.0 128.0 L 415.0 184.0 L 402.0 184.0 L 402.0 130.0 Q 402.0 96.0 368 96.0 Q 334.0 96.0 334.0 130.0 L 334.0 184.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<circle id="h1" data-fig="fa" cx="368" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 330.0 96.0 Q 368 82.0 406.0 96.0 Q 368 92.0 330.0 96.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

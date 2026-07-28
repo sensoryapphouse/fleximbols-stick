@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Punk rock: mohawk head + safety pin + anarchy circle motif -->
+  <!-- Head/bust -->
+  <ellipse cx="110" cy="148" rx="38" ry="44" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Neck -->
+  <rect x="96" y="186" width="28" height="20" rx="4" ry="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mohawk (spiky, tall, colorful) -->
+  <polygon points="110,108 98,70 104,105" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="110,108 106,60 114,60 118,108" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="110,108 116,70 122,105" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Shaved sides (dark) -->
+  <path d="M72 148 Q72 118 88 108 Q96 104 104 106 Q96 115 96 148 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M148 148 Q148 118 132 108 Q124 104 116 106 Q124 115 124 148 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <ellipse cx="98" cy="150" rx="5" ry="6" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="122" cy="150" rx="5" ry="6" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Mouth (sneer) -->
+  <path d="M100 170 Q110 165 120 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Safety pin -->
+  <path d="M165 40 Q172 36 178 44 L190 95 Q192 102 186 106 Q180 110 175 104 L174 98 Q182 96 180 90 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="172" cy="102" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="176" cy="40" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Anarchy circle (circle with A stroke) -->
+  <circle cx="230" cy="148" r="42" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- A shape inside -->
+  <line x1="230" y1="108" x2="210" y2="180" stroke="#f8130d" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="230" y1="108" x2="250" y2="180" stroke="#f8130d" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="216" y1="155" x2="244" y2="155" stroke="#f8130d" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Torn circle cross-hatch suggest -->
+  <path d="M192 125 Q196 118 200 125" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M260 125 Q264 118 268 125" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

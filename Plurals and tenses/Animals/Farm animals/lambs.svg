@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- lamb: fluffy white wool body with scalloped edge, dark face & legs -->
+<!-- legs -->
+<g stroke="#1a1a1a" stroke-width="19" stroke-linecap="round">
+<line x1="214" y1="332" x2="210" y2="406"/>
+<line x1="262" y1="338" x2="262" y2="408"/>
+<line x1="304" y1="338" x2="308" y2="408"/>
+</g>
+<!-- woolly body: ring of bumps -->
+<g fill="#ffffff" stroke="#1a1a1a" stroke-width="8">
+<circle cx="180" cy="288" r="36"/>
+<circle cx="196" cy="238" r="36"/>
+<circle cx="240" cy="214" r="40"/>
+<circle cx="290" cy="222" r="38"/>
+<circle cx="262" cy="320" r="36"/>
+<circle cx="206" cy="322" r="34"/>
+<circle cx="306" cy="312" r="34"/>
+<circle cx="316" cy="262" r="36"/>
+</g>
+<!-- body centre (covers inner seams) -->
+<ellipse cx="248" cy="272" rx="78" ry="62" fill="#ffffff" stroke="none"/>
+<!-- head -->
+<ellipse cx="356" cy="244" rx="44" ry="48" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ears -->
+<ellipse cx="320" cy="240" rx="20" ry="11" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="6" transform="rotate(-25 320 240)"/>
+<ellipse cx="392" cy="240" rx="20" ry="11" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="6" transform="rotate(25 392 240)"/>
+<!-- woolly tuft on forehead -->
+<circle cx="356" cy="206" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<!-- eyes -->
+<circle cx="342" cy="246" r="7" fill="#ffffff"/>
+<circle cx="370" cy="246" r="7" fill="#ffffff"/>
+<!-- nose -->
+<ellipse cx="356" cy="272" rx="9" ry="7" fill="#ffffff"/>
+<!-- tail tuft -->
+<circle cx="152" cy="262" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg281" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg281)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

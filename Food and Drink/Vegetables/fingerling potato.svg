@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- fingerling potato: small elongated finger-shape with smooth skin (two displayed for clarity) -->
+  <!-- main large fingerling, slightly curved -->
+  <path d="M40 130
+           C40 110 70 92 120 88
+           C170 84 220 96 246 112
+           C260 120 260 140 246 148
+           C220 162 170 168 120 164
+           C70 160 40 150 40 130 Z"
+        fill="#eed5b6" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- smooth highlight -->
+  <path d="M60 110 C100 100 160 100 200 110 C160 116 100 116 60 118 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- subtle skin marks (smooth, sparse) -->
+  <path d="M80 130 q6 -3 12 0" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M140 132 q6 -3 12 0" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M200 132 q6 -3 12 0" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- light eye-spots -->
+  <circle cx="90" cy="140" r="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="150" cy="142" r="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="210" cy="138" r="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- second smaller fingerling below to reinforce finger shape -->
+  <path d="M70 195
+           C70 184 96 174 134 172
+           C172 170 208 178 226 186
+           C236 192 236 204 226 208
+           C208 216 172 218 134 216
+           C96 214 70 206 70 195 Z"
+        fill="#eed5b6" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M88 186 C120 180 180 180 210 186 C180 190 120 190 88 192 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="110" cy="196" r="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="160" cy="196" r="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="200" cy="196" r="2.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

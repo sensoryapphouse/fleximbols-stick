@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="65.59 48.52 385.94 385.94"><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a sparkling cut diamond/gem = gorgeous -->
+<g transform="translate(256 250)">
+<!-- crown facets -->
+<polygon points="-120,-30 -70,-90 70,-90 120,-30" fill="#7fd8ec" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pavilion (point) -->
+<polygon points="-120,-30 120,-30 0,140" fill="#46b9d6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- table top -->
+<polygon points="-70,-90 70,-90 120,-30 -120,-30" fill="#a8e8f6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" opacity="0"/>
+<!-- internal facet lines -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" fill="none">
+<line x1="-70" y1="-90" x2="-44" y2="-30"/>
+<line x1="70" y1="-90" x2="44" y2="-30"/>
+<line x1="-44" y1="-30" x2="44" y2="-30"/>
+<line x1="-44" y1="-30" x2="0" y2="140"/>
+<line x1="44" y1="-30" x2="0" y2="140"/>
+<line x1="-120" y1="-30" x2="-44" y2="-30"/>
+<line x1="120" y1="-30" x2="44" y2="-30"/>
+</g>
+<!-- highlight -->
+<polygon points="-58,-78 -16,-78 -34,-36 -64,-36" fill="#d6f6ff" stroke-width="0"/>
+</g>
+<!-- sparkles -->
+<g fill="#ffd23f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+<polygon points="118,90 125,110 145,117 125,124 118,144 111,124 91,117 111,110"/>
+<polygon points="402,110 408,128 426,134 408,140 402,158 396,140 378,134 396,128"/>
+<polygon points="396,300 402,316 418,322 402,328 396,344 390,328 374,322 390,316"/>
+</g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="112.37 121.76 374.30 374.30">
+<!-- FROZEN: ice block encasing + snowflake + blue thermometer (bottomed out) -->
+<!-- ice cube block (3D) -->
+<polygon points="140 210 290 210 350 160 200 160" fill="#cdeafb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="290 210 350 160 350 330 290 380" fill="#9ad4f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="140" y="210" width="150" height="170" fill="#bfe6fb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- snowflake centred on front face -->
+<g stroke="#3aa6d6" stroke-linecap="round" fill="none">
+<line x1="172" y1="295" x2="258" y2="295" stroke-width="9"/>
+<line x1="194" y1="258" x2="236" y2="332" stroke-width="9"/>
+<line x1="236" y1="258" x2="194" y2="332" stroke-width="9"/>
+<g stroke-width="6">
+<line x1="240" y1="295" x2="252" y2="285"/>
+<line x1="240" y1="295" x2="252" y2="305"/>
+<line x1="190" y1="295" x2="178" y2="285"/>
+<line x1="190" y1="295" x2="178" y2="305"/>
+<line x1="225" y1="316" x2="231" y2="328"/>
+<line x1="225" y1="316" x2="237" y2="322"/>
+<line x1="205" y1="274" x2="199" y2="262"/>
+<line x1="205" y1="274" x2="193" y2="268"/>
+<line x1="205" y1="316" x2="199" y2="328"/>
+<line x1="205" y1="316" x2="193" y2="322"/>
+<line x1="225" y1="274" x2="231" y2="262"/>
+<line x1="225" y1="274" x2="237" y2="268"/>
+</g>
+</g>
+<!-- cold thermometer (blue, bottomed out) at right -->
+<rect x="416" y="246" width="30" height="180" rx="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="431" cy="430" r="28" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="422" y="398" width="18" height="36" rx="9" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

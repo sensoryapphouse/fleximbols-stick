@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Room panel -->
+  <rect x="26" y="32" width="238" height="176" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- TOILET -->
+  <!-- Tank -->
+  <rect x="36" y="50" width="52" height="34" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bowl (top) -->
+  <ellipse cx="62" cy="100" rx="28" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Bowl (body) -->
+  <rect x="42" y="84" width="40" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Seat -->
+  <path d="M38,88 Q62,74 86,88" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- SINK -->
+  <!-- Pedestal -->
+  <rect x="116" y="148" width="24" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Basin -->
+  <path d="M100,132 L100,158 Q128,170 156,158 L156,132 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Faucet -->
+  <rect x="120" y="122" width="16" height="12" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="128" y1="122" x2="128" y2="132" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hot/cold handles -->
+  <rect x="104" y="126" width="12" height="6" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="140" y="126" width="12" height="6" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- BATH (combined bath/shower) -->
+  <!-- Tub outer -->
+  <rect x="166" y="50" width="90" height="148" rx="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tub inner basin -->
+  <rect x="176" y="60" width="70" height="128" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tub water fill tint -->
+  <rect x="178" y="130" width="66" height="56" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Shower head -->
+  <circle cx="220" cy="70" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="220" y1="60" x2="220" y2="50" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Shower drops -->
+  <line x1="212" y1="76" x2="210" y2="86" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="220" y1="78" x2="220" y2="88" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="228" y1="76" x2="230" y2="86" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Tub taps -->
+  <rect x="198" y="122" width="10" height="8" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="232" y="122" width="10" height="8" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="212" y="124" width="16" height="6" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

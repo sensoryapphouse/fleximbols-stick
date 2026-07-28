@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cluster of multiple small islands scattered in the sea -->
+  <!-- sea backdrop (not full canvas) -->
+  <rect x="26" y="32" width="238" height="176" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.22"/>
+
+  <!-- wave lines -->
+  <path d="M 20 50 Q 35 45 50 50 Q 65 55 80 50" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 200 40 Q 215 35 230 40 Q 245 45 260 40" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 25 215 Q 40 210 55 215 Q 70 220 85 215" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 200 215 Q 215 210 230 215 Q 245 220 260 215" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 110 215 Q 125 210 140 215 Q 155 220 170 215" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- ISLAND 1 (top-left, larger) -->
+  <ellipse cx="70" cy="85" rx="38" ry="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="70" cy="80" rx="28" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- palm -->
+  <rect x="68" y="65" width="4" height="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M 70 65 Q 60 58 55 62 M 70 65 Q 80 58 85 62 M 70 65 Q 65 55 62 50 M 70 65 Q 75 55 78 50" fill="none" stroke="#137827" stroke-width="5.33" stroke-linecap="round"/>
+
+  <!-- ISLAND 2 (top-right, medium) -->
+  <ellipse cx="200" cy="100" rx="32" ry="15" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="200" cy="96" rx="22" ry="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="198" y="83" width="4" height="13" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M 200 83 Q 190 78 186 82 M 200 83 Q 210 78 214 82 M 200 83 Q 196 73 194 68" fill="none" stroke="#137827" stroke-width="5.33" stroke-linecap="round"/>
+
+  <!-- ISLAND 3 (center, small) -->
+  <ellipse cx="140" cy="140" rx="20" ry="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="140" cy="137" rx="13" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- ISLAND 4 (bottom-left, medium) -->
+  <ellipse cx="65" cy="170" rx="28" ry="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="65" cy="166" rx="20" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="63" y="155" width="4" height="11" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M 65 155 Q 55 150 51 154 M 65 155 Q 75 150 79 154" fill="none" stroke="#137827" stroke-width="5.33" stroke-linecap="round"/>
+
+  <!-- ISLAND 5 (bottom-right, larger) -->
+  <ellipse cx="215" cy="175" rx="40" ry="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="215" cy="170" rx="30" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="213" y="155" width="4" height="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M 215 155 Q 205 148 200 152 M 215 155 Q 225 148 230 152 M 215 155 Q 210 145 208 140" fill="none" stroke="#137827" stroke-width="5.33" stroke-linecap="round"/>
+
+  <!-- ISLAND 6 (tiny dot) -->
+  <ellipse cx="155" cy="195" rx="12" ry="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="155" cy="193" rx="7" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- ISLAND 7 (tiny dot top center) -->
+  <ellipse cx="135" cy="55" rx="14" ry="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="135" cy="53" rx="8" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

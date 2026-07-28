@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- left rim plateau with viewing platform -->
+  <path d="M10 50 L10 230 L100 230 L100 130 L115 120 L105 50 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- right rim plateau -->
+  <path d="M280 50 L280 230 L190 230 L190 130 L175 120 L185 50 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- left layered cliff bands -->
+  <path d="M10 84 L105 84 L105 100 L10 100 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M10 124 L100 124 L100 140 L10 140 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M10 162 L100 162 L100 178 L10 178 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M10 196 L100 196 L100 210 L10 210 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right layered cliff bands -->
+  <path d="M185 84 L280 84 L280 100 L185 100 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M190 124 L280 124 L280 140 L190 140 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M190 162 L280 162 L280 178 L190 178 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M190 196 L280 196 L280 210 L190 210 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- canyon floor river -->
+  <path d="M100 222 Q130 214 145 222 Q160 230 190 220 L190 230 L100 230 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- river highlight -->
+  <path d="M108 224 Q130 218 150 224 Q170 228 184 222" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- modern glass viewing platform (Skywalk) on left rim, U-shaped -->
+  <path d="M60 50 L60 38 L130 38 Q130 60 130 70 Q130 78 122 78 L70 78 Q60 78 60 70 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- platform glass dividers -->
+  <path d="M75 38 L75 78 M90 38 L90 78 M105 38 L105 78 M120 38 L120 78" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <!-- platform supports/cables -->
+  <path d="M70 78 L65 105 M125 78 L130 110" stroke="#4d4d4d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- platform railings -->
+  <path d="M60 38 L130 38" stroke="#4d4d4d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- viewing figure on platform -->
+  <circle cx="95" cy="28" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="91" y="32" width="8" height="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M91 36 L86 42 M99 36 L104 42" stroke="#eed5b6" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- sign post on right rim -->
+  <path d="M230 50 L230 30" stroke="#4d4d4d" stroke-width="6.67" stroke-linecap="round"/>
+  <rect x="220" y="14" width="34" height="14" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

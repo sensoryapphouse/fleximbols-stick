@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Card spine shadow -->
+  <rect x="55" y="40" width="180" height="170" fill="#f266aa" stroke="#1a1a1a" stroke-width="10.67" stroke-linejoin="round"/>
+  <!-- Card front panel (folded card) -->
+  <rect x="65" y="50" width="170" height="160" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="14.23" stroke-linejoin="round"/>
+  <!-- Fold line -->
+  <line x1="65" y1="130" x2="235" y2="130" stroke="#1a1a1a" stroke-width="7.11" stroke-dasharray="4 3"/>
+
+  <!-- HAPPY BIRTHDAY banner area -->
+  <rect x="80" y="62" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- HAPPY (as paths - simplified rectangles to suggest text) -->
+  <rect x="85" y="68" width="5" height="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="92" y="68" width="5" height="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="99" y="68" width="5" height="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="106" y="68" width="5" height="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="113" y="68" width="5" height="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- BIRTHDAY -->
+  <rect x="125" y="68" width="5" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="132" y="68" width="5" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="139" y="68" width="5" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="146" y="68" width="5" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="153" y="68" width="5" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="160" y="68" width="5" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="167" y="68" width="5" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="174" y="68" width="5" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- Cake on plate -->
+  <ellipse cx="130" cy="190" rx="42" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- Cake bottom tier -->
+  <rect x="95" y="155" width="70" height="32" fill="#eed5b6" stroke="#1a1a1a" stroke-width="10.67" stroke-linejoin="round"/>
+  <!-- Icing drips -->
+  <path d="M 95 158 Q 100 168 105 158 Q 110 168 115 158 Q 120 168 125 158 Q 130 168 135 158 Q 140 168 145 158 Q 150 168 155 158 Q 160 168 165 158" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Candle -->
+  <rect x="127" y="135" width="6" height="22" fill="#fff200" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- Flame -->
+  <path d="M 130 125 Q 125 130 130 135 Q 135 130 130 125 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+
+  <!-- Balloon -->
+  <ellipse cx="205" cy="115" rx="22" ry="28" fill="#d01424" stroke="#1a1a1a" stroke-width="10.67"/>
+  <path d="M 205 143 L 202 148 L 208 148 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <path d="M 205 148 Q 200 170 210 195" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Balloon highlight -->
+  <ellipse cx="197" cy="105" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+</g></svg>

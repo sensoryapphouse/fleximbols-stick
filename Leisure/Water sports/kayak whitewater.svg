@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Churning whitewater background -->
+  <rect x="0" y="162" width="290" height="78" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Whitewater foam/rapids - multiple white/light patches -->
+  <ellipse cx="40" cy="185" rx="35" ry="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="110" cy="195" rx="28" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="175" cy="188" rx="32" ry="13" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="248" cy="198" rx="30" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="70" cy="208" rx="22" ry="9" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="205" cy="215" rx="25" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Rocks in rapids -->
+  <ellipse cx="25" cy="200" rx="16" ry="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="260" cy="185" rx="18" ry="13" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="215" rx="14" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Short stubby whitewater kayak hull - very rounded, short -->
+  <path d="M55 180 Q70 160 90 154 Q115 146 145 145 Q175 146 200 154 Q220 160 235 180 Q218 195 200 198 Q175 204 145 204 Q115 204 90 198 Q72 195 55 180 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Deck -->
+  <path d="M60 180 Q78 166 95 162 Q118 154 145 153 Q172 154 195 162 Q212 166 230 180 Q212 174 195 172 Q172 166 145 165 Q118 166 95 172 Q78 174 60 180 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Small cockpit (play boat has smaller cockpit than rec) -->
+  <ellipse cx="145" cy="170" rx="36" ry="10" fill="#000000" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="145" cy="170" rx="28" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Spray skirt suggestion -->
+  <ellipse cx="145" cy="168" rx="36" ry="10" fill="none" stroke="#f7de58" stroke-width="4.45"/>
+  <!-- Double-bladed paddle - short, angled aggressively -->
+  <line x1="52" y1="138" x2="238" y2="138" stroke="#9d7246" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Left blade - asymmetric whitewater blade -->
+  <path d="M52 138 Q38 126 32 110 Q42 105 54 116 Q64 126 58 138 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right blade -->
+  <path d="M238 138 Q252 126 258 110 Q248 105 236 116 Q226 126 232 138 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Splash from bow hitting water -->
+  <path d="M55 180 Q45 168 38 172 Q44 180 55 182" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M55 178 Q42 164 32 168" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

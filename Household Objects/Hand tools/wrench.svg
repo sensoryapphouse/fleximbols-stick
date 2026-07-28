@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="rotate(45 256 256)">
+<!-- shaft -->
+<rect x="228" y="150" width="56" height="214" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top OPEN-END jaw: bold C / two prongs with a gap -->
+<path d="M 184 158 L 184 110 Q 184 96 198 96 L 226 96 Q 238 96 238 108 L 238 138 L 274 138 L 274 108 Q 274 96 286 96 L 314 96 Q 328 96 328 110 L 328 158 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bottom CLOSED ring (hex socket) -->
+<circle cx="256" cy="382" r="50" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9"/>
+<polygon points="256 356 278 369 278 395 256 408 234 395 234 369" fill="#fff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</g>
+</svg>

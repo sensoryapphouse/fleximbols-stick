@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- calendar back -->
+  <rect x="35" y="35" width="200" height="180" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.47"/>
+  <rect x="35" y="35" width="200" height="32" rx="8" ry="8" fill="#d01424" stroke="#1a1a1a" stroke-width="6.47"/>
+  <rect x="35" y="55" width="200" height="12" fill="#d01424" stroke="#1a1a1a" stroke-width="0.00"/>
+  <line x1="35" y1="67" x2="235" y2="67" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- binding rings -->
+  <rect x="60" y="22" width="8" height="24" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.04"/>
+  <rect x="202" y="22" width="8" height="24" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.04"/>
+  <!-- STREAK label as path strokes on header -->
+  <path d="M195 60 Q188 55 192 48 Q193 53 196 51 Q194 45 200 42 Q199 48 203 50 Q207 53 205 58 Q203 62 199 62 Q195 62 195 60 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <path d="M198 58 Q196 55 198 52 Q199 55 201 54 Q201 57 199 58 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.42" stroke-linejoin="round"/>
+  <!-- grid lines -->
+  <line x1="63" y1="67" x2="63" y2="215" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="92" y1="67" x2="92" y2="215" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="121" y1="67" x2="121" y2="215" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="150" y1="67" x2="150" y2="215" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="179" y1="67" x2="179" y2="215" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="208" y1="67" x2="208" y2="215" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="35" y1="104" x2="235" y2="104" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="35" y1="141" x2="235" y2="141" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="35" y1="178" x2="235" y2="178" stroke="#1a1a1a" stroke-width="3.23"/>
+  <!-- checkmarks on streak days (row 1: 3 days) -->
+  <path d="M68 80 L74 88 L86 73" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M97 80 L103 88 L115 73" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M126 80 L132 88 L144 73" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- row 2: 4 days -->
+  <path d="M39 117 L45 125 L57 110" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M68 117 L74 125 L86 110" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M97 117 L103 125 L115 110" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M126 117 L132 125 L144 110" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- row 3: 3 days -->
+  <path d="M39 154 L45 162 L57 147" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M68 154 L74 162 L86 147" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M97 154 L103 162 L115 147" stroke="#529929" stroke-width="5.66" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- big flame on bottom-right cell indicating active streak day -->
+  <path d="M193 195 Q183 188 187 175 Q190 183 194 180 Q190 168 202 162 Q200 173 207 175 Q215 178 213 188 Q210 200 200 200 Q193 200 193 195 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <path d="M197 194 Q193 188 197 182 Q199 187 203 185 Q204 191 200 194 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.23" stroke-linejoin="round"/>
+  <!-- flame icon (replaces STREAK text) -->
+  <path d="M58 80 Q50 65 58 52 Q62 42 58 32 Q72 42 68 58 Q80 44 76 30 Q88 42 85 58 Q92 50 90 40 Q100 52 96 68 Q100 60 98 50 Q110 62 106 80 Q104 94 92 100 Q76 106 62 98 Q50 90 58 80 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <path d="M72 72 Q66 64 72 56 Q76 64 72 72 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.42" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Patio table beneath umbrella -->
+  <ellipse cx="145" cy="195" rx="72" ry="18" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.11"/>
+  <line x1="125" y1="204" x2="120" y2="228" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <line x1="165" y1="204" x2="170" y2="228" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Umbrella pole -->
+  <line x1="145" y1="28" x2="145" y2="210" stroke="#7d5e23" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- Umbrella canopy -->
+  <path d="M145 32 Q80 50 42 95 Q90 75 145 80 Q200 75 248 95 Q210 50 145 32Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- Canopy ribs -->
+  <line x1="145" y1="32" x2="42" y2="95" stroke="#d01424" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="32" x2="83" y2="78" stroke="#d01424" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="32" x2="118" y2="76" stroke="#d01424" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="32" x2="145" y2="80" stroke="#d01424" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="32" x2="172" y2="76" stroke="#d01424" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="32" x2="207" y2="78" stroke="#d01424" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="32" x2="248" y2="95" stroke="#d01424" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Canopy scallop edge -->
+  <path d="M42 95 Q56 106 70 95 Q84 106 98 95 Q112 106 126 95 Q140 106 154 95 Q168 106 182 95 Q196 106 210 95 Q224 106 238 95 Q243 100 248 95" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Finial on top -->
+  <circle cx="145" cy="28" r="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.34"/>
+</g></svg>

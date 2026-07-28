@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1733) translate(-237.00 -281.00)">
+<g transform="translate(9.3,42.7) scale(0.967)"><!-- Baby monitor: handheld parent unit with screen + camera, left region -->
+  <!-- parent handheld unit -->
+  <rect x="40" y="120" width="180" height="260" rx="18" fill="#333333" stroke="#1a1a1a" stroke-width="5" />
+  <!-- screen showing crib/blanket -->
+  <rect x="54" y="138" width="152" height="140" rx="8" fill="#44aaff" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="54" y="138" width="152" height="140" rx="8" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <!-- simple crib/blanket on screen -->
+  <rect x="78" y="220" width="104" height="42" rx="6" fill="#ff9933" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="78" y1="200" x2="78" y2="262" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="104" y1="200" x2="104" y2="262" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="156" y1="200" x2="156" y2="262" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="182" y1="200" x2="182" y2="262" stroke="#1a1a1a" stroke-width="3" />
+  <!-- indicator lights -->
+  <circle cx="86" cy="312" r="12" fill="#ff4444" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="130" cy="312" r="12" fill="#44cc44" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="174" cy="312" r="12" fill="#ffdd00" stroke="#1a1a1a" stroke-width="3" />
+  <!-- speaker grille -->
+  <line x1="70" y1="345" x2="190" y2="345" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="70" y1="355" x2="190" y2="355" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="70" y1="365" x2="190" y2="365" stroke="#1a1a1a" stroke-width="3" />
+  <!-- antenna -->
+  <line x1="200" y1="125" x2="218" y2="80" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" /></g>
+<line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#33373d"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#33373d"/>
+<line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffcf33" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#5a3a1f" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

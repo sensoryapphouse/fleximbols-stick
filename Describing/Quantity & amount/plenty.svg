@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="104.73 143.13 302.55 302.55">
+<!-- PLENTY: a bowl overflowing with balls -->
+<!-- balls heaped above & spilling over the rim (drawn first so bowl overlaps lower halves) -->
+<circle cx="200" cy="232" r="32" fill="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="312" cy="232" r="32" fill="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="208" r="32" fill="#5b9bd5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="158" cy="270" r="30" fill="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="354" cy="270" r="30" fill="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="216" cy="286" r="30" fill="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="296" cy="286" r="30" fill="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="300" r="30" fill="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<!-- bowl -->
+<path d="M 128 296 L 384 296 A 128 110 0 0 1 128 296 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- rim highlight -->
+<line x1="128" y1="296" x2="384" y2="296" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- base -->
+<path d="M 224 405 Q 256 420 288 405" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

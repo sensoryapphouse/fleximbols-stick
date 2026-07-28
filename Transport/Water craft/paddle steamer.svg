@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Water band -->
+  <rect x="0" y="182" width="290" height="58" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M0 186 Q36 180 72 186 Q108 192 144 186 Q180 180 216 186 Q252 192 290 186" fill="none" stroke="#dff3fd" stroke-width="2.96"/>
+  <!-- Hull -->
+  <path d="M10 182 L14 168 L230 168 L234 182 Q160 198 120 198 Q55 198 10 182 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Hull deck -->
+  <rect x="14" y="160" width="220" height="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lower deck open -->
+  <rect x="18" y="138" width="180" height="23" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Lower deck posts -->
+  <line x1="50" y1="138" x2="50" y2="161" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="85" y1="138" x2="85" y2="161" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="120" y1="138" x2="120" y2="161" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="155" y1="138" x2="155" y2="161" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="190" y1="138" x2="190" y2="161" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Upper deck -->
+  <rect x="28" y="116" width="160" height="23" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="60" y1="116" x2="60" y2="139" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="95" y1="116" x2="95" y2="139" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="130" y1="116" x2="130" y2="139" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="165" y1="116" x2="165" y2="139" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Wheelhouse -->
+  <rect x="80" y="94" width="65" height="23" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="87" y="99" width="13" height="13" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="107" y="99" width="13" height="13" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="127" y="99" width="12" height="13" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Twin tall smokestacks -->
+  <rect x="65" y="58" width="15" height="38" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="61" y="54" width="23" height="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="95" y="62" width="15" height="34" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="91" y="58" width="23" height="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Smoke -->
+  <circle cx="70" cy="44" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="80" cy="38" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="100" cy="48" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- PADDLE WHEEL at stern (right side) -->
+  <!-- Wheel housing/shroud -->
+  <path d="M228 150 Q258 150 262 166 L228 168 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Paddle wheel hub -->
+  <circle cx="240" cy="176" r="32" fill="none" stroke="#f8130d" stroke-width="7.40"/>
+  <circle cx="240" cy="176" r="8" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Paddle wheel spokes and blades -->
+  <line x1="240" y1="176" x2="240" y2="144" stroke="#d01424" stroke-width="5.93"/>
+  <rect x="233" y="140" width="14" height="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="176" x2="240" y2="208" stroke="#d01424" stroke-width="5.93"/>
+  <rect x="233" y="204" width="14" height="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="176" x2="208" y2="176" stroke="#d01424" stroke-width="5.93"/>
+  <rect x="204" y="169" width="8" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="176" x2="272" y2="176" stroke="#d01424" stroke-width="5.93"/>
+  <rect x="268" y="169" width="8" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="176" x2="217" y2="153" stroke="#d01424" stroke-width="5.93"/>
+  <rect x="210" y="146" width="10" height="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="176" x2="263" y2="153" stroke="#d01424" stroke-width="5.93"/>
+  <rect x="260" y="146" width="10" height="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="176" x2="217" y2="199" stroke="#d01424" stroke-width="5.93"/>
+  <rect x="210" y="196" width="10" height="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="176" x2="263" y2="199" stroke="#d01424" stroke-width="5.93"/>
+  <rect x="260" y="196" width="10" height="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

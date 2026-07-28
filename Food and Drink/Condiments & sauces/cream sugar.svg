@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- stand mixer base -->
+  <path d="M30 200 Q30 175 60 175 L150 175 Q180 175 180 200 L180 215 Q180 220 175 220 L35 220 Q30 220 30 215 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
+  <rect x="155" y="40" width="32" height="140" fill="#efefef" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
+  <!-- mixer head -->
+  <path d="M50 40 Q50 30 60 30 L185 30 Q195 30 195 40 L195 68 Q195 78 185 78 L60 78 Q50 78 50 68 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
+  <!-- paddle shaft -->
+  <rect x="90" y="78" width="14" height="32" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- paddle attachment -->
+  <path d="M75 110 L119 110 L110 158 Q97 168 84 158 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
+  <line x1="90" y1="120" x2="90" y2="155" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <line x1="104" y1="120" x2="104" y2="155" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- bowl -->
+  <path d="M45 135 Q45 198 97 203 Q150 198 150 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
+  <ellipse cx="97" cy="135" rx="52" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65"/>
+  <!-- butter chunks (yellow) -->
+  <path d="M58 160 Q65 150 80 152 L82 165 Q72 172 60 168 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <path d="M115 165 Q125 158 138 162 L135 175 Q122 180 113 175 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <!-- fluffy creamed mixture (white pile, sugar+butter) -->
+  <path d="M55 170 Q70 152 92 158 Q115 148 135 162 Q145 162 142 180 Q130 195 97 195 Q65 195 55 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- sugar crystal dots on top -->
+  <circle cx="80" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <circle cx="100" cy="165" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <circle cx="120" cy="172" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <circle cx="90" cy="180" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <circle cx="110" cy="183" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <!-- sugar bowl on side -->
+  <path d="M210 175 L210 215 Q210 220 215 220 L265 220 Q270 220 270 215 L270 175 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <ellipse cx="240" cy="175" rx="30" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- sugar mound above bowl -->
+  <path d="M215 175 Q225 162 240 165 Q255 162 265 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <circle cx="228" cy="170" r="1.5" fill="#000000"/>
+  <circle cx="240" cy="167" r="1.5" fill="#000000"/>
+  <circle cx="252" cy="170" r="1.5" fill="#000000"/>
+</g></svg>

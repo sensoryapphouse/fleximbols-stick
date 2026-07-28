@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shield background -->
+  <path d="M145 15 L235 45 L235 130 Q235 185 145 225 Q55 185 55 130 L55 45 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <path d="M145 27 L223 53 L223 130 Q223 178 145 212 Q67 178 67 130 L67 53 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- BRAIN (focal, top center) -->
+  <path d="M115 60 Q105 55 100 65 Q90 65 90 78 Q82 82 88 92 Q82 100 92 108 Q92 118 105 120 Q115 128 130 122 L130 60 Q122 56 115 60 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M175 60 Q185 55 190 65 Q200 65 200 78 Q208 82 202 92 Q208 100 198 108 Q198 118 185 120 Q175 128 160 122 L160 60 Q168 56 175 60 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <line x1="145" y1="58" x2="145" y2="125" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- brain wrinkles -->
+  <path d="M110 75 Q118 80 110 88 M118 95 Q126 100 118 108 M180 75 Q172 80 180 88 M172 95 Q164 100 172 108" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- book (left bottom) -->
+  <path d="M75 150 L75 185 L108 185 L108 150 Q92 145 75 150 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="91" y1="150" x2="91" y2="185" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- film/code panel (center bottom) -->
+  <rect x="118" y="150" width="50" height="35" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M126 160 L132 165 L126 170 M138 170 L150 170 M158 160 L152 165 L158 170" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- (C) symbol (right bottom) -->
+  <circle cx="195" cy="167" r="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M204 158 Q198 153 192 158 Q185 167 192 176 Q198 181 204 176" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

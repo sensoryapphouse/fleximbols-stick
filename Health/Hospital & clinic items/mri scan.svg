@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- machine outer shell (large rounded rectangle) -->
+  <rect x="40" y="50" width="210" height="140" rx="20" ry="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- inner tunnel (dark circular opening) -->
+  <ellipse cx="145" cy="120" rx="68" ry="48" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- magnet rings (inside tunnel rim) -->
+  <ellipse cx="145" cy="120" rx="58" ry="40" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <ellipse cx="145" cy="120" rx="48" ry="32" fill="none" stroke="#2a4ec0" stroke-width="4.45"/>
+  <!-- side ring band -->
+  <rect x="40" y="100" width="210" height="14" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bed (sliding into tunnel) -->
+  <rect x="80" y="160" width="180" height="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bed support legs -->
+  <rect x="230" y="174" width="6" height="30" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="174" width="6" height="30" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- patient on bed (full body simplified - lying) -->
+  <!-- head -->
+  <circle cx="220" cy="150" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- body (covered) -->
+  <rect x="100" y="140" width="110" height="20" rx="6" ry="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- feet -->
+  <rect x="92" y="142" width="14" height="16" rx="3" ry="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- control panel light -->
+  <circle cx="62" cy="70" r="6" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="78" cy="70" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- M letter shape on machine (drawn as path) -->
+  <path d="M222 70 L222 90 L230 80 L238 90 L238 70" fill="none" stroke="#1d0e82" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

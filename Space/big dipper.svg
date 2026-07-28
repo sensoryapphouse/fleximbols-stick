@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dark night sky -->
+  <rect x="26" y="20" width="238" height="200" rx="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Faint background stars -->
+  <circle cx="42" cy="38" r="2" fill="#90a7d6" stroke="none"/>
+  <circle cx="258" cy="48" r="2" fill="#90a7d6" stroke="none"/>
+  <circle cx="38" cy="195" r="2" fill="#90a7d6" stroke="none"/>
+  <circle cx="262" cy="188" r="2" fill="#90a7d6" stroke="none"/>
+  <circle cx="150" cy="210" r="1" fill="#90a7d6" stroke="none"/>
+  <circle cx="60" cy="170" r="1" fill="#90a7d6" stroke="none"/>
+  <!-- Big Dipper: 7 stars
+       Bowl (4 stars forming the rectangle):
+         Dubhe (top-right):     210, 68
+         Merak (bottom-right):  208, 105
+         Phecda (bottom-left):  155, 108
+         Megrez (top-left):     158, 72
+       Handle (3 stars, curving up-left):
+         Alioth:  118, 55
+         Mizar:    82, 52
+         Alkaid:   48, 65
+  -->
+  <!-- Bowl connecting lines -->
+  <line x1="210" y1="68" x2="208" y2="105" stroke="#dff3fd" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="208" y1="105" x2="155" y2="108" stroke="#dff3fd" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="155" y1="108" x2="158" y2="72" stroke="#dff3fd" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="158" y1="72" x2="210" y2="68" stroke="#dff3fd" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Handle connecting lines (from Megrez through handle stars) -->
+  <line x1="158" y1="72" x2="118" y2="55" stroke="#dff3fd" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="118" y1="55" x2="82" y2="52" stroke="#dff3fd" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="82" y1="52" x2="48" y2="65" stroke="#dff3fd" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- The 7 bright stars of the Big Dipper -->
+  <!-- Bowl stars -->
+  <circle cx="210" cy="68" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="208" cy="105" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="155" cy="108" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="158" cy="72" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- Handle stars -->
+  <circle cx="118" cy="55" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="82" cy="52" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="48" cy="65" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- Label area: subtle "ladle" shape indicator — a thin curved arc suggesting the bowl opening -->
+  <!-- Open top of bowl arc -->
+  <path d="M 155,72 Q 182,48 210,68" fill="none" stroke="#90a7d6" stroke-width="2.54" stroke-linecap="round" stroke-dasharray="4,4"/>
+</g></svg>

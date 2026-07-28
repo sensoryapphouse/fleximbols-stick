@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1553) translate(-233.00 -269.00)">
+<g transform="translate(-5.3,35.8) scale(0.935)"><!-- map pin (locate a friend) -->
+  <path d="M150 90 C90 90 50 135 50 195 C50 270 150 400 150 400 C150 400 250 270 250 195 C250 135 210 90 150 90 Z" fill="#FF5A5F" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- friend face inside pin -->
+  <circle cx="150" cy="190" r="58" fill="#FFCFA6" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M96 178 Q96 132 150 132 Q204 132 204 178 Q178 158 150 158 Q122 158 96 178 Z" fill="#7B4A2A" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <circle cx="131" cy="194" r="6" fill="#1F1F1F" />
+  <circle cx="169" cy="194" r="6" fill="#1F1F1F" />
+  <path d="M131 214 Q150 230 169 214" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" /></g>
+<polygon points="336,197 400,197 398,305 338,305" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="350" y1="303" x2="344" y2="455" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<line x1="386" y1="303" x2="392" y2="455" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="344" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="392" cy="457" rx="13" ry="7" fill="#33373d"/>
+<line x1="338" y1="199" x2="318" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="398" y1="199" x2="418" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="368" y1="197" x2="368" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 328 130 Q 328 80 368 80 Q 408 80 408 130 Q 368 103 328 130 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

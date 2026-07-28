@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- red/yellow/green stripes background panel -->
+  <rect x="20" y="30" width="250" height="20" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="20" y="50" width="250" height="20" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="20" y="70" width="250" height="20" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Lion of Judah head & body, full body, standing -->
+  <g transform="translate(120,150)">
+    <!-- body -->
+    <ellipse cx="0" cy="20" rx="50" ry="22" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67"/>
+    <!-- back legs -->
+    <rect x="20" y="32" width="10" height="30" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="32" y="32" width="10" height="30" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- front legs -->
+    <rect x="-40" y="32" width="10" height="30" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-28" y="32" width="10" height="30" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- paws -->
+    <ellipse cx="-35" cy="62" rx="7" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="-23" cy="62" rx="7" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="25" cy="62" rx="7" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="37" cy="62" rx="7" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- tail -->
+    <path d="M50 14 Q72 6 70 -8" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+    <path d="M70 -8 Q66 -14 76 -16 Q72 -6 70 -8 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <!-- mane -->
+    <circle cx="-40" cy="-6" r="28" fill="#e65a00" stroke="#1a1a1a" stroke-width="6.67"/>
+    <!-- head -->
+    <circle cx="-40" cy="-6" r="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67"/>
+    <!-- ears -->
+    <circle cx="-52" cy="-22" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="-28" cy="-22" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- eyes -->
+    <circle cx="-46" cy="-10" r="2" fill="#000000"/>
+    <circle cx="-34" cy="-10" r="2" fill="#000000"/>
+    <!-- nose -->
+    <path d="M-44 -2 L-36 -2 L-40 4 Z" fill="#000000"/>
+    <path d="M-40 4 L-40 8" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- mouth -->
+    <path d="M-44 10 Q-40 12 -36 10" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <!-- whiskers -->
+    <line x1="-50" y1="2" x2="-58" y2="0" stroke="#1a1a1a" stroke-width="3.33"/>
+    <line x1="-30" y1="2" x2="-22" y2="0" stroke="#1a1a1a" stroke-width="3.33"/>
+    <!-- crown above head -->
+    <path d="M-54 -34 L-50 -44 L-46 -36 L-40 -48 L-34 -36 L-30 -44 L-26 -34 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <circle cx="-50" cy="-44" r="2" fill="#d01424"/>
+    <circle cx="-40" cy="-48" r="2" fill="#529929"/>
+    <circle cx="-30" cy="-44" r="2" fill="#d01424"/>
+  </g>
+
+  <!-- dreadlocks silhouette (head) right side -->
+  <g transform="translate(230,170)">
+    <circle cx="0" cy="0" r="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+    <!-- face features -->
+    <circle cx="-7" cy="-2" r="1.5" fill="#000000"/>
+    <circle cx="7" cy="-2" r="1.5" fill="#000000"/>
+    <path d="M-5 8 Q0 11 5 8" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <!-- dreadlocks hanging -->
+    <rect x="-22" y="-24" width="6" height="44" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-14" y="-26" width="6" height="50" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-6" y="-28" width="6" height="52" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="2" y="-28" width="6" height="50" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="10" y="-26" width="6" height="46" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="18" y="-22" width="6" height="40" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+</g></svg>

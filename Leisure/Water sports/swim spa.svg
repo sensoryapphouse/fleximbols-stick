@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Outer shell - elongated narrow -->
+  <rect x="12" y="70" width="266" height="130" rx="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Inner pool wall -->
+  <rect x="24" y="82" width="242" height="106" rx="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Water -->
+  <rect x="30" y="88" width="230" height="94" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="30" y="88" width="230" height="22" rx="6" fill="#90a7d6"/>
+  <!-- Jet unit at left end (current generators) -->
+  <rect x="24" y="95" width="30" height="80" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Jet nozzles left end -->
+  <circle cx="39" cy="115" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="39" cy="135" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="39" cy="155" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Current stream lines -->
+  <path d="M47 115 Q90 112 130 115" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M47 135 Q90 132 130 135" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M47 155 Q90 152 130 155" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Swimmer silhouette -->
+  <!-- Head -->
+  <circle cx="195" cy="116" r="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Body stretched forward -->
+  <path d="M185 118 Q165 122 150 120 Q135 118 120 122" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Extended front arm -->
+  <path d="M185 115 Q180 108 172 112" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Rear arm stroking back -->
+  <path d="M175 120 Q168 130 162 128" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Legs/kick -->
+  <path d="M130 122 Q120 115 115 120" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M130 122 Q120 128 116 124" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Swim cap -->
+  <path d="M188 111 Q195 104 202 109" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

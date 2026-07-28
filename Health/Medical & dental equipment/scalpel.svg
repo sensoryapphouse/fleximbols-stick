@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="105.58 109.85 302.55 302.55"><g transform="rotate(40 256 256)">
+<!-- handle -->
+<rect x="240" y="220" width="32" height="200" rx="8" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- handle ridges -->
+<line x1="248" y1="320" x2="264" y2="320" stroke="#9aa7b1" stroke-width="4" stroke-linecap="round"/>
+<line x1="248" y1="340" x2="264" y2="340" stroke="#9aa7b1" stroke-width="4" stroke-linecap="round"/>
+<line x1="248" y1="360" x2="264" y2="360" stroke="#9aa7b1" stroke-width="4" stroke-linecap="round"/>
+<!-- mounting neck -->
+<rect x="246" y="196" width="20" height="30" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- curved steel blade -->
+<path d="M 256 196 L 256 96 Q 312 110 300 180 Q 280 200 256 196 Z" fill="#eef1f4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cutting edge highlight -->
+<path d="M 256 110 Q 296 122 290 172" fill="none" stroke="#9aa7b1" stroke-width="4" stroke-linecap="round"/>
+</g></svg>

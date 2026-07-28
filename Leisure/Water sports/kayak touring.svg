@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Water -->
+  <path d="M 20 185 Q 50 175 80 185 Q 110 195 140 185 Q 170 175 200 185 Q 230 195 270 185" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 20 200 Q 55 190 90 200 Q 125 210 160 200 Q 195 190 270 200" fill="none" stroke="#90a7d6" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Kayak hull -->
+  <path d="M 50 178 Q 100 165 145 165 Q 200 165 240 178 Q 210 192 145 193 Q 85 193 50 178 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Kayak cockpit coaming -->
+  <ellipse cx="145" cy="170" rx="30" ry="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Kayak deck line -->
+  <path d="M 50 178 Q 145 168 240 178" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddler torso -->
+  <line x1="145" y1="120" x2="145" y2="162" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddler head -->
+  <circle cx="145" cy="107" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Helmet -->
+  <path d="M 130 105 Q 145 87 160 105" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- PFD vest on torso -->
+  <path d="M 133 128 Q 145 122 157 128 L 158 155 Q 145 160 132 155 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arms holding paddle -->
+  <line x1="145" y1="133" x2="90" y2="148" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="145" y1="133" x2="200" y2="118" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddle shaft -->
+  <line x1="75" y1="155" x2="215" y2="110" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddle blade left (in water) -->
+  <path d="M 60 158 Q 55 148 65 143 Q 78 140 80 153 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddle blade right (in air) -->
+  <path d="M 218 107 Q 222 97 232 100 Q 238 108 230 115 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Water splash left blade -->
+  <path d="M 58 162 Q 52 170 60 172" fill="none" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 68 164 Q 66 173 74 172" fill="none" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 117.22 321.94 321.94">
+<!-- body with straps and deep armholes -->
+<path d="M 196 150
+         Q 210 132 224 150
+         Q 232 178 256 188
+         Q 280 178 288 150
+         Q 302 132 316 150
+         L 326 210
+         Q 300 232 300 270
+         L 306 404 L 256 414 L 206 404 L 212 270
+         Q 212 232 186 210 Z"
+      fill="#5a9fd4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- scoop neck trim -->
+<path d="M 224 152 Q 256 196 288 152" fill="none" stroke="#3f7eb0" stroke-width="7" stroke-linecap="round"/>
+<!-- left armhole trim -->
+<path d="M 196 150 Q 178 196 212 270" fill="none" stroke="#3f7eb0" stroke-width="6" stroke-linecap="round"/>
+<!-- right armhole trim -->
+<path d="M 316 150 Q 334 196 300 270" fill="none" stroke="#3f7eb0" stroke-width="6" stroke-linecap="round"/>
+<!-- hem trim -->
+<line x1="208" y1="400" x2="304" y2="400" stroke="#3f7eb0" stroke-width="6" stroke-linecap="round"/>
+</svg>

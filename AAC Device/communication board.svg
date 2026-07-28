@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect x="112" y="100" width="288" height="312" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="11" stroke-linejoin="round"/>
+<!-- header row cells -->
+<rect x="132" y="120" width="58" height="58" rx="6" fill="#f4c430" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="198" y="120" width="58" height="58" rx="6" fill="#8cc152" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="264" y="120" width="58" height="58" rx="6" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="330" y="120" width="58" height="58" rx="6" fill="#e85a8a" stroke="#1a1a1a" stroke-width="7"/>
+<!-- mini glyphs in header -->
+<circle cx="161" cy="149" r="13" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 215 162 l 12 -26 l 12 26 Z" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 281 138 q 12 22 24 0" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="359" y1="136" x2="359" y2="162" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="346" y1="149" x2="372" y2="149" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- body grid (empty cells) -->
+<g fill="#f1f3f5" stroke="#1a1a1a" stroke-width="6">
+<rect x="132" y="190" width="58" height="58" rx="6"/><rect x="198" y="190" width="58" height="58" rx="6"/><rect x="264" y="190" width="58" height="58" rx="6"/><rect x="330" y="190" width="58" height="58" rx="6"/>
+<rect x="132" y="256" width="58" height="58" rx="6"/><rect x="198" y="256" width="58" height="58" rx="6"/><rect x="264" y="256" width="58" height="58" rx="6"/><rect x="330" y="256" width="58" height="58" rx="6"/>
+<rect x="132" y="322" width="58" height="58" rx="6"/><rect x="198" y="322" width="58" height="58" rx="6"/><rect x="264" y="322" width="58" height="58" rx="6"/><rect x="330" y="322" width="58" height="58" rx="6"/>
+</g>
+</svg>

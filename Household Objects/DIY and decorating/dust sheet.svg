@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- chair legs hinted under the sheet -->
+<line x1="188" y1="330" x2="188" y2="408" stroke="#8a5a2b" stroke-width="10" stroke-linecap="round"/>
+<line x1="324" y1="330" x2="324" y2="408" stroke="#8a5a2b" stroke-width="10" stroke-linecap="round"/>
+<!-- draped dust sheet over the furniture: a squarish cloth with a peak where it
+     sits over the chair back, hems hanging down, and pointed corners -->
+<path d="M 120 300
+         Q 116 208 200 176
+         Q 256 156 312 176
+         Q 396 208 392 300
+         L 400 372 L 356 356
+         L 344 392 L 300 350
+         Q 256 366 212 350
+         L 168 392 L 156 356 L 112 372 Z"
+      fill="#eef1f4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- drape folds -->
+<path d="M 200 200 Q 210 280 196 344" fill="none" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+<path d="M 312 200 Q 302 280 316 344" fill="none" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+<path d="M 256 182 L 256 340" fill="none" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+</svg>

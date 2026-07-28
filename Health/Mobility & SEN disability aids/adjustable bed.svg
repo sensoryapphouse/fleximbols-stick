@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 79.98 345.21 345.21">
+<!-- adjustable bed: profiling bed with raised head AND raised knee section, curved up-arrows showing it moves -->
+<!-- base frame -->
+<rect x="110" y="300" width="292" height="26" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- mattress profiled: head up, flat, knees up -->
+<path d="M 120 282 L 120 214 Q 120 206 130 208 L 176 230 L 250 230 L 286 200 Q 296 194 302 204 L 320 234 L 392 250 L 392 282 Z" fill="#7ec6a0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pillow -->
+<rect x="128" y="220" width="48" height="26" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- up arrow head section -->
+<path d="M 150 170 L 150 140 M 138 152 L 150 140 L 162 152" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- up arrow knee section -->
+<path d="M 300 168 L 300 138 M 288 150 L 300 138 L 312 150" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- legs -->
+<line x1="130" y1="326" x2="130" y2="366" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<line x1="382" y1="326" x2="382" y2="366" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Microwave body -->
+  <rect x="30" y="80" width="210" height="140" rx="12" ry="12" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Microwave door window area -->
+  <rect x="42" y="92" width="140" height="116" rx="8" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Control panel side -->
+  <rect x="192" y="92" width="36" height="116" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Control buttons -->
+  <rect x="198" y="102" width="24" height="10" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="198" y="120" width="24" height="10" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="198" y="138" width="24" height="10" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="198" y="156" width="24" height="10" rx="3" ry="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Turntable plate inside -->
+  <ellipse cx="112" cy="175" rx="48" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Food (leftover plate with food) -->
+  <ellipse cx="112" cy="152" rx="42" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="102" cy="149" rx="16" ry="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="124" cy="150" rx="12" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Rotation arrow (curved, inside microwave) -->
+  <path d="M68 130 Q70 112 88 108 Q106 104 112 112" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="112,112 104,104 118,104" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Heat waves on top of food -->
+  <path d="M95 140 Q100 133 95 126" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M112 138 Q117 131 112 124" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M129 140 Q134 133 129 126" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- "Again" curved arrow (outside top-right of microwave) -->
+  <path d="M220 55 Q245 45 255 65 Q260 80 248 88" fill="none" stroke="#f8130d" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="248,88 238,82 250,78" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

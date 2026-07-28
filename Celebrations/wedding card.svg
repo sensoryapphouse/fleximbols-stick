@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- card -->
+  <rect x="40" y="25" width="210" height="190" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- decorative inner border -->
+  <rect x="48" y="33" width="194" height="174" rx="4" fill="none" stroke="#7d5e23" stroke-width="3.55"/>
+  <!-- left bell -->
+  <path d="M85 60 Q85 50 95 50 Q105 50 105 60 L110 110 L80 110 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <ellipse cx="95" cy="113" rx="18" ry="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="95" cy="120" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- right bell -->
+  <path d="M185 60 Q185 50 195 50 Q205 50 205 60 L210 110 L180 110 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <ellipse cx="195" cy="113" rx="18" ry="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="195" cy="120" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- bow tying bells -->
+  <path d="M125 55 Q145 45 165 55 Q145 65 125 55" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <circle cx="145" cy="55" r="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- rings -->
+  <circle cx="125" cy="150" r="20" fill="none" stroke="#f2e40d" stroke-width="10.67"/>
+  <circle cx="125" cy="150" r="20" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="160" cy="150" r="20" fill="none" stroke="#f2e40d" stroke-width="10.67"/>
+  <circle cx="160" cy="150" r="20" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- diamond highlight on left ring -->
+  <path d="M125 130 L121 134 L125 138 L129 134 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+
+  <!-- small heart confetti scattered on card -->
+  <path d="M178 175 Q175 170 178 166 Q181 170 184 166 Q187 170 184 175 L178 175 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M200 168 Q197 163 200 159 Q203 163 206 159 Q209 163 206 168 L200 168 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M100 178 Q97 173 100 169 Q103 173 106 169 Q109 173 106 178 L100 178 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+</g></svg>

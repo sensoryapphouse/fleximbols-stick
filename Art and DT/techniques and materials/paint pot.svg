@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="74.40 91.46 352.97 352.97">
+<!-- paint pot: open tin of paint with brush -->
+<!-- tin body -->
+<path d="M 150 230 L 150 400 Q 150 418 168 418 L 320 418 Q 338 418 338 400 L 338 230 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- paint surface inside rim -->
+<ellipse cx="244" cy="230" rx="94" ry="30" fill="#d63b46" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inner paint pool -->
+<ellipse cx="244" cy="232" rx="70" ry="20" fill="#e85a8a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- handle (bail) -->
+<path d="M 158 232 Q 244 150 330 232" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- drip down side -->
+<path d="M 338 256 Q 360 270 350 300 Q 338 312 330 300 Q 322 280 338 260 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- brush handle -->
+<line x1="300" y1="120" x2="232" y2="226" stroke="#8a5a2b" stroke-width="14" stroke-linecap="round"/>
+<!-- brush ferrule -->
+<line x1="240" y1="214" x2="226" y2="234" stroke="#9aa0a6" stroke-width="15" stroke-linecap="round"/>
+<!-- brush bristles dipped -->
+<path d="M 232 226 L 218 246 L 232 250 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

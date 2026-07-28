@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="62.06 93.63 387.88 387.88">
+<!-- plate -->
+<ellipse cx="256" cy="372" rx="166" ry="44" fill="#e3e8ec" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="362" rx="120" ry="30" fill="#f4f7f9" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pancake stack -->
+<ellipse cx="256" cy="340" rx="120" ry="32" fill="#e8b04a" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="306" rx="118" ry="32" fill="#f0c25e" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="272" rx="116" ry="32" fill="#e8b04a" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="238" rx="112" ry="32" fill="#f0c25e" stroke="#1a1a1a" stroke-width="9"/>
+<!-- syrup drips -->
+<path d="M 150 230 Q 146 270 162 300 Q 178 270 174 240" fill="#a8631f" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 330 232 Q 350 268 338 304 Q 322 280 320 244" fill="#a8631f" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- butter pat -->
+<rect x="226" y="200" width="60" height="34" rx="8" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="8"/>
+<!-- lemon wedge -->
+<path d="M 326 196 Q 372 196 372 158 Q 350 178 326 178 Z" fill="#f6e04a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

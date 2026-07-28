@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- croissant: fat upward crescent, fullest in the centre, tapering to pinched curled tips -->
+<path d="M 116 320
+         Q 92 256 124 218
+         Q 148 188 176 210
+         Q 188 218 192 234
+         Q 214 196 256 192
+         Q 298 196 320 234
+         Q 324 218 336 210
+         Q 364 188 388 218
+         Q 420 256 396 320
+         Q 372 372 308 384
+         Q 256 392 204 384
+         Q 140 372 116 320 Z"
+      fill="#e0a85a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- diagonal segment score lines giving the rolled-layer look -->
+<path d="M 158 234 Q 168 300 178 356" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 206 222 Q 210 300 214 366" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 256 210 L 256 372" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 306 222 Q 302 300 298 366" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<path d="M 354 234 Q 344 300 334 356" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-linecap="round"/>
+<!-- glossy underside highlight -->
+<path d="M 170 356 Q 256 388 342 356" fill="none" stroke="#c8902e" stroke-width="6" stroke-linecap="round"/>
+</svg>

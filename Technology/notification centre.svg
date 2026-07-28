@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Side panel (notification center sliding in from right) -->
+  <rect x="80" y="20" width="180" height="210" rx="10" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Header bar -->
+  <rect x="80" y="20" width="180" height="32" rx="10" ry="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bell icon in header -->
+  <path d="M105 28 L105 38 Q105 44 110 44 L122 44 Q127 44 127 38 L127 28 Q127 24 116 24 Q105 24 105 28 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <circle cx="116" cy="48" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Clock numerals (path) "9 4 1" -->
+  <!-- 9 -->
+  <polygon points="200,28 210,28 210,46 207,46 207,40 200,40 200,28 203,32 203,36 207,36 207,32" fill="#ffffff" stroke="none"/>
+  <!-- : -->
+  <rect x="214" y="32" width="3" height="3" fill="#ffffff"/>
+  <rect x="214" y="40" width="3" height="3" fill="#ffffff"/>
+  <!-- 4 -->
+  <polygon points="221,28 225,28 225,36 232,36 232,28 235,28 235,46 232,46 232,40 221,40" fill="#ffffff" stroke="none"/>
+  <!-- 1 -->
+  <rect x="240" y="28" width="3" height="18" fill="#ffffff"/>
+  <!-- Notification card 1 -->
+  <rect x="92" y="62" width="156" height="42" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="108" cy="83" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="125" y="70" width="100" height="5" fill="#4d4d4d" stroke="none"/>
+  <rect x="125" y="82" width="115" height="4" fill="#b8b8b8" stroke="none"/>
+  <rect x="125" y="91" width="80" height="4" fill="#b8b8b8" stroke="none"/>
+  <!-- Notification card 2 -->
+  <rect x="92" y="114" width="156" height="42" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="108" cy="135" r="10" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="125" y="122" width="100" height="5" fill="#4d4d4d" stroke="none"/>
+  <rect x="125" y="134" width="115" height="4" fill="#b8b8b8" stroke="none"/>
+  <rect x="125" y="143" width="80" height="4" fill="#b8b8b8" stroke="none"/>
+  <!-- Notification card 3 -->
+  <rect x="92" y="166" width="156" height="42" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="108" cy="187" r="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="125" y="174" width="100" height="5" fill="#4d4d4d" stroke="none"/>
+  <rect x="125" y="186" width="115" height="4" fill="#b8b8b8" stroke="none"/>
+  <rect x="125" y="195" width="80" height="4" fill="#b8b8b8" stroke="none"/>
+  <!-- Slide-in arrow on left -->
+  <polygon points="40,120 70,100 70,112 60,112 60,128 70,128 70,140" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

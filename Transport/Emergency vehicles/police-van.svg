@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.04) translate(-256 -260)">
+<!-- blue roof lights -->
+<rect x="180" y="150" width="40" height="22" rx="5" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="292" y="150" width="40" height="22" rx="5" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="7"/>
+<!-- van body (tall box, white) -->
+<path d="M 60 340 L 60 254 L 132 254 L 168 186 Q 176 172 198 172 L 440 172 Q 456 172 456 188 L 456 340 Z" fill="#f3f6f9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- windscreen -->
+<path d="M 142 254 L 172 198 Q 178 188 190 188 L 226 188 L 226 254 Z" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- side window -->
+<rect x="252" y="190" width="180" height="56" rx="6" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="6"/>
+<!-- blue battenburg band -->
+<rect x="60" y="276" width="396" height="34" fill="#4a90d9" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="60" y="276" width="44" height="34" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="148" y="276" width="44" height="34" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="236" y="276" width="44" height="34" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="324" y="276" width="44" height="34" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="412" y="276" width="44" height="34" fill="#fff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="60" y1="276" x2="456" y2="276" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="60" y1="310" x2="456" y2="310" stroke="#1a1a1a" stroke-width="6"/>
+<!-- wheels -->
+<circle cx="146" cy="340" r="44" fill="#222428" stroke="#1a1a1a" stroke-width="10"/>
+<circle cx="146" cy="340" r="19" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="146" cy="340" r="5" fill="#1a1a1a"/>
+<circle cx="372" cy="340" r="44" fill="#222428" stroke="#1a1a1a" stroke-width="10"/>
+<circle cx="372" cy="340" r="19" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="372" cy="340" r="5" fill="#1a1a1a"/>
+</g></svg>

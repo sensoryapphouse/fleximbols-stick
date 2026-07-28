@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- calendar -->
+  <rect x="22" y="40" width="180" height="160" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="22" y="40" width="180" height="26" rx="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- rings -->
+  <rect x="48" y="28" width="8" height="20" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="168" y="28" width="8" height="20" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- grid -->
+  <line x1="22" y1="92" x2="202" y2="92" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="22" y1="118" x2="202" y2="118" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="22" y1="144" x2="202" y2="144" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="22" y1="170" x2="202" y2="170" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="52" y1="66" x2="52" y2="200" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="82" y1="66" x2="82" y2="200" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="112" y1="66" x2="112" y2="200" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="142" y1="66" x2="142" y2="200" stroke="#7f7f7f" stroke-width="2.22"/>
+  <line x1="172" y1="66" x2="172" y2="200" stroke="#7f7f7f" stroke-width="2.22"/>
+
+  <!-- marked visit days (circled red) -->
+  <circle cx="67" cy="105" r="10" fill="none" stroke="#f8130d" stroke-width="4.45"/>
+  <circle cx="157" cy="131" r="10" fill="none" stroke="#f8130d" stroke-width="4.45"/>
+  <circle cx="97" cy="183" r="10" fill="none" stroke="#f8130d" stroke-width="4.45"/>
+  <!-- check marks inside circles -->
+  <path d="M 62 105 L 66 109 L 72 101" fill="none" stroke="#529929" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 152 131 L 156 135 L 162 127" fill="none" stroke="#529929" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 92 183 L 96 187 L 102 179" fill="none" stroke="#529929" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- clock in lower-right corner of canvas -->
+  <circle cx="244" cy="172" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <line x1="244" y1="172" x2="244" y2="152" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="244" y1="172" x2="258" y2="180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="244" cy="172" r="3" fill="#000000"/>
+  <!-- 12 / 3 / 6 / 9 tick marks -->
+  <line x1="244" y1="146" x2="244" y2="150" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="270" y1="172" x2="266" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="244" y1="198" x2="244" y2="194" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="218" y1="172" x2="222" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Parent (full body, blue) on right -->
+  <circle cx="232" cy="56" r="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55"/>
+  <rect x="218" y="72" width="28" height="38" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <line x1="218" y1="80" x2="208" y2="104" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="246" y1="80" x2="256" y2="104" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="222" y1="110" x2="220" y2="136" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="242" y1="110" x2="244" y2="136" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+
+  <!-- Child (full body, yellow) just below the parent -->
+  <circle cx="265" cy="92" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="256" y="104" width="20" height="26" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="256" y1="110" x2="250" y2="124" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="276" y1="110" x2="282" y2="124" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="259" y1="130" x2="258" y2="146" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="273" y1="130" x2="274" y2="146" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

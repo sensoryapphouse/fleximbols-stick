@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Strip background (cream card) -->
+  <rect x="55" y="68" width="180" height="104" rx="10" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+
+  <!-- pH colour patches — 10 distinct colours across the strip -->
+  <!-- Patch 1: strong acid - bright red -->
+  <rect x="63" y="78" width="15" height="84" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Patch 2: acid orange -->
+  <rect x="82" y="78" width="15" height="84" rx="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Patch 3: weak acid yellow-orange -->
+  <rect x="101" y="78" width="15" height="84" rx="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Patch 4: slightly acid bright yellow -->
+  <rect x="120" y="78" width="15" height="84" rx="4" fill="#fff200" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Patch 5: neutral yellow-green -->
+  <rect x="139" y="78" width="15" height="84" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Patch 6: slightly base green -->
+  <rect x="158" y="78" width="15" height="84" rx="4" fill="#137827" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Patch 7: base teal -->
+  <rect x="177" y="78" width="15" height="84" rx="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Patch 8: strong base blue -->
+  <rect x="196" y="78" width="15" height="84" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Patch 9: strong alkaline indigo -->
+  <rect x="215" y="78" width="15" height="84" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+
+  <!-- Scale tick marks above strip -->
+  <line x1="70" y1="68" x2="70" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="89" y1="68" x2="89" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="108" y1="68" x2="108" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="127" y1="68" x2="127" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="146" y1="68" x2="146" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="165" y1="68" x2="165" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="184" y1="68" x2="184" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="203" y1="68" x2="203" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="222" y1="68" x2="222" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Scale baseline -->
+  <line x1="55" y1="60" x2="235" y2="60" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+</g></svg>

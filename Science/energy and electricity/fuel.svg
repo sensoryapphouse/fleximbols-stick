@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="94.06 113.69 323.88 323.88">
+<!-- jerry can / fuel can with flame icon -->
+<!-- can body -->
+<path d="M 150 180 L 320 180 Q 336 180 336 196 L 336 396 Q 336 412 320 412 L 166 412 Q 150 412 150 396 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spout -->
+<rect x="318" y="158" width="44" height="34" rx="6" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cap -->
+<rect x="186" y="156" width="48" height="28" rx="6" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- handle -->
+<path d="M 186 184 L 186 156 Q 186 138 210 138 Q 234 138 234 156 L 234 184" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- flame symbol on body -->
+<path d="M 246 250 Q 224 282 244 312 Q 252 322 264 322 Q 286 322 290 296 Q 292 280 280 268 Q 286 290 270 296 Q 258 290 264 272 Q 268 258 246 250 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

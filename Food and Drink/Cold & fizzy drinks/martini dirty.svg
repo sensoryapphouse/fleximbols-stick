@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- V-shape glass -->
+  <path d="M55 40 L145 150 L235 40 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- cloudy olive-brine liquid -->
+  <path d="M85 60 L145 135 L205 60 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- cloudy swirls -->
+  <path d="M100 75 Q120 80 140 75" fill="none" stroke="#eed5b6" stroke-width="3.55"/>
+  <path d="M115 95 Q135 100 160 95" fill="none" stroke="#eed5b6" stroke-width="3.55"/>
+  <path d="M130 115 Q145 118 160 115" fill="none" stroke="#eed5b6" stroke-width="3.55"/>
+  <!-- liquid surface line -->
+  <line x1="85" y1="60" x2="205" y2="60" stroke="#e6b98a" stroke-width="3.55"/>
+  <!-- toothpick with two olives -->
+  <line x1="115" y1="30" x2="180" y2="90" stroke="#9d7246" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- olive 1 -->
+  <ellipse cx="140" cy="58" rx="11" ry="9" fill="#67832d" stroke="#1a1a1a" stroke-width="5.34" transform="rotate(40 140 58)"/>
+  <ellipse cx="144" cy="62" rx="3" ry="2.5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- olive 2 -->
+  <ellipse cx="165" cy="78" rx="11" ry="9" fill="#529929" stroke="#1a1a1a" stroke-width="5.34" transform="rotate(40 165 78)"/>
+  <ellipse cx="169" cy="82" rx="3" ry="2.5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- stem -->
+  <rect x="140" y="150" width="10" height="55" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- base -->
+  <ellipse cx="145" cy="212" rx="45" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- glass shine -->
+  <line x1="75" y1="55" x2="135" y2="125" stroke="#ffffff" stroke-width="5.34" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Notebook back cover -->
+  <rect x="90" y="35" width="150" height="185" rx="5" ry="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Notebook front cover -->
+  <rect x="100" y="40" width="140" height="175" rx="5" ry="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Ruled lines on cover -->
+  <line x1="115" y1="80" x2="225" y2="80" stroke="#90a7d6" stroke-width="2.22"/>
+  <line x1="115" y1="95" x2="225" y2="95" stroke="#90a7d6" stroke-width="2.22"/>
+  <line x1="115" y1="110" x2="225" y2="110" stroke="#90a7d6" stroke-width="2.22"/>
+  <line x1="115" y1="125" x2="225" y2="125" stroke="#90a7d6" stroke-width="2.22"/>
+  <line x1="115" y1="140" x2="225" y2="140" stroke="#90a7d6" stroke-width="2.22"/>
+  <line x1="115" y1="155" x2="225" y2="155" stroke="#90a7d6" stroke-width="2.22"/>
+  <line x1="115" y1="170" x2="225" y2="170" stroke="#90a7d6" stroke-width="2.22"/>
+  <!-- Continuous spiral wire coil down the spine -->
+  <!-- Each arc alternates front-over and behind, creating helix effect -->
+  <path d="M95 50 Q72 58 95 66" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 66 Q118 74 95 82" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 82 Q72 90 95 98" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 98 Q118 106 95 114" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 114 Q72 122 95 130" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 130 Q118 138 95 146" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 146 Q72 154 95 162" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 162 Q118 170 95 178" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 178 Q72 186 95 194" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 194 Q118 202 95 210" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Vertical spine line to anchor the coil -->
+  <line x1="100" y1="40" x2="100" y2="215" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="2,4"/>
+</g></svg>

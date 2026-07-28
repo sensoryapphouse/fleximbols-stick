@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- handle -->
+  <rect x="40" y="180" width="130" height="10" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 105 185)"/>
+  <!-- grip end cap -->
+  <circle cx="55" cy="215" r="9" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- net hoop -->
+  <ellipse cx="195" cy="105" rx="50" ry="55" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- inner mesh lighter -->
+  <ellipse cx="195" cy="105" rx="42" ry="47" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- mesh grid -->
+  <path d="M160 75 L230 135 M170 65 L235 125 M180 60 L240 115 M155 90 L225 145 M155 115 L215 155" stroke="#1a1a1a" stroke-width="2.22" fill="none"/>
+  <path d="M160 135 L230 75 M155 125 L225 65 M170 145 L240 90 M180 150 L235 115" stroke="#1a1a1a" stroke-width="2.22" fill="none"/>
+  <!-- rim -->
+  <ellipse cx="195" cy="105" rx="50" ry="55" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- connection to handle -->
+  <path d="M150 140 L165 155" stroke="#9d7246" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M150 140 L165 155" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+</g></svg>

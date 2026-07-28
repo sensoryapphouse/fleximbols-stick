@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <path d="M10 200 Q145 185 280 200 L280 225 L10 225 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- empty tomb / hill behind -->
+  <path d="M150 90 Q200 60 270 110 Q280 160 270 200 L150 200 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tomb opening (dark) -->
+  <path d="M180 130 Q200 110 230 110 Q255 115 255 160 Q255 195 230 200 L180 200 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- rolled-away stone -->
+  <ellipse cx="170" cy="195" rx="30" ry="20" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="170" cy="190" rx="28" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- decorated easter egg (left) -->
+  <ellipse cx="55" cy="155" rx="28" ry="36" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M28 145 Q40 138 55 145 Q70 152 82 145" fill="none" stroke="#7c3fac" stroke-width="4.45"/>
+  <path d="M28 170 Q40 178 55 170 Q70 162 82 170" fill="none" stroke="#fff200" stroke-width="4.45"/>
+  <circle cx="48" cy="135" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="62" cy="180" r="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- lily flower (right-bottom) -->
+  <rect x="115" y="160" width="4" height="50" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M117 160 Q95 130 100 110 Q110 120 117 145 Q124 120 134 110 Q139 130 117 160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M105 115 Q117 130 117 155" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M129 115 Q117 130 117 155" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- leaf -->
+  <path d="M119 195 Q135 190 140 200 Q130 205 119 200 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Chiminea: clay fireplace with bulbous belly and tall narrow chimney -->
+  <!-- Base/feet -->
+  <ellipse cx="145" cy="228" rx="50" ry="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="110" y1="220" x2="105" y2="228" stroke="#9d7246" stroke-width="11.85" stroke-linecap="round"/>
+  <line x1="180" y1="220" x2="185" y2="228" stroke="#9d7246" stroke-width="11.85" stroke-linecap="round"/>
+  <line x1="145" y1="222" x2="145" y2="230" stroke="#9d7246" stroke-width="11.85" stroke-linecap="round"/>
+  <!-- Bulbous belly body -->
+  <ellipse cx="145" cy="175" rx="68" ry="52" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Belly shading -->
+  <ellipse cx="132" cy="165" rx="45" ry="35" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Chimney neck (narrow transition) -->
+  <path d="M113,132 Q113,118 122,112 L122,58 L168,58 L168,112 Q157,118 177,132" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M113,132 Q113,118 122,112 L122,58 L168,58 L168,112 Q157,118 177,132" fill="none" stroke="#9d7246" stroke-width="2.96"/>
+  <!-- Chimney tube -->
+  <rect x="122" y="25" width="46" height="38" rx="5" fill="#e6b98a" stroke="#9d7246" stroke-width="2.96"/>
+  <!-- Chimney top cap -->
+  <rect x="114" y="20" width="62" height="10" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Smoke from chimney -->
+  <path d="M138,18 Q130,8 138,0" fill="none" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M152,15 Q162,5 154,0" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Front opening arch of the belly -->
+  <path d="M105,168 Q105,140 145,138 Q185,140 185,168 L185,195 Q185,210 145,212 Q105,210 105,195 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Arch opening highlight rim -->
+  <path d="M108,168 Q108,144 145,142 Q182,144 182,168" fill="none" stroke="#9d7246" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Flames inside opening -->
+  <path d="M120,195 Q112,175 120,155 Q125,145 118,135 Q130,146 128,162 Q134,145 133,130 Q141,145 140,162 Q145,142 145,128 Q150,142 150,162 Q156,145 157,130 Q157,148 162,162 Q160,146 172,135 Q165,145 170,155 Q178,175 170,195" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M126,195 Q120,178 126,162 Q130,150 128,140 Q136,152 135,165 Q140,148 140,135 Q147,150 147,165 Q151,148 155,135 Q155,152 162,165 Q162,178 156,195" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M132,195 Q128,182 133,170 Q137,160 135,150 Q141,160 141,170 Q145,155 148,150 Q150,160 148,170 Q152,182 148,195" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Clay texture lines on belly -->
+  <path d="M82,175 Q100,172 118,174" fill="none" stroke="#9d7246" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M80,185 Q98,182 116,184" fill="none" stroke="#9d7246" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M172,174 Q190,172 208,175" fill="none" stroke="#9d7246" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M174,184 Q192,182 210,185" fill="none" stroke="#9d7246" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

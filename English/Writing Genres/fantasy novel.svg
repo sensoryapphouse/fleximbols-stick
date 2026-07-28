@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- book back cover -->
+  <path d="M55 35 L235 35 L235 215 L55 215 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- book front cover -->
+  <path d="M62 30 L228 30 L228 210 L62 210 Z" fill="#392170" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- spine -->
+  <path d="M62 30 L62 210" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- castle base -->
+  <path d="M82 165 L208 165 L208 200 L82 200 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- left tower -->
+  <path d="M85 110 L115 110 L115 165 L85 165 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- left tower battlements -->
+  <path d="M85 110 L85 100 L92 100 L92 107 L100 107 L100 100 L107 100 L107 107 L115 107 L115 100 L115 110 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- center keep -->
+  <path d="M125 90 L165 90 L165 165 L125 165 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- center battlements -->
+  <path d="M125 90 L125 80 L132 80 L132 87 L140 87 L140 80 L150 80 L150 87 L158 87 L158 80 L165 80 L165 90 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right tower -->
+  <path d="M175 110 L205 110 L205 165 L175 165 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- right tower battlements -->
+  <path d="M175 110 L175 100 L182 100 L182 107 L190 107 L190 100 L197 100 L197 107 L205 107 L205 100 L205 110 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- door -->
+  <path d="M138 130 Q138 120 145 120 Q152 120 152 130 L152 165 L138 165 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- flag pole -->
+  <path d="M145 80 L145 60" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- flag -->
+  <path d="M145 60 L165 65 L145 72 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- moon -->
+  <circle cx="200" cy="60" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- stars / sparkles -->
+  <path d="M85 65 L88 70 L93 71 L89 75 L90 80 L85 78 L80 80 L81 75 L77 71 L82 70 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="58.18 71.84 395.64 395.64"><g>
+<!-- two ear tubes meeting at a Y, dropping to a chest piece -->
+<path d="M 170 130 Q 168 250 256 300 Q 344 250 342 130" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 170 130 Q 168 250 256 300 Q 344 250 342 130" fill="none" stroke="#4a8cc8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- ear tips -->
+<circle cx="170" cy="120" r="20" fill="#39414b" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="342" cy="120" r="20" fill="#39414b" stroke="#1a1a1a" stroke-width="7"/>
+<!-- tube from Y down to chest piece -->
+<path d="M 256 300 L 256 372" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 256 300 L 256 372" fill="none" stroke="#4a8cc8" stroke-width="9" stroke-linecap="round"/>
+<!-- chest piece (round diaphragm) -->
+<circle cx="256" cy="392" r="46" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="392" r="28" fill="#eef1f4" stroke="#1a1a1a" stroke-width="6"/>
+</g></svg>

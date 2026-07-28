@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- left window -->
+  <rect x="18" y="30" width="124" height="180" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- left title bar -->
+  <rect x="18" y="30" width="124" height="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- left window dots -->
+  <circle cx="28" cy="41" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="38" cy="41" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="48" cy="41" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- left content lines -->
+  <rect x="28" y="64" width="100" height="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="28" y="84" width="80" height="10" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="28" y="104" width="100" height="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="28" y="124" width="70" height="10" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="28" y="144" width="100" height="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="28" y="164" width="90" height="10" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right window -->
+  <rect x="148" y="30" width="124" height="180" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- right title bar -->
+  <rect x="148" y="30" width="124" height="22" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="158" cy="41" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="168" cy="41" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="178" cy="41" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- right content lines -->
+  <rect x="158" y="64" width="100" height="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="84" width="70" height="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="104" width="100" height="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="124" width="90" height="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="144" width="80" height="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="164" width="100" height="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- divider down middle -->
+  <line x1="145" y1="20" x2="145" y2="220" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
+  <!-- divider grip dots -->
+  <circle cx="145" cy="110" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- SPLIT lettering at bottom -->
+  <!-- divider icon (replaces SPLIT text) -->
+  <line x1="145" y1="145" x2="145" y2="220" stroke="#7f7f7f" stroke-width="8.89" stroke-dasharray="6 4" stroke-linecap="round"/>
+  <circle cx="145" cy="145" r="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

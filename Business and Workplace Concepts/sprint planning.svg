@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Board background -->
+  <rect x="22" y="22" width="186" height="196" rx="7" ry="7" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Column headers -->
+  <rect x="32" y="32" width="52" height="22" rx="3" ry="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="92" y="32" width="52" height="22" rx="3" ry="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="152" y="32" width="44" height="22" rx="3" ry="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Task cards col 1 -->
+  <rect x="32" y="64" width="52" height="32" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="32" y="104" width="52" height="32" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="32" y="144" width="52" height="32" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Task cards col 2 -->
+  <rect x="92" y="64" width="52" height="32" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="92" y="104" width="52" height="32" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Task cards col 3 -->
+  <rect x="152" y="64" width="44" height="32" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Calendar (2-week bracket) -->
+  <rect x="22" y="186" width="96" height="32" rx="4" ry="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Calendar grid lines -->
+  <line x1="36" y1="186" x2="36" y2="218" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="50" y1="186" x2="50" y2="218" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="64" y1="186" x2="64" y2="218" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="78" y1="186" x2="78" y2="218" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="92" y1="186" x2="92" y2="218" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="106" y1="186" x2="106" y2="218" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="22" y1="202" x2="118" y2="202" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Goal flag -->
+  <line x1="222" y1="50" x2="222" y2="185" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <polygon points="222,50 258,68 222,86" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Flag pole base -->
+  <line x1="210" y1="185" x2="234" y2="185" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+</g></svg>

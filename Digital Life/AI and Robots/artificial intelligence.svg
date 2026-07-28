@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Brain silhouette (left lobe) -->
+  <path d="M 145,52 Q 135,30 112,30 Q 88,30 78,50 Q 64,68 72,90 Q 60,102 62,120 Q 62,140 78,152 Q 76,168 88,178 Q 102,188 118,180 Q 128,192 145,192 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Brain silhouette (right lobe) -->
+  <path d="M 145,52 Q 155,30 178,30 Q 202,30 212,50 Q 226,68 218,90 Q 230,102 228,120 Q 228,140 212,152 Q 214,168 202,178 Q 188,188 172,180 Q 162,192 145,192 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Brain centre crease -->
+  <path d="M 145,52 L 145,192" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Brain fold lines left -->
+  <path d="M 88,80 Q 100,70 110,82 Q 118,94 108,104 Q 96,114 104,126 Q 112,136 100,146" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Brain fold lines right -->
+  <path d="M 202,80 Q 190,70 180,82 Q 172,94 182,104 Q 194,114 186,126 Q 178,136 190,146" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Circuit chip overlay on brain -->
+  <rect x="118" y="95" width="54" height="50" rx="6" ry="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <!-- Chip pins top -->
+  <path d="M 128,95 L 128,82 M 145,95 L 145,82 M 162,95 L 162,82" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Chip pins bottom -->
+  <path d="M 128,145 L 128,158 M 145,145 L 145,158 M 162,145 L 162,158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Chip pins left -->
+  <path d="M 118,108 L 105,108 M 118,128 L 105,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Chip pins right -->
+  <path d="M 172,108 L 185,108 M 172,128 L 185,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Chip inner grid -->
+  <path d="M 130,105 L 160,105 M 130,120 L 160,120 M 130,135 L 160,135 M 136,100 L 136,140 M 152,100 L 152,140" fill="none" stroke="#90a7d6" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Chip centre dot -->
+  <circle cx="145" cy="120" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <!-- Stem -->
+  <path d="M 135,192 L 135,210 L 155,210 L 155,192" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></path>
+  <rect x="118" y="210" width="54" height="18" rx="5" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></rect>
+</g></svg>

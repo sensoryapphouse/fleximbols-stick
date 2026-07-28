@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- skull: front view, domed cranium, two eye sockets, triangular nasal cavity, jaw with teeth -->
+<!-- cranium + cheeks -->
+<path d="M 256 100 C 174 100 124 162 124 244 C 124 296 146 332 174 352 L 174 384 Q 174 404 196 404 L 316 404 Q 338 404 338 384 L 338 352 C 366 332 388 296 388 244 C 388 162 338 100 256 100 Z" fill="#eef1f3" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- eye sockets -->
+<ellipse cx="202" cy="240" rx="34" ry="38" fill="#3a3f45" stroke="#1a1a1a" stroke-width="7"/>
+<ellipse cx="310" cy="240" rx="34" ry="38" fill="#3a3f45" stroke="#1a1a1a" stroke-width="7"/>
+<!-- nasal cavity (inverted heart / triangle) -->
+<path d="M 256 280 L 240 322 Q 256 334 272 322 Z" fill="#3a3f45" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- jaw line + teeth -->
+<line x1="186" y1="360" x2="326" y2="360" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<g stroke="#1a1a1a" stroke-width="6">
+<line x1="212" y1="360" x2="212" y2="396"/>
+<line x1="234" y1="360" x2="234" y2="400"/>
+<line x1="256" y1="360" x2="256" y2="402"/>
+<line x1="278" y1="360" x2="278" y2="400"/>
+<line x1="300" y1="360" x2="300" y2="396"/>
+</g>
+</svg>

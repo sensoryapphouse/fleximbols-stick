@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- stem -->
+<path d="M 256 230 Q 250 320 258 410" fill="none" stroke="#5aa83c" stroke-width="12" stroke-linecap="round"/>
+<!-- leaf -->
+<path d="M 258 330 Q 320 300 348 326 Q 312 360 262 350 Z" fill="#8cc152" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 270 342 Q 308 330 340 330" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- bud sepals (green base cup) -->
+<path d="M 220 232 Q 256 270 292 232 Q 292 250 256 256 Q 220 250 220 232 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- bud teardrop -->
+<path d="M 256 96 Q 312 150 296 220 Q 256 250 216 220 Q 200 150 256 96 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- petal lines -->
+<path d="M 256 110 Q 248 170 256 224" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 230 138 Q 236 180 244 220" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 282 138 Q 276 180 268 220" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+</svg>

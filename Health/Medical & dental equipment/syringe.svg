@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="106.67 106.67 298.67 298.67"><g transform="rotate(45 256 256)">
+<!-- barrel -->
+<rect x="150" y="226" width="180" height="60" rx="10" fill="#dbeefb" stroke="#1a1a1a" stroke-width="9"/>
+<!-- liquid inside -->
+<rect x="158" y="234" width="120" height="44" rx="6" fill="#9fd0ef" stroke="#1a1a1a" stroke-width="0"/>
+<!-- graduation marks -->
+<line x1="190" y1="234" x2="190" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="218" y1="234" x2="218" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="246" y1="234" x2="246" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="274" y1="234" x2="274" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<!-- plunger flange -->
+<rect x="120" y="214" width="22" height="84" rx="6" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- plunger rod -->
+<rect x="86" y="246" width="40" height="20" rx="4" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- nozzle -->
+<rect x="330" y="244" width="26" height="24" rx="4" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- needle -->
+<line x1="356" y1="256" x2="436" y2="256" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</g></svg>

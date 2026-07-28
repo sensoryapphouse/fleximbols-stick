@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Building facade -->
+  <rect x="20" y="85" width="250" height="135" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Gabled roof -->
+  <polygon points="145,30 270,85 20,85" fill="#529929" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Sign board banner -->
+  <rect x="40" y="87" width="210" height="28" rx="4" fill="#137827" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Front door -->
+  <rect x="117" y="168" width="56" height="52" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Door window arch -->
+  <rect x="127" y="175" width="36" height="22" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Store windows left and right -->
+  <rect x="32" y="152" width="72" height="58" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <rect x="186" y="152" width="72" height="58" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Clasped hands emblem - left window -->
+  <!-- Left hand -->
+  <path d="M44,178 Q44,168 52,168 Q58,168 58,175 L58,190 Q54,195 50,190 Q44,188 44,178 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Right hand -->
+  <path d="M72,178 Q72,168 64,168 Q58,168 58,175 L58,190 Q62,195 66,190 Q72,188 72,178 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Fingers left -->
+  <rect x="44" y="168" width="7" height="12" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="52" y="165" width="7" height="13" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Fingers right -->
+  <rect x="65" y="165" width="7" height="13" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="73" y="168" width="7" height="12" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Shared veg basket emblem - right window -->
+  <!-- Basket body -->
+  <path d="M197,200 Q197,185 221,185 Q245,185 245,200 L245,210 Q245,220 221,220 Q197,220 197,210 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Basket weave lines -->
+  <line x1="197" y1="197" x2="245" y2="197" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="197" y1="207" x2="245" y2="207" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="185" x2="208" y2="220" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="221" y1="185" x2="221" y2="220" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="232" y1="185" x2="234" y2="220" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Basket handle -->
+  <path d="M205,185 Q221,165 237,185" fill="none" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Veg in basket: carrot -->
+  <ellipse cx="208" cy="182" rx="5" ry="9" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="208" y1="173" x2="206" y2="165" stroke="#529929" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="208" y1="173" x2="209" y2="164" stroke="#529929" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Veg: broccoli head -->
+  <circle cx="221" cy="176" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="179" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="227" cy="179" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="221" y1="185" x2="221" y2="195" stroke="#67832d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Veg: tomato -->
+  <circle cx="234" cy="180" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="234" y1="173" x2="232" y2="168" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="234" y1="173" x2="236" y2="168" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Ground line -->
+  <rect x="20" y="218" width="250" height="8" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+</g></svg>

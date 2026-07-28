@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- short bar (left) vs tall bar (right), compressed height arrow on short bar -->
+  <!-- Tall bar -->
+  <rect x="170" y="30" width="50" height="180" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Short bar -->
+  <rect x="70" y="130" width="50" height="80" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Compressed height arrow on short bar: top cap -->
+  <line x1="95" y1="130" x2="95" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Arrow tip top (pointing down toward bar) -->
+  <polygon points="95,130 88,148 102,148" fill="#000000"/>
+  <!-- Arrow tip bottom (pointing up toward base) -->
+  <polygon points="95,210 88,192 102,192" fill="#000000"/>
+  <!-- Horizontal tick at top of short bar -->
+  <line x1="78" y1="130" x2="112" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Horizontal tick at bottom of short bar -->
+  <line x1="78" y1="210" x2="112" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

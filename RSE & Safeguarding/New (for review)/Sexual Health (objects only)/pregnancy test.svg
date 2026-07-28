@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- test stick -->
+<rect x="200" y="60" width="112" height="392" rx="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- grip / cap -->
+<rect x="200" y="330" width="112" height="122" rx="40" fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9"/>
+<!-- result window -->
+<rect x="226" y="120" width="60" height="150" rx="12" fill="#eaf4fb" stroke="#1a1a1a" stroke-width="9"/>
+<!-- two clear indicator lines (positive) -->
+<line x1="256" y1="150" x2="256" y2="195" stroke="#f06fa6" stroke-width="14" stroke-linecap="round"/>
+<line x1="256" y1="210" x2="256" y2="255" stroke="#f06fa6" stroke-width="14" stroke-linecap="round"/>
+</svg>

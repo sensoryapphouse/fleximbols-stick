@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(0.92) translate(-256 -256)">
+<!-- skipping rope: bold loop sweeping over the head and under the lifted feet -->
+
+<path d="M 178 250 C 130 330 110 410 256 418 C 402 410 382 330 334 250" fill="none" stroke="#d23b3b" stroke-width="12" stroke-linecap="round"/>
+<!-- legs lifted (bent knees, feet off the ground) -->
+<line x1="244" y1="300" x2="220" y2="350" stroke="#39425c" stroke-width="18" stroke-linecap="round"/>
+<line x1="220" y1="350" x2="238" y2="388" stroke="#39425c" stroke-width="18" stroke-linecap="round"/>
+<line x1="268" y1="300" x2="292" y2="350" stroke="#39425c" stroke-width="18" stroke-linecap="round"/>
+<line x1="292" y1="350" x2="274" y2="388" stroke="#39425c" stroke-width="18" stroke-linecap="round"/>
+<ellipse cx="234" cy="392" rx="16" ry="8" fill="#33373d"/>
+<ellipse cx="278" cy="392" rx="16" ry="8" fill="#33373d"/>
+<!-- torso -->
+<polygon points="222,168 290,168 288,300 224,300" fill="#4a90d9" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- arms bent out to the rope handles -->
+<line x1="226" y1="172" x2="180" y2="210" stroke="#1a1a1a" stroke-width="15" stroke-linecap="round"/>
+<line x1="180" y1="210" x2="184" y2="252" stroke="#1a1a1a" stroke-width="15" stroke-linecap="round"/>
+<line x1="286" y1="172" x2="332" y2="210" stroke="#1a1a1a" stroke-width="15" stroke-linecap="round"/>
+<line x1="332" y1="210" x2="328" y2="252" stroke="#1a1a1a" stroke-width="15" stroke-linecap="round"/>
+<!-- rope handles in the hands -->
+<rect x="172" y="246" width="22" height="14" rx="6" fill="#f0c419" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="318" y="246" width="22" height="14" rx="6" fill="#f0c419" stroke="#1a1a1a" stroke-width="4"/>
+<!-- neck + head -->
+<line x1="256" y1="168" x2="256" y2="138" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" class="skin" cx="256" cy="102" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 216 102 Q 216 52 256 52 Q 296 52 296 102 Q 256 75 216 102 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- ground line + jump shadow (figure is in the air above it) -->
+<line x1="120" y1="446" x2="392" y2="446" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<ellipse cx="256" cy="446" rx="54" ry="9" fill="#cfd3d8"/>
+</g></svg>

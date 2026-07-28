@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Weighted vest garment, front view, laid flat -->
+  <!-- Vest body -->
+  <path d="M75 52 L60 90 L55 205 L235 205 L230 90 L215 52 Z" fill="#529929" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Armhole cutouts -->
+  <path d="M75 52 Q62 58 55 78 L70 82 Q74 68 82 62 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M215 52 Q228 58 235 78 L220 82 Q226 68 218 62 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Neck opening -->
+  <path d="M115 52 Q145 38 175 52 L165 72 Q145 62 125 72 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Shoulder seam lines -->
+  <line x1="82" y1="62" x2="115" y2="52" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="218" y1="62" x2="175" y2="52" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Front zip/opening line centre -->
+  <line x1="145" y1="72" x2="145" y2="205" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Zip teeth -->
+  <line x1="140" y1="90" x2="150" y2="90" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="140" y1="100" x2="150" y2="100" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="140" y1="110" x2="150" y2="110" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="140" y1="120" x2="150" y2="120" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- Zip pull tab -->
+  <rect x="138" y="82" width="14" height="10" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- LEFT weight pockets (2 rows) -->
+  <rect x="68" y="105" width="58" height="38" rx="8" fill="#67832d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <circle cx="82" cy="124" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="97" cy="124" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="112" cy="124" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="68" y="155" width="58" height="38" rx="8" fill="#67832d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <circle cx="82" cy="174" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="97" cy="174" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="112" cy="174" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- RIGHT weight pockets (2 rows) -->
+  <rect x="164" y="105" width="58" height="38" rx="8" fill="#67832d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <circle cx="178" cy="124" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="193" cy="124" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="124" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="164" y="155" width="58" height="38" rx="8" fill="#67832d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <circle cx="178" cy="174" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="193" cy="174" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="174" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Full-body surprised person on left -->
+  <!-- head -->
+  <circle cx="55" cy="55" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- hair -->
+  <path d="M 38 50 Q 38 38 55 38 Q 72 38 72 50 Q 65 44 55 46 Q 45 44 38 50 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- surprised eyes (wide) -->
+  <circle cx="48" cy="55" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="62" cy="55" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="48" cy="55" r="2" fill="#000000"/>
+  <circle cx="62" cy="55" r="2" fill="#000000"/>
+  <!-- O mouth (shock) -->
+  <ellipse cx="55" cy="68" rx="4" ry="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- shock lines -->
+  <path d="M 30 35 L 25 30" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 80 35 L 85 30" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 25 50 L 18 50" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 85 50 L 92 50" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M 40 75 L 40 130 L 70 130 L 70 75 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- arms holding phone up -->
+  <path d="M 40 82 Q 30 95 35 115 L 50 110" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M 70 82 Q 80 95 75 115 L 60 110" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- legs -->
+  <path d="M 42 130 L 38 180 L 52 180 L 53 130 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M 57 130 L 58 180 L 72 180 L 68 130 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- feet -->
+  <ellipse cx="45" cy="185" rx="9" ry="5" fill="#000000"/>
+  <ellipse cx="65" cy="185" rx="9" ry="5" fill="#000000"/>
+  <!-- phone in front of person showing revealed identity -->
+  <rect x="100" y="80" width="80" height="115" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.22"/>
+  <rect x="108" y="92" width="64" height="92" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- profile name bar with X over fake photo -->
+  <rect x="112" y="96" width="56" height="42" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- fake portrait obscured -->
+  <circle cx="140" cy="117" r="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="136" cy="115" r="1.5" fill="#000000"/>
+  <circle cx="144" cy="115" r="1.5" fill="#000000"/>
+  <!-- RED X overlay revealing fake -->
+  <path d="M 112 96 L 168 138" stroke="#f8130d" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M 168 96 L 112 138" stroke="#f8130d" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- "FAKE" exclamation circle below -->
+  <rect x="112" y="146" width="56" height="32" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- exclamation mark path -->
+  <path d="M 138 150 L 142 150 L 141 168 L 139 168 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="140" cy="173" r="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- catfish jumping OUT of phone -->
+  <path d="M 180 130 Q 210 105 245 110 Q 260 120 250 140 Q 260 155 245 170 Q 215 175 195 165 Q 188 155 195 145 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- fish belly -->
+  <path d="M 200 165 Q 220 170 240 165" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- eye -->
+  <circle cx="240" cy="125" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="240" cy="125" r="2" fill="#000000"/>
+  <!-- mouth open -->
+  <path d="M 250 135 Q 258 140 250 148" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- whiskers -->
+  <path d="M 250 145 Q 260 152 268 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 245 150 Q 255 162 260 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- top fin -->
+  <path d="M 215 115 L 225 100 L 232 118 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- splash from phone -->
+  <path d="M 178 120 L 185 115" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 182 145 L 188 148" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

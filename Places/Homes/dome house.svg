@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- dome-house: geodesic hemisphere with triangular facets + door -->
+  <!-- ground line -->
+  <line x1="30" y1="190" x2="260" y2="190" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- main dome hemisphere -->
+  <path d="M30,190 A115,115 0 0,1 260,190 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- geodesic facet lines — horizontal rings -->
+  <path d="M55,155 A95,60 0 0,1 235,155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M83,118 A75,40 0 0,1 207,118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M108,90 A50,22 0 0,1 182,90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- geodesic facet lines — vertical ribs -->
+  <line x1="145" y1="75" x2="145" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="108" y1="90" x2="55" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="182" y1="90" x2="235" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="83" y1="118" x2="30" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="207" y1="118" x2="260" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- diagonal facet lines -->
+  <line x1="55" y1="155" x2="108" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="235" y1="155" x2="182" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="83" y1="118" x2="108" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="207" y1="118" x2="182" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- colour fill triangles (back to front, key facets) -->
+  <polygon points="145,75 108,90 182,90" fill="#90a7d6" stroke="none"/>
+  <polygon points="55,155 83,118 30,190" fill="#90a7d6" stroke="none"/>
+  <polygon points="235,155 207,118 260,190" fill="#90a7d6" stroke="none"/>
+  <!-- door arch -->
+  <rect x="118" y="162" width="54" height="29" rx="27" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="124" y="170" width="42" height="20" fill="#5e1f0a" stroke="none"/>
+</g></svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="translate(256 256)">
+<!-- tall stem -->
+<line x1="0" y1="-180" x2="14" y2="206" stroke="#2e7d40" stroke-width="14" stroke-linecap="round"/>
+<!-- leaves at base -->
+<path d="M 12 170 Q -56 150 -72 208 Q -20 208 12 178 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- tubular bell flowers down one side, biggest at bottom -->
+<g fill="#e85a8a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
+<ellipse cx="-30" cy="-150" rx="20" ry="14"/>
+<ellipse cx="-34" cy="-112" rx="24" ry="17"/>
+<ellipse cx="-38" cy="-68" rx="29" ry="21"/>
+<ellipse cx="-40" cy="-18" rx="33" ry="25"/>
+<ellipse cx="-40" cy="38" rx="36" ry="28"/>
+</g>
+<!-- bud tip -->
+<circle cx="-2" cy="-184" r="12" fill="#e85a8a" stroke="#1a1a1a" stroke-width="6"/>
+</g>
+</svg>

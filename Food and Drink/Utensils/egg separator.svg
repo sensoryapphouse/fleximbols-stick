@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- collecting bowl beneath (white catch bowl) -->
+  <path d="M 60 165 Q 60 220 145 220 Q 230 220 230 165 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- bowl rim -->
+  <ellipse cx="145" cy="165" rx="85" ry="14" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="163" rx="80" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- egg whites already separated in catch bowl -->
+  <path d="M 90 195 Q 110 205 145 207 Q 180 205 200 195" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- separator cup sitting on the rim -->
+  <path d="M 80 145 Q 80 100 145 100 Q 210 100 210 145 L 205 155 Q 145 165 85 155 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- notches around separator edge for whites to pass through -->
+  <path d="M 92 145 L 100 152 L 108 145" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M 118 148 L 126 156 L 134 148" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M 156 148 L 164 156 L 172 148" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M 182 145 L 190 152 L 198 145" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- handle/lip on side -->
+  <path d="M 210 115 L 235 110 L 235 130 L 210 130 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- yolk sitting in separator -->
+  <circle cx="145" cy="125" r="22" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="139" cy="120" r="6" fill="#f2e40d"/>
+  <!-- egg white dripping through notches -->
+  <path d="M 100 152 Q 100 162 102 170" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 190 152 Q 190 162 188 170" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 164 156 Q 164 168 165 175" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

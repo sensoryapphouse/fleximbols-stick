@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- chunky board book, rounded corners -->
+  <!-- back cover -->
+  <rect x="36" y="44" width="218" height="156" rx="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- pages stack edge -->
+  <rect x="40" y="50" width="210" height="144" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- spine fold -->
+  <line x1="145" y1="50" x2="145" y2="194" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- left page: big star -->
+  <path d="M92 100 L100 120 L122 122 L106 136 L112 158 L92 146 L72 158 L78 136 L62 122 L84 120 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right page: smiling sun -->
+  <circle cx="198" cy="124" r="22" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun rays -->
+  <line x1="198" y1="90" x2="198" y2="98" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="198" y1="150" x2="198" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="164" y1="124" x2="172" y2="124" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="224" y1="124" x2="232" y2="124" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="176" y1="102" x2="182" y2="108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="214" y1="140" x2="220" y2="146" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="176" y1="146" x2="182" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="214" y1="108" x2="220" y2="102" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- sun smile -->
+  <circle cx="191" cy="121" r="2" fill="#000000"/>
+  <circle cx="205" cy="121" r="2" fill="#000000"/>
+  <path d="M190 130 Q198 136 206 130" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- thickness on bottom showing it's a board book -->
+  <rect x="36" y="200" width="218" height="14" rx="6" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

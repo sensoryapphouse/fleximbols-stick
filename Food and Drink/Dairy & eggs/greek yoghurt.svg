@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tall wide tub body - taller and wider than single-serve cup -->
+  <path d="M 76,78 L 84,210 Q 86,222 145,224 Q 204,222 206,210 L 214,78 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tub rim -->
+  <path d="M 73,78 Q 73,88 145,90 Q 217,88 217,78 Q 217,68 145,66 Q 73,68 73,78 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Thick yogurt surface - high fill level -->
+  <path d="M 84,100 Q 84,112 145,114 Q 206,112 206,100 L 214,78 Q 217,88 145,90 Q 73,88 76,78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Thick dollop - mounded and dense on surface -->
+  <path d="M 110,100 Q 110,76 145,72 Q 180,76 180,100 Q 172,96 145,95 Q 118,96 110,100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dollop peak highlight showing thickness -->
+  <path d="M 130,88 Q 138,78 145,76 Q 152,78 160,88" fill="none" stroke="#b8b8b8" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Berry on top - single large visible berry -->
+  <circle cx="145" cy="66" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Berry highlight -->
+  <path d="M 138,60 Q 141,57 145,57" fill="none" stroke="#f4a4b2" stroke-width="3.18" stroke-linecap="round"/>
+  <!-- Berry leaf -->
+  <path d="M 145,52 Q 143,45 148,43 Q 152,45 150,52" fill="#529929" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Tub label - coloured band -->
+  <path d="M 86,175 Q 86,183 145,185 Q 204,183 204,175 L 202,158 Q 202,166 145,168 Q 88,166 88,158 Z" fill="#2a4ec0" stroke="none"/>
+  <!-- Label highlight text area (white block, no text) -->
+  <path d="M 106,163 Q 106,167 145,168 Q 184,167 184,163 Q 184,159 145,158 Q 106,159 106,163 Z" fill="#ffffff" stroke="none"/>
+</g></svg>

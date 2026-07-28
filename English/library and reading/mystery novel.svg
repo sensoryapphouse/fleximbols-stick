@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- book back cover -->
+  <path d="M55 35 L235 35 L235 215 L55 215 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- book front cover offset -->
+  <path d="M62 30 L228 30 L228 210 L62 210 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- spine line -->
+  <path d="M62 30 L62 210" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- dark inner panel -->
+  <path d="M78 50 L212 50 L212 195 L78 195 Z" fill="#392170" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- magnifying glass lens -->
+  <circle cx="135" cy="115" r="34" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="135" cy="115" r="34" fill="none" stroke="#7f7f7f" stroke-width="2.96"/>
+  <!-- magnifier handle -->
+  <path d="M159 139 L188 168 L178 178 L149 149 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- magnifier highlight -->
+  <path d="M118 100 Q125 92 138 92" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- question mark curve -->
+  <path d="M125 105 Q125 92 138 92 Q151 92 151 105 Q151 115 141 121 L141 128" fill="none" stroke="#f2e40d" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- question mark dot -->
+  <circle cx="141" cy="138" r="3.5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

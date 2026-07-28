@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Overall room outline (two rooms joined) -->
+  <rect x="26" y="32" width="238" height="176" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dividing wall between bedroom and bathroom -->
+  <line x1="152" y1="32" x2="152" y2="208" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Doorway gap in wall (swing into bathroom side) -->
+  <rect x="152" y="130" width="5" height="50" fill="#efefef"/>
+  <!-- Door swing arc (into bath side) -->
+  <path d="M157,130 Q197,130 197,170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="6,4"/>
+  <!-- Door leaf -->
+  <line x1="157" y1="130" x2="197" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- BEDROOM SIDE (left) -->
+  <rect x="26" y="32" width="126" height="176" rx="0" fill="#efefef"/>
+  <!-- Bed frame -->
+  <rect x="36" y="76" width="106" height="110" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Headboard -->
+  <rect x="36" y="60" width="106" height="22" rx="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Mattress -->
+  <rect x="44" y="90" width="90" height="90" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pillow -->
+  <rect x="54" y="98" width="34" height="22" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="96" y="98" width="34" height="22" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Duvet -->
+  <rect x="44" y="124" width="90" height="56" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- BATHROOM SIDE (right) -->
+  <rect x="157" y="32" width="107" height="176" rx="0" fill="#dff3fd"/>
+  <!-- Toilet -->
+  <rect x="162" y="42" width="42" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="165" y="68" width="36" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="183" cy="96" rx="20" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M162,72 Q183,62 204,72" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Sink -->
+  <rect x="208" y="42" width="46" height="34" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="216" y="36" width="10" height="8" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Shower cubicle -->
+  <rect x="162" y="118" width="92" height="74" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="168" y="124" width="80" height="62" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Shower head -->
+  <circle cx="236" cy="138" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="236" y1="130" x2="236" y2="122" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

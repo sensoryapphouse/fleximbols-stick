@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Clipboard back -->
+  <rect x="42" y="30" width="170" height="198" rx="10" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Clipboard header band -->
+  <rect x="42" y="30" width="170" height="32" rx="10" ry="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="42" y="48" width="170" height="14" fill="#2a4ec0" stroke="none"/>
+  <!-- Clip/clamp at top -->
+  <rect x="105" y="22" width="44" height="20" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="114" y="14" width="26" height="18" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Row lines with leading dots (simulate data rows) -->
+  <circle cx="62" cy="82" r="4" fill="#4d4d4d"/>
+  <line x1="72" y1="82" x2="185" y2="82" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="62" cy="98" r="4" fill="#4d4d4d"/>
+  <line x1="72" y1="98" x2="175" y2="98" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="62" cy="114" r="4" fill="#4d4d4d"/>
+  <line x1="72" y1="114" x2="182" y2="114" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="62" cy="130" r="4" fill="#4d4d4d"/>
+  <line x1="72" y1="130" x2="170" y2="130" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="62" cy="146" r="4" fill="#4d4d4d"/>
+  <line x1="72" y1="146" x2="178" y2="146" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Mini bar chart (bottom-left of clipboard) -->
+  <rect x="55" y="175" width="14" height="28" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="74" y="163" width="14" height="40" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="93" y="155" width="14" height="48" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <line x1="50" y1="203" x2="115" y2="203" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Approval stamp (circle with checkmark, top-right area) -->
+  <circle cx="185" cy="185" r="28" fill="#ffffff" stroke="#529929" stroke-width="6.66"/>
+  <circle cx="185" cy="185" r="28" fill="none" stroke="#529929" stroke-width="6.66" stroke-dasharray="8 4"/>
+  <polyline points="172,185 181,196 200,172" fill="none" stroke="#529929" stroke-width="6.66" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

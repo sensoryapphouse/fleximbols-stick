@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- carry strap across -->
+<path d="M 96 196 Q 256 150 416 196" fill="none" stroke="#6b4a2b" stroke-width="16" stroke-linecap="round"/>
+<!-- left page -->
+<path d="M 100 210 L 256 188 L 256 372 L 100 360 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right page -->
+<path d="M 412 210 L 256 188 L 256 372 L 412 360 Z" fill="#fff6cf" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="256" y1="188" x2="256" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- left cells -->
+<g stroke="#1a1a1a" stroke-width="6">
+<rect x="118" y="232" width="50" height="42" rx="5" fill="#f4c430"/><rect x="176" y="226" width="50" height="42" rx="5" fill="#8cc152"/>
+<rect x="118" y="286" width="50" height="42" rx="5" fill="#3d7fb5"/><rect x="176" y="280" width="50" height="42" rx="5" fill="#e85a8a"/>
+</g>
+<!-- right cells -->
+<g stroke="#1a1a1a" stroke-width="6">
+<rect x="286" y="226" width="50" height="42" rx="5" fill="#e85a8a"/><rect x="344" y="232" width="50" height="42" rx="5" fill="#f4c430"/>
+<rect x="286" y="280" width="50" height="42" rx="5" fill="#8cc152"/><rect x="344" y="286" width="50" height="42" rx="5" fill="#e08a3a"/>
+</g>
+</svg>

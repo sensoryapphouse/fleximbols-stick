@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="100" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- shallow water -->
+  <rect x="0" y="100" width="290" height="140" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- ripple lines -->
+  <path d="M10 165 Q60 162 110 165 T210 165 T280 165" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M10 215 Q60 212 110 215 T210 215 T280 215" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- mud bank base behind cattails -->
+  <path d="M0 100 Q145 90 290 100 L290 110 L0 110 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- cattails left cluster -->
+  <path d="M40 110 L40 35" fill="none" stroke="#529929" stroke-width="6.22" stroke-linecap="round"/>
+  <ellipse cx="40" cy="30" rx="5" ry="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M40 16 L40 8" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M55 110 L55 50" fill="none" stroke="#529929" stroke-width="6.22" stroke-linecap="round"/>
+  <ellipse cx="55" cy="45" rx="5" ry="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M55 31 L55 23" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- thin leaf -->
+  <path d="M28 110 Q22 70 30 30" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- cattails right cluster -->
+  <path d="M250 110 L250 30" fill="none" stroke="#529929" stroke-width="6.22" stroke-linecap="round"/>
+  <ellipse cx="250" cy="25" rx="5" ry="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M250 11 L250 4" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M265 110 L265 45" fill="none" stroke="#529929" stroke-width="6.22" stroke-linecap="round"/>
+  <ellipse cx="265" cy="40" rx="5" ry="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M265 26 L265 18" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M275 110 Q283 70 270 30" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- lily pads -->
+  <path d="M90 140 A20 8 0 1 0 130 140 L120 138 L115 142 L110 138 L105 142 L100 138 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M170 190 A24 9 0 1 0 218 190 L208 188 L202 192 L196 188 L190 192 L184 188 L178 192 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- duck centre -->
+  <!-- body -->
+  <ellipse cx="145" cy="170" rx="32" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- head -->
+  <circle cx="175" cy="155" r="13" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- beak -->
+  <path d="M186 158 L200 158 L200 164 L186 164 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- eye -->
+  <circle cx="178" cy="152" r="1.8" fill="#000000"/>
+  <!-- tail -->
+  <path d="M116 165 L106 160 L110 172 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- wing -->
+  <path d="M135 165 Q150 175 165 165" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

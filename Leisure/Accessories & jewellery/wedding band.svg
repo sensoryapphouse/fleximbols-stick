@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ring box (open) -->
+  <!-- bottom (box) -->
+  <path d="M40 145 L40 215 L250 215 L250 145 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- box rim -->
+  <rect x="40" y="138" width="210" height="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.18"/>
+  <!-- inner velvet cushion -->
+  <rect x="52" y="150" width="186" height="58" rx="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- velvet slot for rings -->
+  <path d="M70 178 L220 178" stroke="#392170" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- LID (open, behind) -->
+  <path d="M30 138 L30 50 L260 50 L260 138" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- lid interior lining -->
+  <rect x="44" y="62" width="202" height="72" rx="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- inner satin lines -->
+  <path d="M50 78 L240 78" stroke="#f266aa" stroke-width="2.96"/>
+  <path d="M50 92 L240 92" stroke="#f266aa" stroke-width="2.96"/>
+  <path d="M50 106 L240 106" stroke="#f266aa" stroke-width="2.96"/>
+  <path d="M50 120 L240 120" stroke="#f266aa" stroke-width="2.96"/>
+
+  <!-- HIS RING (left, plain gold band, thicker) -->
+  <circle cx="110" cy="178" r="32" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="110" cy="178" r="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- inner highlight -->
+  <path d="M90 165 Q105 158 130 162" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- HERS RING (right, with diamond solitaire) -->
+  <circle cx="190" cy="180" r="28" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="190" cy="180" r="19" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- diamond setting on top -->
+  <path d="M180 156 L200 156 L195 144 L190 138 L185 144 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- diamond facet lines -->
+  <path d="M180 156 L190 138 L200 156" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M185 156 L190 156 L195 156" stroke="#90a7d6" stroke-width="2.22"/>
+  <!-- inner highlight -->
+  <path d="M173 168 Q188 162 208 166" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- SPARKLE 1 (upper right of diamond) -->
+  <path d="M214 130 L217 120 L220 130 L230 133 L220 136 L217 146 L214 136 L204 133 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- SPARKLE 2 (upper left, smaller) -->
+  <path d="M64 100 L66 92 L68 100 L76 102 L68 104 L66 112 L64 104 L56 102 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- SPARKLE 3 (top centre, tiny) -->
+  <path d="M148 38 L150 32 L152 38 L158 40 L152 42 L150 48 L148 42 L142 40 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

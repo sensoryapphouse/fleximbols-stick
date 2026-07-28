@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- American-style biscuit: round, LAYERED flaky, golden, no liner -->
+  <!-- Shadow/plate base hint -->
+  <ellipse cx="145" cy="205" rx="100" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="6.47"/>
+  <!-- Biscuit bottom layer -->
+  <path d="M 48,175 Q 48,210 145,218 Q 242,210 242,175 Q 242,158 145,152 Q 48,158 48,175 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Flaky layer 1 - middle seam (the main split) - key visual indicator of layered biscuit -->
+  <path d="M 52,172 Q 145,164 238,172" fill="none" stroke="#f5e7c4" stroke-width="9.69" stroke-linecap="round"/>
+  <path d="M 52,172 Q 145,164 238,172" fill="none" stroke="#e65a00" stroke-width="4.85" stroke-linecap="round"/>
+  <!-- Top portion of biscuit -->
+  <path d="M 45,160 Q 42,140 145,130 Q 248,140 245,160 Q 245,175 145,178 Q 45,175 45,160 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Biscuit top dome - golden-brown baked -->
+  <ellipse cx="145" cy="148" rx="100" ry="26" fill="#e65a00" stroke="#1a1a1a" stroke-width="8.08" stroke-linecap="round"/>
+  <!-- Top highlights - golden lighter center -->
+  <ellipse cx="145" cy="144" rx="76" ry="16" fill="#ff9900" stroke="none"/>
+  <!-- Flaky fold lines on top surface -->
+  <path d="M 80,146 Q 95,136 110,146" fill="none" stroke="#e65a00" stroke-width="4.04" stroke-linecap="round"/>
+  <path d="M 110,140 Q 125,132 140,140" fill="none" stroke="#e65a00" stroke-width="4.04" stroke-linecap="round"/>
+  <path d="M 150,140 Q 165,132 180,140" fill="none" stroke="#e65a00" stroke-width="4.04" stroke-linecap="round"/>
+  <path d="M 180,146 Q 195,136 210,146" fill="none" stroke="#e65a00" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- Side flake lines - indicate layers -->
+  <path d="M 48,165 Q 145,157 242,165" fill="none" stroke="#e65a00" stroke-width="3.23" stroke-linecap="round"/>
+  <path d="M 50,170 Q 145,162 240,170" fill="none" stroke="#f5e7c4" stroke-width="3.23" stroke-linecap="round"/>
+  <!-- Crumb-edge flecks at split seam -->
+  <circle cx="78" cy="172" r="3" fill="#f5e7c4" stroke="none"/>
+  <circle cx="106" cy="169" r="3" fill="#f5e7c4" stroke="none"/>
+  <circle cx="134" cy="168" r="3" fill="#f5e7c4" stroke="none"/>
+  <circle cx="156" cy="168" r="3" fill="#f5e7c4" stroke="none"/>
+  <circle cx="184" cy="169" r="3" fill="#f5e7c4" stroke="none"/>
+  <circle cx="212" cy="172" r="3" fill="#f5e7c4" stroke="none"/>
+</g></svg>

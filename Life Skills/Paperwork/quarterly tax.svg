@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- calendar back -->
+  <rect x="30" y="35" width="160" height="170" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- calendar header -->
+  <rect x="30" y="35" width="160" height="30" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- rings -->
+  <rect x="55" y="22" width="8" height="22" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="155" y="22" width="8" height="22" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- grid lines -->
+  <line x1="30" y1="100" x2="190" y2="100" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="30" y1="135" x2="190" y2="135" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="30" y1="170" x2="190" y2="170" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="70" y1="65" x2="70" y2="205" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="110" y1="65" x2="110" y2="205" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="150" y1="65" x2="150" y2="205" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Q1 marker (top-left cell) -->
+  <circle cx="50" cy="82" r="11" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Q2 marker -->
+  <circle cx="130" cy="117" r="11" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Q3 marker -->
+  <circle cx="50" cy="152" r="11" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Q4 marker -->
+  <circle cx="170" cy="187" r="11" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- "4" as path on header -->
+  <path d="M 95 42 L 95 54 L 110 54 M 100 54 L 100 60 M 110 42 L 110 60" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- tax form / dollar bill in front-right -->
+  <rect x="170" y="115" width="95" height="90" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="178" y="123" width="79" height="74" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="217" cy="160" r="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- $ as path -->
+  <path d="M 217 145 L 217 150 a 8 5 0 0 0 -8 5 a 8 5 0 0 0 8 5 a 8 5 0 0 1 8 5 a 8 5 0 0 1 -8 5 L 217 175 M 209 152 L 209 168" fill="none" stroke="#137827" stroke-width="7.78" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

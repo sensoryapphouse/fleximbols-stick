@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bagel base (bottom half visible, ring shape) -->
+  <!-- Cream cheese layer -->
+  <ellipse cx="145" cy="138" rx="88" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Bagel bottom ring -->
+  <ellipse cx="145" cy="145" rx="88" ry="32" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="143" rx="42" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Bagel top ring -->
+  <ellipse cx="145" cy="118" rx="88" ry="32" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="116" rx="42" ry="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Sesame seeds on top bagel -->
+  <ellipse cx="110" cy="103" rx="5" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20,110,103)"/>
+  <ellipse cx="128" cy="97" rx="5" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10,128,97)"/>
+  <ellipse cx="148" cy="95" rx="5" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-5,148,95)"/>
+  <ellipse cx="168" cy="97" rx="5" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15,168,97)"/>
+  <ellipse cx="184" cy="103" rx="5" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10,184,103)"/>
+  <!-- Cream cheese visible between halves -->
+  <ellipse cx="145" cy="131" rx="82" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Lox (smoked salmon) slices on top of cream cheese -->
+  <path d="M 80 128 Q 100 118 125 122 Q 140 124 130 132 Q 110 136 85 133 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M 150 120 Q 175 115 198 122 Q 205 128 195 133 Q 170 136 155 130 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Salmon pink texture lines -->
+  <path d="M 88 126 Q 108 122 125 125" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 157 122 Q 175 118 193 124" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Capers (small dark green dots) -->
+  <circle cx="105" cy="130" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="127" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="128" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="185" cy="131" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky darkened by ash -->
+  <rect x="26" y="32" width="238" height="176" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bay of Naples water -->
+  <rect x="0" y="200" width="290" height="40" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- water ripples -->
+  <path d="M10 215 L40 215 M60 222 L90 222 M150 215 L180 215 M210 225 L240 225" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- volcano body -->
+  <path d="M40 200 L100 90 L140 80 L180 90 L240 200 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- volcano slope shading -->
+  <path d="M100 90 L140 200 L180 90 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- crater rim -->
+  <path d="M100 90 Q140 70 180 90" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- lava flow down side -->
+  <path d="M135 85 Q130 130 145 170 Q150 190 140 200" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M140 85 Q145 130 130 170 Q125 190 135 200" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- erupting plume -->
+  <path d="M120 90 Q90 60 100 30 Q140 10 160 30 Q190 50 180 80 Q200 75 195 95 L150 90 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M130 70 Q120 50 140 40 Q160 30 170 50" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lava chunks in plume -->
+  <circle cx="130" cy="60" r="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="50" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pompeii ruins at base (left) -->
+  <rect x="20" y="185" width="12" height="15" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M18 185 L26 178 L34 185" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <rect x="38" y="190" width="14" height="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- broken column -->
+  <rect x="245" y="185" width="6" height="15" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="255" y="190" width="6" height="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="265" y="180" width="6" height="20" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M243 185 L273 185" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

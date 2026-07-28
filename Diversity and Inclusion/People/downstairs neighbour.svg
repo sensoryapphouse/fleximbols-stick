@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- DOWNSTAIRS-NEIGHBOR: two houses stacked vertically + neighbour full body on lower floor + arrow down -->
+  <!-- Outer two-storey building -->
+  <rect x="40" y="20" width="180" height="206" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Roof -->
+  <polygon points="30,20 130,4 230,20" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Floor divider -->
+  <rect x="40" y="118" width="180" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Upper floor (apartment 1) -->
+  <rect x="56" y="40" width="40" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="76" y1="40" x2="76" y2="80" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="56" y1="60" x2="96" y2="60" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="40" width="40" height="64" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="148" cy="74" r="2.5" fill="#000000"/>
+  <!-- door number "2" rendered as path -->
+  <path d="M126,52 Q126,46 132,46 Q138,46 138,52 L126,62 L138,62" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="174" y="40" width="40" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="194" y1="40" x2="194" y2="80" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="174" y1="60" x2="214" y2="60" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lower floor (apartment 1, where neighbour lives) -->
+  <rect x="56" y="138" width="40" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="76" y1="138" x2="76" y2="178" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="56" y1="158" x2="96" y2="158" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="116" y="138" width="40" height="64" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="148" cy="172" r="2.5" fill="#000000"/>
+  <!-- door number "1" as path -->
+  <path d="M132,148 L132,160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M128,152 L132,148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="174" y="138" width="40" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="194" y1="138" x2="194" y2="178" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="174" y1="158" x2="214" y2="158" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Down arrow pointing to lower floor -->
+  <line x1="252" y1="30" x2="252" y2="180" stroke="#ff9900" stroke-width="8.88" stroke-linecap="round"/>
+  <polygon points="252,190 240,170 264,170" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Neighbour full body standing in front of lower floor (on ground line) -->
+  <!-- Place in front of lower-left window: body centred at x=66, scaled to fit between y=132 and y=222 -->
+  <circle cx="22" cy="148" r="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M12,146 Q14,136 22,136 Q30,136 32,146" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="19" cy="150" r="1.5" fill="#000000"/>
+  <circle cx="25" cy="150" r="1.5" fill="#000000"/>
+  <path d="M19,154 Q22,156 25,154" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <rect x="18" y="158" width="8" height="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M10,164 L18,162 L22,166 L26,162 L34,164 L36,200 L8,200 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Arms (down, full body figure) -->
+  <line x1="10" y1="170" x2="4" y2="190" stroke="#d01424" stroke-width="10.36" stroke-linecap="round"/>
+  <line x1="10" y1="170" x2="4" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <circle cx="4" cy="192" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="34" y1="170" x2="40" y2="190" stroke="#d01424" stroke-width="10.36" stroke-linecap="round"/>
+  <line x1="34" y1="170" x2="40" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <circle cx="40" cy="192" r="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Legs -->
+  <rect x="12" y="200" width="9" height="22" rx="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="23" y="200" width="9" height="22" rx="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="8" y="220" width="16" height="6" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="22" y="220" width="16" height="6" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

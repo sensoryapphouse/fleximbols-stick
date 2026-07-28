@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ===== back sock (red), tilted ===== -->
+<g transform="rotate(-10 320 256)">
+<!-- sock silhouette: cuff at top, leg, heel at back, foot to the right, rounded toe -->
+<path d="M 300 124
+ L 392 124
+ L 392 280
+ Q 392 318 422 332
+ Q 470 352 470 392
+ Q 470 420 436 420
+ Q 384 420 358 392
+ Q 300 358 300 280
+ Z" fill="#eef2f6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- coloured toe cap -->
+<path d="M 470 392 Q 470 420 436 420 Q 410 420 392 408 Q 410 388 444 388 Q 466 384 470 392 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- heel shading -->
+<path d="M 392 300 Q 396 330 422 344 Q 414 312 392 296 Z" fill="#d4dbe2" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- ribbed cuff -->
+<rect x="296" y="110" width="100" height="34" rx="10" fill="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+<!-- ===== front sock (blue), tilted ===== -->
+<g transform="rotate(-10 190 268)">
+<path d="M 130 160
+ L 222 160
+ L 222 316
+ Q 222 354 252 368
+ Q 300 388 300 428
+ Q 300 456 266 456
+ Q 214 456 188 428
+ Q 130 394 130 316
+ Z" fill="#f7fafc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 300 428 Q 300 456 266 456 Q 240 456 222 444 Q 240 424 274 424 Q 296 420 300 428 Z" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 222 336 Q 226 366 252 380 Q 244 348 222 332 Z" fill="#dce4ea" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<rect x="126" y="146" width="100" height="34" rx="10" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+</svg>

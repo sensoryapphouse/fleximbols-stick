@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- comic book cover, bold yellow with red banner -->
+  <rect x="50" y="20" width="190" height="200" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- red top banner -->
+  <rect x="50" y="20" width="190" height="32" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- starburst behind hero -->
+  <path d="M 145,90 L 158,100 L 175,92 L 168,110 L 185,120 L 168,128 L 175,148 L 158,140 L 145,158 L 132,140 L 115,148 L 122,128 L 105,120 L 122,110 L 115,92 L 132,100 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- superhero full body: head -->
+  <circle cx="145" cy="105" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- mask -->
+  <path d="M 131,102 Q 145,96 159,102 L 159,108 Q 145,112 131,108 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- eyes (white dots in mask) -->
+  <circle cx="139" cy="105" r="1.5" fill="#ffffff"/>
+  <circle cx="151" cy="105" r="1.5" fill="#ffffff"/>
+  <!-- torso (blue chest, red emblem area) -->
+  <rect x="128" y="118" width="34" height="40" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- chest emblem -->
+  <path d="M 138,130 L 152,130 L 148,148 L 142,148 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- arms raised in punch pose -->
+  <path d="M 128,122 L 110,140 L 116,150 L 132,134 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 162,122 L 184,108 L 192,116 L 168,134 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- fists -->
+  <circle cx="113" cy="146" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="188" cy="112" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- legs in red tights -->
+  <rect x="130" y="158" width="13" height="32" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="147" y="158" width="13" height="32" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- boots -->
+  <rect x="127" y="186" width="18" height="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="145" y="186" width="18" height="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- speech bubble POW -->
+  <path d="M 195,150 L 210,140 L 222,148 L 235,142 L 232,158 L 244,168 L 228,172 L 222,188 L 212,176 L 198,182 L 200,168 L 188,162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- POW dot accents -->
+  <circle cx="215" cy="160" r="2" fill="#000000"/>
+  <circle cx="222" cy="166" r="2" fill="#000000"/>
+  <circle cx="229" cy="160" r="2" fill="#000000"/>
+  <!-- second speech bubble -->
+  <ellipse cx="75" cy="170" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 88,180 L 96,195 L 92,180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="68" cy="170" r="2" fill="#000000"/>
+  <circle cx="75" cy="170" r="2" fill="#000000"/>
+  <circle cx="82" cy="170" r="2" fill="#000000"/>
+  <!-- spine -->
+  <rect x="46" y="20" width="6" height="200" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

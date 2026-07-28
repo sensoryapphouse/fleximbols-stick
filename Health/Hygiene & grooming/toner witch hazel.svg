@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- toner bottle -->
+  <rect x="90" y="55" width="60" height="20" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="85" y="75" width="70" height="155" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- label -->
+  <rect x="92" y="105" width="56" height="95" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- witch-hazel plant: stem + spidery yellow flowers -->
+  <path d="M120 195 L120 130" stroke="#67832d" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M120 165 L108 158" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M120 165 L132 158" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- leaf -->
+  <path d="M108 158 Q98 150 100 140 Q110 145 108 158 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M132 158 Q142 150 140 140 Q130 145 132 158 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- spidery yellow flower at top -->
+  <circle cx="120" cy="130" r="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M120 130 L114 118" stroke="#f2e40d" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M120 130 L120 116" stroke="#f2e40d" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M120 130 L126 118" stroke="#f2e40d" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M120 130 L110 122" stroke="#f2e40d" stroke-width="5.56" stroke-linecap="round"/>
+  <path d="M120 130 L130 122" stroke="#f2e40d" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- WITCH HAZEL text path -->
+  <!-- W -->
+  <path d="M95 210 L98 210 L99 215 L100 210 L102 210 L103 215 L104 210 L107 210 L105 220 L102 220 L101 216 L100 220 L97 220 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- H -->
+  <path d="M109 210 L112 210 L112 214 L116 214 L116 210 L119 210 L119 220 L116 220 L116 217 L112 217 L112 220 L109 220 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- - -->
+  <path d="M122 215 L125 215 L125 217 L122 217 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- H -->
+  <path d="M128 210 L131 210 L131 214 L135 214 L135 210 L138 210 L138 220 L135 220 L135 217 L131 217 L131 220 L128 220 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M141 210 L144 210 L148 220 L145 220 L144.5 218 L142.5 218 L142 220 L139 220 Z M143 215 L144 215 L143.5 213 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" fill-rule="evenodd"/>
+  <!-- amber bottle highlight strip -->
+  <rect x="160" y="80" width="6" height="140" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

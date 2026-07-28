@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- padded sleeve (larger) -->
+  <path d="M70 30 Q58 60 58 120 Q58 180 70 210 L220 210 Q232 180 232 120 Q232 60 220 30 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top band -->
+  <rect x="60" y="30" width="170" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bottom band -->
+  <rect x="60" y="194" width="170" height="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- big hard cap -->
+  <ellipse cx="145" cy="120" rx="74" ry="64" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- cap ridges -->
+  <path d="M90 90 Q145 78 200 90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M82 120 Q145 108 208 120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M90 150 Q145 138 200 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- highlight -->
+  <ellipse cx="125" cy="100" rx="14" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

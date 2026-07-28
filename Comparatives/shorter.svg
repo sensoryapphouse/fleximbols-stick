@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.3737) translate(-243.00 -284.00)">
+<!-- two solid vertical bars on a shared GROUND line; short bar is the target -->
+<rect x="150.0" y="270.0" width="74.0" height="170.0" rx="10" fill="#e07a2c" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="300.0" y="120.0" width="74.0" height="320.0" rx="10" fill="#e07a2c" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="120" y1="448" x2="404" y2="448" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- red height bracket on the SHORT (target) bar -->
+<line x1="100" y1="270" x2="100" y2="440" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/><line x1="100" y1="270" x2="100" y2="440" stroke="#e0473c" stroke-width="12" stroke-linecap="round"/>
+<line x1="82" y1="270" x2="118" y2="270" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/><line x1="82" y1="270" x2="118" y2="270" stroke="#e0473c" stroke-width="12" stroke-linecap="round"/>
+<line x1="82" y1="440" x2="118" y2="440" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/><line x1="82" y1="440" x2="118" y2="440" stroke="#e0473c" stroke-width="12" stroke-linecap="round"/>
+<polygon points="100.0,440.0 85.0,410.0 115.0,410.0" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+<!-- dashed marker: short bar falls short of the tall bar's top -->
+<line x1="150" y1="270" x2="300" y2="270" stroke="#e0473c" stroke-width="7" stroke-dasharray="14 12" stroke-linecap="round"/>
+</g></svg>

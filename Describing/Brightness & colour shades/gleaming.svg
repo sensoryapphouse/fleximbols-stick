@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 101.86 321.94 321.94">
+<!-- gold ingot / bar, polished and gleaming -->
+<polygon points="150,300 362,300 392,372 120,372" fill="#f0b400" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="150,300 362,300 348,256 178,256" fill="#f6cf4a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- diagonal polish highlights sweeping across the top face -->
+<line x1="206" y1="266" x2="186" y2="362" stroke="#ffffff" stroke-width="13" stroke-linecap="round" opacity="0.9"/>
+<line x1="250" y1="266" x2="236" y2="362" stroke="#ffffff" stroke-width="7" stroke-linecap="round" opacity="0.75"/>
+<!-- bright glint star top corner -->
+<g fill="#fffbe0" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+<polygon points="318,150 330,188 368,200 330,212 318,250 306,212 268,200 306,188"/>
+</g>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Perch branch -->
+  <path d="M 40,192 Q 145,185 248,192" fill="none" stroke="#7d5e23" stroke-width="13.33" stroke-linecap="round"/>
+  <!-- Folded left wing -->
+  <path d="M 108,148 Q 88,155 80,175 Q 78,188 88,192 Q 105,196 120,185 Q 115,170 118,152" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wing feather tips left -->
+  <path d="M 80,178 Q 84,185 92,188 M 82,185 Q 87,191 95,192" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Folded right wing -->
+  <path d="M 182,148 Q 202,155 210,175 Q 212,188 202,192 Q 185,196 170,185 Q 175,170 172,152" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wing feather tips right -->
+  <path d="M 210,178 Q 206,185 198,188 M 208,185 Q 203,191 195,192" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Body -->
+  <ellipse cx="145" cy="162" rx="48" ry="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Barred chest — key raptor feature -->
+  <ellipse cx="145" cy="170" rx="32" ry="30" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 118,158 Q 145,154 172,158" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 115,165 Q 145,161 175,165" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 115,173 Q 145,169 175,173" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 116,181 Q 145,177 174,181" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tail -->
+  <path d="M 120,196 Q 145,204 170,196 Q 164,218 145,222 Q 126,218 120,196 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tail bar -->
+  <path d="M 123,208 Q 145,212 167,208" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Neck -->
+  <path d="M 125,128 Q 128,118 145,115 Q 162,118 165,128" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="102" rx="32" ry="28" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Crown darker -->
+  <path d="M 120,96 Q 145,80 170,96 Q 162,106 145,108 Q 128,106 120,96 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Eyes (fierce, yellow iris) -->
+  <circle cx="132" cy="100" r="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="132" cy="100" r="5" fill="#000000"/>
+  <circle cx="134" cy="98" r="2" fill="#ffffff"/>
+  <circle cx="158" cy="100" r="9" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="158" cy="100" r="5" fill="#000000"/>
+  <circle cx="160" cy="98" r="2" fill="#ffffff"/>
+  <!-- Superciliary ridge (brow) -->
+  <path d="M 123,92 Q 132,88 142,91" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 148,91 Q 158,88 167,92" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hooked beak — key raptor feature -->
+  <path d="M 136,110 Q 145,107 154,110 Q 157,116 154,122 Q 148,127 145,125" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Beak hook down -->
+  <path d="M 154,122 Q 160,126 158,133 Q 152,136 147,131 Q 145,127 148,124" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cere -->
+  <path d="M 136,110 Q 145,106 154,110 Q 150,107 145,107 Q 140,107 136,110 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Talons on perch -->
+  <path d="M 128,192 L 122,200 M 133,193 L 130,202 M 138,193 L 138,203 M 143,192 L 146,201" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 148,192 L 144,201 M 153,193 L 152,202 M 158,193 L 160,202 M 163,192 L 168,200" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Leg feathering -->
+  <line x1="133" y1="190" x2="128" y2="200" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="157" y1="190" x2="162" y2="200" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg236" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg236)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

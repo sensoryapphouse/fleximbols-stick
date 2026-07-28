@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- leaf -->
+  <path d="M 175 55 Q 215 35 235 60 Q 220 85 180 80 Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 180 78 Q 205 65 230 60" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- stem -->
+  <path d="M 165 80 Q 170 70 178 65" fill="none" stroke="#5e1f0a" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- lemon body: oval with pointed ends -->
+  <path d="M 60 130 Q 50 95 95 80 Q 145 70 195 90 Q 240 110 235 140 Q 230 175 185 195 Q 130 210 85 195 Q 50 180 60 130 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- pointed tip left -->
+  <path d="M 60 130 Q 45 125 38 132 Q 48 138 60 138" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- pointed tip right -->
+  <path d="M 235 138 Q 252 138 258 146 Q 248 152 235 150" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- highlight -->
+  <path d="M 95 110 Q 115 100 140 100" fill="none" stroke="#fff200" stroke-width="6.34" stroke-linecap="round"/>
+  <!-- skin dots -->
+  <circle cx="120" cy="155" r="3" fill="#67832d" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="170" cy="170" r="3" fill="#67832d" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="200" cy="145" r="3" fill="#67832d" stroke="#1a1a1a" stroke-width="2.54"/>
+</g></svg>

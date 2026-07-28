@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.3779) translate(-265.50 -323.50)">
+<g transform="translate(68.6,152.2) scale(0.644)"><g stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- baby bib (product only, no baby) -->
+    <!-- neck opening -->
+    <path d="M110 90 Q150 70 190 90 Q205 110 190 130 Q150 116 110 130 Q95 110 110 90 Z" fill="#ffffff" />
+    <!-- bib body -->
+    <path d="M105 125 Q60 165 55 270 Q52 360 150 400 Q248 360 245 270 Q240 165 195 125 Q150 150 105 125 Z" fill="#ffd24d" />
+    <!-- tie straps -->
+    <path d="M112 100 Q70 85 58 110" fill="none" stroke-width="9" />
+    <path d="M188 100 Q230 85 242 110" fill="none" stroke-width="9" />
+    <!-- pocket at bottom -->
+    <path d="M85 320 Q150 350 215 320 L210 372 Q150 396 90 372 Z" fill="#ffb800" />
+    <!-- decorative heart -->
+    <path d="M150 215 q-22 -30 -42 -8 q-14 18 42 50 q56 -32 42 -50 q-20 -22 -42 8 Z" fill="#ff5577" />
+  </g></g>
+<line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#33373d"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#33373d"/>
+<line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffcf33" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#5a3a1f" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="315" r="6" fill="#f4a4a4" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

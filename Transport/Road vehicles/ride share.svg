@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Road / ground -->
+  <rect x="25" y="185" width="240" height="18" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Road markings -->
+  <rect x="100" y="191" width="30" height="6" rx="2" fill="#ffffff"/>
+  <rect x="160" y="191" width="30" height="6" rx="2" fill="#ffffff"/>
+  <!-- Car body -->
+  <rect x="45" y="140" width="200" height="52" rx="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Car roof/cabin -->
+  <path d="M85 140 Q100 108 130 105 L165 105 Q190 108 205 140 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Windscreen -->
+  <path d="M95 138 Q108 115 130 112 L160 112 Q180 115 193 138 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Windows side -->
+  <rect x="88" y="143" width="42" height="26" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="140" y="143" width="42" height="26" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wheels -->
+  <circle cx="90" cy="192" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="90" cy="192" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="192" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="200" cy="192" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Headlights -->
+  <rect x="45" y="152" width="18" height="10" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tail lights -->
+  <rect x="227" y="152" width="18" height="10" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Location pin A (pickup) -->
+  <path d="M88 80 Q88 52 108 46 Q128 40 132 60 Q132 75 108 95 Q88 80 88 80 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="110" cy="62" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Location pin B (dropoff) -->
+  <path d="M168 65 Q168 37 188 31 Q208 25 212 45 Q212 60 188 80 Q168 65 168 65 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="190" cy="47" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dashed route line between pins -->
+  <line x1="122" y1="72" x2="168" y2="58" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="8 6" stroke-linecap="round"/>
+  <!-- Arrow on dashed line -->
+  <polygon points="168,58 156,52 158,64" fill="#000000"/>
+</g></svg>

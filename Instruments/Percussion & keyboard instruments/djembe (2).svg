@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Djembe: goblet/chalice-shaped drum, skin head, vertical rope lacing zigzag -->
+  <!-- Goblet base foot -->
+  <ellipse cx="145" cy="222" rx="36" ry="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Stem / waist of goblet -->
+  <path d="M125,222 Q118,198 116,178 Q114,162 122,155 L168,155 Q176,162 174,178 Q172,198 165,222 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Upper bowl (wide top of goblet) -->
+  <path d="M96,72 Q88,130 96,155 L194,155 Q202,130 194,72 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bowl shaping - slight curve in -->
+  <path d="M96,72 Q88,130 96,155" fill="none" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M194,72 Q202,130 194,155" fill="none" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Drum head (top skin) -->
+  <ellipse cx="145" cy="72" rx="50" ry="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Head tensioning ring -->
+  <ellipse cx="145" cy="72" rx="50" ry="16" fill="none" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- Rope crown ring top -->
+  <ellipse cx="145" cy="88" rx="50" ry="14" fill="none" stroke="#d01424" stroke-width="5.55"/>
+  <!-- Vertical rope lacing zigzag (10 ropes) -->
+  <polyline points="99,88 92,108 99,128 92,148 96,155" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="111,89 106,108 111,128 106,148 108,155" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="123,90 120,108 123,128 120,148 121,155" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="145,91 145,108 145,128 145,148 145,155" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="167,90 170,108 167,128 170,148 169,155" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="179,89 184,108 179,128 184,148 182,155" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="191,88 198,108 191,128 198,148 194,155" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Horizontal ring lacing ties -->
+  <path d="M92,108 Q145,118 198,108" fill="none" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M92,128 Q145,138 198,128" fill="none" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M92,148 Q145,156 198,148" fill="none" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Wood grain on bowl -->
+  <line x1="120" y1="88" x2="118" y2="154" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="89" x2="145" y2="154" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="170" y1="88" x2="172" y2="154" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

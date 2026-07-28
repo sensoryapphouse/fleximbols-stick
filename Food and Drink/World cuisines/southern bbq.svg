@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cutting board / plate base -->
+  <rect x="28" y="185" width="234" height="22" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="28" y="178" width="234" height="18" rx="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+
+  <!-- Rack of ribs - section of 4 bones -->
+  <!-- Rib meat block (mahogany BBQ'd) -->
+  <rect x="45" y="120" width="200" height="68" rx="10" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+
+  <!-- BBQ sauce gloss highlights -->
+  <ellipse cx="95" cy="128" rx="22" ry="8" fill="#f8130d" stroke="none"/>
+  <ellipse cx="155" cy="126" rx="20" ry="7" fill="#f8130d" stroke="none"/>
+  <ellipse cx="215" cy="128" rx="18" ry="7" fill="#f8130d" stroke="none"/>
+
+  <!-- Rib bones (white/cream sticking out top) -->
+  <rect x="60" y="100" width="14" height="35" rx="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="67" cy="100" rx="9" ry="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <rect x="100" y="96" width="14" height="38" rx="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="107" cy="96" rx="9" ry="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <rect x="140" y="94" width="14" height="40" rx="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="147" cy="94" rx="9" ry="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <rect x="180" y="96" width="14" height="38" rx="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="187" cy="96" rx="9" ry="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Char / dark crust edges on meat -->
+  <rect x="45" y="176" width="200" height="12" rx="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- BBQ brush (right side) -->
+  <!-- Handle -->
+  <rect x="218" y="88" width="10" height="80" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Brush head bristles -->
+  <rect x="210" y="160" width="26" height="18" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sauce on bristles -->
+  <rect x="212" y="162" width="22" height="10" rx="3" fill="#d01424" stroke="none"/>
+  <!-- Bristle lines -->
+  <line x1="216" y1="162" x2="216" y2="178" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="223" y1="162" x2="223" y2="178" stroke="#4d4d4d" stroke-width="2.22"/>
+  <line x1="230" y1="162" x2="230" y2="178" stroke="#4d4d4d" stroke-width="2.22"/>
+
+  <!-- Smoke wisps -->
+  <path d="M80 85 Q75 73 80 63 Q85 53 80 43" fill="none" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M140 80 Q135 68 140 58 Q145 48 140 38" fill="none" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

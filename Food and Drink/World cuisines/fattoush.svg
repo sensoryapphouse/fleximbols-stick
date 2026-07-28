@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl base -->
+  <ellipse cx="145" cy="204" rx="110" ry="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bowl walls -->
+  <path d="M35 204 Q35 158 145 158 Q255 158 255 204Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="204" rx="110" ry="16" fill="#efefef" stroke="none"/>
+  <!-- Mixed salad base — lighter green (romaine/lettuce) -->
+  <ellipse cx="145" cy="188" rx="92" ry="24" fill="#67832d" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lettuce chunks (mixed greens) -->
+  <path d="M80 182 Q95 172 110 180 Q100 192 80 188Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M165 178 Q180 168 196 176 Q188 188 165 185Z" fill="#137827" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M118 172 Q135 163 152 170 Q142 182 118 178Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tomato chunks (red) -->
+  <circle cx="100" cy="188" r="9" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="178" cy="186" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="140" cy="185" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Cucumber chunks (green) -->
+  <ellipse cx="120" cy="194" rx="11" ry="7" fill="#529929" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="162" cy="193" rx="11" ry="7" fill="#67832d" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Radish (red/white) -->
+  <circle cx="155" cy="184" r="7" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="155" cy="187" rx="7" ry="4" fill="#ffffff" stroke="none"/>
+  <circle cx="95" cy="174" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Crispy pita chip pieces on top (prominent, distinct, golden-brown) -->
+  <polygon points="115,165 140,155 145,168 120,172" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pita chip char spots -->
+  <circle cx="128" cy="162" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="138" cy="165" r="3" fill="#7d5e23" stroke="none"/>
+  <polygon points="152,162 175,153 178,165 156,168" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="163" cy="159" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="170" cy="163" r="3" fill="#7d5e23" stroke="none"/>
+  <!-- Another pita chip -->
+  <polygon points="88,160 110,152 113,163 92,168" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="100" cy="158" r="3" fill="#9d7246" stroke="none"/>
+  <!-- Herb/sumac sprinkling (red-purple dots) -->
+  <circle cx="144" cy="172" r="3" fill="#7c3fac" stroke="none"/>
+  <circle cx="135" cy="178" r="3" fill="#7c3fac" stroke="none"/>
+  <circle cx="158" cy="175" r="3" fill="#7c3fac" stroke="none"/>
+</g></svg>

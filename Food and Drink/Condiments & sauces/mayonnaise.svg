@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- mayonnaise jar -->
+<!-- lid -->
+<rect x="186" y="118" width="140" height="40" rx="8" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="196" y="100" width="120" height="24" rx="6" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- jar body filled with cream mayo -->
+<path d="M 182 158 L 330 158 L 330 386 Q 330 412 304 412 L 208 412 Q 182 412 182 386 Z" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- creamy top surface -->
+<path d="M 182 186 Q 256 172 330 186 L 330 158 L 182 158 Z" fill="#fff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- label -->
+<rect x="198" y="244" width="116" height="120" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<!-- egg motif -->
+<ellipse cx="256" cy="296" rx="24" ry="28" fill="#fff6cf" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="256" cy="300" r="12" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="226" y1="344" x2="286" y2="344" stroke="#b9bdc2" stroke-width="8" stroke-linecap="round"/>
+</svg>

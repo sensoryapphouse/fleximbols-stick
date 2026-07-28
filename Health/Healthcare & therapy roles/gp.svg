@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="71.76 103.33 368.48 368.48"><!-- doctor's medical bag with cross -->
+<!-- bag body -->
+<path d="M 110 240 L 402 240 Q 412 240 412 252 L 400 400 Q 399 412 387 412 L 125 412 Q 113 412 112 400 L 100 252 Q 100 240 110 240 Z" fill="#7a5230" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top opening / frame -->
+<path d="M 110 240 Q 110 200 160 200 L 352 200 Q 402 200 402 240 Z" fill="#8a5e38" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="100" y1="252" x2="412" y2="252" stroke="#1a1a1a" stroke-width="7"/>
+<!-- handle -->
+<path d="M 206 200 Q 206 162 256 162 Q 306 162 306 200" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- white cross (single path) -->
+<path d="M 240 288 L 272 288 L 272 318 L 302 318 L 302 350 L 272 350 L 272 380 L 240 380 L 240 350 L 210 350 L 210 318 L 240 318 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

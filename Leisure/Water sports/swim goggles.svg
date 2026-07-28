@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- strap left -->
+  <path d="M55 80 Q35 95 30 130 Q28 160 50 180" fill="none" stroke="#f8130d" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M55 80 Q35 95 30 130 Q28 160 50 180" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- strap right -->
+  <path d="M235 80 Q255 95 260 130 Q262 160 240 180" fill="none" stroke="#f8130d" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M235 80 Q255 95 260 130 Q262 160 240 180" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- left lens housing -->
+  <circle cx="95" cy="120" r="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left lens -->
+  <circle cx="95" cy="120" r="38" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- left lens highlight -->
+  <path d="M75 100 Q85 92 100 95" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- right lens housing -->
+  <circle cx="195" cy="120" r="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right lens -->
+  <circle cx="195" cy="120" r="38" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- right lens highlight -->
+  <path d="M175 100 Q185 92 200 95" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- nose bridge -->
+  <path d="M133 120 Q145 130 157 120 Q160 130 145 138 Q130 130 133 120 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

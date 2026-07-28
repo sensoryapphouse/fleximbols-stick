@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- machine cabinet -->
+  <rect x="50" y="30" width="190" height="180" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- screen -->
+  <rect x="65" y="45" width="160" height="80" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- KARAOKE text via paths -->
+  <!-- K -->
+  <path d="M78 65 L78 105 M78 85 L92 65 M78 85 L92 105" stroke="#fff200" stroke-width="6.67" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M98 105 L108 65 L118 105 M102 90 L114 90" stroke="#fff200" stroke-width="6.67" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- R -->
+  <path d="M124 105 L124 65 L138 65 Q145 65 145 75 Q145 85 138 85 L124 85 M138 85 L145 105" stroke="#fff200" stroke-width="6.67" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M151 105 L161 65 L171 105 M155 90 L167 90" stroke="#fff200" stroke-width="6.67" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <ellipse cx="184" cy="85" rx="7" ry="12" fill="none" stroke="#fff200" stroke-width="6.67"/>
+  <!-- K -->
+  <path d="M198 105 L198 65 M198 85 L210 65 M198 85 L210 105" stroke="#fff200" stroke-width="6.67" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M216 65 L216 105 M216 65 L228 65 M216 85 L226 85 M216 105 L228 105" stroke="#fff200" stroke-width="6.67" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- speaker grilles -->
+  <rect x="60" y="140" width="55" height="60" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="87" cy="170" r="18" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="87" cy="170" r="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="87" cy="170" r="4" fill="#000000"/>
+  <rect x="175" y="140" width="55" height="60" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="202" cy="170" r="18" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="202" cy="170" r="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="202" cy="170" r="4" fill="#000000"/>
+  <!-- control buttons -->
+  <circle cx="135" cy="155" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="155" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="180" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="180" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- microphone in front -->
+  <rect x="138" y="195" width="14" height="35" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="195" rx="14" ry="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="193" rx="11" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- mic cord -->
+  <path d="M145 230 Q135 232 130 230" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+</g></svg>

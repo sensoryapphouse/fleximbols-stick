@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- classic desk lamp with adjustable arm + shade + base -->
+  <!-- base (heavy round) -->
+  <ellipse cx="145" cy="210" rx="60" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.08"/>
+  <rect x="115" y="195" width="60" height="15" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- lower arm -->
+  <line x1="145" y1="195" x2="100" y2="120" stroke="#1a1a1a" stroke-width="10.15" stroke-linecap="round"/>
+  <line x1="145" y1="195" x2="100" y2="120" stroke="#b8b8b8" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- elbow joint -->
+  <circle cx="100" cy="120" r="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- upper arm -->
+  <line x1="100" y1="120" x2="170" y2="70" stroke="#1a1a1a" stroke-width="10.15" stroke-linecap="round"/>
+  <line x1="100" y1="120" x2="170" y2="70" stroke="#b8b8b8" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- shade joint -->
+  <circle cx="170" cy="70" r="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- classic trapezoid/bell shade -->
+  <path d="M155 60 L220 50 L235 95 L185 100 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- shade rim -->
+  <line x1="185" y1="100" x2="235" y2="95" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- light glow beneath -->
+  <path d="M195 102 L225 102 L235 130 L195 130 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- switch on base -->
+  <rect x="160" y="200" width="10" height="6" fill="#000000" stroke="#1a1a1a" stroke-width="2.54"/>
+</g></svg>

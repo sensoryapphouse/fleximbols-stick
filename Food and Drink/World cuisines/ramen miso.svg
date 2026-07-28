@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl base -->
+  <ellipse cx="145" cy="200" rx="108" ry="20" fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bowl body — slightly lighter/warmer colour than shoyu -->
+  <path d="M37 130 Q37 200 145 200 Q253 200 253 130 L246 105 Q145 88 44 105 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="105" rx="101" ry="20" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- CLOUDY TAN/OPAQUE miso broth surface (lighter, murky) -->
+  <ellipse cx="145" cy="100" rx="90" ry="17" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Opacity indication: lighter swirl marks on broth surface -->
+  <path d="M100 98 Q118 94 135 100 Q150 105 165 99" fill="none" stroke="#eed5b6" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 108 Q130 104 150 109" fill="none" stroke="#eed5b6" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Noodles (light yellow, wavy) -->
+  <path d="M65 110 Q85 98 105 110 Q120 120 140 107 Q158 95 178 110 Q195 122 215 110" fill="none" stroke="#f7de58" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 122 Q90 110 110 122 Q125 132 145 119 Q163 107 183 122 Q200 134 218 122" fill="none" stroke="#f7de58" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M72 134 Q92 122 112 134 Q127 144 147 131 Q165 119 185 134 Q202 146 220 134" fill="none" stroke="#f7de58" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- CORN KERNELS (key miso differentiator) — yellow rounded blobs -->
+  <ellipse cx="165" cy="108" rx="8" ry="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="180" cy="103" rx="8" ry="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="195" cy="109" rx="8" ry="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="172" cy="118" rx="7" ry="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="187" cy="116" rx="7" ry="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Butter pat (pale yellow square) -->
+  <rect x="200" y="94" width="22" height="14" rx="4" fill="#fff200" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Butter melting edge -->
+  <path d="M200 105 Q210 112 222 107" fill="none" stroke="#f7de58" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Nori sheet -->
+  <rect x="72" y="94" width="15" height="34" rx="2" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="79" y1="97" x2="79" y2="126" stroke="#2a4ec0" stroke-width="1.78" stroke-linecap="round"/>
+
+  <!-- Scallion bits -->
+  <rect x="112" y="118" width="16" height="5" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="130" y="128" width="14" height="5" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

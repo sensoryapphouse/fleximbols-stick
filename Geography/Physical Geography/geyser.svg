@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- geyser: ground vent erupting tall white water/steam jet upward -->
+  <!-- Sky panel -->
+  <rect x="26" y="26" width="238" height="176" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Ground -->
+  <rect x="26" y="174" width="238" height="28" fill="#9d7246" stroke="none"/>
+  <line x1="26" y1="174" x2="264" y2="174" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Rocky ground patches -->
+  <ellipse cx="85" cy="176" rx="32" ry="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="205" cy="177" rx="28" ry="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Vent/crater in ground -->
+  <ellipse cx="145" cy="174" rx="22" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Main water jet - widening upward plume, white -->
+  <polygon points="128,174 122,148 115,118 110,88 115,60 125,38 145,30 165,38 175,60 180,88 175,118 168,148 162,174" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Inner water jet highlight - light blue -->
+  <polygon points="134,170 130,148 124,118 120,90 124,65 132,45 145,38 158,45 166,65 170,90 166,118 160,148 156,170" fill="#dff3fd" stroke="none"/>
+  <!-- Steam wisps at top -->
+  <ellipse cx="145" cy="32" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="130" cy="35" rx="12" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="160" cy="35" rx="12" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Water droplets spraying out -->
+  <circle cx="108" cy="75" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="182" cy="75" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="105" r="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="105" r="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Water ripple pool at base -->
+  <ellipse cx="145" cy="178" rx="38" ry="8" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+</g></svg>

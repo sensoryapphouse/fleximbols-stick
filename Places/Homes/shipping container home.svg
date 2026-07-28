@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="20" y="208" width="250" height="14" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Lower container (wider, full width) -->
+  <rect x="28" y="138" width="234" height="72" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Corrugation lines lower container -->
+  <line x1="65" y1="138" x2="65" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="138" x2="100" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="135" y1="138" x2="135" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="138" x2="170" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="205" y1="138" x2="205" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="225" y1="138" x2="225" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Container door (right end of lower container) — double doors -->
+  <line x1="215" y1="138" x2="215" y2="210" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <rect x="215" y="138" width="47" height="72" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Door handle bars -->
+  <line x1="228" y1="165" x2="228" y2="185" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="249" y1="165" x2="249" y2="185" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Upper container (offset/narrower, stacked) -->
+  <rect x="55" y="68" width="180" height="72" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Corrugation lines upper container -->
+  <line x1="88" y1="68" x2="88" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="118" y1="68" x2="118" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="148" y1="68" x2="148" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="178" y1="68" x2="178" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="205" y1="68" x2="205" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Window cut-out upper -->
+  <rect x="70" y="82" width="38" height="30" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="89" y1="82" x2="89" y2="112" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Window cut-out upper right -->
+  <rect x="152" y="82" width="38" height="30" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="171" y1="82" x2="171" y2="112" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Window lower container -->
+  <rect x="40" y="152" width="38" height="28" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="59" y1="152" x2="59" y2="180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Door lower container (left side) -->
+  <rect x="110" y="158" width="30" height="52" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="135" cy="186" r="3" fill="#000000"/>
+</g></svg>

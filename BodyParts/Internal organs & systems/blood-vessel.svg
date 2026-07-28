@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- blood vessel: a branching tube carrying blood -->
+<!-- main vessel + branch, drawn as a red tube -->
+<path d="M 130 408 Q 150 250 256 230 Q 362 210 384 110 M 256 230 Q 300 296 396 300" fill="none" stroke="#d63b46" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- inner lumen lighter -->
+<path d="M 130 408 Q 150 250 256 230 Q 362 210 384 110 M 256 230 Q 300 296 396 300" fill="none" stroke="#e85a64" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- dark outline edges -->
+<g fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 102 414 Q 122 262 232 240"/>
+<path d="M 158 402 Q 178 240 280 220 Q 384 200 410 116"/>
+<path d="M 232 240 Q 282 312 392 318"/>
+<path d="M 274 222 Q 312 280 400 282"/>
+</g>
+<!-- blood cells flowing inside -->
+<g fill="#a81f24" stroke="#1a1a1a" stroke-width="5">
+<ellipse cx="146" cy="356" rx="14" ry="11"/>
+<ellipse cx="186" cy="270" rx="14" ry="11"/>
+<ellipse cx="300" cy="218" rx="14" ry="11"/>
+<ellipse cx="356" cy="160" rx="13" ry="10"/>
+<ellipse cx="330" cy="290" rx="13" ry="10"/>
+</g>
+</svg>

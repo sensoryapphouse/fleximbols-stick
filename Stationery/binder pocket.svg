@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- open binder showing inside pocket folder with papers -->
+  <!-- left cover -->
+  <path d="M 25 35 L 145 25 L 145 215 L 25 205 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- right cover -->
+  <path d="M 265 35 L 145 25 L 145 215 L 265 205 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- spine -->
+  <rect x="139" y="25" width="12" height="190" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 3 rings (small, just to show binder context) -->
+  <ellipse cx="145" cy="65" rx="10" ry="7" fill="none" stroke="#7f7f7f" stroke-width="5.93"/>
+  <ellipse cx="145" cy="65" rx="10" ry="7" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="120" rx="10" ry="7" fill="none" stroke="#7f7f7f" stroke-width="5.93"/>
+  <ellipse cx="145" cy="120" rx="10" ry="7" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="175" rx="10" ry="7" fill="none" stroke="#7f7f7f" stroke-width="5.93"/>
+  <ellipse cx="145" cy="175" rx="10" ry="7" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- pocket folder inside left cover -->
+  <path d="M 38 60 L 130 55 L 130 195 L 38 190 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pocket flap (the actual pocket - lower portion with curved opening) -->
+  <path d="M 38 130 L 130 125 L 130 195 L 38 190 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pocket opening curve -->
+  <path d="M 38 130 Q 84 120 130 125" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- papers tucked in pocket, sticking out top -->
+  <path d="M 55 70 L 100 67 L 100 135 L 55 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 70 65 L 115 62 L 115 135 L 70 138 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- paper lines -->
+  <line x1="78" y1="80" x2="108" y2="78" stroke="#90a7d6" stroke-width="2.96"/>
+  <line x1="78" y1="92" x2="108" y2="90" stroke="#90a7d6" stroke-width="2.96"/>
+  <line x1="78" y1="104" x2="108" y2="102" stroke="#90a7d6" stroke-width="2.96"/>
+  <line x1="78" y1="116" x2="108" y2="114" stroke="#90a7d6" stroke-width="2.96"/>
+  <!-- arrow pointing to pocket -->
+  <path d="M 200 150 Q 170 165 145 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 152 152 L 142 158 L 152 165 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- pocket label callout -->
+  <rect x="195" y="100" width="60" height="35" rx="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small pocket icon inside callout -->
+  <path d="M 210 110 L 240 110 L 240 128 L 210 128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 210 115 Q 225 112 240 115" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Upper arm (simplified vertical cylinder) -->
+  <rect x="60" y="60" width="52" height="140" rx="26" ry="26" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Arm cuff wrapped around upper arm -->
+  <rect x="52" y="100" width="68" height="60" rx="8" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Cuff strap band detail lines -->
+  <line x1="52" y1="115" x2="120" y2="115" stroke="#1d0e82" stroke-width="4.45"/>
+  <line x1="52" y1="130" x2="120" y2="130" stroke="#1d0e82" stroke-width="4.45"/>
+  <line x1="52" y1="145" x2="120" y2="145" stroke="#1d0e82" stroke-width="4.45"/>
+  <!-- Tubing from cuff to monitor -->
+  <path d="M120 128 Q150 128 155 120" fill="none" stroke="#4d4d4d" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Digital display unit (monitor box) -->
+  <rect x="148" y="80" width="100" height="90" rx="12" ry="12" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Display screen -->
+  <rect x="158" y="90" width="80" height="55" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Heart icon on display -->
+  <path d="M172 118 C172 114 176 111 180 114 C184 111 188 114 188 118 C188 122 180 127 180 127 C180 127 172 122 172 118 Z" fill="#f8130d" stroke="none"/>
+  <!-- Waveform line on display -->
+  <polyline points="192,118 197,118 200,108 204,128 208,108 212,128 216,118 222,118 228,118" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tubing connector knob on monitor -->
+  <circle cx="148" cy="125" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Button on monitor -->
+  <circle cx="198" cy="157" r="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33"/>
+</g></svg>

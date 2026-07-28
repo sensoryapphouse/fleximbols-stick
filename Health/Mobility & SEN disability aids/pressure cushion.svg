@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95.03 124.90 321.94 321.94">
+<!-- pressure cushion: thick anti-pressure seat cushion with air-cell bumps on top surface -->
+<!-- cushion body (rounded slab, 3/4 view) -->
+<path d="M 120 250 Q 120 226 256 226 Q 392 226 392 250 L 392 320 Q 392 348 256 348 Q 120 348 120 320 Z" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top face -->
+<ellipse cx="256" cy="250" rx="136" ry="26" fill="#9ab0e6" stroke="#1a1a1a" stroke-width="9"/>
+<!-- air-cell bumps on top -->
+<circle cx="190" cy="244" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="226" cy="252" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="262" cy="244" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="298" cy="252" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="324" cy="244" r="13" fill="#6f8fd6" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- long thin tail -->
+<path d="M170 340 Q90 360 110 420 Q130 446 200 430" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- body -->
+<path d="M168 348 Q150 280 230 268 Q330 254 372 300 Q396 328 372 356 Q330 384 240 380 Q188 378 168 348 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pointed snout -->
+<path d="M372 300 Q418 304 426 326 Q418 348 372 352 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="424" cy="326" r="7" fill="#1a1a1a"/>
+<!-- eye -->
+<circle cx="372" cy="306" r="5" fill="#1a1a1a"/>
+<!-- small round ear -->
+<circle cx="330" cy="280" r="18" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- little legs -->
+<path d="M240 380 L236 416 M210 378 L200 414 M300 378 L300 414 M330 374 L338 410" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+</svg>

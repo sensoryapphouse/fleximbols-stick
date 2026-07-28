@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- decorative base (footed plate) -->
+  <ellipse cx="145" cy="215" rx="70" ry="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="80" y="200" width="130" height="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pedestal stem -->
+  <path d="M125 200 L120 165 L130 150 L130 130 L160 130 L160 150 L170 165 L165 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pedestal decorative ring -->
+  <ellipse cx="145" cy="155" rx="18" ry="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- top plate (cake stand surface) -->
+  <ellipse cx="145" cy="130" rx="75" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M70 130 L75 122 L215 122 L220 130" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cake body on top -->
+  <rect x="90" y="75" width="110" height="50" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pink frosting top -->
+  <path d="M90 75 Q105 60 120 75 Q135 60 150 75 Q165 60 180 75 Q195 60 200 75 L200 85 L90 85 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- candle -->
+  <rect x="140" y="48" width="10" height="22" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- flame -->
+  <path d="M145 30 Q138 40 145 48 Q152 40 145 30 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- decorative dots on cake -->
+  <circle cx="110" cy="100" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="105" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="180" cy="100" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

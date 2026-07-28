@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bread slice — dull warm beige/brown -->
+  <!-- Crust top arc -->
+  <path d="M65 110 Q80 55 145 50 Q210 55 225 110 L225 195 Q225 210 210 210 L80 210 Q65 210 65 195 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Crust border -->
+  <path d="M65 110 Q80 55 145 50 Q210 55 225 110" fill="none" stroke="#9d7246" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- Bread inner face (lighter) -->
+  <rect x="80" y="112" width="130" height="90" rx="6" fill="#eed5b6" stroke="#9d7246" stroke-width="5.93"/>
+  <!-- Crack lines on bread surface -->
+  <path d="M95 130 Q110 127 118 135 Q126 142 140 138" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M155 145 Q165 140 178 148 Q185 152 195 148" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M88 160 Q100 157 108 163" fill="none" stroke="#9d7246" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M160 165 Q172 162 180 168 Q185 172 192 168" fill="none" stroke="#9d7246" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Small motionless flat lines (age / dryness indicator) -->
+  <path d="M100 185 L120 185" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 185 L148 185" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M158 185 L174 185" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Small fly top right of bread -->
+  <!-- Fly body -->
+  <ellipse cx="205" cy="78" rx="7" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Fly wings -->
+  <ellipse cx="199" cy="73" rx="7" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 199 73)"/>
+  <ellipse cx="211" cy="73" rx="7" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 211 73)"/>
+  <!-- Fly legs -->
+  <path d="M200 82 L195 87 M205 83 L203 89 M210 82 L215 87" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1152) translate(-225.00 -269.00)">
+<g transform="translate(-28.1,-12.9) scale(1.208)"><!-- superhero: a hero shield emblem with star + cape flourish -->
+  <!-- cape behind -->
+  <path d="M135 110 Q60 160 70 320 L130 290 Q150 230 150 150 Z" fill="#cc2233" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <path d="M135 110 Q210 160 200 320 L140 290 Q120 230 120 150 Z" fill="#a8182a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- shield emblem -->
+  <path d="M135 130 L225 165 Q225 300 135 350 Q45 300 45 165 Z" fill="#2b6fd6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- star -->
+  <path d="M135 185 L153 230 L201 233 L164 263 L177 309 L135 282 L93 309 L106 263 L69 233 L117 230 Z" fill="#ffd84d" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" /></g>
+<path d="M 338.0 197.0 L 398.0 197.0 L 398.0 287.0 L 424.0 389.0 L 312.0 389.0 L 338.0 287.0 Z" fill="#d6529e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="350" y1="389" x2="344" y2="455" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="386" y1="389" x2="392" y2="455" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<ellipse cx="344" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="392" cy="457" rx="13" ry="7" fill="#33373d"/>
+<line x1="338" y1="199" x2="318" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="398" y1="199" x2="418" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="368" y1="197" x2="368" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 321.0 184.0 L 321.0 128.0 Q 321.0 76.0 368 76.0 Q 415.0 76.0 415.0 128.0 L 415.0 184.0 L 402.0 184.0 L 402.0 130.0 Q 402.0 96.0 368 96.0 Q 334.0 96.0 334.0 130.0 L 334.0 184.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="368" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 330.0 96.0 Q 368 82.0 406.0 96.0 Q 368 92.0 330.0 96.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

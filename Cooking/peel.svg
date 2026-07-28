@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.6875) translate(-246.50 -297.00)">
+<!-- potato -->
+<ellipse cx="216" cy="300" rx="100" ry="122" fill="#d9b06a" stroke="#1a1a1a" stroke-width="6"/>
+<!-- eyes / dimples -->
+<circle cx="188" cy="252" r="5" fill="#a8854a"/>
+<circle cx="206" cy="338" r="5" fill="#a8854a"/>
+<circle cx="172" cy="312" r="4" fill="#a8854a"/>
+<!-- bare peeled patch where skin is removed (right side) -->
+<path d="M 244 230 Q 292 300 246 374 Q 240 300 240 250 Z" fill="#efdcb0" stroke="none"/>
+<!-- bold curling ribbon of peeled SKIN coming off the side -->
+<path d="M 296 256 q 72 8 80 72 q 6 50 -42 58 q 32 -18 26 -52 q -8 -48 -70 -56 Z" fill="#d98f3a" stroke="#8a5a20" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 318 274 q 38 14 40 52" fill="none" stroke="#b87528" stroke-width="3" stroke-linecap="round"/>
+<!-- swivel peeler, big and centred, dragging down the potato -->
+<!-- handle -->
+<rect x="318" y="170" width="36" height="70" rx="16" fill="#39414b" stroke="#1a1a1a" stroke-width="5" transform="rotate(34 336 205)"/>
+<line x1="326" y1="182" x2="350" y2="218" stroke="#dfe5ea" stroke-width="3" stroke-linecap="round"/>
+<!-- neck connecting handle to blade head -->
+<line x1="316" y1="232" x2="278" y2="266" stroke="#9aa7b3" stroke-width="10" stroke-linecap="round"/>
+<!-- blade head: metal bar -->
+<rect x="244" y="256" width="56" height="20" rx="6" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="5" transform="rotate(-38 272 266)"/>
+<!-- horizontal blade SLOT (dark) -->
+<line x1="252" y1="276" x2="294" y2="244" stroke="#39414b" stroke-width="6" stroke-linecap="round"/>
+<!-- cutting edge (red accent) right at the potato surface -->
+<line x1="250" y1="282" x2="290" y2="252" stroke="#e0473c" stroke-width="4" stroke-linecap="round"/>
+</g></svg>

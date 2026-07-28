@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- folded towel stack: back layer -->
+  <path d="M50 75 L240 75 L240 95 L50 95 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- middle layer -->
+  <path d="M45 95 L245 95 L245 130 L45 130 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- front main folded body -->
+  <path d="M40 130 L250 130 L250 200 L40 200 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- fold lines -->
+  <path d="M40 145 L250 145" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <path d="M40 185 L250 185" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- decorative ribbon stripe -->
+  <rect x="40" y="160" width="210" height="14" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- terry-cloth dots -->
+  <g fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98">
+    <circle cx="70" cy="167" r="2"/>
+    <circle cx="100" cy="167" r="2"/>
+    <circle cx="130" cy="167" r="2"/>
+    <circle cx="160" cy="167" r="2"/>
+    <circle cx="190" cy="167" r="2"/>
+    <circle cx="220" cy="167" r="2"/>
+  </g>
+  <!-- corner tag -->
+  <rect x="215" y="195" width="20" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+</g></svg>

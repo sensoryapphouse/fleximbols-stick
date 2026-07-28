@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- snow ground -->
+  <path d="M20 220 Q80 210 145 218 Q210 226 270 216 L270 234 L20 234 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- snowflakes -->
+  <path d="M48 60 L48 76 M40 68 L56 68 M42 62 L54 74 M54 62 L42 74" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M240 70 L240 86 M232 78 L248 78 M234 72 L246 84 M246 72 L234 84" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- elastic strap around back -->
+  <path d="M20 130 Q30 60 145 56 Q260 60 270 130" fill="none" stroke="#f8130d" stroke-width="17.78" stroke-linecap="round"/>
+  <!-- strap pattern -->
+  <path d="M30 90 Q145 56 260 90" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- FOAM FRAME (thick, wraps around face) -->
+  <path d="M30 110 Q26 90 60 86 L230 86 Q264 90 260 110 L264 170 Q260 188 230 188 L60 188 Q30 188 26 170 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- foam padding inner texture (small bumps) -->
+  <circle cx="46" cy="100" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="46" cy="174" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="244" cy="100" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="244" cy="174" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- SINGLE WIDE LENS (key ski-goggle feature) -->
+  <path d="M50 110 Q46 100 64 98 L226 98 Q244 100 240 110 L242 164 Q240 176 226 176 L64 176 Q50 176 48 164 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- lens mirror tint (single wide reflective surface) -->
+  <path d="M60 112 Q56 106 70 104 L222 104 Q238 106 234 114 L236 142 Q220 138 145 138 Q70 138 52 142 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- lens reflection highlights (snow glare) -->
+  <path d="M80 110 Q120 118 100 130 Q70 124 80 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M180 110 Q210 118 200 130 Q170 126 180 110 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- strap attachment clips on outer frame -->
+  <rect x="18" y="120" width="14" height="20" fill="#000000"/>
+  <rect x="258" y="120" width="14" height="20" fill="#000000"/>
+  <!-- mountain hint in distance -->
+  <path d="M30 220 L60 196 L80 214" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M210 218 L240 198 L260 214" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

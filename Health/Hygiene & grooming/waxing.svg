@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- skin section (leg) -->
+  <rect x="20" y="125" width="180" height="80" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- wax residue strip on skin (left portion) -->
+  <rect x="30" y="135" width="60" height="40" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- a couple small hairs caught in the strip being lifted -->
+  <path d="M 105 145 Q 105 138 108 132" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M 115 142 Q 115 135 118 128" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M 125 145 Q 125 138 128 132" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- wax strip being peeled off (right portion, curling up) -->
+  <path d="M 100 135 L 165 130 Q 195 125 200 105 Q 200 90 180 85 Q 155 82 125 90 Q 110 95 100 110 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- strip cloth backing -->
+  <path d="M 105 130 L 165 125 Q 190 120 195 105 Q 195 95 178 90 Q 155 88 130 95" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- motion arrow showing peel direction -->
+  <path d="M 215 105 L 230 90 M 230 90 L 222 90 M 230 90 L 230 98" stroke="#d01424" stroke-width="5.33" stroke-linecap="round" fill="none"/>
+  <!-- wax jar (warm wax) -->
+  <rect x="215" y="135" width="55" height="65" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- jar lid -->
+  <rect x="210" y="125" width="65" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- jar wax inside -->
+  <path d="M 220 155 Q 230 152 240 155 Q 250 158 265 155 L 265 195 L 220 195 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- steam (warm) -->
+  <path d="M 225 120 Q 222 115 226 110 Q 230 105 227 100" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 245 120 Q 242 115 246 110 Q 250 105 247 100" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- applicator stick (above jar) -->
+  <rect x="240" y="40" width="8" height="80" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- wax blob on stick -->
+  <ellipse cx="244" cy="115" rx="11" ry="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

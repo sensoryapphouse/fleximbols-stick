@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Torso ghost -->
+  <path d="M105 30 C90 30 75 45 72 65 L60 160 C58 175 65 195 80 200 L145 210 L210 200 C225 195 232 175 230 160 L218 65 C215 45 200 30 185 30 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="125" y="14" width="40" height="22" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Liver (context, brown/tan, lower-right quadrant) -->
+  <path d="M148 85 C160 82 178 84 192 90 C205 97 210 110 208 122 C206 132 198 138 188 138 C175 138 162 132 152 125 C143 118 140 108 143 98 C145 92 148 88 148 85 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- GALLBLADDER: small green pear-shaped sac under liver -->
+  <path d="M175 132 C172 128 170 124 171 118 C172 112 177 108 183 109 C189 110 193 116 192 122 C191 128 187 133 183 136 C180 138 177 137 175 132 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bile duct neck of gallbladder -->
+  <line x1="181" y1="109" x2="181" y2="103" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="181" y1="103" x2="175" y2="98" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Pointer line -->
+  <line x1="193" y1="122" x2="215" y2="135" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="215" cy="135" r="4" fill="#000000"/>
+</g></svg>

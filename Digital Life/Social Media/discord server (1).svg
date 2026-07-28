@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Server panel background -->
+  <rect x="25" y="25" width="240" height="190" rx="14" fill="#392170" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left sidebar (server list) -->
+  <rect x="25" y="25" width="56" height="190" rx="14" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="61" y="25" width="10" height="190" fill="#1d0e82" stroke="none"/>
+  <!-- Server icons in sidebar -->
+  <rect x="36" y="40" width="34" height="34" rx="12" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="36" y="82" width="34" height="34" rx="12" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="36" y="124" width="34" height="34" rx="12" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Active server indicator -->
+  <rect x="22" y="50" width="6" height="14" rx="3" fill="#ffffff" stroke="none"/>
+  <!-- Channel list area -->
+  <rect x="81" y="35" width="80" height="170" rx="4" fill="#2a4ec0" stroke="none"/>
+  <!-- Channel entries -->
+  <rect x="88" y="50" width="66" height="10" rx="3" fill="#90a7d6" stroke="none"/>
+  <rect x="88" y="68" width="56" height="10" rx="3" fill="#ffffff" stroke="none"/>
+  <rect x="88" y="86" width="60" height="10" rx="3" fill="#90a7d6" stroke="none"/>
+  <rect x="88" y="104" width="50" height="10" rx="3" fill="#90a7d6" stroke="none"/>
+  <rect x="88" y="122" width="64" height="10" rx="3" fill="#90a7d6" stroke="none"/>
+  <!-- Hash icons before channels -->
+  <rect x="87" y="50" width="6" height="10" rx="1" fill="#7c3fac" stroke="none"/>
+  <rect x="87" y="68" width="6" height="10" rx="1" fill="#f7de58" stroke="none"/>
+  <!-- Chat / main content area -->
+  <!-- Speech bubble 1 -->
+  <rect x="170" y="45" width="78" height="40" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="178,85 170,96 190,85" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="178" y="57" width="50" height="7" rx="3" fill="#4d4d4d" stroke="none"/>
+  <rect x="178" y="68" width="36" height="7" rx="3" fill="#4d4d4d" stroke="none"/>
+  <!-- Speech bubble 2 -->
+  <rect x="162" y="108" width="78" height="40" rx="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="230,108 250,98 242,108" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="170" y="120" width="50" height="7" rx="3" fill="#ffffff" stroke="none"/>
+  <rect x="170" y="131" width="34" height="7" rx="3" fill="#dff3fd" stroke="none"/>
+  <!-- Game controller hint in sidebar icon -->
+  <rect x="40" y="88" width="26" height="16" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="58" cy="96" r="3" fill="#3aa6a0" stroke="none"/>
+  <rect x="44" y="93" width="6" height="6" rx="1" fill="none" stroke="#4d4d4d" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

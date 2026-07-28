@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pizza slice - wide thin triangle, slight fold/droop at tip -->
+  <!-- Crust (back wide edge) -->
+  <path d="M 38 65 Q 145 50 252 65 L 252 88 Q 145 74 38 88 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Crust highlights/texture -->
+  <path d="M 55 68 Q 100 61 145 60 Q 190 61 235 68" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Main dough/base of slice - wide triangle tapering to droopy tip -->
+  <path d="M 38 88 Q 145 74 252 88 L 155 215 Q 150 222 145 225 Q 140 222 135 215 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tomato sauce layer -->
+  <path d="M 55 90 Q 145 78 235 90 L 150 205 Q 145 210 140 205 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cheese layer (melted, slightly uneven) -->
+  <path d="M 62 92 Q 100 84 145 82 Q 190 84 228 92 L 152 200 Q 148 205 145 207 Q 142 205 138 200 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Grease sheen patches on cheese -->
+  <ellipse cx="120" cy="110" rx="18" ry="9" fill="#ff9900" stroke="none"/>
+  <ellipse cx="170" cy="120" rx="14" ry="7" fill="#ff9900" stroke="none"/>
+  <ellipse cx="145" cy="150" rx="12" ry="6" fill="#ff9900" stroke="none"/>
+  <!-- Cheese bubble/melt lines -->
+  <path d="M 85 98 Q 110 93 135 96 Q 120 108 95 105 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 165 95 Q 195 90 215 96 Q 200 110 172 106 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Fold line suggestion at tip -->
+  <path d="M 141 195 Q 145 220 149 195" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Underside fold shadow at tip -->
+  <path d="M 136 210 Q 145 225 154 210" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

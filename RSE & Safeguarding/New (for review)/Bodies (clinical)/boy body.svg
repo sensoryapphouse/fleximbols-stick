@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata>
+<!-- neutral male child body outline, front, minimal -->
+<!-- legs (straight, slightly apart) -->
+<path d="M 232 304 L 226 466 Q 226 478 238 478 L 250 478 Q 256 478 256 468 L 256 372 L 256 468 Q 256 478 262 478 L 274 478 Q 286 478 286 466 L 280 304 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- arms straight down -->
+<path d="M 216 206 L 196 318 Q 194 328 204 330 Q 214 330 216 320 L 232 214 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 296 206 L 316 318 Q 318 328 308 330 Q 298 330 296 320 L 280 214 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- torso: straighter, narrower hips (boy) -->
+<path d="M 224 200 L 288 200 Q 296 200 296 210 L 290 300 Q 256 310 222 300 L 216 210 Q 216 200 224 200 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neck -->
+<rect x="244" y="168" width="24" height="34" rx="8" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9"/>
+<!-- head -->
+<circle id="h1" data-fig="ma" cx="256" cy="124" r="44" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9"/>
+<!-- short hair (simple cap) -->
+<path d="M 214 122 Q 212 80 256 80 Q 300 80 298 122 Q 256 98 214 122 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<!-- simple face -->
+<circle cx="242" cy="122" r="4" fill="#1a1a1a"/>
+<circle cx="270" cy="122" r="4" fill="#1a1a1a"/>
+<path d="M 244 142 Q 256 148 268 142" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+</svg>

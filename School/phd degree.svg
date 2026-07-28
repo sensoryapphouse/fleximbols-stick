@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Mortarboard cap board -->
+  <polygon points="145,28 238,72 145,92 52,72" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cap crown -->
+  <rect x="114" y="80" width="62" height="34" rx="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Crown brim -->
+  <ellipse cx="145" cy="80" rx="36" ry="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Button -->
+  <circle cx="145" cy="60" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Tassel cord -->
+  <line x1="238" y1="72" x2="238" y2="106" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="228" y1="106" x2="248" y2="106" stroke="#f7de58" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="230" y1="106" x2="226" y2="136" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="238" y1="106" x2="238" y2="138" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="246" y1="106" x2="250" y2="136" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="222" y="136" width="32" height="7" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Academic hood draped (purple, PhD) -->
+  <path d="M114,116 Q88,126 76,148 Q68,168 80,180 Q94,192 114,180 Q132,168 132,148 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Hood lining -->
+  <path d="M114,124 Q94,134 86,152 Q82,166 94,174 Q108,182 122,170 Q132,158 128,144 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- 3 distinction stars (top right area) -->
+  <!-- Star 1 -->
+  <polygon points="220,34 223,44 233,44 225,50 228,60 220,54 212,60 215,50 207,44 217,44" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Star 2 -->
+  <polygon points="248,48 251,58 261,58 253,64 256,74 248,68 240,74 243,64 235,58 245,58" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Star 3 -->
+  <polygon points="258,80 261,90 271,90 263,96 266,106 258,100 250,106 253,96 245,90 255,90" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Scroll body -->
+  <rect x="118" y="138" width="136" height="62" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Left scroll end -->
+  <ellipse cx="118" cy="169" rx="13" ry="31" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="118" cy="169" rx="7" ry="23" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right scroll end -->
+  <ellipse cx="254" cy="169" rx="13" ry="31" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="254" cy="169" rx="7" ry="23" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Scroll lines -->
+  <line x1="136" y1="156" x2="234" y2="156" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="136" y1="169" x2="228" y2="169" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="136" y1="182" x2="232" y2="182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="121.79 85.10 302.55 302.55"><g>
+<!-- handheld transducer probe -->
+<rect x="150" y="150" width="64" height="120" rx="20" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- probe head (flat scanning face) -->
+<rect x="146" y="262" width="72" height="22" rx="6" fill="#39414b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- cable -->
+<path d="M 182 150 Q 182 110 230 110" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- ultrasound wave fan emitting from probe -->
+<path d="M 182 290 Q 256 360 330 290" fill="none" stroke="#4a8cc8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 182 290 Q 270 400 366 290" fill="none" stroke="#4a8cc8" stroke-width="6" stroke-linecap="round"/>
+<path d="M 182 290 Q 284 440 402 290" fill="none" stroke="#4a8cc8" stroke-width="6" stroke-linecap="round"/>
+</g></svg>

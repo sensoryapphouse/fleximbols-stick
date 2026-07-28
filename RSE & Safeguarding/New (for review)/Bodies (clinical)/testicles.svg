@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- simple clinical scrotum/testes outline, plain educational -->
+<!-- scrotum sac -->
+<path d="M 256 168 Q 156 168 156 300 Q 156 420 256 420 Q 356 420 356 300 Q 356 168 256 168 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- central seam dividing the two sides -->
+<path d="M 256 188 L 256 408" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- two testes shown as oval guide outlines inside -->
+<ellipse cx="210" cy="300" rx="40" ry="58" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="302" cy="300" rx="40" ry="58" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

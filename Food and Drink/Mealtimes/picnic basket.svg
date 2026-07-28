@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <rect x="10" y="205" width="270" height="25" fill="#67832d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- basket body -->
+  <path d="M 50 110 L 240 110 L 230 215 L 60 215 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- wicker weave verticals -->
+  <path d="M 80 115 L 78 210 M 110 115 L 108 210 M 140 115 L 140 210 M 170 115 L 172 210 M 200 115 L 202 210" stroke="#5e1f0a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- wicker weave horizontals -->
+  <path d="M 55 135 L 235 135 M 53 160 L 237 160 M 53 185 L 237 185" stroke="#5e1f0a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- lid (open, tilted back) -->
+  <path d="M 45 110 L 245 110 L 240 95 L 50 95 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- checkered cloth peeking out (red checkered) -->
+  <path d="M 65 100 Q 80 60 120 65 Q 150 50 180 70 Q 215 60 225 100 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- checker squares on cloth -->
+  <rect x="80" y="75" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="108" y="78" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="138" y="68" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="168" y="80" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="196" y="75" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- handle arching over -->
+  <path d="M 80 110 Q 145 20 215 110" fill="none" stroke="#5e1f0a" stroke-width="14.23" stroke-linecap="round"/>
+  <path d="M 80 110 Q 145 20 215 110" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- bread loaf inside (peeking) -->
+  <ellipse cx="100" cy="100" rx="18" ry="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34"/>
+  <path d="M 88 98 L 112 98 M 92 102 L 108 102" stroke="#7d5e23" stroke-width="1.78"/>
+  <!-- apple peeking -->
+  <circle cx="190" cy="100" r="11" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <path d="M 190 90 L 190 85" stroke="#5e1f0a" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- latch -->
+  <rect x="138" y="155" width="14" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.34"/>
+</g></svg>

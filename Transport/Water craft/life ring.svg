@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Outer ring base (white) -->
+  <circle cx="145" cy="120" r="95" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Quarter panel: top-right red -->
+  <path d="M145 120 L145 25 A95 95 0 0 1 240 120 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Quarter panel: bottom-left red -->
+  <path d="M145 120 L145 215 A95 95 0 0 1 50 120 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Quarter panel: top-left white (already white base, redraw outline) -->
+  <path d="M145 120 L145 25 A95 95 0 0 0 50 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Quarter panel: bottom-right white -->
+  <path d="M145 120 L145 215 A95 95 0 0 0 240 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Outer ring outline redraw -->
+  <circle cx="145" cy="120" r="95" fill="none" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Inner hole -->
+  <circle cx="145" cy="120" r="52" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Cross dividers through centre -->
+  <line x1="145" y1="25" x2="145" y2="215" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="50" y1="120" x2="240" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

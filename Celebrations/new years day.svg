@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sunrise sky -->
+  <path d="M 0 30 L 290 30 L 290 160 L 0 160 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- horizon -->
+  <path d="M 0 160 L 290 160 L 290 200 L 0 200 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- rising sun -->
+  <path d="M 145 160 a 35 35 0 0 1 70 0 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <line x1="180" y1="120" x2="180" y2="100" stroke="#ff9900" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="180" y1="120" x2="180" y2="100" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="155" y1="130" x2="140" y2="115" stroke="#ff9900" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="155" y1="130" x2="140" y2="115" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="205" y1="130" x2="220" y2="115" stroke="#ff9900" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="205" y1="130" x2="220" y2="115" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- fireworks -->
+  <circle cx="50" cy="55" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="50" y1="55" x2="40" y2="40" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="50" y1="55" x2="60" y2="40" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="50" y1="55" x2="35" y2="55" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="50" y1="55" x2="65" y2="55" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="50" y1="55" x2="40" y2="70" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="50" y1="55" x2="60" y2="70" stroke="#f8130d" stroke-width="4.45"/>
+  <circle cx="240" cy="65" r="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="240" y1="65" x2="230" y2="50" stroke="#7c3fac" stroke-width="4.45"/>
+  <line x1="240" y1="65" x2="250" y2="50" stroke="#7c3fac" stroke-width="4.45"/>
+  <line x1="240" y1="65" x2="225" y2="65" stroke="#7c3fac" stroke-width="4.45"/>
+  <line x1="240" y1="65" x2="255" y2="65" stroke="#7c3fac" stroke-width="4.45"/>
+  <line x1="240" y1="65" x2="230" y2="80" stroke="#7c3fac" stroke-width="4.45"/>
+  <line x1="240" y1="65" x2="250" y2="80" stroke="#7c3fac" stroke-width="4.45"/>
+  <!-- clock at 12:00 -->
+  <circle cx="60" cy="200" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="60" y1="200" x2="60" y2="175" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="60" y1="200" x2="60" y2="175" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <circle cx="60" cy="200" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="60" y1="172" x2="60" y2="178" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="32" y1="200" x2="38" y2="200" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="82" y1="200" x2="88" y2="200" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="60" y1="222" x2="60" y2="228" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- champagne flute -->
+  <path d="M 235 130 L 260 130 L 256 165 Q 248 173 248 185 L 248 225 L 245 225 L 245 185 Q 245 173 237 165 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <ellipse cx="246" cy="225" rx="12" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

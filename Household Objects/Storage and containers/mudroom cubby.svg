@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wall -->
+  <rect x="26" y="32" width="238" height="176" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- outer cubby frame -->
+  <rect x="25" y="30" width="240" height="190" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- vertical dividers (3 cubbies) -->
+  <line x1="105" y1="30" x2="105" y2="220" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="185" y1="30" x2="185" y2="220" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- horizontal shelf - hook bar -->
+  <line x1="25" y1="60" x2="265" y2="60" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- hooks (one above each cubby) -->
+  <path d="M65 60 L65 75 Q65 82 72 82" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145 60 L145 75 Q145 82 152 82" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M225 60 L225 75 Q225 82 232 82" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- boots in left cubby -->
+  <rect x="40" y="155" width="20" height="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M32 205 L65 205 L65 215 L32 215 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="70" y="155" width="20" height="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M62 205 L95 205 L95 215 L62 215 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- boots in middle cubby -->
+  <rect x="120" y="160" width="20" height="45" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M112 205 L145 205 L145 215 L112 215 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="150" y="160" width="20" height="45" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M142 205 L175 205 L175 215 L142 215 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- boots in right cubby -->
+  <rect x="200" y="158" width="20" height="47" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M192 205 L225 205 L225 215 L192 215 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="230" y="158" width="20" height="47" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M222 205 L255 205 L255 215 L222 215 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- coat hanging in left cubby -->
+  <path d="M82 82 Q95 86 95 105 L95 140 L42 140 L42 105 Q42 86 55 82 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- jacket in middle cubby -->
+  <path d="M162 82 Q175 86 175 105 L175 140 L122 140 L122 105 Q122 86 135 82 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- coat in right cubby -->
+  <path d="M242 82 Q255 86 255 105 L255 140 L202 140 L202 105 Q202 86 215 82 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

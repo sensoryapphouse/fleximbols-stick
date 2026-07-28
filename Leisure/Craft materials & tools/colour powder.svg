@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Color powder: heaped piles/bowls of gulal powder -->
+  <!-- Bowl left -->
+  <path d="M38 160 Q38 185 72 190 Q106 195 106 160Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="72" cy="160" rx="34" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Powder heap left (pink) -->
+  <ellipse cx="72" cy="155" rx="30" ry="14" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="72" cy="148" rx="20" ry="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="72" cy="143" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Powder dust puffs left -->
+  <ellipse cx="48" cy="148" rx="9" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="96" cy="145" rx="8" ry="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Bowl centre -->
+  <path d="M111 155 Q111 183 145 188 Q179 193 179 155Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="155" rx="34" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Powder heap centre (yellow) -->
+  <ellipse cx="145" cy="150" rx="30" ry="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="143" rx="20" ry="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="138" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Powder dust puffs centre -->
+  <ellipse cx="120" cy="142" rx="9" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="168" cy="140" rx="8" ry="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Bowl right -->
+  <path d="M184 160 Q184 185 218 190 Q252 195 252 160Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="218" cy="160" rx="34" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Powder heap right (green) -->
+  <ellipse cx="218" cy="155" rx="30" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="218" cy="148" rx="20" ry="10" fill="#137827" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="218" cy="143" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Powder dust puffs right -->
+  <ellipse cx="194" cy="148" rx="9" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="242" cy="145" rx="8" ry="5" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Scattered powder dots on ground -->
+  <ellipse cx="55" cy="200" rx="18" ry="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="205" rx="18" ry="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="232" cy="200" rx="18" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Extra small accent piles -->
+  <ellipse cx="100" cy="198" rx="10" ry="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="188" cy="202" rx="10" ry="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Ground line -->
+  <path d="M25 210 Q145 208 265 210" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

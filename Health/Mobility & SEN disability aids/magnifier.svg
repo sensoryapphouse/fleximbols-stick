@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="90.10 83.28 347.15 347.15">
+<!-- magnifier / magnifying glass: round lens with handle -->
+<circle cx="224" cy="216" r="106" fill="#cfe8ff" stroke="#1a1a1a" stroke-width="11"/>
+<circle cx="224" cy="216" r="106" fill="none" stroke="#5a6270" stroke-width="4"/>
+<!-- inner rim -->
+<circle cx="224" cy="216" r="86" fill="#e8f4ff" stroke="#1a1a1a" stroke-width="6"/>
+<!-- shine -->
+<path d="M 188 168 Q 160 192 166 232" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+<!-- handle: dark outline under brown fill -->
+<line x1="298" y1="290" x2="396" y2="388" stroke="#1a1a1a" stroke-width="40" stroke-linecap="round"/>
+<line x1="298" y1="290" x2="396" y2="388" stroke="#6b4a2b" stroke-width="26" stroke-linecap="round"/>
+</svg>

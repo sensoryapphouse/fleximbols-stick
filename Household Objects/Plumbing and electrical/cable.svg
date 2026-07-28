@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g data-fit="1" transform="translate(256 256) scale(1.1407) translate(-237.50 -256.00)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- electrical cable: grey outer sheath, cut open, with 3 coloured inner wires coming out -->
+<!-- the three inner wires, fanning out from the cut end -->
+<!-- wire 1 (brown / live) -->
+<path d="M 232 250 Q 150 210 96 150" fill="none" stroke="#1a1a1a" stroke-width="34" stroke-linecap="round"/>
+<path d="M 232 250 Q 150 210 96 150" fill="none" stroke="#8a5a2b" stroke-width="22" stroke-linecap="round"/>
+<!-- wire 2 (blue / neutral) -->
+<path d="M 248 256 Q 150 256 78 256" fill="none" stroke="#1a1a1a" stroke-width="34" stroke-linecap="round"/>
+<path d="M 248 256 Q 150 256 78 256" fill="none" stroke="#2f6fb0" stroke-width="22" stroke-linecap="round"/>
+<!-- wire 3 (green/yellow / earth) -->
+<path d="M 232 262 Q 150 302 96 362" fill="none" stroke="#1a1a1a" stroke-width="34" stroke-linecap="round"/>
+<path d="M 232 262 Q 150 302 96 362" fill="none" stroke="#3f9b46" stroke-width="22" stroke-linecap="round"/>
+<!-- bare copper tips at the ends of each wire -->
+<line x1="96" y1="150" x2="78" y2="128" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
+<line x1="96" y1="150" x2="78" y2="128" stroke="#c98f3c" stroke-width="11" stroke-linecap="round"/>
+<line x1="78" y1="256" x2="50" y2="256" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
+<line x1="78" y1="256" x2="50" y2="256" stroke="#c98f3c" stroke-width="11" stroke-linecap="round"/>
+<line x1="96" y1="362" x2="78" y2="384" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
+<line x1="96" y1="362" x2="78" y2="384" stroke="#c98f3c" stroke-width="11" stroke-linecap="round"/>
+<!-- grey outer sheath (drawn on top, hides where the 3 wires join) -->
+<path d="M 250 200 Q 430 200 430 256 Q 430 312 250 312 Q 232 312 224 290 Q 240 256 224 222 Q 232 200 250 200 Z" fill="#9aa3ad" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cut-open mouth of the sheath -->
+<ellipse cx="250" cy="256" rx="16" ry="58" fill="#5b6570" stroke="#1a1a1a" stroke-width="8"/>
+<!-- a couple of sheath ridges for texture -->
+<path d="M 320 214 Q 330 256 320 298" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.5"/>
+<path d="M 372 218 Q 382 256 372 294" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.5"/>
+</g></svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Phone (selfie) -->
+  <rect x="55" y="15" width="180" height="210" rx="18" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Screen -->
+  <rect x="68" y="32" width="154" height="176" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Face on screen -->
+  <circle cx="145" cy="125" r="58" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Cat ears (virtual filter overlay) -->
+  <path d="M100 80 L92 50 L120 75 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M104 73 L100 60 L113 72 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M190 80 L198 50 L170 75 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M186 73 L190 60 L177 72 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <ellipse cx="125" cy="120" rx="7" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="122" r="4" fill="#000000"/>
+  <ellipse cx="165" cy="120" rx="7" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="122" r="4" fill="#000000"/>
+  <!-- cat nose -->
+  <path d="M140 138 L150 138 L145 144 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- whiskers -->
+  <path d="M120 150 L100 148 M120 154 L100 156 M170 150 L190 148 M170 154 L190 156" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- smile -->
+  <path d="M130 158 C135 165 145 168 145 162 C145 168 155 165 160 158" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Sparkles -->
+  <path d="M85 95 L87 103 L95 105 L87 107 L85 115 L83 107 L75 105 L83 103 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M205 100 L207 108 L215 110 L207 112 L205 120 L203 112 L195 110 L203 108 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M210 175 L212 182 L219 184 L212 186 L210 193 L208 186 L201 184 L208 182 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M80 175 L82 182 L89 184 L82 186 L80 193 L78 186 L71 184 L78 182 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Camera notch -->
+  <circle cx="145" cy="23" r="4" fill="#000000"/>
+  <!-- Home indicator -->
+  <rect x="120" y="215" width="50" height="5" rx="2" ry="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

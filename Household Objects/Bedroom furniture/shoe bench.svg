@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor -->
+  <line x1="10" y1="225" x2="280" y2="225" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bench top padded cushion -->
+  <rect x="35" y="70" width="220" height="40" rx="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- cushion stitching dots -->
+  <circle cx="80" cy="90" r="2" fill="#000000"/>
+  <circle cx="145" cy="90" r="2" fill="#000000"/>
+  <circle cx="210" cy="90" r="2" fill="#000000"/>
+  <!-- bench frame box for storage below cushion -->
+  <rect x="45" y="110" width="200" height="80" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- open compartment showing inside -->
+  <rect x="55" y="120" width="180" height="65" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- two dividers making 3 cubbies -->
+  <line x1="115" y1="120" x2="115" y2="185" stroke="#5e1f0a" stroke-width="4.45"/>
+  <line x1="175" y1="120" x2="175" y2="185" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- shoes IN each cubby (storage below) -->
+  <path d="M62 185 L62 175 Q67 168 78 170 L92 178 L92 185 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M122 185 L122 175 Q127 168 138 170 L152 178 L152 185 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M182 185 L182 175 Q187 168 198 170 L212 178 L212 185 Z" fill="#000000" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- bench feet -->
+  <rect x="45" y="190" width="14" height="35" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="231" y="190" width="14" height="35" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- shoes lined up underneath on floor -->
+  <path d="M70 225 L70 215 Q75 208 86 210 L100 218 L100 225 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M120 225 L120 215 Q125 208 136 210 L150 218 L150 225 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M170 225 L170 215 Q175 208 186 210 L200 218 L200 225 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M210 225 L210 215 Q215 208 220 210 L230 218 L230 225 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

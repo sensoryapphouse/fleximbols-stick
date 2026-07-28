@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- boron: borax detergent box with crystal granules spilling out -->
+  <!-- box body (carton, slight perspective) -->
+  <path d="M70 60 L200 60 L210 75 L210 200 L80 200 L70 185 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- top flap -->
+  <path d="M70 60 L200 60 L210 75 L80 75 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- right side panel -->
+  <path d="M200 60 L210 75 L210 200 L200 185 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- front label band -->
+  <rect x="85" y="100" width="115" height="35" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- big B mark on label (use simple geometry, not text) -->
+  <!-- B as stacked rectangle + 2 semicircles -->
+  <rect x="120" y="105" width="8" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M128 105 Q150 105 150 113 Q150 118 140 118 L128 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M128 118 Q155 118 155 124 Q155 131 140 131 L128 131 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- label text bars below -->
+  <rect x="95" y="145" width="95" height="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="95" y="158" width="70" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- crystal granules spilling out the top -->
+  <!-- pile on top of box -->
+  <path d="M95 75 Q120 50 145 55 Q170 48 200 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- individual crystals (diamonds) -->
+  <path d="M110 55 L116 48 L122 55 L116 62 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M140 45 L148 36 L156 45 L148 54 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M170 50 L177 42 L184 50 L177 58 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- spilled crystals on the floor next to the box -->
+  <path d="M215 195 L221 188 L227 195 L221 202 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M232 205 L237 199 L242 205 L237 211 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M225 215 L230 209 L235 215 L230 221 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M50 210 L56 204 L62 210 L56 216 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

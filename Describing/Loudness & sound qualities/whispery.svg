@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="36.85 32.58 438.30 438.30"><!-- whispery: lips with a 'shh' finger and tiny soft waves -->
+<!-- speech bubble holding the mouth -->
+<path d="M 96 120 L 416 120 Q 444 120 444 148 L 444 300 Q 444 328 416 328 L 200 328 L 150 384 L 156 328 L 96 328 Q 68 328 68 300 L 68 148 Q 68 120 96 120 Z" fill="#eef2f5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- lips -->
+<path d="M 150 224 Q 210 196 256 224 Q 302 196 362 224 Q 302 268 256 244 Q 210 268 150 224 Z" fill="#d9786e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="150" y1="224" x2="362" y2="224" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- vertical 'shh' finger over lips -->
+<rect x="244" y="150" width="24" height="120" rx="12" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- tiny soft whisper waves -->
+<g fill="none" stroke="#2f9e4a" stroke-width="7" stroke-linecap="round">
+<path d="M 386 196 Q 400 186 410 196"/>
+<path d="M 398 220 Q 414 208 428 220"/>
+</g>
+</svg>

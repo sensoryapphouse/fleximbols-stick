@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Row of 4 chord blocks, each with stacked-note triad (I-IV-V-I) -->
+
+  <!-- Block 1 (I) -->
+  <rect x="14" y="40" width="62" height="160" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Mini staff lines inside -->
+  <line x1="20" y1="80" x2="70" y2="80" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="20" y1="95" x2="70" y2="95" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="20" y1="110" x2="70" y2="110" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="20" y1="125" x2="70" y2="125" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="20" y1="140" x2="70" y2="140" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Triad: root + 3rd + 5th (stacked notes) -->
+  <ellipse cx="40" cy="140" rx="9" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="40" cy="125" rx="9" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="40" cy="110" rx="9" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Roman numeral I bar (path shape, not text) -->
+  <rect x="38" y="170" width="6" height="22" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="30" y="168" width="22" height="5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="30" y="190" width="22" height="5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Block 2 (IV) -->
+  <rect x="84" y="40" width="62" height="160" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89"/>
+  <line x1="90" y1="80" x2="140" y2="80" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="90" y1="95" x2="140" y2="95" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="90" y1="110" x2="140" y2="110" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="90" y1="125" x2="140" y2="125" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="90" y1="140" x2="140" y2="140" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="110" cy="135" rx="9" ry="6" fill="#137827" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="110" cy="120" rx="9" ry="6" fill="#137827" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="110" cy="105" rx="9" ry="6" fill="#137827" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Roman numeral IV as four vertical bars and a triangle to make V-like shape - simpler: I + V combined -->
+  <rect x="92" y="170" width="5" height="22" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="85" y="168" width="19" height="5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="85" y="190" width="19" height="5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="110,168 138,168 124,195" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Block 3 (V) -->
+  <rect x="154" y="40" width="62" height="160" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89"/>
+  <line x1="160" y1="80" x2="210" y2="80" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="160" y1="95" x2="210" y2="95" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="160" y1="110" x2="210" y2="110" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="160" y1="125" x2="210" y2="125" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="160" y1="140" x2="210" y2="140" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="180" cy="130" rx="9" ry="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="180" cy="115" rx="9" ry="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="180" cy="100" rx="9" ry="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Roman numeral V (triangle) -->
+  <polygon points="164,168 196,168 180,195" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Block 4 (I) -->
+  <rect x="224" y="40" width="62" height="160" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89"/>
+  <line x1="230" y1="80" x2="280" y2="80" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="230" y1="95" x2="280" y2="95" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="230" y1="110" x2="280" y2="110" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="230" y1="125" x2="280" y2="125" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="230" y1="140" x2="280" y2="140" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="250" cy="140" rx="9" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="250" cy="125" rx="9" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="250" cy="110" rx="9" ry="6" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="248" y="170" width="6" height="22" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="240" y="168" width="22" height="5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="240" y="190" width="22" height="5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Arrow between blocks at top, indicating progression -->
+  <path d="M76 28 L84 28" stroke="#ff9900" stroke-width="7.78" stroke-linecap="round"/>
+  <polygon points="84,28 78,24 78,32" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M146 28 L154 28" stroke="#ff9900" stroke-width="7.78" stroke-linecap="round"/>
+  <polygon points="154,28 148,24 148,32" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M216 28 L224 28" stroke="#ff9900" stroke-width="7.78" stroke-linecap="round"/>
+  <polygon points="224,28 218,24 218,32" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- Bottom flow arrow -->
+  <path d="M30 220 L260 220" stroke="#7c3fac" stroke-width="6.67" stroke-linecap="round"/>
+  <polygon points="260,220 252,214 252,226" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

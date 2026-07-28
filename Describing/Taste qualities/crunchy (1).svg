@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Left half of cracker/carrot being snapped -->
+  <!-- Left piece (cracker texture) -->
+  <path d="M 30,108 L 30,158 Q 30,165 38,165 L 128,165 L 148,136 L 120,108 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left piece cracker texture dots -->
+  <circle cx="60" cy="125" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="80" cy="138" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="55" cy="148" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="100" cy="125" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Right piece -->
+  <path d="M 260,108 L 260,158 Q 260,165 252,165 L 162,165 L 142,136 L 170,108 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right piece cracker texture dots -->
+  <circle cx="230" cy="125" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="210" cy="138" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="235" cy="148" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="192" cy="125" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Jagged break line in center -->
+  <path d="M 120,108 L 132,118 L 126,128 L 142,136 L 136,148 L 148,158 L 162,148 L 154,136 L 168,128 L 158,118 L 170,108" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Impact spark at break point -->
+  <path d="M 145,108 L 145,90" stroke="#ff9900" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 145,108 L 158,95" stroke="#ff9900" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 145,108 L 132,95" stroke="#ff9900" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 145,108 L 165,102" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145,108 L 125,102" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Star burst at snap point -->
+  <circle cx="145" cy="108" r="8" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Crumb fragments flying -->
+  <path d="M 100,95 L 108,88 L 112,95 L 106,100 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 180,92 L 188,86 L 192,92 L 185,97 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 68,82 L 74,76 L 78,82 L 72,86 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 218,85 L 224,79 L 228,85 L 222,89 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- CRUNCH label area — motion lines -->
+  <path d="M 42,190 Q 50,185 58,190 Q 66,195 74,190 Q 82,185 90,190" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 200,190 Q 208,185 216,190 Q 224,195 232,190 Q 240,185 248,190" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

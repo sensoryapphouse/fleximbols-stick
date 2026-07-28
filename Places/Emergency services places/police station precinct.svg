@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground -->
+  <rect x="15" y="210" width="260" height="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Main building - sturdy, broad -->
+  <rect x="30" y="138" width="230" height="72" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Building top band -->
+  <rect x="25" y="128" width="240" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Second storey windows -->
+  <rect x="48" y="148" width="38" height="26" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="67" y1="148" x2="67" y2="174" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="48" y1="161" x2="86" y2="161" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="104" y="148" width="38" height="26" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="123" y1="148" x2="123" y2="174" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="104" y1="161" x2="142" y2="161" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="204" y="148" width="38" height="26" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="223" y1="148" x2="223" y2="174" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="204" y1="161" x2="242" y2="161" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Central entrance section raised -->
+  <rect x="145" y="128" width="60" height="82" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Door (double, heavy) -->
+  <rect x="153" y="175" width="46" height="35" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="176" y1="175" x2="176" y2="210" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Door handles -->
+  <circle cx="167" cy="194" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="185" cy="194" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- POLICE SHIELD/STAR BADGE emblem on facade (centre left) -->
+  <!-- Shield body -->
+  <path d="M60,80 L100,80 L100,110 Q100,128 80,134 Q60,128 60,110 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Shield inner lighter fill -->
+  <path d="M65,84 L95,84 L95,110 Q95,124 80,129 Q65,124 65,110 Z" fill="#2a4ec0" stroke="#ffffff" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Star on badge -->
+  <polygon points="80,89 84,100 96,100 87,107 90,118 80,112 70,118 73,107 64,100 76,100" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- BLUE LIGHT on top of building (siren) -->
+  <!-- Light housing -->
+  <rect x="156" y="108" width="40" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Blue dome light -->
+  <ellipse cx="176" cy="108" rx="14" ry="9" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Light highlight -->
+  <ellipse cx="171" cy="105" rx="4" ry="3" fill="#dff3fd" stroke="none"/>
+  <!-- Light rays -->
+  <line x1="162" y1="100" x2="158" y2="93" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="176" y1="99" x2="176" y2="91" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="190" y1="100" x2="194" y2="93" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Steps -->
+  <rect x="142" y="206" width="68" height="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="149" y="201" width="54" height="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

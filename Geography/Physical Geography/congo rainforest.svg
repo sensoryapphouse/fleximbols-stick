@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky peek -->
+  <rect x="0" y="0" width="290" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- dense dark canopy -->
+  <path d="M0,70 C30,30 70,55 110,40 C150,28 190,55 230,40 C260,30 285,55 290,45 L290,140 L0,140 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- canopy texture clusters -->
+  <ellipse cx="30" cy="65" rx="22" ry="16" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="85" cy="55" rx="20" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="135" cy="65" rx="22" ry="16" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="190" cy="55" rx="20" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="250" cy="65" rx="22" ry="16" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- forest floor -->
+  <rect x="0" y="135" width="290" height="105" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- ferns -->
+  <path d="M30,235 C30,210 20,200 15,200 M30,235 C30,215 40,205 50,205 M30,235 L30,200" stroke="#529929" stroke-width="5.33" fill="none" stroke-linecap="round"/>
+  <path d="M260,235 C260,210 250,200 245,200 M260,235 C260,215 270,205 280,205 M260,235 L260,200" stroke="#529929" stroke-width="5.33" fill="none" stroke-linecap="round"/>
+  <!-- gorilla body -->
+  <ellipse cx="145" cy="195" rx="55" ry="38" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- gorilla head -->
+  <ellipse cx="145" cy="150" rx="36" ry="30" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- gorilla face (lighter mask) -->
+  <ellipse cx="145" cy="158" rx="22" ry="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- brow ridge -->
+  <path d="M125,150 C135,144 155,144 165,150" stroke="#1a1a1a" stroke-width="5.33" fill="none" stroke-linecap="round"/>
+  <!-- eyes -->
+  <circle cx="135" cy="156" r="2.5" fill="#000000"/>
+  <circle cx="155" cy="156" r="2.5" fill="#000000"/>
+  <!-- nostrils -->
+  <ellipse cx="141" cy="167" rx="2" ry="1.5" fill="#000000"/>
+  <ellipse cx="149" cy="167" rx="2" ry="1.5" fill="#000000"/>
+  <!-- mouth -->
+  <path d="M138,174 C142,177 148,177 152,174" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- gorilla arms -->
+  <ellipse cx="95" cy="210" rx="15" ry="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="195" cy="210" rx="15" ry="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- hands as knuckles -->
+  <ellipse cx="95" cy="230" rx="14" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="195" cy="230" rx="14" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

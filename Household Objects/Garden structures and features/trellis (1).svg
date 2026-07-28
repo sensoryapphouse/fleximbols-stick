@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Trellis: tall narrow lattice/criss-cross panel for climbing plants -->
+  <!-- Outer frame -->
+  <rect x="72" y="22" width="146" height="205" rx="5" fill="none" stroke="#9d7246" stroke-width="10.15" stroke-linecap="round"/>
+  <!-- Diagonal lattice lines NW-SE -->
+  <line x1="72" y1="60" x2="120" y2="22" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="72" y1="100" x2="164" y2="22" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="72" y1="140" x2="210" y2="22" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="72" y1="180" x2="218" y2="60" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="92" y1="227" x2="218" y2="102" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="138" y1="227" x2="218" y2="150" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="180" y1="227" x2="218" y2="196" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Diagonal lattice lines NE-SW -->
+  <line x1="218" y1="60" x2="170" y2="22" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="218" y1="100" x2="126" y2="22" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="218" y1="140" x2="80" y2="22" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="218" y1="180" x2="72" y2="60" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="198" y1="227" x2="72" y2="102" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="152" y1="227" x2="72" y2="150" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <line x1="110" y1="227" x2="72" y2="196" stroke="#9d7246" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Climbing vines over lattice -->
+  <path d="M80,227 Q75,195 85,165 Q95,135 82,100 Q72,72 88,45" fill="none" stroke="#529929" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M85,165 Q70,155 72,140" fill="none" stroke="#529929" stroke-width="3.18" stroke-linecap="round"/>
+  <path d="M82,115 Q68,105 72,90" fill="none" stroke="#529929" stroke-width="2.54" stroke-linecap="round"/>
+  <!-- Leaves left vine -->
+  <ellipse cx="71" cy="139" rx="9" ry="6" fill="#529929" transform="rotate(-40,71,139)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="71" cy="89" rx="8" ry="5" fill="#67832d" transform="rotate(30,71,89)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Right vine -->
+  <path d="M200,227 Q208,198 198,168 Q188,138 205,105 Q215,78 202,50" fill="none" stroke="#529929" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M198,168 Q215,158 213,143" fill="none" stroke="#529929" stroke-width="3.18" stroke-linecap="round"/>
+  <!-- Leaves right vine -->
+  <ellipse cx="214" cy="142" rx="9" ry="6" fill="#529929" transform="rotate(40,214,142)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="203" cy="50" rx="8" ry="5" fill="#67832d" transform="rotate(-25,203,50)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Roses -->
+  <circle cx="89" cy="43" r="8" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="91" cy="41" r="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="202" cy="48" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="204" cy="46" r="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Small leaf clusters -->
+  <ellipse cx="145" cy="80" rx="10" ry="6" fill="#529929" transform="rotate(-10,145,80)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="145" cy="155" rx="10" ry="6" fill="#67832d" transform="rotate(15,145,155)" stroke="#1a1a1a" stroke-width="3.81"/>
+</g></svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Smart scale: flat square bathroom scale with digital display + wifi icon -->
+  <!-- Scale platform (flat, slightly rounded corners) -->
+  <rect x="30" y="85" width="230" height="140" rx="18" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Scale edge depth / bevel -->
+  <rect x="30" y="205" width="230" height="12" rx="8" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Digital display screen area -->
+  <rect x="75" y="100" width="140" height="60" rx="7" ry="7" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Weight reading display (simplified digital segments) -->
+  <!-- Large digit segments suggesting "72.5" -->
+  <rect x="88" y="112" width="8" height="4" rx="1" ry="1" fill="#fff200"/>
+  <rect x="88" y="127" width="8" height="4" rx="1" ry="1" fill="#fff200"/>
+  <rect x="88" y="142" width="8" height="4" rx="1" ry="1" fill="#fff200"/>
+  <rect x="84" y="113" width="5" height="14" rx="1" ry="1" fill="#fff200"/>
+  <rect x="84" y="128" width="5" height="14" rx="1" ry="1" fill="#fff200"/>
+  <rect x="97" y="113" width="5" height="14" rx="1" ry="1" fill="#fff200"/>
+  <rect x="97" y="128" width="5" height="14" rx="1" ry="1" fill="#fff200"/>
+  <!-- Digit 2 segments -->
+  <rect x="108" y="112" width="8" height="4" rx="1" ry="1" fill="#fff200"/>
+  <rect x="108" y="127" width="8" height="4" rx="1" ry="1" fill="#fff200"/>
+  <rect x="108" y="142" width="8" height="4" rx="1" ry="1" fill="#fff200"/>
+  <rect x="104" y="113" width="5" height="14" rx="1" ry="1" fill="#fff200"/>
+  <rect x="117" y="128" width="5" height="14" rx="1" ry="1" fill="#fff200"/>
+  <!-- Decimal dot -->
+  <rect x="124" y="142" width="5" height="5" rx="1" ry="1" fill="#fff200"/>
+  <!-- Digit 5 -->
+  <rect x="132" y="112" width="8" height="4" rx="1" ry="1" fill="#fff200"/>
+  <rect x="132" y="127" width="8" height="4" rx="1" ry="1" fill="#fff200"/>
+  <rect x="132" y="142" width="8" height="4" rx="1" ry="1" fill="#fff200"/>
+  <rect x="128" y="113" width="5" height="14" rx="1" ry="1" fill="#fff200"/>
+  <rect x="141" y="128" width="5" height="14" rx="1" ry="1" fill="#fff200"/>
+  <!-- "kg" label area -->
+  <rect x="153" y="138" width="18" height="8" rx="2" ry="2" fill="#2a4ec0"/>
+  <!-- WiFi signal arcs (smart feature indicator) -->
+  <!-- WiFi arcs at top right of display -->
+  <path d="M178,148 C181,144 186,141 191,141 C196,141 201,144 204,148" fill="none" stroke="#3aa6a0" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M182,153 C184,150 187,149 191,149 C195,149 198,150 200,153" fill="none" stroke="#3aa6a0" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="191" cy="156" r="3" fill="#3aa6a0"/>
+</g></svg>

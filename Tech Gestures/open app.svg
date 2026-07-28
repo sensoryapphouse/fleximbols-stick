@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- phone body -->
+  <rect x="55" y="20" width="130" height="200" rx="18" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="65" y="38" width="110" height="164" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="120" cy="212" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- app icon being tapped (launching: glow ring + scale lines) -->
+  <rect x="82" y="78" width="76" height="76" rx="14" ry="14" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="120" cy="116" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- play/open arrow inside icon -->
+  <path d="M112 104 L134 116 L112 128 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- launch burst lines -->
+  <path d="M70 70 L80 80" stroke="#f2e40d" stroke-width="5.93" stroke-linecap="round" fill="none"/>
+  <path d="M170 70 L160 80" stroke="#f2e40d" stroke-width="5.93" stroke-linecap="round" fill="none"/>
+  <path d="M70 162 L80 152" stroke="#f2e40d" stroke-width="5.93" stroke-linecap="round" fill="none"/>
+  <path d="M170 162 L160 152" stroke="#f2e40d" stroke-width="5.93" stroke-linecap="round" fill="none"/>
+  <!-- finger tapping (large pointing hand) -->
+  <path d="M205 70 Q198 70 198 78 L198 132 Q198 138 192 138 Q186 138 186 144 Q186 150 192 154 L228 178 Q244 188 258 178 Q272 168 270 148 L268 118 Q268 110 260 110 Q252 110 252 118 L252 126 L252 100 Q252 92 244 92 Q236 92 236 100 L236 122 L236 92 Q236 84 228 84 Q220 84 220 92 L220 122 L220 78 Q220 70 213 70 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tap ripple on screen surface -->
+  <circle cx="120" cy="116" r="34" fill="none" stroke="#1d0e82" stroke-width="4.45"/>
+</g></svg>

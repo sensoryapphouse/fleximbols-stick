@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"><g transform="translate(15.32 -60.18) scale(0.9401)"><path d="M 471.0 418.4 L 417.8 433.1 L 212.2 330.3 L 44.8 165.2 L 41.0 78.9 L 82.8 86.2 L 128.5 119.3 L 193.2 236.7 L 391.1 313.8 L 471.0 418.4 Z" fill="#9ccb6a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" fill-rule="evenodd"/></g><rect x="310" y="357" width="188" height="141" fill="#ffffff"/><g transform="translate(310 357) scale(0.29375)">
+  <defs>
+    <clipPath id="cw-a">
+      <path fill-opacity=".7" d="M0 0h682.7v512H0z"/>
+    </clipPath>
+    <path id="cw-b" d="m0-1 .2.7H1L.3 0l.2.7L0 .4l-.6.4.2-.7-.5-.4h.7z"/>
+  </defs>
+  <g clip-path="url(#cw-a)" transform="scale(.94)">
+    <path fill="#002b7f" d="M0 0h768v512H0z"/>
+    <path fill="#f9e814" d="M0 320h768v64H0z"/>
+    <use xlink:href="#cw-b" width="13500" height="9000" x="2" y="2" fill="#fff" transform="scale(42.67)"/>
+    <use xlink:href="#cw-b" width="13500" height="9000" x="3" y="3" fill="#fff" transform="scale(56.9)"/>
+  </g>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#000000" stroke-width="2"/>
+</g><rect x="310" y="357" width="188" height="141" fill="none" stroke="#1a1a1a" stroke-width="7"/></svg>

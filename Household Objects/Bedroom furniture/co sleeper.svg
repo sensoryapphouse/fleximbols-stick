@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Parent bed (right side) -->
+  <rect x="160" y="100" width="108" height="90" rx="5" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Parent pillow -->
+  <rect x="170" y="108" width="50" height="28" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Parent bed legs -->
+  <rect x="165" y="188" width="12" height="26" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="252" y="188" width="12" height="26" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Co-sleeper crib (left, open on right side facing bed) -->
+  <!-- Back rail (left) -->
+  <rect x="22" y="90" width="14" height="90" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Top rail -->
+  <rect x="22" y="90" width="130" height="12" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bottom rail -->
+  <rect x="22" y="168" width="130" height="12" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Slats (left closed side only) -->
+  <rect x="48" y="102" width="9" height="66" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="70" y="102" width="9" height="66" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="92" y="102" width="9" height="66" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="114" y="102" width="9" height="66" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Open side indicator: dashed gap where right wall would be -->
+  <line x1="152" y1="102" x2="152" y2="122" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="6,6" stroke-linecap="round"/>
+  <line x1="152" y1="148" x2="152" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="6,6" stroke-linecap="round"/>
+  <!-- Mattress in crib -->
+  <rect x="32" y="145" width="120" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Crib legs -->
+  <rect x="26" y="180" width="12" height="30" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="136" y="180" width="12" height="30" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Height-matching brace arrow hinting same level -->
+  <line x1="152" y1="135" x2="160" y2="135" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

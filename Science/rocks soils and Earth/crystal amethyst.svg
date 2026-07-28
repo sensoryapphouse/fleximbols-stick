@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Rock base -->
+  <path d="M55,200 L235,200 L220,175 L70,175 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Back crystals (shorter) -->
+  <polygon points="95,175 108,175 100,115" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="175,175 190,175 185,108" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Main left crystal -->
+  <polygon points="75,175 100,175 88,70" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Face facet left -->
+  <polygon points="75,175 88,70 80,165" fill="#392170" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Main centre crystal -->
+  <polygon points="115,175 150,175 132,45" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Face facet centre -->
+  <polygon points="115,175 132,45 122,160" fill="#392170" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Main right crystal -->
+  <polygon points="155,175 190,175 172,68" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Face facet right -->
+  <polygon points="155,175 172,68 162,160" fill="#392170" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Small right crystal -->
+  <polygon points="195,175 215,175 210,118" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Highlight lines -->
+  <line x1="88" y1="70" x2="90" y2="120" stroke="#f4a4b2" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="132" y1="45" x2="134" y2="110" stroke="#f4a4b2" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

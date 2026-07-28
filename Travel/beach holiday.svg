@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="110" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- ocean -->
+  <rect x="10" y="120" width="270" height="40" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- waves -->
+  <path d="M10 130 Q40 125 70 130 T130 130 T190 130 T250 130 T290 130" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- sand -->
+  <rect x="10" y="160" width="270" height="70" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- sun -->
+  <circle cx="55" cy="50" r="20" fill="#fff200" stroke="#1a1a1a" stroke-width="5.33"/>
+  <line x1="55" y1="20" x2="55" y2="14" stroke="#f2e40d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="55" y1="80" x2="55" y2="86" stroke="#f2e40d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="25" y1="50" x2="19" y2="50" stroke="#f2e40d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="85" y1="50" x2="91" y2="50" stroke="#f2e40d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="34" y1="29" x2="29" y2="24" stroke="#f2e40d" stroke-width="5.33" stroke-linecap="round"/>
+  <line x1="76" y1="71" x2="81" y2="76" stroke="#f2e40d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- beach umbrella -->
+  <line x1="225" y1="80" x2="225" y2="190" stroke="#5e1f0a" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M170 110 Q225 60 280 110 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M180 110 Q225 80 270 110" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M225 60 L225 110" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- towel/mat -->
+  <rect x="60" y="180" width="140" height="20" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.33"/>
+  <line x1="80" y1="180" x2="80" y2="200" stroke="#f4a4b2" stroke-width="3.56"/>
+  <line x1="120" y1="180" x2="120" y2="200" stroke="#f4a4b2" stroke-width="3.56"/>
+  <line x1="160" y1="180" x2="160" y2="200" stroke="#f4a4b2" stroke-width="3.56"/>
+  <!-- person lying down, full body -->
+  <!-- head -->
+  <circle cx="75" cy="170" r="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- sunglasses -->
+  <rect x="65" y="166" width="9" height="5" fill="#000000"/>
+  <rect x="76" y="166" width="9" height="5" fill="#000000"/>
+  <line x1="74" y1="168" x2="76" y2="168" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M68 178 Q75 181 82 178" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- torso (lying on towel) -->
+  <rect x="88" y="170" width="60" height="20" rx="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- legs -->
+  <rect x="148" y="172" width="50" height="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <rect x="148" y="182" width="50" height="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- feet -->
+  <ellipse cx="200" cy="176" rx="5" ry="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="200" cy="186" rx="5" ry="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- arm holding drink -->
+  <path d="M120 170 L130 145 L140 145 L130 172 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- drink with umbrella -->
+  <path d="M125 135 L145 135 L142 155 L128 155 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="138" y1="120" x2="138" y2="140" stroke="#529929" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M128 122 L148 122 L138 116 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

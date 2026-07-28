@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="180" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Andes peaks -->
+  <path d="M0 180 L40 100 L80 150 L130 70 L180 140 L230 90 L290 170 L290 180 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- snow caps -->
+  <path d="M125 80 L130 70 L135 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M225 100 L230 90 L235 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- main green mountain in front -->
+  <path d="M30 220 L80 130 L150 180 L210 120 L270 220 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- terraces (Inca stepped agricultural) -->
+  <path d="M70 200 L220 200 L215 190 L75 190 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M75 190 L215 190 L210 180 L80 180 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M80 180 L210 180 L205 170 L85 170 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M85 170 L205 170 L200 160 L90 160 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- stone ruin buildings on top -->
+  <rect x="115" y="135" width="20" height="25" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M113 135 L125 125 L137 135 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="145" y="140" width="22" height="20" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M143 140 L156 130 L169 140 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- llama -->
+  <ellipse cx="225" cy="210" rx="22" ry="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="220" y="215" width="4" height="15" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="240" y="215" width="4" height="15" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- llama neck and head -->
+  <path d="M242 200 L250 180 L258 180 L258 195 L252 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="254" cy="183" r="2" fill="#000000"/>
+  <path d="M250 178 L250 172 M258 178 L258 172" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- sun -->
+  <circle cx="40" cy="35" r="13" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+</g></svg>

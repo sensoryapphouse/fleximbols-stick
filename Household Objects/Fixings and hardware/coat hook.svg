@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wall background section -->
+  <rect x="26" y="32" width="238" height="176" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- mounting plate -->
+  <rect x="120" y="50" width="50" height="20" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- mounting screws -->
+  <circle cx="130" cy="60" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="160" cy="60" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- hook arm coming out from plate, curving up at the end -->
+  <path d="M145 70 Q145 95 165 95 Q180 95 180 80" fill="none" stroke="#7f7f7f" stroke-width="13.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M145 70 Q145 95 165 95 Q180 95 180 80" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- coat hanging from hook -->
+  <!-- collar -->
+  <path d="M125 100 L145 90 L165 100 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- coat body -->
+  <path d="M105 105 L185 105 L195 200 L95 200 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- left sleeve -->
+  <path d="M105 105 L75 160 L90 175 L115 130 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right sleeve -->
+  <path d="M185 105 L215 160 L200 175 L175 130 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- buttons -->
+  <circle cx="145" cy="130" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="155" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="180" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- centre seam -->
+  <line x1="145" y1="105" x2="145" y2="200" stroke="#5e1f0a" stroke-width="2.96"/>
+</g></svg>

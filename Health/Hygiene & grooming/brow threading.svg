@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Eyebrow being shaped by twisted thread held in two hands -->
+  <!-- Forehead/skin background (face fragment showing brow area) -->
+  <path d="M40 60 Q40 40 60 36 L240 36 Q260 40 260 60 L260 200 Q260 220 240 220 L60 220 Q40 220 40 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Brow bone shading -->
+  <path d="M70 130 Q145 125 220 130" fill="none" stroke="#e6b98a" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- EYEBROW (being shaped - dark, thick, well-defined) -->
+  <path d="M80 118 Q120 108 160 112 Q190 116 210 122 Q200 126 175 124 Q145 122 110 126 Q90 128 80 124 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Brow hair flicks -->
+  <path d="M90 120 L88 114 M105 116 L103 110 M120 114 L118 108 M135 114 L133 108 M150 114 L148 108 M165 116 L163 110 M180 118 L178 112 M195 122 L193 116" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- EYE below brow (closed for threading session) -->
+  <path d="M90 150 Q135 145 200 150" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Eyelashes (closed eye) -->
+  <path d="M100 152 L98 158 M120 152 L120 160 M140 151 L140 160 M160 151 L160 160 M180 152 L180 158" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- TWISTED THREAD forming X across the brow -->
+  <!-- Thread strand 1 - left hand to right (twisted in middle) -->
+  <path d="M30 90 L100 110 Q130 118 145 118 Q160 118 190 124 L260 152" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Thread strand 2 - making the X twist -->
+  <path d="M30 110 L100 122 Q130 122 145 118 Q160 110 190 110 L260 96" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Twist node where threads cross (the trap point that pulls hair) -->
+  <circle cx="145" cy="118" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- LEFT HAND (technician's hand holding the thread loop, fingers visible) -->
+  <path d="M8 70 Q4 88 8 108 Q12 122 22 124 L34 122 Q42 118 40 108 L36 96 Q40 86 36 80 L32 78 Q28 86 26 90 L24 76 Q20 70 16 72 L14 88 L10 78 Q6 70 8 70 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left hand wrist/cuff -->
+  <path d="M2 124 L36 122 L36 138 L2 140 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- RIGHT HAND (other end of thread) -->
+  <path d="M282 80 Q286 98 282 118 Q278 132 268 134 L256 132 Q248 128 250 118 L254 106 Q250 96 254 90 L258 88 Q262 96 264 100 L266 86 Q270 80 274 82 L276 98 L280 88 Q284 80 282 80 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right hand wrist/cuff -->
+  <path d="M288 134 L254 132 L254 148 L288 150 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

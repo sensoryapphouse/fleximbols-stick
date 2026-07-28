@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2984) translate(-256.00 -255.50)">
+<g transform="translate(79.9,-84.0) scale(1.214)"><!-- horizontal rails -->
+  <rect x="20" y="200" width="250" height="28" fill="#C68642" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="20" y="320" width="250" height="28" fill="#C68642" stroke="#1a1a1a" stroke-width="5" />
+  <!-- pickets -->
+  <g fill="#E0A86A" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round">
+    <polygon points="40,170 80,170 80,420 40,420 60,140" />
+    <polygon points="120,170 160,170 160,420 120,420 140,140" />
+    <polygon points="200,170 240,170 240,420 200,420 220,140" />
+  </g>
+  <!-- nails -->
+  <g fill="#1A1A1A">
+    <circle cx="60" cy="214" r="4" />
+    <circle cx="140" cy="214" r="4" />
+    <circle cx="220" cy="214" r="4" />
+    <circle cx="60" cy="334" r="4" />
+    <circle cx="140" cy="334" r="4" />
+    <circle cx="220" cy="334" r="4" />
+  </g></g>
+</g></svg>

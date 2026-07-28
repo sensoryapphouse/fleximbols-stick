@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<g transform="rotate(-32 256 256)">
+<!-- cord -->
+<path d="M 96 256 Q 64 256 64 290 Q 64 320 92 318" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- handle -->
+<rect x="92" y="234" width="150" height="44" rx="20" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- power button -->
+<circle cx="130" cy="256" r="11" fill="#d63b46" stroke="#1a1a1a" stroke-width="6"/>
+<!-- collar -->
+<rect x="240" y="238" width="22" height="36" rx="5" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8"/>
+<!-- barrel -->
+<rect x="262" y="240" width="160" height="32" rx="16" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bristle pins top -->
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round">
+<line x1="280" y1="240" x2="280" y2="216"/>
+<line x1="304" y1="240" x2="304" y2="214"/>
+<line x1="328" y1="240" x2="328" y2="214"/>
+<line x1="352" y1="240" x2="352" y2="214"/>
+<line x1="376" y1="240" x2="376" y2="214"/>
+<line x1="400" y1="240" x2="400" y2="216"/>
+</g>
+<!-- bristle pins bottom -->
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round">
+<line x1="280" y1="272" x2="280" y2="296"/>
+<line x1="304" y1="272" x2="304" y2="298"/>
+<line x1="328" y1="272" x2="328" y2="298"/>
+<line x1="352" y1="272" x2="352" y2="298"/>
+<line x1="376" y1="272" x2="376" y2="298"/>
+<line x1="400" y1="272" x2="400" y2="296"/>
+</g>
+</g>
+</svg>

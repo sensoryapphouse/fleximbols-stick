@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","mc"]]}</metadata>
+<!-- night header bar: crescent moon + stars -->
+<rect x="36" y="36" width="440" height="84" rx="16" fill="#2b3a5a" stroke="#16203a" stroke-width="4"/>
+<path d="M 98 56 A 26 26 0 1 0 98 100 A 19 19 0 1 1 98 56 Z" fill="#f3e6a0" stroke="#caa015" stroke-width="4"/>
+<polygon points="180,60 184,72 196,76 184,80 180,92 176,80 164,76 176,72" fill="#f7d83a" stroke="#caa015" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="270,72 273,82 283,85 273,88 270,98 267,88 257,85 267,82" fill="#f7d83a" stroke="#caa015" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="360,58 364,70 376,74 364,78 360,90 356,78 344,74 356,70" fill="#f7d83a" stroke="#caa015" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="424,76 427,84 435,87 427,90 424,98 421,90 413,87 421,84" fill="#f7d83a" stroke="#caa015" stroke-width="2" stroke-linejoin="round"/>
+
+<!-- 2x2 grid of routine steps -->
+<!-- 1: PUT ON PYJAMAS (top-left) -->
+<g transform="translate(78 160)">
+  <path d="M 16 40 L 40 24 Q 72 44 104 24 L 128 40 L 112 78 L 100 70 L 100 168 L 44 168 L 44 70 L 32 78 Z" fill="#8e7cc3" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <line x1="72" y1="44" x2="72" y2="162" stroke="#5a4a8a" stroke-width="4"/>
+  <circle cx="72" cy="64" r="4" fill="#5a4a8a"/>
+  <circle cx="72" cy="92" r="4" fill="#5a4a8a"/>
+  <circle cx="72" cy="120" r="4" fill="#5a4a8a"/>
+</g>
+
+<!-- 2: BRUSH TEETH (top-right) -->
+<g transform="translate(280 160)">
+  <rect x="20" y="86" width="120" height="22" rx="11" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="6"/>
+  <rect x="126" y="74" width="34" height="46" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+  <line x1="134" y1="70" x2="134" y2="58" stroke="#9aa7b5" stroke-width="5" stroke-linecap="round"/>
+  <line x1="146" y1="70" x2="146" y2="56" stroke="#9aa7b5" stroke-width="5" stroke-linecap="round"/>
+  <line x1="158" y1="70" x2="158" y2="58" stroke="#9aa7b5" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 40 84 q 18 -22 36 0" fill="#3fae5a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+</g>
+
+<!-- 3: READ A STORY (bottom-left) -->
+<g transform="translate(78 320)">
+  <path d="M 80 40 Q 40 24 12 40 L 12 150 Q 40 134 80 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M 80 40 Q 120 24 148 40 L 148 150 Q 120 134 80 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <line x1="80" y1="44" x2="80" y2="148" stroke="#1a1a1a" stroke-width="5"/>
+  <line x1="28" y1="64" x2="68" y2="60" stroke="#9aa7b5" stroke-width="4" stroke-linecap="round"/>
+  <line x1="28" y1="82" x2="68" y2="78" stroke="#9aa7b5" stroke-width="4" stroke-linecap="round"/>
+  <line x1="28" y1="100" x2="68" y2="96" stroke="#9aa7b5" stroke-width="4" stroke-linecap="round"/>
+  <line x1="92" y1="60" x2="132" y2="64" stroke="#9aa7b5" stroke-width="4" stroke-linecap="round"/>
+  <line x1="92" y1="78" x2="132" y2="82" stroke="#9aa7b5" stroke-width="4" stroke-linecap="round"/>
+  <line x1="92" y1="96" x2="132" y2="100" stroke="#9aa7b5" stroke-width="4" stroke-linecap="round"/>
+</g>
+
+<!-- 4: GO TO SLEEP (bottom-right) -->
+<g transform="translate(280 320)">
+  <rect x="10" y="100" width="150" height="54" rx="8" fill="#b07a3a" stroke="#1a1a1a" stroke-width="6"/>
+  <rect x="10" y="86" width="150" height="20" rx="6" fill="#eef2f6" stroke="#1a1a1a" stroke-width="5"/>
+  <rect x="18" y="62" width="54" height="32" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+  <circle id="h1" data-fig="mc" cx="48" cy="74" r="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+  <path d="M 34 70 q 14 -10 28 0" fill="none" stroke="#6b4a2b" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M 38 76 q 5 5 10 0" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <path d="M 52 76 q 5 5 10 0" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <!-- zzz -->
+  <path d="M 96 56 L 118 56 L 96 78 L 118 78 M 122 38 L 140 38 L 122 56 L 140 56" fill="none" stroke="#3aa6d6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Torso ghost -->
+  <path d="M105 30 C90 30 75 45 72 65 L60 160 C58 175 65 195 80 200 L145 210 L210 200 C225 195 232 175 230 160 L218 65 C215 45 200 30 185 30 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="125" y="14" width="40" height="22" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- SMALL INTESTINE: dense tight coils filling mid-abdomen, orange -->
+  <!-- Coil row 1 -->
+  <path d="M115 105 C115 100 125 98 135 100 C145 102 152 106 158 104 C165 102 170 98 178 100 C184 102 187 108 184 112" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coil row 2 -->
+  <path d="M184 112 C186 116 182 121 175 122 C168 123 160 119 153 120 C146 121 140 125 132 124 C124 123 117 118 115 114 C113 110 115 106 115 105" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coil row 3 -->
+  <path d="M115 114 C113 118 115 124 120 127 C127 130 136 128 144 129 C152 130 160 134 168 133 C176 132 183 128 184 124 C185 120 184 116 184 112" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coil row 4 -->
+  <path d="M184 124 C185 129 182 135 176 137 C169 139 161 136 153 137 C145 138 138 142 130 141 C122 140 116 136 115 130 C114 126 115 122 115 114" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coil row 5 -->
+  <path d="M115 130 C114 135 117 141 123 144 C130 147 139 145 147 146 C155 147 163 151 171 150 C179 149 185 145 185 140 C185 136 184 132 184 124" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coil row 6 -->
+  <path d="M185 140 C185 145 182 152 175 154 C167 156 158 153 150 154 C142 155 135 159 127 158 C119 157 113 152 113 146 C113 142 115 138 115 130" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coil row 7 -->
+  <path d="M113 146 C112 151 115 158 121 161 C129 164 138 162 146 163 C154 164 162 168 170 167 C178 166 184 162 185 156 C186 152 185 148 185 140" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coil row 8 -->
+  <path d="M185 156 C185 161 182 167 176 169 C168 171 159 168 151 169 C143 170 136 174 128 173 C120 172 113 167 113 161 C113 157 113 153 113 146" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coil row 9 -->
+  <path d="M113 161 C112 166 115 173 122 175 C130 177 139 175 147 176 C155 177 163 181 171 180 C179 179 185 175 185 169 C185 165 185 162 185 156" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coil row 10 -->
+  <path d="M185 169 C185 174 182 180 176 182 C168 184 159 181 151 182 C143 183 136 187 128 186 C120 185 113 180 113 174 C113 170 113 166 113 161" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Outline the coiled mass region -->
+  <rect x="110" y="100" width="80" height="90" rx="12" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pointer dot -->
+  <circle cx="145" cy="145" r="5" fill="#000000"/>
+</g></svg>

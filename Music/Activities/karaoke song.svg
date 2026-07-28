@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- screen / monitor showing lyrics -->
+  <rect x="30" y="25" width="200" height="130" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="40" y="35" width="180" height="110" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- scrolling lyrics lines (rectangles act as text bars) -->
+  <rect x="55" y="50" width="120" height="10" rx="2" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="55" y="70" width="150" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="55" y="90" width="100" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="55" y="110" width="130" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- highlighted (current) lyric underline -->
+  <rect x="55" y="50" width="60" height="10" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen stand -->
+  <path d="M115 155 L145 175 L175 155" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="115" y="172" width="60" height="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- microphone bottom-right -->
+  <rect x="232" y="170" width="14" height="55" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="239" cy="170" rx="16" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="239" cy="168" rx="13" ry="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M232 169 L246 169 M234 165 L244 165 M234 173 L244 173" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- music notes floating -->
+  <path d="M50 190 L50 215 Q44 220 40 215 Q40 208 50 210 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M50 190 L66 186 L66 195" fill="none" stroke="#d01424" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95 195 L95 220 Q89 225 85 220 Q85 213 95 215 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M95 195 L107 192" stroke="#7c3fac" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M155 195 L155 220 Q149 225 145 220 Q145 213 155 215 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M155 195 L171 191 L171 200" fill="none" stroke="#529929" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 200 L200 225 Q194 230 190 225 Q190 218 200 220 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M200 200 L212 197" stroke="#ff9900" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- small arrow showing scrolling direction on screen -->
+  <path d="M210 135 L218 130 L218 140 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

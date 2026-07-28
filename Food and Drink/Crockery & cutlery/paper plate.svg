@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- outer plate edge (slightly fluted/scalloped paper rim) -->
+  <path d="M145 25
+    Q175 25 200 40
+    Q235 50 245 80
+    Q260 105 250 130
+    Q255 160 230 180
+    Q210 210 175 215
+    Q145 225 115 215
+    Q80 210 60 180
+    Q35 160 40 130
+    Q30 105 45 80
+    Q55 50 90 40
+    Q115 25 145 25 Z"
+    fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- inner well -->
+  <ellipse cx="145" cy="120" rx="80" ry="68" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- inner pattern ring (scallop arcs) -->
+  <path d="M75 120 Q85 100 105 110 Q115 95 135 105 Q145 90 165 105 Q175 95 195 110 Q215 100 215 120"
+    fill="none" stroke="#90a7d6" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- decorative pattern: confetti dots scattered -->
+  <circle cx="100" cy="135" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="125" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="140" r="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="125" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="115" cy="160" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="165" r="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="170" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small zigzag confetti -->
+  <path d="M85 100 L90 95 L95 100 L100 95" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M195 100 L200 95 L205 100 L210 95" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

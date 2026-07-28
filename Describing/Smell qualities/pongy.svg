@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="71.45 24.51 387.88 387.88">
+<!-- PONGY: strong-smelling wedge of cheese with stink waves and a fly -->
+<!-- stink waves -->
+<g fill="none" stroke="#7a8b53" stroke-width="11" stroke-linecap="round">
+<path d="M 196 168 q -22 -24 0 -48 q 22 -24 0 -48"/>
+<path d="M 256 150 q -22 -24 0 -48 q 22 -24 0 -48"/>
+<path d="M 316 168 q -22 -24 0 -48 q 22 -24 0 -48"/>
+</g>
+<!-- fly -->
+<g>
+<ellipse cx="372" cy="170" rx="13" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 372 163 q -24 -20 -40 -7" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 372 163 q 24 -20 40 -7" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- cheese wedge top -->
+<path d="M 120 300 L 256 240 L 400 300 Z" fill="#f4cd57" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- cheese wedge front -->
+<path d="M 120 300 L 400 300 L 400 360 Q 400 380 376 384 L 144 384 Q 120 380 120 360 Z" fill="#f0c23c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- holes -->
+<circle cx="190" cy="340" r="16" fill="#d9a82e" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="280" cy="352" r="20" fill="#d9a82e" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="346" cy="334" r="13" fill="#d9a82e" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Laptop base/keyboard -->
+  <rect x="30" y="185" width="230" height="22" rx="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Hinge -->
+  <rect x="115" y="183" width="60" height="8" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Keyboard detail -->
+  <rect x="50" y="191" width="80" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="160" y="191" width="50" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Trackpad -->
+  <rect x="120" y="191" width="32" height="10" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Screen bezel -->
+  <rect x="28" y="30" width="234" height="158" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Screen surface -->
+  <rect x="38" y="40" width="214" height="138" rx="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Whiteboard / teacher area (top strip inside screen) -->
+  <rect x="44" y="46" width="202" height="42" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Teacher whiteboard drawn mark (wavy line = writing) -->
+  <path d="M60,60 Q75,54 90,62 Q105,70 120,62 Q135,54 150,62 Q165,70 180,62 Q195,54 210,60" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60,72 Q80,66 100,72 Q120,78 140,72 Q160,66 180,72" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Teacher figure (small, left of board) -->
+  <circle cx="56" cy="55" r="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Grid of student faces (2 rows x 3 cols) -->
+  <!-- Row 1 -->
+  <!-- Cell borders -->
+  <rect x="44" y="94"  width="64" height="40" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="114" y="94" width="64" height="40" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="184" y="94" width="62" height="40" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Row 2 -->
+  <rect x="44" y="138"  width="64" height="36" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="114" y="138" width="64" height="36" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="184" y="138" width="62" height="36" rx="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Student faces row 1 -->
+  <circle cx="76"  cy="108" r="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="73"  cy="105" r="2" fill="#000000"/>
+  <circle cx="79"  cy="105" r="2" fill="#000000"/>
+  <path d="M72,112 Q76,116 80,112" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="146" cy="108" r="10" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="143" cy="105" r="2" fill="#000000"/>
+  <circle cx="149" cy="105" r="2" fill="#000000"/>
+  <path d="M142,112 Q146,116 150,112" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="215" cy="108" r="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="212" cy="105" r="2" fill="#000000"/>
+  <circle cx="218" cy="105" r="2" fill="#000000"/>
+  <path d="M211,112 Q215,116 219,112" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Student faces row 2 -->
+  <circle cx="76"  cy="153" r="10" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="73"  cy="150" r="2" fill="#000000"/>
+  <circle cx="79"  cy="150" r="2" fill="#000000"/>
+  <path d="M72,157 Q76,161 80,157" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="146" cy="153" r="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="143" cy="150" r="2" fill="#000000"/>
+  <circle cx="149" cy="150" r="2" fill="#000000"/>
+  <path d="M142,157 Q146,161 150,157" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="215" cy="153" r="10" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="212" cy="150" r="2" fill="#000000"/>
+  <circle cx="218" cy="150" r="2" fill="#000000"/>
+  <path d="M211,157 Q215,161 219,157" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

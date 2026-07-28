@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor -->
+  <rect x="0" y="218" width="290" height="22" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- imagination cloud top -->
+  <path d="M156 24 Q140 18 132 30 Q116 26 112 42 Q98 48 106 64 Q98 80 116 84 Q124 96 142 90 Q156 100 172 92 Q190 98 198 84 Q214 82 212 66 Q224 56 212 42 Q214 26 196 26 Q188 14 172 22 Q164 14 156 24 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- inside cloud: castle and dragon icons (imagination) -->
+  <rect x="138" y="50" width="36" height="30" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="138" y="42" width="8" height="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="152" y="38" width="8" height="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="166" y="42" width="8" height="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="150" y="62" width="10" height="18" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small star sparkles in cloud -->
+  <path d="M184 56 L186 62 L192 62 L188 66 L190 72 L184 68 L178 72 L180 66 L176 62 L182 62 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M122 64 L124 70 L130 70 L126 74 L128 80 L122 76 L116 80 L118 74 L114 70 L120 70 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- cloud tail dots -->
+  <circle cx="102" cy="106" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="92" cy="120" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- child FULL BODY in pirate costume -->
+  <!-- pirate hat -->
+  <path d="M64 64 Q90 50 116 64 L120 80 L60 80 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- skull on hat -->
+  <circle cx="90" cy="72" r="4" fill="#ffffff"/>
+  <!-- head -->
+  <circle cx="90" cy="98" r="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- eye patch -->
+  <path d="M70 92 L94 92 L94 102 L70 102 Z" fill="#000000"/>
+  <line x1="70" y1="92" x2="60" y2="86" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <line x1="94" y1="92" x2="106" y2="86" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <circle cx="100" cy="100" r="1.8" fill="#000000"/>
+  <path d="M84 110 Q90 114 96 110" fill="none" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
+  <!-- torso striped pirate shirt -->
+  <path d="M68 118 L112 118 L116 178 L64 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <line x1="65" y1="128" x2="115" y2="128" stroke="#d01424" stroke-width="6.67"/>
+  <line x1="65" y1="140" x2="115" y2="140" stroke="#d01424" stroke-width="6.67"/>
+  <line x1="65" y1="152" x2="116" y2="152" stroke="#d01424" stroke-width="6.67"/>
+  <line x1="64" y1="164" x2="116" y2="164" stroke="#d01424" stroke-width="6.67"/>
+  <!-- arms - one holding toy sword -->
+  <path d="M112 130 Q140 138 158 158" fill="none" stroke="#ffffff" stroke-width="24.45" stroke-linecap="round"/>
+  <path d="M112 130 Q140 138 158 158" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M68 130 Q44 152 50 178" fill="none" stroke="#ffffff" stroke-width="24.45" stroke-linecap="round"/>
+  <path d="M68 130 Q44 152 50 178" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hand -->
+  <circle cx="160" cy="160" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="180" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- toy sword -->
+  <line x1="156" y1="160" x2="200" y2="118" stroke="#b8b8b8" stroke-width="11.11" stroke-linecap="round"/>
+  <line x1="148" y1="166" x2="166" y2="166" stroke="#7d5e23" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="156" y1="160" x2="200" y2="118" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- legs -->
+  <rect x="68" y="178" width="20" height="36" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="94" y="178" width="20" height="36" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="78" cy="218" rx="11" ry="5" fill="#000000"/>
+  <ellipse cx="104" cy="218" rx="11" ry="5" fill="#000000"/>
+  <!-- toy box on right with teddy peeking -->
+  <rect x="210" y="158" width="62" height="56" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.56"/>
+  <line x1="210" y1="176" x2="272" y2="176" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- teddy bear in toy box -->
+  <circle cx="240" cy="156" r="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="232" cy="146" r="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="248" cy="146" r="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="236" cy="156" r="1.5" fill="#000000"/>
+  <circle cx="244" cy="156" r="1.5" fill="#000000"/>
+  <ellipse cx="240" cy="162" rx="3" ry="2" fill="#000000"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- central pole -->
+<line x1="256" y1="120" x2="256" y2="390" stroke="#8a5a2b" stroke-width="16" stroke-linecap="round"/>
+<!-- top hooks -->
+<path d="M 256 140 Q 220 132 214 160" fill="none" stroke="#6b4a2b" stroke-width="10" stroke-linecap="round"/>
+<path d="M 256 140 Q 292 132 298 160" fill="none" stroke="#6b4a2b" stroke-width="10" stroke-linecap="round"/>
+<path d="M 256 158 Q 232 156 226 178" fill="none" stroke="#6b4a2b" stroke-width="10" stroke-linecap="round"/>
+<path d="M 256 158 Q 280 156 286 178" fill="none" stroke="#6b4a2b" stroke-width="10" stroke-linecap="round"/>
+<!-- coat hanging on right hook: shoulders + body -->
+<path d="M 286 176 Q 322 178 330 210 L 344 300 Q 322 312 300 308 Q 296 250 286 220 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 330 210 L 344 300" fill="none" stroke="#28527f" stroke-width="6"/>
+<line x1="300" y1="250" x2="300" y2="305" stroke="#28527f" stroke-width="6" stroke-linecap="round"/>
+<!-- hat on top -->
+<ellipse cx="256" cy="128" rx="46" ry="13" fill="#2e7d40" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 230 128 Q 230 100 256 100 Q 282 100 282 128 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- tripod base -->
+<line x1="256" y1="380" x2="200" y2="420" stroke="#6b4a2b" stroke-width="12" stroke-linecap="round"/>
+<line x1="256" y1="380" x2="312" y2="420" stroke="#6b4a2b" stroke-width="12" stroke-linecap="round"/>
+<line x1="256" y1="385" x2="256" y2="426" stroke="#6b4a2b" stroke-width="12" stroke-linecap="round"/>
+</svg>

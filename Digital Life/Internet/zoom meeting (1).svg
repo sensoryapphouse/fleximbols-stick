@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Zoom meeting: laptop with grid of participants, large speaker view -->
+  <!-- Laptop base -->
+  <rect x="30" y="185" width="230" height="18" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Laptop hinge -->
+  <rect x="45" y="183" width="200" height="5" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Laptop lid -->
+  <rect x="45" y="35" width="200" height="148" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Screen background (Zoom blue) -->
+  <rect x="55" y="44" width="180" height="130" rx="3" ry="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Large speaker view tile (left) -->
+  <rect x="60" y="50" width="105" height="95" rx="3" ry="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Speaker face -->
+  <circle cx="112" cy="82" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="112" cy="123" rx="24" ry="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Small grid (right column, 3 tiles) -->
+  <rect x="170" y="50" width="60" height="30" rx="3" ry="3" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="200" cy="62" r="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="200" cy="76" rx="10" ry="6" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <rect x="170" y="85" width="60" height="30" rx="3" ry="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="200" cy="97" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="200" cy="111" rx="10" ry="6" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <rect x="170" y="120" width="60" height="25" rx="3" ry="3" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="200" cy="130" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="200" cy="142" rx="9" ry="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Bottom toolbar in Zoom UI -->
+  <rect x="60" y="150" width="170" height="20" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Mic icon -->
+  <rect x="72" y="156" width="6" height="9" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Camera icon -->
+  <rect x="92" y="156" width="11" height="8" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <polygon points="103,158 109,156 109,164 103,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- End call red button -->
+  <rect x="200" y="155" width="22" height="10" rx="3" ry="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Keyboard hint -->
+  <rect x="70" y="192" width="150" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

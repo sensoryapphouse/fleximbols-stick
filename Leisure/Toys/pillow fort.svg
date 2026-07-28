@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- fort built from pillows + cushions + child full body inside -->
+  <!-- back pillows stacked (left wall) -->
+  <rect x="20" y="90" width="56" height="36" rx="10" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="20" y="130" width="56" height="36" rx="10" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="20" y="170" width="56" height="36" rx="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right wall pillows -->
+  <rect x="214" y="90" width="56" height="36" rx="10" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="214" y="130" width="56" height="36" rx="10" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="214" y="170" width="56" height="36" rx="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- top pillow roof (two pillows leaning together) -->
+  <path d="M40 88 L130 30 Q140 24 150 30 L150 88 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M250 88 L160 30 Q150 24 140 30 L140 88 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pillow corner tassels/seams -->
+  <path d="M30 100 L36 96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M64 100 L70 96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M224 100 L230 96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M258 100 L264 96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- floor cushion (where child sits) -->
+  <ellipse cx="145" cy="208" rx="68" ry="14" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- child inside, full body -->
+  <!-- legs -->
+  <rect x="130" y="174" width="12" height="32" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="148" y="174" width="12" height="32" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- torso -->
+  <path d="M122 134 Q122 126 130 126 L160 126 Q168 126 168 134 L168 178 L122 178 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M122 138 L108 168 L116 172 L126 144 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M168 138 L182 168 L174 172 L164 144 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="145" cy="112" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M127 106 Q128 90 145 88 Q162 90 163 106 Q158 98 145 98 Q132 98 127 106 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="139" cy="113" r="2" fill="#000000"/>
+  <circle cx="151" cy="113" r="2" fill="#000000"/>
+  <path d="M139 120 Q145 124 151 120" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

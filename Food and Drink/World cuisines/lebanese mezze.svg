@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Large platter base -->
+  <ellipse cx="145" cy="200" rx="130" ry="24" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="192" rx="130" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Platter surface -->
+  <ellipse cx="145" cy="186" rx="118" ry="14" fill="#ffffff" stroke="none"/>
+  <!-- Divider lines on platter (cross) -->
+  <line x1="145" y1="172" x2="145" y2="200" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="70" y1="186" x2="220" y2="186" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Top-left: Hummus swirl (beige) -->
+  <ellipse cx="100" cy="178" rx="34" ry="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M85 176 Q100 172 113 177" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="100" cy="175" r="4" fill="#ff9900" stroke="none"/>
+  <!-- Top-right: Tabbouleh (green) -->
+  <ellipse cx="190" cy="178" rx="34" ry="12" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="182" cy="176" r="3" fill="#f8130d" stroke="none"/>
+  <circle cx="194" cy="174" r="3" fill="#f8130d" stroke="none"/>
+  <circle cx="200" cy="177" r="3" fill="#f8130d" stroke="none"/>
+  <!-- Bottom-left: Olives -->
+  <ellipse cx="92" cy="194" rx="30" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="82" cy="193" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="93" cy="192" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="104" cy="193" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bottom-right: Pita triangles (beige/cream) -->
+  <polygon points="152,198 175,170 198,198" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="163,198 183,172 203,198" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pita char dots -->
+  <circle cx="175" cy="188" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="183" cy="185" r="3" fill="#7d5e23" stroke="none"/>
+  <!-- Center: small garnish cluster -->
+  <circle cx="145" cy="183" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="185" r="4" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="151" cy="185" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Outer video-call window frame -->
+  <rect x="20" y="30" width="250" height="180" rx="10" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Title bar - green themed -->
+  <rect x="20" y="30" width="250" height="28" rx="10" ry="10" fill="#137827" stroke="#1a1a1a" stroke-width="7.40"/>
+  <rect x="20" y="44" width="250" height="14" fill="#137827"/>
+  <!-- 2x2 participant grid -->
+  <!-- Top-left tile -->
+  <rect x="30" y="68" width="108" height="64" rx="5" ry="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="84" cy="88" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M64 132 Q64 108 84 108 Q104 108 104 132" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Top-right tile -->
+  <rect x="152" y="68" width="108" height="64" rx="5" ry="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="206" cy="88" r="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M186 132 Q186 108 206 108 Q226 108 226 132" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bottom-left tile -->
+  <rect x="30" y="140" width="108" height="62" rx="5" ry="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="84" cy="158" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M64 202 Q64 178 84 178 Q104 178 104 202" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bottom-right tile: green camera icon -->
+  <rect x="152" y="140" width="108" height="62" rx="5" ry="5" fill="#67832d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Camera body -->
+  <rect x="167" y="155" width="54" height="36" rx="6" ry="6" fill="#529929" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- Camera lens -->
+  <circle cx="194" cy="173" r="10" fill="#000000" stroke="#ffffff" stroke-width="2.96"/>
+  <circle cx="194" cy="173" r="5" fill="#4d4d4d"/>
+  <!-- Camera viewfinder notch -->
+  <polygon points="221,162 236,154 236,192 221,184" fill="#529929" stroke="#ffffff" stroke-width="4.45"/>
+</g></svg>

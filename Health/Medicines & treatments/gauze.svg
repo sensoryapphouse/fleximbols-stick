@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="84.29 127.81 316.12 316.12"><!-- gauze: roll of gauze bandage with loose end -->
+<!-- unrolling strip first (behind the roll edge) -->
+<path d="M 300 320 Q 360 350 356 410 L 300 420 Q 306 366 268 340 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- weave lines on the strip -->
+<line x1="292" y1="360" x2="330" y2="378" stroke="#cdd3da" stroke-width="5"/>
+<line x1="298" y1="386" x2="336" y2="400" stroke="#cdd3da" stroke-width="5"/>
+<!-- roll body -->
+<ellipse cx="240" cy="262" rx="118" ry="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- centre hole -->
+<ellipse cx="240" cy="262" rx="46" ry="42" fill="#eef2f6" stroke="#1a1a1a" stroke-width="8"/>
+<!-- gauze weave hatch on the roll face -->
+<line x1="150" y1="222" x2="330" y2="222" stroke="#dbe1e7" stroke-width="4"/>
+<line x1="140" y1="262" x2="192" y2="262" stroke="#dbe1e7" stroke-width="4"/>
+<line x1="288" y1="262" x2="340" y2="262" stroke="#dbe1e7" stroke-width="4"/>
+<line x1="150" y1="302" x2="330" y2="302" stroke="#dbe1e7" stroke-width="4"/>
+</svg>

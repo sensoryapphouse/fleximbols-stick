@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ornate decorative base -->
+  <path d="M 80,205 L 210,205 L 200,225 L 90,225 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Base bowl -->
+  <path d="M 95,175 Q 95,205 110,205 L 180,205 Q 195,205 195,175 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Decorative ring -->
+  <ellipse cx="145" cy="175" rx="50" ry="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Stem -->
+  <path d="M 125,175 L 130,135 L 160,135 L 165,175 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Decorative knob on stem -->
+  <ellipse cx="145" cy="150" rx="22" ry="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Candle cup -->
+  <path d="M 115,120 Q 115,135 130,135 L 160,135 Q 175,135 175,120 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Candle -->
+  <rect x="128" y="65" width="34" height="58" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Wick -->
+  <line x1="145" y1="65" x2="145" y2="50" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Flame -->
+  <path d="M 145,50 Q 132,32 138,18 Q 145,30 145,12 Q 152,30 152,18 Q 158,32 145,50 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 145,45 Q 140,35 142,25 Q 145,32 148,25 Q 150,35 145,45 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="1.97" stroke-linejoin="round"/>
+</g></svg>

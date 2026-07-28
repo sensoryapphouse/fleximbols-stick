@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Shamisen: square/rectangular drum-like body, very long thin fretless neck, 3 strings, large plectrum (bachi) -->
+  <!-- Square/rectangular drum-like body (skin-covered, small) -->
+  <rect x="98" y="138" width="94" height="80" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Skin covering on body (light parchment) -->
+  <rect x="98" y="138" width="94" height="80" rx="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Body frame/edge details -->
+  <rect x="104" y="144" width="82" height="68" rx="5" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <!-- Corner brackets (typical shamisen body) -->
+  <rect x="98" y="138" width="14" height="14" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="178" y="138" width="14" height="14" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="98" y="204" width="14" height="14" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="178" y="204" width="14" height="14" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Very long thin fretless neck (no fret lines) -->
+  <rect x="138" y="10" width="14" height="135" rx="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Headstock -->
+  <rect x="132" y="8" width="26" height="18" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- 3 tuning pegs -->
+  <circle cx="139" cy="5" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="5" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="151" cy="5" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- 3 strings from headstock to body bottom -->
+  <line x1="139" y1="8" x2="136" y2="218" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="145" y1="8" x2="145" y2="218" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="151" y1="8" x2="154" y2="218" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Large plectrum (bachi) — distinctive fan/triangle shape near body -->
+  <polygon points="200,148 228,135 232,175 200,175" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Bachi handle -->
+  <line x1="214" y1="148" x2="218" y2="128" stroke="#9d7246" stroke-width="7.40" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2522" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2522)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

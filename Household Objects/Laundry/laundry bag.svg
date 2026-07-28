@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- laundry bag: drawstring mesh bag with clothes inside + tied top -->
+
+  <!-- Bag body (pouch shape, fuller at bottom) -->
+  <path d="M55 80 Q40 130 55 190 Q90 225 145 225 Q200 225 235 190 Q250 130 235 80 Z"
+        fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Mesh pattern (diagonal crosshatch) -->
+  <g stroke="#90a7d6" stroke-width="2.22" stroke-linecap="round" fill="none">
+    <!-- diagonals going one way -->
+    <path d="M65 95 L85 115"/>
+    <path d="M85 90 L115 120"/>
+    <path d="M115 85 L155 125"/>
+    <path d="M155 85 L195 125"/>
+    <path d="M195 85 L225 115"/>
+    <path d="M55 130 L95 170"/>
+    <path d="M95 130 L145 180"/>
+    <path d="M145 130 L195 180"/>
+    <path d="M195 130 L235 170"/>
+    <path d="M65 175 L105 215"/>
+    <path d="M105 175 L155 220"/>
+    <path d="M155 175 L205 215"/>
+    <!-- diagonals going other way -->
+    <path d="M85 95 L65 115"/>
+    <path d="M115 90 L85 120"/>
+    <path d="M155 85 L115 125"/>
+    <path d="M195 85 L155 125"/>
+    <path d="M225 95 L195 115"/>
+    <path d="M95 130 L55 170"/>
+    <path d="M145 130 L95 180"/>
+    <path d="M195 130 L145 180"/>
+    <path d="M235 130 L195 170"/>
+    <path d="M105 175 L65 215"/>
+    <path d="M155 175 L105 220"/>
+    <path d="M205 175 L155 215"/>
+  </g>
+
+  <!-- Clothes silhouettes through mesh -->
+  <path d="M90 150 Q105 140 125 145 Q145 138 165 148 Q180 142 195 155 Q200 170 195 185 L100 188 Q85 175 90 150 Z"
+        fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- second garment hint -->
+  <path d="M110 110 Q130 100 155 105 Q175 102 195 115 L195 130 L110 130 Z"
+        fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Drawstring channel band at top -->
+  <path d="M55 78 Q145 65 235 78 L235 92 Q145 80 55 92 Z"
+        fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Cinched gathered top (puckered) -->
+  <path d="M120 65 Q130 50 145 55 Q160 50 170 65 L165 78 Q145 72 125 78 Z"
+        fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- pucker lines -->
+  <path d="M130 60 L132 72" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145 56 L145 72" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M160 60 L158 72" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Drawstring tied into a bow -->
+  <!-- string ends -->
+  <path d="M135 50 Q120 30 105 25" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M155 50 Q170 30 185 25" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- bow loops -->
+  <path d="M135 50 Q115 38 120 55 Q130 60 140 52 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M155 50 Q175 38 170 55 Q160 60 150 52 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- knot center -->
+  <ellipse cx="145" cy="52" rx="6" ry="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

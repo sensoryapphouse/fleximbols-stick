@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- tripod base legs -->
+  <line x1="145" y1="200" x2="95" y2="230" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <line x1="145" y1="200" x2="195" y2="230" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <line x1="145" y1="200" x2="145" y2="232" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <line x1="145" y1="200" x2="95" y2="230" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="200" x2="195" y2="230" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="200" x2="145" y2="232" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- foot caps -->
+  <circle cx="95" cy="230" r="5" fill="#000000"/>
+  <circle cx="195" cy="230" r="5" fill="#000000"/>
+  <circle cx="145" cy="232" r="5" fill="#000000"/>
+  <!-- telescoping pole sections (adjustable height) -->
+  <rect x="139" y="140" width="12" height="62" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="141" y="90" width="8" height="55" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- adjustment knob -->
+  <circle cx="156" cy="145" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- height adjustment arrow -->
+  <path d="M170 100 L170 175" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="170,100 165,110 175,110" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <polygon points="170,175 165,165 175,165" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- socket holder at top -->
+  <rect x="133" y="75" width="24" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bare bulb on top -->
+  <path d="M135 75 Q135 40 145 30 Q155 40 155 75 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bulb highlight -->
+  <ellipse cx="140" cy="45" rx="3" ry="6" fill="#ffffff"/>
+  <!-- light rays -->
+  <line x1="110" y1="20" x2="120" y2="35" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="10" x2="145" y2="22" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="180" y1="20" x2="170" y2="35" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="45" x2="115" y2="50" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="190" y1="45" x2="175" y2="50" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

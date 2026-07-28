@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="65.94 63.38 380.12 380.12">
+<!-- electrical spark arcing across a gap between two terminals -->
+<!-- left terminal/wire -->
+<line x1="96" y1="256" x2="176" y2="256" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<circle cx="184" cy="256" r="20" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<!-- right terminal/wire -->
+<line x1="416" y1="256" x2="336" y2="256" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<circle cx="328" cy="256" r="20" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<!-- jagged spark bolt across the gap -->
+<polygon points="204 256 250 210 236 246 274 232 256 270 304 252 258 302 270 266 232 280" fill="#f4c430" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- small radiating sparks -->
+<line x1="256" y1="190" x2="256" y2="160" stroke="#f4c430" stroke-width="8" stroke-linecap="round"/>
+<line x1="306" y1="206" x2="328" y2="186" stroke="#f4c430" stroke-width="8" stroke-linecap="round"/>
+<line x1="206" y1="322" x2="186" y2="346" stroke="#f4c430" stroke-width="8" stroke-linecap="round"/>
+</svg>

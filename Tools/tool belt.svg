@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tool belt: wide work belt with pouches and tools -->
+  <!-- Main belt strap -->
+  <rect x="20" y="88" width="250" height="28" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Belt buckle (center) -->
+  <rect x="122" y="84" width="46" height="36" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="133" y="91" width="24" height="22" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- LEFT POUCH (large, hanging) -->
+  <path d="M 38 116 L 35 185 Q 35 195 50 195 L 100 195 Q 115 195 115 185 L 112 116 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Left pouch flap/top edge -->
+  <rect x="36" y="108" width="78" height="16" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left pouch stitch detail -->
+  <line x1="75" y1="124" x2="75" y2="192" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <!-- RIGHT POUCH (medium) -->
+  <path d="M 175 116 L 172 178 Q 172 188 185 188 L 230 188 Q 242 188 242 178 L 239 116 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Right pouch flap -->
+  <rect x="173" y="108" width="68" height="15" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- HAMMER hanging from belt (left of buckle) -->
+  <!-- Hammer handle -->
+  <rect x="132" y="120" width="8" height="60" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Hammer head -->
+  <rect x="118" y="112" width="36" height="20" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- SCREWDRIVER in right pouch -->
+  <!-- Handle -->
+  <rect x="192" y="108" width="12" height="35" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Shaft -->
+  <rect x="195" y="143" width="6" height="30" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- PENCIL/marker in right pouch -->
+  <rect x="216" y="108" width="8" height="42" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="216,150 224,150 220,162" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Loop/ring for hanging tools on left belt section -->
+  <path d="M 148 116 L 148 136 Q 148 142 155 142 Q 162 142 162 136 L 162 116" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Tape measure on left pouch (circle) -->
+  <circle cx="72" cy="155" r="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="155" r="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

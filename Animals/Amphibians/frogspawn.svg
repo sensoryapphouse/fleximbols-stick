@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- jelly cluster blob behind -->
+<path d="M 188 168 Q 256 138 326 168 Q 392 196 384 268 Q 396 332 330 358 Q 256 386 184 358 Q 120 332 128 264 Q 122 196 188 168 Z" fill="#d8e9f2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- individual eggs (clear ring + embryo) -->
+<g stroke="#1a1a1a" stroke-width="6">
+<circle cx="212" cy="206" r="36" fill="#eef6fb"/>
+<circle cx="288" cy="202" r="36" fill="#eef6fb"/>
+<circle cx="170" cy="262" r="36" fill="#eef6fb"/>
+<circle cx="248" cy="252" r="38" fill="#eef6fb"/>
+<circle cx="328" cy="258" r="36" fill="#eef6fb"/>
+<circle cx="206" cy="318" r="36" fill="#eef6fb"/>
+<circle cx="290" cy="316" r="36" fill="#eef6fb"/>
+</g>
+<!-- embryos -->
+<g fill="#2e3a26">
+<circle cx="212" cy="206" r="13"/>
+<circle cx="288" cy="202" r="13"/>
+<circle cx="170" cy="262" r="13"/>
+<circle cx="248" cy="252" r="14"/>
+<circle cx="328" cy="258" r="13"/>
+<circle cx="206" cy="318" r="13"/>
+<circle cx="290" cy="316" r="13"/>
+</g>
+<!-- highlights -->
+<g fill="#ffffff" opacity="0.85">
+<circle cx="202" cy="196" r="5"/>
+<circle cx="278" cy="192" r="5"/>
+<circle cx="238" cy="242" r="5"/>
+<circle cx="318" cy="248" r="5"/>
+</g>
+</svg>

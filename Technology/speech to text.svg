@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Microphone (left) -->
+  <rect x="40" y="40" width="40" height="75" rx="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Mic grid -->
+  <path d="M 50 55 L 70 55" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 50 67 L 70 67" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 50 79 L 70 79" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 50 91 L 70 91" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Stand -->
+  <path d="M 30 100 Q 30 130 60 130 Q 90 130 90 100" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 60 130 L 60 150" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 40 152 L 80 152" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Arrow -->
+  <path d="M 105 90 L 145 90 L 145 80 L 165 95 L 145 110 L 145 100 L 105 100 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Text bubble (right) -->
+  <path d="M 175 40 Q 175 25 190 25 L 270 25 Q 285 25 285 40 L 285 130 Q 285 145 270 145 L 220 145 L 200 170 L 205 145 L 190 145 Q 175 145 175 130 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Squiggle text inside bubble -->
+  <path d="M 188 55 Q 195 50 202 55 T 216 55 T 230 55 T 244 55 T 258 55 T 272 55" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 188 75 Q 195 70 202 75 T 216 75 T 230 75 T 244 75 T 258 75 T 272 75" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 188 95 Q 195 90 202 95 T 216 95 T 230 95 T 244 95 T 258 95 T 272 95" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 188 115 Q 195 110 202 115 T 216 115 T 230 115 T 244 115" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- STT letters -->
+  <path d="M 50 190 Q 35 190 35 200 Q 35 208 50 208 Q 60 208 60 216 Q 60 225 45 225" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 80 188 L 130 188 M 105 188 L 105 225" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 145 188 L 195 188 M 170 188 L 170 225" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

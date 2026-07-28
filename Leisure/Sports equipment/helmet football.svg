@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Helmet shell -->
+  <path d="M55 160 Q55 58 145 58 Q235 58 235 160 L235 175 Q235 185 220 185 L70 185 Q55 185 55 175 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Ear hole left -->
+  <circle cx="68" cy="155" r="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Jaw pad left -->
+  <ellipse cx="72" cy="175" rx="20" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Jaw pad right -->
+  <ellipse cx="218" cy="175" rx="20" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Face-mask cage base bar -->
+  <path d="M90 182 Q145 195 200 182" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cage vertical bars -->
+  <line x1="115" y1="185" x2="108" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="188" x2="145" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="175" y1="185" x2="182" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cage horizontal cross bar -->
+  <path d="M106 205 Q145 212 184 205" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Centre stripe -->
+  <path d="M145 58 L145 185" fill="none" stroke="#ffffff" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top ridge -->
+  <path d="M130 60 Q145 54 160 60" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

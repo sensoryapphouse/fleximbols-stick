@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Brush pen (modern): pen barrel with tapered flexible brush nib, thick-thin calligraphy stroke -->
+
+  <!-- End cap (left, dark) -->
+  <rect x="22" y="102" width="22" height="32" rx="8" ry="8" fill="#000000" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- End cap top dome -->
+  <ellipse cx="33" cy="102" rx="11" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Main barrel: black with glossy band -->
+  <rect x="44" y="103" width="150" height="30" rx="6" ry="6" fill="#000000" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Barrel accent band (gold/orange) -->
+  <rect x="130" y="105" width="30" height="26" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Barrel shine -->
+  <rect x="50" y="105" width="75" height="8" rx="3" fill="#4d4d4d" stroke="none"/>
+
+  <!-- Ferrule (metal collar holding bristles) -->
+  <rect x="194" y="106" width="22" height="24" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+
+  <!-- Brush nib: flexible tapered bristle tip -->
+  <path d="M 216,108 Q 250,115 268,118 Q 250,121 216,128 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bristle detail lines -->
+  <line x1="218" y1="110" x2="262" y2="117" stroke="#7f7f7f" stroke-width="1.67" stroke-linecap="round"/>
+  <line x1="218" y1="114" x2="266" y2="118" stroke="#7f7f7f" stroke-width="1.67" stroke-linecap="round"/>
+  <line x1="218" y1="122" x2="262" y2="119" stroke="#7f7f7f" stroke-width="1.67" stroke-linecap="round"/>
+
+  <!-- Variable-width calligraphy stroke (thick downstroke, thin cross-stroke) -->
+  <!-- Thick downward stroke on left -->
+  <path d="M 55,155 Q 70,145 82,175 Q 85,185 80,195" fill="none" stroke="#1a1a1a" stroke-width="13.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Thin connecting/upstroke -->
+  <path d="M 82,165 Q 110,150 138,155" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Thick second downstroke -->
+  <path d="M 138,155 Q 152,145 160,178 Q 163,188 158,196" fill="none" stroke="#1a1a1a" stroke-width="12.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Thin exit stroke right -->
+  <path d="M 160,175 Q 195,162 230,168" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+</g></svg>

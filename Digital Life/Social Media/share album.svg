@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- share-album: photo album stack + share arrows fanning to multiple destinations -->
+  <!-- back photo -->
+  <rect x="30" y="40" width="120" height="130" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-8 90 105)"/>
+  <!-- middle photo -->
+  <rect x="36" y="46" width="120" height="130" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-2 96 111)"/>
+  <!-- mountain on middle -->
+  <polygon points="50,150 80,100 115,150" fill="#67832d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round" transform="rotate(-2 96 111)"/>
+  <!-- front photo -->
+  <rect x="44" y="58" width="120" height="130" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- front photo content: sun + mountains -->
+  <circle cx="135" cy="85" r="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="50,180 90,115 130,180" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="100,180 140,125 175,180" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- share node at album corner -->
+  <circle cx="180" cy="80" r="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- destination nodes -->
+  <circle cx="255" cy="40" r="14" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="265" cy="120" r="14" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="195" r="14" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- connecting share lines with arrows -->
+  <line x1="190" y1="74" x2="241" y2="46" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="192" y1="84" x2="251" y2="118" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="188" y1="92" x2="228" y2="184" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- little person icons inside destinations -->
+  <circle cx="255" cy="36" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M248 50 Q255 44 262 50" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <circle cx="265" cy="116" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M258 130 Q265 124 272 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <circle cx="240" cy="191" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M233 205 Q240 199 247 205" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+</g></svg>

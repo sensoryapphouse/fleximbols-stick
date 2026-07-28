@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="75.64 97.82 360.73 360.73">
+<!-- cake plate -->
+<ellipse cx="256" cy="406" rx="150" ry="26" fill="#e3e8ec" stroke="#1a1a1a" stroke-width="9"/>
+<!-- cake body -->
+<path d="M 136 250 L 376 250 L 376 392 Q 256 416 136 392 Z" fill="#f4d6e6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- icing drips -->
+<path d="M 136 250 q 24 30 48 0 q 24 30 48 0 q 24 30 48 0 q 24 30 48 0 q 24 30 48 0 L 376 250 Z" fill="#fff6cf" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- candles -->
+<rect x="190" y="160" width="18" height="92" rx="4" fill="#e23c3c" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="247" y="160" width="18" height="92" rx="4" fill="#3fae5a" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="304" y="160" width="18" height="92" rx="4" fill="#3f6fb0" stroke="#1a1a1a" stroke-width="8"/>
+<!-- flames -->
+<path d="M 199 158 Q 187 142 199 124 Q 211 142 199 158 Z" fill="#f6a800" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 256 158 Q 244 142 256 124 Q 268 142 256 158 Z" fill="#f6a800" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 313 158 Q 301 142 313 124 Q 325 142 313 158 Z" fill="#f6a800" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</svg>

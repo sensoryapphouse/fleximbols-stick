@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- puppet theatre frame with curtains, puppets on stage, audience silhouettes -->
+  <!-- stage frame -->
+  <rect x="30" y="20" width="230" height="160" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- inner stage opening -->
+  <rect x="44" y="34" width="202" height="118" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- top curtain rail/valance -->
+  <path d="M44 34 L246 34 L246 60 Q220 70 200 60 Q180 70 160 60 Q140 70 120 60 Q100 70 80 60 Q60 70 44 60 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- left curtain -->
+  <path d="M44 34 L44 152 L80 152 Q72 130 80 100 Q70 70 80 40 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right curtain -->
+  <path d="M246 34 L246 152 L210 152 Q218 130 210 100 Q220 70 210 40 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- puppet 1 on stage (left) -->
+  <circle cx="115" cy="110" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M99 104 Q101 90 115 88 Q129 90 131 104 Q125 98 115 98 Q105 98 99 104 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="110" cy="110" r="2" fill="#000000"/>
+  <circle cx="120" cy="110" r="2" fill="#000000"/>
+  <path d="M110 116 Q115 120 120 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M104 126 Q100 140 102 152 L128 152 Q130 140 126 126 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- puppet 2 on stage (right) -->
+  <circle cx="175" cy="110" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M159 104 Q161 90 175 88 Q189 90 191 104 Q185 98 175 98 Q165 98 159 104 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="170" cy="110" r="2" fill="#000000"/>
+  <circle cx="180" cy="110" r="2" fill="#000000"/>
+  <path d="M170 116 Q175 120 180 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M164 126 Q160 140 162 152 L188 152 Q190 140 186 126 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- audience silhouettes (heads) in front of stage -->
+  <circle cx="60" cy="210" r="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="214" r="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="210" r="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="214" r="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="230" cy="210" r="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

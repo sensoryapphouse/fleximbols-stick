@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pinch gesture: thumb + index finger pinching on a screen, converging arrows, zoom cue -->
+
+  <!-- Screen/tablet surface -->
+  <rect x="35" y="30" width="220" height="170" rx="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <rect x="46" y="42" width="198" height="146" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Screen content: a photo/image being zoomed out (pinch to zoom) -->
+  <!-- Larger image state (inner box showing zoom scale) -->
+  <rect x="76" y="62" width="138" height="106" rx="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mountain/landscape shape inside -->
+  <polygon points="76,168 110,100 140,130 168,88 214,168" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sun in image -->
+  <circle cx="188" cy="78" rx="16" ry="16" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Converging arrows toward center (pinch = zooming in or squeezing together) -->
+  <!-- Top-left diagonal arrow pointing toward center -->
+  <line x1="68" y1="65" x2="118" y2="108" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="112,116 106,100 122,106" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Bottom-right diagonal arrow pointing toward center -->
+  <line x1="222" y1="165" x2="172" y2="122" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="178,114 184,130 168,124" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Top-right diagonal arrow -->
+  <line x1="222" y1="65" x2="172" y2="108" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="178,116 174,100 190,106" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Bottom-left diagonal arrow -->
+  <line x1="68" y1="165" x2="118" y2="122" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="112,114 116,130 100,124" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Thumb (lower-left on screen) -->
+  <!-- Thumb silhouette -->
+  <path d="M 52 178 Q 46 168 50 155 Q 54 142 66 140 Q 76 140 80 150 L 75 178 Q 66 185 52 178 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Thumb nail -->
+  <ellipse cx="65" cy="145" rx="8" ry="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Index finger (upper-right on screen) -->
+  <path d="M 240 60 Q 246 70 242 85 Q 238 98 226 98 Q 216 96 214 85 L 218 60 Q 226 52 240 60 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Index fingertip nail -->
+  <ellipse cx="228" cy="66" rx="8" ry="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Pinch touch points (where fingers meet screen) -->
+  <circle cx="72" cy="158" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="88" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

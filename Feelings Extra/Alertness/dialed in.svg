@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bust: neck + shoulders -->
+  <rect x="95" y="182" width="100" height="46" rx="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Shirt -->
+  <path d="M95 194 Q145 213 195 194" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Neck -->
+  <rect x="128" y="165" width="34" height="24" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="114" rx="52" ry="56" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Hair -->
+  <path d="M95 104 Q94 66 118 56 Q145 46 172 56 Q196 66 195 104" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Eyebrows: sharp precise focus -->
+  <path d="M108 93 Q122 88 136 93" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M154 93 Q168 88 182 93" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Eyes: sharp alert precision gaze -->
+  <ellipse cx="122" cy="110" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="122" cy="110" rx="7" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="120" cy="108" rx="2" ry="2" fill="#ffffff"/>
+  <ellipse cx="168" cy="110" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="168" cy="110" rx="7" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="166" cy="108" rx="2" ry="2" fill="#ffffff"/>
+  <!-- Mouth: firm precise -->
+  <path d="M127 148 Q145 144 163 148" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Adjustment dial/knob — left side -->
+  <!-- Dial body -->
+  <circle cx="42" cy="110" r="26" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="42" cy="110" r="18" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Dial indicator line (pointing to precise position) -->
+  <line x1="42" y1="110" x2="42" y2="88" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Dial tick marks -->
+  <line x1="42" y1="86" x2="42" y2="82" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="94" x2="63" y2="91" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="24" y1="94" x2="21" y2="91" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="66" y1="110" x2="70" y2="110" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="18" y1="110" x2="14" y2="110" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Crosshair — right side, small -->
+  <circle cx="246" cy="80" r="18" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Crosshair lines -->
+  <line x1="246" y1="58" x2="246" y2="102" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="224" y1="80" x2="268" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Crosshair center dot -->
+  <circle cx="246" cy="80" r="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Dotted line connecting dial to face -->
+  <line x1="68" y1="110" x2="93" y2="112" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="5 4"/>
+</g></svg>

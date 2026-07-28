@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl body -->
+  <path d="M40,108 Q32,190 145,215 Q258,190 250,108 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="108" rx="105" ry="21" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Red-orange broth surface -->
+  <ellipse cx="145" cy="113" rx="90" ry="16" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bowl base -->
+  <ellipse cx="145" cy="212" rx="80" ry="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Carrot chunks (orange rectangles) -->
+  <rect x="78" y="120" width="16" height="12" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="145" y="118" width="14" height="11" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Celery pieces (green) -->
+  <rect x="100" y="130" width="14" height="9" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="172" y="128" width="13" height="9" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- White beans (small ovals) -->
+  <ellipse cx="118" cy="148" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="165" cy="152" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Small pasta (ditalini - tiny tubes as circles) -->
+  <circle cx="135" cy="145" r="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="135" cy="145" r="3" fill="#e65a00" stroke="none"/>
+  <circle cx="155" cy="140" r="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="155" cy="140" r="3" fill="#e65a00" stroke="none"/>
+  <!-- Tomato chunk (red irregular shape) -->
+  <path d="M94,143 Q88,136 93,130 Q98,124 106,128 Q112,132 108,141 Q104,148 94,143 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Kidney bean -->
+  <path d="M192,145 Q187,138 191,133 Q195,128 202,130 Q208,133 206,141 Q203,148 192,145 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Small green peas -->
+  <circle cx="183" cy="120" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <circle cx="113" cy="116" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Zucchini slice (green circle) -->
+  <ellipse cx="147" cy="160" rx="11" ry="8" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="147" cy="160" rx="5" ry="4" fill="#529929" stroke="none"/>
+</g></svg>

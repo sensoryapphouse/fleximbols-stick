@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="none"/>
+  <!-- ground -->
+  <rect x="0" y="198" width="290" height="42" fill="#67832d" stroke="none"/>
+  <line x1="0" y1="198" x2="290" y2="198" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- house wall (right side) -->
+  <rect x="170" y="40" width="120" height="158" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- roof eave overhang -->
+  <path d="M 160 40 L 290 40 L 290 30 L 160 30 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- window on wall -->
+  <rect x="218" y="80" width="50" height="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"/>
+  <line x1="243" y1="80" x2="243" y2="122" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="218" y1="101" x2="268" y2="101" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- mounting bracket -->
+  <rect x="172" y="86" width="14" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="180" y="96" width="6" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- camera body (boxy weatherproof bullet) -->
+  <rect x="60" y="96" width="124" height="50" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- lens hood ring -->
+  <rect x="50" y="100" width="20" height="42" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- lens -->
+  <circle cx="60" cy="121" r="18" fill="#000000" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="60" cy="121" r="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="60" cy="121" r="6" fill="#000000"/>
+  <circle cx="56" cy="117" r="2" fill="#ffffff"/>
+  <!-- IR LED dots on face (night vision, outdoor) -->
+  <circle cx="86" cy="108" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="86" cy="134" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- status LED -->
+  <circle cx="160" cy="121" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- WiFi arcs up-left -->
+  <path d="M 110 80 q 10 -10 22 -10" fill="none" stroke="#2a4ec0" stroke-width="5.34" stroke-linecap="round"/>
+  <path d="M 100 66 q 18 -18 38 -18" fill="none" stroke="#2a4ec0" stroke-width="5.34" stroke-linecap="round"/>
+  <path d="M 90 52 q 26 -26 50 -26" fill="none" stroke="#2a4ec0" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- raindrop showing weatherproof -->
+  <path d="M 220 200 C 216 208 216 216 220 218 C 224 216 224 208 220 200 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M 245 210 C 241 218 241 226 245 228 C 249 226 249 218 245 210 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

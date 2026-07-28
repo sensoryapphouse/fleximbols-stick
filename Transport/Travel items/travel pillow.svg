@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- U-shaped neck pillow viewed top-down -->
+  <!-- outer U shape -->
+  <path d="M55 60 Q55 30 95 30 L195 30 Q235 30 235 60 L235 175 Q235 210 200 210 Q180 210 175 185 L175 130 Q175 110 155 110 L135 110 Q115 110 115 130 L115 185 Q110 210 90 210 Q55 210 55 175 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- inner highlight stitch line tracing the U -->
+  <path d="M70 60 Q70 45 95 45 L195 45 Q220 45 220 60 L220 170 Q220 195 200 195 Q190 195 188 180 L188 130 Q188 95 155 95 L135 95 Q102 95 102 130 L102 180 Q100 195 90 195 Q70 195 70 170 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- soft padding dimples -->
+  <circle cx="80" cy="90" r="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="140" r="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="90" r="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="140" r="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="50" r="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- magnetic clasp at front opening -->
+  <rect x="128" y="200" width="14" height="14" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="200" width="14" height="14" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

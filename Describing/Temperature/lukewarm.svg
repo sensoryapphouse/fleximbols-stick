@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="93.25 65.09 422.79 422.79">
+<!-- LUKEWARM: mug with faint single wisp of steam + neutral mid thermometer -->
+<!-- faint steam wisp -->
+<path d="M 226 168 q -16 -18 0 -36 q 16 -18 0 -36" fill="none" stroke="#c7ced6" stroke-width="8" stroke-linecap="round"/>
+<!-- mug body -->
+<path d="M 150 220 L 300 220 L 292 360 Q 292 380 262 380 L 188 380 Q 158 380 158 360 Z" fill="#f0d9b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- handle -->
+<path d="M 300 252 q 44 0 44 40 q 0 40 -44 40" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- drink surface (warm tan) -->
+<ellipse cx="225" cy="220" rx="75" ry="20" fill="#caa06a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- thermometer (mid level, neutral grey-purple) at right -->
+<rect x="416" y="246" width="30" height="180" rx="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="431" cy="430" r="28" fill="#9a8fb0" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="422" y="332" width="18" height="102" rx="9" fill="#9a8fb0" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

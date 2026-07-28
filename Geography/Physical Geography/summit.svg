@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky around -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- a few clouds for sky atmosphere -->
+  <ellipse cx="55" cy="55" rx="20" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
+  <ellipse cx="230" cy="48" rx="22" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- sharp tall peak (vertical focus) -->
+  <path d="M60 220 L 150 30 L 240 220 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- snow cap (large, near top) -->
+  <path d="M108 120 L 150 30 L 192 120 Q 180 100 168 116 Q 158 96 150 114 Q 140 96 132 114 Q 120 100 108 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- shadow side -->
+  <path d="M150 30 L 240 220 L 192 120 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- flag pole planted at top -->
+  <line x1="150" y1="30" x2="150" y2="-2" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- flag waving -->
+  <path d="M150 2 L 180 8 L 170 18 L 180 28 L 150 24 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- small detail line on rock face -->
+  <path d="M150 30 L 100 180" fill="none" stroke="#4d4d4d" stroke-width="3.95"/>
+  <path d="M150 30 L 200 180" fill="none" stroke="#4d4d4d" stroke-width="3.95"/>
+</g></svg>

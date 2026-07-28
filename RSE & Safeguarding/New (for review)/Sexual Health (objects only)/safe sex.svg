@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- condom packet -->
+<rect x="44" y="170" width="190" height="190" rx="18" fill="#f4b63d" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 44 210 L 234 210" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="14 12"/>
+<circle cx="139" cy="290" r="50" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="139" cy="290" r="24" fill="#f4b63d" stroke="#1a1a1a" stroke-width="6"/>
+<!-- green protection shield with tick -->
+<path d="M 360 110 L 470 150 L 470 270 Q 470 360 360 410 Q 250 360 250 270 L 250 150 Z" fill="#43b06a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 305 255 L 348 300 L 425 200" fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

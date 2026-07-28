@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- mic stand base -->
+  <ellipse cx="220" cy="215" rx="40" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- mic stand pole -->
+  <rect x="216" y="90" width="8" height="125" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- microphone body on stand -->
+  <rect x="200" y="60" width="40" height="55" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="205" y="65" width="30" height="35" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- gooseneck arm clamp around pole -->
+  <rect x="200" y="130" width="28" height="22" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="214" cy="141" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- gooseneck arm curving to filter -->
+  <path d="M200 141 C150 141 110 130 90 110" fill="none" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
+  <path d="M200 141 C150 141 110 130 90 110" fill="none" stroke="#7f7f7f" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- filter mount knob -->
+  <circle cx="92" cy="108" r="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- round black mesh disc -->
+  <circle cx="80" cy="100" r="48" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="80" cy="100" r="40" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- mesh grid lines -->
+  <line x1="80" y1="62" x2="80" y2="138" stroke="#7f7f7f" stroke-width="3.33"/>
+  <line x1="42" y1="100" x2="118" y2="100" stroke="#7f7f7f" stroke-width="3.33"/>
+  <line x1="52" y1="72" x2="108" y2="128" stroke="#7f7f7f" stroke-width="3.33"/>
+  <line x1="108" y1="72" x2="52" y2="128" stroke="#7f7f7f" stroke-width="3.33"/>
+  <circle cx="80" cy="100" r="25" fill="none" stroke="#7f7f7f" stroke-width="3.33"/>
+  <circle cx="80" cy="100" r="12" fill="none" stroke="#7f7f7f" stroke-width="3.33"/>
+</g></svg>

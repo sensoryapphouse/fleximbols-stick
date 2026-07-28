@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- welt sole -->
+  <path d="M22 198 Q22 213 50 216 Q140 220 230 216 Q258 213 264 204 Q266 195 256 191 Q240 187 220 186 L48 186 Q28 187 22 198 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- welt stitching line -->
+  <path d="M35 192 Q130 196 245 192" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8 5"/>
+  <!-- upper boot body -->
+  <path d="M48 186 Q46 100 52 65 Q56 45 72 40 Q90 36 110 38 Q130 40 140 52 Q150 64 152 85 L152 186 Z" fill="#000000" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- toe cap -->
+  <path d="M48 186 Q38 174 40 158 Q44 140 60 132 Q75 126 90 128 Q76 150 74 186 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- boot shaft front panel / lace area -->
+  <rect x="88" y="42" width="30" height="140" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- 8 eyelets left -->
+  <circle cx="88" cy="58" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="76" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="94" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="112" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="130" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="148" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="164" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="178" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 8 eyelets right -->
+  <circle cx="118" cy="58" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="76" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="94" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="112" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="130" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="148" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="164" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="178" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- laces cross -->
+  <line x1="88" y1="58" x2="118" y2="76" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="118" y1="58" x2="88" y2="76" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="88" y1="94" x2="118" y2="112" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="118" y1="94" x2="88" y2="112" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="88" y1="130" x2="118" y2="148" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="118" y1="130" x2="88" y2="148" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="88" y1="164" x2="118" y2="178" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="118" y1="164" x2="88" y2="178" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- heel tab -->
+  <rect x="143" y="38" width="12" height="22" rx="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+</g></svg>

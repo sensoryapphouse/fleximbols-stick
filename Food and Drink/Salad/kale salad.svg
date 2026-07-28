@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer -->
+  <path d="M 38 150 Q 40 215 145 220 Q 250 215 252 150 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="150" rx="107" ry="22" fill="#90a7d6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Curly kale leaves - frilly, ruffled edges, darker blue-green -->
+  <!-- Leaf 1 -->
+  <path d="M 68 150 Q 70 138 74 128 Q 78 118 76 110 Q 84 106 88 114 Q 86 122 90 130 Q 94 140 92 150 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Frilly edge on leaf 1 -->
+  <path d="M 76 110 Q 72 104 78 100 Q 84 96 82 104 Q 86 98 90 102 Q 88 108 88 114" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 70 128 Q 64 124 66 118 Q 68 112 74 116" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 92 130 Q 98 126 98 120 Q 96 114 90 118" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Leaf 2 -->
+  <path d="M 100 148 Q 103 134 108 122 Q 112 110 110 100 Q 120 96 124 106 Q 120 116 124 128 Q 126 140 124 150 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M 110 100 Q 106 92 114 88 Q 120 86 118 94 Q 124 88 128 94 Q 126 100 124 106" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 104 122 Q 97 118 98 110 Q 100 104 106 108" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 124 128 Q 130 122 132 114 Q 130 108 124 112" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Leaf 3 -->
+  <path d="M 132 147 Q 136 132 142 119 Q 146 107 144 97 Q 154 93 158 103 Q 154 114 158 126 Q 160 138 158 148 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M 144 97 Q 140 88 148 84 Q 156 82 153 91 Q 158 85 163 91 Q 161 98 158 103" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 137 119 Q 130 114 131 106 Q 133 100 139 104" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 158 126 Q 166 120 167 111 Q 165 105 158 109" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Leaf 4 -->
+  <path d="M 164 148 Q 168 134 174 122 Q 178 110 176 100 Q 186 97 190 107 Q 186 118 190 130 Q 192 140 190 150 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M 176 100 Q 172 91 180 87 Q 188 85 185 94 Q 190 88 195 94 Q 193 101 190 107" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 169 122 Q 162 117 163 109 Q 165 103 171 107" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 190 130 Q 198 124 199 115 Q 197 108 190 113" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Leaf 5 smaller right -->
+  <path d="M 196 150 Q 200 138 205 128 Q 208 118 207 110 Q 214 108 217 116 Q 215 124 218 133 Q 219 142 217 150 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M 207 110 Q 204 104 209 101 Q 214 99 213 105 Q 216 100 220 105 Q 218 110 217 116" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Seeds scattered over -->
+  <ellipse cx="105" cy="138" rx="4" ry="2.5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 105 138)"/>
+  <ellipse cx="125" cy="132" rx="4" ry="2.5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-15 125 132)"/>
+  <ellipse cx="148" cy="136" rx="4" ry="2.5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(30 148 136)"/>
+  <ellipse cx="168" cy="130" rx="4" ry="2.5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-10 168 130)"/>
+  <ellipse cx="188" cy="136" rx="4" ry="2.5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(25 188 136)"/>
+  <ellipse cx="140" cy="145" rx="4" ry="2.5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 140 145)"/>
+  <ellipse cx="160" cy="143" rx="4" ry="2.5" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(15 160 143)"/>
+  <!-- Lemon wedge accent -->
+  <path d="M 82 140 Q 92 130 102 140 Q 96 148 88 148 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="92" y1="131" x2="92" y2="148" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

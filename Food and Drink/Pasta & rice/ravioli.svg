@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- plate -->
+<ellipse cx="256" cy="300" rx="184" ry="150" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="300" rx="150" ry="120" fill="#fdf3d2" stroke="#1a1a1a" stroke-width="6"/>
+<!-- ravioli square pillow helper via three cushions -->
+<!-- pillow 1 -->
+<g transform="rotate(-10 198 248)">
+<path d="M 150 200 Q 150 192 158 192 L 238 196 Q 246 196 246 204 L 242 280 Q 242 288 234 288 L 154 284 Q 146 284 146 276 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 162 206 Q 162 200 168 200 L 226 203 Q 232 203 232 209 L 229 270 Q 229 276 223 276 L 165 273 Q 159 273 159 267 Z" fill="none" stroke="#e08a3a" stroke-width="5" stroke-dasharray="9 7"/>
+<circle cx="197" cy="240" r="8" fill="#d63b46"/>
+</g>
+<!-- pillow 2 -->
+<g transform="rotate(8 322 250)">
+<path d="M 276 202 Q 276 194 284 194 L 364 198 Q 372 198 372 206 L 368 282 Q 368 290 360 290 L 280 286 Q 272 286 272 278 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 288 208 Q 288 202 294 202 L 352 205 Q 358 205 358 211 L 355 272 Q 355 278 349 278 L 291 275 Q 285 275 285 269 Z" fill="none" stroke="#c98a26" stroke-width="5" stroke-dasharray="9 7"/>
+<circle cx="323" cy="242" r="8" fill="#d63b46"/>
+</g>
+<!-- pillow 3 front -->
+<g transform="rotate(-4 256 358)">
+<path d="M 210 318 Q 210 310 218 310 L 298 314 Q 306 314 306 322 L 302 392 Q 302 400 294 400 L 214 396 Q 206 396 206 388 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 222 324 Q 222 318 228 318 L 286 321 Q 292 321 292 327 L 289 382 Q 289 388 283 388 L 225 385 Q 219 385 219 379 Z" fill="none" stroke="#e08a3a" stroke-width="5" stroke-dasharray="9 7"/>
+<circle cx="256" cy="356" r="8" fill="#d63b46"/>
+</g>
+<!-- basil -->
+<path d="M 326 360 Q 314 346 332 342 Q 338 356 326 360 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+</svg>

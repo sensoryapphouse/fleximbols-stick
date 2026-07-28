@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- main paperback cover - flexible, slightly curved -->
+  <path d="M55 45 Q58 42 65 42 L230 42 Q236 42 236 50 L236 205 Q236 212 230 213 L65 213 Q58 213 55 210 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.47" stroke-linejoin="round"/>
+  <!-- thin spine (no thick binding) -->
+  <path d="M55 45 Q55 130 55 210" stroke="#1a1a1a" stroke-width="4.85" fill="none"/>
+  <path d="M62 50 Q62 130 62 205" stroke="#1d0e82" stroke-width="3.23" fill="none"/>
+  <!-- page block visible at right (thinner than hardcover) -->
+  <path d="M236 50 L242 55 L242 200 L236 205" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- page edge lines -->
+  <path d="M237 70 L241 70 M237 95 L241 95 M237 120 L241 120 M237 145 L241 145 M237 170 L241 170 M237 195 L241 195" stroke="#7f7f7f" stroke-width="2.43"/>
+  <!-- title area -->
+  <rect x="80" y="70" width="135" height="45" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.85"/>
+  <!-- title lines (text suggestion) -->
+  <path d="M90 85 L205 85" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
+  <path d="M100 100 L195 100" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
+  <!-- author line at bottom -->
+  <path d="M100 175 L195 175" stroke="#ffffff" stroke-width="3.23" stroke-linecap="round"/>
+  <path d="M115 188 L180 188" stroke="#ffffff" stroke-width="3.23" stroke-linecap="round"/>
+  <!-- decorative emblem -->
+  <circle cx="147" cy="145" r="14" fill="#fff200" stroke="#1a1a1a" stroke-width="4.85"/>
+  <path d="M147 137 L150 144 L157 144 L151 148 L153 155 L147 151 L141 155 L143 148 L137 144 L144 144 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.23" stroke-linejoin="round"/>
+  <!-- curled corner (bottom-right) - signature paperback detail -->
+  <path d="M236 205 Q215 213 200 213 Q215 200 220 185 Q230 195 236 205 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
+  <!-- curl fold shadow -->
+  <path d="M220 185 Q222 195 230 200" stroke="#1a1a1a" stroke-width="3.23" fill="none"/>
+</g></svg>

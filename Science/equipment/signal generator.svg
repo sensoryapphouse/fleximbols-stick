@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Signal generator: benchtop with screen showing SQUARE/pulse wave + knobs + output BNC -->
+  <!-- Main body -->
+  <rect x="25" y="45" width="240" height="170" rx="10" ry="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Screen bezel -->
+  <rect x="35" y="55" width="150" height="110" rx="8" ry="8" fill="#000000" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Screen face -->
+  <rect x="40" y="60" width="140" height="100" rx="5" ry="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Screen grid lines (graticule) -->
+  <line x1="40" y1="85" x2="180" y2="85" stroke="#2a4ec0" stroke-width="1.11"/>
+  <line x1="40" y1="110" x2="180" y2="110" stroke="#2a4ec0" stroke-width="1.11"/>
+  <line x1="40" y1="135" x2="180" y2="135" stroke="#2a4ec0" stroke-width="1.11"/>
+  <line x1="70" y1="60" x2="70" y2="160" stroke="#2a4ec0" stroke-width="1.11"/>
+  <line x1="110" y1="60" x2="110" y2="160" stroke="#2a4ec0" stroke-width="1.11"/>
+  <line x1="150" y1="60" x2="150" y2="160" stroke="#2a4ec0" stroke-width="1.11"/>
+  <!-- SQUARE / pulse waveform on screen (key differentiator from oscilloscope) -->
+  <polyline points="44,140 44,80 80,80 80,140 116,140 116,80 152,80 152,140 176,140" fill="none" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Frequency knob (large) -->
+  <circle cx="220" cy="80" r="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <line x1="220" y1="66" x2="220" y2="73" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Amplitude knob -->
+  <circle cx="220" cy="120" r="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="220" y1="109" x2="220" y2="114" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Offset knob (small) -->
+  <circle cx="220" cy="153" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="220" y1="146" x2="220" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Waveform select buttons -->
+  <rect x="36" y="168" width="24" height="18" rx="4" ry="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="66" y="168" width="24" height="18" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="96" y="168" width="24" height="18" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Output BNC connector (key element, prominent) -->
+  <rect x="136" y="165" width="34" height="24" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="153" cy="177" r="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="153" cy="177" r="3" fill="#000000"/>
+  <!-- BNC label area (no text, just visual pin ring) -->
+  <!-- Power button -->
+  <circle cx="204" cy="185" r="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sync output BNC (secondary) -->
+  <rect x="175" y="165" width="26" height="24" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="188" cy="177" r="6" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="188" cy="177" r="2" fill="#000000"/>
+  <!-- Feet -->
+  <rect x="35" y="207" width="30" height="8" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="225" y="207" width="30" height="8" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

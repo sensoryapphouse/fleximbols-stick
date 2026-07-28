@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- block-someone: phone with stop-sign + BLOCKED path + crossed-out figure FULL BODY -->
+  <!-- phone -->
+  <rect x="22" y="20" width="130" height="200" rx="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.78" stroke-linejoin="round"/>
+  <rect x="30" y="36" width="114" height="160" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- speaker top -->
+  <rect x="74" y="26" width="26" height="4" rx="2" fill="#000000"/>
+  <!-- home button -->
+  <circle cx="87" cy="208" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- BLOCKED banner at top of screen -->
+  <rect x="30" y="40" width="114" height="18" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- B -->
+  <path d="M40 54 L40 44 L46 44 Q49 44 49 47 Q49 49 46 49 L40 49 M40 49 L47 49 Q50 49 50 52 Q50 54 47 54 Z" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- L -->
+  <path d="M54 44 L54 54 L60 54" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <rect x="64" y="44" width="8" height="10" rx="4" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- C -->
+  <path d="M84 46 Q78 46 78 49 Q78 52 84 52" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- K -->
+  <path d="M90 44 L90 54 M90 49 L96 44 M90 49 L96 54" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M108 44 L100 44 L100 54 L108 54 M100 49 L106 49" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- D -->
+  <path d="M112 44 L112 54 L118 54 Q122 54 122 49 Q122 44 118 44 Z" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- crossed-out figure FULL BODY on phone screen -->
+  <!-- head -->
+  <circle cx="87" cy="80" r="13" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M76 78 Q77 68 87 66 Q97 68 98 78" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="82" cy="80" r="1.5" fill="#000000"/>
+  <circle cx="92" cy="80" r="1.5" fill="#000000"/>
+  <path d="M83 87 L91 87" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="84" y="92" width="6" height="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- torso -->
+  <path d="M70 102 Q70 98 74 98 L100 98 Q104 98 104 102 L104 140 L70 140 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M70 104 L62 130 L70 134 L78 110 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M104 104 L112 130 L104 134 L96 110 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <circle cx="64" cy="134" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="110" cy="134" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- legs -->
+  <rect x="74" y="140" width="9" height="40" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <rect x="91" y="140" width="9" height="40" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <ellipse cx="78" cy="182" rx="6" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="95" cy="182" rx="6" ry="3" fill="#000000" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- diagonal cross-out over figure -->
+  <line x1="56" y1="60" x2="118" y2="186" stroke="#d01424" stroke-width="13.34" stroke-linecap="round"/>
+  <line x1="118" y1="60" x2="56" y2="186" stroke="#d01424" stroke-width="13.34" stroke-linecap="round"/>
+  <!-- stop sign / no-symbol overlay on right side -->
+  <circle cx="218" cy="130" r="60" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="218" cy="130" r="48" fill="none" stroke="#ffffff" stroke-width="13.34"/>
+  <!-- bar across no-symbol -->
+  <rect x="166" y="124" width="104" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-45 218 131)"/>
+  <!-- small octagonal stop badge bottom-right -->
+  <path d="M220 198 L240 198 L254 212 L254 232 L240 246 L220 246 L206 232 L206 212 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- STOP letters: S -->
+  <path d="M214 218 Q210 218 210 220 Q210 222 214 222 Q218 222 218 224 Q218 226 214 226" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- T -->
+  <path d="M222 218 L230 218 M226 218 L226 226" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- O -->
+  <rect x="234" y="218" width="6" height="8" rx="3" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- P -->
+  <path d="M244 226 L244 218 L250 218 Q252 218 252 220 Q252 222 250 222 L244 222" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

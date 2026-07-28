@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Flat iron: two flat plates that close together, handle, cord -->
+  <!-- Handle top arm -->
+  <path d="M 35,80 L 125,80 L 125,108 L 35,108 Q 22,108 22,94 Q 22,80 35,80 Z" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Handle bottom arm -->
+  <path d="M 35,132 L 125,132 L 125,160 L 35,160 Q 22,160 22,146 Q 22,132 35,132 Z" fill="#392170" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Gap between the two arms (hinge area) -->
+  <!-- Upper heated plate -->
+  <rect x="122" y="72" width="140" height="40" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lower heated plate -->
+  <rect x="122" y="128" width="140" height="40" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Plate inner surface (flat heating surface, lighter) -->
+  <rect x="128" y="78" width="128" height="28" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="128" y="134" width="128" height="28" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Titanium/ceramic plate lines -->
+  <line x1="160" y1="78" x2="160" y2="106" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="195" y1="78" x2="195" y2="106" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="230" y1="78" x2="230" y2="106" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="160" y1="134" x2="160" y2="162" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="195" y1="134" x2="195" y2="162" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="230" y1="134" x2="230" y2="162" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- Hinge spring between arms -->
+  <path d="M 118,108 Q 108,120 118,132" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Power cord from base of handle -->
+  <path d="M 28,108 Q 15,120 15,140 Q 15,165 28,170" fill="none" stroke="#392170" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Heat control button -->
+  <rect x="42" y="88" width="28" height="12" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- LED indicator -->
+  <circle cx="88" cy="94" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

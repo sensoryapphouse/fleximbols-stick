@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- phone body -->
+  <rect x="70" y="15" width="150" height="210" rx="18" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- screen -->
+  <rect x="80" y="32" width="130" height="180" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- speaker -->
+  <rect x="128" y="22" width="34" height="4" rx="2" ry="2" fill="#000000"/>
+  <!-- water glass icon (counter) -->
+  <path d="M 95 78 L 130 78 L 126 125 L 99 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M 98 95 L 128 95 L 125 122 L 100 122 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- counter number bars (5 small glass icons in row) -->
+  <g>
+    <path d="M 142 92 L 154 92 L 153 112 L 143 112 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M 158 92 L 170 92 L 169 112 L 159 112 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M 174 92 L 186 92 L 185 112 L 175 112 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M 190 92 L 202 92 L 201 112 L 191 112 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  </g>
+  <!-- tracking bars -->
+  <rect x="90" y="140" width="20" height="55" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="115" y="130" width="20" height="65" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="140" y="155" width="20" height="40" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="165" y="120" width="20" height="75" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="190" y="145" width="20" height="50" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- baseline on bars -->
+  <line x1="86" y1="195" x2="214" y2="195" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- home button -->
+  <circle cx="145" cy="218" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- water droplet icon badge -->
+  <path d="M222 40 Q232 22 242 40 Q250 56 232 62 Q214 56 222 40 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M230 44 Q235 36 240 44" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

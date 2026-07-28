@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- serum-niacinamide: dropper bottle + NIACINAMIDE label + light swatch + clear skin patch -->
+  <!-- Clear skin patch (right side, smooth skin oval with sparkle) -->
+  <ellipse cx="220" cy="135" rx="42" ry="48" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Skin highlight -->
+  <ellipse cx="208" cy="120" rx="10" ry="14" fill="#f5e7c4" stroke="none"/>
+  <!-- Sparkle on clear skin -->
+  <path d="M232 110 L234 116 L240 118 L234 120 L232 126 L230 120 L224 118 L230 116 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M210 150 L211 154 L215 155 L211 156 L210 160 L209 156 L205 155 L209 154 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Light swatch drip (below bottle) -->
+  <path d="M82 195 Q70 200 72 210 Q82 215 92 210 Q94 200 82 195 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Dropper bottle body (amber/dark, tall) -->
+  <rect x="48" y="85" width="80" height="115" rx="10" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Bottle highlight stripe -->
+  <line x1="58" y1="95" x2="58" y2="190" stroke="#e6b98a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Bottle label -->
+  <rect x="54" y="120" width="68" height="48" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- "NIACINAMIDE" letters as paths (compact, two rows would be too crowded, do NIA) -->
+  <!-- N -->
+  <path d="M60 130 L60 142 M60 130 L66 142 M66 130 L66 142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- I -->
+  <path d="M70 130 L70 142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- A -->
+  <path d="M74 142 L77 130 L80 142 M75 138 L79 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- C -->
+  <path d="M88 130 Q84 130 84 134 L84 138 Q84 142 88 142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- I -->
+  <path d="M92 130 L92 142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- N -->
+  <path d="M96 130 L96 142 M96 130 L102 142 M102 130 L102 142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M106 142 L109 130 L112 142 M107 138 L111 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- M -->
+  <path d="M62 148 L62 160 M62 148 L66 154 L70 148 L70 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- I -->
+  <path d="M74 148 L74 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- D -->
+  <path d="M78 148 L78 160 L82 160 Q86 160 86 154 Q86 148 82 148 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M94 148 L90 148 L90 160 L94 160 M90 154 L94 154" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bottle neck -->
+  <rect x="72" y="68" width="32" height="20" rx="2" ry="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Dropper bulb cap -->
+  <ellipse cx="88" cy="50" rx="22" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Cap shine -->
+  <ellipse cx="82" cy="46" rx="5" ry="2" fill="#7f7f7f" stroke="none"/>
+  <!-- Dropper pipette extending down inside bottle (visible suggestion) -->
+  <line x1="88" y1="68" x2="88" y2="180" stroke="#7d5e23" stroke-width="6.67"/>
+  <!-- Hanging drop at pipette tip suggestion -->
+  <path d="M88 180 Q84 186 88 192 Q92 186 88 180 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+</g></svg>

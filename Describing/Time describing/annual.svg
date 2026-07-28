@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="64.78 52.83 399.52 399.52" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- annual: the four seasons cycle (spring/summer/autumn/winter) round a loop = once a year -->
+<g>
+<!-- full-circle season loop -->
+<circle cx="256" cy="256" r="150" fill="none" stroke="#2f9e4a" stroke-width="16" stroke-dasharray="0.1 1000" stroke-linecap="round"/>
+<circle cx="256" cy="256" r="150" fill="none" stroke="#2f9e4a" stroke-width="16"/>
+<polygon points="406,256 384,238 384,274" fill="#2f9e4a" stroke="#2f9e4a" stroke-width="6" stroke-linejoin="round"/>
+<!-- TOP: spring blossom -->
+<g transform="translate(256 120)">
+<circle cx="0" cy="0" r="13" fill="#ffd23f" stroke="#1a1a1a" stroke-width="6"/>
+<g fill="#f6a8c8" stroke="#1a1a1a" stroke-width="6">
+<circle cx="0" cy="-24" r="13"/><circle cx="23" cy="-7" r="13"/><circle cx="14" cy="20" r="13"/><circle cx="-14" cy="20" r="13"/><circle cx="-23" cy="-7" r="13"/>
+</g>
+<circle cx="0" cy="0" r="9" fill="#ffd23f" stroke="#1a1a1a" stroke-width="0"/>
+</g>
+<!-- RIGHT: summer sun -->
+<g transform="translate(392 256)">
+<g stroke="#1a1a1a" stroke-width="8" stroke-linecap="round">
+<line x1="0" y1="-44" x2="0" y2="-30"/><line x1="0" y1="44" x2="0" y2="30"/>
+<line x1="-44" y1="0" x2="-30" y2="0"/><line x1="44" y1="0" x2="30" y2="0"/>
+<line x1="-31" y1="-31" x2="-21" y2="-21"/><line x1="31" y1="31" x2="21" y2="21"/>
+<line x1="31" y1="-31" x2="21" y2="-21"/><line x1="-31" y1="31" x2="-21" y2="21"/>
+</g>
+<circle cx="0" cy="0" r="26" fill="#ffd23f" stroke="#1a1a1a" stroke-width="8"/>
+</g>
+<!-- BOTTOM: autumn leaf -->
+<g transform="translate(256 392)">
+<path d="M 0 -30 C 26 -22 26 18 0 30 C -26 18 -26 -22 0 -30 Z" fill="#e8893a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<line x1="0" y1="-22" x2="0" y2="26" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="0" y1="-6" x2="14" y2="-14" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="0" y1="-6" x2="-14" y2="-14" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="0" y1="8" x2="13" y2="2" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="0" y1="8" x2="-13" y2="2" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+</g>
+<!-- LEFT: winter snowflake -->
+<g transform="translate(120 256)" stroke="#3f8bd1" stroke-width="8" stroke-linecap="round">
+<line x1="0" y1="-30" x2="0" y2="30"/>
+<line x1="-26" y1="-15" x2="26" y2="15"/>
+<line x1="-26" y1="15" x2="26" y2="-15"/>
+<g stroke-width="6">
+<line x1="0" y1="-30" x2="-8" y2="-22"/><line x1="0" y1="-30" x2="8" y2="-22"/>
+<line x1="0" y1="30" x2="-8" y2="22"/><line x1="0" y1="30" x2="8" y2="22"/>
+</g>
+</g>
+</g>
+</svg>

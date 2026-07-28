@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Building body -->
+  <rect x="20" y="70" width="250" height="140" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Roof band -->
+  <rect x="10" y="55" width="270" height="24" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Ground -->
+  <rect x="10" y="207" width="270" height="8" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Window left -->
+  <rect x="30" y="90" width="80" height="60" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Window right -->
+  <rect x="180" y="90" width="80" height="60" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Door -->
+  <rect x="118" y="150" width="54" height="60" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="140" y="170" width="10" height="4" rx="2" fill="#000000"/>
+
+  <!-- HAMMER (centre emblem) -->
+  <!-- Handle -->
+  <rect x="135" y="100" width="8" height="38" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Head -->
+  <rect x="120" y="96" width="38" height="16" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- WRENCH (right of hammer) -->
+  <!-- Body -->
+  <rect x="168" y="100" width="8" height="36" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Top jaw open -->
+  <path d="M164 100 Q172 90 180 100" fill="none" stroke="#7f7f7f" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M163 104 L164 96 L172 92 L180 96 L181 104" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- NUT (hex) left window -->
+  <polygon points="55,107 67,100 79,107 79,121 67,128 55,121" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="67" cy="114" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- BOLT right window -->
+  <rect x="215" y="100" width="10" height="40" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="208" y="100" width="24" height="10" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Thread lines -->
+  <line x1="215" y1="118" x2="225" y2="118" stroke="#4d4d4d" stroke-width="2.96"/>
+  <line x1="215" y1="126" x2="225" y2="126" stroke="#4d4d4d" stroke-width="2.96"/>
+  <line x1="215" y1="134" x2="225" y2="134" stroke="#4d4d4d" stroke-width="2.96"/>
+</g></svg>

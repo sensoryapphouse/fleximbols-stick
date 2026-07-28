@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- frame outer wood -->
+  <rect x="42" y="28" width="206" height="190" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- frame inner cutout (honeycomb area) -->
+  <rect x="58" y="44" width="174" height="158" rx="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- top lug bar -->
+  <rect x="28" y="22" width="234" height="16" rx="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- honeycomb cells — 6 columns x 5 rows, offset rows -->
+  <!-- row 1 -->
+  <polygon points="78,58 92,50 106,58 106,74 92,82 78,74" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="108,58 122,50 136,58 136,74 122,82 108,74" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="138,58 152,50 166,58 166,74 152,82 138,74" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="168,58 182,50 196,58 196,74 182,82 168,74" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="198,58 212,50 226,58 226,74 212,82 198,74" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- row 2 (offset) -->
+  <polygon points="63,82 77,74 91,82 91,98 77,106 63,98" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="93,82 107,74 121,82 121,98 107,106 93,98" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="123,82 137,74 151,82 151,98 137,106 123,98" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="153,82 167,74 181,82 181,98 167,106 153,98" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="183,82 197,74 211,82 211,98 197,106 183,98" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="213,82 227,74 227,98 213,106" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- row 3 -->
+  <polygon points="78,106 92,98 106,106 106,122 92,130 78,122" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="108,106 122,98 136,106 136,122 122,130 108,122" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="138,106 152,98 166,106 166,122 152,130 138,122" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="168,106 182,98 196,106 196,122 182,130 168,122" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="198,106 212,98 226,106 226,122 212,130 198,122" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- row 4 (offset) -->
+  <polygon points="63,130 77,122 91,130 91,146 77,154 63,146" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="93,130 107,122 121,130 121,146 107,154 93,146" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="123,130 137,122 151,130 151,146 137,154 123,146" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="153,130 167,122 181,130 181,146 167,154 153,146" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="183,130 197,122 211,130 211,146 197,154 183,146" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- row 5 -->
+  <polygon points="78,154 92,146 106,154 106,170 92,178 78,170" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="108,154 122,146 136,154 136,170 122,178 108,170" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="138,154 152,146 166,154 166,170 152,178 138,170" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="168,154 182,146 196,154 196,170 182,178 168,170" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="198,154 212,146 226,154 226,170 212,178 198,170" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- bees -->
+  <!-- bee 1 -->
+  <ellipse cx="92" cy="66" rx="10" ry="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="85" y1="64" x2="85" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="91" y1="63" x2="91" y2="73" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="86" cy="61" rx="6" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="98" cy="61" rx="6" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- bee 2 -->
+  <ellipse cx="197" cy="114" rx="10" ry="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="190" y1="112" x2="190" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="196" y1="111" x2="196" y2="121" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="191" cy="109" rx="6" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="203" cy="109" rx="6" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- bee 3 -->
+  <ellipse cx="137" cy="162" rx="10" ry="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="130" y1="160" x2="130" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="136" y1="159" x2="136" y2="169" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="131" cy="157" rx="6" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="143" cy="157" rx="6" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

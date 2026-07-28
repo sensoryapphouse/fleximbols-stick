@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- clear plastic sleeve -->
+<rect x="150" y="96" width="230" height="320" rx="8" fill="#eaf3fa" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- binder strip down the left with punched holes -->
+<rect x="150" y="96" width="46" height="320" fill="#cfe3f2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="173" cy="150" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="173" cy="225" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="173" cy="300" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="173" cy="370" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- sheen highlights -->
+<line x1="240" y1="130" x2="240" y2="380" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+<line x1="300" y1="130" x2="300" y2="380" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+</svg>

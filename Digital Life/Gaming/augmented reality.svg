@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Phone body -->
+  <rect x="60" y="15" width="170" height="210" rx="18" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Phone screen showing real scene (room with table) -->
+  <rect x="72" y="32" width="146" height="176" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- floor/table -->
+  <rect x="72" y="160" width="146" height="48" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- back wall mark -->
+  <path d="M85 50 L100 50 M85 60 L110 60" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Virtual element on real scene: a 3D cube floating, with AR scan corners -->
+  <!-- AR corner brackets -->
+  <path d="M85 90 L85 75 L100 75" fill="none" stroke="#fff200" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 75 L205 75 L205 90" fill="none" stroke="#fff200" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M85 150 L85 165 L100 165" fill="none" stroke="#fff200" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M205 150 L205 165 L190 165" fill="none" stroke="#fff200" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 3D cube (virtual object) -->
+  <path d="M125 100 L165 100 L180 90 L140 90 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M125 100 L125 145 L165 145 L165 100 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M165 100 L180 90 L180 135 L165 145 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sparkles indicating virtual -->
+  <path d="M195 105 L197 113 L205 115 L197 117 L195 125 L193 117 L185 115 L193 113 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M110 115 L112 122 L119 124 L112 126 L110 133 L108 126 L101 124 L108 122 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Camera notch -->
+  <circle cx="145" cy="23" r="4" fill="#000000"/>
+  <!-- Home indicator -->
+  <rect x="120" y="215" width="50" height="5" rx="2" ry="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- AR label bottom -->
+  <rect x="240" y="185" width="42" height="38" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- A path -->
+  <path d="M244 215 L252 192 L260 215 L256 215 L255 210 L249 210 L248 215 Z M251 205 L253 205 L252 201 Z" fill="#ffffff" stroke="#ffffff" stroke-width="0.74"/>
+  <!-- R path -->
+  <path d="M266 215 L266 192 L274 192 C280 192 280 204 274 204 L270 204 L276 215 L272 215 L268 205 L268 215 Z M270 195 L270 201 L273 201 C276 201 276 195 273 195 Z" fill="#ffffff" stroke="#ffffff" stroke-width="0.74"/>
+</g></svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hands putting items into an open backpack -->
+  <!-- Backpack body (open, sitting on surface) -->
+  <rect x="95" y="110" width="110" height="110" rx="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Backpack open top flap (folded back) -->
+  <path d="M95 110 Q150 90 205 110" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Backpack open mouth / interior visible -->
+  <ellipse cx="150" cy="112" rx="48" ry="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Backpack front pocket -->
+  <rect x="110" y="162" width="80" height="45" rx="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pocket zipper line -->
+  <path d="M115 175 Q150 171 185 175" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Pocket zipper pull -->
+  <circle cx="150" cy="173" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Backpack straps on back -->
+  <path d="M112 118 Q96 148 100 185" fill="none" stroke="#1d0e82" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M188 118 Q204 148 200 185" fill="none" stroke="#1d0e82" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Book being placed in (tilted, half in bag) -->
+  <rect x="118" y="72" width="32" height="52" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 134 98)"/>
+  <!-- Book spine line -->
+  <line x1="120" y1="74" x2="118" y2="118" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Book pages lines -->
+  <line x1="126" y1="75" x2="138" y2="76" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="126" y1="82" x2="139" y2="83" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Left hand placing book -->
+  <ellipse cx="112" cy="92" rx="14" ry="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Left arm -->
+  <path d="M90 65 Q100 78 112 90" fill="none" stroke="#eed5b6" stroke-width="14.44" stroke-linecap="round"/>
+  <!-- Water bottle to the right, leaning in -->
+  <rect x="162" y="70" width="22" height="54" rx="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bottle cap -->
+  <rect x="166" y="62" width="14" height="12" rx="4" fill="#137827" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Right hand on bottle -->
+  <ellipse cx="185" cy="88" rx="13" ry="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right arm -->
+  <path d="M210 62 Q198 74 186 88" fill="none" stroke="#eed5b6" stroke-width="14.44" stroke-linecap="round"/>
+  <!-- Surface line -->
+  <line x1="40" y1="220" x2="250" y2="220" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g><g transform="translate(460,5) scale(0.4825) translate(-166,-5)"><polygon points="82,149 83,157 84,166 86,174 89,182 92,189 97,196 101,202 107,208 113,214 119,219 126,223 134,226 141,229 149,231 158,232 166,233 175,232 183,231 191,229 199,226 206,223 213,219 220,214 226,208 231,202 236,196 240,189 244,182 246,174 249,166 250,157 250,149 250,140 249,132 246,124 244,116 240,109 236,102 231,95 226,89 220,84 213,79 206,75 199,71 191,69 183,67 175,65 166,65 158,65 149,67 141,69 134,71 126,75 119,79 113,84 107,89 101,95 97,102 92,109 89,116 86,124 84,132 83,140 82,149" fill="#ffffff" stroke="#000000" stroke-width="8" fill-rule="evenodd"/><polyline points="166,209 166,225" fill="none" stroke="#000000" stroke-width="8"/><polyline points="106,149 90,149"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="243,149 226,149" fill="none" stroke="#000000" stroke-width="8"/><polyline points="124,191 112,203" fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,95 209,106"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,203 209,191" fill="none" stroke="#000000" stroke-width="8"/><polyline points="112,95 123,106"  fill="none" stroke="#000000" stroke-width="8"/><polygon points="158,81 159,84 161,87 164,89 167,90 171,89 173,87 175,84 176,81 175,77 173,74 171,72 167,72 164,72 161,74 159,77 158,81" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="168,98 174,153 159,151 168,98" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="157,149 158,152 160,155 163,157 166,158 170,157 173,155 175,152 175,149 175,145 173,142 170,141 166,140 163,141 160,142 158,145 157,149" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="112,256 205,256 205,243 251,272 205,301 205,288 112,288" fill="#e03734" stroke="#000000" stroke-width="6"/></g></svg>

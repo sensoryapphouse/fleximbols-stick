@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dictionary book body -->
+  <rect x="18" y="28" width="178" height="195" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Book spine -->
+  <rect x="18" y="28" width="22" height="195" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Book cover detail line -->
+  <line x1="40" y1="30" x2="40" y2="220" stroke="#1d0e82" stroke-width="4.45"/>
+
+  <!-- Alphabet-tab dividers on right edge (coloured ridges, no letters) -->
+  <!-- Tab 1 red -->
+  <rect x="180" y="40" width="20" height="18" rx="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tab 2 orange -->
+  <rect x="180" y="62" width="20" height="18" rx="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tab 3 yellow -->
+  <rect x="180" y="84" width="20" height="18" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tab 4 green -->
+  <rect x="180" y="106" width="20" height="18" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tab 5 teal -->
+  <rect x="180" y="128" width="20" height="18" rx="3" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tab 6 blue -->
+  <rect x="180" y="150" width="20" height="18" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tab 7 purple -->
+  <rect x="180" y="172" width="20" height="18" rx="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tab 8 brown -->
+  <rect x="180" y="194" width="20" height="18" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Page lines inside book -->
+  <line x1="50" y1="65" x2="170" y2="65" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="82" x2="165" y2="82" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="99" x2="170" y2="99" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="116" x2="165" y2="116" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="133" x2="170" y2="133" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="150" x2="165" y2="150" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="167" x2="170" y2="167" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="184" x2="165" y2="184" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Magnifying glass hovering over book (top right) -->
+  <circle cx="238" cy="82" r="36" fill="none" stroke="#1a1a1a" stroke-width="8.88"/>
+  <circle cx="238" cy="82" r="30" fill="#dff3fd" stroke="none"/>
+  <!-- Magnifier reflection -->
+  <path d="M222,68 Q230,60 244,66" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Handle -->
+  <line x1="262" y1="106" x2="278" y2="124" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round"/>
+  <!-- Lines inside magnifier (showing looked-up text) -->
+  <line x1="220" y1="78" x2="256" y2="78" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="220" y1="88" x2="252" y2="88" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="220" y1="98" x2="248" y2="98" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

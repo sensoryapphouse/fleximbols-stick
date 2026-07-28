@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- pod capsule - rounded pillow shape -->
+  <path d="M70 60 Q60 60 55 78 Q40 130 55 178 Q60 200 80 205 Q145 215 210 205 Q230 200 235 178 Q250 130 235 78 Q230 60 220 60 Q145 50 70 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- blue gel chamber (left) -->
+  <path d="M75 80 Q70 80 68 95 Q60 130 68 165 Q72 185 88 188 Q120 192 140 188 Q145 188 145 180 L145 85 Q145 78 138 78 Q105 75 75 80 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- red gel chamber (right) -->
+  <path d="M145 85 L145 180 Q145 188 152 188 Q175 192 205 188 Q220 185 224 165 Q232 130 224 95 Q222 80 215 80 Q180 75 152 78 Q145 78 145 85 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- central seam -->
+  <path d="M145 78 L145 188" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- highlight on white film -->
+  <path d="M80 90 Q70 110 75 130" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- small bubble highlights -->
+  <circle cx="100" cy="120" r="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="195" cy="125" r="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="115" cy="160" r="3.5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="180" cy="155" r="3.5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

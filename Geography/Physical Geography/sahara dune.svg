@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky (warm desert tone using sand colour for haze) -->
+  <rect x="0" y="0" width="290" height="160" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bright sun (large) -->
+  <circle cx="50" cy="50" r="26" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="50" cy="50" r="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tall pyramidal dune back-left (large) -->
+  <path d="M0 200 L80 50 L160 200 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- shaded side of back-left dune -->
+  <path d="M80 50 L160 200 L110 200 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- tall pyramidal dune back-right (large) -->
+  <path d="M150 200 L220 70 L290 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- shaded side of back-right dune -->
+  <path d="M220 70 L290 200 L255 200 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- foreground sand floor -->
+  <path d="M0 200 L290 200 L290 240 L0 240 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- foreground sand ripples -->
+  <path d="M10 215 Q60 210 110 215 T210 215 T280 215" fill="none" stroke="#9d7246" stroke-width="4.00" stroke-linecap="round"/>
+  <path d="M10 230 Q60 225 110 230 T210 230 T280 230" fill="none" stroke="#9d7246" stroke-width="4.00" stroke-linecap="round"/>
+  <!-- camel caravan silhouette (3 camels) - leading camel largest -->
+  <!-- camel 1 (front, largest) -->
+  <g>
+    <!-- body -->
+    <ellipse cx="105" cy="208" rx="18" ry="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- two humps -->
+    <path d="M93 208 Q98 196 104 208 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M104 208 Q110 195 117 208 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <!-- neck and head -->
+    <path d="M120 208 L128 192 L134 192 L132 200 L124 208 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <!-- legs -->
+    <path d="M93 215 L93 228" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+    <path d="M99 215 L99 228" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+    <path d="M112 215 L112 228" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+    <path d="M118 215 L118 228" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+    <!-- tail -->
+    <path d="M88 207 L82 212" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- camel 2 (middle, smaller) -->
+  <g>
+    <ellipse cx="160" cy="212" rx="14" ry="5.5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M151 212 Q155 203 160 212 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M160 212 Q165 203 170 212 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M172 212 L178 200 L182 200 L181 206 L175 212 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M151 217 L151 227" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M156 217 L156 227" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M165 217 L165 227" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M170 217 L170 227" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- camel 3 (back, smallest) -->
+  <g>
+    <ellipse cx="205" cy="216" rx="11" ry="4.5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M198 216 Q201 209 205 216 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M205 216 Q209 209 213 216 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M214 216 L219 207 L223 207 L222 211 L217 216 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M198 220 L198 228" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M202 220 L202 228" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M209 220 L209 228" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M213 220 L213 228" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+</g></svg>

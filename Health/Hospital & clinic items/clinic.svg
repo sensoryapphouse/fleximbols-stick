@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="75.64 82.46 360.73 360.73">
+<!-- clinic: small medical building with red cross sign -->
+<rect x="120" y="200" width="272" height="216" rx="8" fill="#eef1f4" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 108 200 L 256 110 L 404 200 Z" fill="#7fb5e6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- door -->
+<rect x="226" y="320" width="60" height="96" rx="4" fill="#c89a5b" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="274" cy="370" r="5" fill="#1a1a1a"/>
+<!-- windows -->
+<rect x="150" y="248" width="56" height="52" rx="4" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="306" y="248" width="56" height="52" rx="4" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="7"/>
+<!-- red cross sign on gable -->
+<rect x="232" y="150" width="48" height="48" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="249" y="158" width="14" height="32" rx="2" fill="#d63b46"/>
+<rect x="240" y="167" width="32" height="14" rx="2" fill="#d63b46"/>
+</svg>

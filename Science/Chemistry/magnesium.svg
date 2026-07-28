@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sparkler handle (wooden stick) at bottom -->
+  <rect x="125" y="155" width="40" height="75" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- handle wood grain line -->
+  <path d="M145 165 L145 220" fill="none" stroke="#5e1f0a" stroke-width="2.96"/>
+  <!-- metal wire stem rising from handle -->
+  <rect x="140" y="100" width="10" height="60" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bright burning core at the top of the wire -->
+  <circle cx="145" cy="100" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- yellow outer flare around core -->
+  <circle cx="145" cy="100" r="38" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- white hot center over yellow -->
+  <circle cx="145" cy="100" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- sparks shooting outward as straight rays with little dots at the ends -->
+  <path d="M145 100 L145 25" fill="none" stroke="#fff200" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145 100 L195 40" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145 100 L95 40" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145 100 L225 70" fill="none" stroke="#fff200" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145 100 L65 70" fill="none" stroke="#fff200" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145 100 L240 110" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145 100 L50 110" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145 100 L215 145" fill="none" stroke="#fff200" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M145 100 L75 145" fill="none" stroke="#fff200" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- spark dots at end of rays -->
+  <circle cx="145" cy="25" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="195" cy="40" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="95" cy="40" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="225" cy="70" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="65" cy="70" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="240" cy="110" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="50" cy="110" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="215" cy="145" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="75" cy="145" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

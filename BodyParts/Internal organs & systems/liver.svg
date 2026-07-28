@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- liver: large wedge, big right lobe + smaller left lobe, ligament notch on top -->
+<path d="M 96 200 C 150 168 250 160 360 168 C 400 171 416 188 412 220 C 404 280 372 332 300 348 C 230 363 168 350 130 312 C 100 282 86 232 96 200 Z" fill="#8a2f2f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left (smaller) lobe rounded off, falciform ligament notch on top edge -->
+<path d="M 250 167 L 248 222" fill="none" stroke="#5e1f1f" stroke-width="8" stroke-linecap="round"/>
+<!-- gallbladder peeking under right lobe -->
+<ellipse cx="312" cy="332" rx="26" ry="34" fill="#6aa84f" stroke="#1a1a1a" stroke-width="8" transform="rotate(20 312 332)"/>
+<!-- surface sheen -->
+<path d="M 150 210 Q 250 195 350 210" fill="none" stroke="#a84a4a" stroke-width="7" stroke-linecap="round"/>
+</svg>

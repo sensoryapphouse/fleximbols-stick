@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dark mood backing (NOT full canvas) -->
+  <rect x="26" y="32" width="238" height="176" rx="14" fill="#392170" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Person FULL BODY hunched over phone -->
+  <!-- Head (tilted down) -->
+  <circle cx="100" cy="74" r="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Hair -->
+  <path d="M78,72 Q78,52 100,52 Q122,52 122,72 Q120,62 100,60 Q86,60 78,72" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Worried eyes (down-cast) -->
+  <ellipse cx="93" cy="80" rx="3" ry="2" fill="#000000"/>
+  <ellipse cx="107" cy="80" rx="3" ry="2" fill="#000000"/>
+  <!-- Frown -->
+  <path d="M92,90 Q100,86 108,90" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Neck/shoulders hunched -->
+  <path d="M88,94 L112,94 L112,104 L88,104 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Torso (slumped forward) -->
+  <path d="M62,108 Q60,150 80,168 L140,168 Q150,148 144,108 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Arms holding phone -->
+  <path d="M70,118 Q70,140 92,148 L120,148 Q138,140 138,118" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Hands -->
+  <circle cx="92" cy="150" r="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="150" r="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Phone in hands -->
+  <rect x="84" y="124" width="44" height="64" rx="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="88" y="130" width="36" height="52" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Dark news bubbles on phone -->
+  <rect x="92" y="134" width="28" height="8" rx="2" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="92" y="146" width="28" height="8" rx="2" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="92" y="158" width="28" height="8" rx="2" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="92" y="170" width="28" height="8" rx="2" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Legs (sitting) -->
+  <path d="M76,168 L66,212 L92,212 L96,168 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M124,168 L130,168 L152,212 L128,212 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Shoes -->
+  <ellipse cx="78" cy="216" rx="14" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="140" cy="216" rx="14" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Downward scroll arrow (big, right side) -->
+  <path d="M210,40 L210,180" fill="none" stroke="#f8130d" stroke-width="11.85" stroke-linecap="round"/>
+  <polygon points="194,170 226,170 210,196" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Extra dark news icons floating -->
+  <rect x="232" y="60" width="34" height="20" rx="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="238" y1="68" x2="260" y2="68" stroke="#ffffff" stroke-width="2.96"/>
+  <line x1="238" y1="74" x2="256" y2="74" stroke="#ffffff" stroke-width="2.96"/>
+  <rect x="232" y="100" width="34" height="20" rx="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="238" y1="108" x2="260" y2="108" stroke="#ffffff" stroke-width="2.96"/>
+  <line x1="238" y1="114" x2="256" y2="114" stroke="#ffffff" stroke-width="2.96"/>
+  <rect x="232" y="140" width="34" height="20" rx="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="238" y1="148" x2="260" y2="148" stroke="#ffffff" stroke-width="2.96"/>
+  <line x1="238" y1="154" x2="256" y2="154" stroke="#ffffff" stroke-width="2.96"/>
+</g></svg>

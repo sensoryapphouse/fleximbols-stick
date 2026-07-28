@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="93.40 93.40 349.09 349.09">
+<!-- a stack/sheet of coloured felt squares with one peeled corner -->
+<!-- bottom sheet (red) -->
+<rect x="120" y="180" width="260" height="220" rx="14" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- middle sheet (gold), offset -->
+<rect x="138" y="158" width="260" height="220" rx="14" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top sheet (green) with a folded-up corner -->
+<path d="M 156 136 L 416 136 L 416 356 L 240 356 L 156 272 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- peeled corner showing underside (lighter green) -->
+<path d="M 156 272 L 240 356 L 156 356 Z" fill="#8fce6e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- soft fibre dots to read as felt texture -->
+<circle cx="250" cy="200" r="5" fill="#1a1a1a"/>
+<circle cx="320" cy="240" r="5" fill="#1a1a1a"/>
+<circle cx="280" cy="290" r="5" fill="#1a1a1a"/>
+<circle cx="350" cy="300" r="5" fill="#1a1a1a"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- skin patch -->
+  <rect x="25" y="140" width="240" height="75" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- single follicle (large, central) -->
+  <ellipse cx="135" cy="185" rx="14" ry="22" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hair growing in follicle -->
+  <path d="M 135 165 L 135 145" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" fill="none"/>
+  <!-- hair root inside -->
+  <ellipse cx="135" cy="195" rx="4" ry="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- fine probe entering follicle -->
+  <path d="M 135 60 L 135 165" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- probe handle -->
+  <rect x="125" y="30" width="20" height="35" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- handle cap -->
+  <rect x="122" y="20" width="26" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- electric current zap (radiating from probe tip) -->
+  <path d="M 130 160 L 122 152 L 130 152 L 122 145" stroke="#fff200" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M 140 160 L 148 152 L 140 152 L 148 145" stroke="#fff200" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- electric arc symbol around follicle -->
+  <path d="M 110 145 L 115 150 L 110 150 L 115 155" stroke="#f7de58" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M 160 145 L 155 150 L 160 150 L 155 155" stroke="#f7de58" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- tweezers (right side) -->
+  <path d="M 200 60 L 195 130" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round" fill="none"/>
+  <path d="M 220 60 L 225 130" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round" fill="none"/>
+  <!-- tweezers handle joint -->
+  <path d="M 200 60 Q 210 50 220 60" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tweezers tips meeting -->
+  <path d="M 195 130 L 210 138 L 225 130" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- tweezers outline -->
+  <path d="M 200 60 L 195 130 M 220 60 L 225 130" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
+  <!-- extracted hair held by tweezers -->
+  <path d="M 210 140 L 210 165" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" fill="none"/>
+</g></svg>

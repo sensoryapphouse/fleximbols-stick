@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer -->
+  <path d="M30,110 Q30,215 145,215 Q260,215 260,110 L245,100 Q245,200 145,200 Q45,200 45,100Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Bowl rim ellipse -->
+  <ellipse cx="145" cy="100" rx="115" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Soup surface (creamy white) -->
+  <ellipse cx="145" cy="100" rx="100" ry="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Clam chunk 1 -->
+  <ellipse cx="108" cy="98" rx="14" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Potato chunk 1 -->
+  <rect x="128" y="91" width="18" height="14" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Clam chunk 2 -->
+  <ellipse cx="172" cy="97" rx="13" ry="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Potato chunk 2 -->
+  <rect x="152" y="93" width="14" height="12" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Clam chunk 3 small -->
+  <ellipse cx="138" cy="104" rx="9" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Herb specks -->
+  <circle cx="120" cy="105" r="3" fill="#529929" stroke="none"/>
+  <circle cx="160" cy="103" r="3" fill="#529929" stroke="none"/>
+  <circle cx="145" cy="95" r="2" fill="#529929" stroke="none"/>
+  <!-- Spoon -->
+  <path d="M230,60 Q260,50 265,75 Q268,90 250,95 L215,175" fill="none" stroke="#b8b8b8" stroke-width="7.90" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="252" cy="76" rx="16" ry="20" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+  <line x1="243" y1="93" x2="215" y2="175" stroke="#b8b8b8" stroke-width="7.90" stroke-linecap="round"/>
+  <ellipse cx="252" cy="76" rx="16" ry="20" fill="none" stroke="#1a1a1a" stroke-width="4.94"/>
+</g></svg>

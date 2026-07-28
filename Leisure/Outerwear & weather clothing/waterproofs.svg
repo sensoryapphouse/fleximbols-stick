@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="62.06 50.11 387.88 387.88">
+<!-- waterproof trousers / salopettes laid flat -->
+<!-- waistband -->
+<path d="M 168 120 L 344 120 L 344 158 L 168 158 Z" fill="#f2b441" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left leg -->
+<path d="M 168 158 L 252 158 L 248 410 L 176 410 Z" fill="#ffd35b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right leg -->
+<path d="M 260 158 L 344 158 L 336 410 L 264 410 Z" fill="#ffd35b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crotch notch -->
+<path d="M 252 158 L 256 210 L 260 158" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- braces / bib straps -->
+<path d="M 192 120 L 206 78 L 226 84 L 214 120" fill="#f2b441" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 320 120 L 306 78 L 286 84 L 298 120" fill="#f2b441" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- buckle dots -->
+<circle cx="210" cy="98" r="7" fill="#1a1a1a"/>
+<circle cx="302" cy="98" r="7" fill="#1a1a1a"/>
+<!-- reflective ankle bands -->
+<line x1="180" y1="372" x2="244" y2="372" stroke="#fff6cf" stroke-width="9" stroke-linecap="round"/>
+<line x1="268" y1="372" x2="332" y2="372" stroke="#fff6cf" stroke-width="9" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="160" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- saltwater swamp -->
+  <rect x="0" y="160" width="290" height="80" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- ripple lines -->
+  <path d="M10 195 Q60 192 110 195 T210 195 T280 195" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M10 220 Q60 217 110 220 T210 220 T280 220" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- left mangrove tree -->
+  <!-- canopy -->
+  <ellipse cx="70" cy="60" rx="55" ry="38" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="40" cy="70" rx="22" ry="18" fill="#67832d" stroke="#1a1a1a" stroke-width="3.70"/>
+  <ellipse cx="95" cy="75" rx="22" ry="18" fill="#67832d" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- trunk -->
+  <path d="M62 95 L60 165 L78 165 L75 95 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- prop roots left tree -->
+  <path d="M62 130 Q50 145 45 175" fill="none" stroke="#5e1f0a" stroke-width="5.18" stroke-linecap="round"/>
+  <path d="M65 140 Q55 160 52 185" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M75 130 Q88 145 92 175" fill="none" stroke="#5e1f0a" stroke-width="5.18" stroke-linecap="round"/>
+  <path d="M72 140 Q82 160 85 185" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M68 145 Q66 165 65 180" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- right mangrove tree -->
+  <ellipse cx="215" cy="65" rx="55" ry="38" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="185" cy="78" rx="22" ry="18" fill="#67832d" stroke="#1a1a1a" stroke-width="3.70"/>
+  <ellipse cx="245" cy="80" rx="22" ry="18" fill="#67832d" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- trunk -->
+  <path d="M208 100 L206 165 L224 165 L222 100 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- prop roots right tree -->
+  <path d="M208 132 Q196 148 192 178" fill="none" stroke="#5e1f0a" stroke-width="5.18" stroke-linecap="round"/>
+  <path d="M212 142 Q202 162 200 188" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M222 132 Q235 148 240 178" fill="none" stroke="#5e1f0a" stroke-width="5.18" stroke-linecap="round"/>
+  <path d="M218 142 Q228 162 232 188" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M215 145 Q215 165 215 183" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- small distant tree centre -->
+  <circle cx="145" cy="120" r="14" fill="#67832d" stroke="#1a1a1a" stroke-width="3.70"/>
+  <path d="M143 132 L143 165" fill="none" stroke="#5e1f0a" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M143 150 Q138 160 137 175" fill="none" stroke="#5e1f0a" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M143 150 Q148 160 149 175" fill="none" stroke="#5e1f0a" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

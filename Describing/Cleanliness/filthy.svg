@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-7.76 -20.56 527.52 527.52"><g data-fit="1">
+<!-- green down arrow over the filthy plate (left) -->
+<line x1="140" y1="70" x2="140" y2="120" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="120" x2="116" y2="96" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="120" x2="164" y2="96" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="70" x2="140" y2="120" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="140" y1="120" x2="116" y2="96" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="140" y1="120" x2="164" y2="96" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<!-- FILTHY plate (left) -->
+<ellipse cx="140" cy="320" rx="110" ry="100" fill="#e9eef2" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="140" cy="320" rx="70" ry="62" fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9"/>
+<!-- dirt blobs -->
+<ellipse cx="120" cy="300" rx="20" ry="14" fill="#7a4a24" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="170" cy="330" rx="16" ry="12" fill="#5e3a1c" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="128" cy="350" rx="14" ry="10" fill="#7a4a24" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="100" cy="335" rx="12" ry="8" fill="#5e3a1c" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="158" cy="296" rx="10" ry="8" fill="#7a4a24" stroke="#1a1a1a" stroke-width="0"/>
+<!-- CLEAN plate (right, faded) -->
+<g opacity="0.34">
+<ellipse cx="372" cy="320" rx="110" ry="100" fill="#e9eef2" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="372" cy="320" rx="70" ry="62" fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+</g></svg>

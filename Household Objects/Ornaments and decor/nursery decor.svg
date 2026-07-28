@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor line -->
+  <line x1="20" y1="215" x2="270" y2="215" stroke="#9d7246" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- alphabet blocks stacked: bottom row 2 blocks, top row 1 block -->
+  <!-- block A (bottom left) red -->
+  <rect x="40" y="145" width="65" height="65" rx="6" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- letter A drawn as paths only -->
+  <path d="M58 195 L72 158 L86 195" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M63 183 L81 183" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- block B (bottom right) yellow -->
+  <rect x="110" y="145" width="65" height="65" rx="6" ry="6" fill="#fff200" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- letter B as paths -->
+  <path d="M130 158 L130 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M130 158 Q152 158 152 168 Q152 177 130 177 Q156 177 156 187 Q156 195 130 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- block C (top, centred on bottom row) blue -->
+  <rect x="75" y="78" width="65" height="65" rx="6" ry="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- letter C as path -->
+  <path d="M122 92 Q95 92 95 110 Q95 128 122 128" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- framed rainbow wall art -->
+  <rect x="180" y="60" width="90" height="85" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="188" y="68" width="74" height="69" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- rainbow arcs -->
+  <path d="M198 125 Q225 88 252 125" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M204 125 Q225 96 246 125" fill="none" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M210 125 Q225 104 240 125" fill="none" stroke="#fff200" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M216 125 Q225 112 234 125" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- cloud under rainbow -->
+  <ellipse cx="225" cy="130" rx="18" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="1.78"/>
+</g></svg>

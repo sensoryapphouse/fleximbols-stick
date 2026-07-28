@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 103.02 345.21 345.21">
+<!-- gum disease: teeth sitting in red, swollen, inflamed gums -->
+<!-- inflamed red gum bed -->
+<path d="M 110 300 Q 110 232 180 226 L 332 226 Q 402 232 402 300 Q 402 372 256 372 Q 110 372 110 300 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- swelling / soreness highlights -->
+<path d="M 150 260 Q 170 246 192 260 M 320 260 Q 342 246 362 260" fill="none" stroke="#ffb0a8" stroke-width="7" stroke-linecap="round"/>
+<!-- three teeth set into the gum -->
+<g fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round">
+<path d="M 168 244 Q 162 188 196 182 Q 230 188 224 244 Q 220 286 196 296 Q 172 286 168 244 Z"/>
+<path d="M 232 244 Q 226 184 256 178 Q 286 184 280 244 Q 276 288 256 298 Q 236 288 232 244 Z"/>
+<path d="M 288 244 Q 282 188 316 182 Q 350 188 344 244 Q 340 286 316 296 Q 292 286 288 244 Z"/>
+</g>
+</svg>

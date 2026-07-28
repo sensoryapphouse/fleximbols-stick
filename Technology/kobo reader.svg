@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Kobo-style e-reader body (asymmetric chunky-left-bezel hint) -->
+  <rect x="56" y="18" width="170" height="204" rx="12" ry="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- left chunky bezel -->
+  <rect x="56" y="18" width="24" height="204" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- e-ink screen -->
+  <rect x="86" y="30" width="134" height="178" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- KOBO label as path strokes -->
+  <!-- K -->
+  <path d="M96 46 L96 64 M96 55 L108 46 M96 55 L108 64" stroke="#5e1f0a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- O -->
+  <ellipse cx="120" cy="55" rx="7" ry="9" fill="none" stroke="#5e1f0a" stroke-width="5.33"/>
+  <!-- B -->
+  <path d="M134 46 L134 64 M134 46 L144 46 Q148 46 148 50 Q148 54 144 54 L134 54 M134 54 L145 54 Q149 54 149 59 Q149 64 144 64 L134 64" stroke="#5e1f0a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- O -->
+  <ellipse cx="162" cy="55" rx="7" ry="9" fill="none" stroke="#5e1f0a" stroke-width="5.33"/>
+  <!-- brand-like icon (Kobo's stylised circle-with-spark) -->
+  <circle cx="190" cy="55" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M186 50 Q190 47 194 50 Q196 55 190 58 Q186 60 186 57" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <!-- divider -->
+  <line x1="94" y1="76" x2="212" y2="76" stroke="#5e1f0a" stroke-width="3.56"/>
+  <!-- text lines on page -->
+  <line x1="94" y1="90" x2="212" y2="90" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="102" x2="206" y2="102" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="114" x2="212" y2="114" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="126" x2="200" y2="126" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="138" x2="212" y2="138" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="150" x2="195" y2="150" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="162" x2="212" y2="162" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="174" x2="190" y2="174" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="186" x2="212" y2="186" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="94" y1="198" x2="200" y2="198" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- left bezel page-turn button -->
+  <circle cx="68" cy="120" r="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Two hands over a keyboard with motion tap indicators -->
+
+  <!-- Keyboard body -->
+  <rect x="20" y="140" width="250" height="75" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Keyboard top bar (function row) -->
+  <rect x="28" y="150" width="234" height="14" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- Key rows -->
+  <!-- Row 1 -->
+  <rect x="28" y="170" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="54" y="170" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="80" y="170" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="106" y="170" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="132" y="170" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="170" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="184" y="170" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="210" y="170" width="40" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 2 -->
+  <rect x="28" y="190" width="34" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="66" y="190" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="92" y="190" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="190" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="144" y="190" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="170" y="190" width="22" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="196" y="190" width="54" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Space bar row (bottom) -->
+  <rect x="70" y="208" width="150" height="0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Left hand over keyboard, index finger pressing a key -->
+  <!-- Left palm/hand -->
+  <ellipse cx="90" cy="108" rx="28" ry="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Left thumb -->
+  <path d="M 64 112 Q 54 108 52 98 Q 54 90 62 94 L 68 104 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Left fingers -->
+  <rect x="70" y="78" width="12" height="34" rx="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="86" y="72" width="12" height="38" rx="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="102" y="76" width="12" height="35" rx="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="116" y="82" width="10" height="30" rx="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Index finger pressing down (lower) -->
+  <rect x="86" y="108" width="12" height="26" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89"/>
+
+  <!-- Motion tap dots on left key being pressed -->
+  <circle cx="82" cy="168" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="92" cy="165" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="102" cy="168" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Right hand over keyboard -->
+  <ellipse cx="202" cy="108" rx="28" ry="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Right thumb -->
+  <path d="M 228 112 Q 238 108 240 98 Q 238 90 230 94 L 224 104 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Right fingers -->
+  <rect x="210" y="82" width="10" height="30" rx="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="184" y="76" width="12" height="35" rx="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="194" y="72" width="12" height="38" rx="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Index finger pressing down (right) -->
+  <rect x="194" y="108" width="12" height="26" rx="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89"/>
+
+  <!-- Motion tap dots on right key being pressed -->
+  <circle cx="190" cy="168" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="165" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="168" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Small motion arcs on pressing fingers (tap cues) -->
+  <path d="M 80 136 Q 92 130 104 136" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M 188 136 Q 200 130 212 136" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- IV bag dripping chemo into patient's arm + cancer-cell icon being struck -->
+  <!-- IV stand -->
+  <path d="M70 30 L70 215" stroke="#7f7f7f" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M70 30 L70 215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Stand hook -->
+  <path d="M70 30 Q60 25 60 38" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Stand base -->
+  <path d="M40 215 L100 215" stroke="#7f7f7f" stroke-width="11.11" stroke-linecap="round"/>
+  <path d="M40 215 L100 215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="40" cy="215" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="215" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- IV bag -->
+  <path d="M50 42 L90 42 L86 110 L54 110 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Bag label -->
+  <rect x="58" y="58" width="24" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Skull-and-toxic marker on label (chemo) -->
+  <circle cx="70" cy="65" r="4" fill="#000000"/>
+  <circle cx="67" cy="64" r="1" fill="#ffffff"/>
+  <circle cx="73" cy="64" r="1" fill="#ffffff"/>
+  <!-- Fluid level inside bag -->
+  <path d="M56 76 L84 76 L82 108 L58 108 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Drip chamber -->
+  <rect x="64" y="110" width="12" height="20" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="70" cy="120" r="2" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- IV tube -->
+  <path d="M70 130 Q70 150 110 165 Q140 175 170 175" fill="none" stroke="#7c3fac" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M70 130 Q70 150 110 165 Q140 175 170 175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Patient arm (forearm + hand) -->
+  <path d="M165 165 L260 158 L266 188 L170 195 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Hand -->
+  <circle cx="258" cy="172" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- IV site bandage -->
+  <rect x="180" y="170" width="18" height="14" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M180 174 L198 180" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- Cancer cell being struck -->
+  <g>
+    <!-- Cell -->
+    <path d="M180 70 Q170 60 178 50 Q172 40 184 38 Q188 28 198 36 Q210 30 212 44 Q224 46 220 58 Q228 70 216 74 Q214 86 202 82 Q194 92 186 82 Q172 82 180 70 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+    <!-- Nucleus -->
+    <circle cx="198" cy="58" r="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- Strike-through X -->
+    <path d="M168 30 L228 90" stroke="#f8130d" stroke-width="13.34" stroke-linecap="round"/>
+    <path d="M168 30 L228 90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M228 30 L168 90" stroke="#f8130d" stroke-width="13.34" stroke-linecap="round"/>
+    <path d="M228 30 L168 90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+
+  <!-- Drips falling from tube line (chemo droplets) -->
+  <ellipse cx="105" cy="158" rx="3" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="135" cy="170" rx="3" ry="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

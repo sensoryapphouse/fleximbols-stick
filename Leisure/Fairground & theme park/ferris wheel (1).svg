@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- support legs -->
+  <line x1="145" y1="148" x2="80" y2="218" stroke="#4d4d4d" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="145" y1="148" x2="210" y2="218" stroke="#4d4d4d" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- ground bar -->
+  <line x1="60" y1="218" x2="230" y2="218" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- main wheel rim -->
+  <circle cx="145" cy="110" r="88" fill="none" stroke="#2a4ec0" stroke-width="7.77"/>
+  <!-- inner hub -->
+  <circle cx="145" cy="110" r="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- spokes (8) -->
+  <line x1="145" y1="110" x2="145" y2="22" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="145" y2="198" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="57" y2="110" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="233" y2="110" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="83" y2="48" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="207" y2="172" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="207" y2="48" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="110" x2="83" y2="172" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- gondolas at spoke ends (8 cabins) -->
+  <!-- top -->
+  <rect x="133" y="18" width="24" height="16" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="145" y1="22" x2="145" y2="18" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- bottom -->
+  <rect x="133" y="194" width="24" height="16" rx="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- left -->
+  <rect x="45" y="102" width="24" height="16" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right -->
+  <rect x="221" y="102" width="24" height="16" rx="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- top-left -->
+  <rect x="71" y="40" width="24" height="16" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- top-right -->
+  <rect x="195" y="40" width="24" height="16" rx="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bottom-left -->
+  <rect x="71" y="164" width="24" height="16" rx="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bottom-right -->
+  <rect x="195" y="164" width="24" height="16" rx="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

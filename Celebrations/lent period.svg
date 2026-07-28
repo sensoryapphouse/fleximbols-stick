@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- purple cloth draped (background) -->
+  <path d="M20 50 Q145 30 270 50 L275 200 Q200 215 145 200 Q90 215 15 200 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- cloth folds -->
+  <path d="M60 60 Q70 130 55 195" fill="none" stroke="#392170" stroke-width="4.45"/>
+  <path d="M230 60 Q220 130 235 195" fill="none" stroke="#392170" stroke-width="4.45"/>
+  <!-- cross (vertical) -->
+  <rect x="135" y="65" width="20" height="130" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- cross (horizontal) -->
+  <rect x="100" y="95" width="90" height="20" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- crown of thorns wrapped around top of cross -->
+  <ellipse cx="145" cy="105" rx="38" ry="16" fill="none" stroke="#5e1f0a" stroke-width="6.67"/>
+  <path d="M115 100 L110 92 L118 97 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M135 92 L135 84 L142 92 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M160 92 L168 84 L165 94 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M178 98 L186 92 L182 102 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M122 118 L115 124 L125 122 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M168 118 L177 124 L165 122 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- "40" as path shapes (lower portion) -->
+  <!-- "4" -->
+  <path d="M85 145 L85 175 L115 175 M105 145 L105 195" fill="none" stroke="#fff200" stroke-width="13.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- "0" -->
+  <ellipse cx="200" cy="170" rx="18" ry="25" fill="none" stroke="#fff200" stroke-width="13.34"/>
+  <!-- outline darker around 4 for visibility -->
+  <path d="M85 145 L85 175 L115 175 M105 145 L105 195" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="200" cy="170" rx="18" ry="25" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

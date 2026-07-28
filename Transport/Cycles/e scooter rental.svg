@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <rect x="20" y="205" width="250" height="16" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- dock post -->
+  <rect x="30" y="110" width="16" height="96" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- dock head/terminal -->
+  <rect x="22" y="90" width="32" height="28" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- QR panel on dock -->
+  <rect x="28" y="95" width="20" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <!-- QR pattern (simplified squares) -->
+  <rect x="30" y="97" width="5" height="5" rx="1" fill="#000000"/>
+  <rect x="30" y="104" width="5" height="5" rx="1" fill="#000000"/>
+  <rect x="37" y="97" width="5" height="5" rx="1" fill="#000000"/>
+  <rect x="37" y="104" width="3" height="3" rx="1" fill="#000000"/>
+  <rect x="33" y="100" width="3" height="3" rx="1" fill="#000000"/>
+  <!-- dock base -->
+  <rect x="22" y="196" width="32" height="12" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- dock cable to scooter -->
+  <path d="M54 175 Q80 175 88 200" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+
+  <!-- e-scooter -->
+  <!-- rear wheel -->
+  <circle cx="108" cy="200" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="108" cy="200" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- front wheel -->
+  <circle cx="210" cy="200" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="200" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- deck / footboard -->
+  <rect x="108" y="190" width="102" height="12" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- stem (angled) -->
+  <line x1="210" y1="190" x2="195" y2="120" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- handlebar crossbar -->
+  <line x1="182" y1="120" x2="208" y2="120" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- handlebar grips -->
+  <rect x="179" y="115" width="8" height="14" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="207" y="115" width="8" height="14" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- battery pack on stem -->
+  <rect x="188" y="148" width="20" height="12" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- lightning bolt -->
+  <polyline points="195,149 192,155 197,155 194,160" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- mudguard rear -->
+  <path d="M108 178 Q95 178 92 200" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- mudguard front -->
+  <path d="M210 178 Q222 178 224 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

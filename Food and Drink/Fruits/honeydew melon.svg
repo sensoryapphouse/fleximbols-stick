@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- WHOLE honeydew on left: smooth pale green-yellow rind -->
+  <circle cx="90" cy="135" r="62" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- subtle highlight (smooth skin hint - no net pattern) -->
+  <path d="M 60 105 Q 70 90 95 85" fill="none" stroke="#ffffff" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- tiny stem -->
+  <path d="M 88 73 L 88 65 L 95 60" fill="none" stroke="#5e1f0a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- CUT HALF on right showing pale green flesh -->
+  <!-- outer rind -->
+  <path d="M 175 90 Q 270 95 270 160 Q 270 200 220 200 Q 175 200 175 160 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- rind inner edge -->
+  <path d="M 185 100 Q 258 105 258 160 Q 258 192 222 192 Q 185 192 185 160 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- pale green flesh interior -->
+  <path d="M 192 108 Q 252 112 252 160 Q 252 188 222 188 Q 192 188 192 160 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 195 113 Q 249 116 249 160 Q 249 184 222 184 Q 195 184 195 160 Z" fill="#f5e7c4" stroke="none"/>
+  <!-- seed cavity at top of cut -->
+  <ellipse cx="222" cy="125" rx="22" ry="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- seeds -->
+  <ellipse cx="212" cy="123" rx="3" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(20 212 123)"/>
+  <ellipse cx="220" cy="120" rx="3" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="228" cy="124" rx="3" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(-15 228 124)"/>
+  <ellipse cx="215" cy="129" rx="3" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="225" cy="130" rx="3" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(25 225 130)"/>
+  <ellipse cx="232" cy="128" rx="3" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

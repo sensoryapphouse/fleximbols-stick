@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- small compact cabinet -->
+  <rect x="60" y="48" width="170" height="168" rx="10" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top control strip -->
+  <rect x="60" y="48" width="170" height="38" rx="10" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- carry handle -->
+  <path d="M118 48 Q118 36 145 36 Q172 36 172 48" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- knob 1 -->
+  <circle cx="96" cy="67" r="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="96" y1="60" x2="96" y2="65" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- knob 2 -->
+  <circle cx="130" cy="67" r="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="126" y1="61" x2="129" y2="65" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- knob 3 -->
+  <circle cx="164" cy="67" r="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="168" y1="61" x2="165" y2="65" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- speaker grille -->
+  <rect x="74" y="96" width="142" height="108" rx="6" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- speaker cone -->
+  <circle cx="145" cy="150" r="44" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="150" r="30" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="150" r="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="150" r="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- corner screws -->
+  <circle cx="83" cy="105" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="207" cy="105" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="83" cy="195" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="207" cy="195" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

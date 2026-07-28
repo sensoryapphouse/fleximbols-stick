@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="68.42 53.06 395.64 395.64">
+<!-- MUSTY: old damp book with dull stale waves and dust specks -->
+<!-- dull musty waves -->
+<g fill="none" stroke="#8f8a5e" stroke-width="13" stroke-linecap="round">
+<path d="M 198 208 q -24 -26 0 -52 q 24 -26 0 -52"/>
+<path d="M 260 188 q -24 -26 0 -52 q 24 -26 0 -52"/>
+<path d="M 322 208 q -24 -26 0 -52 q 24 -26 0 -52"/>
+</g>
+<!-- dust specks -->
+<circle cx="160" cy="150" r="9" fill="#8f8a5e"/>
+<circle cx="360" cy="138" r="8" fill="#8f8a5e"/>
+<circle cx="146" cy="196" r="7" fill="#8f8a5e"/>
+<circle cx="372" cy="190" r="6" fill="#8f8a5e"/>
+<!-- closed book cover -->
+<path d="M 140 252 L 372 252 L 372 408 L 140 408 Z" fill="#8a7a5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spine -->
+<rect x="140" y="252" width="30" height="156" fill="#6f6144" stroke="#1a1a1a" stroke-width="9"/>
+<!-- page block edge -->
+<path d="M 372 264 L 392 276 L 392 420 L 372 408 Z" fill="#e7e2d0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 140 408 L 372 408 L 392 420 L 160 420 Z" fill="#d8d2bd" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- worn cover damp blotches -->
+<ellipse cx="250" cy="310" rx="26" ry="18" fill="#766647" stroke="none"/>
+<ellipse cx="320" cy="360" rx="20" ry="14" fill="#766647" stroke="none"/>
+<ellipse cx="210" cy="370" rx="16" ry="12" fill="#766647" stroke="none"/>
+</svg>

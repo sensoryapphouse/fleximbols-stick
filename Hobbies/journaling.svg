@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- open journal with handwritten squiggle lines + pen -->
+  <!-- shadow under journal (just a base strip, not full canvas) -->
+  <ellipse cx="145" cy="206" rx="110" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- left page -->
+  <path d="M30 60 L142 50 L142 200 L30 188 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- right page -->
+  <path d="M148 50 L260 60 L260 188 L148 200 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- spine -->
+  <path d="M142 50 L148 50 L148 200 L142 200 Z" fill="#392170" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- back cover edges -->
+  <path d="M30 60 L26 66 L26 192 L30 188 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M260 60 L264 66 L264 192 L260 188 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- handwritten squiggle lines on left page -->
+  <path d="M42 80 Q56 76 70 80 Q84 84 98 80 Q112 76 128 80" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M42 98 Q56 94 72 98 Q88 102 104 98 Q118 94 130 98" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M42 116 Q58 112 74 116 Q90 120 106 116 Q120 112 130 116" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M42 134 Q56 130 70 134 Q84 138 98 134 Q110 130 120 134" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M42 152 Q58 148 74 152 Q88 156 100 152" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- squiggle lines on right page -->
+  <path d="M160 80 Q174 76 188 80 Q204 84 220 80 Q236 76 250 80" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M160 98 Q176 94 192 98 Q208 102 224 98 Q238 94 250 98" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M160 116 Q174 112 188 116 Q204 120 220 116 Q234 112 248 116" fill="none" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- pen (sitting on right page) -->
+  <path d="M168 178 L242 130 L252 138 L182 192 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pen tip -->
+  <path d="M168 178 L156 196 L182 192 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M163 188 L173 184" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- pen cap end -->
+  <path d="M242 130 L252 122 L260 130 L252 138 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ink mark on page from pen -->
+  <path d="M160 184 Q156 188 152 196" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

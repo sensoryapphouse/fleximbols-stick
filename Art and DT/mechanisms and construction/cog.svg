@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.88 67.88 376.24 376.24"><!-- cog: single gear wheel with teeth -->
+<g fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round">
+<g>
+<rect x="240" y="96" width="32" height="60" rx="4"/>
+<rect x="240" y="356" width="32" height="60" rx="4"/>
+<rect x="96" y="240" width="60" height="32" rx="4"/>
+<rect x="356" y="240" width="60" height="32" rx="4"/>
+</g>
+<g transform="rotate(45 256 256)">
+<rect x="240" y="96" width="32" height="60" rx="4"/>
+<rect x="240" y="356" width="32" height="60" rx="4"/>
+<rect x="96" y="240" width="60" height="32" rx="4"/>
+<rect x="356" y="240" width="60" height="32" rx="4"/>
+</g>
+</g>
+<circle cx="256" cy="256" r="116" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="256" r="44" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

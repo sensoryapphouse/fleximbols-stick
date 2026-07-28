@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="69.82 69.82 372.36 372.36"><!-- swimming goggles -->
+<!-- strap (behind) -->
+<path d="M 165 215 Q 90 215 100 270 Q 108 305 175 295" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<path d="M 347 215 Q 422 215 412 270 Q 404 305 337 295" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<!-- left eye cup -->
+<ellipse cx="200" cy="256" rx="62" ry="52" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="200" cy="256" rx="40" ry="32" fill="#aed3ef" stroke="#1a1a1a" stroke-width="6"/>
+<!-- right eye cup -->
+<ellipse cx="312" cy="256" rx="62" ry="52" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="312" cy="256" rx="40" ry="32" fill="#aed3ef" stroke="#1a1a1a" stroke-width="6"/>
+<!-- nose bridge -->
+<path d="M 258 250 Q 256 268 254 250" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<line x1="262" y1="252" x2="250" y2="252" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- highlights -->
+<line x1="182" y1="240" x2="200" y2="246" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+<line x1="294" y1="240" x2="312" y2="246" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+</svg>

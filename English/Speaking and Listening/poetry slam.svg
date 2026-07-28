@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- dim background atmosphere - cafe wall -->
+  <rect x="26" y="32" width="238" height="176" fill="#392170" stroke="none"/>
+  <!-- spotlight on poet -->
+  <path d="M145 8 L85 195 L205 195 Z" fill="#7c3fac" stroke="none"/>
+  <path d="M145 15 L105 190 L185 190 Z" fill="#f266aa" stroke="none"/>
+  <rect x="60" y="6" width="170" height="24" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- exclamation -->
+  <path d="M222 12 L222 21 M222 24 L222 24" fill="none" stroke="#f2e40d" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- stage floor (cafe) -->
+  <rect x="0" y="200" width="290" height="25" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- microphone on stand -->
+  <path d="M145 95 L145 175" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M130 175 L160 175" stroke="#1a1a1a" stroke-width="7.90" stroke-linecap="round"/>
+  <!-- mic head -->
+  <ellipse cx="145" cy="90" rx="9" ry="11" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M138 84 L152 84 M138 90 L152 90 M138 96 L152 96" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- poet full body (intense, hand gesturing) -->
+  <!-- head -->
+  <circle cx="105" cy="100" r="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- hair (short) -->
+  <path d="M91 97 Q91 84 105 82 Q119 84 119 97 L119 92 L91 92 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- intense brow -->
+  <path d="M98 95 L102 96 M108 96 L112 95" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- eyes (closed - intense) -->
+  <path d="M99 99 L103 99 M107 99 L111 99" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- mouth open speaking -->
+  <ellipse cx="105" cy="107" rx="3" ry="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- torso (black turtleneck) -->
+  <path d="M92 114 L118 114 L121 170 L89 170 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- right arm forward to mic, gesturing -->
+  <path d="M118 120 Q130 110 138 95" fill="none" stroke="#9d7246" stroke-width="15.81" stroke-linecap="round"/>
+  <path d="M118 120 Q130 110 138 95" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- left arm raised, fist clenched (intense) -->
+  <path d="M92 120 Q75 110 72 88" fill="none" stroke="#9d7246" stroke-width="15.81" stroke-linecap="round"/>
+  <path d="M92 120 Q75 110 72 88" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <circle cx="72" cy="84" r="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- legs -->
+  <path d="M97 170 L94 200" stroke="#1a1a1a" stroke-width="17.78" stroke-linecap="round"/>
+  <path d="M113 170 L116 200" stroke="#1a1a1a" stroke-width="17.78" stroke-linecap="round"/>
+  <!-- shoes -->
+  <ellipse cx="92" cy="203" rx="9" ry="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="118" cy="203" rx="9" ry="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- audience snapping fingers -->
+  <circle cx="220" cy="160" r="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.95"/>
+  <path d="M209 175 L231 175 L233 200 L207 200 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <circle cx="216" cy="158" r="1.5" fill="#000000"/>
+  <circle cx="224" cy="158" r="1.5" fill="#000000"/>
+  <!-- snap hand with finger snap -->
+  <path d="M231 175 Q245 168 250 158" fill="none" stroke="#eed5b6" stroke-width="11.86" stroke-linecap="round"/>
+  <path d="M231 175 Q245 168 250 158" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- snap stars -->
+  <path d="M256 150 L259 153 M256 158 L259 155 M252 154 L264 154" stroke="#f2e40d" stroke-width="3.95" stroke-linecap="round"/>
+  <circle cx="258" cy="154" r="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="1.98"/>
+  <!-- second audience member -->
+  <circle cx="255" cy="190" r="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.95"/>
+  <path d="M246 199 L264 199 L266 215 L244 215 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- open mic spot light (replaces POETRY SLAM text) -->
+  <rect x="72" y="12" width="146" height="40" rx="5" fill="#392170" stroke="#1a1a1a" stroke-width="4.94"/>
+  <path d="M100 18 L100 44 M96 24 Q96 18 100 18 Q104 18 104 24 L104 30 Q104 44 100 44 Q96 44 96 30 Z" fill="none" stroke="#ffffff" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M93 34 Q93 42 100 42 Q107 42 107 34" fill="none" stroke="#ffffff" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- lightning/snap -->
+  <polygon points="165,14 156,30 164,28 155,52 172,28 164,30" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+</g></svg>

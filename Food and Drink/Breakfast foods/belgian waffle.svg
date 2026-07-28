@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Waffle body - thick rounded rectangle, golden brown -->
+  <rect x="45" y="105" width="200" height="110" rx="16" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Waffle top face - lighter colour -->
+  <rect x="45" y="95" width="200" height="110" rx="16" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Waffle grid - deep square pockets (darker fill) -->
+  <!-- Row 1 pockets -->
+  <rect x="62" y="108" width="32" height="28" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="103" y="108" width="32" height="28" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="144" y="108" width="32" height="28" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="185" y="108" width="32" height="28" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Row 2 pockets -->
+  <rect x="62" y="145" width="32" height="28" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="103" y="145" width="32" height="28" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="144" y="145" width="32" height="28" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="185" y="145" width="32" height="28" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Row 3 pockets -->
+  <rect x="62" y="182" width="32" height="20" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="103" y="182" width="32" height="20" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="144" y="182" width="32" height="20" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="185" y="182" width="32" height="20" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Maple syrup drizzle pooling in pockets -->
+  <path d="M 48,96 Q 60,84 80,80 Q 100,86 90,100" fill="none" stroke="#e65a00" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M 90,100 Q 95,92 108,90 Q 120,96 116,108" fill="none" stroke="#e65a00" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M 116,108 Q 120,98 135,96 Q 148,102 142,116" fill="none" stroke="#e65a00" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Syrup pool -->
+  <path d="M 80,100 Q 100,106 120,102 Q 118,112 100,114 Q 80,110 80,100 Z" fill="#ff9900" stroke="none"/>
+  <!-- Berries on top -->
+  <circle cx="88" cy="88" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 88,78 Q 86,72 90,70 Q 94,72 92,78" fill="#529929" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <circle cx="116" cy="82" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 116,72 Q 114,66 118,64 Q 122,66 120,72" fill="#529929" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <circle cx="145" cy="80" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="165" cy="85" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="188" cy="80" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 188,70 Q 186,64 190,62 Q 194,64 192,70" fill="#529929" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

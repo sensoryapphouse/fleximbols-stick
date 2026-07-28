@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Gauge background arc (semicircle, flat bottom) -->
+  <!-- Red zone (220–300 deg) -->
+  <path d="M 50,165 A 95,95 0 0 1 98,83" fill="none" stroke="#f8130d" stroke-width="24.88" stroke-linecap="butt"/>
+  <!-- Orange zone -->
+  <path d="M 98,83 A 95,95 0 0 1 145,70" fill="none" stroke="#ff9900" stroke-width="24.88" stroke-linecap="butt"/>
+  <!-- Yellow zone -->
+  <path d="M 145,70 A 95,95 0 0 1 192,83" fill="none" stroke="#f7de58" stroke-width="24.88" stroke-linecap="butt"/>
+  <!-- Green zone (good) -->
+  <path d="M 192,83 A 95,95 0 0 1 240,165" fill="none" stroke="#529929" stroke-width="24.88" stroke-linecap="butt"/>
+
+  <!-- Gauge outline arc -->
+  <path d="M 50,165 A 95,95 0 0 1 240,165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Inner arc outline -->
+  <path d="M 68,165 A 77,77 0 0 1 222,165" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+
+  <!-- Gauge flat bottom line -->
+  <line x1="42" y1="165" x2="248" y2="165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Tick marks -->
+  <line x1="50" y1="165" x2="38" y2="158" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="98" y1="83" x2="90" y2="71" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="70" x2="145" y2="56" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="192" y1="83" x2="200" y2="71" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="240" y1="165" x2="252" y2="158" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+
+  <!-- Needle pivot -->
+  <circle cx="145" cy="165" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="165" r="6" fill="#000000"/>
+
+  <!-- Needle pointing into green zone (roughly 155 deg from positive x → pointing upper-right) -->
+  <!-- Needle tip at ~210deg on the arc = pointing upper-right green zone -->
+  <line x1="145" y1="165" x2="215" y2="98" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Counterweight -->
+  <line x1="145" y1="165" x2="120" y2="178" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Decorative score stars/bar at bottom -->
+  <rect x="80" y="192" width="130" height="16" rx="8" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="80" y="192" width="100" height="16" rx="8" ry="8" fill="#529929" stroke="none"/>
+  <rect x="80" y="192" width="130" height="16" rx="8" ry="8" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

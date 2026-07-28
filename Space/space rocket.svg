@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky/space background -->
+  <rect x="26" y="32" width="238" height="176" rx="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Stars -->
+  <circle cx="45" cy="40" r="3" fill="#ffffff" stroke="none"/>
+  <circle cx="240" cy="55" r="3" fill="#ffffff" stroke="none"/>
+  <circle cx="260" cy="35" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="35" cy="80" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="255" cy="100" r="3" fill="#ffffff" stroke="none"/>
+  <circle cx="50" cy="130" r="2" fill="#ffffff" stroke="none"/>
+  <!-- Rocket body -->
+  <rect x="115" y="80" width="60" height="100" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Nose cone -->
+  <path d="M115,80 Q115,35 145,28 Q175,35 175,80 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Window -->
+  <circle cx="145" cy="100" r="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="100" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- Body stripe -->
+  <rect x="115" y="130" width="60" height="14" rx="0" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Left fin -->
+  <path d="M115,145 L85,185 L115,175 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right fin -->
+  <path d="M175,145 L205,185 L175,175 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Rear of rocket -->
+  <rect x="120" y="176" width="50" height="8" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Engine nozzle -->
+  <path d="M128,184 Q128,195 120,200 L170,200 Q162,195 162,184 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Flame inner -->
+  <path d="M128,200 Q135,225 145,218 Q155,225 162,200 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Flame outer -->
+  <path d="M122,200 Q130,235 145,228 Q160,235 168,200 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Water band -->
+  <rect x="0" y="175" width="290" height="65" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 185 Q30 178 50 185 Q70 192 90 185 Q110 178 130 185 Q150 192 170 185 Q190 178 210 185 Q230 192 250 185 Q270 178 285 185" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hull -->
+  <path d="M18 175 L34 158 L262 158 L272 175 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Waterline stripe -->
+  <path d="M18 175 L26 167 L264 167 L272 175" fill="#d01424" stroke="none"/>
+  <!-- Deck -->
+  <rect x="34" y="152" width="228" height="8" rx="1" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small separate deck tanks (many, in a row) -->
+  <!-- Tank row: 6 small cylindrical tanks, different heights -->
+  <rect x="42" y="135" width="22" height="18" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="53" cy="135" rx="11" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="70" y="133" width="22" height="20" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="81" cy="133" rx="11" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="98" y="135" width="22" height="18" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="109" cy="135" rx="11" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="126" y="133" width="22" height="20" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="137" cy="133" rx="11" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="154" y="135" width="22" height="18" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="165" cy="135" rx="11" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row of small dome hatches along deck centreline -->
+  <ellipse cx="50" cy="152" rx="5" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="75" cy="152" rx="5" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="100" cy="152" rx="5" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="125" cy="152" rx="5" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="150" cy="152" rx="5" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="175" cy="152" rx="5" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hazard diamond (HAZCHEM diamond) on hull side -->
+  <path d="M42 168 L50 160 L58 168 L50 176 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M42 168 L50 160 L46 164 Z" fill="#d01424" stroke="none"/>
+  <!-- Aft superstructure -->
+  <rect x="195" y="118" width="50" height="36" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="200" y="105" width="42" height="15" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bridge windows -->
+  <rect x="203" y="108" width="9" height="7" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="219" y="108" width="9" height="7" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="235" y="108" width="9" height="7" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Funnel -->
+  <rect x="214" y="86" width="15" height="20" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="211" y="83" width="21" height="5" rx="1" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mast -->
+  <line x1="238" y1="105" x2="238" y2="76" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="228" y1="80" x2="248" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

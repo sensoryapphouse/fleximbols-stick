@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<g transform="rotate(-40 256 256)">
+<!-- stick -->
+<rect x="150" y="244" width="212" height="24" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="8"/>
+<!-- left cotton tip -->
+<ellipse cx="148" cy="256" rx="42" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- right cotton tip -->
+<ellipse cx="364" cy="256" rx="42" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+</g>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg575" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg575)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

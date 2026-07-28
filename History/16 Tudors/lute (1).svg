@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lute: rounded pear/teardrop body, decorative rosette soundhole, bent-back pegbox, many strings -->
+  <!-- Pear-shaped body -->
+  <ellipse cx="145" cy="158" rx="70" ry="72" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Body shading lines for roundness -->
+  <ellipse cx="145" cy="158" rx="55" ry="57" fill="#7d5e23" stroke="#1a1a1a" stroke-width="0.00"/>
+  <!-- Re-outline body on top -->
+  <ellipse cx="145" cy="158" rx="70" ry="72" fill="none" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Decorative rosette soundhole -->
+  <circle cx="145" cy="148" r="20" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="148" r="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="148" r="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rosette petal decorations -->
+  <line x1="145" y1="128" x2="145" y2="122" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="168" x2="145" y2="174" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="125" y1="148" x2="119" y2="148" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="165" y1="148" x2="171" y2="148" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Neck — straight part -->
+  <rect x="134" y="50" width="22" height="48" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Neck joins body at top -->
+  <!-- Frets (many) -->
+  <line x1="134" y1="60" x2="156" y2="60" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="134" y1="68" x2="156" y2="68" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="134" y1="76" x2="156" y2="76" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="134" y1="84" x2="156" y2="84" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="134" y1="92" x2="156" y2="92" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bent-back pegbox: angled sharply backward (to the right from neck top) -->
+  <!-- Pegbox at angle ~45 degrees back -->
+  <polygon points="134,50 156,50 165,20 143,20" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Tuning pegs on bent pegbox (many strings = many pegs, shown as circles on sides) -->
+  <circle cx="152" cy="25" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="158" cy="32" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="163" cy="39" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="143" cy="22" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="16" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="14" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Strings (6) from pegbox down to bridge on body -->
+  <line x1="136" y1="50" x2="133" y2="218" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="139" y1="50" x2="137" y2="218" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="142" y1="50" x2="141" y2="218" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="50" x2="145" y2="218" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="148" y1="50" x2="149" y2="218" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="151" y1="50" x2="153" y2="218" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bridge -->
+  <rect x="132" y="215" width="26" height="6" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+</g></svg>

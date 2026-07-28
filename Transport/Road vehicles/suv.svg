@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground line -->
+  <line x1="10" y1="200" x2="280" y2="200" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- TALL boxy SUV body, elevated ground clearance -->
+  <!-- main body (very tall, boxy) -->
+  <path d="M20 175 L20 95 Q20 80 35 80 L235 80 Q255 80 255 95 L270 175 Z" fill="#137827" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- raised ground clearance gap shown by lifting body above wheels -->
+  <!-- roof rails -->
+  <rect x="40" y="72" width="200" height="8" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- windshield (steep) -->
+  <path d="M40 100 L40 130 L100 130 L100 92 L52 92 Q40 92 40 100 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- rear window -->
+  <rect x="180" y="92" width="60" height="38" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- side windows -->
+  <rect x="108" y="92" width="32" height="38" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="148" y="92" width="24" height="38" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- tailgate seam (rear) -->
+  <line x1="240" y1="80" x2="240" y2="175" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="240" y1="135" x2="262" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- door handles -->
+  <rect x="115" y="145" width="18" height="4" fill="#000000"/>
+  <rect x="153" y="145" width="18" height="4" fill="#000000"/>
+  <!-- door seam -->
+  <line x1="144" y1="135" x2="144" y2="175" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- headlight -->
+  <rect x="22" y="138" width="14" height="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- taillight -->
+  <rect x="248" y="138" width="14" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- grille -->
+  <rect x="22" y="160" width="20" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- wheels (chunky, set low to show ground clearance) -->
+  <circle cx="65" cy="195" r="22" fill="#000000"/>
+  <circle cx="65" cy="195" r="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="65" cy="195" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="195" r="22" fill="#000000"/>
+  <circle cx="225" cy="195" r="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="195" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

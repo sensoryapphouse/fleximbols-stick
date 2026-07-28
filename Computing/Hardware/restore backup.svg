@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cloud upper-left (source of restore) -->
+  <path d="M30 70 Q30 50 50 48 Q54 32 74 32 Q92 30 98 50 Q118 50 118 70 Q118 86 102 88 L46 88 Q30 86 30 70 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- saved file icon inside cloud -->
+  <rect x="62" y="50" width="24" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M68 58 L80 58 M68 66 L80 66 M68 74 L78 74" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round" fill="none"/>
+  <!-- big downward arrow cloud-to-phone -->
+  <rect x="62" y="100" width="22" height="60" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M48 156 L98 156 L73 188 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- motion dashes around arrow -->
+  <path d="M40 116 L54 116" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M40 138 L54 138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M92 116 L106 116" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M92 138 L106 138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- phone body lower-right -->
+  <rect x="138" y="60" width="120" height="170" rx="16" ry="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="78" width="100" height="138" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="198" cy="222" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- circular restore-arrow icon on screen (counter-clockwise) -->
+  <circle cx="198" cy="138" r="28" fill="none" stroke="#529929" stroke-width="8.88"/>
+  <path d="M198 110 Q170 110 170 138" stroke="#dff3fd" stroke-width="11.85" fill="none"/>
+  <path d="M198 110 L186 102 M198 110 L186 120" stroke="#529929" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- progress bar at screen bottom -->
+  <rect x="158" y="184" width="80" height="14" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="158" y="184" width="44" height="14" rx="4" ry="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

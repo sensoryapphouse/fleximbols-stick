@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tray/punnet body -->
+  <path d="M55 175 Q50 220 60 225 Q145 232 230 225 Q240 220 235 175 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tray top rim -->
+  <rect x="50" y="168" width="190" height="14" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tray ridges -->
+  <line x1="90" y1="182" x2="86" y2="224" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="125" y1="182" x2="123" y2="226" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="160" y1="182" x2="162" y2="226" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="195" y1="182" x2="199" y2="224" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Soil surface in tray -->
+  <ellipse cx="145" cy="170" rx="90" ry="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Microgreen shoots - small sprouting seedlings -->
+  <!-- Shoot 1 -->
+  <path d="M80 170 Q76 148 78 130" stroke="#529929" stroke-width="5.55" stroke-linecap="round" fill="none"/>
+  <path d="M78 130 Q68 118 62 108" stroke="#529929" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M78 130 Q88 120 92 110" stroke="#529929" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Shoot 2 -->
+  <path d="M105 170 Q103 145 106 125" stroke="#137827" stroke-width="5.55" stroke-linecap="round" fill="none"/>
+  <path d="M106 125 Q96 112 92 100" stroke="#137827" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M106 125 Q116 113 118 102" stroke="#137827" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Shoot 3 -->
+  <path d="M130 170 Q128 142 132 118" stroke="#529929" stroke-width="5.55" stroke-linecap="round" fill="none"/>
+  <path d="M132 118 Q122 104 118 90" stroke="#529929" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M132 118 Q142 106 146 93" stroke="#529929" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Shoot 4 centre-tall -->
+  <path d="M155 170 Q155 138 158 110" stroke="#137827" stroke-width="5.55" stroke-linecap="round" fill="none"/>
+  <path d="M158 110 Q148 95 145 80" stroke="#137827" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M158 110 Q168 97 170 84" stroke="#137827" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Shoot 5 -->
+  <path d="M178 170 Q178 148 180 128" stroke="#529929" stroke-width="5.55" stroke-linecap="round" fill="none"/>
+  <path d="M180 128 Q170 114 168 102" stroke="#529929" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M180 128 Q190 116 194 104" stroke="#529929" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Shoot 6 -->
+  <path d="M205 170 Q206 150 207 132" stroke="#137827" stroke-width="5.55" stroke-linecap="round" fill="none"/>
+  <path d="M207 132 Q197 118 196 107" stroke="#137827" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <path d="M207 132 Q216 120 220 110" stroke="#137827" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- Tiny seed leaves (cotyledons) at tips -->
+  <ellipse cx="62" cy="106" rx="8" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-20 62 106)"/>
+  <ellipse cx="92" cy="108" rx="8" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(15 92 108)"/>
+  <ellipse cx="92" cy="98" rx="8" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-25 92 98)"/>
+  <ellipse cx="118" cy="100" rx="8" ry="5" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(20 118 100)"/>
+  <ellipse cx="118" cy="88" rx="8" ry="5" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-10 118 88)"/>
+  <ellipse cx="146" cy="91" rx="8" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-18 146 91)"/>
+  <ellipse cx="170" cy="82" rx="8" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(12 170 82)"/>
+  <ellipse cx="168" cy="100" rx="8" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-8 168 100)"/>
+  <ellipse cx="194" cy="102" rx="8" ry="5" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(22 194 102)"/>
+  <ellipse cx="196" cy="105" rx="8" ry="5" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-15 196 105)"/>
+  <ellipse cx="220" cy="108" rx="8" ry="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(18 220 108)"/>
+</g></svg>

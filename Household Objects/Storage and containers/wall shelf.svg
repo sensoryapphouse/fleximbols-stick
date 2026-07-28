@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wall-shelf: ONE shelf board with visible L-brackets mounted on wall, a few items -->
+
+  <!-- Wall surface -->
+  <rect x="22" y="22" width="246" height="196" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+
+  <!-- L-bracket left -->
+  <rect x="58" y="108" width="10" height="44" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="58" y="108" width="32" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- L-bracket right -->
+  <rect x="222" y="108" width="10" height="44" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="200" y="108" width="32" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Shelf board -->
+  <rect x="50" y="96" width="190" height="16" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+
+  <!-- Items on shelf: small plant pot -->
+  <rect x="80" y="72" width="22" height="24" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="84" y="82" width="14" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Book upright -->
+  <rect x="122" y="62" width="12" height="34" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="136" y="66" width="10" height="30" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="148" y="64" width="12" height="32" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Small vase -->
+  <ellipse cx="198" cy="86" rx="12" ry="6" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="190" y="74" width="16" height="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="198" cy="74" rx="10" ry="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Wall mount screws (dots) -->
+  <circle cx="72" cy="104" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="228" cy="104" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

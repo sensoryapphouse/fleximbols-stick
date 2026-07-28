@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Shaker bottle body -->
+  <path d="M108 90 Q104 95 102 110 L98 205 Q98 215 108 218 L182 218 Q192 215 192 205 L188 110 Q186 95 182 90 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Liquid fill -->
+  <path d="M100 155 L100 205 Q100 215 108 218 L182 218 Q192 215 192 205 L190 155 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottle shoulder / neck -->
+  <path d="M118 90 L118 60 Q118 52 128 52 L162 52 Q172 52 172 60 L172 90 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lid -->
+  <rect x="122" y="36" width="46" height="20" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Scoop -->
+  <path d="M55 105 Q50 118 62 122 L95 115 Q102 108 96 100 Q90 92 80 95 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Scoop handle -->
+  <line x1="55" y1="105" x2="30" y2="82" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Powder in scoop -->
+  <ellipse cx="78" cy="108" rx="16" ry="7" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Label on bottle -->
+  <rect x="108" y="130" width="74" height="40" rx="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

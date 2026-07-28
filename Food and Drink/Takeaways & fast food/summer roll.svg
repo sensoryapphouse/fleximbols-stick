@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Two halves of a summer roll cut diagonally -->
+  <!-- Left half (back piece, slightly offset) -->
+  <path d="M 48,90 Q 48,65 82,62 Q 116,65 116,90 L 116,172 Q 116,195 82,198 Q 48,195 48,172 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left half diagonal cut face -->
+  <path d="M 48,90 L 116,172" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Filling visible in left half cut face -->
+  <path d="M 54,105 L 110,162" stroke="#f4a4b2" stroke-width="6.66" stroke-linecap="round"/>
+  <path d="M 62,95 L 108,152" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 72,88 L 112,142" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Wrapper texture lines left -->
+  <path d="M 50,115 Q 82,110 114,118" fill="none" stroke="#90a7d6" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 50,138 Q 82,133 114,141" fill="none" stroke="#90a7d6" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 50,160 Q 82,155 114,163" fill="none" stroke="#90a7d6" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Right half (front piece) -->
+  <path d="M 128,68 Q 128,44 164,42 Q 200,44 200,68 L 200,148 Q 200,172 164,175 Q 128,172 128,148 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right half diagonal cut face -->
+  <path d="M 128,68 L 200,148" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Filling visible in right half cut face -->
+  <path d="M 134,84 L 194,140" stroke="#f4a4b2" stroke-width="6.66" stroke-linecap="round"/>
+  <path d="M 142,74 L 196,130" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <path d="M 154,68 L 198,118" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Wrapper texture lines right -->
+  <path d="M 130,92 Q 164,86 198,94" fill="none" stroke="#90a7d6" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 130,115 Q 164,109 198,117" fill="none" stroke="#90a7d6" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 130,138 Q 164,132 198,140" fill="none" stroke="#90a7d6" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Shrimp visible at top end of right roll -->
+  <path d="M 148,44 Q 164,36 180,44 Q 172,54 164,52 Q 156,54 148,44 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dipping sauce small bowl -->
+  <path d="M 218,175 Q 216,160 228,157 Q 252,157 264,160 Q 276,163 274,175 Q 272,192 246,194 Q 220,192 218,175 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="246" cy="163" rx="24" ry="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","mc"],["h2","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.2836) translate(-262.50 -273.50)"><g>
+<!-- sneezer (left, smaller), head tilted back, tissue to nose, achoo spray -->
+<line x1="150" y1="320" x2="142" y2="430" stroke="#5a6377" stroke-width="14.0" stroke-linecap="round"/>
+<line x1="176" y1="320" x2="184" y2="430" stroke="#5a6377" stroke-width="14.0" stroke-linecap="round"/>
+<ellipse cx="142" cy="432" rx="11" ry="6" fill="#33373d"/>
+<ellipse cx="184" cy="432" rx="11" ry="6" fill="#33373d"/>
+<polygon points="134,236 192,236 190,322 136,322" fill="#7bb36e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="136" y1="240" x2="120" y2="300" stroke="#1a1a1a" stroke-width="12.0" stroke-linecap="round"/>
+<line x1="190" y1="240" x2="172" y2="206" stroke="#1a1a1a" stroke-width="12.0" stroke-linecap="round"/>
+<line x1="163" y1="236" x2="170" y2="208" stroke="#1a1a1a" stroke-width="12.0" stroke-linecap="round"/>
+<circle id="h1" data-fig="mc" class="skin" cx="158" cy="176" r="34" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 124.0 176.0 Q 124.0 134.0 158 134.0 Q 192.0 134.0 192.0 176.0 Q 158 152.0 124.0 176.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 146 170 q 5 -5 10 0" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M 160 167 q 5 -5 10 0" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
+<!-- tissue held to nose -->
+<path d="M 150 188 L 196 196 L 188 232 L 150 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="162" y1="204" x2="184" y2="208" stroke="#cdd3da" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="160" y1="214" x2="182" y2="218" stroke="#cdd3da" stroke-width="2.5" stroke-linecap="round"/>
+<!-- achoo spray lines -->
+<line x1="196" y1="200" x2="222" y2="186" stroke="#7ec8f0" stroke-width="5" stroke-linecap="round"/>
+<line x1="198" y1="210" x2="226" y2="210" stroke="#7ec8f0" stroke-width="5" stroke-linecap="round"/>
+<line x1="196" y1="220" x2="222" y2="234" stroke="#7ec8f0" stroke-width="5" stroke-linecap="round"/>
+<!-- blesser (right), facing sneezer, raised open hand toward them -->
+<line x1="338" y1="312" x2="330" y2="440" stroke="#39425c" stroke-width="15.0" stroke-linecap="round"/>
+<line x1="368" y1="312" x2="376" y2="440" stroke="#39425c" stroke-width="15.0" stroke-linecap="round"/>
+<ellipse cx="330" cy="442" rx="12" ry="7" fill="#33373d"/>
+<ellipse cx="376" cy="442" rx="12" ry="7" fill="#33373d"/>
+<polygon points="324,214 388,214 386,314 326,314" fill="#4a90d9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="386" y1="218" x2="404" y2="300" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<!-- raised open hand toward the sneezer -->
+<line x1="326" y1="218" x2="268" y2="238" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 268 226 q -22 4 -22 16 q 0 12 20 14 q 14 -14 2 -30 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="256" y1="238" x2="252" y2="226" stroke="#d9a07a" stroke-width="3" stroke-linecap="round"/>
+<line x1="262" y1="240" x2="260" y2="226" stroke="#d9a07a" stroke-width="3" stroke-linecap="round"/>
+<line x1="356" y1="214" x2="356" y2="184" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle id="h2" data-fig="ma" class="skin" cx="356" cy="148" r="38" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 318.0 148.0 Q 318.0 100.0 356 100.0 Q 394.0 100.0 394.0 148.0 Q 356 122.0 318.0 148.0 Z" fill="#3a2a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="344" cy="145" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="368" cy="145" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 343.0 161.0 Q 356 173.0 369.0 161.0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- blessing travelling toward sneezer: heart + sparkles -->
+<path d="M 250 150 C 230 132 246 116 250 131 C 254 116 270 132 250 150 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="290,110 295,123 308,124 298,133 301,146 290,138 279,146 282,133 272,124 285,123" fill="#f0c419" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="222,116 226,125 235,126 228,132 230,141 222,136 214,141 216,132 209,126 218,125" fill="#f0c419" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+</g></g></svg>

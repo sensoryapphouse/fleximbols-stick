@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Emerald gemstone, beryl crystal, hexagonal facet -->
+  <!-- Outer hexagon -->
+  <polygon points="145,30 230,80 230,180 145,230 60,180 60,80" fill="#137827" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Top table facet (flat top) -->
+  <polygon points="145,30 200,62 200,118 145,86 90,118 90,62" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Inner table polygon (the gem 'window') -->
+  <polygon points="145,52 184,76 184,108 145,86 106,108 106,76" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lower facets (left big) -->
+  <polygon points="60,80 90,118 90,180 60,180" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lower facets (right big) -->
+  <polygon points="230,80 200,118 200,180 230,180" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottom-left facet -->
+  <polygon points="60,180 90,180 145,230" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottom-right facet -->
+  <polygon points="230,180 200,180 145,230" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Centre culet line (vertical division below table) -->
+  <line x1="90" y1="118" x2="145" y2="230" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="200" y1="118" x2="145" y2="230" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="145" y1="86" x2="145" y2="230" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Highlight sparkle on table -->
+  <polygon points="125,68 132,62 138,70 130,76" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Smaller sparkle -->
+  <polygon points="160,76 164,72 168,78 164,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+</g></svg>

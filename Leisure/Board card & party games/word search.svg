@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- 6x6 letter grid. Cell size 26. Grid 156x156. Origin x=67, y=42. -->
+  <rect x="67" y="42" width="156" height="156" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="17.78" stroke-linejoin="round"/>
+  <!-- grid lines vertical -->
+  <path d="M93 42 L93 198" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M119 42 L119 198" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M145 42 L145 198" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M171 42 L171 198" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M197 42 L197 198" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- horizontal -->
+  <path d="M67 68 L223 68" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M67 94 L223 94" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M67 120 L223 120" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M67 146 L223 146" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M67 172 L223 172" stroke="#1a1a1a" stroke-width="6.67"/>
+
+  <!-- Diagonal circle (oval) around top-left -> down-right cells: (col1,row1) through (col4,row4) i.e. word "WORD" -->
+  <!-- Cell centres: (80,55), (106,81), (132,107), (158,133). Need rotated ellipse spanning these. -->
+  <!-- Centre between (80,55) and (158,133) = (119,94). Length = ~110. Use ellipse rotated 45deg -->
+  <ellipse cx="119" cy="94" rx="64" ry="18" fill="none" stroke="#d01424" stroke-width="15.56" stroke-linecap="round" transform="rotate(45 119 94)"/>
+
+  <!-- ===== Letters drawn as path shapes (filled rect segments inside each 26x26 cell) ===== -->
+  <!-- Each cell centre: cx,cy. Letter occupies ~14 wide, ~18 tall, with 3px segment thickness. -->
+
+  <!-- Row 1: W O R D L P  (diagonal spells WORD via cells (1,1)(2,2)(3,3)(4,4)) -->
+
+  <!-- (col1,row1) "W" centre (80,55) -->
+  <path d="M73 47 L76 47 L77.5 56 L79 49 L81 49 L82.5 56 L84 47 L87 47 L84.5 63 L81.5 63 L80 56 L78.5 63 L75.5 63 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col2,row1) "K" centre (106,55) -->
+  <path d="M100 47 L103 47 L103 53 L108 47 L112 47 L107 54 L112 63 L108 63 L103 56 L103 63 L100 63 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col3,row1) "B" centre (132,55) -->
+  <path d="M126 47 L135 47 L135 54 L132 54 L135 56 L135 63 L126 63 Z M129 50 L132 50 L132 53 L129 53 Z M129 56 L132 56 L132 60 L129 60 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col4,row1) "E" centre (158,55) -->
+  <path d="M152 47 L162 47 L162 50 L155 50 L155 53 L161 53 L161 56 L155 56 L155 60 L162 60 L162 63 L152 63 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col5,row1) "H" centre (184,55) -->
+  <path d="M178 47 L181 47 L181 53 L187 53 L187 47 L190 47 L190 63 L187 63 L187 56 L181 56 L181 63 L178 63 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col6,row1) "M" centre (210,55) -->
+  <path d="M204 47 L207 47 L210 53 L213 47 L216 47 L216 63 L213 63 L213 54 L211 58 L209 58 L207 54 L207 63 L204 63 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 2 -->
+  <!-- (col1,row2) "A" centre (80,81) -->
+  <path d="M74 89 L79 73 L81 73 L86 89 L83 89 L82 86 L78 86 L77 89 Z M78.7 83 L81.3 83 L80 79 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col2,row2) "O" centre (106,81) (part of WORD) -->
+  <path d="M100 73 L112 73 L112 89 L100 89 Z M103 76 L109 76 L109 86 L103 86 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col3,row2) "T" centre (132,81) -->
+  <path d="M126 73 L138 73 L138 76 L133.5 76 L133.5 89 L130.5 89 L130.5 76 L126 76 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col4,row2) "S" centre (158,81) -->
+  <path d="M152 73 L162 73 L162 76 L155 76 L155 79 L162 79 L162 89 L152 89 L152 86 L159 86 L159 82 L152 82 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col5,row2) "G" centre (184,81) -->
+  <path d="M178 73 L190 73 L190 76 L181 76 L181 86 L187 86 L187 82 L184 82 L184 79 L190 79 L190 89 L178 89 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col6,row2) "Y" centre (210,81) -->
+  <path d="M204 73 L207 73 L210 78 L213 73 L216 73 L211.5 80 L211.5 89 L208.5 89 L208.5 80 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 3 -->
+  <!-- (col1,row3) "N" centre (80,107) -->
+  <path d="M74 99 L77 99 L83 108 L83 99 L86 99 L86 115 L83 115 L77 106 L77 115 L74 115 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col2,row3) "P" centre (106,107) -->
+  <path d="M100 99 L109 99 L109 106 L103 106 L103 115 L100 115 Z M103 102 L106 102 L106 103.5 L103 103.5 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col3,row3) "R" centre (132,107) (part of WORD) -->
+  <path d="M126 99 L135 99 L135 106 L131 106 L135 115 L131.5 115 L128 108 L129 108 L129 115 L126 115 Z M129 102 L132 102 L132 103.5 L129 103.5 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col4,row3) "I" centre (158,107) -->
+  <path d="M152 99 L162 99 L162 102 L158.5 102 L158.5 112 L162 112 L162 115 L152 115 L152 112 L155.5 112 L155.5 102 L152 102 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col5,row3) "L" centre (184,107) -->
+  <path d="M178 99 L181 99 L181 112 L190 112 L190 115 L178 115 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col6,row3) "C" centre (210,107) -->
+  <path d="M204 99 L216 99 L216 102 L207 102 L207 112 L216 112 L216 115 L204 115 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 4 -->
+  <!-- (col1,row4) "F" centre (80,133) -->
+  <path d="M74 125 L86 125 L86 128 L77 128 L77 131 L84 131 L84 134 L77 134 L77 141 L74 141 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col2,row4) "Q" centre (106,133) -->
+  <path d="M100 125 L112 125 L112 138 L109 138 L111 141 L108 141 L106 138 L100 138 Z M103 128 L109 128 L109 135 L103 135 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col3,row4) "V" centre (132,133) -->
+  <path d="M126 125 L129 125 L132 137 L135 125 L138 125 L134 141 L130 141 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col4,row4) "D" centre (158,133) (part of WORD) -->
+  <path d="M152 125 L160 125 L162 127 L162 139 L160 141 L152 141 Z M155 128 L159 128 L159 138 L155 138 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col5,row4) "Z" centre (184,133) -->
+  <path d="M178 125 L190 125 L190 128 L181 138 L190 138 L190 141 L178 141 L178 138 L187 128 L178 128 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col6,row4) "X" centre (210,133) -->
+  <path d="M204 125 L207 125 L210 130 L213 125 L216 125 L211.5 133 L216 141 L213 141 L210 136 L207 141 L204 141 L208.5 133 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 5 -->
+  <!-- (col1,row5) "U" centre (80,159) -->
+  <path d="M74 151 L77 151 L77 164 L83 164 L83 151 L86 151 L86 167 L74 167 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col2,row5) "J" centre (106,159) -->
+  <path d="M100 151 L112 151 L112 165 L109 167 L102 167 L100 165 L100 162 L103 162 L103 164 L109 164 L109 154 L100 154 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col3,row5) "W" centre (132,159) -->
+  <path d="M125 151 L128 151 L129.5 160 L131 153 L133 153 L134.5 160 L136 151 L139 151 L136.5 167 L133.5 167 L132 160 L130.5 167 L127.5 167 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col4,row5) "M" centre (158,159) -->
+  <path d="M152 151 L155 151 L158 157 L161 151 L164 151 L164 167 L161 167 L161 158 L159 162 L157 162 L155 158 L155 167 L152 167 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col5,row5) "B" centre (184,159) -->
+  <path d="M178 151 L187 151 L187 158 L184 158 L187 160 L187 167 L178 167 Z M181 154 L184 154 L184 157 L181 157 Z M181 160 L184 160 L184 164 L181 164 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col6,row5) "T" centre (210,159) -->
+  <path d="M204 151 L216 151 L216 154 L211.5 154 L211.5 167 L208.5 167 L208.5 154 L204 154 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Row 6 -->
+  <!-- (col1,row6) "K" centre (80,185) -->
+  <path d="M74 177 L77 177 L77 183 L82 177 L86 177 L81 184 L86 193 L82 193 L77 186 L77 193 L74 193 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col2,row6) "C" centre (106,185) -->
+  <path d="M100 177 L112 177 L112 180 L103 180 L103 190 L112 190 L112 193 L100 193 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col3,row6) "H" centre (132,185) -->
+  <path d="M126 177 L129 177 L129 183 L135 183 L135 177 L138 177 L138 193 L135 193 L135 186 L129 186 L129 193 L126 193 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col4,row6) "A" centre (158,185) -->
+  <path d="M152 193 L157 177 L159 177 L164 193 L161 193 L160 190 L156 190 L155 193 Z M156.7 187 L159.3 187 L158 183 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col5,row6) "N" centre (184,185) -->
+  <path d="M178 177 L181 177 L187 186 L187 177 L190 177 L190 193 L187 193 L181 184 L181 193 L178 193 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- (col6,row6) "E" centre (210,185) -->
+  <path d="M204 177 L216 177 L216 180 L207 180 L207 183 L214 183 L214 186 L207 186 L207 190 L216 190 L216 193 L204 193 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

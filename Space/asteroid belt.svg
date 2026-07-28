@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- irregular ring of small grey rocks between two orbital lines (Mars-Jupiter) -->
+  <!-- space backdrop (not full canvas) -->
+  <circle cx="145" cy="120" r="112" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.78"/>
+
+  <!-- Sun at center -->
+  <circle cx="145" cy="120" r="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="120" r="10" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- inner orbital line (Mars) -->
+  <ellipse cx="145" cy="120" rx="55" ry="32" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- Mars -->
+  <circle cx="200" cy="120" r="6" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- outer orbital line (Jupiter) -->
+  <ellipse cx="145" cy="120" rx="100" ry="60" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- Jupiter -->
+  <circle cx="55" cy="115" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <path d="M 42 112 L 68 112 M 43 118 L 67 118" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+
+  <!-- asteroid belt (between the two ellipses) - irregular grey rocks -->
+  <g fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round">
+    <path d="M 70 85 L 78 80 L 84 86 L 80 92 Z"/>
+    <path d="M 95 65 L 103 62 L 108 70 L 100 73 Z"/>
+    <path d="M 125 55 L 134 53 L 138 60 L 130 64 Z"/>
+    <path d="M 158 53 L 168 55 L 168 63 L 158 62 Z"/>
+    <path d="M 188 60 L 196 58 L 200 66 L 192 70 Z"/>
+    <path d="M 215 75 L 224 76 L 224 84 L 215 84 Z"/>
+    <path d="M 230 100 L 240 100 L 240 108 L 230 108 Z"/>
+    <path d="M 230 140 L 240 138 L 240 148 L 230 148 Z"/>
+    <path d="M 215 165 L 224 163 L 224 172 L 215 172 Z"/>
+    <path d="M 188 180 L 198 178 L 200 187 L 190 188 Z"/>
+    <path d="M 155 188 L 165 185 L 167 193 L 156 195 Z"/>
+    <path d="M 120 185 L 130 183 L 132 192 L 122 193 Z"/>
+    <path d="M 90 175 L 100 172 L 102 180 L 92 183 Z"/>
+    <path d="M 65 155 L 75 153 L 76 162 L 66 163 Z"/>
+    <path d="M 55 130 L 65 128 L 66 137 L 56 138 Z"/>
+  </g>
+  <!-- smaller dots in belt -->
+  <g fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33">
+    <circle cx="85" cy="70" r="3"/>
+    <circle cx="115" cy="58" r="3"/>
+    <circle cx="148" cy="50" r="3"/>
+    <circle cx="180" cy="55" r="3"/>
+    <circle cx="205" cy="67" r="3"/>
+    <circle cx="225" cy="120" r="3"/>
+    <circle cx="205" cy="175" r="3"/>
+    <circle cx="170" cy="190" r="3"/>
+    <circle cx="135" cy="190" r="3"/>
+    <circle cx="105" cy="180" r="3"/>
+    <circle cx="78" cy="165" r="3"/>
+    <circle cx="62" cy="142" r="3"/>
+  </g>
+</g></svg>

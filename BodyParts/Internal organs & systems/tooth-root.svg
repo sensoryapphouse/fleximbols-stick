@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- tooth root: a whole tooth, the two roots (lower part) highlighted -->
+<!-- gum line indicator -->
+<path d="M 120 250 L 392 250" fill="none" stroke="#e85a8a" stroke-width="10" stroke-linecap="round" stroke-dasharray="2 26"/>
+<!-- crown (white enamel, above gum) -->
+<path d="M 176 250 Q 168 132 256 116 Q 344 132 336 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- enamel groove -->
+<path d="M 256 140 L 256 230 M 214 170 Q 256 196 298 170" fill="none" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+<!-- roots (highlighted gold, below gum) -->
+<path d="M 188 250 L 336 250 L 318 250 Q 312 372 286 404 Q 268 422 262 372 Q 256 340 250 372 Q 244 422 226 404 Q 200 372 194 250 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- root canals -->
+<path d="M 238 264 Q 232 350 248 392 M 274 264 Q 280 350 268 392" fill="none" stroke="#e08a3a" stroke-width="7" stroke-linecap="round"/>
+</svg>

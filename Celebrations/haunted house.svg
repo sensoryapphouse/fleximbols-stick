@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- house body -->
+<rect x="96" y="250" width="200" height="160" fill="#5a5a5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- roof -->
+<polygon points="80,254 196,170 312,254" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- chimney -->
+<rect x="118" y="186" width="30" height="50" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- windows -->
+<g fill="#f4c430" stroke="#1a1a1a" stroke-width="7">
+<rect x="126" y="290" width="40" height="40"/>
+<rect x="226" y="290" width="40" height="40"/>
+</g>
+<line x1="146" y1="290" x2="146" y2="330" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="126" y1="310" x2="166" y2="310" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="246" y1="290" x2="246" y2="330" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="226" y1="310" x2="266" y2="310" stroke="#1a1a1a" stroke-width="6"/>
+<!-- door -->
+<rect x="166" y="352" width="44" height="58" fill="#4a3420" stroke="#1a1a1a" stroke-width="7"/>
+<!-- ghost -->
+<path d="M 330 168 C 296 168 282 200 282 240 L 282 318 L 300 300 L 318 320 L 336 300 L 354 320 L 372 300 L 384 318 L 384 240 C 384 200 364 168 330 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="316" cy="222" r="8" fill="#1a1a1a"/>
+<circle cx="350" cy="222" r="8" fill="#1a1a1a"/>
+<ellipse cx="333" cy="256" rx="9" ry="13" fill="#1a1a1a"/>
+</svg>

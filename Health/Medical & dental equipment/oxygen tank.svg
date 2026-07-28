@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="91.23 79.28 356.85 356.85"><g>
+<!-- oxygen tank: cylinder with domed top shoulder, valve + handwheel -->
+
+<!-- cylinder body with a DOMED top shoulder (path, not a plain rect) -->
+<path d="M 196 236
+         Q 196 176 256 168
+         Q 316 176 316 236
+         L 316 356
+         Q 316 410 256 410
+         Q 196 410 196 356
+         Z"
+      fill="#4a8cc8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+
+<!-- white label band with medical cross (no text) -->
+<rect x="196" y="270" width="120" height="92" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<!-- medical cross on label -->
+<rect x="244" y="290" width="24" height="56" rx="4" fill="#e0473c"/>
+<rect x="228" y="306" width="56" height="24" rx="4" fill="#e0473c"/>
+
+<!-- neck (sits on the domed shoulder) -->
+<rect x="238" y="132" width="36" height="46" rx="4" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- valve / regulator -->
+<rect x="216" y="104" width="80" height="40" rx="8" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- handwheel -->
+<circle cx="320" cy="124" r="22" fill="#39414b" stroke="#1a1a1a" stroke-width="9"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Main body torso — no sleeves -->
+  <path d="M88,95 L88,215 Q145,222 202,215 L202,95 Q175,88 145,85 Q115,88 88,95 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Armhole cutouts left -->
+  <path d="M88,95 Q68,100 55,118 Q50,132 60,142 Q72,148 88,140" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Armhole cutouts right -->
+  <path d="M202,95 Q222,100 235,118 Q240,132 230,142 Q218,148 202,140" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Stand collar -->
+  <path d="M115,95 Q145,80 175,95 L170,108 Q145,93 120,108 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fuzzy texture lines on body -->
+  <path d="M92,118 Q105,113 118,118 Q131,123 144,118 Q157,113 170,118 Q183,123 196,118" fill="none" stroke="#d01424" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M92,136 Q105,131 118,136 Q131,141 144,136 Q157,131 170,136 Q183,141 196,136" fill="none" stroke="#d01424" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M92,154 Q105,149 118,154 Q131,159 144,154 Q157,149 170,154 Q183,159 196,154" fill="none" stroke="#d01424" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M92,172 Q105,167 118,172 Q131,177 144,172 Q157,167 170,172 Q183,177 196,172" fill="none" stroke="#d01424" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M92,190 Q105,185 118,190 Q131,195 144,190 Q157,185 170,190 Q183,195 196,190" fill="none" stroke="#d01424" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Central zip -->
+  <line x1="145" y1="95" x2="145" y2="215" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
+  <rect x="140" y="110" width="10" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="145" y1="118" x2="145" y2="210" stroke="#7f7f7f" stroke-width="2.54" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <!-- Pockets -->
+  <rect x="96" y="162" width="40" height="32" rx="5" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="154" y="162" width="40" height="32" rx="5" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

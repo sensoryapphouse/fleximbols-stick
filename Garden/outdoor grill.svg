@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Outdoor BBQ grill: lid open showing grates and flames on legs -->
+  <!-- Legs -->
+  <line x1="108" y1="185" x2="88" y2="232" stroke="#4d4d4d" stroke-width="11.85" stroke-linecap="round"/>
+  <line x1="182" y1="185" x2="202" y2="232" stroke="#4d4d4d" stroke-width="11.85" stroke-linecap="round"/>
+  <!-- Leg crossbar -->
+  <line x1="96" y1="215" x2="194" y2="215" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Side shelf -->
+  <rect x="192" y="168" width="38" height="10" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="202" y1="178" x2="202" y2="188" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="220" y1="178" x2="220" y2="188" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Grill body (bowl) -->
+  <path d="M90,148 Q88,190 145,192 Q202,190 200,148 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Body highlight -->
+  <path d="M97,148 Q95,182 145,184 Q195,182 193,148 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Charcoal/ash at bottom of bowl -->
+  <ellipse cx="145" cy="185" rx="50" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Grill grates in body -->
+  <line x1="100" y1="162" x2="190" y2="162" stroke="#4d4d4d" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="98" y1="172" x2="192" y2="172" stroke="#4d4d4d" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="100" y1="182" x2="190" y2="182" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="115" y1="155" x2="115" y2="188" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="130" y1="152" x2="130" y2="188" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="150" x2="145" y2="190" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="152" x2="160" y2="188" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="175" y1="155" x2="175" y2="188" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Flames through grates -->
+  <path d="M118,155 Q111,140 118,124 Q122,114 116,104 Q126,114 124,128 Q130,113 129,100 Q137,113 136,128 Q141,110 141,96 Q148,112 147,128 Q153,113 156,100 Q155,116 161,128 Q160,114 170,104 Q164,114 167,124 Q174,140 167,155" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M123,155 Q117,142 122,130 Q126,119 124,110 Q131,120 130,132 Q135,118 135,106 Q141,119 141,132 Q145,118 149,106 Q149,120 154,132 Q153,119 161,110 Q158,119 162,130 Q166,142 161,155" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M129,155 Q125,144 129,134 Q133,124 131,116 Q137,124 136,134 Q140,122 142,116 Q145,124 144,134 Q148,122 151,116 Q153,124 151,134 Q154,144 150,155" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="148" rx="55" ry="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="148" rx="55" ry="12" fill="none" stroke="#4d4d4d" stroke-width="2.96"/>
+  <!-- Lid (open, tilted back) -->
+  <path d="M92,148 Q88,108 145,100 Q202,108 198,148" fill="#7f7f7f" stroke="#4d4d4d" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M95,148 Q93,112 145,105 Q197,112 195,148" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lid handle -->
+  <rect x="133" y="94" width="24" height="8" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Thermometer on lid -->
+  <circle cx="158" cy="118" r="5" fill="#efefef" stroke="#4d4d4d" stroke-width="2.96"/>
+  <line x1="158" y1="113" x2="158" y2="106" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Smoke from grill -->
+  <path d="M130,98 Q122,86 130,76" fill="none" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M158,95 Q166,83 158,73" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

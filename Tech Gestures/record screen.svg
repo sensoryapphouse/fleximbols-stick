@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- phone body -->
+  <rect x="55" y="20" width="180" height="200" rx="20" ry="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="67" y="38" width="156" height="164" rx="4" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="125" y="28" width="40" height="5" rx="2" ry="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="145" cy="211" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- status bar across top of screen -->
+  <rect x="67" y="38" width="156" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- recording dot in status bar -->
+  <circle cx="82" cy="49" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen content: play/film -->
+  <rect x="80" y="80" width="130" height="80" rx="6" ry="6" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M125 100 L160 120 L125 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- red REC dot circled (record badge), bottom of screen -->
+  <circle cx="100" cy="180" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="100" cy="180" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen-recording outline frame (dashed-ish via small rects) showing the screen itself is being captured -->
+  <rect x="45" y="10" width="200" height="220" rx="24" ry="24" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- corner brackets emphasising capture of whole screen -->
+  <path d="M40 30 L40 10 L60 10" fill="none" stroke="#d01424" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M230 10 L250 10 L250 30" fill="none" stroke="#d01424" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 210 L40 230 L60 230" fill="none" stroke="#d01424" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M230 230 L250 230 L250 210" fill="none" stroke="#d01424" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- big REC badge in corner -->
+  <circle cx="245" cy="195" r="22" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="245" cy="195" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

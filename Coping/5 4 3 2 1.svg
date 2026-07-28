@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Title row of numerals 5 4 3 2 1 (top half) -->
+  <!-- 5 -->
+  <path d="M30 35 L52 35 L52 45 L35 45 L35 60 L48 60 Q56 60 56 70 Q56 80 48 80 L32 80" fill="none" stroke="#d01424" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 4 -->
+  <path d="M80 35 L80 60 L102 60 M97 35 L97 80" fill="none" stroke="#ff9900" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 3 -->
+  <path d="M127 35 L150 35 Q156 35 156 45 Q156 55 148 55 L142 55 M148 55 Q156 55 156 67 Q156 80 148 80 L128 80" fill="none" stroke="#f2e40d" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 2 -->
+  <path d="M176 45 Q176 35 188 35 Q200 35 200 47 Q200 57 188 65 L176 80 L202 80" fill="none" stroke="#137827" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 1 -->
+  <path d="M232 45 L240 35 L240 80 M228 80 L252 80" fill="none" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Five sense icons across bottom -->
+  <!-- Sight: eye -->
+  <ellipse cx="40" cy="160" rx="18" ry="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="40" cy="160" r="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="40" cy="160" r="3" fill="#000000"/>
+  <path d="M22 160 Q40 145 58 160" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Touch: hand -->
+  <path d="M86 145 L86 175 Q86 188 100 188 L110 188 Q120 188 120 178 L120 162 Q120 158 116 158 Q112 158 112 162 L112 168 L108 168 L108 150 Q108 146 104 146 Q100 146 100 150 L100 168 L96 168 L96 145 Q96 141 92 141 Q88 141 88 145 L88 168 L84 168 L84 152 Q84 148 80 148 Q76 148 76 152 L76 175 Q76 188 86 188 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Sound: ear -->
+  <path d="M155 145 Q140 145 138 165 Q138 180 148 188 Q155 192 158 188 Q160 180 165 178 Q175 175 175 165 Q175 145 155 145 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M152 160 Q158 158 162 165 Q160 172 155 173" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Smell: nose -->
+  <path d="M203 142 L203 175 Q203 185 213 185 L218 185 Q224 185 222 178 Q220 175 218 175 Q214 175 214 168 L214 142 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <ellipse cx="212" cy="180" rx="3" ry="2" fill="#5e1f0a"/>
+  <!-- Wavy smell lines -->
+  <path d="M195 150 Q198 148 195 145 Q192 142 195 140" fill="none" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M188 158 Q191 156 188 153 Q185 150 188 148" fill="none" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Taste: tongue/mouth -->
+  <ellipse cx="252" cy="165" rx="22" ry="14" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M232 165 Q252 158 272 165" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="252" cy="175" rx="12" ry="8" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M252 170 L252 182" fill="none" stroke="#5e1f0a" stroke-width="3.56"/>
+  <!-- Small labels: tick marks above each sense to anchor count order -->
+  <circle cx="40" cy="115" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="100" cy="115" r="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="155" cy="115" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="212" cy="115" r="4" fill="#137827" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="252" cy="115" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

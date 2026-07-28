@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Soldering station: base unit + soldering iron in holder + sponge + temperature dial -->
+  <!-- Base unit body -->
+  <rect x="30" y="120" width="140" height="90" rx="8" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Temperature dial -->
+  <circle cx="90" cy="153" r="24" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Dial tick marks -->
+  <line x1="90" y1="133" x2="90" y2="139" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="110" y1="139" x2="106" y2="143" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="114" y1="158" x2="108" y2="158" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="70" y1="139" x2="74" y2="143" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="66" y1="158" x2="72" y2="158" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Dial needle -->
+  <line x1="90" y1="153" x2="103" y2="143" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="90" cy="153" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Power LED -->
+  <circle cx="55" cy="135" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Power button -->
+  <rect x="44" y="150" width="22" height="14" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Iron holder / stand (coil cradle) -->
+  <rect x="175" y="130" width="88" height="20" rx="6" ry="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Stand upright post -->
+  <rect x="205" y="85" width="12" height="50" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Coil holder circles -->
+  <ellipse cx="230" cy="138" rx="16" ry="6" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="230" cy="131" rx="16" ry="6" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Soldering iron body -->
+  <rect x="170" y="60" width="55" height="14" rx="5" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Iron grip -->
+  <rect x="195" y="62" width="28" height="10" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Iron tip -->
+  <polygon points="170,64 155,67 170,70" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Iron cord -->
+  <path d="M225,67 Q240,80 225,95 Q210,108 215,125" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Sponge on base top -->
+  <rect x="38" y="176" width="42" height="18" rx="4" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Sponge texture dots -->
+  <circle cx="48" cy="184" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="58" cy="181" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="68" cy="186" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Solder reel on base -->
+  <circle cx="130" cy="162" r="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="162" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Base feet -->
+  <rect x="35" y="205" width="25" height="8" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="205" width="25" height="8" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

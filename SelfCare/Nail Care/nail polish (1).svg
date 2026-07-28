@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Square/rectangular glass bottle body -->
+  <rect x="90" y="120" width="110" height="100" rx="6" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Glass highlight (left edge) -->
+  <rect x="96" y="128" width="14" height="84" rx="3" ry="3" fill="#d01424" stroke="none"/>
+  <!-- Glass shine window (right) -->
+  <rect x="170" y="130" width="20" height="60" rx="3" ry="3" fill="#f4a4b2" stroke="none"/>
+  <!-- Bottle shoulder/neck taper -->
+  <polygon points="90,120 200,120 188,96 102,96" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Neck rectangle -->
+  <rect x="118" y="68" width="54" height="32" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Brush handle cap (black, rectangular, tall) -->
+  <rect x="122" y="20" width="46" height="52" rx="6" ry="6" fill="#000000" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Cap shine -->
+  <line x1="130" y1="28" x2="130" y2="64" stroke="#4d4d4d" stroke-width="2.66" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground line -->
+  <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- Trunk: tall straight elm trunk -->
+  <path d="M136 210 L132 175 L133 145 L145 138 L157 145 L158 175 L154 210 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Arching limbs spreading outward (vase/fountain shape) -->
+  <path d="M145 140 Q100 130 55 95" fill="none" stroke="#7d5e23" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M145 140 Q190 130 235 95" fill="none" stroke="#7d5e23" stroke-width="4.94" stroke-linecap="round"/>
+  <path d="M145 140 Q125 115 90 75" fill="none" stroke="#7d5e23" stroke-width="3.95" stroke-linecap="round"/>
+  <path d="M145 140 Q165 115 200 75" fill="none" stroke="#7d5e23" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Vase-shaped canopy: wide top, narrower base -->
+  <!-- Outer canopy arc (fountain / vase shape) -->
+  <path d="M55 95 Q65 50 100 35 Q122 25 145 28 Q168 25 190 35 Q225 50 235 95 Q220 115 200 125 Q175 140 145 142 Q115 140 90 125 Q70 115 55 95 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Inner canopy highlight -->
+  <path d="M75 95 Q85 60 110 48 Q126 40 145 42 Q164 40 180 48 Q205 60 215 95 Q205 110 190 118 Q170 130 145 132 Q120 130 100 118 Q85 110 75 95 Z" fill="#67832d" stroke="none"/>
+  <!-- Top spreading canopy clusters -->
+  <ellipse cx="100" cy="50" rx="32" ry="22" fill="#529929" stroke="#1a1a1a" stroke-width="3.95"/>
+  <ellipse cx="190" cy="50" rx="32" ry="22" fill="#529929" stroke="#1a1a1a" stroke-width="3.95"/>
+  <ellipse cx="145" cy="35" rx="28" ry="18" fill="#529929" stroke="#1a1a1a" stroke-width="3.95"/>
+</g></svg>

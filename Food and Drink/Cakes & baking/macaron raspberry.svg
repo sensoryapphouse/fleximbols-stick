@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- raspberry macaron: pink-red colour + raspberry garnish -->
+  <!-- bottom dome -->
+  <path d="M 62,152 Q 60,132 75,122 Q 100,109 145,109 Q 190,109 215,122 Q 230,132 228,152 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- foot ridge bottom -->
+  <path d="M 62,152 Q 62,162 75,165 L 215,165 Q 228,162 228,152" fill="#d01424" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cream filling layer -->
+  <path d="M 68,142 L 222,142 L 222,127 Q 222,122 215,119 Q 190,111 145,111 Q 100,111 75,119 Q 68,122 68,127 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top dome foot ridge -->
+  <path d="M 65,107 Q 65,117 78,120 L 212,120 Q 225,117 225,107" fill="#d01424" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top dome -->
+  <path d="M 65,107 Q 63,87 78,72 Q 100,55 145,53 Q 190,55 212,72 Q 227,87 225,107 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- flat top highlight -->
+  <ellipse cx="145" cy="54" rx="60" ry="10" fill="#f266aa" stroke="none"/>
+  <!-- raspberry garnish - cluster of drupelets -->
+  <circle cx="230" cy="182" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <circle cx="244" cy="178" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <circle cx="237" cy="192" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- drupelet highlights -->
+  <circle cx="228" cy="180" r="3" fill="#f266aa" stroke="none"/>
+  <circle cx="242" cy="176" r="3" fill="#f266aa" stroke="none"/>
+  <circle cx="235" cy="190" r="3" fill="#f266aa" stroke="none"/>
+  <!-- small leaf -->
+  <path d="M 237,172 Q 240,164 248,162 Q 244,170 237,172 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

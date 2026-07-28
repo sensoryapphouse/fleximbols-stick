@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Minaret (tall tower with dome) on the left -->
+  <!-- Dome top -->
+  <path d="M 60 50 Q 60 30 75 30 Q 90 30 90 50 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Crescent finial -->
+  <path d="M 75 22 A 5 5 0 1 0 75 32 A 3 3 0 1 1 75 22 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Minaret balcony -->
+  <rect x="55" y="50" width="40" height="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Tower body -->
+  <rect x="63" y="58" width="24" height="130" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Arched window -->
+  <path d="M 69 90 L 69 110 Q 69 100 75 100 Q 81 100 81 110 L 81 90 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Base -->
+  <rect x="55" y="188" width="40" height="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Open Quran book center-right -->
+  <!-- Book base shadow -->
+  <path d="M 130 170 L 270 170 L 260 195 L 140 195 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Open pages -->
+  <path d="M 140 100 L 200 105 L 200 175 L 140 170 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M 200 105 L 260 100 L 260 170 L 200 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Spine -->
+  <line x1="200" y1="105" x2="200" y2="175" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Geometric pattern on pages (no Arabic text) -->
+  <path d="M 155 120 L 165 130 L 155 140 L 145 130 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="148" y1="150" x2="190" y2="150" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="148" y1="158" x2="190" y2="158" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 225 120 L 235 130 L 225 140 L 215 130 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="210" y1="150" x2="252" y2="150" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="210" y1="158" x2="252" y2="158" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Candle on the right -->
+  <rect x="245" y="50" width="12" height="50" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- Wick -->
+  <line x1="251" y1="50" x2="251" y2="42" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Flame -->
+  <path d="M 251 42 Q 245 35 251 25 Q 257 35 251 42 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Flower bottom -->
+  <circle cx="125" cy="215" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="115" cy="220" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="220" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="215" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

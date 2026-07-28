@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- steps dimmed -->
+<path d="M 110 412 L 110 360 L 174 360 L 174 308 L 238 308 L 238 256 L 302 256 L 302 204 L 402 204 L 402 412 Z"
+fill="#e9e2d2" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- balusters (connect each step to the handrail above) -->
+<line x1="142" y1="360" x2="142" y2="274" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="206" y1="308" x2="206" y2="231" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="270" y1="256" x2="270" y2="188" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="334" y1="204" x2="334" y2="145" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- handrail (highlighted), resting on top of the balusters -->
+<line x1="118" y1="290" x2="392" y2="106" stroke="#8a5a2b" stroke-width="18" stroke-linecap="round"/>
+<!-- newel posts -->
+<rect x="108" y="284" width="22" height="128" rx="4" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="380" y="100" width="22" height="116" rx="4" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

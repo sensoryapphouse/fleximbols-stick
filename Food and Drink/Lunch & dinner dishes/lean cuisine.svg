@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- frozen meal box / tray -->
+  <rect x="35" y="40" width="220" height="160" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- box top label band -->
+  <rect x="35" y="40" width="220" height="36" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- inner tray -->
+  <path d="M55 90 L235 90 L225 188 L65 188 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- divider -->
+  <line x1="145" y1="92" x2="145" y2="186" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- food blobs left: chicken/rice -->
+  <rect x="65" y="100" width="74" height="82" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="92" cy="130" rx="14" ry="10" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="118" cy="145" rx="12" ry="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="95" cy="165" rx="11" ry="8" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- food blobs right: vegetables -->
+  <rect x="151" y="100" width="74" height="82" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="120" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="130" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="150" r="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="205" cy="160" r="7" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="170" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- low-cal indicator: leaf -->
+  <path d="M60 58 Q70 48 82 52 Q80 65 68 68 Q60 66 60 58 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- calorie badge "low" -->
+  <circle cx="105" cy="58" r="14" fill="#fff200" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M99 52 L99 64 L111 64" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- green check badge -->
+  <circle cx="235" cy="58" r="16" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M227 58 L233 65 L244 50" fill="none" stroke="#ffffff" stroke-width="10.00" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

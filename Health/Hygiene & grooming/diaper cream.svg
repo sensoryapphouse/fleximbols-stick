@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- twist cap -->
+  <rect x="120" y="20" width="50" height="35" rx="4" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- cap ribs -->
+  <path d="M125 28 L165 28 M125 36 L165 36 M125 44 L165 44" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- neck -->
+  <rect x="125" y="55" width="40" height="15" fill="#efefef" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- tube body, rounded bottom -->
+  <path d="M85 75 Q85 70 90 70 L200 70 Q205 70 205 75 L205 195 Q205 210 200 215 L90 215 Q85 210 85 195 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- crimped bottom seam -->
+  <path d="M85 215 L205 215" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M95 220 L100 215 M110 220 L115 215 M125 220 L130 215 M140 220 L145 215 M155 220 L160 215 M170 220 L175 215 M185 220 L190 215" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- label -->
+  <rect x="95" y="90" width="100" height="115" rx="4" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- baby silhouette: head -->
+  <circle cx="145" cy="125" r="20" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- baby body -->
+  <path d="M122 145 Q122 165 145 168 Q168 165 168 145 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- diaper -->
+  <path d="M125 162 L165 162 L160 180 L130 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- face -->
+  <circle cx="138" cy="123" r="2" fill="#000000"/>
+  <circle cx="152" cy="123" r="2" fill="#000000"/>
+  <path d="M140 132 Q145 136 150 132" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- little curl of hair -->
+  <path d="M140 108 Q145 102 150 108" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- label band -->
+  <rect x="95" y="188" width="100" height="14" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+</g></svg>

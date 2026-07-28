@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- softener jug body (wide, with handle on top) -->
+  <path d="M75 80 Q75 70 85 70 L205 70 Q215 70 215 80 L222 205 Q222 218 209 218 L81 218 Q68 218 68 205 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- top neck -->
+  <path d="M120 50 Q120 45 125 45 L165 45 Q170 45 170 50 L170 70 L120 70 Z" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- cap -->
+  <rect x="115" y="32" width="60" height="16" rx="3" ry="3" fill="#392170" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- side handle (integrated, on right) -->
+  <path d="M215 100 Q240 100 240 130 Q240 160 215 160" fill="none" stroke="#7c3fac" stroke-width="15.55" stroke-linecap="round"/>
+  <path d="M215 100 Q240 100 240 130 Q240 160 215 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="82" y="100" width="120" height="100" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M100 140 Q92 140 92 148 Q84 148 84 156 Q84 165 95 165 L172 165 Q184 165 184 156 Q184 148 174 148 Q172 138 162 138 Q156 130 144 132 Q132 124 120 132 Q108 130 100 140 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- soft fabric wave + cloud (replaces SOFTENER text) -->
+  <path d="M72 165 Q84 155 96 165 Q108 155 120 165 Q132 155 144 165 Q156 155 168 165" fill="none" stroke="#dff3fd" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cloud shape -->
+  <path d="M72 148 Q76 138 86 142 Q88 134 98 136 Q108 130 116 138 Q124 134 124 144 Q124 148 118 148 L72 148 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.78" stroke-linejoin="round"/>
+</g></svg>

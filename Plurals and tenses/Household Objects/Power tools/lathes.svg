@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lathe bed (base) -->
+  <rect x="25" y="165" width="240" height="28" rx="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Headstock (left motor housing) -->
+  <rect x="25" y="110" width="60" height="58" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Headstock spindle face -->
+  <circle cx="55" cy="135" r="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Chuck jaws (3-jaw) -->
+  <line x1="55" y1="117" x2="55" y2="153" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <line x1="39" y1="144" x2="71" y2="126" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <line x1="39" y1="126" x2="71" y2="144" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Workpiece (cylinder between centres) -->
+  <rect x="73" y="127" width="140" height="16" rx="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Tailstock (right) -->
+  <rect x="210" y="118" width="50" height="48" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Tailstock centre point -->
+  <polygon points="210,127 210,157 200,142" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Tool rest post -->
+  <rect x="128" y="155" width="14" height="22" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Tool rest bar -->
+  <rect x="95" y="148" width="80" height="10" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Cutting tool on rest -->
+  <polygon points="95,148 80,143 82,138 98,143" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <!-- Motor pulley on headstock top -->
+  <ellipse cx="55" cy="112" rx="14" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Speed dial -->
+  <circle cx="38" cy="125" r="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2110" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2110)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Two deviled egg halves, white-side-down, yolk mixture piped on top -->
+  <!-- Left deviled egg half - flat bottom (white side down) -->
+  <!-- Egg white base oval, sitting flat -->
+  <ellipse cx="88" cy="175" rx="48" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Egg white side walls - convex top viewed from above (rounded boat shape) -->
+  <path d="M40,175 Q42,148 55,138 Q68,128 88,128 Q108,128 121,138 Q134,148 136,175" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Hollow cavity interior of left half -->
+  <ellipse cx="88" cy="162" rx="32" ry="22" fill="#ffffff"/>
+  <!-- Piped yolk filling - yellow mixture mounded up in hollow, piped star or swirl -->
+  <ellipse cx="88" cy="155" rx="28" ry="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.95"/>
+  <ellipse cx="88" cy="151" rx="24" ry="14" fill="#f2e40d"/>
+  <!-- Piped top swirl decoration -->
+  <path d="M70,152 Q76,142 88,140 Q100,142 106,152 Q100,158 88,159 Q76,158 70,152 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Paprika sprinkle dots on left half -->
+  <circle cx="82" cy="147" r="2.5" fill="#f8130d"/>
+  <circle cx="94" cy="148" r="2" fill="#f8130d"/>
+  <circle cx="88" cy="144" r="2" fill="#d01424"/>
+  <circle cx="78" cy="151" r="1.8" fill="#e65a00"/>
+  <!-- Right deviled egg half -->
+  <ellipse cx="202" cy="175" rx="48" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94"/>
+  <path d="M154,175 Q156,148 169,138 Q182,128 202,128 Q222,128 235,138 Q248,148 250,175" fill="#efefef" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Hollow cavity right -->
+  <ellipse cx="202" cy="162" rx="32" ry="22" fill="#ffffff"/>
+  <!-- Piped yolk filling right -->
+  <ellipse cx="202" cy="155" rx="28" ry="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.95"/>
+  <ellipse cx="202" cy="151" rx="24" ry="14" fill="#f2e40d"/>
+  <path d="M184,152 Q190,142 202,140 Q214,142 220,152 Q214,158 202,159 Q190,158 184,152 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Paprika sprinkle right half -->
+  <circle cx="196" cy="147" r="2.5" fill="#f8130d"/>
+  <circle cx="208" cy="148" r="2" fill="#f8130d"/>
+  <circle cx="202" cy="144" r="2" fill="#d01424"/>
+  <circle cx="192" cy="151" r="1.8" fill="#e65a00"/>
+</g></svg>

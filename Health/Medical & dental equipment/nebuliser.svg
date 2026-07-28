@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="94.06 100.03 323.88 323.88"><g>
+<!-- compressor box -->
+<rect x="120" y="250" width="180" height="150" rx="18" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- power button -->
+<circle cx="160" cy="290" r="14" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6"/>
+<!-- vent slots -->
+<line x1="150" y1="340" x2="270" y2="340" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="150" y1="362" x2="270" y2="362" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<!-- tube to medication chamber -->
+<path d="M 300 300 Q 350 300 360 250" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<!-- medication cup -->
+<path d="M 332 250 L 392 250 L 384 210 L 340 210 Z" fill="#dbeefb" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- medicine in cup -->
+<path d="M 340 250 L 384 250 L 380 230 L 344 230 Z" fill="#9fd0ef" stroke="#1a1a1a" stroke-width="0"/>
+<!-- mouthpiece on top -->
+<rect x="348" y="172" width="28" height="44" rx="6" fill="#dbeefb" stroke="#1a1a1a" stroke-width="9"/>
+<!-- mist puffs -->
+<circle cx="362" cy="150" r="9" fill="#cfe7f6" stroke="#9fd0ef" stroke-width="3"/>
+<circle cx="384" cy="132" r="7" fill="#cfe7f6" stroke="#9fd0ef" stroke-width="3"/>
+<circle cx="340" cy="128" r="6" fill="#cfe7f6" stroke="#9fd0ef" stroke-width="3"/>
+</g></svg>

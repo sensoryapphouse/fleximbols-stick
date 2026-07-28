@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Yearbook open hardcover book lying flat -->
+  <!-- Left cover -->
+  <rect x="20" y="60" width="118" height="155" rx="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Right cover -->
+  <rect x="152" y="60" width="118" height="155" rx="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Spine -->
+  <rect x="130" y="60" width="30" height="155" rx="3" fill="#392170" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Left page -->
+  <rect x="28" y="68" width="102" height="139" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Right page -->
+  <rect x="160" y="68" width="102" height="139" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+
+  <!-- Left page: photo grid (3x3 face squares) -->
+  <!-- Row 1 -->
+  <rect x="36" y="76" width="26" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="49" cy="83" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="69" y="76" width="26" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="83" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="102" y="76" width="22" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="113" cy="83" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 2 -->
+  <rect x="36" y="104" width="26" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="49" cy="111" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="69" y="104" width="26" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="111" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="102" y="104" width="22" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="113" cy="111" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 3 -->
+  <rect x="36" y="132" width="26" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="49" cy="139" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="69" y="132" width="26" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="139" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="102" y="132" width="22" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="113" cy="139" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row 4 partial -->
+  <rect x="36" y="160" width="26" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="49" cy="167" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="69" y="160" width="26" height="22" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="167" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Right page: graduation cap emblem -->
+  <!-- Gold banner strip -->
+  <rect x="162" y="68" width="98" height="18" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Mortarboard top board -->
+  <polygon points="211,100 175,116 211,132 247,116" fill="#1d0e82" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Cap body -->
+  <path d="M196,116 L196,140 Q196,148 211,148 Q226,148 226,140 L226,116" fill="#1d0e82" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tassel string -->
+  <line x1="247" y1="116" x2="247" y2="144" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <circle cx="247" cy="150" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Year lines on right page bottom -->
+  <line x1="168" y1="165" x2="254" y2="165" stroke="#b8b8b8" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="168" y1="178" x2="240" y2="178" stroke="#b8b8b8" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="168" y1="191" x2="248" y2="191" stroke="#b8b8b8" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

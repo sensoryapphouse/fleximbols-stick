@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <linearGradient id="cuboidFront" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#7aaae8"/>
+    <stop offset="100%" stop-color="#5a8ad6"/>
+  </linearGradient>
+  <linearGradient id="cuboidTop" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#d0e0f8"/>
+    <stop offset="100%" stop-color="#7aaae8"/>
+  </linearGradient>
+  <linearGradient id="cuboidRight" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#5a8ad6"/>
+    <stop offset="100%" stop-color="#2a4080"/>
+  </linearGradient>
+</defs>
+<polygon points="25,100 195,100 195,215 25,215" fill="url(#cuboidFront)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="25,100 70,55 240,55 195,100" fill="url(#cuboidTop)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="195,100 240,55 240,170 195,215" fill="url(#cuboidRight)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+</svg>

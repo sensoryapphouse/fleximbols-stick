@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Brief body -->
+  <path d="M88 68 Q88 52 145 48 Q202 52 202 68 L192 155 Q182 188 162 198 Q153 202 145 202 Q137 202 128 198 Q108 188 98 155 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Waistband -->
+  <rect x="84" y="48" width="122" height="24" rx="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Waistband inner line -->
+  <path d="M88 66 Q145 72 202 66" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Centre front seam -->
+  <path d="M145 72 L145 202" fill="none" stroke="#1d0e82" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Left leg opening curve -->
+  <path d="M88 68 Q78 110 98 155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Right leg opening curve -->
+  <path d="M202 68 Q212 110 192 155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Left leg hem -->
+  <path d="M98 155 Q108 185 128 198" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Right leg hem -->
+  <path d="M192 155 Q182 185 162 198" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hip panel detail left -->
+  <path d="M88 68 Q82 95 84 118" fill="none" stroke="#dff3fd" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Hip panel detail right -->
+  <path d="M202 68 Q208 95 206 118" fill="none" stroke="#dff3fd" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Logo block centre -->
+  <rect x="130" y="105" width="30" height="18" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+</g></svg>

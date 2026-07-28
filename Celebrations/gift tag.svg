@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- String going up to a loop -->
+  <path d="M 145 50 Q 120 35 105 22 Q 100 18 105 14 Q 110 12 118 20 Q 135 35 145 50" fill="none" stroke="#5e1f0a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tag body (rectangle with angled top) -->
+  <path d="M 145 50 L 240 95 L 240 200 Q 240 210 230 210 L 80 210 Q 70 210 70 200 L 70 95 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Reinforcement hole -->
+  <circle cx="145" cy="72" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="145" cy="72" r="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- FROM line -->
+  <line x1="90" y1="110" x2="160" y2="110" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="90" y1="135" x2="220" y2="135" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- TO line -->
+  <line x1="90" y1="160" x2="160" y2="160" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="90" y1="185" x2="220" y2="185" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- FROM label (paths) -->
+  <!-- F -->
+  <path d="M 90 100 L 105 100 L 105 103 L 95 103 L 95 105 L 103 105 L 103 107 L 95 107 L 95 110 L 90 110 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- R -->
+  <path d="M 108 100 L 122 100 L 125 103 L 125 105 L 122 107 L 126 110 L 121 110 L 117 107 L 113 107 L 113 110 L 108 110 Z M 113 103 L 113 105 L 121 105 L 121 103 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.22" fill-rule="evenodd"/>
+  <!-- O -->
+  <path d="M 128 100 L 142 100 L 142 110 L 128 110 Z M 131 103 L 131 107 L 139 107 L 139 103 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.22" fill-rule="evenodd"/>
+  <!-- M -->
+  <path d="M 145 100 L 150 100 L 153 104 L 156 100 L 161 100 L 161 110 L 157 110 L 157 106 L 155 109 L 152 109 L 150 106 L 150 110 L 145 110 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- TO label (paths) -->
+  <!-- T -->
+  <path d="M 90 150 L 105 150 L 105 153 L 100 153 L 100 160 L 95 160 L 95 153 L 90 153 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- O -->
+  <path d="M 108 150 L 122 150 L 122 160 L 108 160 Z M 111 153 L 111 157 L 119 157 L 119 153 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.22" fill-rule="evenodd"/>
+  <!-- Small heart decoration -->
+  <path d="M 200 60 Q 192 50 200 45 Q 208 45 208 52 Q 208 45 216 45 Q 224 50 216 60 L 208 72 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

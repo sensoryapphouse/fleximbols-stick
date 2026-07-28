@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Thermometer tube (left-centre) -->
+  <rect x="50" y="20" width="28" height="155" rx="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Low mercury fill (cold) -->
+  <rect x="58" y="140" width="12" height="43" rx="6" fill="#2a4ec0"/>
+  <!-- Thermometer bulb (cold, blue) -->
+  <circle cx="64" cy="193" r="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Thermometer tick marks -->
+  <line x1="78" y1="45" x2="90" y2="45" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="78" y1="70" x2="90" y2="70" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="78" y1="95" x2="90" y2="95" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="78" y1="120" x2="90" y2="120" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="78" y1="145" x2="90" y2="145" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Wind lines blowing past thermometer (right to left feel) -->
+  <path d="M 265 70 Q 200 60 105 75" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="108,69 105,75 112,77" fill="#90a7d6"/>
+  <path d="M 270 105 Q 195 98 105 108" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="108,102 105,108 112,110" fill="#90a7d6"/>
+  <path d="M 260 140 Q 195 133 105 143" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="108,137 105,143 112,145" fill="#90a7d6"/>
+  <!-- Snowflake (upper right) -->
+  <!-- Central cross -->
+  <line x1="200" y1="50" x2="200" y2="130" stroke="#2a4ec0" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="160" y1="90" x2="240" y2="90" stroke="#2a4ec0" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Diagonal arms -->
+  <line x1="172" y1="62" x2="228" y2="118" stroke="#2a4ec0" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="228" y1="62" x2="172" y2="118" stroke="#2a4ec0" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Arm tip crossbars -->
+  <line x1="192" y1="58" x2="208" y2="58" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="192" y1="122" x2="208" y2="122" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="82" x2="158" y2="98" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="242" y1="82" x2="242" y2="98" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Snowflake centre dot -->
+  <circle cx="200" cy="90" r="8" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+</g></svg>

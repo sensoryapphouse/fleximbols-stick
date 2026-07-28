@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- promote-post: post card + megaphone + coin (paid promotion) -->
+  <!-- post card -->
+  <rect x="28" y="80" width="160" height="130" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- card content lines -->
+  <rect x="44" y="100" width="128" height="10" rx="4" fill="#b8b8b8" stroke="none"/>
+  <rect x="44" y="118" width="100" height="10" rx="4" fill="#b8b8b8" stroke="none"/>
+  <rect x="44" y="136" width="114" height="10" rx="4" fill="#b8b8b8" stroke="none"/>
+  <!-- megaphone body (cone pointing right) -->
+  <polygon points="198,88 256,62 256,138 198,118" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- megaphone handle/base -->
+  <rect x="178" y="96" width="24" height="24" rx="4" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- megaphone bell end at right -->
+  <ellipse cx="256" cy="100" rx="10" ry="38" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sound waves from megaphone -->
+  <path d="M264,86 Q278,100 264,114" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- coin overlapping bottom right of megaphone -->
+  <circle cx="246" cy="176" r="30" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="246" cy="176" r="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.66"/>
+  <!-- coin dollar sign bar (no text — just a vertical bar + cross bar representing $) -->
+  <rect x="244" y="160" width="4" height="32" rx="2" fill="#000000" stroke="none"/>
+  <rect x="234" y="169" width="24" height="4" rx="2" fill="#000000" stroke="none"/>
+  <rect x="234" y="180" width="24" height="4" rx="2" fill="#000000" stroke="none"/>
+</g></svg>

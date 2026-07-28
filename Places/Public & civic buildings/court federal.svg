@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <rect x="0" y="215" width="290" height="25" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- courthouse left -->
+  <rect x="20" y="90" width="120" height="120" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- columns -->
+  <rect x="30" y="100" width="10" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="48" y="100" width="10" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="66" y="100" width="10" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="84" y="100" width="10" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="102" y="100" width="10" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="120" y="100" width="10" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pediment -->
+  <path d="M10 90 L80 50 L150 90 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- American flag on pole -->
+  <rect x="158" y="40" width="3" height="120" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="161" y="40" width="50" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- flag stripes red -->
+  <rect x="161" y="40" width="50" height="4" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="161" y="48" width="50" height="4" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="161" y="56" width="50" height="4" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="161" y="64" width="50" height="4" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- canton blue -->
+  <rect x="161" y="40" width="22" height="14" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- stars (small white dots) -->
+  <circle cx="166" cy="44" r="1" fill="#ffffff"/>
+  <circle cx="172" cy="44" r="1" fill="#ffffff"/>
+  <circle cx="178" cy="44" r="1" fill="#ffffff"/>
+  <circle cx="169" cy="48" r="1" fill="#ffffff"/>
+  <circle cx="175" cy="48" r="1" fill="#ffffff"/>
+  <circle cx="166" cy="51" r="1" fill="#ffffff"/>
+  <circle cx="172" cy="51" r="1" fill="#ffffff"/>
+  <circle cx="178" cy="51" r="1" fill="#ffffff"/>
+  <!-- judge FULL BODY right side -->
+  <!-- legs -->
+  <rect x="218" y="170" width="10" height="42" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="232" y="170" width="10" height="42" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="223" cy="214" rx="8" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="237" cy="214" rx="8" ry="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- judicial robe -->
+  <path d="M200 110 L260 110 L268 175 L192 175 Z" fill="#000000" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- white collar/bib -->
+  <path d="M222 110 L238 110 L242 130 L218 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M200 112 L182 160 L194 164 L210 122 Z" fill="#000000" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M260 112 L278 160 L266 164 L250 122 Z" fill="#000000" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="188" cy="162" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="272" cy="162" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- head -->
+  <circle cx="230" cy="95" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- white wig (simple) -->
+  <path d="M214 95 Q230 78 246 95 L246 90 Q230 75 214 90 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="225" cy="96" r="1.5" fill="#000000"/>
+  <circle cx="235" cy="96" r="1.5" fill="#000000"/>
+  <path d="M225 103 L235 103" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- gavel in foreground -->
+  <rect x="100" y="216" width="60" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 130 220)"/>
+  <rect x="148" y="210" width="24" height="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-10 160 221)"/>
+</g></svg>

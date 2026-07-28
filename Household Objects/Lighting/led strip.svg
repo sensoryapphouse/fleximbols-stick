@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- flexible curving strip body -->
+  <path d="M30 80 Q90 40 145 80 Q200 120 260 80 L260 110 Q200 150 145 110 Q90 70 30 110 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- mounting clip 1 -->
+  <rect x="40" y="74" width="14" height="44" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- mounting clip 2 -->
+  <rect x="138" y="80" width="14" height="30" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- mounting clip 3 -->
+  <rect x="236" y="74" width="14" height="44" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- LED dots along strip -->
+  <circle cx="48" cy="96" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="78" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="96" cy="68" r="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="74" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="92" r="6" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="108" r="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="194" cy="116" r="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="218" cy="108" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="244" cy="94" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- colourful glow halo below -->
+  <path d="M30 140 Q90 100 145 140 Q200 180 260 140" fill="none" stroke="#f266aa" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M30 160 Q90 120 145 160 Q200 200 260 160" fill="none" stroke="#7c3fac" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M30 180 Q90 140 145 180 Q200 220 260 180" fill="none" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+</g></svg>

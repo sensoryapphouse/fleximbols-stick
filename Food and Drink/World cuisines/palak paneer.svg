@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl exterior -->
+  <path d="M38 150 Q40 218 145 218 Q250 218 252 150 L235 125 Q145 112 55 125 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="125" rx="90" ry="24" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Deep green spinach gravy surface -->
+  <ellipse cx="145" cy="123" rx="85" ry="21" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Green interior fill -->
+  <path d="M62 123 Q62 200 145 200 Q228 200 228 123 Q145 103 62 123 Z" fill="#529929" stroke="none"/>
+  <!-- Darker green depth at edges -->
+  <path d="M65 155 Q67 198 145 198 Q223 198 225 155" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Lighter green swirl showing spinach texture -->
+  <path d="M90 150 Q108 136 130 140 Q145 143 160 138 Q178 132 195 145" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M80 162 Q100 152 120 156 Q140 159 160 153 Q178 148 200 158" fill="none" stroke="#67832d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Paneer cubes (white cheese squares) -->
+  <!-- Cube 1 -->
+  <rect x="82" y="140" width="26" height="24" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M82 151 L108 151" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- Cube 2 -->
+  <rect x="130" y="145" width="26" height="24" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M130 156 L156 156" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- Cube 3 -->
+  <rect x="175" y="141" width="24" height="22" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M175 151 L199 151" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- Cube 4 (partially behind) -->
+  <rect x="105" y="162" width="24" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M105 172 L129 172" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- Cube 5 -->
+  <rect x="158" y="165" width="24" height="20" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M158 174 L182 174" stroke="#b8b8b8" stroke-width="2.96"/>
+</g></svg>

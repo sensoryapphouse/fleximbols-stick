@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="176.76 110.20 211.39 211.39">
+<!-- baby / milk tooth: small rounded tooth, short single stub root -->
+<path d="M 196 200 Q 188 150 256 138 Q 324 150 316 200 Q 312 256 296 286 Q 286 304 280 280 Q 272 250 256 274 Q 240 250 232 280 Q 226 304 216 286 Q 200 256 196 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- enamel shine -->
+<path d="M 226 178 Q 244 168 262 176" fill="none" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+<!-- small label cue: baby = small, single soft sparkle -->
+<g stroke="#7ec8e3" stroke-width="8" stroke-linecap="round">
+<line x1="356" y1="170" x2="356" y2="200"/>
+<line x1="341" y1="185" x2="371" y2="185"/>
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- antenna -->
+  <rect x="138" y="10" width="10" height="35" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="143" cy="10" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- signal arcs from antenna -->
+  <path d="M 160 14 Q 175 22 170 38" fill="none" stroke="#d01424" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M 170 8 Q 192 20 188 42" fill="none" stroke="#d01424" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M 126 14 Q 111 22 116 38" fill="none" stroke="#d01424" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M 116 8 Q 94 20 98 42" fill="none" stroke="#d01424" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- device body -->
+  <rect x="65" y="45" width="160" height="180" rx="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.22"/>
+  <!-- inner bezel -->
+  <rect x="75" y="55" width="140" height="160" rx="10" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- screen -->
+  <rect x="85" y="65" width="120" height="90" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- map on screen: roads -->
+  <path d="M 88 95 Q 130 80 205 95" fill="none" stroke="#b8b8b8" stroke-width="7.11" stroke-linecap="round"/>
+  <path d="M 88 130 Q 140 118 205 132" fill="none" stroke="#b8b8b8" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- pin on screen -->
+  <path d="M 145 85 C 155 85 162 93 162 101 C 162 113 145 135 145 135 C 145 135 128 113 128 101 C 128 93 135 85 145 85 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="145" cy="101" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- buttons -->
+  <circle cx="100" cy="180" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="180" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="145" cy="180" r="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 140 180 L 144 184 L 150 176" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="190" cy="180" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="186" y1="180" x2="194" y2="180" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- d-pad below buttons -->
+  <rect x="125" y="198" width="40" height="14" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="205" r="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

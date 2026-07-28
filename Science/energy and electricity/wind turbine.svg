@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="42.67 39.25 426.67 426.67">
+<!-- wind turbine: tall tower, hub, three blades -->
+<!-- tower -->
+<polygon points="244 420 268 420 260 200 252 200" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- base -->
+<ellipse cx="256" cy="420" rx="56" ry="16" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="8"/>
+<!-- three blades from hub at (256,196) -->
+<path d="M 256 196 L 256 70 L 282 92 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 256 196 L 366 256 L 348 286 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 256 196 L 146 256 L 164 286 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- hub -->
+<circle cx="256" cy="196" r="20" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

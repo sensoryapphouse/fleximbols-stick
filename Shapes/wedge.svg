@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <linearGradient id="wedF" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#7aaae8"/>
+    <stop offset="100%" stop-color="#5a8ad6"/>
+  </linearGradient>
+  <linearGradient id="wedT" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#d0e0f8"/>
+    <stop offset="100%" stop-color="#7aaae8"/>
+  </linearGradient>
+</defs>
+<polygon points="30,215 30,40 250,215" fill="url(#wedF)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="30,40 80,15 250,190 250,215" fill="url(#wedT)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+</svg>

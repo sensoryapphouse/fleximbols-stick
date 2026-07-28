@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- circulatory system: heart + red & blue vessels through a faint body -->
+<path d="M 256 92 q 46 0 46 46 q 0 30 -22 42 q 40 8 52 56 l 24 110 q 6 28 -22 30 q -22 2 -28 -22 l -16 -64 l 0 130 q 0 8 6 30 l 22 76 q 8 26 -20 30 q -22 2 -28 -20 l -14 -64 l -14 64 q -6 22 -28 20 q -28 -4 -20 -30 l 22 -76 q 6 -22 6 -30 l 0 -130 l -16 64 q -6 24 -28 22 q -28 -2 -22 -30 l 24 -110 q 12 -48 52 -56 q -22 -12 -22 -42 q 0 -46 46 -46 Z" fill="#eef1f4" stroke="#cfd6dc" stroke-width="6" stroke-linejoin="round"/>
+<!-- vessel network following the body limbs: red arteries (left side) / blue veins (right side) -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<!-- arteries red: up to left arm, down to left leg -->
+<path d="M 240 214 Q 210 222 188 256 Q 168 282 196 372" stroke="#d63b46" stroke-width="11"/>
+<path d="M 246 280 Q 238 330 232 420" stroke="#d63b46" stroke-width="11"/>
+<!-- veins blue: up to right arm, down to right leg -->
+<path d="M 272 214 Q 302 222 324 256 Q 344 282 316 372" stroke="#3d7fb5" stroke-width="11"/>
+<path d="M 266 280 Q 274 330 280 420" stroke="#3d7fb5" stroke-width="11"/>
+</g>
+<!-- heart centre on the chest -->
+<path d="M 256 268 C 226 244 208 230 208 207 C 208 189 222 178 237 178 C 247 178 253 185 256 193 C 259 185 265 178 275 178 C 290 178 304 189 304 207 C 304 230 286 244 256 268 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- aorta arch on heart -->
+<path d="M 268 186 q 18 -16 10 -40" fill="none" stroke="#9c2b2b" stroke-width="7" stroke-linecap="round"/>
+<!-- vessel end nodes at hands & feet -->
+<g stroke="#1a1a1a" stroke-width="4">
+<circle cx="196" cy="372" r="7" fill="#d63b46"/><circle cx="316" cy="372" r="7" fill="#3d7fb5"/>
+<circle cx="232" cy="420" r="7" fill="#d63b46"/><circle cx="280" cy="420" r="7" fill="#3d7fb5"/>
+</g>
+</svg>

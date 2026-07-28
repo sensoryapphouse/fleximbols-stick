@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Gel pen: transparent barrel showing dark gel inside, thick smooth ink line -->
+  <!-- Pen body horizontal, tip at right -->
+
+  <!-- End cap / top (left end) -->
+  <rect x="22" y="100" width="20" height="34" rx="8" ry="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Barrel body: transparent (light fill shows gel ink inside) -->
+  <rect x="42" y="102" width="155" height="30" rx="5" ry="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Gel ink column visible inside barrel (dark blue gel) -->
+  <rect x="52" y="107" width="120" height="20" rx="4" fill="#1d0e82" stroke="none"/>
+  <!-- Ink shine/gloss on barrel -->
+  <rect x="55" y="108" width="100" height="7" rx="3" fill="#90a7d6" stroke="none"/>
+
+  <!-- Grip section (rubberised, near tip) -->
+  <rect x="197" y="104" width="36" height="26" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Grip dots -->
+  <circle cx="206" cy="117" r="2.5" fill="#4d4d4d"/>
+  <circle cx="215" cy="117" r="2.5" fill="#4d4d4d"/>
+  <circle cx="224" cy="117" r="2.5" fill="#4d4d4d"/>
+
+  <!-- Tip: narrow metal cone -->
+  <path d="M 233,107 L 256,117 L 233,127 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ball tip dot -->
+  <circle cx="256" cy="117" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.78"/>
+
+  <!-- Thick smooth gel ink line being drawn (rich, glossy, broad) -->
+  <path d="M 80,160 Q 130,152 190,158 Q 220,161 255,155" fill="none" stroke="#1d0e82" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Ink gloss highlight on the drawn line -->
+  <path d="M 90,157 Q 140,150 195,156" fill="none" stroke="#90a7d6" stroke-width="2.66" stroke-linecap="round"/>
+</g></svg>

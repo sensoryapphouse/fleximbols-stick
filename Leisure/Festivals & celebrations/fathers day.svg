@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="77.58 82.70 356.85 356.85">
+<!-- gift box wrapped with a necktie theme: present + tie emblem -->
+<!-- necktie -->
+<!-- knot -->
+<path d="M 226 110 L 286 110 L 300 150 L 256 176 L 212 150 Z" fill="#3f6fb0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tie blade -->
+<path d="M 224 168 L 288 168 L 304 360 L 256 412 L 208 360 Z" fill="#3f6fb0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- diagonal stripes -->
+<g stroke="#f6c500" stroke-width="12" stroke-linecap="round">
+<line x1="214" y1="230" x2="296" y2="210"/>
+<line x1="218" y1="290" x2="298" y2="270"/>
+<line x1="224" y1="350" x2="290" y2="332"/>
+</g>
+<!-- collar wings -->
+<path d="M 226 110 L 168 132 L 200 168" fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 286 110 L 344 132 L 312 168" fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

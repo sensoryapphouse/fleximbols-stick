@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cake slice body - dark brown chocolate layers -->
+  <path d="M 60,215 L 60,95 L 230,95 L 230,215 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Angled top of slice -->
+  <path d="M 60,95 L 145,55 L 230,95" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dark chocolate frosting layer 1 -->
+  <rect x="60" y="138" width="170" height="13" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dark chocolate frosting layer 2 -->
+  <rect x="60" y="177" width="170" height="13" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Top dark frosting on angled face -->
+  <path d="M 62,95 L 145,57 L 228,95 Q 208,86 188,93 Q 165,82 145,88 Q 125,82 102,93 Q 82,86 62,95 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left side dark frosting -->
+  <rect x="55" y="95" width="9" height="120" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right side dark frosting -->
+  <rect x="226" y="95" width="9" height="120" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottom base frosting -->
+  <rect x="55" y="210" width="180" height="14" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Chocolate drizzle running down front face -->
+  <path d="M 100,95 Q 98,108 102,118 Q 100,130 97,145" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M 145,93 Q 143,107 147,120 Q 144,135 140,152" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M 190,95 Q 192,110 188,122 Q 190,138 193,150" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
+  <!-- Drizzle on top surface -->
+  <path d="M 115,72 Q 120,65 130,68 Q 140,62 155,66 Q 165,60 175,64" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+</g></svg>

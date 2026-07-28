@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- open legal document (background) -->
+  <rect x="30" y="100" width="170" height="125" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- folded corner -->
+  <path d="M188,100 L200,100 L200,112 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- title bar -->
+  <rect x="45" y="115" width="140" height="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- text lines -->
+  <rect x="45" y="135" width="140" height="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="45" y="146" width="140" height="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="45" y="157" width="115" height="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="45" y="168" width="140" height="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- signature line -->
+  <line x1="45" y1="200" x2="155" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- signature -->
+  <path d="M50,196 Q60,188 70,198 Q85,205 100,192 Q115,188 130,200 Q140,205 150,198" fill="none" stroke="#1d0e82" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- block for gavel -->
+  <rect x="155" y="55" width="100" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="165" y="40" width="80" height="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="170" y1="49" x2="240" y2="49" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- gavel handle -->
+  <rect x="105" y="30" width="55" height="14" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-25 132 37)"/>
+  <!-- gavel head -->
+  <rect x="155" y="10" width="50" height="32" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-25 180 26)"/>
+  <!-- gavel head bands -->
+  <line x1="165" y1="9" x2="175" y2="40" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" transform="rotate(-25 180 26)"/>
+  <line x1="185" y1="3" x2="195" y2="34" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" transform="rotate(-25 180 26)"/>
+  <!-- impact stars -->
+  <path d="M210,60 L215,55 L220,60 M210,55 L220,65" stroke="#f2e40d" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="170" y1="58" x2="165" y2="50" stroke="#f2e40d" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="245" y1="58" x2="250" y2="50" stroke="#f2e40d" stroke-width="6.67" stroke-linecap="round"/>
+</g></svg>

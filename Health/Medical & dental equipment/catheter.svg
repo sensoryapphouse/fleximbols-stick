@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="79.05 80.76 360.73 360.73"><g>
+<!-- urinary catheter: long flexible tube with inflation balloon tip + funnel/drainage port -->
+<!-- main tube curving down -->
+<path d="M 150 130 Q 250 150 256 240 Q 262 340 330 380" fill="none" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 150 130 Q 250 150 256 240 Q 262 340 330 380" fill="none" stroke="#eef6fc" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- lumen line -->
+<path d="M 150 130 Q 250 150 256 240 Q 262 340 330 380" fill="none" stroke="#9fd0ef" stroke-width="4" stroke-linecap="round"/>
+<!-- rounded insertion tip (top-left) -->
+<circle cx="146" cy="128" r="20" fill="#eef6fc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- inflated retention balloon just below tip -->
+<ellipse cx="206" cy="160" rx="40" ry="30" fill="#9fd0ef" stroke="#1a1a1a" stroke-width="9"/>
+<!-- balloon highlight -->
+<path d="M 188 146 Q 206 138 224 148" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+<!-- drainage funnel / connector at bottom end -->
+<path d="M 322 372 L 380 350 L 392 392 L 338 414 Z" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g></svg>

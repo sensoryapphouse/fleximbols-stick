@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- full rings first -->
+<circle cx="146" cy="222" r="60" fill="none" stroke="#3d7fb5" stroke-width="16"/>
+<circle cx="366" cy="222" r="60" fill="none" stroke="#d63b46" stroke-width="16"/>
+<circle cx="201" cy="296" r="60" fill="none" stroke="#f4c430" stroke-width="16"/>
+<circle cx="311" cy="296" r="60" fill="none" stroke="#5aa83c" stroke-width="16"/>
+<circle cx="256" cy="222" r="60" fill="none" stroke="#1a1a1a" stroke-width="16"/>
+<!-- weave: redraw small lower-left/right arcs of the TOP rings so they pass over the bottom rings at the interlock -->
+<path d="M 256 162 A 60 60 0 0 0 201 236" fill="none" stroke="#1a1a1a" stroke-width="16"/>
+<path d="M 256 162 A 60 60 0 0 1 311 236" fill="none" stroke="#1a1a1a" stroke-width="16"/>
+<path d="M 146 162 A 60 60 0 0 1 201 236" fill="none" stroke="#3d7fb5" stroke-width="16"/>
+<path d="M 366 162 A 60 60 0 0 0 311 236" fill="none" stroke="#d63b46" stroke-width="16"/>
+</svg>

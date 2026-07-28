@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lower leg / shin (skin) -->
+  <path d="M 105,10 Q 98,12 96,24 L 92,80 Q 90,90 96,96 L 104,100" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 155,10 Q 162,12 164,24 L 168,80 Q 170,90 164,96 L 156,100" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 105,10 L 155,10" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
+  <!-- Ankle weight wrap body -->
+  <path d="M 88,96 Q 84,90 86,80 L 86,120 Q 86,136 100,140 L 160,140 Q 174,136 174,120 L 174,80 Q 176,90 172,96 L 172,130 Q 172,148 156,150 L 104,150 Q 88,148 88,130 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Velcro strap wrap -->
+  <path d="M 84,108 L 176,108 Q 182,108 182,116 L 182,124 Q 182,132 176,132 L 84,132 Q 78,132 78,124 L 78,116 Q 78,108 84,108 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Velcro texture marks on strap -->
+  <path d="M 88,114 L 88,126 M 96,114 L 96,126 M 104,114 L 104,126 M 112,114 L 112,126 M 120,114 L 120,126 M 128,114 L 128,126 M 136,114 L 136,126 M 144,114 L 144,126 M 152,114 L 152,126 M 160,114 L 160,126 M 168,114 L 168,126" fill="none" stroke="#f8130d" stroke-width="1.97" stroke-linecap="round"/>
+  <!-- Foot / shoe below ankle weight -->
+  <!-- Shoe body -->
+  <path d="M 92,150 Q 88,158 86,170 Q 84,188 96,192 L 178,192 Q 192,190 194,178 Q 196,162 188,152 L 172,150 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Shoe sole -->
+  <path d="M 86,182 Q 86,196 98,200 L 182,200 Q 196,196 194,182" fill="#000000" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Shoe toe cap highlight -->
+  <path d="M 170,158 Q 188,162 186,172" fill="none" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Shoelace line -->
+  <path d="M 100,162 L 148,162" fill="none" stroke="#efefef" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

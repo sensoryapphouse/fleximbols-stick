@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bell body -->
+  <path d="M145 48 Q115 52 108 85 Q102 112 98 132 L192 132 Q188 112 182 85 Q175 52 145 48 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bell dome top -->
+  <ellipse cx="145" cy="50" rx="18" ry="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Bell base / flare -->
+  <path d="M94 132 Q94 142 145 142 Q196 142 196 132 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Bell clapper -->
+  <circle cx="145" cy="148" r="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Sound arcs right -->
+  <path d="M200 100 Q214 110 200 120" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <path d="M208 90 Q228 110 208 130" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
+  <!-- Button base -->
+  <rect x="105" y="168" width="80" height="22" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Red button -->
+  <circle cx="145" cy="180" r="12" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Button highlight -->
+  <ellipse cx="140" cy="175" rx="5" ry="3" fill="#ffffff" stroke="none"/>
+</g></svg>

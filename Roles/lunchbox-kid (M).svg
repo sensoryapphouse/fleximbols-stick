@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","mc"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.3291) translate(-239.50 -321.00)">
+<g transform="translate(45.2,120.0) scale(0.690)"><defs>
+    <linearGradient id="gBox" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#f6892a"/><stop offset="100%" stop-color="#d96a12"/></linearGradient>
+    <linearGradient id="gLid" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#f8a84a"/><stop offset="100%" stop-color="#f6892a"/></linearGradient>
+  </defs>
+  <!-- Lunchbox body -->
+  <rect x="40" y="220" width="220" height="200" rx="18" fill="url(#gBox)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <!-- lid -->
+  <rect x="40" y="160" width="220" height="70" rx="18" fill="url(#gLid)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <!-- handle -->
+  <path d="M110 160 Q110 112 150 112 L150 112 Q190 112 190 160" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+  <!-- clasp -->
+  <rect x="118" y="222" width="64" height="22" rx="8" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="150" cy="233" r="7" fill="#f8c531" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- side latches -->
+  <circle cx="60" cy="224" r="7" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5"/>
+  <circle cx="240" cy="224" r="7" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5"/></g>
+<line x1="357" y1="345" x2="351" y2="455" stroke="#1a1a1a" stroke-width="12.36" stroke-linecap="round"/>
+<line x1="379" y1="345" x2="385" y2="455" stroke="#1a1a1a" stroke-width="12.36" stroke-linecap="round"/>
+<ellipse cx="351" cy="457" rx="9" ry="5" fill="#33373d"/>
+<ellipse cx="385" cy="457" rx="9" ry="5" fill="#33373d"/>
+<polygon points="345,269 391,269 390,347 346,347" fill="#3fb24a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="346,347 390,347 390,376 346,376" fill="#e0473c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="346" y1="271" x2="332" y2="347" stroke="#1a1a1a" stroke-width="9.36" stroke-linecap="round"/>
+<line x1="390" y1="271" x2="404" y2="347" stroke="#1a1a1a" stroke-width="9.36" stroke-linecap="round"/>
+<line x1="368" y1="269" x2="368" y2="246" stroke="#1a1a1a" stroke-width="9.36" stroke-linecap="round"/>
+<circle id="h1" data-fig="mc" cx="368" cy="221" r="29" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 339.2 221.0 Q 339.2 182.2 368 182.2 Q 396.8 182.2 396.8 221.0 Q 368 205.2 339.2 221.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="52.91 42.67 426.67 426.67"><!-- deafening: loudspeaker blasting many big sound waves -->
+<!-- speaker cabinet -->
+<rect x="84" y="120" width="180" height="272" rx="20" fill="#3a3f45" stroke="#1a1a1a" stroke-width="9"/>
+<!-- big woofer -->
+<circle cx="174" cy="296" r="62" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="174" cy="296" r="26" fill="#3a3f45" stroke="#1a1a1a" stroke-width="9"/>
+<!-- tweeter -->
+<circle cx="174" cy="170" r="30" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="174" cy="170" r="12" fill="#3a3f45" stroke="#1a1a1a" stroke-width="7"/>
+<!-- blasting sound waves -->
+<g fill="none" stroke="#2f9e4a" stroke-width="11" stroke-linecap="round">
+<path d="M 300 200 Q 348 256 300 312"/>
+<path d="M 348 168 Q 424 256 348 344"/>
+<path d="M 396 136 Q 500 256 396 376"/>
+</g>
+</svg>

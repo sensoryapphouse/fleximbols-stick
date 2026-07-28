@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- waist-bag: classic bum-bag/fanny pack — rounded pouch on buckled waist belt at hips -->
+  <!-- Belt going horizontally across (left side) -->
+  <rect x="30" y="108" width="60" height="16" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Belt going horizontally across (right side) -->
+  <rect x="200" y="108" width="60" height="16" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Buckle frame -->
+  <rect x="86" y="104" width="30" height="24" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Buckle pin/bar -->
+  <line x1="101" y1="104" x2="101" y2="128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Belt loop through buckle -->
+  <rect x="116" y="108" width="24" height="16" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pouch body: rounded rectangle centered, hanging slightly below belt -->
+  <rect x="140" y="100" width="90" height="75" rx="16" ry="16" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Zip along top of pouch -->
+  <path d="M152 108 L218 108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Zip pull -->
+  <rect x="178" y="103" width="10" height="10" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Front pocket -->
+  <rect x="153" y="122" width="64" height="40" rx="8" ry="8" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pocket zip line -->
+  <path d="M153 138 L217 138" fill="none" stroke="#b8b8b8" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Belt attachment loop top of pouch -->
+  <rect x="175" y="93" width="35" height="12" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

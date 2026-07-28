@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Water band -->
+  <rect x="0" y="178" width="290" height="62" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 188 Q30 181 50 188 Q70 195 90 188 Q110 181 130 188 Q150 195 170 188 Q190 181 210 188 Q230 195 250 188 Q270 181 285 188" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hull - clean white scientific vessel -->
+  <path d="M20 178 L38 158 L258 158 L270 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Blue waterline band -->
+  <path d="M20 178 L28 170 L262 170 L270 178" fill="#2a4ec0" stroke="none"/>
+  <!-- Deck -->
+  <rect x="38" y="152" width="220" height="8" rx="1" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Main superstructure - midship, white, clean -->
+  <rect x="85" y="112" width="100" height="42" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Upper bridge deck -->
+  <rect x="95" y="97" width="80" height="17" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bridge windows -->
+  <rect x="100" y="100" width="12" height="9" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="118" y="100" width="12" height="9" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="136" y="100" width="12" height="9" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="154" y="100" width="12" height="9" rx="1" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Main deck windows -->
+  <rect x="95" y="120" width="12" height="9" rx="1" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="114" y="120" width="12" height="9" rx="1" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="133" y="120" width="12" height="9" rx="1" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="152" y="120" width="12" height="9" rx="1" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Instrument mast - tall, central -->
+  <line x1="135" y1="97" x2="135" y2="62" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- Radar/instrument platform -->
+  <rect x="126" y="60" width="18" height="6" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Radar dome/scanner -->
+  <ellipse cx="135" cy="57" rx="8" ry="5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cross yardarm -->
+  <line x1="118" y1="72" x2="152" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- A-frame crane at STERN (right) - key feature -->
+  <line x1="250" y1="152" x2="265" y2="118" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <line x1="248" y1="152" x2="233" y2="118" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <line x1="233" y1="118" x2="265" y2="118" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Pulley at A-frame top -->
+  <circle cx="249" cy="118" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tow/sample wire hanging from A-frame -->
+  <line x1="249" y1="123" x2="258" y2="152" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Aft deck equipment / winch -->
+  <rect x="220" y="142" width="20" height="11" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Bow section - clean -->
+  <rect x="42" y="138" width="36" height="15" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Bow mast -->
+  <line x1="52" y1="138" x2="52" y2="108" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="44" y1="112" x2="60" y2="112" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

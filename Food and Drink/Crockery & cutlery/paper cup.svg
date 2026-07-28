@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Paper cup modern: party cup with handle, disposable, decorative pattern -->
+  <!-- Cup body (tapered) -->
+  <path d="M90,205 L100,80 L190,80 L200,205 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Top rim ellipse -->
+  <ellipse cx="145" cy="80" rx="45" ry="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Base ellipse -->
+  <ellipse cx="145" cy="205" rx="55" ry="9" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Decorative party pattern: dots -->
+  <circle cx="118" cy="115" r="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="130" r="6" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="172" cy="115" r="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Decorative pattern: zigzag band -->
+  <path d="M104,160 L115,150 L126,160 L137,150 L148,160 L159,150 L170,160 L181,150 L192,160" fill="none" stroke="#7c3fac" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Stars near bottom -->
+  <path d="M125,185 L128,178 L131,185 L138,185 L132,189 L134,196 L128,192 L122,196 L124,189 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M162,185 L165,178 L168,185 L175,185 L169,189 L171,196 L165,192 L159,196 L161,189 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- Handle on the side (modern looped) -->
+  <path d="M200,110 Q235,115 235,145 Q235,175 200,180" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200,118 Q227,122 227,145 Q227,168 200,172" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

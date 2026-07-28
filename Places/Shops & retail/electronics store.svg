@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky/wall background -->
+  <rect x="20" y="60" width="250" height="150" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Roof overhang -->
+  <rect x="10" y="52" width="270" height="20" rx="3" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Storefront window surround -->
+  <rect x="35" y="90" width="220" height="90" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Door -->
+  <rect x="120" y="150" width="50" height="30" rx="2" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Door handle -->
+  <rect x="156" y="163" width="10" height="4" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Ground line -->
+  <rect x="10" y="208" width="270" height="8" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- TV in window -->
+  <rect x="50" y="100" width="68" height="46" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="56" y="105" width="56" height="34" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- TV stand -->
+  <rect x="78" y="146" width="8" height="6" rx="1" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="70" y="152" width="24" height="4" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Phone in window -->
+  <rect x="132" y="102" width="30" height="50" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="136" y="108" width="22" height="34" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Home button -->
+  <circle cx="147" cy="147" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Headphones in window -->
+  <path d="M178 110 Q197 98 216 110" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Left ear cup -->
+  <rect x="173" y="108" width="12" height="18" rx="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right ear cup -->
+  <rect x="211" y="108" width="12" height="18" rx="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Store sign bar -->
+  <rect x="35" y="72" width="220" height="18" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Wifi/signal decorative dots -->
+  <circle cx="58" cy="81" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="72" cy="81" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="86" cy="81" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

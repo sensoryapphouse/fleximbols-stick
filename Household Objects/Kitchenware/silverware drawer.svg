@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- open drawer box, perspective -->
+  <polygon points="25,205 265,205 245,75 45,75" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- drawer interior -->
+  <polygon points="40,195 250,195 232,85 58,85" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- drawer front -->
+  <rect x="20" y="200" width="250" height="32" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="120" y="212" width="50" height="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- classic silverware tray with 4 slots -->
+  <polygon points="55,190 245,190 226,92 64,92" fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- slot dividers -->
+  <line x1="105" y1="92" x2="100" y2="190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="92" x2="145" y2="190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="190" y1="92" x2="195" y2="190" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- slot 1: forks -->
+  <g>
+    <rect x="72" y="108" width="5" height="55" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+    <path d="M67 95 L67 110 L72 110 L72 95 M77 95 L77 110 L82 110 L82 95 M72 95 L77 95" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <rect x="86" y="108" width="5" height="55" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+    <path d="M81 95 L81 110 L86 110 L86 95 M91 95 L91 110 L96 110 L96 95 M86 95 L91 95" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  </g>
+
+  <!-- slot 2: spoons -->
+  <g>
+    <ellipse cx="118" cy="105" rx="9" ry="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="115" y="115" width="6" height="50" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+    <ellipse cx="135" cy="105" rx="9" ry="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="132" y="115" width="6" height="50" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+
+  <!-- slot 3: knives -->
+  <g>
+    <path d="M158 95 L158 130 L168 130 L165 95 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <rect x="160" y="130" width="6" height="38" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+    <path d="M175 95 L175 130 L185 130 L182 95 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <rect x="177" y="130" width="6" height="38" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+
+  <!-- slot 4: teaspoons -->
+  <g>
+    <ellipse cx="210" cy="108" rx="7" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="207" y="115" width="5" height="48" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+    <ellipse cx="225" cy="108" rx="7" ry="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="222" y="115" width="5" height="48" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  </g>
+</g></svg>

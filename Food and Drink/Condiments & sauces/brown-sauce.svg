@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- brown sauce bottle -->
+<!-- cap -->
+<rect x="234" y="92" width="44" height="28" rx="5" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- long neck -->
+<path d="M 240 168 L 272 168 L 272 120 L 240 120 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- shoulders + tall body filled with brown sauce -->
+<path d="M 240 168 Q 200 178 200 226 L 200 386 Q 200 410 224 410 L 288 410 Q 312 410 312 386 L 312 226 Q 312 178 272 168 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pale label -->
+<rect x="210" y="250" width="92" height="124" rx="10" fill="#fbe7a8" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="226" y1="284" x2="286" y2="284" stroke="#8a5a2b" stroke-width="9" stroke-linecap="round"/>
+<line x1="226" y1="312" x2="286" y2="312" stroke="#c89a5b" stroke-width="8" stroke-linecap="round"/>
+<line x1="226" y1="338" x2="270" y2="338" stroke="#c89a5b" stroke-width="8" stroke-linecap="round"/>
+</svg>

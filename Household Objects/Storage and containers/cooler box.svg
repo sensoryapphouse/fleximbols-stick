@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <rect x="10" y="200" width="270" height="30" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- main cooler body -->
+  <rect x="40" y="90" width="210" height="115" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- lid -->
+  <rect x="35" y="70" width="220" height="28" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- lid opening (slight tilt — open) -->
+  <rect x="40" y="60" width="210" height="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- ice cubes peeking from open top -->
+  <rect x="55" y="48" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="82" y="42" width="20" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="106" y="50" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- drink bottle peeking out -->
+  <rect x="138" y="32" width="20" height="40" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="142" y="24" width="12" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- another ice cube -->
+  <rect x="165" y="48" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- second drink (can) -->
+  <rect x="194" y="38" width="18" height="34" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="194" y="38" width="18" height="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- ice cube -->
+  <rect x="218" y="50" width="20" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- handle on side -->
+  <path d="M 60 110 Q 60 100 70 100 L 110 100 Q 120 100 120 110" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- carry handle right -->
+  <path d="M 170 110 Q 170 100 180 100 L 220 100 Q 230 100 230 110" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- latch -->
+  <rect x="138" y="85" width="14" height="18" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- body ribs -->
+  <path d="M 40 130 L 250 130 M 40 165 L 250 165" stroke="#90a7d6" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- vintage AM radio cabinet -->
+  <rect x="35" y="55" width="220" height="150" rx="14" ry="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="35" y="55" width="220" height="22" rx="10" ry="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- carry handle -->
+  <path d="M110,55 C110,38 180,38 180,55" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- speaker grille -->
+  <rect x="50" y="92" width="105" height="98" rx="6" ry="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="60" y1="105" x2="145" y2="105" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="120" x2="145" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="135" x2="145" y2="135" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="150" x2="145" y2="150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="165" x2="145" y2="165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="180" x2="145" y2="180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- AM analogue dial window -->
+  <rect x="168" y="92" width="78" height="44" rx="4" ry="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- dial tick marks -->
+  <line x1="174" y1="100" x2="174" y2="108" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="186" y1="100" x2="186" y2="108" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="198" y1="100" x2="198" y2="108" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="210" y1="100" x2="210" y2="108" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="222" y1="100" x2="222" y2="108" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="234" y1="100" x2="234" y2="108" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- AM monogram - letter A from triangle shape -->
+  <path d="M182,131 L186,118 L190,131 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- letter M as zigzag block -->
+  <path d="M196,131 L196,118 L202,124 L208,118 L208,131 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- needle -->
+  <line x1="205" y1="98" x2="205" y2="135" stroke="#f8130d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- large tuning knob -->
+  <circle cx="207" cy="170" r="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="207" cy="170" r="11" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="207" y1="158" x2="207" y2="170" stroke="#f7de58" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- volume knob -->
+  <circle cx="170" cy="170" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="170" y1="162" x2="170" y2="170" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

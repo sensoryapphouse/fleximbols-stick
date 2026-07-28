@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- House elevation: flat front-on facade -->
+  <!-- Roof -->
+  <polygon points="40,115 145,30 250,115" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ridge cap -->
+  <rect x="130" y="25" width="30" height="12" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wall body -->
+  <rect x="50" y="112" width="190" height="100" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left window -->
+  <rect x="68" y="130" width="48" height="40" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="92" y1="130" x2="92" y2="170" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="68" y1="150" x2="116" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Right window -->
+  <rect x="174" y="130" width="48" height="40" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="198" y1="130" x2="198" y2="170" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="174" y1="150" x2="222" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Door -->
+  <rect x="118" y="148" width="54" height="64" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Door arch -->
+  <path d="M118,165 Q145,138 172,165" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Door knob -->
+  <circle cx="163" cy="182" r="5" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Ground line -->
+  <line x1="30" y1="212" x2="260" y2="212" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Chimney -->
+  <rect x="185" y="50" width="22" height="48" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

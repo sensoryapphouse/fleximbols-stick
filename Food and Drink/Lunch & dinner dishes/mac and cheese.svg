@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dish handles -->
+  <rect x="8" y="118" width="20" height="10" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="262" y="118" width="20" height="10" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Baking dish body -->
+  <path d="M30,120 L40,200 Q40,218 145,218 Q250,218 250,200 L260,120 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dish rim -->
+  <rect x="22" y="112" width="246" height="16" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Dish side shading -->
+  <path d="M30,120 L40,200 Q40,210 60,215" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M260,120 L250,200 Q250,210 230,215" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- YELLOW cheese sauce filling -->
+  <path d="M38,138 Q50,148 145,150 Q240,148 252,138 L252,155 Q240,165 145,167 Q50,165 38,155 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ELBOW MACARONI shapes in the yellow cheese sauce -->
+  <path d="M65,158 Q72,150 80,158 Q80,166 73,168 Q66,166 65,158 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M95,160 Q102,152 110,160 Q110,168 103,170 Q96,168 95,160 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M125,162 Q132,154 140,162 Q140,170 133,172 Q126,170 125,162 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M155,162 Q162,154 170,162 Q170,170 163,172 Q156,170 155,162 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M185,160 Q192,152 200,160 Q200,168 193,170 Q186,168 185,160 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M215,158 Q222,150 230,158 Q230,166 223,168 Q216,166 215,158 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lower row of macaroni -->
+  <path d="M75,178 Q82,170 90,178 Q90,186 83,188 Q76,186 75,178 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M115,180 Q122,172 130,180 Q130,188 123,190 Q116,188 115,180 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M155,180 Q162,172 170,180 Q170,188 163,190 Q156,188 155,180 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M195,178 Q202,170 210,178 Q210,186 203,188 Q196,186 195,178 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- GOLDEN BAKED CRUST on top -->
+  <ellipse cx="145" cy="120" rx="115" ry="22" fill="#ff9900" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Crust browning bubbles -->
+  <ellipse cx="95" cy="115" rx="14" ry="8" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="112" rx="16" ry="9" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="195" cy="115" rx="14" ry="8" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Char spots -->
+  <circle cx="88" cy="114" r="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="152" cy="110" r="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="202" cy="113" r="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

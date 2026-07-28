@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tax form + plus sign + dollar credit + CREDIT label -->
+  <!-- Tax form -->
+  <rect x="20" y="50" width="100" height="140" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="20" y="50" width="100" height="20" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Form lines -->
+  <rect x="30" y="80" width="60" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="30" y="92" width="80" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="30" y="104" width="70" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="30" y="116" width="80" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M34 54 L52 54 L52 58 L46 58 L46 66 L40 66 L40 58 L34 58 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M56 66 L60 54 L66 54 L70 66 L66 66 L65 63 L61 63 L60 66 Z M62 59 L64 59 L63 56 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M74 54 L78 54 L80 58 L82 54 L86 54 L82 60 L86 66 L82 66 L80 62 L78 66 L74 66 L78 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Dollar on form -->
+  <circle cx="60" cy="160" r="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M60 150 L60 170 M55 155 Q49 155 49 160 Q49 163 60 163 Q71 163 71 167 Q71 170 66 170 L55 170" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Plus sign large green -->
+  <path d="M140 100 L160 100 L160 80 L180 80 L180 100 L200 100 L200 120 L180 120 L180 140 L160 140 L160 120 L140 120 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- CREDIT letters as paths (smaller, stacked top right) -->
+  <!-- Extra dollar gained -->
+  <circle cx="245" cy="195" r="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M245 185 L245 205 M239 190 Q234 190 234 195 Q234 198 245 198 Q256 198 256 202 Q256 205 250 205 L239 205" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Arrow into form pointing left (added back) -->
+  <path d="M225 195 L195 180" fill="none" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M195 180 L204 182 M195 180 L200 188" stroke="#137827" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- green + dollar (replaces TAX/CREDIT text) -->
+  <path d="M25 52 L73 52 M49 28 L49 76" fill="none" stroke="#529929" stroke-width="11.85" stroke-linecap="round"/>
+  <circle cx="175" cy="52" r="24" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M175 36 L175 68 M167 42 Q167 36 175 36 Q183 36 183 42 Q183 46 175 47 Q167 48 167 54 Q167 60 175 60 L181 60" fill="none" stroke="#529929" stroke-width="5.18" stroke-linecap="round"/>
+</g></svg>

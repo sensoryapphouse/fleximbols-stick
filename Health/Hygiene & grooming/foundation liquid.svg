@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- foundation pump bottle (LEFT) -->
+  <!-- pump head -->
+  <rect x="78" y="28" width="36" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- nozzle -->
+  <path d="M114 32 L132 32 L132 44 L114 44 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="86" y="42" width="20" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bottle body -->
+  <path d="M64 56 L128 56 L128 200 Q128 210 118 210 L74 210 Q64 210 64 200 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- liquid level fill -->
+  <path d="M70 100 L122 100 L122 200 Q122 204 118 204 L74 204 Q70 204 70 200 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- highlight -->
+  <path d="M72 110 L72 180" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- drop on swatch (RIGHT) -->
+  <!-- swatch streak on 'skin' -->
+  <path d="M150 150 Q200 130 250 150 Q258 158 250 168 Q200 188 150 168 Q142 158 150 150 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- blended foundation stripe -->
+  <path d="M170 156 Q205 146 240 156 Q244 160 240 164 Q205 174 170 164 Q166 160 170 156 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- liquid drop above swatch -->
+  <path d="M200 70 Q188 100 200 120 Q212 100 200 70 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M196 84 Q194 96 198 102" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- skin swatch gradient (replaces LIQUID text) -->
+  <rect x="200" y="148" width="60" height="20" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="200" y="148" width="20" height="20" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- drop icon -->
+  <path d="M232 170 Q228 178 232 184 Q236 178 232 170 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

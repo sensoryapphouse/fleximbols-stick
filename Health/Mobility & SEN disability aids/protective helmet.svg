@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="76.61 91.11 358.79 358.79">
+<!-- protective helmet: hard sports-style safety helmet with vents and chin strap -->
+<!-- hard shell dome -->
+<path d="M 112 300 Q 112 118 256 118 Q 400 118 400 300 Q 256 274 112 300 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- lower shell band -->
+<path d="M 112 300 Q 256 274 400 300 L 400 322 Q 256 298 112 322 Z" fill="#b9362d" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- centre ridge -->
+<path d="M 256 118 Q 252 210 256 300" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- vents -->
+<path d="M 178 168 Q 184 220 180 286" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 334 168 Q 328 220 332 286" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- chin strap -->
+<path d="M 128 320 Q 120 400 198 412" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<path d="M 384 320 Q 392 400 314 412" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<rect x="228" y="400" width="56" height="24" rx="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

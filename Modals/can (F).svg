@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g data-fit="1" transform="translate(256 256) scale(1.1673) translate(-228.50 -271.00)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
+<line x1="117" y1="303" x2="108" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="147" y1="303" x2="156" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="108" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="156" cy="457" rx="13" ry="7" fill="#33373d"/>
+<polygon points="100,197 164,197 162,305 102,305" fill="#e8821e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- left arm: relaxed down -->
+<line x1="102" y1="199" x2="82" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<!-- RIGHT arm: raised + flexed (ability). Bold strokes: upper arm -> elbow -> forearm up, with a bicep bulge and a fist -->
+<!-- upper arm from shoulder out to elbow (skin, bold dark outline via double stroke) -->
+<line x1="160" y1="208" x2="212" y2="208" stroke="#1a1a1a" stroke-width="24" stroke-linecap="round"/>
+<line x1="160" y1="208" x2="212" y2="208" stroke="#f5d6b0" stroke-width="14" stroke-linecap="round"/>
+<!-- forearm from elbow straight up to fist -->
+<line x1="208" y1="212" x2="208" y2="150" stroke="#1a1a1a" stroke-width="24" stroke-linecap="round"/>
+<line x1="208" y1="212" x2="208" y2="152" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round"/><line x1="208" y1="212" x2="208" y2="152" stroke="#f5d6b0" stroke-width="14" stroke-linecap="round"/>
+<!-- bicep bulge sitting on top of the upper arm -->
+<path class="skin" d="M 168 200 Q 176 168 196 178 Q 204 192 200 200 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- fist -->
+<circle cx="208" cy="142" r="16" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="132" y1="197" x2="132" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 85.0 184.0 L 85.0 128.0 Q 85.0 76.0 132.0 76.0 Q 179.0 76.0 179.0 128.0 L 179.0 184.0 L 166.0 184.0 L 166.0 130.0 Q 166.0 96.0 132.0 96.0 Q 98.0 96.0 98.0 130.0 L 98.0 184.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<circle id="h1" data-fig="fa" class="skin" cx="132" cy="130" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 94.0 96.0 Q 132.0 82.0 170.0 96.0 Q 132.0 92.0 94.0 96.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<!-- green tick = able to -->
+<circle cx="320.0" cy="250.0" r="62.0" fill="#3fae5a" stroke="#1a1a1a" stroke-width="0"/>
+<polyline points="288,252 312,278 356,220" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

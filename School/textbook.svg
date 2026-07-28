@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- thick textbook back/pages stack -->
+  <path d="M48 36 L242 36 L242 220 L48 220 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- page edge stripes (thickness) -->
+  <line x1="48" y1="50" x2="242" y2="50" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="48" y1="58" x2="242" y2="58" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="48" y1="210" x2="242" y2="210" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- front hard cover -->
+  <path d="M44 28 L246 28 L246 205 L44 205 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- spine line -->
+  <line x1="56" y1="28" x2="56" y2="205" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- title plaque TEXTBOOK -->
+  <rect x="70" y="48" width="160" height="26" rx="3" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="80" y1="61" x2="220" y2="61" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- subject label band -->
+  <rect x="80" y="84" width="140" height="14" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="88" y1="91" x2="212" y2="91" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- school context: graduation cap on cover -->
+  <path d="M100 130 L150 116 L200 130 L150 144 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M115 138 L115 158 Q150 172 185 158 L185 138" fill="#392170" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tassel -->
+  <path d="M200 130 L208 156" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="208" cy="160" r="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- ABC apple on cover -->
+  <circle cx="150" cy="184" r="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M150 170 Q154 164 160 166" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150 170 L150 174" stroke="#5e1f0a" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor above, with joists -->
+  <rect x="20" y="40" width="250" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- floor joists (vertical short ones hanging below floor) -->
+  <rect x="40" y="60" width="14" height="30" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="80" y="60" width="14" height="30" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="120" y="60" width="14" height="30" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="60" width="14" height="30" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="60" width="14" height="30" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="240" y="60" width="14" height="30" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- ground -->
+  <rect x="20" y="200" width="250" height="20" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- dim low crawl space rectangular gap -->
+  <rect x="20" y="90" width="250" height="110" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- single box -->
+  <rect x="60" y="160" width="50" height="40" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <line x1="85" y1="160" x2="85" y2="200" stroke="#5e1f0a" stroke-width="4.45"/>
+  <line x1="60" y1="175" x2="110" y2="175" stroke="#5e1f0a" stroke-width="4.45"/>
+  <!-- pipe across -->
+  <rect x="130" y="115" width="130" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="200" cy="122" r="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- side walls -->
+  <line x1="20" y1="90" x2="20" y2="200" stroke="#1a1a1a" stroke-width="8.89"/>
+  <line x1="270" y1="90" x2="270" y2="200" stroke="#1a1a1a" stroke-width="8.89"/>
+</g></svg>

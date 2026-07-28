@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- corrector palette: 4-pan compact, open -->
+  <!-- back lid (with mirror) -->
+  <path d="M30 24 L260 24 L260 110 L30 110 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="42" y="34" width="206" height="68" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- mirror shines -->
+  <path d="M56 46 L94 84" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M130 42 L150 64" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- hinge -->
+  <rect x="40" y="110" width="210" height="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- lower body -->
+  <path d="M30 118 L260 118 L260 216 Q260 224 252 224 L38 224 Q30 224 30 216 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- 4 corrector pans: green, orange/peach, peach (pink-peach), purple -->
+  <!-- green (redness) -->
+  <rect x="48" y="134" width="46" height="74" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- orange (dark circles) -->
+  <rect x="98" y="134" width="46" height="74" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- peach (pinkish) -->
+  <rect x="148" y="134" width="46" height="74" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- purple (dullness/yellow) -->
+  <rect x="198" y="134" width="46" height="74" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- texture dots on each pan -->
+  <circle cx="71" cy="170" r="3" fill="#67832d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="121" cy="170" r="3" fill="#e65a00" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="171" cy="170" r="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="221" cy="170" r="3" fill="#392170" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

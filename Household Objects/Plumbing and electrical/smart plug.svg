@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- WiFi waves top left -->
+  <path d="M 28 60 Q 58 30 88 60" fill="none" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M 38 70 Q 58 50 78 70" fill="none" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+  <circle cx="58" cy="80" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- phone on right -->
+  <rect x="218" y="80" width="48" height="86" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="224" y="90" width="36" height="58" rx="2" ry="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- plug icon on phone -->
+  <rect x="232" y="100" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="237" y="93" width="3" height="9" fill="#000000"/>
+  <rect x="244" y="93" width="3" height="9" fill="#000000"/>
+  <!-- on/off toggle below -->
+  <rect x="228" y="128" width="28" height="12" rx="6" ry="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="248" cy="134" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="242" cy="155" r="3.5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- modern smart plug body (compact square cube) -->
+  <rect x="90" y="80" width="110" height="120" rx="16" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- inner panel -->
+  <rect x="100" y="90" width="90" height="100" rx="10" ry="10" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- socket holes (US style two slots + ground) -->
+  <rect x="125" y="115" width="6" height="22" rx="2" ry="2" fill="#000000"/>
+  <rect x="159" y="115" width="6" height="22" rx="2" ry="2" fill="#000000"/>
+  <circle cx="145" cy="160" r="6" fill="#000000"/>
+  <!-- LED status indicator -->
+  <circle cx="180" cy="100" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- plug icon (replaces SMART label) -->
+  <rect x="38" y="190" width="130" height="38" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="64" y="197" width="8" height="18" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="80" y="197" width="8" height="18" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M58 215 Q58 222 74 222 Q90 222 90 215" fill="none" stroke="#efefef" stroke-width="5.56" stroke-linecap="round"/>
+</g></svg>

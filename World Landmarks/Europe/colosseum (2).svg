@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="170" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- sun -->
+  <circle cx="245" cy="40" r="14" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- distant Italian cypress trees -->
+  <path d="M30 175 Q26 130 30 110 Q34 130 30 175 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M260 175 Q256 140 260 122 Q264 140 260 175 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Colosseum main oval body -->
+  <path d="M40 175 Q40 80 145 75 Q250 80 250 175 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- partial ruined top (right side lower) -->
+  <path d="M155 76 Q200 78 230 95 L250 100 L250 175 Q220 168 200 175 L155 175 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- horizontal level dividers -->
+  <path d="M52 110 Q145 105 240 112" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <path d="M45 140 Q145 135 248 142" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <path d="M42 168 Q145 165 250 170" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <!-- arches top row -->
+  <g fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56">
+    <path d="M58 110 L58 95 Q63 88 68 95 L68 110 Z"/>
+    <path d="M78 108 L78 92 Q83 85 88 92 L88 108 Z"/>
+    <path d="M100 106 L100 88 Q105 82 110 88 L110 106 Z"/>
+    <path d="M122 104 L122 86 Q127 80 132 86 L132 104 Z"/>
+    <path d="M144 104 L144 84 Q149 78 154 84 L154 104 Z"/>
+    <path d="M166 105 L166 85 Q171 80 176 85 L176 105 Z"/>
+    <path d="M188 107 L188 88 Q193 82 198 88 L198 107 Z"/>
+    <path d="M210 109 L210 92 Q215 86 220 92 L220 109 Z"/>
+  </g>
+  <!-- arches middle row -->
+  <g fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56">
+    <path d="M52 140 L52 122 Q58 114 64 122 L64 140 Z"/>
+    <path d="M74 138 L74 118 Q80 110 86 118 L86 138 Z"/>
+    <path d="M96 137 L96 115 Q102 108 108 115 L108 137 Z"/>
+    <path d="M118 136 L118 114 Q124 107 130 114 L130 136 Z"/>
+    <path d="M140 136 L140 114 Q146 107 152 114 L152 136 Z"/>
+    <path d="M162 137 L162 115 Q168 108 174 115 L174 137 Z"/>
+    <path d="M184 138 L184 118 Q190 110 196 118 L196 138 Z"/>
+    <path d="M206 139 L206 120 Q212 113 218 120 L218 139 Z"/>
+    <path d="M228 141 L228 124 Q234 117 240 124 L240 141 Z"/>
+  </g>
+  <!-- arches bottom row -->
+  <g fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56">
+    <path d="M48 168 L48 148 Q54 140 60 148 L60 168 Z"/>
+    <path d="M70 167 L70 145 Q76 137 82 145 L82 167 Z"/>
+    <path d="M92 166 L92 143 Q98 135 104 143 L104 166 Z"/>
+    <path d="M114 166 L114 142 Q120 134 126 142 L126 166 Z"/>
+    <path d="M136 166 L136 142 Q142 134 148 142 L148 166 Z"/>
+    <path d="M158 166 L158 142 Q164 134 170 142 L170 166 Z"/>
+    <path d="M180 167 L180 143 Q186 135 192 143 L192 167 Z"/>
+    <path d="M202 168 L202 145 Q208 137 214 145 L214 168 Z"/>
+    <path d="M224 168 L224 148 Q230 140 236 148 L236 168 Z"/>
+  </g>
+  <!-- ground -->
+  <rect x="10" y="178" width="270" height="52" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- ground tile lines -->
+  <path d="M10 200 L280 200" fill="none" stroke="#5e1f0a" stroke-width="2.67"/>
+  <path d="M60 178 L60 230 M120 178 L120 230 M180 178 L180 230 M230 178 L230 230" fill="none" stroke="#5e1f0a" stroke-width="2.67"/>
+</g></svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Risk: world map board with army figures on territories -->
+  <!-- ocean background board -->
+  <rect x="20" y="25" width="250" height="170" rx="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- continent: north america (left) -->
+  <path d="M 40 55 Q 35 75 45 95 L 60 110 Q 75 115 90 105 L 95 80 Q 90 60 75 50 Q 55 45 40 55 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- south america -->
+  <path d="M 60 130 Q 55 150 65 170 Q 75 180 85 175 Q 92 160 88 140 Q 78 125 60 130 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- europe -->
+  <path d="M 115 50 Q 110 70 120 80 Q 135 85 145 75 Q 150 60 142 50 Q 125 42 115 50 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- africa -->
+  <path d="M 120 95 Q 115 125 130 155 Q 145 165 155 150 Q 158 120 148 100 Q 135 88 120 95 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- asia (large) -->
+  <path d="M 165 45 Q 155 65 165 85 Q 185 95 215 90 Q 240 80 245 60 Q 235 45 200 42 Q 175 40 165 45 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- australia -->
+  <path d="M 210 140 Q 205 160 215 170 Q 235 175 245 165 Q 248 148 235 140 Q 220 135 210 140 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- army pieces (cubes) on continents -->
+  <!-- red cube on europe -->
+  <rect x="125" y="58" width="14" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 125 58 L 130 53 L 144 53 L 139 58 M 139 58 L 144 53 L 144 67 L 139 72" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- blue cube on asia -->
+  <rect x="195" y="60" width="14" height="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 195 60 L 200 55 L 214 55 L 209 60 M 209 60 L 214 55 L 214 69 L 209 74" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- green cube on south america -->
+  <rect x="68" y="148" width="14" height="14" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 68 148 L 73 143 L 87 143 L 82 148 M 82 148 L 87 143 L 87 157 L 82 162" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- yellow cube on north america -->
+  <rect x="60" y="78" width="14" height="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 60 78 L 65 73 L 79 73 L 74 78 M 74 78 L 79 73 L 79 87 L 74 92" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- soldier-cylinder pieces on africa -->
+  <rect x="133" y="120" width="8" height="14" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="137" cy="120" rx="4" ry="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- die at corner -->
+  <rect x="220" y="205" width="30" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="228" cy="213" r="2.5" fill="#000000"/>
+  <circle cx="242" cy="213" r="2.5" fill="#000000"/>
+  <circle cx="228" cy="225" r="2.5" fill="#000000"/>
+  <circle cx="242" cy="225" r="2.5" fill="#000000"/>
+  <circle cx="235" cy="219" r="2.5" fill="#000000"/>
+</g></svg>

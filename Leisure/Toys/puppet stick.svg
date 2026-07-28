@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- child full body holding a stick puppet -->
+  <!-- child legs -->
+  <rect x="46" y="186" width="16" height="36" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="66" y="186" width="16" height="36" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="54" cy="224" rx="12" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="74" cy="224" rx="12" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- child torso -->
+  <path d="M38 122 Q38 112 48 110 L80 110 Q90 112 90 122 L90 188 L38 188 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- left arm hanging -->
+  <path d="M38 122 L28 160 L30 180 L42 180 L46 160 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right arm raised holding stick -->
+  <path d="M90 122 L110 122 L118 110 L130 116 L128 132 L108 142 L94 138 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- child head -->
+  <circle cx="64" cy="80" r="28" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hair -->
+  <path d="M38 76 Q40 54 64 52 Q88 54 90 76 Q84 64 64 64 Q44 64 38 76 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="56" cy="82" r="3" fill="#000000"/>
+  <circle cx="72" cy="82" r="3" fill="#000000"/>
+  <!-- smile -->
+  <path d="M56 92 Q64 98 72 92" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- stick -->
+  <rect x="156" y="120" width="8" height="110" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- puppet cutout on top -->
+  <!-- body -->
+  <ellipse cx="200" cy="98" rx="42" ry="48" fill="#fff200" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- head circle -->
+  <circle cx="200" cy="60" r="26" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- eyes on puppet -->
+  <circle cx="192" cy="60" r="3" fill="#000000"/>
+  <circle cx="208" cy="60" r="3" fill="#000000"/>
+  <path d="M192 70 Q200 76 208 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- puppet hair -->
+  <path d="M178 56 Q180 38 200 36 Q220 38 222 56 Q216 48 200 48 Q184 48 178 56 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- puppet arms -->
+  <ellipse cx="160" cy="100" rx="10" ry="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="240" cy="100" rx="10" ry="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- attachment point (small tape) -->
+  <rect x="156" y="118" width="10" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

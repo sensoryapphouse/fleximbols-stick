@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wedding-aisle: carpeted aisle, rose-petal path, chairs on either side, altar at end -->
+  <!-- floor sides -->
+  <rect x="10" y="180" width="270" height="50" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sky/back -->
+  <rect x="10" y="40" width="270" height="140" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- aisle carpet (perspective trapezoid) -->
+  <path d="M115 60 L175 60 L235 220 L55 220 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- carpet trim -->
+  <path d="M115 60 L55 220" fill="none" stroke="#f2e40d" stroke-width="4.45"/>
+  <path d="M175 60 L235 220" fill="none" stroke="#f2e40d" stroke-width="4.45"/>
+
+  <!-- rose petals scattered down aisle -->
+  <circle cx="145" cy="90" r="3.5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="130" cy="115" r="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="160" cy="120" r="4" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="115" cy="150" r="4.5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="170" cy="155" r="4.5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="145" cy="170" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="95" cy="195" r="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="190" cy="200" r="5" fill="#f266aa" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="145" cy="210" r="5.5" fill="#d01424" stroke="#1a1a1a" stroke-width="2.22"/>
+
+  <!-- altar at end (top, small in perspective) -->
+  <rect x="125" y="40" width="40" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="120" y="34" width="50" height="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- altar flowers -->
+  <circle cx="128" cy="36" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="34" r="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="162" cy="36" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+
+  <!-- chairs left side -->
+  <g>
+    <!-- back row tiny -->
+    <rect x="35" y="95" width="14" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="35" y="113" width="14" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- mid -->
+    <rect x="25" y="130" width="20" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="25" y="154" width="20" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- front -->
+    <rect x="12" y="170" width="28" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="12" y="200" width="28" height="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- ribbons on chairs -->
+    <path d="M40 175 Q45 180 40 188" fill="none" stroke="#f266aa" stroke-width="5.56" stroke-linecap="round"/>
+    <path d="M46 135 Q50 140 46 146" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+
+  <!-- chairs right side -->
+  <g>
+    <rect x="241" y="95" width="14" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="241" y="113" width="14" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="245" y="130" width="20" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="245" y="154" width="20" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="250" y="170" width="28" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="250" y="200" width="28" height="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M250 175 Q245 180 250 188" fill="none" stroke="#f266aa" stroke-width="5.56" stroke-linecap="round"/>
+    <path d="M244 135 Q240 140 244 146" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+</g></svg>

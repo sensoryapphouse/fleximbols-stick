@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cage base tray -->
+  <rect x="30" y="180" width="180" height="40" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- cage frame -->
+  <rect x="30" y="50" width="180" height="135" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- top -->
+  <rect x="25" y="40" width="190" height="14" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- vertical bars -->
+  <path d="M50 54 L50 180 M70 54 L70 180 M90 54 L90 180 M110 54 L110 180 M130 54 L130 180 M150 54 L150 180 M170 54 L170 180 M190 54 L190 180" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- horizontal cross bar -->
+  <path d="M30 120 L210 120" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- running wheel attached -->
+  <circle cx="235" cy="150" r="38" fill="#fff200" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="235" cy="150" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- spokes -->
+  <path d="M235 112 L235 188 M197 150 L273 150 M210 125 L260 175 M260 125 L210 175" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- wheel stand -->
+  <rect x="225" y="183" width="20" height="20" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- water bottle attached to bars -->
+  <rect x="155" y="65" width="30" height="55" rx="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- water inside -->
+  <rect x="158" y="80" width="24" height="38" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- bottle nozzle -->
+  <rect x="165" y="120" width="10" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="170" cy="142" r="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- bedding -->
+  <path d="M40 200 Q60 195 80 200 Q100 195 120 200 Q140 195 160 200 Q180 195 200 200" stroke="#7d5e23" stroke-width="2.96" fill="none"/>
+  <circle cx="55" cy="205" r="2" fill="#7d5e23"/>
+  <circle cx="100" cy="207" r="2" fill="#7d5e23"/>
+  <circle cx="150" cy="205" r="2" fill="#7d5e23"/>
+</g></svg>

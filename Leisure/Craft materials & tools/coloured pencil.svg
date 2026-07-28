@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="105.54 80.80 331.64 331.64">
+<g transform="rotate(35 256 256)">
+<!-- pencil body -->
+<rect x="216" y="120" width="80" height="240" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body stripe lines -->
+<line x1="216" y1="170" x2="296" y2="170" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="216" y1="200" x2="296" y2="200" stroke="#1a1a1a" stroke-width="6"/>
+<!-- wood cone -->
+<path d="M 216 360 L 296 360 L 256 416 Z" fill="#d9a866" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- sharpened lead tip -->
+<path d="M 240 392 L 272 392 L 256 416 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- top eraser band -->
+<rect x="216" y="100" width="80" height="20" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+</svg>

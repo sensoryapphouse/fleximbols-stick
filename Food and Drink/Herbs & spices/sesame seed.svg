@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Spoon -->
+  <ellipse cx="145" cy="185" rx="70" ry="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M75 185 Q70 200 80 208 Q90 215 145 215 Q200 215 210 208 Q220 200 215 185 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Spoon handle -->
+  <path d="M215 192 Q240 188 258 175 Q265 168 260 162 Q254 155 246 160 Q235 168 215 185" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Sesame seeds on spoon - pale teardrop shapes -->
+  <ellipse cx="115" cy="182" rx="8" ry="13" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-15 115 182)"/>
+  <ellipse cx="135" cy="178" rx="8" ry="13" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(5 135 178)"/>
+  <ellipse cx="155" cy="180" rx="8" ry="13" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-8 155 180)"/>
+  <ellipse cx="172" cy="186" rx="7" ry="11" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(20 172 186)"/>
+  <ellipse cx="125" cy="194" rx="7" ry="11" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-5 125 194)"/>
+  <ellipse cx="148" cy="196" rx="7" ry="11" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round" transform="rotate(10 148 196)"/>
+  <!-- Sesame pod above spoon -->
+  <ellipse cx="145" cy="110" rx="28" ry="52" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Pod segments lines -->
+  <line x1="120" y1="95" x2="170" y2="95" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="118" y1="115" x2="172" y2="115" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="120" y1="135" x2="170" y2="135" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Pod tip -->
+  <path d="M145 58 Q138 50 145 42 Q152 50 145 58 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

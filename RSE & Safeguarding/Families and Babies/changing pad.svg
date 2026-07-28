@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Changing pad outer shape: top-view, contoured/curved rectangle with raised edges -->
+  <rect x="30" y="58" width="230" height="142" rx="38" ry="38" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Raised side edges: inner contour line showing depth -->
+  <rect x="46" y="74" width="198" height="110" rx="28" ry="28" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Padded quilted pattern: horizontal seam lines -->
+  <line x1="54" y1="104" x2="236" y2="104" stroke="#e6b98a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="54" y1="129" x2="236" y2="129" stroke="#e6b98a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="54" y1="154" x2="236" y2="154" stroke="#e6b98a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Vertical seam lines -->
+  <line x1="100" y1="80" x2="100" y2="176" stroke="#e6b98a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="78" x2="145" y2="178" stroke="#e6b98a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="190" y1="80" x2="190" y2="176" stroke="#e6b98a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Head-end raised bolster/roll (top side, thicker) -->
+  <ellipse cx="145" cy="74" rx="86" ry="18" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Foot-end curved edge detail -->
+  <path d="M46 166 Q46 178 74 180 Q145 184 216 180 Q244 178 244 166" fill="none" stroke="#f266aa" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Corner tie loops (4 corners) -->
+  <circle cx="52" cy="80" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="238" cy="80" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="52" cy="176" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="238" cy="176" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

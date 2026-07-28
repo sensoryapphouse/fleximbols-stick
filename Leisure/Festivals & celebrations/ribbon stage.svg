@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl -->
+  <path d="M30 130 Q30 215 105 224 Q145 228 185 224 Q260 215 260 130 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="130" rx="115" ry="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Batter inside bowl (pale yellow) -->
+  <ellipse cx="145" cy="138" rx="106" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Whisk lifted out of bowl, top-right, tilted -->
+  <rect x="195" y="20" width="14" height="46" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" transform="rotate(-15 202 43)"/>
+  <!-- Whisk wires (lifted) -->
+  <g transform="rotate(-15 202 70)">
+    <path d="M195 66 Q187 90 192 110" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M209 66 Q217 90 212 110" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M202 66 L202 110" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+    <ellipse cx="202" cy="110" rx="14" ry="4" fill="none" stroke="#7f7f7f" stroke-width="4.45"/>
+  </g>
+  <!-- Ribbon of batter trailing from whisk back down into bowl, forming a curling ribbon shape -->
+  <path d="M188 118 Q170 130 175 150 Q182 168 160 175 Q138 180 145 160 Q152 145 135 140" fill="none" stroke="#f7de58" stroke-width="14.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Outline of ribbon for definition -->
+  <path d="M188 118 Q170 130 175 150 Q182 168 160 175 Q138 180 145 160 Q152 145 135 140" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- 'Ribbon' folding hump in centre showing the trail -->
+  <path d="M155 145 Q165 152 170 158" fill="none" stroke="#7d5e23" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Arrow indicating ribbon falling -->
+  <path d="M75 80 Q80 110 100 135" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M94 130 L100 138 L108 134" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

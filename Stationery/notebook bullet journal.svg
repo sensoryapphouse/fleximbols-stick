@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- open spread, two pages -->
+  <path d="M 25,30 L 145,30 L 145,215 L 25,215 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <path d="M 145,30 L 265,30 L 265,215 L 145,215 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- spine -->
+  <line x1="145" y1="30" x2="145" y2="215" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- LEFT PAGE: INDEX heading bar -->
+  <rect x="38" y="42" width="94" height="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- INDEX letters drawn as paths -->
+  <path d="M 50,46 L 50,52 M 47,46 L 53,46 M 47,52 L 53,52" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 57,52 L 57,46 L 63,52 L 63,46" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 67,46 L 67,52 L 73,52 M 67,46 L 73,46 M 67,49 L 71,49" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 77,46 L 77,52 M 77,46 L 83,52 M 83,46 L 83,52" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 87,46 L 87,52 L 93,52 M 87,46 L 93,46 M 87,49 L 91,49" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- index entries: line with page number -->
+  <line x1="38" y1="72" x2="120" y2="72" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="38" y1="88" x2="120" y2="88" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="38" y1="104" x2="120" y2="104" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="38" y1="120" x2="120" y2="120" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="38" y1="136" x2="120" y2="136" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="38" y1="152" x2="120" y2="152" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="38" y1="168" x2="120" y2="168" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="38" y1="184" x2="120" y2="184" stroke="#4d4d4d" stroke-width="4.45"/>
+  <line x1="38" y1="200" x2="120" y2="200" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- index page-number dots column -->
+  <circle cx="128" cy="72" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="88" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="104" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="120" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="136" r="3" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="152" r="3" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="168" r="3" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="184" r="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="200" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- RIGHT PAGE: dot grid -->
+  <g fill="#7f7f7f">
+    <circle cx="160" cy="50" r="1.5"/><circle cx="172" cy="50" r="1.5"/><circle cx="184" cy="50" r="1.5"/><circle cx="196" cy="50" r="1.5"/><circle cx="208" cy="50" r="1.5"/><circle cx="220" cy="50" r="1.5"/><circle cx="232" cy="50" r="1.5"/><circle cx="244" cy="50" r="1.5"/><circle cx="256" cy="50" r="1.5"/>
+    <circle cx="160" cy="62" r="1.5"/><circle cx="172" cy="62" r="1.5"/><circle cx="184" cy="62" r="1.5"/><circle cx="196" cy="62" r="1.5"/><circle cx="208" cy="62" r="1.5"/><circle cx="220" cy="62" r="1.5"/><circle cx="232" cy="62" r="1.5"/><circle cx="244" cy="62" r="1.5"/><circle cx="256" cy="62" r="1.5"/>
+    <circle cx="160" cy="74" r="1.5"/><circle cx="172" cy="74" r="1.5"/><circle cx="184" cy="74" r="1.5"/><circle cx="196" cy="74" r="1.5"/><circle cx="208" cy="74" r="1.5"/><circle cx="220" cy="74" r="1.5"/><circle cx="232" cy="74" r="1.5"/><circle cx="244" cy="74" r="1.5"/><circle cx="256" cy="74" r="1.5"/>
+    <circle cx="160" cy="86" r="1.5"/><circle cx="172" cy="86" r="1.5"/><circle cx="184" cy="86" r="1.5"/><circle cx="196" cy="86" r="1.5"/><circle cx="208" cy="86" r="1.5"/><circle cx="220" cy="86" r="1.5"/><circle cx="232" cy="86" r="1.5"/><circle cx="244" cy="86" r="1.5"/><circle cx="256" cy="86" r="1.5"/>
+    <circle cx="160" cy="98" r="1.5"/><circle cx="172" cy="98" r="1.5"/><circle cx="184" cy="98" r="1.5"/><circle cx="196" cy="98" r="1.5"/><circle cx="208" cy="98" r="1.5"/><circle cx="220" cy="98" r="1.5"/><circle cx="232" cy="98" r="1.5"/><circle cx="244" cy="98" r="1.5"/><circle cx="256" cy="98" r="1.5"/>
+    <circle cx="160" cy="110" r="1.5"/><circle cx="172" cy="110" r="1.5"/><circle cx="184" cy="110" r="1.5"/><circle cx="196" cy="110" r="1.5"/><circle cx="208" cy="110" r="1.5"/><circle cx="220" cy="110" r="1.5"/><circle cx="232" cy="110" r="1.5"/><circle cx="244" cy="110" r="1.5"/><circle cx="256" cy="110" r="1.5"/>
+    <circle cx="160" cy="122" r="1.5"/><circle cx="172" cy="122" r="1.5"/><circle cx="184" cy="122" r="1.5"/><circle cx="196" cy="122" r="1.5"/><circle cx="208" cy="122" r="1.5"/><circle cx="220" cy="122" r="1.5"/><circle cx="232" cy="122" r="1.5"/><circle cx="244" cy="122" r="1.5"/><circle cx="256" cy="122" r="1.5"/>
+    <circle cx="160" cy="134" r="1.5"/><circle cx="172" cy="134" r="1.5"/><circle cx="184" cy="134" r="1.5"/><circle cx="196" cy="134" r="1.5"/><circle cx="208" cy="134" r="1.5"/><circle cx="220" cy="134" r="1.5"/><circle cx="232" cy="134" r="1.5"/><circle cx="244" cy="134" r="1.5"/><circle cx="256" cy="134" r="1.5"/>
+    <circle cx="160" cy="146" r="1.5"/><circle cx="172" cy="146" r="1.5"/><circle cx="184" cy="146" r="1.5"/><circle cx="196" cy="146" r="1.5"/><circle cx="208" cy="146" r="1.5"/><circle cx="220" cy="146" r="1.5"/><circle cx="232" cy="146" r="1.5"/><circle cx="244" cy="146" r="1.5"/><circle cx="256" cy="146" r="1.5"/>
+    <circle cx="160" cy="158" r="1.5"/><circle cx="172" cy="158" r="1.5"/><circle cx="184" cy="158" r="1.5"/><circle cx="196" cy="158" r="1.5"/><circle cx="208" cy="158" r="1.5"/><circle cx="220" cy="158" r="1.5"/><circle cx="232" cy="158" r="1.5"/><circle cx="244" cy="158" r="1.5"/><circle cx="256" cy="158" r="1.5"/>
+    <circle cx="160" cy="170" r="1.5"/><circle cx="172" cy="170" r="1.5"/><circle cx="184" cy="170" r="1.5"/><circle cx="196" cy="170" r="1.5"/><circle cx="208" cy="170" r="1.5"/><circle cx="220" cy="170" r="1.5"/><circle cx="232" cy="170" r="1.5"/><circle cx="244" cy="170" r="1.5"/><circle cx="256" cy="170" r="1.5"/>
+    <circle cx="160" cy="182" r="1.5"/><circle cx="172" cy="182" r="1.5"/><circle cx="184" cy="182" r="1.5"/><circle cx="196" cy="182" r="1.5"/><circle cx="208" cy="182" r="1.5"/><circle cx="220" cy="182" r="1.5"/><circle cx="232" cy="182" r="1.5"/><circle cx="244" cy="182" r="1.5"/><circle cx="256" cy="182" r="1.5"/>
+    <circle cx="160" cy="194" r="1.5"/><circle cx="172" cy="194" r="1.5"/><circle cx="184" cy="194" r="1.5"/><circle cx="196" cy="194" r="1.5"/><circle cx="208" cy="194" r="1.5"/><circle cx="220" cy="194" r="1.5"/><circle cx="232" cy="194" r="1.5"/><circle cx="244" cy="194" r="1.5"/><circle cx="256" cy="194" r="1.5"/>
+  </g>
+  <!-- decorative spread: flower banner top of right page -->
+  <circle cx="200" cy="58" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="58" r="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 175,100 L 245,100" stroke="#3aa6a0" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- checkmark task -->
+  <path d="M 165,128 L 172,135 L 185,118" fill="none" stroke="#137827" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bullet dot task marker -->
+  <circle cx="168" cy="155" r="3" fill="#000000"/>
+  <line x1="178" y1="155" x2="245" y2="155" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- star highlight -->
+  <polygon points="170,180 173,188 181,188 175,193 177,201 170,196 163,201 165,193 159,188 167,188" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

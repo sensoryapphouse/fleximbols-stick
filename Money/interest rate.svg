@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bank building -->
+  <polygon points="20,80 90,40 160,80" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="18" y="80" width="144" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="22" y="94" width="136" height="80" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- columns -->
+  <rect x="32" y="100" width="12" height="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="58" y="100" width="12" height="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="84" y="100" width="12" height="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="110" y="100" width="12" height="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="136" y="100" width="12" height="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- steps -->
+  <rect x="14" y="174" width="152" height="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- dollar sign on bank -->
+  <path d="M90 50 L90 76 M84 55 Q78 55 78 60 Q78 65 90 65 Q102 65 102 70 Q102 76 90 76 Q78 76 78 70" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- large percent badge -->
+  <circle cx="215" cy="80" r="48" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="200" cy="65" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="230" cy="95" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M236 50 L194 110" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- up arrow (rate rising) -->
+  <path d="M205 165 L205 215" fill="none" stroke="#d01424" stroke-width="10.36" stroke-linecap="round"/>
+  <polygon points="205,150 188,175 222,175" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- down arrow (rate can fall too) -->
+  <path d="M250 150 L250 200" fill="none" stroke="#137827" stroke-width="10.36" stroke-linecap="round"/>
+  <polygon points="250,215 233,190 267,190" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- small dollar near arrows -->
+  <circle cx="50" cy="210" r="22" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M50 196 L50 224 M44 200 Q38 200 38 205 Q38 210 50 210 Q62 210 62 215 Q62 220 50 220 Q38 220 38 215" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

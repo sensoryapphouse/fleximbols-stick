@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="22.81 22.81 473.21 473.21">
+<!-- fastest: snail, bike, rocket -> arrow on the rocket (fastest) -->
+<!-- snail (faded) -->
+<g opacity="0.34">
+<g transform="translate(50 340)">
+<path d="M 8 50 Q 0 30 22 28 L 78 28 Q 92 28 92 42 Q 92 54 78 54 Z" fill="#cdb487" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="48" cy="26" r="28" fill="#e0a64a" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="88" y1="40" x2="100" y2="22" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="101" cy="20" r="5" fill="#1a1a1a"/>
+</g>
+</g>
+<!-- bicycle (faded) -->
+<g opacity="0.34">
+<g transform="translate(185 320)">
+<circle cx="20" cy="70" r="34" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="110" cy="70" r="34" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 20 70 L 60 70 L 90 30 M 60 70 L 110 70 M 90 30 L 110 70" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="84" y1="22" x2="100" y2="22" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+</g>
+</g>
+<!-- rocket (bold) with flames + motion lines -->
+<g transform="translate(335 250)">
+<line x1="-30" y1="40" x2="2" y2="40" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="-42" y1="70" x2="-2" y2="70" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="-30" y1="100" x2="2" y2="100" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 70 10 Q 110 50 110 110 L 30 110 Q 30 50 70 10 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="70" cy="60" r="16" fill="#cdeefc" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 30 110 L 12 140 L 38 122 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 110 110 L 128 140 L 102 122 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 52 122 Q 70 175 88 122 Z" fill="#f3a93a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</g>
+<!-- bold green arrow pointing at the rocket -->
+<line x1="405" y1="100" x2="405" y2="195" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="405" y1="195" x2="378" y2="165" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="405" y1="195" x2="432" y2="165" stroke="#1a1a1a" stroke-width="24.0" stroke-linecap="round"/><line x1="405" y1="100" x2="405" y2="195" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="405" y1="195" x2="378" y2="165" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+<line x1="405" y1="195" x2="432" y2="165" stroke="#2f9e4a" stroke-width="18.5" stroke-linecap="round"/>
+</svg>

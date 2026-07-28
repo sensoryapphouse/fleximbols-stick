@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- cold sky -->
+  <rect x="0" y="0" width="290" height="170" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cold ground -->
+  <rect x="0" y="195" width="290" height="45" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- spiky conifer 1 -->
+  <rect x="22" y="155" width="6" height="18" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M25,40 L10,80 L20,80 L8,115 L18,115 L4,155 L46,155 L32,115 L42,115 L30,80 L40,80 Z" fill="#137827" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- spiky conifer 2 -->
+  <rect x="62" y="170" width="6" height="18" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M65,60 L50,95 L60,95 L48,130 L58,130 L44,170 L86,170 L72,130 L82,130 L70,95 L80,95 Z" fill="#137827" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- spiky conifer 3 (tall) -->
+  <rect x="100" y="160" width="7" height="18" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M104,30 L85,75 L95,75 L82,115 L92,115 L78,160 L130,160 L116,115 L126,115 L113,75 L123,75 Z" fill="#137827" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- moose body -->
+  <ellipse cx="190" cy="170" rx="32" ry="16" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- moose neck -->
+  <path d="M215,168 L220,150 L230,150 L225,170 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- moose head (long snout) -->
+  <path d="M218,148 Q220,135 235,130 Q255,128 260,140 Q258,155 240,158 Q225,158 218,148 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- moose snout darker -->
+  <ellipse cx="252" cy="145" rx="8" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- moose dewlap -->
+  <path d="M228,158 Q230,170 226,175" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- moose ear -->
+  <path d="M226,128 L222,118 L232,125 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- moose eye -->
+  <circle cx="240" cy="140" r="1.5" fill="#000000"/>
+  <!-- moose antlers (palmate broad) -->
+  <path d="M232,128 L220,108 L230,112 L222,98 L235,108 L245,95 L242,112 L255,105 L248,120 L240,125 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M246,128 L258,108 L250,114 L262,100 L252,118 L268,110 L260,124 L252,128 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- moose legs long -->
+  <rect x="168" y="184" width="5" height="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="180" y="184" width="5" height="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="184" width="5" height="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="212" y="184" width="5" height="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- moose hooves -->
+  <rect x="167" y="204" width="7" height="4" fill="#000000"/>
+  <rect x="179" y="204" width="7" height="4" fill="#000000"/>
+  <rect x="199" y="204" width="7" height="4" fill="#000000"/>
+  <rect x="211" y="204" width="7" height="4" fill="#000000"/>
+  <!-- moose tail tiny -->
+  <path d="M158,165 L154,170 L160,170 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

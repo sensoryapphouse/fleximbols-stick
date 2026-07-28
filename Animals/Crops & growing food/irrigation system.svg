@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Soil surface -->
+  <line x1="20" y1="145" x2="270" y2="145" stroke="#529929" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Soil fill -->
+  <rect x="20" y="148" width="250" height="50" rx="0" fill="#9d7246"/>
+  <!-- Underground pipe - main horizontal -->
+  <line x1="30" y1="178" x2="260" y2="178" stroke="#b8b8b8" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- Pipe stroke outline -->
+  <line x1="30" y1="178" x2="260" y2="178" stroke="#1a1a1a" stroke-width="10.36" stroke-linecap="round"/>
+  <line x1="30" y1="178" x2="260" y2="178" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Vertical riser pipes -->
+  <line x1="75" y1="178" x2="75" y2="145" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="75" y1="178" x2="75" y2="145" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="145" y1="178" x2="145" y2="145" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="145" y1="178" x2="145" y2="145" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="215" y1="178" x2="215" y2="145" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="215" y1="178" x2="215" y2="145" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Spray heads at surface -->
+  <circle cx="75" cy="143" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="143" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="143" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Water spray cones -->
+  <path d="M75 137 L55 105 L95 105 Z" fill="#dff3fd" stroke="#2a4ec0" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M145 137 L125 105 L165 105 Z" fill="#dff3fd" stroke="#2a4ec0" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M215 137 L195 105 L235 105 Z" fill="#dff3fd" stroke="#2a4ec0" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Dashed pipe burial indicator -->
+  <line x1="30" y1="198" x2="60" y2="198" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="6 4"/>
+</g></svg>

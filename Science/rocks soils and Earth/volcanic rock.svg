@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- volcanic-rock: dark porous/pitted vesicular basalt -->
+  <!-- Main rock silhouette -->
+  <polygon points="55,195 35,150 50,105 80,72 125,58 170,62 215,78 240,120 232,165 205,198" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Mid grey rock body -->
+  <polygon points="68,188 50,148 63,108 90,80 128,68 168,72 208,88 228,125 220,162 196,190" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Pits/vesicles - holes in the rock (fill dark) -->
+  <circle cx="105" cy="115" r="14" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="105" cy="115" r="8" fill="#4d4d4d"/>
+  <circle cx="148" cy="100" r="11" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="148" cy="100" r="6" fill="#4d4d4d"/>
+  <circle cx="182" cy="130" r="13" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="182" cy="130" r="7" fill="#4d4d4d"/>
+  <circle cx="128" cy="148" r="16" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="128" cy="148" r="9" fill="#4d4d4d"/>
+  <circle cx="82" cy="148" r="10" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="148" r="5" fill="#4d4d4d"/>
+  <circle cx="165" cy="162" r="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="162" r="4" fill="#4d4d4d"/>
+  <circle cx="88" cy="108" r="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="108" r="4" fill="#4d4d4d"/>
+  <circle cx="198" cy="155" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="198" cy="155" r="4" fill="#4d4d4d"/>
+  <!-- Rock surface facet lines for roughness -->
+  <polyline points="58,148 78,135 72,108" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="215,125 205,148 212,162" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="90,78 110,92 130,82" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

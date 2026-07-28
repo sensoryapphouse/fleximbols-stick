@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="120" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- still water -->
+  <rect x="0" y="120" width="290" height="120" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- water ripple lines -->
+  <path d="M10 175 Q60 172 110 175 T210 175 T280 175" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M10 210 Q60 207 110 210 T210 210 T280 210" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- mud bank back -->
+  <path d="M0 120 Q145 110 290 120 L290 130 L0 130 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- tall reeds left cluster -->
+  <path d="M30 130 L28 40" fill="none" stroke="#67832d" stroke-width="5.33" stroke-linecap="round"/>
+  <ellipse cx="28" cy="35" rx="3" ry="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M45 130 L46 50" fill="none" stroke="#67832d" stroke-width="5.33" stroke-linecap="round"/>
+  <ellipse cx="46" cy="45" rx="3" ry="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M58 130 L57 30" fill="none" stroke="#67832d" stroke-width="5.33" stroke-linecap="round"/>
+  <ellipse cx="57" cy="25" rx="3" ry="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M72 130 L73 55" fill="none" stroke="#67832d" stroke-width="5.33" stroke-linecap="round"/>
+  <ellipse cx="73" cy="50" rx="3" ry="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- tall reeds right cluster -->
+  <path d="M235 130 L233 45" fill="none" stroke="#67832d" stroke-width="5.33" stroke-linecap="round"/>
+  <ellipse cx="233" cy="40" rx="3" ry="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M250 130 L251 60" fill="none" stroke="#67832d" stroke-width="5.33" stroke-linecap="round"/>
+  <ellipse cx="251" cy="55" rx="3" ry="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M265 130 L264 35" fill="none" stroke="#67832d" stroke-width="5.33" stroke-linecap="round"/>
+  <ellipse cx="264" cy="30" rx="3" ry="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M278 130 L279 55" fill="none" stroke="#67832d" stroke-width="5.33" stroke-linecap="round"/>
+  <ellipse cx="279" cy="50" rx="3" ry="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- heron standing in centre water -->
+  <!-- legs -->
+  <path d="M138 215 L138 175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M148 215 L148 175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- body -->
+  <ellipse cx="143" cy="160" rx="22" ry="12" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- neck -->
+  <path d="M158 152 Q170 135 168 110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M163 152 Q175 138 173 112" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M158 152 Q165 140 168 110 L173 112 Q175 138 163 152 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- head -->
+  <ellipse cx="172" cy="105" rx="7" ry="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- beak -->
+  <path d="M178 105 L192 102" fill="none" stroke="#f2e40d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- eye -->
+  <circle cx="174" cy="103" r="1.5" fill="#000000"/>
+  <!-- wing detail -->
+  <path d="M130 155 Q143 170 158 158" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

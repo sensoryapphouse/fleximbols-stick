@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Globe circle -->
+  <circle cx="145" cy="110" r="78" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Globe day half (right - lit) -->
+  <path d="M145,32 Q223,32 223,110 Q223,188 145,188 L145,32 Z" fill="#f7de58" stroke="none"/>
+  <!-- Globe night half (left - dark) -->
+  <path d="M145,32 Q67,32 67,110 Q67,188 145,188 L145,32 Z" fill="#1d0e82" stroke="none"/>
+  <!-- Globe equator line (terminator - vertical through centre) -->
+  <line x1="145" y1="32" x2="145" y2="188" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Globe outline re-draw on top -->
+  <circle cx="145" cy="110" r="78" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Equatorial latitude line -->
+  <line x1="67" y1="110" x2="223" y2="110" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="8,6"/>
+  <!-- Sun top right -->
+  <circle cx="244" cy="48" r="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <line x1="244" y1="18" x2="244" y2="10" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="269" y1="48" x2="277" y2="48" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="261" y1="27" x2="267" y2="21" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="227" y1="27" x2="221" y2="21" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Balance scale beam -->
+  <line x1="145" y1="196" x2="145" y2="218" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Scale fulcrum triangle -->
+  <polygon points="145,218 130,230 160,230" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Scale beam horizontal -->
+  <line x1="88" y1="200" x2="202" y2="200" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Left pan string + pan -->
+  <line x1="88" y1="200" x2="88" y2="214" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M74,214 Q88,220 102,214" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Right pan string + pan (same height = equal) -->
+  <line x1="202" y1="200" x2="202" y2="214" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M188,214 Q202,220 216,214" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

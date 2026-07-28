@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Heat indicator (right side flame icon with arrow) -->
+  <path d="M30 110 L30 60" fill="none" stroke="#d01424" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M22 70 L30 56 L38 70 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M26 96 L34 96" stroke="#d01424" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Browning arrow over pan (showing color change) -->
+  <path d="M90 60 Q145 36 200 60" fill="none" stroke="#5e1f0a" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M192 52 L204 64 L196 70 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small swatches showing color transition pale->amber->brown -->
+  <circle cx="100" cy="76" r="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="44" r="7" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="76" r="7" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pan (skillet from above-ish with handle) -->
+  <ellipse cx="135" cy="160" rx="100" ry="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <path d="M35 160 Q35 200 55 208 L215 208 Q235 200 235 160 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="135" cy="160" rx="92" ry="11" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Handle -->
+  <rect x="230" y="156" width="50" height="12" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Caramelizing onions / sugar bits in pan (mix of pale & amber rings) -->
+  <path d="M70 160 Q80 152 92 158 Q104 152 116 160 Q104 168 92 162 Q80 168 70 160 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M122 158 Q132 150 144 156 Q156 150 168 158 Q156 166 144 160 Q132 166 122 158 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M172 160 Q182 152 194 158 Q206 152 218 160 Q206 168 194 162 Q182 168 172 160 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Amber ring highlights on onions -->
+  <path d="M78 158 Q92 154 110 158" fill="none" stroke="#f2e40d" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M130 156 Q144 152 162 156" fill="none" stroke="#ff9900" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M180 158 Q194 154 212 158" fill="none" stroke="#7d5e23" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Flame underneath -->
+  <path d="M110 232 Q104 222 110 212 Q113 218 117 212 Q119 206 124 200 Q126 210 122 216 Q129 210 127 202 Q134 210 130 220 Q134 216 134 210 Q140 220 136 232 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M144 232 Q138 222 144 212 Q147 218 151 212 Q153 206 158 200 Q160 210 156 216 Q163 210 161 202 Q168 210 164 220 Q168 216 168 210 Q174 220 170 232 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

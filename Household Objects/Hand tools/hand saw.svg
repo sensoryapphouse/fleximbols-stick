@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- hand-saw: flat triangular toothed steel blade with a closed wooden pistol-grip handle -->
+  <!-- Main blade body - flat triangular shape tapering to tip -->
+  <polygon points="55,145 55,105 230,90 230,110 55,145" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Blade back (spine) thickness -->
+  <rect x="55" y="90" width="175" height="20" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Teeth along bottom edge of blade -->
+  <!-- Row of triangular teeth -->
+  <polyline points="55,145 62,130 69,145 76,130 83,145 90,130 97,145 104,130 111,145 118,130 125,145 132,130 139,145 146,130 153,145 160,130 167,145 174,130 181,145 188,130 195,145 202,130 209,145 216,130 223,145 230,135 230,110" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Blade stiffener cutout holes -->
+  <ellipse cx="140" cy="105" rx="18" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="190" cy="102" rx="14" ry="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Wooden pistol-grip handle - closed loop style -->
+  <!-- Handle body outer -->
+  <path d="M55,90 Q52,82 50,75 Q48,65 55,58 Q62,52 72,56 Q80,60 82,70 L82,105 Q70,110 55,105Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Handle inner opening (closed pistol grip) -->
+  <path d="M58,78 Q57,70 62,66 Q68,62 73,66 Q77,70 76,78 L76,96 Q68,100 60,96Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- Handle wood grain lines -->
+  <line x1="55" y1="68" x2="68" y2="64" stroke="#7d5e23" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="54" y1="76" x2="68" y2="72" stroke="#7d5e23" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="54" y1="84" x2="68" y2="82" stroke="#7d5e23" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Handle attachment screws -->
+  <circle cx="64" cy="105" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="78" cy="108" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.70"/>
+</g></svg>

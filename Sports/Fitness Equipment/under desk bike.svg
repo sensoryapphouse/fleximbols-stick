@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Desk surface above -->
+  <rect x="20" y="40" width="250" height="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Desk legs -->
+  <rect x="30" y="52" width="10" height="170" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="250" y="52" width="10" height="170" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Compact pedal exerciser base (under desk) -->
+  <rect x="100" y="170" width="100" height="35" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33" rx="6"/>
+  <!-- Display/console -->
+  <rect x="135" y="178" width="30" height="14" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="138" y="181" width="24" height="8" fill="#529929" stroke="#1a1a1a" stroke-width="1.78"/>
+  <!-- Pedal arm left -->
+  <line x1="115" y1="187" x2="90" y2="160" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Pedal arm right -->
+  <line x1="185" y1="187" x2="210" y2="215" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Pedal left (foot on it) -->
+  <rect x="78" y="148" width="28" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" rx="2"/>
+  <!-- Pedal right -->
+  <rect x="200" y="208" width="28" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" rx="2"/>
+  <!-- Foot on top pedal (showing leg) -->
+  <ellipse cx="92" cy="148" rx="10" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Leg up to seat (person partial - leg only since under desk) -->
+  <path d="M 88 148 L 80 105 L 95 100 L 105 145 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Foot on bottom pedal -->
+  <ellipse cx="214" cy="208" rx="10" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Other leg -->
+  <path d="M 210 208 L 200 165 L 215 160 L 224 205 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Crank center -->
+  <circle cx="150" cy="187" r="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="187" r="3" fill="#000000"/>
+  <!-- Side handle -->
+  <rect x="90" y="186" width="15" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="195" y="186" width="15" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+</g></svg>

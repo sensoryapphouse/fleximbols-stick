@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- handle/grip -->
+  <rect x="178" y="170" width="22" height="50" rx="4" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- grip wrap lines -->
+  <path d="M 180 178 L 198 184" stroke="#1a1a1a" stroke-width="5.72"/>
+  <path d="M 180 192 L 198 198" stroke="#1a1a1a" stroke-width="5.72"/>
+  <path d="M 180 206 L 198 212" stroke="#1a1a1a" stroke-width="5.72"/>
+  <!-- shaft -->
+  <rect x="183" y="138" width="12" height="40" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="9.53"/>
+  <!-- throat -->
+  <path d="M 165 130 L 213 130 L 200 148 L 178 148 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="9.53" stroke-linejoin="round"/>
+  <!-- head oval (small, round - badminton) -->
+  <ellipse cx="120" cy="90" rx="78" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="12.70"/>
+  <ellipse cx="120" cy="90" rx="78" ry="58" fill="none" stroke="#2a4ec0" stroke-width="6.35"/>
+  <!-- strings vertical -->
+  <line x1="70" y1="55" x2="70" y2="125" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="90" y1="42" x2="90" y2="138" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="110" y1="36" x2="110" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="130" y1="36" x2="130" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="150" y1="42" x2="150" y2="138" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="170" y1="55" x2="170" y2="125" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- strings horizontal -->
+  <line x1="48" y1="70" x2="192" y2="70" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="44" y1="90" x2="196" y2="90" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="48" y1="110" x2="192" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

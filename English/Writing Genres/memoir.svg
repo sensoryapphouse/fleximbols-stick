@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- book back cover -->
+  <path d="M50 28 L240 28 L240 220 L50 220 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- front cover (warm cream) -->
+  <path d="M58 34 L234 34 L234 214 L58 214 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- spine accent -->
+  <line x1="58" y1="34" x2="58" y2="214" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- title plaque MEMOIR -->
+  <rect x="74" y="48" width="144" height="22" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.34"/>
+  <line x1="84" y1="59" x2="208" y2="59" stroke="#ffffff" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- personal photo frame on cover -->
+  <rect x="92" y="86" width="108" height="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- photo: portrait bust (vintage-style sepia) -->
+  <rect x="100" y="94" width="92" height="84" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- head -->
+  <circle cx="146" cy="130" r="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- hair -->
+  <path d="M128 128 Q130 108 146 108 Q162 108 164 128 Q156 122 146 122 Q136 122 128 128 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- face -->
+  <circle cx="140" cy="130" r="1.5" fill="#000000"/>
+  <circle cx="152" cy="130" r="1.5" fill="#000000"/>
+  <path d="M140 138 Q146 142 152 138" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- shoulders bust -->
+  <path d="M120 178 Q120 156 146 156 Q172 156 172 178 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- photo corner tabs (album feel) -->
+  <path d="M92 86 L102 86 L92 96 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M200 86 L190 86 L200 96 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M92 186 L102 186 L92 176 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <path d="M200 186 L190 186 L200 176 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- author byline line -->
+  <line x1="92" y1="198" x2="200" y2="198" stroke="#5e1f0a" stroke-width="5.34" stroke-linecap="round"/>
+</g></svg>

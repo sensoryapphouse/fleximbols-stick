@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl shadow -->
+  <ellipse cx="145" cy="218" rx="95" ry="12" fill="#b8b8b8" stroke="none"/>
+  <!-- Bowl body -->
+  <path d="M42,148 Q42,210 145,216 Q248,210 248,148 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="148" rx="103" ry="18" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bowl interior ellipse -->
+  <ellipse cx="145" cy="148" rx="90" ry="13" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Banana (back, yellow arc) -->
+  <path d="M80,138 Q95,95 155,100 Q175,102 178,115" fill="none" stroke="#f2e40d" stroke-width="12.44" stroke-linecap="round"/>
+  <path d="M80,138 Q95,95 155,100 Q175,102 178,115" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Banana tip left -->
+  <circle cx="80" cy="138" r="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Banana tip right -->
+  <circle cx="178" cy="115" r="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Orange (back right) -->
+  <circle cx="195" cy="128" r="32" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M195,98 Q198,92 195,88 Q192,92 195,98" fill="#529929" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Orange texture lines -->
+  <path d="M175,112 Q195,108 215,118" fill="none" stroke="#e65a00" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M170,128 Q195,122 220,130" fill="none" stroke="#e65a00" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Apple (front left, red) -->
+  <path d="M72,108 Q68,85 95,78 Q122,71 130,95 Q138,118 115,135 Q92,140 72,108 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Apple stem -->
+  <path d="M101,78 Q103,65 106,60" fill="none" stroke="#529929" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Apple leaf -->
+  <path d="M106,68 Q116,60 118,70 Q110,74 106,68 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <!-- Apple highlight -->
+  <ellipse cx="88" cy="95" rx="10" ry="14" fill="#d01424" stroke="none"/>
+  <!-- Grapes (front centre, purple cluster) -->
+  <circle cx="140" cy="145" r="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="158" cy="142" r="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="149" cy="128" r="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="165" cy="128" r="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="157" cy="114" r="13" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Grape highlights -->
+  <circle cx="144" cy="122" r="4" fill="#9d7246" stroke="none"/>
+  <circle cx="144" cy="122" r="4" fill="#f4a4b2" stroke="none"/>
+  <circle cx="160" cy="120" r="4" fill="#f4a4b2" stroke="none"/>
+  <!-- Grape stem -->
+  <path d="M157,101 Q157,92 160,88" fill="none" stroke="#529929" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Strawberry (front right of bowl rim) -->
+  <path d="M192,148 Q200,128 208,148 Q216,140 212,156 Q208,164 200,162 Q192,164 188,156 Q184,140 192,148 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M200,130 Q198,122 200,118 Q202,122 200,130" fill="#529929" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Strawberry seeds -->
+  <circle cx="196" cy="145" r="2" fill="#f7de58" stroke="none"/>
+  <circle cx="204" cy="143" r="2" fill="#f7de58" stroke="none"/>
+  <circle cx="200" cy="152" r="2" fill="#f7de58" stroke="none"/>
+</g></svg>

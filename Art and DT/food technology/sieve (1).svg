@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- fine mesh round sieve with handle + bowl shape -->
+  <!-- handle (extending right) -->
+  <rect x="215" y="100" width="65" height="14" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- handle hanging hole -->
+  <circle cx="270" cy="107" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- bowl side (curve from front) -->
+  <path d="M 35 100 Q 40 175 145 195 Q 230 175 235 100 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="11.86" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top rim ellipse -->
+  <ellipse cx="135" cy="100" rx="100" ry="25" fill="#efefef" stroke="#1a1a1a" stroke-width="11.86"/>
+  <!-- inner mesh area -->
+  <ellipse cx="135" cy="100" rx="88" ry="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- fine mesh crosshatch pattern (subtle, AAC-friendly) -->
+  <path d="M 60 100 L 210 100" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 70 92 L 200 92" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 70 108 L 200 108" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 80 84 L 190 84" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 80 116 L 190 116" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 75 80 L 75 120" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 100 78 L 100 122" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 130 76 L 130 124" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 160 78 L 160 122" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 185 80 L 185 120" stroke="#7f7f7f" stroke-width="4.45"/>
+  <!-- handle attachment band -->
+  <rect x="210" y="96" width="14" height="22" rx="2" fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- flour dust falling through mesh (motion cue) -->
+  <circle cx="100" cy="160" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="120" cy="175" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="170" cy="180" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="155" cy="155" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

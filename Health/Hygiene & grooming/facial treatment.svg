@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- facial-treatment: person reclined with face mask/cream applied + spa setting -->
+
+  <!-- spa table / lounger surface -->
+  <rect x="20" y="155" width="250" height="20" rx="6" ry="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- table legs -->
+  <line x1="45" y1="175" x2="45" y2="210" stroke="#5e1f0a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="245" y1="175" x2="245" y2="210" stroke="#5e1f0a" stroke-width="7.40" stroke-linecap="round"/>
+
+  <!-- towel/sheet covering body -->
+  <path d="M 70,155 L 240,155 L 230,140 L 80,140 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- body under towel (reclined) -->
+  <rect x="80" y="135" width="150" height="22" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- head (reclined, facing up - viewer sees top of head + face from above) -->
+  <ellipse cx="65" cy="135" rx="32" ry="26" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40"/>
+
+  <!-- hair around head (headband / spa wrap) -->
+  <path d="M 38,128 Q 35,118 50,115 Q 65,113 80,115 Q 95,118 92,128 L 88,125 Q 65,120 42,125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- face mask cream on face (mint/green spread) -->
+  <ellipse cx="65" cy="138" rx="22" ry="18" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- cucumber slices on eyes -->
+  <circle cx="55" cy="133" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="55" cy="133" r="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="75" cy="133" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="75" cy="133" r="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="1.48"/>
+
+  <!-- small smile / mouth -->
+  <path d="M 60,148 Q 65,151 70,148" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+
+  <!-- spa elements (top right) -->
+  <!-- candle -->
+  <rect x="200" y="80" width="18" height="40" rx="2" ry="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- wick -->
+  <line x1="209" y1="80" x2="209" y2="73" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- flame -->
+  <path d="M 209,72 Q 204,66 209,58 Q 214,66 209,72 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- cream jar (top right) -->
+  <rect x="232" y="92" width="32" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="228" y="84" width="40" height="12" rx="3" ry="3" fill="#f266aa" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- aromatic steam swirls (top left) -->
+  <path d="M 110,50 Q 118,42 110,34 Q 102,28 110,20" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 130,55 Q 138,47 130,39 Q 122,33 130,25" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 150,50 Q 158,42 150,34 Q 142,28 150,20" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

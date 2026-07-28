@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="92.43 81.34 265.70 265.70">
+<!-- splinter: a hand with a splinter and a pain burst -->
+
+<!-- fingers (drawn first; bases sink into the palm) -->
+<rect x="176" y="96"  width="24" height="96" rx="12" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="204" y="88"  width="24" height="104" rx="12" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="232" y="90"  width="24" height="102" rx="12" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="260" y="100" width="24" height="92" rx="12" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+
+<!-- palm (rounded square) drawn over the finger bases so they fuse -->
+<path d="M 170 170
+         Q 168 150 190 148
+         L 272 148
+         Q 296 150 296 176
+         L 296 260
+         Q 296 320 232 320
+         Q 168 320 168 260
+         Z"
+      fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+<!-- thumb attached to the left side of the palm -->
+<path d="M 172 208
+         Q 138 206 134 232
+         Q 132 256 160 256
+         Q 176 256 176 236 Z"
+      fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- cover the thumb/palm seam -->
+<rect x="168" y="208" width="16" height="50" fill="#f1c9a5" stroke="none"/>
+
+<!-- splinter: brown sliver going into the palm -->
+<line x1="212" y1="266" x2="252" y2="226" stroke="#6b3f1c" stroke-width="7" stroke-linecap="round"/>
+<!-- red pain burst at the entry point -->
+<circle cx="250" cy="230" r="5" fill="#d8352a"/>
+<g stroke="#d8352a" stroke-width="4" stroke-linecap="round">
+  <line x1="257" y1="230" x2="268" y2="230"/>
+  <line x1="255" y1="235" x2="262" y2="242"/>
+  <line x1="250" y1="237" x2="250" y2="248"/>
+  <line x1="245" y1="235" x2="238" y2="242"/>
+  <line x1="243" y1="230" x2="232" y2="230"/>
+  <line x1="245" y1="225" x2="238" y2="218"/>
+  <line x1="250" y1="223" x2="250" y2="212"/>
+  <line x1="255" y1="225" x2="262" y2="218"/>
+</g>
+</svg>

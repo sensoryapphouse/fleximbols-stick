@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Night sky background (top portion) -->
+  <rect x="10" y="10" width="270" height="180" rx="8" ry="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55"/>
+
+  <!-- Stars in sky -->
+  <circle cx="40" cy="35" r="2.5" fill="#ffffff"/>
+  <circle cx="65" cy="22" r="2" fill="#ffffff"/>
+  <circle cx="85" cy="45" r="2.5" fill="#ffffff"/>
+  <circle cx="110" cy="28" r="2" fill="#ffffff"/>
+  <circle cx="135" cy="18" r="3" fill="#f7de58"/>
+  <circle cx="160" cy="30" r="2" fill="#ffffff"/>
+  <circle cx="185" cy="20" r="2.5" fill="#ffffff"/>
+  <circle cx="210" cy="38" r="2" fill="#ffffff"/>
+  <circle cx="240" cy="25" r="2.5" fill="#ffffff"/>
+  <circle cx="260" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="55" cy="58" r="2" fill="#ffffff"/>
+  <circle cx="128" cy="50" r="2" fill="#ffffff"/>
+  <circle cx="245" cy="60" r="2.5" fill="#ffffff"/>
+
+  <!-- Planet (Saturn-like with ring) -->
+  <ellipse cx="215" cy="65" rx="22" ry="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="215" cy="65" rx="35" ry="10" fill="none" stroke="#e65a00" stroke-width="3.33"/>
+  <!-- Stripe on planet -->
+  <path d="M195,62 Q215,58 235,62" fill="none" stroke="#e65a00" stroke-width="2.78" stroke-linecap="round"/>
+
+  <!-- Crescent Moon -->
+  <circle cx="68" cy="70" r="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Mask circle to create crescent -->
+  <circle cx="80" cy="65" r="20" fill="#1d0e82" stroke="none"/>
+
+  <!-- Telescope body (lower-right pointing up-left toward sky) -->
+  <!-- Telescope tube -->
+  <rect x="155" y="120" width="95" height="35" rx="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(-35 202 137)"/>
+  <!-- Telescope barrel/objective lens end -->
+  <ellipse cx="174" cy="106" rx="14" ry="20" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-35 174 106)"/>
+  <!-- Eyepiece end -->
+  <ellipse cx="242" cy="165" rx="10" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-35 242 165)"/>
+
+  <!-- Telescope mount/tripod -->
+  <line x1="215" y1="175" x2="185" y2="225" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="215" y1="175" x2="215" y2="230" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="215" y1="175" x2="248" y2="225" stroke="#4d4d4d" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Tripod feet -->
+  <line x1="182" y1="225" x2="190" y2="225" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="212" y1="230" x2="220" y2="230" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="245" y1="225" x2="253" y2="225" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- View line from telescope to sky (sight line) -->
+  <line x1="174" y1="106" x2="135" y2="70" stroke="#fff200" stroke-width="1.67" stroke-linecap="round" stroke-dasharray="8,5"/>
+
+  <!-- Ground / horizon line -->
+  <rect x="10" y="190" width="270" height="40" rx="0" ry="0" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="10" y="186" width="270" height="6" rx="0" fill="#67832d"/>
+</g></svg>

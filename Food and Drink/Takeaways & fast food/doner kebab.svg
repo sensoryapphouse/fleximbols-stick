@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(256 256) scale(1.02) translate(-256 -256)">
+<defs><clipPath id="wrapclip"><path d="M 196 150 L 316 150 L 360 396 C 360 420 330 432 256 432 C 182 432 152 420 152 396 Z"/></clipPath></defs>
+<!-- fillings inside the wrap (clipped to wrap shape) -->
+<g clip-path="url(#wrapclip)">
+<rect x="140" y="150" width="232" height="300" fill="#f0d9a6"/>
+<!-- lettuce frill near top -->
+<path d="M 150 188 q 18 -22 36 0 q 18 -22 36 0 q 18 -22 36 0 q 18 -22 36 0 q 18 -22 36 0 l 0 40 l -180 0 Z" fill="#5fb24a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- doner meat shavings (stacked strips) -->
+<path d="M 150 226 q 26 -18 52 0 q 26 -18 52 0 q 26 -18 52 0 l 0 26 l -156 0 Z" fill="#b5502f" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 150 256 q 26 -16 52 0 q 26 -16 52 0 q 26 -16 52 0 l 0 24 l -156 0 Z" fill="#c25e36" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 152 286 q 26 -16 52 0 q 26 -16 52 0 q 26 -16 52 0 l 0 24 l -156 0 Z" fill="#b5502f" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- tomato + onion bits -->
+<circle cx="196" cy="208" r="10" fill="#d63b46" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="300" cy="206" r="10" fill="#d63b46" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M 244 206 a 12 12 0 0 1 24 0" fill="none" stroke="#e9eef2" stroke-width="5"/>
+</g>
+<!-- flatbread wrap outline (cone) -->
+<path d="M 196 150 L 316 150 L 360 396 C 360 420 330 432 256 432 C 182 432 152 420 152 396 Z" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- folded paper wrap over lower half -->
+<path d="M 162 330 L 350 330 L 360 396 C 360 420 330 432 256 432 C 182 432 152 420 152 396 Z" fill="#eef1f4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- paper fold lines -->
+<line x1="210" y1="332" x2="226" y2="430" stroke="#b9bdc2" stroke-width="6" stroke-linecap="round"/>
+<line x1="256" y1="332" x2="256" y2="432" stroke="#b9bdc2" stroke-width="6" stroke-linecap="round"/>
+<line x1="302" y1="332" x2="286" y2="430" stroke="#b9bdc2" stroke-width="6" stroke-linecap="round"/>
+</g></svg>

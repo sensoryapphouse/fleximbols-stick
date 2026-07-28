@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="75.56 99.45 333.58 333.58"><g transform="rotate(30 256 256)">
+<!-- handle -->
+<rect x="222" y="250" width="68" height="170" rx="18" fill="#39414b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- grip ridges -->
+<line x1="230" y1="300" x2="282" y2="300" stroke="#6b7480" stroke-width="5" stroke-linecap="round"/>
+<line x1="230" y1="326" x2="282" y2="326" stroke="#6b7480" stroke-width="5" stroke-linecap="round"/>
+<line x1="230" y1="352" x2="282" y2="352" stroke="#6b7480" stroke-width="5" stroke-linecap="round"/>
+<!-- head housing -->
+<rect x="212" y="178" width="88" height="80" rx="16" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- viewing lens -->
+<circle cx="256" cy="206" r="20" fill="#9fd0ef" stroke="#1a1a1a" stroke-width="6"/>
+<!-- conical speculum tip -->
+<path d="M 240 178 L 272 178 L 264 120 L 248 120 Z" fill="#e8a33d" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- light glint -->
+<circle cx="256" cy="112" r="9" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

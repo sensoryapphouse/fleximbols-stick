@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Breadboard circuit: breadboard with hole grid + jumper wires + LED + resistor -->
+  <!-- Breadboard body -->
+  <rect x="30" y="55" width="230" height="140" rx="8" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- Power rail top (red) -->
+  <rect x="30" y="55" width="230" height="18" rx="8" ry="0" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Power rail bottom (blue) -->
+  <rect x="30" y="177" width="230" height="18" rx="0" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Center divider gap -->
+  <rect x="30" y="127" width="230" height="8" rx="0" fill="#b8b8b8" stroke="none"/>
+  <line x1="30" y1="131" x2="260" y2="131" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Breadboard holes - top section rows (simplified grid) -->
+  <!-- Row a -->
+  <circle cx="55" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="89" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="106" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="123" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="191" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="242" cy="87" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row b -->
+  <circle cx="55" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="89" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="106" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="123" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="191" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="242" cy="101" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row c -->
+  <circle cx="55" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="89" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="106" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="123" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="191" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="242" cy="115" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row d (bottom section) -->
+  <circle cx="55" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="89" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="106" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="123" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="191" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="242" cy="143" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Row e -->
+  <circle cx="55" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="89" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="106" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="123" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="191" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="242" cy="157" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Power rail holes -->
+  <circle cx="72" cy="64" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="106" cy="64" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="64" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="64" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="64" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="186" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="106" cy="186" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="186" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="186" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="208" cy="186" r="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Jumper wire 1 (red, horizontal top section) -->
+  <path d="M89,101 Q89,78 140,78 Q191,78 191,101" fill="none" stroke="#f8130d" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Jumper wire 2 (blue, jumps gap) -->
+  <path d="M123,115 Q123,131 123,143" fill="none" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Jumper wire 3 (yellow) -->
+  <path d="M157,87 Q157,80 191,80 Q210,80 208,87" fill="none" stroke="#f2e40d" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Resistor (placed between cols, tan body with stripes) -->
+  <rect x="148" y="97" width="28" height="10" rx="4" ry="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <line x1="157" y1="97" x2="157" y2="107" stroke="#f8130d" stroke-width="6.67"/>
+  <line x1="163" y1="97" x2="163" y2="107" stroke="#4d4d4d" stroke-width="6.67"/>
+  <line x1="169" y1="97" x2="169" y2="107" stroke="#f7de58" stroke-width="6.67"/>
+  <line x1="148" y1="102" x2="143" y2="102" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="176" y1="102" x2="181" y2="102" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- LED (placed in bottom section) -->
+  <!-- LED body -->
+  <ellipse cx="89" cy="150" rx="7" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- LED flat edge -->
+  <line x1="83" y1="155" x2="95" y2="155" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- LED leads -->
+  <line x1="86" y1="158" x2="86" y2="165" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="92" y1="158" x2="92" y2="165" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- LED glow -->
+  <line x1="96" y1="140" x2="103" y2="135" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="145" x2="108" y2="143" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="97" y1="151" x2="105" y2="152" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

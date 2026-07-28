@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Churning water / rapids background -->
+  <path d="M 15 190 Q 45 178 75 190 Q 105 202 135 190 Q 165 178 195 190 Q 225 202 275 190" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 15 208 Q 55 196 95 208 Q 135 218 175 208 Q 215 198 275 208" fill="none" stroke="#90a7d6" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- White water foam -->
+  <path d="M 30 185 Q 40 175 52 182" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 180 195 Q 195 182 210 190" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 110 200 Q 120 188 132 196" fill="none" stroke="#dff3fd" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Raft tube (inflatable rim) -->
+  <path d="M 45 183 Q 145 165 245 183 Q 248 197 145 205 Q 42 205 45 183 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Raft inner floor -->
+  <path d="M 65 185 Q 145 172 225 185 Q 225 198 145 200 Q 65 200 65 185 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 1 (left) - torso -->
+  <line x1="100" y1="135" x2="100" y2="175" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 1 head -->
+  <circle cx="100" cy="122" r="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 1 helmet -->
+  <path d="M 87 120 Q 100 104 113 120" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 1 PFD -->
+  <path d="M 89 142 Q 100 136 111 142 L 112 168 Q 100 173 88 168 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 1 arms + paddle -->
+  <line x1="100" y1="148" x2="70" y2="138" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="100" y1="148" x2="115" y2="135" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddle 1 shaft -->
+  <line x1="58" y1="145" x2="125" y2="128" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddle 1 blade in water -->
+  <path d="M 48 148 Q 43 138 54 134 Q 64 132 65 144 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddle 1 blade up -->
+  <path d="M 128 125 Q 132 115 142 118 Q 145 126 138 131 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 2 (right) - torso -->
+  <line x1="190" y1="135" x2="190" y2="175" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 2 head -->
+  <circle cx="190" cy="122" r="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 2 helmet -->
+  <path d="M 177 120 Q 190 104 203 120" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 2 PFD -->
+  <path d="M 179 142 Q 190 136 201 142 L 202 168 Q 190 173 178 168 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure 2 arms + paddle -->
+  <line x1="190" y1="148" x2="175" y2="135" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="190" y1="148" x2="220" y2="138" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddle 2 shaft -->
+  <line x1="165" y1="128" x2="232" y2="145" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddle 2 blade up-left -->
+  <path d="M 152 124 Q 148 114 158 111 Q 168 112 168 124 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Paddle 2 blade in water right -->
+  <path d="M 236 142 Q 242 132 252 136 Q 254 146 245 150 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Water splash around raft -->
+  <path d="M 42 188 Q 32 178 24 184" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 248 188 Q 258 178 266 184" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

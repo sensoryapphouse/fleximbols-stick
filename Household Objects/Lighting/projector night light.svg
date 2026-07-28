@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ceiling line -->
+  <line x1="15" y1="22" x2="275" y2="22" stroke="#4d4d4d" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- circle of projected light on ceiling -->
+  <ellipse cx="145" cy="38" rx="120" ry="20" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- stars inside projected circle -->
+  <path d="M70 36 L73 42 L80 43 L75 48 L76 55 L70 51 L64 55 L65 48 L60 43 L67 42 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M110 32 L113 38 L120 39 L115 44 L116 51 L110 47 L104 51 L105 44 L100 39 L107 38 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M150 38 L153 44 L160 45 L155 50 L156 57 L150 53 L144 57 L145 50 L140 45 L147 44 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M190 32 L193 38 L200 39 L195 44 L196 51 L190 47 L184 51 L185 44 L180 39 L187 38 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M225 36 L228 42 L235 43 L230 48 L231 55 L225 51 L219 55 L220 48 L215 43 L222 42 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <!-- light cone from projector to ceiling -->
+  <path d="M120 145 L40 60 L250 60 L170 145 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- projector base -->
+  <ellipse cx="145" cy="200" rx="80" ry="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- projector dome body -->
+  <path d="M90 200 Q90 140 145 140 Q200 140 200 200 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- lens on top -->
+  <circle cx="145" cy="142" r="18" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="145" cy="142" r="9" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- power button -->
+  <circle cx="145" cy="190" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- side vents -->
+  <line x1="105" y1="175" x2="120" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="105" y1="185" x2="120" y2="185" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="175" x2="185" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="185" x2="185" y2="185" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

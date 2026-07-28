@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="45.58 75.44 420.85 420.85"><!-- net of a cube: six squares in a cross/T arrangement, flat -->
+<!-- column of 4 squares (vertical), plus one left and one right on the 2nd square -->
+<!-- square size 100, grid origin so whole net is centred -->
+<!-- vertical strip: x 206..306, rows y 100,200,300,400 -> but keep within 95-415 -->
+<!-- use squares of 90 to fit arms -->
+<!-- centre vertical column at x 211..301 -->
+<rect x="211" y="106" width="90" height="90" fill="#9ec7f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="211" y="196" width="90" height="90" fill="#9ec7f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="211" y="286" width="90" height="90" fill="#9ec7f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="211" y="376" width="90" height="90" fill="#9ec7f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left arm on 2nd square -->
+<rect x="121" y="196" width="90" height="90" fill="#9ec7f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right arm on 2nd square -->
+<rect x="301" y="196" width="90" height="90" fill="#9ec7f0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

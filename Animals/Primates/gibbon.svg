@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- branch to hang from -->
+<line x1="120" y1="118" x2="392" y2="118" stroke="#6b4a2b" stroke-width="16" stroke-linecap="round"/>
+<!-- very long arms gripping branch -->
+<path d="M 150 120 C 138 200 168 252 208 286" fill="none" stroke="#3a3030" stroke-width="30" stroke-linecap="round"/>
+<path d="M 362 120 C 374 200 344 252 304 286" fill="none" stroke="#3a3030" stroke-width="30" stroke-linecap="round"/>
+<!-- hands curled over branch -->
+<circle cx="150" cy="122" r="20" fill="#3a3030" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="362" cy="122" r="20" fill="#3a3030" stroke="#1a1a1a" stroke-width="8"/>
+<!-- body -->
+<path d="M 256 256 C 296 256 314 300 314 344 C 314 392 290 420 256 420 C 222 420 198 392 198 344 C 198 300 216 256 256 256 Z" fill="#4a4040" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- legs tucked -->
+<path d="M 232 408 C 214 426 196 426 186 410" fill="none" stroke="#3a3030" stroke-width="24" stroke-linecap="round"/>
+<path d="M 280 408 C 298 426 316 426 326 410" fill="none" stroke="#3a3030" stroke-width="24" stroke-linecap="round"/>
+<!-- head dark -->
+<circle cx="256" cy="232" r="62" fill="#3a3030" stroke="#1a1a1a" stroke-width="9"/>
+<!-- pale face ring -->
+<path d="M 256 188 C 286 188 304 212 304 240 C 304 270 284 290 256 290 C 228 290 208 270 208 240 C 208 212 226 188 256 188 Z" fill="#e8d3b0" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- face features -->
+<circle cx="238" cy="232" r="9" fill="#1a1a1a"/>
+<circle cx="274" cy="232" r="9" fill="#1a1a1a"/>
+<ellipse cx="248" cy="258" rx="4" ry="5" fill="#1a1a1a"/>
+<ellipse cx="264" cy="258" rx="4" ry="5" fill="#1a1a1a"/>
+<path d="M 240 274 Q 256 282 272 274" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+</svg>

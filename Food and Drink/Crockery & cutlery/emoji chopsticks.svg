@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bamboo/cherry blossom hint background bowl, small Asian context -->
+  <ellipse cx="220" cy="195" rx="55" ry="15" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 165 195 Q 220 175 275 195 L 270 205 Q 220 215 170 205 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- gold rim ring on bowl -->
+  <ellipse cx="220" cy="195" rx="55" ry="13" fill="none" stroke="#f2e40d" stroke-width="2.96"/>
+  <!-- chopstick 1 (left-leaning) -->
+  <polygon points="40,40 60,30 230,200 215,215"
+           fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- darker tip -->
+  <polygon points="210,195 230,200 215,215 200,210"
+           fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- top end cap -->
+  <polygon points="40,40 60,30 65,40 45,50"
+           fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- chopstick 2 (right-leaning, crossing the first) -->
+  <polygon points="250,40 230,30 60,200 75,215"
+           fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="80,195 60,200 75,215 90,210"
+           fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="250,40 230,30 225,40 245,50"
+           fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- grain lines on chopstick 1 -->
+  <line x1="80" y1="65" x2="95" y2="60" stroke="#5e1f0a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="130" y1="115" x2="145" y2="110" stroke="#5e1f0a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="180" y1="165" x2="195" y2="160" stroke="#5e1f0a" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

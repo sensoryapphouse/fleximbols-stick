@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pan base -->
+  <rect x="30" y="192" width="200" height="14" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Pan handle -->
+  <rect x="220" y="195" width="50" height="8" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pan rim ellipse -->
+  <ellipse cx="130" cy="192" rx="100" ry="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Pan interior -->
+  <ellipse cx="130" cy="189" rx="92" ry="14" fill="#7f7f7f"/>
+  <!-- Egg white - round flat, been flipped -->
+  <path d="M48,178 Q42,162 58,152 Q78,138 108,152 Q122,140 148,143 Q170,138 192,153 Q215,162 218,178 Q220,192 195,196 Q162,202 130,202 Q97,202 62,196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cooked top surface (slightly browned after flip) -->
+  <ellipse cx="130" cy="185" rx="80" ry="18" fill="#efefef"/>
+  <!-- Slight browning at edge of cooked side -->
+  <ellipse cx="130" cy="186" rx="80" ry="16" fill="none" stroke="#e6b98a" stroke-width="5.33"/>
+  <!-- Yolk - flat, slightly bulging but NO dome, closed/sealed after flip -->
+  <!-- Yolk is flat circle, no tall dome like sunny-side -->
+  <ellipse cx="130" cy="178" rx="26" ry="22" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="130" cy="178" rx="22" ry="18" fill="#f2e40d"/>
+  <!-- Very slight bulge indication - small central rise -->
+  <ellipse cx="130" cy="175" rx="14" ry="12" fill="#f7de58"/>
+  <!-- Slight highlight - low dome -->
+  <ellipse cx="125" cy="172" r="5" fill="#fff200"/>
+  <!-- Brown edge crust line to show it was flipped -->
+  <ellipse cx="130" cy="186" rx="74" ry="14" fill="none" stroke="#9d7246" stroke-width="2.67" stroke-dasharray="6,5"/>
+</g></svg>

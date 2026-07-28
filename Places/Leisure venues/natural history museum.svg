@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Natural history museum: classical columned building with dinosaur skeleton silhouette on facade -->
+  <!-- Building base steps -->
+  <rect x="18" y="212" width="254" height="14" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="26" y="200" width="238" height="14" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Main building body -->
+  <rect x="34" y="112" width="222" height="90" rx="4" ry="4" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pediment -->
+  <polygon points="22,112 145,46 268,112" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <polygon points="50,112 145,62 240,112" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- 6 columns -->
+  <rect x="44" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="80" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="116" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="156" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="192" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="228" y="112" width="18" height="88" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Column capitals -->
+  <rect x="40" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="76" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="112" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="152" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="188" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="224" y="112" width="26" height="6" rx="2" ry="2" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- DINOSAUR SKELETON silhouette on facade (T-rex style side profile) -->
+  <!-- Body/torso -->
+  <ellipse cx="145" cy="158" rx="28" ry="16" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <path d="M119,148 Q112,134 122,126" fill="none" stroke="#9d7246" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Head (skull) -->
+  <ellipse cx="116" cy="122" rx="14" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Jaw -->
+  <path d="M104,124 L130,128 L126,132 L104,130 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Eye socket -->
+  <circle cx="112" cy="119" r="4" fill="#000000" stroke="none"/>
+  <!-- Spine spikes -->
+  <line x1="145" y1="142" x2="148" y2="132" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="152" y1="142" x2="156" y2="131" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="159" y1="142" x2="164" y2="131" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tail -->
+  <path d="M173,158 Q188,162 200,154" fill="none" stroke="#9d7246" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- 2 small front arms -->
+  <line x1="126" y1="152" x2="116" y2="163" stroke="#9d7246" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="116" y1="163" x2="110" y2="170" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- 2 large hind legs -->
+  <line x1="140" y1="174" x2="134" y2="192" stroke="#9d7246" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="134" y1="192" x2="126" y2="198" stroke="#9d7246" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="155" y1="174" x2="152" y2="194" stroke="#9d7246" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="152" y1="194" x2="144" y2="200" stroke="#9d7246" stroke-width="5.55" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sponsored-ad: content card with "Ad" label bar + dollar coin corner -->
+  <!-- card -->
+  <rect x="30" y="28" width="200" height="184" rx="12" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- image area placeholder at top of card -->
+  <rect x="42" y="42" width="176" height="80" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- image placeholder diagonal lines -->
+  <line x1="42" y1="42" x2="218" y2="122" stroke="#b8b8b8" stroke-width="3.33"/>
+  <line x1="218" y1="42" x2="42" y2="122" stroke="#b8b8b8" stroke-width="3.33"/>
+  <!-- content lines -->
+  <rect x="42" y="136" width="140" height="10" rx="4" fill="#b8b8b8" stroke="none"/>
+  <rect x="42" y="154" width="110" height="10" rx="4" fill="#b8b8b8" stroke="none"/>
+  <!-- AD label bar (no letters — a coloured bar tag shape) -->
+  <rect x="42" y="174" width="80" height="24" rx="6" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- two short white bars inside ad-tag to represent text without being letters -->
+  <rect x="52" y="181" width="22" height="5" rx="2" fill="#ffffff" stroke="none"/>
+  <rect x="80" y="181" width="32" height="5" rx="2" fill="#ffffff" stroke="none"/>
+  <!-- dollar coin at bottom-right corner of card -->
+  <circle cx="218" cy="182" r="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="218" cy="182" r="20" fill="#f2e40d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- coin symbol — vertical bar + two horizontal bars (no letter) -->
+  <rect x="216" y="168" width="4" height="28" rx="2" fill="#000000" stroke="none"/>
+  <rect x="208" y="175" width="20" height="4" rx="2" fill="#000000" stroke="none"/>
+  <rect x="208" y="184" width="20" height="4" rx="2" fill="#000000" stroke="none"/>
+</g></svg>

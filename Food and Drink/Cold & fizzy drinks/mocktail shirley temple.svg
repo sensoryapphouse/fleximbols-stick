@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- tall glass body -->
+  <path d="M90 30 L100 220 L190 220 L200 30 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- pink-red liquid -->
+  <path d="M93 50 L102 215 L188 215 L197 50 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- ice cubes -->
+  <rect x="110" y="90" width="15" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="155" y="115" width="15" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="120" y="145" width="15" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="155" y="175" width="15" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- orange slice on rim -->
+  <path d="M75 22 Q108 20 105 50 Q80 50 75 35 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <path d="M82 30 L100 35" stroke="#ffffff" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M84 26 L100 45" stroke="#ffffff" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- cherry with stem -->
+  <line x1="165" y1="20" x2="175" y2="42" stroke="#5e1f0a" stroke-width="5.34" stroke-linecap="round"/>
+  <circle cx="176" cy="46" r="11" fill="#d01424" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="173" cy="43" r="2.5" fill="#ffffff"/>
+  <!-- bendy straw with kink -->
+  <path d="M130 15 L130 50 L138 58 L130 65 L132 220" fill="none" stroke="#fff200" stroke-width="10.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M125 15 L125 50 L133 58 L125 65 L127 220" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M135 15 L135 50 L143 58 L135 65 L137 220" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- straw stripes -->
+  <line x1="128" y1="22" x2="132" y2="22" stroke="#d01424" stroke-width="5.34"/>
+  <line x1="128" y1="32" x2="132" y2="32" stroke="#d01424" stroke-width="5.34"/>
+  <line x1="128" y1="42" x2="132" y2="42" stroke="#d01424" stroke-width="5.34"/>
+  <!-- glass shine -->
+  <line x1="105" y1="58" x2="108" y2="200" stroke="#ffffff" stroke-width="5.34" stroke-linecap="round"/>
+</g></svg>

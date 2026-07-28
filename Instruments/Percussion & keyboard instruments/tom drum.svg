@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Medium rounded tom drum mounted on a stand, tilted, deeper than snare, no snare wires -->
+
+  <!-- Mount arm (L-bracket from stand) -->
+  <rect x="148" y="30" width="8" height="70" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Horizontal arm -->
+  <rect x="118" y="30" width="50" height="10" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Mount clamp on drum -->
+  <rect x="138" y="88" width="20" height="14" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Tom drum shell - deeper cylinder, tilted ~10 degrees -->
+  <!-- Shell sides -->
+  <path d="M72 118 Q72 118 72 118 L80 188 L210 188 L218 118 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(-8, 145, 153)"/>
+
+  <!-- Bottom head -->
+  <ellipse cx="145" cy="185" rx="72" ry="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" transform="rotate(-8, 145, 185)"/>
+
+  <!-- Top head (batter) -->
+  <ellipse cx="145" cy="120" rx="72" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" transform="rotate(-8, 145, 120)"/>
+  <!-- Hoop on top head -->
+  <ellipse cx="145" cy="120" rx="72" ry="14" fill="none" stroke="#4d4d4d" stroke-width="4.45" transform="rotate(-8, 145, 120)"/>
+
+  <!-- Lug casings on shell -->
+  <rect x="84" y="130" width="12" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-8, 90, 141)"/>
+  <rect x="112" y="126" width="12" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-8, 118, 137)"/>
+  <rect x="162" y="126" width="12" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-8, 168, 137)"/>
+  <rect x="190" y="130" width="12" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-8, 196, 141)"/>
+
+  <!-- No snare wires (key differentiator from snare) -->
+  <!-- Single drumstick poised above -->
+  <line x1="230" y1="60" x2="168" y2="110" stroke="#9d7246" stroke-width="7.77" stroke-linecap="round"/>
+  <circle cx="166" cy="112" r="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

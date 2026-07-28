@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Screen/window frame -->
+  <rect x="20" y="35" width="250" height="170" rx="6" ry="6" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Menu bar strip across the top -->
+  <rect x="20" y="35" width="250" height="34" fill="#90a7d6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Apple-style left mark -->
+  <circle cx="38" cy="52" r="6" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- File menu label box -->
+  <rect x="54" y="44" width="38" height="18" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- "F" letter (path strokes) -->
+  <rect x="60" y="48" width="3" height="10" fill="#000000" stroke="none"/>
+  <rect x="60" y="48" width="8" height="3" fill="#000000" stroke="none"/>
+  <rect x="60" y="52" width="6" height="3" fill="#000000" stroke="none"/>
+  <!-- Edit menu label box -->
+  <rect x="96" y="44" width="38" height="18" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- "E" letter -->
+  <rect x="102" y="48" width="3" height="10" fill="#000000" stroke="none"/>
+  <rect x="102" y="48" width="8" height="3" fill="#000000" stroke="none"/>
+  <rect x="102" y="52" width="6" height="3" fill="#000000" stroke="none"/>
+  <rect x="102" y="55" width="8" height="3" fill="#000000" stroke="none"/>
+  <!-- View menu label box -->
+  <rect x="138" y="44" width="38" height="18" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- "V" letter (two diagonal bars) -->
+  <polygon points="144,48 147,48 150,57 153,48 156,48 152,60 148,60" fill="#000000" stroke="none"/>
+  <!-- Right side: clock & icons -->
+  <!-- Wifi arcs -->
+  <path d="M198 56 Q205 49 212 56" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M201 60 Q205 56 209 60" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="205" cy="63" r="2" fill="#000000"/>
+  <!-- Battery -->
+  <rect x="220" y="49" width="22" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="222" y="51" width="14" height="8" fill="#529929" stroke="none"/>
+  <rect x="242" y="52" width="3" height="6" fill="#000000" stroke="none"/>
+  <!-- Clock numerals 1 2 (path shapes) -->
+  <!-- "1" -->
+  <rect x="250" y="48" width="3" height="12" fill="#000000" stroke="none"/>
+  <!-- "2" -->
+  <polygon points="256,48 263,48 263,52 257,52 257,55 263,55 263,60 256,60 256,57 260,57 260,55 256,55" fill="#000000" stroke="none"/>
+  <!-- Content area placeholder lines -->
+  <rect x="35" y="85" width="120" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="35" y="100" width="180" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="35" y="115" width="150" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="35" y="135" width="160" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="35" y="150" width="100" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="35" y="170" width="200" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Arrow pointing to menu bar -->
+  <polygon points="145,225 138,210 152,210" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="145" y1="225" x2="145" y2="218" stroke="#f8130d" stroke-width="8.88" stroke-linecap="round"/>
+</g></svg>

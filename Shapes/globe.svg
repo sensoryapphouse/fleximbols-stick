@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <radialGradient id="globeG" cx="32%" cy="28%" r="78%">
+    <stop offset="0%" stop-color="#a8d8f0"/>
+    <stop offset="60%" stop-color="#3a86b8"/>
+    <stop offset="100%" stop-color="#1a4060"/>
+  </radialGradient>
+</defs>
+<circle cx="145" cy="120" r="100" fill="url(#globeG)" stroke="#1a1a1a" stroke-width="8"/>
+<!-- Latitude lines -->
+<ellipse cx="145" cy="120" rx="100" ry="28" fill="none" stroke="#1a1a1a" stroke-width="2.5" opacity="0.55"/>
+<ellipse cx="145" cy="80" rx="90" ry="14" fill="none" stroke="#1a1a1a" stroke-width="2" opacity="0.45"/>
+<ellipse cx="145" cy="160" rx="90" ry="14" fill="none" stroke="#1a1a1a" stroke-width="2" opacity="0.45"/>
+<!-- Longitude lines -->
+<ellipse cx="145" cy="120" rx="38" ry="100" fill="none" stroke="#1a1a1a" stroke-width="2.5" opacity="0.55"/>
+<ellipse cx="145" cy="120" rx="75" ry="100" fill="none" stroke="#1a1a1a" stroke-width="2" opacity="0.45"/>
+<line x1="145" y1="20" x2="145" y2="220" stroke="#1a1a1a" stroke-width="2.5" opacity="0.55"/>
+<!-- Continent silhouettes for context -->
+<path d="M 90 95 Q 105 85 130 95 Q 145 110 130 125 Q 110 130 95 115 Z" fill="#4a9750" stroke="#1a1a1a" stroke-width="1.5" opacity="0.7"/>
+<path d="M 165 100 Q 195 95 210 115 Q 200 135 175 130 Q 162 115 165 100 Z" fill="#4a9750" stroke="#1a1a1a" stroke-width="1.5" opacity="0.7"/>
+<path d="M 130 155 Q 155 150 170 170 Q 150 185 130 175 Z" fill="#4a9750" stroke="#1a1a1a" stroke-width="1.5" opacity="0.7"/>
+<!-- Highlight -->
+</svg>

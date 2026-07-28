@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- open book base -->
+  <path d="M50 130 L140 116 L140 220 L50 210 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M240 130 L150 116 L150 220 L240 210 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- book spine -->
+  <path d="M140 116 L150 116 L150 220 L140 220 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- book cover edges -->
+  <path d="M44 128 L50 130 L50 210 L44 208 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M246 128 L240 130 L240 210 L246 208 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- text lines on left page -->
+  <line x1="62" y1="148" x2="128" y2="138" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="62" y1="160" x2="128" y2="150" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="62" y1="172" x2="120" y2="164" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="62" y1="184" x2="128" y2="176" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="62" y1="196" x2="116" y2="188" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- text lines on right page -->
+  <line x1="162" y1="138" x2="228" y2="148" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="162" y1="150" x2="228" y2="160" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="170" y1="164" x2="228" y2="172" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="162" y1="176" x2="228" y2="184" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="174" y1="188" x2="228" y2="196" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- headphones over book -->
+  <!-- headband arc -->
+  <path d="M70 90 Q145 20 220 90" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M70 90 Q145 30 220 90" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- left ear cup -->
+  <rect x="50" y="84" width="38" height="48" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="69" cy="108" r="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right ear cup -->
+  <rect x="202" y="84" width="38" height="48" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="221" cy="108" r="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sound waves left -->
+  <path d="M34 90 Q22 108 34 126" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M22 80 Q4 108 22 136" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- sound waves right -->
+  <path d="M256 90 Q268 108 256 126" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M268 80 Q286 108 268 136" fill="none" stroke="#3aa6a0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- AUDIO label on spine -->
+  <rect x="141" y="140" width="8" height="50" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="142" y="146" width="6" height="4" fill="#fff200"/>
+  <rect x="142" y="154" width="6" height="3" fill="#fff200"/>
+  <rect x="142" y="161" width="6" height="4" fill="#fff200"/>
+  <rect x="142" y="169" width="6" height="3" fill="#fff200"/>
+  <rect x="142" y="176" width="6" height="4" fill="#fff200"/>
+</g></svg>

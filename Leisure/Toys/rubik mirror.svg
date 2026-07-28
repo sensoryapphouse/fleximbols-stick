@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Mirror cube: same isometric three-face cube, but cubelets are staggered/different sizes; colours are silver and gold reflective tones -->
+  <!-- Overall cube outline same as standard: front face quad, right face quad, top face quad -->
+  <!-- Front face background -->
+  <path d="M80 90 L180 90 L180 220 L80 220 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Staggered front cubelets (uneven sizes, silver tones) -->
+  <rect x="84" y="94" width="36" height="34" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="122" y="94" width="24" height="34" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="94" width="28" height="34" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="84" y="130" width="36" height="46" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="122" y="130" width="24" height="46" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="130" width="28" height="46" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="84" y="178" width="36" height="38" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="122" y="178" width="24" height="38" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="178" width="28" height="38" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right face background -->
+  <path d="M180 90 L240 60 L240 190 L180 220 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Right face staggered cubelets (gold tones) -->
+  <!-- Column boundaries (slanted): along right face we tile uneven widths -->
+  <path d="M183 94 L207 82 L207 122 L183 134 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M209 81 L221 75 L221 115 L209 121 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M223 74 L237 67 L237 107 L223 114 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M183 138 L207 126 L207 174 L183 186 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M209 125 L221 119 L221 167 L209 173 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M223 118 L237 111 L237 159 L223 166 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M183 190 L207 178 L207 208 L183 220 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M209 177 L221 171 L221 201 L209 207 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M223 170 L237 163 L237 193 L223 200 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Top face background -->
+  <path d="M80 90 L140 60 L240 60 L180 90 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Top face staggered (silver) -->
+  <path d="M84 88 L108 76 L132 76 L108 88 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M110 75 L128 66 L148 66 L130 75 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M130 65 L142 59 L162 59 L150 65 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M112 88 L136 76 L160 76 L136 88 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M138 75 L156 66 L176 66 L158 75 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M152 65 L168 59 L188 59 L172 65 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M140 88 L162 76 L184 76 L162 88 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M164 75 L184 66 L208 66 L188 75 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M178 65 L194 59 L218 59 L202 65 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

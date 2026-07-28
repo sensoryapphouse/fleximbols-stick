@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="110" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sea -->
+  <rect x="0" y="110" width="290" height="130" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- wave lines -->
+  <path d="M10 175 Q35 168 60 175 T110 175 T160 175 T210 175 T260 175 T285 175" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M10 210 Q35 203 60 210 T110 210 T160 210 T210 210 T260 210 T285 210" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- ice shelf - flat ice extending over sea with cliff edge -->
+  <!-- top flat -->
+  <path d="M0 60 L0 110 L180 110 L180 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- cliff edge - vertical face dropping to sea -->
+  <path d="M180 60 L180 165 L0 165 L0 110" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- highlight on cliff -->
+  <path d="M180 60 L180 165" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- cliff face vertical cracks -->
+  <path d="M40 110 L40 165" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <path d="M90 110 L90 165" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <path d="M140 110 L140 165" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <!-- top surface texture -->
+  <path d="M20 80 L60 80" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M80 92 L130 92" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M30 100 L75 100" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- water meets cliff base - white foam -->
+  <path d="M0 165 Q40 170 80 165 T160 165 T180 165" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- small floating ice chunk in sea -->
+  <path d="M220 175 L240 175 L245 185 L215 185 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+</g></svg>

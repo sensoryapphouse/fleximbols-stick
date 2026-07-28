@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata>
+<!-- a back view of upper body with one shoulder blade (scapula) highlighted -->
+<!-- head (back) -->
+<circle id="h1" data-fig="ma" cx="256" cy="140" r="52" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9"/>
+<!-- back / torso -->
+<path d="M132 250 Q132 210 200 200 L312 200 Q380 210 380 250 L364 400 L148 400 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- spine -->
+<line x1="256" y1="214" x2="256" y2="392" stroke="#c89a5b" stroke-width="7" stroke-linecap="round"/>
+<!-- left shoulder blade (triangular, highlighted) -->
+<path d="M196 248 L240 256 L214 336 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right shoulder blade (faint, for context) -->
+<path d="M316 248 L272 256 L298 336 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- callout ring on highlighted blade -->
+<circle cx="216" cy="292" r="54" fill="none" stroke="#d63b46" stroke-width="8"/>
+</svg>

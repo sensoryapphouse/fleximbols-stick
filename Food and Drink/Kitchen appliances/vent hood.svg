@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Duct/chimney shaft -->
+  <rect x="105" y="22" width="80" height="60" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Hood body (trapezoid) -->
+  <polygon points="60,82 230,82 200,140 90,140" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Hood underside panel -->
+  <rect x="90" y="134" width="110" height="18" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Grille lines on underside -->
+  <line x1="112" y1="134" x2="112" y2="152" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="134" y1="134" x2="134" y2="152" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="156" y1="134" x2="156" y2="152" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="178" y1="134" x2="178" y2="152" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Light strip -->
+  <rect x="96" y="126" width="98" height="8" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Hob surface below hood -->
+  <rect x="50" y="172" width="190" height="22" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Rising vapour lines -->
+  <path d="M110 165 Q106 157 110 149 Q114 141 110 133" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 165 Q141 157 145 149 Q149 141 145 133" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M180 165 Q176 157 180 149 Q184 141 180 133" fill="none" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Control buttons on hood front face -->
+  <circle cx="110" cy="110" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="133" cy="110" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="156" cy="110" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="179" cy="110" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

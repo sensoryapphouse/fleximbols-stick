@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Background panel - pale sky -->
+  <rect x="26" y="22" width="238" height="196" rx="14" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Blazing sun top-right -->
+  <circle cx="222" cy="60" r="28" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="222" cy="60" r="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sun rays (many, heat) -->
+  <line x1="222" y1="24" x2="222" y2="16" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="222" y1="96" x2="222" y2="104" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="186" y1="60" x2="178" y2="60" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="258" y1="60" x2="266" y2="60" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="197" y1="35" x2="191" y2="29" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="247" y1="85" x2="253" y2="91" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="247" y1="35" x2="253" y2="29" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="197" y1="85" x2="191" y2="91" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Heat shimmer lines -->
+  <path d="M180 108 Q186 114 180 120 Q186 126 180 132" stroke="#e65a00" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M195 105 Q201 111 195 117 Q201 123 195 129" stroke="#e65a00" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M165 112 Q171 118 165 124 Q171 130 165 136" stroke="#e65a00" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <!-- Desert dune - large sandy mound -->
+  <path d="M36 210 Q90 145 145 148 Q200 150 254 210 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Dune shadow/contour -->
+  <path d="M80 190 Q120 160 165 162 Q200 163 230 185" stroke="#7d5e23" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- Cactus on dune -->
+  <!-- Main trunk -->
+  <rect x="136" y="100" width="18" height="52" rx="9" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Left arm -->
+  <path d="M136 120 Q118 120 118 108 Q118 100 128 100" stroke="#529929" stroke-width="14.81" fill="none" stroke-linecap="round"/>
+  <line x1="118" y1="108" x2="118" y2="120" stroke="#529929" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- Right arm -->
+  <path d="M154 125 Q172 125 172 113 Q172 105 162 105" stroke="#529929" stroke-width="14.81" fill="none" stroke-linecap="round"/>
+  <line x1="172" y1="113" x2="172" y2="125" stroke="#529929" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- Cactus spines -->
+  <line x1="136" y1="110" x2="128" y2="107" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="136" y1="122" x2="128" y2="119" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="154" y1="110" x2="162" y2="107" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="154" y1="130" x2="162" y2="127" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="114.42 91.38 283.15 283.15">
+<!-- tangy: cut lemon half (citrus = tangy/sour) with zest sparks -->
+<g stroke-linecap="round" stroke-linejoin="round">
+<!-- lemon half body -->
+<path d="M 136 320 A 120 120 0 0 1 376 320 Z" fill="#f7d83a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- rind -->
+<path d="M 136 320 A 120 120 0 0 1 376 320 Z" fill="none" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 152 320 A 104 104 0 0 1 360 320 Z" fill="#fdeea0" stroke="#1a1a1a" stroke-width="6"/>
+<!-- pith centre -->
+<path d="M 168 320 A 88 88 0 0 1 344 320 Z" fill="#fff7d6" stroke="#1a1a1a" stroke-width="5"/>
+<!-- segments -->
+<line x1="256" y1="320" x2="256" y2="234" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="256" y1="320" x2="196" y2="252" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="256" y1="320" x2="316" y2="252" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="256" y1="320" x2="180" y2="296" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="256" y1="320" x2="332" y2="296" stroke="#1a1a1a" stroke-width="5"/>
+<!-- juice / zest sparks -->
+<path d="M 256 200 l 0 -34" fill="none" stroke="#aacb2b" stroke-width="11"/>
+<path d="M 192 214 l -22 -26" fill="none" stroke="#aacb2b" stroke-width="11"/>
+<path d="M 320 214 l 22 -26" fill="none" stroke="#aacb2b" stroke-width="11"/>
+<circle cx="256" cy="150" r="9" fill="#aacb2b"/>
+<circle cx="158" cy="178" r="8" fill="#aacb2b"/>
+<circle cx="354" cy="178" r="8" fill="#aacb2b"/>
+</g>
+</svg>

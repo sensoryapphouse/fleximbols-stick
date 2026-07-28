@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Central common house (larger, highlighted) -->
+  <!-- Common house walls -->
+  <rect x="108" y="112" width="74" height="64" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Common house roof -->
+  <polygon points="95,112 145,70 195,112" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Common house door (wider, shared) -->
+  <rect x="131" y="148" width="28" height="28" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Common house window -->
+  <rect x="114" y="124" width="20" height="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="156" y="124" width="20" height="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small home: top left -->
+  <rect x="26" y="130" width="54" height="46" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <polygon points="20,130 53,100 86,130" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="38" y="155" width="14" height="21" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="59" y="140" width="14" height="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small home: top right -->
+  <rect x="210" y="130" width="54" height="46" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <polygon points="204,130 237,100 270,130" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="238" y="155" width="14" height="21" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="217" y="140" width="14" height="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small home: bottom left -->
+  <rect x="30" y="25" width="52" height="44" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <polygon points="24,25 56,0 88,25" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="40" y="47" width="14" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="60" y="34" width="14" height="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small home: bottom right -->
+  <rect x="208" y="25" width="52" height="44" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <polygon points="202,25 234,0 266,25" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="216" y="47" width="14" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="236" y="34" width="14" height="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Paths from small homes toward centre (dashed) -->
+  <line x1="80" y1="153" x2="108" y2="153" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="6 4" stroke-linecap="round"/>
+  <line x1="210" y1="153" x2="182" y2="153" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="6 4" stroke-linecap="round"/>
+  <line x1="70" y1="69" x2="115" y2="110" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="6 4" stroke-linecap="round"/>
+  <line x1="220" y1="69" x2="175" y2="110" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="6 4" stroke-linecap="round"/>
+</g></svg>

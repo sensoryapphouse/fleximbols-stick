@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- generic ball with rope tail -->
+  <!-- rope tail (knotted) -->
+  <path d="M 60 170 Q 80 168 95 160 L 115 145" fill="none" stroke="#9d7246" stroke-width="31.12" stroke-linecap="round"/>
+  <path d="M 60 170 Q 80 168 95 160 L 115 145" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- rope twist marks -->
+  <line x1="70" y1="166" x2="76" y2="174" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="84" y1="163" x2="88" y2="173" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="98" y1="156" x2="104" y2="164" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- frayed end -->
+  <line x1="58" y1="170" x2="46" y2="164" stroke="#9d7246" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="58" y1="170" x2="44" y2="170" stroke="#9d7246" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="58" y1="170" x2="46" y2="178" stroke="#9d7246" stroke-width="6.67" stroke-linecap="round"/>
+  <line x1="58" y1="170" x2="46" y2="164" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="58" y1="170" x2="44" y2="170" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="58" y1="170" x2="46" y2="178" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- ball -->
+  <circle cx="170" cy="120" r="65" fill="#f8130d" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- ball seam -->
+  <path d="M 110 105 Q 170 130 230 110" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- ball highlight -->
+  <ellipse cx="148" cy="98" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- attachment point of rope to ball -->
+  <circle cx="118" cy="142" r="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

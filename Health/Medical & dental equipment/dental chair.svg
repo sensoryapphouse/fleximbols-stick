@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="67.18 56.94 387.88 387.88"><g>
+<!-- reclined dentist's chair with overhead exam light on an arm -->
+<!-- reclined backrest -->
+<path d="M 120 150 L 250 178 Q 270 182 268 202 L 262 246 Q 260 264 240 260 L 118 236 Q 100 232 100 214 L 100 172 Q 100 150 120 150 Z" fill="#4a8cc8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- headrest pad -->
+<rect x="96" y="148" width="44" height="56" rx="14" fill="#3a6ea0" stroke="#1a1a1a" stroke-width="9"/>
+<!-- seat base / cushion -->
+<path d="M 150 252 L 330 252 Q 352 252 352 274 L 352 300 Q 352 320 330 320 L 170 320 Q 150 320 150 300 Z" fill="#4a8cc8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- pedestal column -->
+<rect x="226" y="320" width="56" height="60" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- floor base -->
+<path d="M 170 384 L 338 384 Q 354 384 354 398 L 354 404 L 154 404 L 154 398 Q 154 384 170 384 Z" fill="#9aa7b1" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- exam light arm -->
+<path d="M 330 286 L 392 220 L 392 150" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- round lamp head -->
+<circle cx="392" cy="132" r="34" fill="#fff6cf" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="392" cy="132" r="15" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

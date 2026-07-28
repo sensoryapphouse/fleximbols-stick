@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Shopping bag - dark theme -->
+  <rect x="72" y="105" width="130" height="112" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bag handles -->
+  <path d="M 102 105 Q 102 72 122 72 Q 142 72 142 105" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 148 105 Q 148 72 168 72 Q 188 72 188 105" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Starburst -->
+  <polygon points="145,118 150,130 163,128 155,138 160,150 148,145 140,155 138,142 125,145 132,135 125,125 138,128" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Percent sign in starburst -->
+  <circle cx="138" cy="132" r="4" fill="#000000"/>
+  <circle cx="152" cy="143" r="4" fill="#000000"/>
+  <line x1="140" y1="144" x2="150" y2="131" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- SALE stripe on bag -->
+  <rect x="72" y="175" width="130" height="28" rx="0" fill="#f8130d" stroke="none"/>
+  <rect x="72" y="175" width="130" height="28" rx="0" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Discount tag hanging -->
+  <rect x="168" y="42" width="48" height="32" rx="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="175" cy="58" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="175" y1="42" x2="170" y2="30" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Stars for sale frenzy feel -->
+  <polygon points="55,55 58,65 68,65 60,71 63,81 55,75 47,81 50,71 42,65 52,65" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="235,80 237,87 244,87 238,91 240,98 235,94 230,98 232,91 226,87 233,87" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Board backing -->
+  <rect x="28" y="22" width="234" height="196" rx="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Board face -->
+  <rect x="36" y="30" width="218" height="180" rx="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Wall mount screws -->
+  <circle cx="55" cy="42" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="235" cy="42" r="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- TOP ROW: zip left, toggle switch centre, spinner right -->
+  <!-- Zip slider track -->
+  <rect x="50" y="58" width="62" height="10" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="70" y="54" width="18" height="18" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="79" cy="63" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Toggle switch -->
+  <rect x="126" y="54" width="38" height="20" rx="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="152" cy="64" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Spinner rotor -->
+  <circle cx="210" cy="64" r="22" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="64" r="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="210" cy="44" rx="6" ry="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(0 210 64)"/>
+  <ellipse cx="210" cy="84" rx="6" ry="9" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(0 210 64)"/>
+  <ellipse cx="190" cy="64" rx="9" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="230" cy="64" rx="9" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- MIDDLE ROW: rough texture patch left, smooth fabric centre, button panel right -->
+  <!-- Rough bumpy patch -->
+  <rect x="50" y="98" width="60" height="46" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="66" cy="112" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="80" cy="106" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="93" cy="114" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="72" cy="124" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="88" cy="128" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Velcro/fabric square -->
+  <rect x="126" y="98" width="48" height="46" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="134" y1="110" x2="166" y2="110" stroke="#90a7d6" stroke-width="3.70"/>
+  <line x1="134" y1="118" x2="166" y2="118" stroke="#90a7d6" stroke-width="3.70"/>
+  <line x1="134" y1="126" x2="166" y2="126" stroke="#90a7d6" stroke-width="3.70"/>
+  <line x1="134" y1="134" x2="166" y2="134" stroke="#90a7d6" stroke-width="3.70"/>
+  <!-- Push button panel -->
+  <rect x="186" y="98" width="52" height="46" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="204" cy="114" r="8" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="222" cy="114" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="204" cy="132" r="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="222" cy="132" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- BOTTOM ROW: lace/cord loops -->
+  <path d="M58 162 Q78 150 98 162 Q78 174 58 162 Z" fill="none" stroke="#ff9900" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M108 162 Q128 150 148 162 Q128 174 108 162 Z" fill="none" stroke="#ff9900" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M162 158 L168 192 M162 158 L148 185 M162 158 L176 185" fill="none" stroke="#9d7246" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="162" cy="156" r="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Abacus-style bead row -->
+  <line x1="188" y1="180" x2="238" y2="180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="198" cy="180" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="212" cy="180" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="226" cy="180" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="3.70"/>
+</g></svg>

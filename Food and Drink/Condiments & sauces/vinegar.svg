@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- vinegar bottle -->
+<!-- cap -->
+<rect x="236" y="88" width="40" height="26" rx="5" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- long slim neck -->
+<path d="M 242 176 L 270 176 L 270 114 L 242 114 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body filled amber -->
+<path d="M 242 176 Q 212 186 212 224 L 212 388 Q 212 410 234 410 L 278 410 Q 300 410 300 388 L 300 224 Q 300 186 270 176 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- liquid level line -->
+<line x1="214" y1="214" x2="298" y2="214" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- label -->
+<rect x="220" y="256" width="72" height="116" rx="9" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<!-- droplet motif -->
+<path d="M 256 286 Q 270 308 256 320 Q 242 308 256 286 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<line x1="232" y1="346" x2="280" y2="346" stroke="#b9bdc2" stroke-width="7" stroke-linecap="round"/>
+</svg>

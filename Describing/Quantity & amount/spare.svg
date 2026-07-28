@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="27.15 68.96 457.70 457.70">
+<!-- SPARE: a group in use + one kept in reserve (set apart in a dashed "kept" ring) -->
+<line x1="60" y1="372" x2="452" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- main group (left): 4 balls in use -->
+<circle cx="150" cy="330" r="40" fill="#5b9bd5" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="234" cy="330" r="40" fill="#e8a13a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="192" cy="258" r="40" fill="#e36d6d" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="276" cy="258" r="40" fill="#6dbf67" stroke="#1a1a1a" stroke-width="9"/>
+<!-- dashed reserve ring around the spare one -->
+<circle cx="384" cy="316" r="62" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="18 16"/>
+<!-- the spare ball, set apart and kept -->
+<circle cx="384" cy="316" r="40" fill="#b07cc6" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

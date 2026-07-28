@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="82.23 57.48 364.61 364.61">
+<!-- comic panel -->
+<rect x="110" y="120" width="240" height="240" rx="10" fill="#fdfdfd" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- simple cartoon round-head character drawn inside the panel -->
+<circle cx="200" cy="230" r="56" fill="#f4b740" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="182" cy="218" r="8" fill="#1a1a1a"/>
+<circle cx="218" cy="218" r="8" fill="#1a1a1a"/>
+<path d="M 178 252 Q 200 276 222 252" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- speech bubble bursting out of the panel -->
+<path d="M 300 120 Q 270 120 270 150 Q 270 178 308 178 L 392 178 Q 420 178 420 150 Q 420 120 392 120 Z" fill="#5aa9e6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 300 178 L 290 206 L 322 178 Z" fill="#5aa9e6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ! mark suggested as a stroke (no letters): use a bold exclaim shape via dots/strokes -->
+<circle cx="320" cy="148" r="6" fill="#fdfdfd"/>
+<circle cx="345" cy="148" r="6" fill="#fdfdfd"/>
+<circle cx="370" cy="148" r="6" fill="#fdfdfd"/>
+</svg>

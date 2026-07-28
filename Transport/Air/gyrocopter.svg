@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Free-spinning overhead rotor - long blade left -->
+  <polygon points="22,92 55,86 75,96 55,100" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Free-spinning overhead rotor - long blade right -->
+  <polygon points="268,92 235,86 215,96 235,100" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Rotor hub (free-spinning, not engine-driven) -->
+  <circle cx="145" cy="94" r="9" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rotor mast -->
+  <line x1="145" y1="103" x2="145" y2="130" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Rotor mast brace forward -->
+  <line x1="145" y1="118" x2="125" y2="135" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Rotor mast brace rear -->
+  <line x1="145" y1="118" x2="162" y2="135" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Small open pod / cockpit -->
+  <ellipse cx="130" cy="148" rx="38" ry="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pod nose -->
+  <polygon points="92,148 106,136 106,160" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cockpit frame -->
+  <rect x="110" y="134" width="22" height="18" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pilot head -->
+  <circle cx="121" cy="132" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rear tail boom -->
+  <polygon points="168,148 170,140 248,145 170,156" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Vertical tail fin -->
+  <polygon points="238,145 248,120 258,145" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Small horizontal tail planes -->
+  <polygon points="235,142 258,130 258,142" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="235,148 258,160 258,148" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Rear pusher propeller -->
+  <ellipse cx="260" cy="140" rx="6" ry="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Prop hub -->
+  <circle cx="260" cy="145" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Engine block at rear -->
+  <rect x="248" y="138" width="14" height="14" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Front wheel -->
+  <line x1="108" y1="168" x2="108" y2="182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="108" cy="186" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rear wheel -->
+  <line x1="160" y1="168" x2="160" y2="182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="160" cy="186" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

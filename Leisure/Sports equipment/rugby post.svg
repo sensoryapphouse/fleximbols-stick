@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- grass ground -->
+  <path d="M20,205 L270,205 L270,222 L20,222 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round"/>
+  <!-- grass tufts -->
+  <path d="M40,205 L45,195 L50,205 M105,205 L110,195 L115,205 M180,205 L185,195 L190,205 M240,205 L245,195 L250,205"
+        fill="#67832d" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- base / lower pole between uprights (the stub of H) -->
+  <path d="M138,90 L152,90 L152,205 L138,205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.79" stroke-linejoin="round"/>
+  <!-- left upright -->
+  <path d="M68,15 L82,15 L82,205 L68,205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.79" stroke-linejoin="round"/>
+  <!-- right upright -->
+  <path d="M208,15 L222,15 L222,205 L208,205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.79" stroke-linejoin="round"/>
+  <!-- crossbar -->
+  <path d="M60,85 L230,85 L230,100 L60,100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.79" stroke-linejoin="round"/>
+  <!-- subtle shading on right side of each upright -->
+  <path d="M77,15 L82,15 L82,205 L77,205 Z" fill="#efefef" stroke="none"/>
+  <path d="M217,15 L222,15 L222,205 L217,205 Z" fill="#efefef" stroke="none"/>
+  <path d="M147,90 L152,90 L152,205 L147,205 Z" fill="#efefef" stroke="none"/>
+  <path d="M60,95 L230,95 L230,100 L60,100 Z" fill="#efefef" stroke="none"/>
+  <!-- upright top caps -->
+  <ellipse cx="75" cy="15" rx="7" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.74"/>
+  <ellipse cx="215" cy="15" rx="7" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.74"/>
+</g></svg>

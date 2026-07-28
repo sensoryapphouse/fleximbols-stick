@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.3330) translate(-256.00 -262.50)">
+<!-- cold-blue chilled ground band -->
+<rect x="96" y="372" width="320" height="34" rx="17" fill="#cfe6f4" stroke="#5fb4e0" stroke-width="6"/>
+<!-- leaf blade, cold-blue/green, edged with frost -->
+<path d="M 256 96 C 168 150 150 268 178 360 C 230 340 300 300 330 230 C 350 182 320 130 256 96 Z" fill="#9ccbe0" stroke="#3f7d97" stroke-width="9" stroke-linejoin="round"/>
+<!-- central vein -->
+<path d="M 256 110 C 224 190 210 290 200 352" fill="none" stroke="#3f7d97" stroke-width="8" stroke-linecap="round"/>
+<!-- side veins -->
+<line x1="234" y1="178" x2="290" y2="150" stroke="#3f7d97" stroke-width="6" stroke-linecap="round"/>
+<line x1="222" y1="232" x2="304" y2="196" stroke="#3f7d97" stroke-width="6" stroke-linecap="round"/>
+<line x1="210" y1="288" x2="296" y2="250" stroke="#3f7d97" stroke-width="6" stroke-linecap="round"/>
+<!-- WHITE RIME: spiky ice crystals coating the leaf edge -->
+<g stroke="#ffffff" stroke-width="8" stroke-linecap="round">
+<!-- right edge spikes -->
+<line x1="320" y1="150" x2="346" y2="132"/>
+<line x1="338" y1="196" x2="370" y2="188"/>
+<line x1="332" y1="238" x2="364" y2="244"/>
+<line x1="308" y1="284" x2="334" y2="306"/>
+<!-- left edge spikes -->
+<line x1="172" y1="200" x2="142" y2="190"/>
+<line x1="166" y1="256" x2="134" y2="258"/>
+<line x1="176" y1="316" x2="152" y2="340"/>
+<line x1="206" y1="110" x2="196" y2="82"/>
+</g>
+<!-- a couple of small true dendritic crystal flakes (bare tips, V branches partway out) -->
+<g stroke="#ffffff" stroke-width="5" stroke-linecap="round">
+<!-- flake top-right, centre (384,132) r16 -->
+<line x1="384" y1="116" x2="384" y2="148"/>
+<line x1="370" y1="124" x2="398" y2="140"/>
+<line x1="398" y1="124" x2="370" y2="140"/>
+<!-- branches partway out, pointing to tips -->
+<line x1="384" y1="122" x2="380" y2="116"/>
+<line x1="384" y1="122" x2="388" y2="116"/>
+<line x1="384" y1="142" x2="380" y2="148"/>
+<line x1="384" y1="142" x2="388" y2="148"/>
+</g>
+<g stroke="#ffffff" stroke-width="5" stroke-linecap="round">
+<!-- flake lower-left, centre (138,314) r16 -->
+<line x1="138" y1="298" x2="138" y2="330"/>
+<line x1="124" y1="306" x2="152" y2="322"/>
+<line x1="152" y1="306" x2="124" y2="322"/>
+<line x1="138" y1="304" x2="134" y2="298"/>
+<line x1="138" y1="304" x2="142" y2="298"/>
+<line x1="138" y1="324" x2="134" y2="330"/>
+<line x1="138" y1="324" x2="142" y2="330"/>
+</g>
+</g></svg>

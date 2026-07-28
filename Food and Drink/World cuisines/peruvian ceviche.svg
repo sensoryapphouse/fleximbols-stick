@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl base -->
+  <ellipse cx="145" cy="185" rx="90" ry="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M55 145 Q55 185 145 185 Q235 185 235 145 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="145" rx="90" ry="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- Fish chunks (white/cream) -->
+  <rect x="95" y="150" width="28" height="18" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="130" y="148" width="30" height="20" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="167" y="151" width="24" height="17" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- Red onion slices (thin arcs, red) -->
+  <path d="M100 153 Q108 148 116 153" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M140 150 Q148 145 156 150" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Cilantro dots (green) -->
+  <circle cx="125" cy="155" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="160" cy="153" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="112" cy="160" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Chili (small red) -->
+  <ellipse cx="175" cy="158" rx="7" ry="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="182" y1="158" x2="185" y2="155" stroke="#529929" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Lime wedge on rim -->
+  <path d="M205 130 L225 118 L228 140 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="205" y1="130" x2="228" y2="140" stroke="#529929" stroke-width="2.96"/>
+
+  <!-- Corn cob side (yellow) -->
+  <rect x="35" y="148" width="14" height="34" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="42" cy="155" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="42" cy="163" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="42" cy="171" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="1.48"/>
+
+  <!-- Sweet potato chunk (orange) -->
+  <rect x="50" y="170" width="22" height="14" rx="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+</g></svg>

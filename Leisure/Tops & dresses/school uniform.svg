@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="77.58 103.18 356.85 356.85">
+<!-- shirt collar left (white, behind jumper) -->
+<path d="M 220 150 L 256 188 L 232 206 L 198 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- shirt collar right -->
+<path d="M 292 150 L 256 188 L 280 206 L 314 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- left sleeve (jumper) -->
+<path d="M 168 186 L 104 210 L 116 320 L 168 310 L 178 240 Z" fill="#3f5aa0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve (jumper) -->
+<path d="M 344 186 L 408 210 L 396 320 L 344 310 L 334 240 Z" fill="#3f5aa0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- jumper body with V-neck -->
+<path d="M 168 186 L 200 168 L 256 220 L 312 168 L 344 186 L 334 240 L 340 392 L 256 402 L 172 392 L 178 240 Z" fill="#4a6bb8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left ribbed cuff -->
+<rect x="106" y="296" width="56" height="28" rx="6" fill="#324a86" stroke="#1a1a1a" stroke-width="8"/>
+<!-- right ribbed cuff -->
+<rect x="350" y="296" width="56" height="28" rx="6" fill="#324a86" stroke="#1a1a1a" stroke-width="8"/>
+<!-- V-neck ribbing -->
+<path d="M 200 168 L 256 220 L 312 168" fill="none" stroke="#324a86" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- ribbed hem -->
+<path d="M 172 388 L 256 398 L 340 388 L 340 404 L 256 414 L 172 404 Z" fill="#324a86" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- tie -->
+<path d="M 256 192 L 270 206 L 262 224 L 250 224 L 242 206 Z" fill="#c0392b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 250 224 L 262 224 L 272 320 L 256 340 L 240 320 Z" fill="#c0392b" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- tie stripe -->
+<line x1="248" y1="250" x2="262" y2="262" stroke="#f2c14e" stroke-width="6" stroke-linecap="round"/>
+<line x1="246" y1="280" x2="264" y2="296" stroke="#f2c14e" stroke-width="6" stroke-linecap="round"/>
+</svg>

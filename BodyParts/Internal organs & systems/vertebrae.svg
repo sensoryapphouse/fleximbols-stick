@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Close-up of 4 stacked vertebrae with intervertebral discs, large and clear -->
+  <!-- Background hint: small spine silhouette ghost on side -->
+  <rect x="118" y="14" width="54" height="212" rx="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Vertebra 1 (top) — body + spinous process -->
+  <!-- Vertebral body (front/anterior, rounded rectangle) -->
+  <rect x="110" y="22" width="70" height="36" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Spinous process (back) -->
+  <path d="M145 22 L145 10 Q145 6 141 6 L136 8 Q132 10 134 14 L138 22" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Transverse processes (side wings) -->
+  <ellipse cx="104" cy="40" rx="14" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="186" cy="40" rx="14" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Spinal canal (dark hole) -->
+  <ellipse cx="145" cy="40" rx="12" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Disc 1 -->
+  <rect x="112" y="58" width="66" height="14" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Vertebra 2 -->
+  <rect x="110" y="72" width="70" height="36" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <path d="M145 72 L145 60" stroke="#efefef" stroke-width="5.93" stroke-linecap="round"/>
+  <ellipse cx="104" cy="90" rx="14" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="186" cy="90" rx="14" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="90" rx="12" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Disc 2 -->
+  <rect x="112" y="108" width="66" height="14" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Vertebra 3 -->
+  <rect x="110" y="122" width="70" height="36" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="104" cy="140" rx="14" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="186" cy="140" rx="14" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="140" rx="12" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Disc 3 -->
+  <rect x="112" y="158" width="66" height="14" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Vertebra 4 (bottom) -->
+  <rect x="110" y="172" width="70" height="36" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="104" cy="190" rx="14" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="186" cy="190" rx="14" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="190" rx="12" ry="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Pointer dot on a disc -->
+  <circle cx="205" cy="115" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="199" y1="115" x2="178" y2="115" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

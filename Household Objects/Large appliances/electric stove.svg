@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Cooktop body -->
+  <rect x="30" y="90" width="230" height="120" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Cooktop surface -->
+  <rect x="38" y="98" width="214" height="104" rx="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left coil element: coiled spiral rings (red-hot) -->
+  <circle cx="100" cy="148" r="28" fill="none" stroke="#f8130d" stroke-width="5.55" stroke-linecap="round"/>
+  <circle cx="100" cy="148" r="20" fill="none" stroke="#f8130d" stroke-width="5.55" stroke-linecap="round"/>
+  <circle cx="100" cy="148" r="12" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="100" cy="148" r="5" fill="#f8130d" stroke="#d01424" stroke-width="3.33"/>
+  <!-- Left coil connector tab -->
+  <rect x="124" y="144" width="14" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Right coil element -->
+  <circle cx="190" cy="148" r="28" fill="none" stroke="#f8130d" stroke-width="5.55" stroke-linecap="round"/>
+  <circle cx="190" cy="148" r="20" fill="none" stroke="#f8130d" stroke-width="5.55" stroke-linecap="round"/>
+  <circle cx="190" cy="148" r="12" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="190" cy="148" r="5" fill="#f8130d" stroke="#d01424" stroke-width="3.33"/>
+  <!-- Right coil connector tab -->
+  <rect x="152" y="144" width="14" height="8" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Control knobs front -->
+  <circle cx="90" cy="192" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="90" y1="184" x2="90" y2="188" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="145" cy="192" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="145" y1="184" x2="145" y2="188" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="200" cy="192" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="200" y1="184" x2="200" y2="188" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- anxiety: whole figure, hunched shoulders, hands raised to face, worry lines -->
+
+  <!-- motion/worry lines radiating from head -->
+  <line x1="80" y1="38" x2="68" y2="22" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="70" y1="52" x2="52" y2="44" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="210" y1="38" x2="222" y2="22" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="220" y1="52" x2="238" y2="44" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="28" x2="145" y2="12" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- head -->
+  <ellipse cx="145" cy="55" rx="30" ry="32" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- worried eyes (wide open ovals) -->
+  <ellipse cx="133" cy="50" rx="6" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="157" cy="50" rx="6" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="134" cy="51" r="3" fill="#000000"/>
+  <circle cx="158" cy="51" r="3" fill="#000000"/>
+  <!-- worried mouth (downward curve) -->
+  <path d="M134 66 Q145 60 156 66" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- sweat drop -->
+  <path d="M168 42 Q172 36 176 42 Q176 48 168 48 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- neck -->
+  <rect x="138" y="84" width="14" height="14" rx="4" ry="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- torso (hunched, shoulders raised) -->
+  <path d="M95 105 Q110 92 145 96 Q180 92 195 105 L188 175 Q145 182 102 175 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- left arm raised to face -->
+  <path d="M100 108 Q78 100 72 82 Q68 72 82 68" stroke="#1a1a1a" stroke-width="7.40" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left hand near face -->
+  <ellipse cx="84" cy="66" rx="12" ry="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="78" y1="60" x2="74" y2="54" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="84" y1="57" x2="84" y2="50" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="90" y1="59" x2="94" y2="53" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- right arm raised to face -->
+  <path d="M190 108 Q212 100 218 82 Q222 72 208 68" stroke="#1a1a1a" stroke-width="7.40" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right hand near face -->
+  <ellipse cx="206" cy="66" rx="12" ry="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="200" y1="60" x2="196" y2="54" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="206" y1="57" x2="206" y2="50" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="212" y1="59" x2="216" y2="53" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- legs -->
+  <path d="M118 173 L112 220" stroke="#1a1a1a" stroke-width="7.40" fill="none" stroke-linecap="round"/>
+  <path d="M172 173 L178 220" stroke="#1a1a1a" stroke-width="7.40" fill="none" stroke-linecap="round"/>
+  <!-- shoes -->
+  <ellipse cx="110" cy="222" rx="14" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="180" cy="222" rx="14" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- trousers -->
+  <path d="M108 173 Q110 196 112 220" stroke="#1a1a1a" stroke-width="11.85" fill="none" stroke-linecap="round"/>
+  <path d="M182 173 Q180 196 178 220" stroke="#1a1a1a" stroke-width="11.85" fill="none" stroke-linecap="round"/>
+</g></svg>

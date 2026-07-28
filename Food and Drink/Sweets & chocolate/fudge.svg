@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- fudge-modern: dark chocolate fudge cube on parchment paper, wrapper edge visible, glossy surface -->
+  <!-- Parchment paper base -->
+  <path d="M 50,195 L 240,195 L 252,210 L 38,210 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Parchment crinkle lines -->
+  <path d="M 80,196 L 78,210" fill="none" stroke="#e6b98a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M 130,195 L 128,210" fill="none" stroke="#e6b98a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M 180,196 L 180,210" fill="none" stroke="#e6b98a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M 220,195 L 222,210" fill="none" stroke="#e6b98a" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- Fudge cube - left side (dark) -->
+  <path d="M 76,160 L 76,80 L 100,60 L 100,140 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fudge cube - right side (mid-dark) -->
+  <path d="M 214,160 L 214,80 L 190,60 L 190,140 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fudge cube - top face (slightly lighter chocolate) -->
+  <path d="M 100,60 L 190,60 L 214,80 L 124,80 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fudge cube - front face (main) -->
+  <path d="M 76,160 L 76,80 L 124,80 L 214,80 L 214,160 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Gloss highlight on top face -->
+  <path d="M 112,64 Q 130,60 158,62" fill="none" stroke="#9d7246" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M 104,72 Q 124,68 152,70" fill="none" stroke="#9d7246" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Gloss highlight on front face -->
+  <path d="M 90,95 Q 130,88 175,92" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 88,108 Q 120,102 162,106" fill="none" stroke="#7d5e23" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- Wrapper edge - left twisted end on parchment -->
+  <path d="M 50,175 Q 60,168 68,175 Q 62,180 52,182 Q 44,178 50,175 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 52,175 Q 56,172 60,175 Q 58,178 54,179 Z" fill="#b8b8b8" stroke="none"/>
+  <!-- Wrapper edge - right twisted end on parchment -->
+  <path d="M 240,175 Q 230,168 222,175 Q 228,180 238,182 Q 246,178 240,175 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 238,175 Q 234,172 230,175 Q 232,178 236,179 Z" fill="#b8b8b8" stroke="none"/>
+  <!-- Cube bottom connects to parchment -->
+  <path d="M 76,160 L 214,160 L 214,195 L 76,195 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

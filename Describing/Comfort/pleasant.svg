@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-40.11 -3.41 512.00 512.00" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1">
+<!-- pleasant: a cheerful blooming flower in sunshine -->
+<g>
+<!-- sun top-left -->
+<circle cx="116" cy="116" r="40" fill="#f7d23a" stroke="#1a1a1a" stroke-width="9"/>
+<g stroke="#f0b400" stroke-width="9" stroke-linecap="round">
+<line x1="116" y1="50" x2="116" y2="32"/>
+<line x1="62" y1="62" x2="50" y2="50"/>
+<line x1="50" y1="116" x2="32" y2="116"/>
+<line x1="62" y1="170" x2="50" y2="182"/>
+<line x1="170" y1="62" x2="182" y2="50"/>
+</g>
+<!-- stem -->
+<path d="M 300 470 Q 290 360 300 300" fill="none" stroke="#2f9e4a" stroke-width="14" stroke-linecap="round"/>
+<!-- leaf -->
+<path d="M 300 392 Q 360 372 392 400 Q 350 432 300 416 Z" fill="#5bbf6a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- petals -->
+<g fill="#ef6fa6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round">
+<ellipse cx="300" cy="196" rx="34" ry="50"/>
+<ellipse cx="300" cy="296" rx="34" ry="50"/>
+<ellipse cx="250" cy="246" rx="50" ry="34"/>
+<ellipse cx="350" cy="246" rx="50" ry="34"/>
+<ellipse cx="262" cy="208" rx="44" ry="40" transform="rotate(-45 262 208)"/>
+<ellipse cx="338" cy="208" rx="44" ry="40" transform="rotate(45 338 208)"/>
+<ellipse cx="262" cy="284" rx="44" ry="40" transform="rotate(45 262 284)"/>
+<ellipse cx="338" cy="284" rx="44" ry="40" transform="rotate(-45 338 284)"/>
+</g>
+<!-- flower centre with smile -->
+<circle cx="300" cy="246" r="42" fill="#fbe07a" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="285" cy="238" r="5" fill="#1a1a1a"/>
+<circle cx="315" cy="238" r="5" fill="#1a1a1a"/>
+<path d="M 282 258 Q 300 274 318 258" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</g></g></svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer -->
+  <path d="M30 140 Q30 210 145 215 Q260 210 260 140 L245 130 Q245 195 145 200 Q45 195 45 130 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim ellipse -->
+  <ellipse cx="145" cy="130" rx="115" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl inner top (rice surface) -->
+  <ellipse cx="145" cy="130" rx="100" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sushi rice base texture -->
+  <ellipse cx="145" cy="132" rx="95" ry="15" fill="#f5e7c4" stroke="none"/>
+  <!-- Fish toppings scattered over rice -->
+  <!-- Salmon slice 1 -->
+  <path d="M75 118 Q90 108 108 112 Q110 122 95 125 Q78 124 75 118Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Salmon slice 2 -->
+  <path d="M120 112 Q136 103 152 107 Q154 118 138 121 Q122 120 120 112Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Tuna slice -->
+  <path d="M158 116 Q174 106 190 110 Q192 120 177 124 Q160 123 158 116Z" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- White fish slice -->
+  <path d="M95 126 Q110 118 124 122 Q124 132 110 135 Q95 133 95 126Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tamago egg strip (yellow) -->
+  <rect x="148" y="118" width="28" height="12" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Roe (salmon roe orange dots) -->
+  <circle cx="178" cy="128" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="192" cy="122" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="185" cy="132" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Green onion/shiso sprig -->
+  <path d="M108 130 Q115 118 122 112" fill="none" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <ellipse cx="122" cy="110" rx="7" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- White rice visible bits -->
+  <ellipse cx="140" cy="138" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="115" cy="140" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

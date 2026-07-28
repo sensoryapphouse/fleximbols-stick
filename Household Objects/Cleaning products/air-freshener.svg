@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- air freshener: aerosol can spraying scent + flower -->
+<!-- can body -->
+<rect x="178" y="206" width="104" height="200" rx="16" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top rim -->
+<rect x="188" y="190" width="84" height="22" rx="7" fill="#c44a72" stroke="#1a1a1a" stroke-width="9"/>
+<!-- actuator cap -->
+<path d="M 206 190 Q 206 158 230 158 L 256 158 L 256 190 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- nozzle facing up-right -->
+<rect x="252" y="150" width="22" height="14" rx="4" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="7"/>
+<!-- label flower -->
+<g stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" fill="#fff">
+<circle cx="230" cy="296" r="12"/>
+<circle cx="230" cy="330" r="12"/>
+<circle cx="212" cy="313" r="12"/>
+<circle cx="248" cy="313" r="12"/>
+</g>
+<circle cx="230" cy="313" r="9" fill="#f4c430" stroke="#1a1a1a" stroke-width="5"/>
+<!-- spray cloud dots from nozzle -->
+<g fill="#4a90d9" stroke="#1a1a1a" stroke-width="5">
+<circle cx="300" cy="138" r="9"/>
+<circle cx="330" cy="120" r="7"/>
+<circle cx="322" cy="158" r="6"/>
+<circle cx="356" cy="142" r="6"/>
+<circle cx="348" cy="106" r="5"/>
+</g>
+<!-- scent wave -->
+<path d="M 296 176 Q 320 160 312 192 Q 304 212 332 200" fill="none" stroke="#8cc152" stroke-width="7" stroke-linecap="round"/>
+</svg>

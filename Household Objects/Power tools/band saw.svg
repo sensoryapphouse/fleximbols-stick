@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- band-saw: tall floor-standing frame with two large wheels, thin continuous loop blade running between them, work table -->
+  <!-- Main frame / column - tall C-shaped frame -->
+  <!-- Right vertical column -->
+  <rect x="185" y="18" width="38" height="215" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Top horizontal arm -->
+  <rect x="85" y="18" width="140" height="35" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Bottom horizontal base -->
+  <rect x="85" y="198" width="140" height="35" rx="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Upper wheel (large) -->
+  <circle cx="130" cy="52" r="36" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Upper wheel spokes -->
+  <line x1="130" y1="18" x2="130" y2="86" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="96" y1="52" x2="164" y2="52" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="28" x2="160" y2="76" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="160" y1="28" x2="100" y2="76" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Upper wheel hub -->
+  <circle cx="130" cy="52" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.89"/>
+  <circle cx="130" cy="52" r="4" fill="#000000"/>
+  <!-- Lower wheel (large) -->
+  <circle cx="130" cy="193" r="36" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Lower wheel spokes -->
+  <line x1="130" y1="159" x2="130" y2="227" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="96" y1="193" x2="164" y2="193" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="100" y1="169" x2="160" y2="217" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="160" y1="169" x2="100" y2="217" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Lower wheel hub -->
+  <circle cx="130" cy="193" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.89"/>
+  <circle cx="130" cy="193" r="4" fill="#000000"/>
+  <!-- Thin continuous loop blade - left side going down -->
+  <line x1="110" y1="52" x2="110" y2="193" stroke="#b8b8b8" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Right side blade (behind wheels / frame) -->
+  <line x1="150" y1="52" x2="150" y2="193" stroke="#b8b8b8" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Blade cutting section outline to distinguish left strip -->
+  <line x1="108" y1="52" x2="108" y2="193" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="113" y1="52" x2="113" y2="193" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Blade teeth hint on left (cutting side) -->
+  <polyline points="108,80 104,86 108,92 104,98 108,104 104,110 108,116 104,122 108,128 104,134 108,140 104,146 108,152 104,158 108,164" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Work table (horizontal) - mounted mid-frame on left -->
+  <rect x="55" y="118" width="85" height="16" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Table support bracket -->
+  <line x1="88" y1="134" x2="88" y2="148" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="88" y1="148" x2="108" y2="148" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Blade guide above table -->
+  <rect x="105" y="100" width="18" height="18" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- On/off switch on frame -->
+  <rect x="192" y="105" width="20" height="30" rx="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="195" y="108" width="14" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78"/>
+</g></svg>

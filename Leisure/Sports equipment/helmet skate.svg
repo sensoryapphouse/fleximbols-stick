@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- rounded multi-vent skate helmet -->
+  <path d="M55 150 Q55 60 145 60 Q235 60 235 150 L235 165 L55 165 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bottom rim -->
+  <path d="M50 165 L240 165 L240 178 L50 178 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- vents (round) -->
+  <ellipse cx="100" cy="100" rx="14" ry="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="85" rx="14" ry="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="190" cy="100" rx="14" ry="9" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="115" cy="135" rx="12" ry="8" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="175" cy="135" rx="12" ry="8" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- chin strap -->
+  <path d="M70 170 Q90 200 145 210 Q200 200 220 170" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- buckle -->
+  <rect x="135" y="205" width="20" height="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

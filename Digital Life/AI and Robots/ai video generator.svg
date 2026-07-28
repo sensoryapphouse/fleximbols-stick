@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- AI brain (left) -->
+  <path d="M35 60 C25 60 18 72 26 84 C18 92 24 108 38 110 C40 124 58 130 70 120 C82 128 98 118 98 104 C108 100 108 84 96 80 C100 66 86 56 72 62 C64 52 45 52 35 60 Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="13.34" stroke-linejoin="round"/>
+  <path d="M62 70 L62 122 M48 82 C56 82 56 94 48 94 M48 100 C58 100 58 112 48 112 M76 82 C68 82 68 94 76 94 M76 100 C66 100 66 112 76 112" fill="none" stroke="#7c3fac" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- Film strip (right) -->
+  <rect x="135" y="50" width="135" height="110" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="13.34"/>
+  <rect x="135" y="50" width="135" height="14" fill="#000000"/>
+  <rect x="135" y="146" width="135" height="14" fill="#000000"/>
+  <!-- perforations top -->
+  <rect x="142" y="54" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="54" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="178" y="54" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="196" y="54" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="214" y="54" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="232" y="54" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="250" y="54" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- perforations bottom -->
+  <rect x="142" y="150" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="150" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="178" y="150" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="196" y="150" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="214" y="150" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="232" y="150" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="250" y="150" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Generated frame content -->
+  <rect x="155" y="72" width="100" height="70" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Play triangle -->
+  <path d="M193 88 L193 126 L225 107 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="13.34" stroke-linejoin="round"/>
+  <!-- Sparkles -->
+  <path d="M150 30 L153 40 L163 43 L153 46 L150 56 L147 46 L137 43 L147 40 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M265 170 L267 178 L275 180 L267 182 L265 190 L263 182 L255 180 L263 178 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- AI VIDEO label bar -->
+  <rect x="60" y="190" width="170" height="30" fill="#1d0e82" stroke="#1a1a1a" stroke-width="13.34"/>
+  <!-- A -->
+  <path d="M70 215 L77 197 L84 215 L81 215 L80 210 L74 210 L73 215 Z M76 205 L78 205 L77 202 Z" fill="#ffffff" stroke="#ffffff" stroke-width="2.22"/>
+  <!-- I -->
+  <rect x="89" y="197" width="4" height="18" fill="#ffffff"/>
+  <!-- V -->
+  <path d="M105 197 L110 215 L115 197 L112 197 L110 210 L108 197 Z" fill="#ffffff"/>
+  <!-- I -->
+  <rect x="120" y="197" width="4" height="18" fill="#ffffff"/>
+  <!-- D -->
+  <path d="M130 197 L130 215 L137 215 C144 215 144 197 137 197 Z M134 200 L137 200 C141 200 141 212 137 212 L134 212 Z" fill="#ffffff"/>
+  <!-- E -->
+  <path d="M150 197 L162 197 L162 200 L154 200 L154 204 L160 204 L160 207 L154 207 L154 212 L162 212 L162 215 L150 215 Z" fill="#ffffff"/>
+  <!-- O -->
+  <path d="M170 206 C170 200 174 197 178 197 C182 197 186 200 186 206 C186 212 182 215 178 215 C174 215 170 212 170 206 Z M174 206 C174 210 176 212 178 212 C180 212 182 210 182 206 C182 202 180 200 178 200 C176 200 174 202 174 206 Z" fill="#ffffff"/>
+</g></svg>

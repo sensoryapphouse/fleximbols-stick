@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Clay pot body -->
+  <path d="M52 100 Q48 185 62 200 Q145 220 228 200 Q242 185 238 100Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Clay pot inner shadow/depth -->
+  <path d="M70 105 Q67 180 80 195 Q145 210 210 195 Q223 180 220 105Z" fill="#9d7246" stroke="none"/>
+  <!-- Dark black bean stew surface -->
+  <ellipse cx="145" cy="102" rx="95" ry="28" fill="#000000" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Stew surface highlight/sheen -->
+  <ellipse cx="130" cy="97" rx="40" ry="10" fill="#4d4d4d" stroke="none"/>
+  <!-- Black beans visible in stew -->
+  <ellipse cx="98" cy="105" rx="10" ry="7" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="120" cy="100" rx="9" ry="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="142" cy="98" rx="10" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="165" cy="100" rx="9" ry="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="186" cy="105" rx="10" ry="7" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pork pieces -->
+  <ellipse cx="110" cy="108" rx="10" ry="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="155" cy="106" rx="10" ry="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="178" cy="110" rx="9" ry="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Clay pot rim -->
+  <ellipse cx="145" cy="100" rx="98" ry="30" fill="none" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Pot handles -->
+  <path d="M50 130 Q28 130 28 150 Q28 170 50 170" fill="none" stroke="#e65a00" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M240 130 Q262 130 262 150 Q262 170 240 170" fill="none" stroke="#e65a00" stroke-width="14.81" stroke-linecap="round"/>
+  <path d="M50 130 Q28 130 28 150 Q28 170 50 170" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M240 130 Q262 130 262 150 Q262 170 240 170" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Side: white rice mound -->
+  <ellipse cx="232" cy="198" rx="34" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M200 198 Q232 178 264 198" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Rice texture dots -->
+  <rect x="214" y="185" width="5" height="8" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="228" y="183" width="5" height="8" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="242" y="185" width="5" height="8" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="1.48"/>
+  <!-- Orange slice -->
+  <circle cx="50" cy="195" r="28" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Orange segments -->
+  <path d="M50 167 L50 223" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M22 195 L78 195" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M30 175 L70 215" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M30 215 L70 175" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="50" cy="195" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

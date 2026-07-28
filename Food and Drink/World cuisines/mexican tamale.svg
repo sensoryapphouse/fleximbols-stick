@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Corn husk body (wrapped parcel) -->
+  <!-- Main husk wrapper - pale straw colour -->
+  <rect x="55" y="80" width="175" height="110" rx="20" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Husk vein lines (longitudinal) -->
+  <path d="M90 80 L90 190" fill="none" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M115 80 L115 190" fill="none" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 80 L145 190" fill="none" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M175 80 L175 190" fill="none" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M200 80 L200 190" fill="none" stroke="#eed5b6" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tied end left - husk strips fanned out -->
+  <path d="M55 135 Q22 110 15 85 Q25 90 35 100 Q42 112 55 120" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M55 135 Q18 130 12 110 Q22 112 34 118 Q44 125 55 128" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M55 135 Q20 150 16 172 Q26 166 37 158 Q46 148 55 142" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Tie string left -->
+  <ellipse cx="62" cy="135" rx="10" ry="22" fill="none" stroke="#9d7246" stroke-width="7.40"/>
+  <!-- Partly unwrapped section - masa visible -->
+  <!-- Husk flap peeled back on right showing filling -->
+  <path d="M230 80 Q270 90 275 135 Q270 180 230 190 L230 160 Q252 135 250 135 Q252 110 230 110Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Masa filling exposed -->
+  <rect x="195" y="95" width="42" height="80" rx="8" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Filling (red/pork) inside masa channel -->
+  <rect x="205" y="108" width="22" height="54" rx="6" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Masa texture lines -->
+  <path d="M198 110 L235 110" fill="none" stroke="#f5e7c4" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M198 125 L235 125" fill="none" stroke="#f5e7c4" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M198 140 L235 140" fill="none" stroke="#f5e7c4" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M198 155 L235 155" fill="none" stroke="#f5e7c4" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

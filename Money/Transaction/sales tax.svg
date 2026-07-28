@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shopping cart body -->
+  <polygon points="35,80 195,80 180,150 60,150" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <line x1="55" y1="100" x2="190" y2="100" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="55" y1="125" x2="185" y2="125" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="80" y1="80" x2="80" y2="150" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="110" y1="80" x2="110" y2="150" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="140" y1="80" x2="140" y2="150" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="170" y1="80" x2="170" y2="150" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- handle -->
+  <path d="M 35 80 L 25 60 L 10 60" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- wheels -->
+  <circle cx="75" cy="170" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <circle cx="165" cy="170" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.34"/>
+  <!-- receipt sticking out -->
+  <polygon points="200,30 270,30 270,180 265,175 260,182 255,175 250,182 245,175 240,182 235,175 230,182 225,175 220,182 215,175 210,182 205,175 200,182" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- "TAX" as path letters on receipt -->
+  <!-- T -->
+  <path d="M 211 50 L 226 50 M 218.5 50 L 218.5 70" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M 232 70 L 238 50 L 244 70 M 234.5 62 L 241.5 62" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- X -->
+  <path d="M 250 50 L 262 70 M 262 50 L 250 70" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- percentage symbol as path -->
+  <circle cx="215" cy="85" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="210" y1="105" x2="260" y2="80" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
+  <circle cx="255" cy="103" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- dollar at bottom of receipt -->
+  <path d="M 235 120 L 235 125 a 8 5 0 0 0 -8 5 a 8 5 0 0 0 8 5 a 8 5 0 0 1 8 5 a 8 5 0 0 1 -8 5 L 235 145 M 227 128 L 227 142" fill="none" stroke="#137827" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="210" y1="155" x2="262" y2="155" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="210" y1="163" x2="262" y2="163" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

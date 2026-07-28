@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Enormously thick reddish base trunk -->
+  <path d="M95 232 Q88 205 90 175 Q92 150 100 130 Q112 110 130 100 L160 100 Q178 110 190 130 Q198 150 200 175 Q202 205 195 232 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Trunk narrows significantly as it rises -->
+  <rect x="122" y="30" width="46" height="75" rx="5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- Bark texture - deep furrowed -->
+  <line x1="108" y1="135" x2="105" y2="200" stroke="#9d7246" stroke-width="3.81" stroke-dasharray="8,10"/>
+  <line x1="145" y1="110" x2="145" y2="200" stroke="#9d7246" stroke-width="3.81" stroke-dasharray="8,10"/>
+  <line x1="182" y1="135" x2="185" y2="200" stroke="#9d7246" stroke-width="3.81" stroke-dasharray="8,10"/>
+  <line x1="132" y1="38" x2="132" y2="100" stroke="#9d7246" stroke-width="2.54" stroke-dasharray="6,8"/>
+  <line x1="158" y1="38" x2="158" y2="100" stroke="#9d7246" stroke-width="2.54" stroke-dasharray="6,8"/>
+  <!-- Ground flare - massive buttressed base -->
+  <ellipse cx="145" cy="232" rx="65" ry="9" fill="#7d5e23" stroke="#1a1a1a" stroke-width="3.81"/>
+  <!-- Dense towering crown - wider than redwood -->
+  <polygon points="145,8 125,38 165,38" fill="#137827" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <polygon points="145,22 108,58 182,58" fill="#529929" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <polygon points="145,38 95,78 195,78" fill="#137827" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <polygon points="145,55 85,98 205,98" fill="#529929" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Lower branch tufts on the wide trunk -->
+  <path d="M122 112 Q95 105 72 112" fill="none" stroke="#67832d" stroke-width="6.34" stroke-linecap="round"/>
+  <ellipse cx="68" cy="116" rx="14" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="3.81"/>
+  <path d="M168 112 Q195 105 218 112" fill="none" stroke="#67832d" stroke-width="6.34" stroke-linecap="round"/>
+  <ellipse cx="222" cy="116" rx="14" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="3.81"/>
+  <path d="M100 140 Q75 135 55 142" fill="none" stroke="#67832d" stroke-width="5.08" stroke-linecap="round"/>
+  <ellipse cx="52" cy="146" rx="11" ry="8" fill="#137827" stroke="#1a1a1a" stroke-width="3.81"/>
+  <path d="M190 140 Q215 135 235 142" fill="none" stroke="#67832d" stroke-width="5.08" stroke-linecap="round"/>
+  <ellipse cx="238" cy="146" rx="11" ry="8" fill="#137827" stroke="#1a1a1a" stroke-width="3.81"/>
+</g></svg>

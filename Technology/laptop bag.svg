@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- laptop-bag: slim structured briefcase-style messenger bag with flap, carry handle and shoulder strap -->
+  <!-- Shoulder strap going off to upper left -->
+  <path d="M82 105 Q55 80 45 52" fill="none" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Strap adjuster -->
+  <rect x="58" y="75" width="20" height="12" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Short top carry handle -->
+  <path d="M122 98 Q145 78 168 98" fill="none" stroke="#4d4d4d" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- Bag body: slim structured rectangle -->
+  <rect x="72" y="105" width="146" height="110" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Front flap: covers top ~40% of bag face -->
+  <path d="M72 105 L72 155 Q72 163 80 163 L210 163 Q218 163 218 155 L218 105 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Flap bottom fold line -->
+  <path d="M72 163 L218 163" fill="none" stroke="#1a1a1a" stroke-width="5.18"/>
+  <!-- Flap magnetic clasp buckle -->
+  <rect x="130" y="156" width="30" height="14" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="138" y="159" width="14" height="8" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Front slip pocket line on lower body -->
+  <rect x="86" y="174" width="118" height="30" rx="4" ry="4" fill="#4d4d4d" stroke="#b8b8b8" stroke-width="3.70"/>
+  <!-- Shoulder strap D-ring left -->
+  <rect x="73" y="112" width="12" height="10" rx="2" ry="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Feet bottom left/right -->
+  <circle cx="90" cy="212" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="212" r="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Concertina: small hexagonal squeezebox, round button ends, pleated bellows centre -->
+  <!-- Left hexagonal end cap -->
+  <polygon points="52,120 66,92 94,92 108,120 94,148 66,148" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Left buttons (hex layout) -->
+  <circle cx="72" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="132" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="132" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Left strap bar -->
+  <rect x="58" y="148" width="50" height="10" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Bellows pleated section -->
+  <rect x="108" y="96" width="74" height="48" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bellows pleat verticals -->
+  <line x1="121" y1="96" x2="121" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="134" y1="96" x2="134" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="147" y1="96" x2="147" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="160" y1="96" x2="160" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="173" y1="96" x2="173" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pleat fold lines (zigzag top) -->
+  <polyline points="108,96 114,102 121,96 127,102 134,96 140,102 147,96 153,102 160,96 166,102 173,96 179,102 182,96" fill="none" stroke="#7d5e23" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Pleat fold lines (zigzag bottom) -->
+  <polyline points="108,144 114,138 121,144 127,138 134,144 140,138 147,144 153,138 160,144 166,138 173,144 179,138 182,144" fill="none" stroke="#7d5e23" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Right hexagonal end cap -->
+  <polygon points="182,120 196,92 224,92 238,120 224,148 196,148" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Right buttons (hex layout) -->
+  <circle cx="202" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="218" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="202" cy="132" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="218" cy="132" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right strap bar -->
+  <rect x="182" y="148" width="50" height="10" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+</g></svg>

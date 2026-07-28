@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Romaine: tall, elongated, long crinkled leaves -->
+  <!-- back outer leaves (darker green) -->
+  <path d="M105 220 Q92 180 88 130 Q86 90 96 50 Q104 25 112 28 Q116 60 114 110 Q116 170 120 220 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M185 220 Q198 180 202 130 Q204 90 194 50 Q186 25 178 28 Q174 60 176 110 Q174 170 170 220 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- mid leaves -->
+  <path d="M118 220 Q108 175 108 130 Q110 88 122 50 Q132 28 138 32 Q138 78 136 130 Q138 178 135 220 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M172 220 Q182 175 182 130 Q180 88 168 50 Q158 28 152 32 Q152 78 154 130 Q152 178 155 220 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- central leaf (lighter) -->
+  <path d="M135 220 Q132 170 134 120 Q138 70 145 35 Q152 70 156 120 Q158 170 155 220 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- crinkle lines along leaves -->
+  <path d="M105 80 Q112 90 108 105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M108 130 Q116 138 110 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M185 80 Q178 90 182 105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M182 130 Q174 138 180 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 70 L145 200" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M132 100 Q138 108 134 120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M158 100 Q152 108 156 120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- pale base (stem end) -->
+  <path d="M118 210 Q145 225 172 210 Q172 225 145 232 Q118 225 118 210 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

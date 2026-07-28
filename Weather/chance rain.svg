@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky panel -->
+  <rect x="26" y="32" width="238" height="176" rx="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rain cloud (dark grey) -->
+  <circle cx="120" cy="72" r="34" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="84" cy="88" r="28" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="153" cy="85" r="30" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="100" r="24" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="56" y="94" width="142" height="32" fill="#90a7d6"/>
+  <line x1="56" y1="126" x2="198" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="56" y1="96" x2="56" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="198" y1="102" x2="198" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Rain drops (3 drops) -->
+  <ellipse cx="85" cy="152" rx="5" ry="9" fill="#2a4ec0"/>
+  <line x1="85" y1="133" x2="85" y2="143" stroke="#2a4ec0" stroke-width="3.55" stroke-linecap="round"/>
+  <ellipse cx="120" cy="158" rx="5" ry="9" fill="#2a4ec0"/>
+  <line x1="120" y1="139" x2="120" y2="149" stroke="#2a4ec0" stroke-width="3.55" stroke-linecap="round"/>
+  <ellipse cx="155" cy="152" rx="5" ry="9" fill="#2a4ec0"/>
+  <line x1="155" y1="133" x2="155" y2="143" stroke="#2a4ec0" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- "?" drawn as paths (large bold, right side) -->
+  <!-- Arc top of ? -->
+  <path d="M238 52 Q238 36 252 36 Q266 36 266 50 Q266 62 252 68 L252 78" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dot of ? -->
+  <circle cx="252" cy="88" r="5" fill="#000000"/>
+  <!-- "%" drawn as paths (lower right) -->
+  <!-- Top circle of % -->
+  <circle cx="238" cy="118" r="8" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Diagonal slash of % -->
+  <line x1="230" y1="146" x2="266" y2="108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Bottom circle of % -->
+  <circle cx="258" cy="146" r="8" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

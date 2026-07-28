@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- microphone body -->
+  <rect x="115" y="35" width="60" height="100" rx="28" ry="28" fill="#d01424" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- mic grille lines -->
+  <path d="M 122 55 L 168 55" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 122 70 L 168 70" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 122 85 L 168 85" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 122 100 L 168 100" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- mic stand -->
+  <path d="M 95 110 Q 95 155 145 155 Q 195 155 195 110" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <rect x="141" y="155" width="8" height="35" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="115" y="190" width="60" height="10" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- voice waves left -->
+  <path d="M 70 50 Q 50 90 70 130" fill="none" stroke="#2a4ec0" stroke-width="5.18" stroke-linecap="round"/>
+  <path d="M 55 35 Q 30 90 55 145" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 85 65 Q 75 90 85 115" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- voice waves right -->
+  <path d="M 220 50 Q 240 90 220 130" fill="none" stroke="#2a4ec0" stroke-width="5.18" stroke-linecap="round"/>
+  <path d="M 235 35 Q 260 90 235 145" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 205 65 Q 215 90 205 115" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- accessibility figure (small, simplified) -->
+  <circle cx="40" cy="195" r="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.70"/>
+  <path d="M 40 205 L 40 225 M 30 215 L 50 215 M 35 225 L 30 235 M 45 225 L 50 235" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- VO letters as paths -->
+  <!-- V -->
+  <path d="M 200 200 L 210 230 L 220 200" fill="none" stroke="#7c3fac" stroke-width="5.18" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <ellipse cx="240" cy="215" rx="10" ry="15" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

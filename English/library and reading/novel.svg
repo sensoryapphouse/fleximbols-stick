@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- thick novel: page block shadow on right showing depth -->
+  <path d="M225 30 L255 38 L255 215 L225 222 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- many page edge lines (thick novel) -->
+  <path d="M232 50 L250 50 M232 60 L250 60 M232 70 L250 70 M232 80 L250 80 M232 90 L250 90 M232 100 L250 100 M232 110 L250 110 M232 120 L250 120 M232 130 L250 130 M232 140 L250 140 M232 150 L250 150 M232 160 L250 160 M232 170 L250 170 M232 180 L250 180 M232 190 L250 190 M232 200 L250 200" stroke="#7f7f7f" stroke-width="1.78"/>
+  <!-- back cover -->
+  <path d="M55 27 L228 30 L232 35 L232 217 L228 222 L55 218 L50 213 L50 32 Z" fill="#392170" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- front cover face -->
+  <rect x="58" y="30" width="170" height="188" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- thick spine ridge -->
+  <rect x="58" y="30" width="20" height="188" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- spine bands -->
+  <path d="M58 60 L78 60 M58 65 L78 65 M58 183 L78 183 M58 188 L78 188" stroke="#f7de58" stroke-width="2.96"/>
+  <!-- gold border frame on front -->
+  <rect x="88" y="50" width="130" height="158" fill="none" stroke="#f7de58" stroke-width="3.70"/>
+  <!-- classic literary ornamental frame inner -->
+  <rect x="93" y="55" width="120" height="148" fill="none" stroke="#f7de58" stroke-width="2.22"/>
+  <!-- NOVEL letters -->
+  <!-- N -->
+  <path d="M105 90 L105 70 L120 90 L120 70" stroke="#f7de58" stroke-width="5.18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- O -->
+  <ellipse cx="138" cy="80" rx="8" ry="10" fill="none" stroke="#f7de58" stroke-width="5.18"/>
+  <!-- V -->
+  <path d="M153 70 L160 90 L167 70" stroke="#f7de58" stroke-width="5.18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- E -->
+  <path d="M174 70 L174 90 M174 70 L184 70 M174 80 L182 80 M174 90 L184 90" stroke="#f7de58" stroke-width="5.18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- L -->
+  <path d="M193 70 L193 90 L203 90" stroke="#f7de58" stroke-width="5.18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- decorative quill emblem (classic literary) -->
+  <path d="M152 140 Q145 125 130 120 Q140 138 150 150" fill="#fff200" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M150 150 L165 165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M165 165 L175 175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- author area divider -->
+  <path d="M98 185 L208 185" stroke="#f7de58" stroke-width="2.96"/>
+  <!-- author lines -->
+  <path d="M118 192 L188 192" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M128 199 L178 199" stroke="#f7de58" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

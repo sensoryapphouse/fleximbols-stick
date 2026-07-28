@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.47 68.11 372.36 372.36">
+<!-- prosthetic limb: artificial leg - socket cup at top, metal pylon, prosthetic foot. NO person. -->
+<!-- socket (thigh cup) -->
+<path d="M 200 110 Q 200 96 256 96 Q 312 96 312 110 L 300 190 Q 256 206 212 190 Z" fill="#e7d8bf" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- knee joint -->
+<circle cx="256" cy="216" r="26" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="216" r="7" fill="#1a1a1a"/>
+<!-- pylon (lower leg tube) -->
+<rect x="240" y="238" width="32" height="120" rx="10" fill="#9aa3ab" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ankle joint -->
+<circle cx="256" cy="364" r="13" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<!-- prosthetic foot -->
+<path d="M 230 376 L 320 376 Q 340 376 340 396 L 340 404 Q 340 412 330 412 L 226 412 Q 218 412 218 402 Q 218 384 230 376 Z" fill="#e7d8bf" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

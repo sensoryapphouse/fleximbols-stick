@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- table outer frame -->
+  <rect x="22" y="52" width="246" height="150" rx="12" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- felt surface (darker snooker green) -->
+  <rect x="42" y="68" width="206" height="118" rx="5" fill="#137827" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- corner pockets -->
+  <circle cx="42" cy="68" r="10" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="248" cy="68" r="10" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="42" cy="186" r="10" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="248" cy="186" r="10" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- mid pockets -->
+  <ellipse cx="145" cy="66" rx="10" ry="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="188" rx="10" ry="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- baulk line -->
+  <line x1="85" y1="68" x2="85" y2="186" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- D semicircle -->
+  <path d="M85 127 Q68 110 68 127 Q68 144 85 127" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- snooker coloured ball spots (no rack triangle) -->
+  <!-- pink spot -->
+  <circle cx="185" cy="127" r="8" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- blue spot (centre) -->
+  <circle cx="145" cy="127" r="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- brown spot on baulk line -->
+  <circle cx="85" cy="127" r="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- green spot baulk left -->
+  <circle cx="85" cy="108" r="8" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- yellow spot baulk right -->
+  <circle cx="85" cy="146" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- black spot near top cushion -->
+  <circle cx="215" cy="127" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- cluster of reds (15 reds, loose arrangement) -->
+  <circle cx="175" cy="117" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="189" cy="117" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="182" cy="105" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="105" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="105" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="93" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="189" cy="93" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="203" cy="93" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="161" cy="93" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="81" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="182" cy="81" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="81" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="81" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="154" cy="81" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="129" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cue ball (white) -->
+  <circle cx="78" cy="127" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- cue -->
+  <line x1="25" y1="108" x2="70" y2="123" stroke="#9d7246" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- table legs -->
+  <rect x="35" y="198" width="14" height="22" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="241" y="198" width="14" height="22" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+</g></svg>

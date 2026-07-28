@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- room walls -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- floor band -->
+  <rect x="15" y="195" width="260" height="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- four bunk beds in a row -->
+  <!-- bunk 1 -->
+  <rect x="22" y="40" width="55" height="155" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- top mattress -->
+  <rect x="25" y="55" width="49" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="25" y="55" width="14" height="20" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- curtain top -->
+  <path d="M22,40 q12,8 26,0 t26,0" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="22" y1="40" x2="77" y2="40" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bottom mattress -->
+  <rect x="25" y="130" width="49" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="25" y="130" width="14" height="20" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="22" y1="120" x2="77" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- bunk 2 -->
+  <rect x="82" y="40" width="55" height="155" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="85" y="55" width="49" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="85" y="55" width="14" height="20" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M82,40 q12,8 26,0 t26,0" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="82" y1="40" x2="137" y2="40" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="85" y="130" width="49" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="85" y="130" width="14" height="20" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="82" y1="120" x2="137" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- bunk 3 -->
+  <rect x="142" y="40" width="55" height="155" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="145" y="55" width="49" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="145" y="55" width="14" height="20" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M142,40 q12,8 26,0 t26,0" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="142" y1="40" x2="197" y2="40" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="145" y="130" width="49" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="145" y="130" width="14" height="20" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="142" y1="120" x2="197" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- bunk 4 -->
+  <rect x="202" y="40" width="55" height="155" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="205" y="55" width="49" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="205" y="55" width="14" height="20" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M202,40 q12,8 26,0 t26,0" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="202" y1="40" x2="257" y2="40" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="205" y="130" width="49" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="205" y="130" width="14" height="20" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="202" y1="120" x2="257" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- lockers below each bunk: small rectangles on floor -->
+  <rect x="25" y="200" width="20" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="40" cy="209" r="1.5" fill="#fff200"/>
+  <rect x="90" y="200" width="20" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="105" cy="209" r="1.5" fill="#fff200"/>
+  <rect x="150" y="200" width="20" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="209" r="1.5" fill="#fff200"/>
+  <rect x="210" y="200" width="20" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="209" r="1.5" fill="#fff200"/>
+</g></svg>

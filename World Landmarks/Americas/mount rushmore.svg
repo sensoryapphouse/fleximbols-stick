@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="60" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- mountain rockface -->
+  <path d="M10 70 L40 50 L80 65 L130 45 L180 55 L240 50 L280 70 L280 230 L10 230 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- darker rock variation -->
+  <path d="M10 200 L40 195 L100 205 L180 200 L280 210 L280 230 L10 230 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- USA flag pole right side -->
+  <path d="M260 30 L260 90" stroke="#4d4d4d" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- flag -->
+  <rect x="232" y="30" width="28" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="232" y="30" width="12" height="9" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M232 36 L260 36 M232 42 L260 42 M232 48 L260 48" stroke="#f8130d" stroke-width="4.45"/>
+  <!-- stars on canton (simplified dots) -->
+  <circle cx="236" cy="34" r="1" fill="#ffffff"/>
+  <circle cx="240" cy="34" r="1" fill="#ffffff"/>
+  <circle cx="236" cy="37" r="1" fill="#ffffff"/>
+  <circle cx="240" cy="37" r="1" fill="#ffffff"/>
+  <!-- FOUR PRESIDENTIAL HEAD SILHOUETTES carved in rock -->
+  <!-- Washington (leftmost) -->
+  <g stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round">
+    <!-- head -->
+    <path d="M30 130 Q26 110 36 96 Q50 88 64 96 Q72 108 70 124 Q70 136 64 144 L62 158 L30 158 Z" fill="#eed5b6"/>
+    <!-- wig hair -->
+    <path d="M30 116 Q28 102 38 96 Q50 88 64 96 Q70 102 68 112 Q60 108 50 110 Q40 110 30 116 Z" fill="#efefef"/>
+    <!-- eye -->
+    <circle cx="50" cy="118" r="1.5" fill="#000000"/>
+    <!-- nose -->
+    <path d="M54 122 L52 132 L56 134" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Jefferson -->
+  <g stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round">
+    <path d="M88 130 Q84 110 94 96 Q108 88 122 96 Q130 108 128 124 Q128 136 122 144 L120 158 L88 158 Z" fill="#eed5b6"/>
+    <path d="M88 112 Q88 98 96 92 Q108 86 122 92 Q128 100 126 110 Q116 102 106 104 Q96 106 88 112 Z" fill="#7d5e23"/>
+    <circle cx="108" cy="118" r="1.5" fill="#000000"/>
+    <path d="M112 122 L110 132 L114 134" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Roosevelt (with moustache + glasses) -->
+  <g stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round">
+    <path d="M146 130 Q142 110 152 96 Q166 88 180 96 Q188 108 186 124 Q186 136 180 144 L178 158 L146 158 Z" fill="#eed5b6"/>
+    <path d="M146 110 Q148 96 156 92 Q170 88 180 94 Q186 100 184 110 Q174 102 164 104 Q154 106 146 110 Z" fill="#5e1f0a"/>
+    <!-- glasses -->
+    <circle cx="160" cy="118" r="4" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="172" cy="118" r="4" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M164 118 L168 118" stroke="#1a1a1a" stroke-width="4.45"/>
+    <!-- moustache -->
+    <path d="M158 138 Q166 142 174 138" fill="none" stroke="#5e1f0a" stroke-width="6.67" stroke-linecap="round"/>
+  </g>
+  <!-- Lincoln (with beard) -->
+  <g stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round">
+    <path d="M204 130 Q200 110 210 96 Q224 88 238 96 Q246 108 244 124 Q244 136 238 144 L236 158 L204 158 Z" fill="#eed5b6"/>
+    <path d="M204 110 Q204 96 214 92 Q228 86 238 94 Q244 100 242 110 Q232 102 222 104 Q212 106 204 110 Z" fill="#000000"/>
+    <circle cx="222" cy="118" r="1.5" fill="#000000"/>
+    <path d="M226 122 L224 132 L228 134" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <!-- beard -->
+    <path d="M212 140 Q224 158 236 140 Q230 158 218 158 Z" fill="#000000"/>
+  </g>
+</g></svg>

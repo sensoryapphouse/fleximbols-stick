@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Voucher background ticket -->
+  <path d="M 25 50 L 265 50 Q 265 65 255 70 Q 265 75 265 90 L 265 195 L 25 195 L 25 90 Q 35 75 25 70 Q 25 65 25 50 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner panel -->
+  <rect x="40" y="65" width="210" height="115" rx="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Big dollar sign (credit) -->
+  <path d="M 60 88 L 110 88 L 110 100 L 75 100 L 75 110 L 110 110 L 110 150 L 60 150 L 60 138 L 95 138 L 95 128 L 60 128 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="85" y1="78" x2="85" y2="162" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Code box -->
+  <rect x="130" y="90" width="105" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- code chars (block shapes) -->
+  <rect x="138" y="96" width="10" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="152" y="96" width="10" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="166" y="96" width="10" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="180" y="96" width="10" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="194" y="96" width="10" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="208" y="96" width="10" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="222" y="96" width="10" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Star burst at top -->
+  <polygon points="200,40 204,52 216,52 207,60 211,72 200,64 189,72 193,60 184,52 196,52" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="60" y="200" width="170" height="28" rx="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- scissors cutting along dotted line (voucher redemption) -->
+  <circle cx="38" cy="170" r="6" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="52" cy="180" r="6" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="42" y1="166" x2="60" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="55" y1="177" x2="60" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="155" x2="105" y2="130" stroke="#1a1a1a" stroke-width="2.96" stroke-dasharray="5,4" stroke-linecap="round"/>
+</g></svg>

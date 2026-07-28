@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="105.70 125.32 300.61 300.61"><!-- Remembrance poppy -->
+<!-- stem -->
+<path d="M 256 250 Q 250 330 226 402" fill="none" stroke="#3f7d3a" stroke-width="11" stroke-linecap="round"/>
+<!-- leaf -->
+<path d="M 244 320 Q 300 304 326 344 Q 268 360 244 320 Z" fill="#4faa5a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- four red petals around centre -->
+<path d="M 256 150 Q 320 138 332 196 Q 312 226 256 218 Q 232 184 256 150 Z" fill="#d83232" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 150 Q 192 138 180 196 Q 200 226 256 218 Q 280 184 256 150 Z" fill="#e84545" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 258 Q 320 270 332 212 Q 312 182 256 190 Q 232 224 256 258 Z" fill="#e84545" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 258 Q 192 270 180 212 Q 200 182 256 190 Q 280 224 256 258 Z" fill="#d83232" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- black centre -->
+<circle cx="256" cy="204" r="30" fill="#2a2a2a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="248" cy="196" r="5" fill="#1a1a1a"/>
+<circle cx="266" cy="198" r="5" fill="#1a1a1a"/>
+<circle cx="258" cy="214" r="5" fill="#1a1a1a"/>
+</svg>

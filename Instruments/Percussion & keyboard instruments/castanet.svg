@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Two castanets joined by a cord, held together in palm view -->
+  <!-- Cord connecting them -->
+  <path d="M 112 68 Q 145 48 178 68" fill="none" stroke="#4d4d4d" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Left castanet (shell-shaped concave wooden clacker) -->
+  <!-- Top half (upper shell) -->
+  <ellipse cx="95" cy="115" rx="55" ry="28" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Concave inner surface of top shell -->
+  <ellipse cx="95" cy="120" rx="46" ry="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bottom half of left castanet -->
+  <ellipse cx="95" cy="152" rx="55" ry="28" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="95" cy="148" rx="46" ry="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Gap between left pair -->
+  <rect x="40" y="132" width="110" height="20" rx="2" fill="#ffffff" stroke="none"/>
+  <line x1="40" y1="132" x2="150" y2="132" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="152" x2="150" y2="152" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Wood grain lines on left castanet top -->
+  <path d="M 60 110 Q 95 106 130 110" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 55 116 Q 95 112 135 116" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Right castanet -->
+  <!-- Top half -->
+  <ellipse cx="195" cy="115" rx="55" ry="28" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="195" cy="120" rx="46" ry="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bottom half -->
+  <ellipse cx="195" cy="152" rx="55" ry="28" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="195" cy="148" rx="46" ry="18" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Gap between right pair -->
+  <rect x="140" y="132" width="110" height="20" rx="2" fill="#ffffff" stroke="none"/>
+  <line x1="140" y1="132" x2="250" y2="132" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="152" x2="250" y2="152" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Wood grain lines on right castanet top -->
+  <path d="M 160 110 Q 195 106 230 110" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 155 116 Q 195 112 235 116" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Cord attachment bumps (top) -->
+  <circle cx="95" cy="88" r="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="88" r="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Motion lines suggesting clacking -->
+  <line x1="145" y1="175" x2="148" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="178" x2="128" y2="198" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="178" x2="162" y2="198" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

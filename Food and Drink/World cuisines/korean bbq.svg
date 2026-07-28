@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Table surface -->
+  <ellipse cx="145" cy="175" rx="115" ry="30" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Grill frame (round, sits in table hole) -->
+  <ellipse cx="145" cy="120" rx="72" ry="32" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Grill grate lines (horizontal) -->
+  <line x1="78" y1="112" x2="212" y2="112" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="76" y1="120" x2="214" y2="120" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="78" y1="128" x2="212" y2="128" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Grill grate lines (vertical/diagonal) -->
+  <line x1="100" y1="100" x2="100" y2="140" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="120" y1="92" x2="120" y2="146" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="145" y1="89" x2="145" y2="149" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="170" y1="92" x2="170" y2="146" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="190" y1="100" x2="190" y2="140" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Meat strips on grill -->
+  <ellipse cx="118" cy="115" rx="22" ry="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 118 115)"/>
+  <ellipse cx="150" cy="110" rx="24" ry="9" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(5 150 110)"/>
+  <ellipse cx="177" cy="118" rx="20" ry="8" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 177 118)"/>
+  <!-- Char marks on meat -->
+  <line x1="110" y1="112" x2="126" y2="118" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="142" y1="107" x2="158" y2="113" stroke="#4d4d4d" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Smoke wisps -->
+  <path d="M120,90 Q115,82 122,74 Q129,66 124,58" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M155,86 Q150,78 157,70 Q164,62 159,54" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tongs (right side of grill) -->
+  <line x1="215" y1="95" x2="240" y2="60" stroke="#7f7f7f" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="222" y1="100" x2="248" y2="66" stroke="#7f7f7f" stroke-width="7.40" stroke-linecap="round"/>
+  <ellipse cx="244" cy="63" rx="8" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-40 244 63)"/>
+  <!-- Side dish bowls -->
+  <!-- Bowl left -->
+  <ellipse cx="42" cy="170" rx="28" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="42" cy="163" rx="28" ry="10" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bowl right -->
+  <ellipse cx="248" cy="170" rx="28" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="248" cy="163" rx="28" ry="10" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- calendar body -->
+  <rect x="30" y="36" width="230" height="170" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- calendar header -->
+  <rect x="30" y="36" width="230" height="28" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- rings -->
+  <rect x="60" y="22" width="10" height="24" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="220" y="22" width="10" height="24" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- grid lines -->
+  <line x1="30" y1="88" x2="260" y2="88" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="30" y1="116" x2="260" y2="116" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="30" y1="144" x2="260" y2="144" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="30" y1="172" x2="260" y2="172" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="62" y1="64" x2="62" y2="206" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="95" y1="64" x2="95" y2="206" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="128" y1="64" x2="128" y2="206" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="161" y1="64" x2="161" y2="206" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="194" y1="64" x2="194" y2="206" stroke="#7f7f7f" stroke-width="2.96"/>
+  <line x1="227" y1="64" x2="227" y2="206" stroke="#7f7f7f" stroke-width="2.96"/>
+
+  <!-- alternating parent colour days: blue and pink (50/50) -->
+  <rect x="32" y="66" width="29" height="21" fill="#2a4ec0"/>
+  <rect x="63" y="66" width="31" height="21" fill="#f4a4b2"/>
+  <rect x="96" y="66" width="31" height="21" fill="#2a4ec0"/>
+  <rect x="129" y="66" width="31" height="21" fill="#f4a4b2"/>
+  <rect x="162" y="66" width="31" height="21" fill="#2a4ec0"/>
+  <rect x="195" y="66" width="31" height="21" fill="#f4a4b2"/>
+  <rect x="228" y="66" width="30" height="21" fill="#2a4ec0"/>
+
+  <rect x="32" y="90" width="29" height="24" fill="#f4a4b2"/>
+  <rect x="96" y="90" width="31" height="24" fill="#f4a4b2"/>
+  <rect x="162" y="90" width="31" height="24" fill="#f4a4b2"/>
+  <rect x="228" y="90" width="30" height="24" fill="#f4a4b2"/>
+  <rect x="63" y="90" width="31" height="24" fill="#2a4ec0"/>
+  <rect x="129" y="90" width="31" height="24" fill="#2a4ec0"/>
+  <rect x="195" y="90" width="31" height="24" fill="#2a4ec0"/>
+
+  <rect x="32" y="118" width="29" height="24" fill="#2a4ec0"/>
+  <rect x="63" y="118" width="31" height="24" fill="#f4a4b2"/>
+  <rect x="96" y="118" width="31" height="24" fill="#2a4ec0"/>
+  <rect x="129" y="118" width="31" height="24" fill="#f4a4b2"/>
+  <rect x="162" y="118" width="31" height="24" fill="#2a4ec0"/>
+  <rect x="195" y="118" width="31" height="24" fill="#f4a4b2"/>
+  <rect x="228" y="118" width="30" height="24" fill="#2a4ec0"/>
+
+  <!-- child in centre (full body, yellow) overlapping the calendar -->
+  <circle cx="145" cy="160" r="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40"/>
+  <rect x="131" y="174" width="28" height="34" rx="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <line x1="131" y1="182" x2="119" y2="200" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="159" y1="182" x2="171" y2="200" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="135" y1="208" x2="133" y2="226" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="155" y1="208" x2="157" y2="226" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+
+  <!-- 50 / 50 split divider down the middle, dashed -->
+  <line x1="145" y1="36" x2="145" y2="206" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="8,6"/>
+</g></svg>

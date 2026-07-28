@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- back legs / uprights (behind) -->
+<line x1="150" y1="150" x2="150" y2="356" stroke="#6b4a2b" stroke-width="14" stroke-linecap="round"/>
+<line x1="362" y1="150" x2="362" y2="356" stroke="#6b4a2b" stroke-width="14" stroke-linecap="round"/>
+<!-- backrest slats -->
+<rect x="138" y="150" width="236" height="22" rx="7" fill="#8cc152" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="138" y="186" width="236" height="22" rx="7" fill="#8cc152" stroke="#1a1a1a" stroke-width="9"/>
+<!-- seat slab -->
+<rect x="126" y="252" width="260" height="30" rx="8" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9"/>
+<!-- seat front slat edge -->
+<line x1="138" y1="282" x2="374" y2="282" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- armrest left -->
+<path d="M 126 252 L 126 224 Q 126 214 116 214 L 116 214" fill="none" stroke="#6b4a2b" stroke-width="14" stroke-linecap="round"/>
+<rect x="100" y="208" width="40" height="16" rx="7" fill="#8cc152" stroke="#1a1a1a" stroke-width="8"/>
+<!-- armrest right -->
+<rect x="372" y="208" width="40" height="16" rx="7" fill="#8cc152" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="392" y1="224" x2="392" y2="252" stroke="#6b4a2b" stroke-width="14" stroke-linecap="round"/>
+<!-- front legs -->
+<line x1="150" y1="282" x2="150" y2="372" stroke="#6b4a2b" stroke-width="16" stroke-linecap="round"/>
+<line x1="362" y1="282" x2="362" y2="372" stroke="#6b4a2b" stroke-width="16" stroke-linecap="round"/>
+<!-- ground -->
+<line x1="120" y1="392" x2="392" y2="392" stroke="#8a5a2b" stroke-width="9" stroke-linecap="round"/>
+</svg>

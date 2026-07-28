@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bamboo mat: flat bamboo placemat with woven texture -->
+  <!-- mat shape (slight perspective rectangle) -->
+  <path d="M30 70 L260 60 L270 200 L20 210 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- inner border edge -->
+  <path d="M40 80 L250 71 L258 192 L32 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- horizontal bamboo slats (8 strands) -->
+  <path d="M40 90 L251 82" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <path d="M40 105 L252 96" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <path d="M40 120 L253 110" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <path d="M40 135 L254 124" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <path d="M40 150 L255 138" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <path d="M40 165 L256 152" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <path d="M40 180 L256 166" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <path d="M40 192 L257 180" fill="none" stroke="#9d7246" stroke-width="4.45"/>
+  <!-- bamboo nodes / knots dotted along strands -->
+  <circle cx="75" cy="89" r="2" fill="#7d5e23"/>
+  <circle cx="135" cy="86" r="2" fill="#7d5e23"/>
+  <circle cx="200" cy="84" r="2" fill="#7d5e23"/>
+  <circle cx="105" cy="118" r="2" fill="#7d5e23"/>
+  <circle cx="170" cy="116" r="2" fill="#7d5e23"/>
+  <circle cx="230" cy="113" r="2" fill="#7d5e23"/>
+  <circle cx="80" cy="148" r="2" fill="#7d5e23"/>
+  <circle cx="155" cy="145" r="2" fill="#7d5e23"/>
+  <circle cx="215" cy="142" r="2" fill="#7d5e23"/>
+  <circle cx="100" cy="178" r="2" fill="#7d5e23"/>
+  <circle cx="175" cy="174" r="2" fill="#7d5e23"/>
+  <circle cx="235" cy="170" r="2" fill="#7d5e23"/>
+  <!-- woven cross binding cords (vertical stitching threads) -->
+  <path d="M60 75 L62 205" fill="none" stroke="#5e1f0a" stroke-width="2.96"/>
+  <path d="M145 70 L148 202" fill="none" stroke="#5e1f0a" stroke-width="2.96"/>
+  <path d="M230 64 L235 198" fill="none" stroke="#5e1f0a" stroke-width="2.96"/>
+</g></svg>

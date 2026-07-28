@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tile frame -->
+  <rect x="25" y="20" width="240" height="200" rx="18" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- Chat bubble (main) -->
+  <path d="M45,40 L245,40 Q258,40 258,53 L258,148 Q258,161 245,161 L100,161 L72,195 L85,161 L45,161 Q32,161 32,148 L32,53 Q32,40 45,40 Z" fill="#137827" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- Robot face inside bubble -->
+  <!-- Head box -->
+  <rect x="108" y="60" width="74" height="58" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Antenna -->
+  <line x1="145" y1="60" x2="145" y2="46" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="145" cy="42" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Eyes -->
+  <circle cx="128" cy="82" r="9" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="162" cy="82" r="9" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="128" cy="82" r="4" fill="#000000"/>
+  <circle cx="162" cy="82" r="4" fill="#000000"/>
+  <!-- Mouth (straight line - neutral) -->
+  <line x1="128" y1="104" x2="162" y2="104" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Ear ports -->
+  <rect x="100" y="79" width="10" height="16" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="180" y="79" width="10" height="16" rx="4" ry="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Three reply dots at bottom of bubble -->
+  <circle cx="118" cy="143" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="143" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="172" cy="143" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

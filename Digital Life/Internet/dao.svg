@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Background circle (network ring) -->
+  <circle cx="145" cy="110" r="78" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-dasharray="6 4"/>
+  <!-- Connecting edges between member nodes -->
+  <line x1="80" y1="70" x2="145" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="210" y1="70" x2="145" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="60" y1="140" x2="145" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="230" y1="140" x2="145" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="110" y1="180" x2="145" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="180" y1="180" x2="145" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="80" y1="70" x2="210" y2="70" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="60" y1="140" x2="230" y2="140" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Central ballot box (voting) -->
+  <rect x="118" y="92" width="54" height="44" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="118" y="88" width="54" height="10" rx="2" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ballot slot -->
+  <rect x="135" y="92" width="20" height="4" rx="1" fill="#000000"/>
+  <!-- Ballot paper going in -->
+  <rect x="140" y="76" width="10" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 142,84 L 144,86 L 148,82" fill="none" stroke="#137827" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Member nodes (peers) -->
+  <circle cx="80" cy="70" r="14" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="64" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="210" cy="70" r="14" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="64" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="60" cy="140" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="134" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="230" cy="140" r="14" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="230" cy="134" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="110" cy="180" r="14" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="110" cy="174" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="180" cy="180" r="14" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="174" r="5" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- DAO label band -->
+  <rect x="90" y="200" width="110" height="32" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- D -->
+  <path d="M 104,206 L 104,226 L 116,226 Q 124,226 124,216 Q 124,206 116,206 Z M 110,210 L 114,210 Q 118,210 118,216 Q 118,222 114,222 L 110,222 Z" fill="#fff200" stroke="none"/>
+  <!-- A -->
+  <path d="M 128,226 L 136,206 L 142,206 L 150,226 L 144,226 L 142,222 L 136,222 L 134,226 Z M 138,218 L 140,218 L 139,214 Z" fill="#fff200" stroke="none"/>
+  <!-- O -->
+  <path d="M 162,206 Q 154,206 154,216 Q 154,226 162,226 Q 170,226 170,216 Q 170,206 162,206 Z M 162,210 Q 166,210 166,216 Q 166,222 162,222 Q 158,222 158,216 Q 158,210 162,210 Z" fill="#fff200" stroke="none"/>
+</g></svg>

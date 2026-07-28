@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g stroke-linejoin="round" stroke-linecap="round" fill="none">
+<!-- hook -->
+<path d="M 256 150 Q 256 110 286 110 Q 312 110 312 138 Q 312 158 292 162" stroke="#9aa0a6" stroke-width="11"/>
+<!-- neck down to shoulders apex -->
+<line x1="256" y1="150" x2="256" y2="196" stroke="#8a5a2b" stroke-width="11"/>
+<!-- triangular shoulders -->
+<path d="M 256 196 L 132 322 Q 124 330 136 332 L 376 332 Q 388 330 380 322 Z" stroke="#8a5a2b" stroke-width="11"/>
+<!-- bottom bar -->
+<line x1="148" y1="332" x2="364" y2="332" stroke="#8a5a2b" stroke-width="13"/>
+</g></svg>

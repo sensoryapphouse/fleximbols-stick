@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ===== faint grey body silhouette ===== -->
+<!-- head -->
+<circle cx="256" cy="96" r="40" fill="#eef1f4" stroke="#cfd6dc" stroke-width="6"/>
+<!-- torso + arms + legs as one body -->
+<path d="M 216 150
+  Q 196 150 184 196 L 150 312 Q 144 334 168 340 Q 188 344 196 322 L 222 250
+  L 222 360 L 196 470 Q 190 492 216 494 Q 236 496 242 474 L 256 384
+  L 270 474 Q 276 496 296 494 Q 322 492 316 470 L 290 360 L 290 250
+  L 316 322 Q 324 344 344 340 Q 368 334 362 312 L 328 196
+  Q 316 150 296 150 Z" fill="#eef1f4" stroke="#cfd6dc" stroke-width="6" stroke-linejoin="round"/>
+<!-- ===== yellow nervous system overlay (aligned to the body above) ===== -->
+<!-- brain in the head -->
+<path d="M 256 64 q 36 0 36 32 q 0 30 -36 36 q -36 -6 -36 -36 q 0 -32 36 -32 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 256 70 L 256 130 M 236 78 q 8 22 -2 46 M 276 78 q -8 22 2 46" fill="none" stroke="#e08a3a" stroke-width="5" stroke-linecap="round"/>
+<!-- spinal cord down the torso centre -->
+<path d="M 256 132 L 256 372" fill="none" stroke="#f4c430" stroke-width="15" stroke-linecap="round"/>
+<path d="M 256 140 L 256 366" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-dasharray="0.1 24"/>
+<!-- nerves into the arms (follow the silhouette arms) -->
+<g fill="none" stroke="#f4c430" stroke-width="9" stroke-linecap="round">
+<path d="M 252 192 Q 214 196 192 244 Q 180 280 168 318"/>
+<path d="M 260 192 Q 298 196 320 244 Q 332 280 344 318"/>
+<path d="M 256 360 Q 240 392 222 470"/>
+<path d="M 256 360 Q 272 392 290 470"/>
+</g>
+<g fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-dasharray="0.1 17">
+<path d="M 252 192 Q 214 196 192 244 Q 180 280 168 318 M 260 192 Q 298 196 320 244 Q 332 280 344 318 M 256 360 Q 240 392 222 470 M 256 360 Q 272 392 290 470"/>
+</g>
+<!-- nerve end-dots at hands and feet (on the body) -->
+<g fill="#e08a3a" stroke="#1a1a1a" stroke-width="4">
+<circle cx="166" cy="320" r="9"/><circle cx="346" cy="320" r="9"/><circle cx="220" cy="474" r="9"/><circle cx="292" cy="474" r="9"/>
+</g>
+</svg>

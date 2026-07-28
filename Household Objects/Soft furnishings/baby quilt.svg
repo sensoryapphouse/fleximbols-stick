@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Small baby quilt: soft pastels, animal motif (duck) in centre -->
+  <!-- Outer pastel border -->
+  <rect x="35" y="35" width="220" height="170" rx="14" ry="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.11"/>
+
+  <!-- Patchwork: 4 cols x 3 rows of pastel squares around centre -->
+  <!-- Top row -->
+  <rect x="45" y="45" width="52" height="48" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="97" y="45" width="52" height="48" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="149" y="45" width="52" height="48" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="201" y="45" width="44" height="48" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Middle row -->
+  <rect x="45" y="93" width="52" height="54" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="97" y="93" width="104" height="54" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="201" y="93" width="44" height="54" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bottom row -->
+  <rect x="45" y="147" width="52" height="48" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="97" y="147" width="52" height="48" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="149" y="147" width="52" height="48" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="201" y="147" width="44" height="48" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Centre animal motif: duckling -->
+  <!-- Body -->
+  <ellipse cx="145" cy="128" rx="26" ry="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Head -->
+  <circle cx="170" cy="115" r="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Beak -->
+  <path d="M 182 115 L 192 113 L 192 119 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <circle cx="173" cy="111" r="2.2" fill="#000000"/>
+  <!-- Wing -->
+  <path d="M 138 122 Q 145 116 158 120 Q 152 132 138 130 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <path d="M 135 145 L 132 152 L 140 150 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.20" stroke-linejoin="round"/>
+  <path d="M 152 145 L 149 152 L 157 150 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.20" stroke-linejoin="round"/>
+
+  <!-- Tiny motifs in surrounding patches: stars and dots -->
+  <g stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round">
+    <polygon points="71,60 74,68 82,68 76,73 78,81 71,76 64,81 66,73 60,68 68,68" fill="#ffffff"/>
+    <polygon points="223,60 226,68 234,68 228,73 230,81 223,76 216,81 218,73 212,68 220,68" fill="#ffffff"/>
+    <polygon points="71,170 74,178 82,178 76,183 78,191 71,186 64,191 66,183 60,178 68,178" fill="#ffffff"/>
+    <polygon points="175,170 178,178 186,178 180,183 182,191 175,186 168,191 170,183 164,178 172,178" fill="#ffffff"/>
+    <polygon points="123,60 126,68 134,68 128,73 130,81 123,76 116,81 118,73 112,68 120,68" fill="#ffffff"/>
+    <polygon points="123,170 126,178 134,178 128,183 130,191 123,186 116,191 118,183 112,178 120,178" fill="#ffffff"/>
+  </g>
+
+  <!-- Heart in pink patch -->
+  <path d="M 223 116 q -8 -8 -12 0 q 0 6 12 14 q 12 -8 12 -14 q -4 -8 -12 0 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+
+  <!-- Quilting stitch lines (dashed) -->
+  <g stroke="#1a1a1a" stroke-width="2.13" stroke-dasharray="3 3" fill="none">
+    <rect x="42" y="42" width="206" height="156" rx="10" ry="10"/>
+  </g>
+
+  <!-- Scalloped trim along bottom edge -->
+  <g fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56">
+    <circle cx="55" cy="208" r="6"/>
+    <circle cx="85" cy="210" r="6"/>
+    <circle cx="115" cy="210" r="6"/>
+    <circle cx="145" cy="210" r="6"/>
+    <circle cx="175" cy="210" r="6"/>
+    <circle cx="205" cy="210" r="6"/>
+    <circle cx="235" cy="208" r="6"/>
+  </g>
+</g></svg>

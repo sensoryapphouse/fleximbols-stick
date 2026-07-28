@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- white art eraser block, clean crisp lines, paper sleeve -->
+  <!-- top face perspective -->
+  <polygon points="70,85 230,85 245,68 85,68" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- right side face -->
+  <polygon points="230,85 245,68 245,160 230,175" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- front face main, white -->
+  <rect x="70" y="85" width="160" height="90" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- paper sleeve band wrapping middle -->
+  <rect x="60" y="110" width="180" height="35" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sleeve top-edge perspective -->
+  <polygon points="60,110 240,110 245,100 75,100" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- label area on sleeve -->
+  <rect x="115" y="118" width="70" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="125" y1="128" x2="175" y2="128" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- clean line marks on paper, sharp -->
+  <line x1="50" y1="195" x2="120" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="50" y1="210" x2="100" y2="210" stroke="#4d4d4d" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

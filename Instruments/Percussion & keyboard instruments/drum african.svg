@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Djembe goblet shape: wide top, narrow waist, flared foot -->
+
+  <!-- Body back layer (darker wood edge) -->
+  <path d="M 78,78
+    Q 76,110 82,130
+    Q 88,150 100,162
+    Q 112,174 118,188
+    Q 122,200 122,215
+    Q 134,222 145,222
+    Q 156,222 168,215
+    Q 168,200 172,188
+    Q 178,174 190,162
+    Q 202,150 208,130
+    Q 214,110 212,78 Z"
+    fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Body front (main wood colour) -->
+  <path d="M 82,78
+    Q 80,110 86,130
+    Q 92,150 104,162
+    Q 116,174 120,188
+    Q 124,200 124,214
+    Q 134,220 145,220
+    Q 156,220 166,214
+    Q 166,200 170,188
+    Q 174,174 186,162
+    Q 198,150 204,130
+    Q 210,110 208,78 Z"
+    fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Foot / base flare -->
+  <path d="M 124,214
+    Q 120,218 118,224
+    Q 130,232 145,232
+    Q 160,232 172,224
+    Q 170,218 166,214
+    Q 156,220 145,220
+    Q 134,220 124,214 Z"
+    fill="#5e1f0a" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Foot rim -->
+  <ellipse cx="145" cy="232" rx="28" ry="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Carved decorative rings on body -->
+  <path d="M 100,128 Q 145,122 190,128" fill="none" stroke="#5e1f0a" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M 102,136 Q 145,130 188,136" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 110,158 Q 145,152 180,158" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linecap="round"/>
+
+  <!-- Rope tension ring (top, under drumhead) -->
+  <ellipse cx="145" cy="78" rx="67" ry="14" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Drumhead skin -->
+  <ellipse cx="145" cy="70" rx="67" ry="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head centre sheen -->
+  <ellipse cx="138" cy="67" rx="28" ry="7" fill="#f5e7c4" stroke="none"/>
+
+  <!-- Head rim / bearing edge ring -->
+  <ellipse cx="145" cy="70" rx="67" ry="14" fill="none" stroke="#9d7246" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Vertical rope lacing - zigzag tension cords -->
+  <!-- Ropes run from top ring down to bottom ring area in zigzag -->
+  <!-- Left side ropes -->
+  <polyline points="84,80 90,130 82,180 88,214" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="96,82 98,132 90,182 96,214" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="108,78 104,130 98,182 104,214" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="120,74 112,128 108,182 114,214" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right side ropes -->
+  <polyline points="206,80 200,130 208,180 202,214" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="194,82 192,132 200,182 194,214" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="182,78 186,130 192,182 186,214" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="170,74 178,128 182,182 176,214" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Horizontal rope rings at waist -->
+  <path d="M 86,130 Q 145,124 204,130" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 83,145 Q 145,139 207,145" fill="none" stroke="#5e1f0a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Diamond knots at waist crossings -->
+  <circle cx="90" cy="138" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="108" cy="136" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="126" cy="135" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="134" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="164" cy="135" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="182" cy="136" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="200" cy="138" r="3.5" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Body outline on top -->
+  <path d="M 82,78
+    Q 80,110 86,130
+    Q 92,150 104,162
+    Q 116,174 120,188
+    Q 124,200 124,214"
+    fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 208,78
+    Q 210,110 204,130
+    Q 198,150 186,162
+    Q 174,174 170,188
+    Q 166,200 166,214"
+    fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

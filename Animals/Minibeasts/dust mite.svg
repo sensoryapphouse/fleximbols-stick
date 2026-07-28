@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- magnifier circle (centered, large) -->
+  <circle cx="130" cy="110" r="80" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- dust mite body (large, magnified) inside lens -->
+  <!-- main oval body -->
+  <ellipse cx="130" cy="115" rx="48" ry="38" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- head segment -->
+  <ellipse cx="130" cy="80" rx="22" ry="16" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 4 pairs of legs (8 legs total) -->
+  <path d="M90 95 Q70 85 60 75" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M88 110 Q66 110 55 105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M88 125 Q66 130 56 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M95 142 Q82 156 75 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M170 95 Q190 85 200 75" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M172 110 Q194 110 205 105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M172 125 Q194 130 204 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M165 142 Q178 156 185 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- palps near head -->
+  <path d="M122 70 L116 60 M138 70 L144 60" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- eyes -->
+  <circle cx="124" cy="80" r="3" fill="#000000"/>
+  <circle cx="136" cy="80" r="3" fill="#000000"/>
+  <!-- body segmentation hair lines -->
+  <path d="M110 115 L120 115 M140 115 L150 115 M125 100 L125 90 M130 130 L130 138" fill="none" stroke="#5e1f0a" stroke-width="2.22"/>
+  <!-- magnifier handle -->
+  <path d="M188 168 L240 220" fill="none" stroke="#4d4d4d" stroke-width="20.73" stroke-linecap="round"/>
+  <path d="M188 168 L240 220" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- dust specks around -->
+  <circle cx="40" cy="40" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="55" cy="55" r="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="225" cy="55" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="240" cy="40" r="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="30" cy="180" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- DUST MITE letters (split: DUST then MITE) -->
+  <!-- D -->
+  <path d="M30 220 L30 235 L37 235 Q44 235 44 227 Q44 220 37 220 Z" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- U -->
+  <path d="M49 220 L49 232 Q49 235 54 235 Q59 235 59 232 L59 220" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- S -->
+  <path d="M74 220 Q66 220 66 225 Q66 229 73 229 Q80 229 80 233 Q80 235 73 235" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- T -->
+  <path d="M85 220 L95 220 M90 220 L90 235" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- M -->
+  <path d="M110 235 L110 220 L118 230 L126 220 L126 235" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- I -->
+  <path d="M132 220 L132 235" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- T -->
+  <path d="M138 220 L148 220 M143 220 L143 235" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M163 220 L153 220 L153 235 L163 235 M153 227 L161 227" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- small warning triangle -->
+  <path d="M260 45 L280 80 L240 80 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M260 56 L260 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="260" cy="75" r="1.8" fill="#000000"/>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- the shoe being cleaned -->
+<path d="M 120 332 L 130 286 Q 180 280 210 308 Q 286 314 360 332 Q 398 338 396 366 L 392 384 Q 256 396 130 384 Q 116 360 120 332 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- shoe opening / laces area -->
+<path d="M 162 306 Q 196 296 224 318" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="178" y1="306" x2="200" y2="318" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="196" y1="300" x2="216" y2="314" stroke="#1a1a1a" stroke-width="5"/>
+<!-- sole -->
+<line x1="124" y1="374" x2="392" y2="374" stroke="#1a1a1a" stroke-width="6"/>
+<!-- polishing brush above the toe -->
+<g transform="rotate(-18 300 250)">
+<rect x="250" y="226" width="120" height="40" rx="12" fill="#e08a3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bristles -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
+<line x1="262" y1="266" x2="262" y2="290"/>
+<line x1="282" y1="266" x2="282" y2="292"/>
+<line x1="302" y1="266" x2="302" y2="292"/>
+<line x1="322" y1="266" x2="322" y2="292"/>
+<line x1="342" y1="266" x2="342" y2="290"/>
+</g>
+</g>
+<!-- shine sparkles -->
+<path d="M 300 322 l 0 -22 M 289 311 l 22 0" stroke="#f4c430" stroke-width="8" stroke-linecap="round"/>
+<path d="M 348 350 l 0 -16 M 340 342 l 16 0" stroke="#f4c430" stroke-width="7" stroke-linecap="round"/>
+</svg>

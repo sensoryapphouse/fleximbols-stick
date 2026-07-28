@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Box base -->
+  <rect x="40" y="110" width="200" height="108" rx="6" ry="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Box left flap open -->
+  <path d="M 40 110 L 20 76 L 120 76 L 140 110 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Box right flap open -->
+  <path d="M 140 110 L 160 76 L 260 76 L 240 110 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Box front face -->
+  <rect x="40" y="110" width="200" height="108" rx="6" ry="6" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Recipe card in box (white card, leaning) -->
+  <rect x="160" y="120" width="68" height="88" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Recipe card lines -->
+  <line x1="170" y1="138" x2="218" y2="138" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="170" y1="150" x2="218" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="170" y1="162" x2="218" y2="162" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="170" y1="174" x2="210" y2="174" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Recipe card top banner -->
+  <rect x="160" y="120" width="68" height="14" rx="5" ry="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Portion bag: tomato -->
+  <ellipse cx="88" cy="148" rx="22" ry="26" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 86 122 Q 88 114 90 122" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Portion bag: onion -->
+  <ellipse cx="135" cy="155" rx="18" ry="22" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M 133 133 Q 135 125 137 133" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Portion bag: herb bundle -->
+  <rect x="62" y="170" width="28" height="38" rx="8" ry="8" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="76" y1="170" x2="76" y2="208" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Rubber-band on herb -->
+  <ellipse cx="76" cy="186" rx="14" ry="5" fill="none" stroke="#f7de58" stroke-width="3.33"/>
+  <!-- Portion label sticker on tomato bag -->
+  <ellipse cx="88" cy="150" rx="10" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

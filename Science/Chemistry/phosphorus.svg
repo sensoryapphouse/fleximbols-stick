@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- matchstick being struck with bright flame, red phosphorus match head -->
+  <!-- matchstick wooden body (diagonal) -->
+  <polygon points="70,210 90,225 200,115 180,95" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- wood grain line -->
+  <line x1="85" y1="200" x2="190" y2="105" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- red phosphorus match head -->
+  <ellipse cx="190" cy="105" rx="22" ry="16" fill="#d01424" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-45 190 105)"/>
+  <!-- outer flame -->
+  <path d="M190 65 Q165 80 175 105 Q190 92 195 80 Q200 95 215 100 Q225 80 210 60 Q205 75 200 70 Q198 50 190 65 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- inner flame yellow -->
+  <path d="M190 75 Q180 85 188 100 Q198 90 200 80 Q202 90 208 95 Q215 80 205 70 Q198 80 190 75 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- spark sparks -->
+  <circle cx="225" cy="70" r="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="75" r="2.5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="230" cy="115" r="2.5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

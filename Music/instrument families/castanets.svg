@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="128.00 111.79 256.00 256.00"><g>
+<!-- castanets: two clamshell discs hinged by a cord, slightly open -->
+<!-- connecting cord at top -->
+<path d="M 196 150 Q 256 120 316 150" fill="none" stroke="#8a5a2b" stroke-width="8" stroke-linecap="round"/>
+<!-- upper shell -->
+<path d="M 150 168 Q 256 130 362 168 Q 372 210 256 224 Q 140 210 150 168 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="186" rx="62" ry="16" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6"/>
+<!-- lower shell (mirrored, gap shows it is open) -->
+<path d="M 150 268 Q 256 306 362 268 Q 372 326 256 344 Q 140 326 150 268 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="300" rx="62" ry="16" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="6"/>
+</g></svg>

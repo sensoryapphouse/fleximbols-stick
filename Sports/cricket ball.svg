@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- deep red leather ball -->
+  <circle cx="145" cy="120" r="80" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- leather highlight -->
+  <path d="M100,75 Q120,55 145,55 Q120,65 105,90 Z" fill="#f8130d" stroke="none"/>
+  <!-- prominent white stitching seam (horizontal across) -->
+  <path d="M70,128 Q145,100 220,128" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M70,128 Q145,100 220,128" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- individual stitches as cross marks -->
+  <path d="M82,127 L85,118 M95,123 L98,114 M110,118 L113,109 M125,114 L128,105 M145,110 L148,101 M165,113 L168,104 M180,118 L183,109 M195,122 L198,113 M208,126 L211,117"
+        fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- highlight dot -->
+  <ellipse cx="115" cy="85" rx="14" ry="8" fill="#f8130d" stroke="none"/>
+</g></svg>

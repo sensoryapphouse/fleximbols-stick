@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- six legs -->
+<path d="M 214 250 L 150 230 L 110 250" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 298 250 L 362 230 L 402 250" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 214 300 L 146 296 L 106 320" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 298 300 L 366 296 L 406 320" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 214 348 L 150 366 L 116 396" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 298 348 L 362 366 L 396 396" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- glossy brown shell / elytra -->
+<ellipse cx="256" cy="318" rx="84" ry="106" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<line x1="256" y1="220" x2="256" y2="418" stroke="#1a1a1a" stroke-width="7"/>
+<!-- thorax -->
+<rect x="208" y="190" width="96" height="56" rx="20" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- head -->
+<rect x="226" y="150" width="60" height="50" rx="14" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- big antler-like mandibles -->
+<path d="M 234 152 Q 196 110 168 86 Q 196 104 214 96 Q 200 124 230 130" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 278 152 Q 316 110 344 86 Q 316 104 298 96 Q 312 124 282 130" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- eyes -->
+<circle cx="240" cy="176" r="7" fill="#1a1a1a"/>
+<circle cx="272" cy="176" r="7" fill="#1a1a1a"/>
+</svg>

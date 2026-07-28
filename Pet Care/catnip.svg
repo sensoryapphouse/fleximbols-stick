@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pouch/bag body -->
+  <path d="M 80 80 L 80 215 Q 80 225 90 225 L 200 225 Q 210 225 210 215 L 210 80 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Bag top opening (cinched) -->
+  <path d="M 80 80 Q 100 60 145 60 Q 190 60 210 80" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Drawstring -->
+  <path d="M 95 70 Q 145 55 195 70" fill="none" stroke="#5e1f0a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Label rectangle -->
+  <rect x="100" y="120" width="90" height="70" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Cat silhouette on label - body -->
+  <ellipse cx="145" cy="170" rx="22" ry="11" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Cat head -->
+  <circle cx="145" cy="148" r="14" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Cat ears -->
+  <path d="M 134 140 L 130 128 L 140 138 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M 156 140 L 160 128 L 150 138 Z" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Cat tail -->
+  <path d="M 165 168 Q 178 162 175 150" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Green leaves spilling out (top) -->
+  <path d="M 120 65 Q 110 45 100 50 Q 105 60 120 65 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 145 58 Q 145 35 135 32 Q 138 50 145 58 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 165 60 Q 180 45 190 52 Q 180 62 165 60 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 155 55 Q 165 38 158 28 Q 150 42 155 55 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 130 60 Q 122 42 130 30 Q 138 45 130 60 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

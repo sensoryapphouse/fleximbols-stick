@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- GOOGLE letters above the search bar, each in brand colour -->
+  <!-- G (blue) -->
+  <path d="M55 60 a18 18 0 1 0 14 28 V75 H58" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- o (red) -->
+  <circle cx="90" cy="78" r="13" fill="none" stroke="#f8130d" stroke-width="4.45"/>
+  <!-- o (yellow) -->
+  <circle cx="122" cy="78" r="13" fill="none" stroke="#f2e40d" stroke-width="4.45"/>
+  <!-- g (blue) -->
+  <circle cx="154" cy="78" r="13" fill="none" stroke="#2a4ec0" stroke-width="4.45"/>
+  <path d="M167 70 V95 a13 13 0 0 1 -22 8" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- l (green) -->
+  <path d="M183 50 V92" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- e (red) -->
+  <path d="M201 80 H225 a13 13 0 0 0 -25 -2 a13 13 0 0 0 22 14" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wrap GOOGLE row in a thin black outline pass for legibility (overlay strokes) -->
+  <!-- search bar -->
+  <rect x="30" y="120" width="230" height="50" rx="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- magnifying glass inside left -->
+  <circle cx="60" cy="145" r="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M70 155 L84 170" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- query text lines -->
+  <path d="M95 145 H210" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Search button -->
+  <rect x="100" y="185" width="90" height="32" rx="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- search button arrow -->
+  <path d="M120 201 H165 M158 194 L172 201 L158 208" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

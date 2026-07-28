@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- scroll body -->
+  <path d="M55 35 Q55 25 70 25 L220 25 Q235 25 235 35 L235 195 Q235 205 220 205 L70 205 Q55 205 55 195 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- roll top -->
+  <ellipse cx="145" cy="25" rx="92" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- roll bottom -->
+  <ellipse cx="145" cy="205" rx="92" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- 'LAST WILL' header bar with letterforms as path shape -->
+  <rect x="78" y="45" width="135" height="20" rx="2" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- L A S T  W I L L glyph shapes (paths only, no text) -->
+  <path d="M84 50 L84 60 L90 60" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M93 60 L97 50 L101 60 M94.5 56 L99.5 56" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M111 51 Q105 51 105 54 Q105 57 111 57 Q117 57 117 60 Q117 63 111 63" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M121 51 L131 51 M126 51 L126 60" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M141 50 L144 60 L147 53 L150 60 L153 50" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="159" y1="50" x2="159" y2="60" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M165 50 L165 60 L171 60" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M176 50 L176 60 L182 60" fill="none" stroke="#f5e7c4" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- body text lines -->
+  <line x1="78" y1="82" x2="210" y2="82" stroke="#7f7f7f" stroke-width="3.56"/>
+  <line x1="78" y1="93" x2="195" y2="93" stroke="#7f7f7f" stroke-width="3.56"/>
+  <line x1="78" y1="104" x2="210" y2="104" stroke="#7f7f7f" stroke-width="3.56"/>
+  <line x1="78" y1="115" x2="180" y2="115" stroke="#7f7f7f" stroke-width="3.56"/>
+  <line x1="78" y1="126" x2="200" y2="126" stroke="#7f7f7f" stroke-width="3.56"/>
+  <!-- signature -->
+  <line x1="78" y1="158" x2="170" y2="158" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M82 153 Q92 146 100 154 Q113 160 125 150 Q138 145 155 156" fill="none" stroke="#1d0e82" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- wax seal -->
+  <circle cx="195" cy="170" r="17" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M188 163 L202 163 M188 170 L202 170 M188 177 L202 177" stroke="#5e1f0a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- quill pen across top right -->
+  <path d="M200 8 Q260 -2 280 18 Q260 28 235 38 Q220 30 215 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M210 18 Q240 14 270 14 M215 24 Q240 22 268 22" fill="none" stroke="#7f7f7f" stroke-width="2.67"/>
+  <line x1="215" y1="28" x2="200" y2="48" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <circle cx="198" cy="50" r="3" fill="#000000"/>
+</g></svg>

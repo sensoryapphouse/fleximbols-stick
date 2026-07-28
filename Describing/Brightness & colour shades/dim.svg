@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="62.68 77.19 349.09 349.09">
+<!-- LEFT: bright lamp (reference, faded back) -->
+<g opacity="0.34">
+<g transform="translate(9 131) scale(0.66)">
+<circle cx="256" cy="262" r="70" fill="#ffe14d" stroke="#1a1a1a" stroke-width="6"/>
+<g stroke="#f0b400" stroke-width="9" stroke-linecap="round">
+<line x1="256" y1="168" x2="256" y2="138"/>
+<line x1="150" y1="262" x2="120" y2="262"/>
+<line x1="362" y1="262" x2="392" y2="262"/>
+<line x1="183" y1="189" x2="162" y2="168"/>
+<line x1="329" y1="189" x2="350" y2="168"/>
+</g>
+</g>
+</g>
+<!-- RIGHT: dim lamp (relevant: faint glow, dark bulb) -->
+<g transform="translate(165 131) scale(0.66)">
+<circle cx="256" cy="262" r="86" fill="#fbf2c4" opacity="0.5"/>
+<circle cx="256" cy="262" r="70" fill="#9a9156" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 226 252 Q 234 230 258 230" fill="none" stroke="#cfc488" stroke-width="7" stroke-linecap="round"/>
+</g>
+<!-- green arrow to the dim one -->
+<line x1="334" y1="150" x2="334" y2="196" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="334" y1="196" x2="312" y2="172" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="334" y1="196" x2="356" y2="172" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="334" y1="150" x2="334" y2="196" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="334" y1="196" x2="312" y2="172" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="334" y1="196" x2="356" y2="172" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+</svg>

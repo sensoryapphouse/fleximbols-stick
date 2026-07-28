@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl -->
+  <path d="M40 120 Q40 215 110 224 Q145 228 180 224 Q250 215 250 120 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="120" rx="105" ry="16" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.34"/>
+  <!-- Whipped cream inside (soft peaks forming, mounded above rim) -->
+  <path d="M50 124 Q70 80 100 100 Q120 70 140 95 Q160 65 180 95 Q200 75 220 105 Q240 90 240 124 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Soft peak hints (curling tops) -->
+  <path d="M100 100 Q104 92 108 100" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M140 95 Q146 84 152 96" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M180 95 Q186 82 192 96" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M220 105 Q224 96 228 106" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
+  <!-- Whisk in the cream -->
+  <rect x="158" y="8" width="14" height="50" rx="4" ry="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <path d="M158 58 Q138 100 152 140" fill="none" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M172 58 Q192 100 178 140" fill="none" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <path d="M165 58 L165 140" fill="none" stroke="#7f7f7f" stroke-width="3.81" stroke-linecap="round"/>
+  <ellipse cx="165" cy="140" rx="16" ry="4" fill="none" stroke="#7f7f7f" stroke-width="3.81"/>
+  <!-- Motion arcs showing whipping action -->
+  <path d="M110 50 Q130 42 150 50" fill="none" stroke="#d01424" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M148 44 L154 50 L150 58" fill="none" stroke="#d01424" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 60 Q200 50 190 60" fill="none" stroke="#d01424" stroke-width="5.08" stroke-linecap="round"/>
+  <path d="M194 56 L188 60 L192 68" fill="none" stroke="#d01424" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

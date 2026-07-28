@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="78.78 54.88 393.70 393.70">
+<!-- walking stick: cane with curved handle and rubber ferrule tip -->
+<path d="M 300 110 Q 300 90 280 90 Q 256 90 256 116 L 256 400" fill="none" stroke="#8a5a2b" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- inner highlight line on shaft -->
+<path d="M 300 110 Q 300 90 280 90 Q 256 90 256 116 L 256 400" fill="none" stroke="#b07b3e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- outline of shaft -->
+<path d="M 300 110 Q 300 90 280 90 Q 256 90 256 116 L 256 400" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0"/>
+<!-- rubber ferrule tip -->
+<rect x="244" y="392" width="24" height="30" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

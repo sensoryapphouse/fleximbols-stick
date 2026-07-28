@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bamboo steamer bottom tier -->
+  <rect x="38" y="172" width="214" height="44" rx="10" ry="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Steamer slat lines bottom -->
+  <line x1="38" y1="186" x2="252" y2="186" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="38" y1="200" x2="252" y2="200" stroke="#7d5e23" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Bamboo steamer top tier -->
+  <rect x="38" y="118" width="214" height="58" rx="10" ry="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Steamer interior -->
+  <rect x="44" y="124" width="202" height="46" rx="7" ry="7" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dumplings inside steamer - 4 har gow style -->
+  <!-- Dumpling 1 -->
+  <path d="M 68,152 Q 68,132 88,130 Q 108,132 108,152 Q 100,162 88,163 Q 76,162 68,152 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 70,148 Q 88,140 106,148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 72,154 Q 88,146 104,154" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Dumpling 2 -->
+  <path d="M 120,152 Q 120,132 140,130 Q 160,132 160,152 Q 152,162 140,163 Q 128,162 120,152 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 122,148 Q 140,140 158,148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 124,154 Q 140,146 156,154" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Dumpling 3 -->
+  <path d="M 172,152 Q 172,132 192,130 Q 212,132 212,152 Q 204,162 192,163 Q 180,162 172,152 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 174,148 Q 192,140 210,148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 176,154 Q 192,146 208,154" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Steamer lid -->
+  <path d="M 38,118 Q 38,80 145,72 Q 252,80 252,118 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lid knob -->
+  <ellipse cx="145" cy="72" rx="16" ry="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Steam puffs -->
+  <path d="M 115,62 Q 110,50 116,42 Q 122,34 118,26" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145,58 Q 140,46 146,38 Q 152,30 148,22" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 175,62 Q 170,50 176,42 Q 182,34 178,26" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

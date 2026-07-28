@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hands fastening a button through buttonhole on shirt front -->
+  <!-- Shirt front panel (open placket with button column) -->
+  <!-- Left shirt front panel -->
+  <path d="M90 20 L140 20 L140 220 L90 220 Q82 220 80 212 L80 28 Q80 20 90 20Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Right shirt front panel -->
+  <path d="M148 20 L200 20 Q208 20 210 28 L210 212 Q208 220 200 220 L148 220 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Shirt collar left -->
+  <path d="M90 20 Q108 15 140 20 L135 45 Q120 38 105 42Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Shirt collar right -->
+  <path d="M148 20 Q180 15 200 20 L185 42 Q170 38 155 45Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Button placket center line -->
+  <line x1="144" y1="20" x2="144" y2="220" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="4,4"/>
+  <!-- BUTTONS column (left panel, near center) -->
+  <!-- Button 1 (top) -->
+  <circle cx="135" cy="60" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="133" cy="58" r="2" fill="#000000"/>
+  <circle cx="137" cy="58" r="2" fill="#000000"/>
+  <circle cx="133" cy="62" r="2" fill="#000000"/>
+  <circle cx="137" cy="62" r="2" fill="#000000"/>
+  <!-- Button 2 -->
+  <circle cx="135" cy="95" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="133" cy="93" r="2" fill="#000000"/>
+  <circle cx="137" cy="93" r="2" fill="#000000"/>
+  <circle cx="133" cy="97" r="2" fill="#000000"/>
+  <circle cx="137" cy="97" r="2" fill="#000000"/>
+  <!-- Button 3 -->
+  <circle cx="135" cy="130" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="133" cy="128" r="2" fill="#000000"/>
+  <circle cx="137" cy="128" r="2" fill="#000000"/>
+  <circle cx="133" cy="132" r="2" fill="#000000"/>
+  <circle cx="137" cy="132" r="2" fill="#000000"/>
+  <!-- Button 4 -->
+  <circle cx="135" cy="165" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="133" cy="163" r="2" fill="#000000"/>
+  <circle cx="137" cy="163" r="2" fill="#000000"/>
+  <circle cx="133" cy="167" r="2" fill="#000000"/>
+  <circle cx="137" cy="167" r="2" fill="#000000"/>
+  <!-- Buttonhole on right panel (aligned with button 2 being fastened) -->
+  <ellipse cx="153" cy="95" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- RIGHT HAND (thumb and finger) fastening button through hole -->
+  <!-- Right hand coming from right side -->
+  <!-- Palm -->
+  <ellipse cx="195" cy="108" rx="22" ry="14" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Thumb and index finger pinching button -->
+  <path d="M175 100 Q165 90 162 80" stroke="#1a1a1a" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <path d="M175 100 Q172 88 172 78" stroke="#1a1a1a" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <!-- Other fingers curled -->
+  <path d="M184 100 Q185 90 186 82" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M195 102 Q197 93 198 86" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- Wrist going right -->
+  <path d="M210 105 Q230 100 248 95" stroke="#1a1a1a" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <path d="M208 115 Q228 112 246 108 Q250 106 248 95 Q246 90 242 92 Q236 108 210 108Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- LEFT HAND pushing button from left side -->
+  <ellipse cx="95" cy="82" rx="20" ry="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M110 76 Q118 68 122 60" stroke="#1a1a1a" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <path d="M108 74 Q112 65 112 56" stroke="#1a1a1a" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <!-- Wrist going left -->
+  <path d="M80 78 Q62 72 44 68" stroke="#1a1a1a" stroke-width="5.55" fill="none" stroke-linecap="round"/>
+  <path d="M80 90 Q62 84 44 82 Q40 80 40 75 Q40 70 44 68 Q48 66 50 70 Q62 74 78 78Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

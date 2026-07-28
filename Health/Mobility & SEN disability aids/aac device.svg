@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="81.07 64.00 384.00 384.00">
+<!-- AAC device: speech-generating tablet talker with a grid of symbol cells and a speaker -->
+<rect x="118" y="92" width="276" height="328" rx="24" fill="#33475b" stroke="#1a1a1a" stroke-width="10"/>
+<!-- screen -->
+<rect x="146" y="118" width="220" height="248" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- symbol grid cells -->
+<rect x="162" y="134" width="58" height="58" rx="7" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="227" y="134" width="58" height="58" rx="7" fill="#8cc152" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="292" y="134" width="58" height="58" rx="7" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="162" y="199" width="58" height="58" rx="7" fill="#e85a8a" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="227" y="199" width="58" height="58" rx="7" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="292" y="199" width="58" height="58" rx="7" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="162" y="264" width="58" height="58" rx="7" fill="#8cc152" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="227" y="264" width="58" height="58" rx="7" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="292" y="264" width="58" height="58" rx="7" fill="#e85a8a" stroke="#1a1a1a" stroke-width="6"/>
+<!-- speaker grille -->
+<circle cx="256" cy="392" r="14" fill="#5a6270" stroke="#1a1a1a" stroke-width="6"/>
+<!-- sound waves -->
+<path d="M 392 200 a 30 30 0 0 1 0 56" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 392 178 a 52 52 0 0 1 0 100" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- reservoir water (behind dam) -->
+  <rect x="20" y="90" width="140" height="110" rx="0" ry="0" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- reservoir surface ripple -->
+  <path d="M25,105 Q50,98 75,105 Q100,112 125,105 Q150,98 158,103" fill="none" stroke="#dff3fd" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- dam wall (trapezoidal, thick) -->
+  <polygon points="155,70 185,70 200,215 155,215" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- dam face detail lines -->
+  <line x1="160" y1="100" x2="192" y2="215" stroke="#7f7f7f" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="170" y1="70" x2="196" y2="175" stroke="#7f7f7f" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- spillway opening -->
+  <rect x="163" y="150" width="22" height="14" rx="3" ry="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- water spilling out downstream -->
+  <path d="M185,157 Q200,160 210,155 Q220,165 235,160" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M185,163 Q202,168 215,163 Q228,172 245,167" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- downstream river bed -->
+  <rect x="200" y="195" width="70" height="20" rx="4" ry="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- ground line -->
+  <line x1="20" y1="215" x2="270" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left bank -->
+  <line x1="20" y1="90" x2="20" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- dam top -->
+  <line x1="155" y1="70" x2="185" y2="70" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

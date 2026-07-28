@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- open book: left page -->
+  <path d="M30 60 L145 50 L145 200 L30 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- right page -->
+  <path d="M145 50 L260 60 L260 195 L145 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- spine -->
+  <line x1="145" y1="50" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- text lines on left page -->
+  <line x1="45" y1="80" x2="130" y2="76" stroke="#7f7f7f" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="45" y1="95" x2="130" y2="92" stroke="#7f7f7f" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="45" y1="110" x2="110" y2="108" stroke="#7f7f7f" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- on right page: hidden picture revealed under flap (a sun) -->
+  <circle cx="200" cy="115" r="20" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="200" y1="85" x2="200" y2="95" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="200" y1="135" x2="200" y2="145" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="115" x2="180" y2="115" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="220" y1="115" x2="230" y2="115" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="180" y1="95" x2="186" y2="101" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="214" y1="129" x2="220" y2="135" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- the lifted flap (curling up, casting away from page) -->
+  <path d="M165 160 L255 165 L260 95 Q235 110 200 105 Q175 102 165 110 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- flap underside curl -->
+  <path d="M165 160 L255 165 L260 95" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- flap fold crease at hinge bottom -->
+  <line x1="170" y1="158" x2="252" y2="163" stroke="#137827" stroke-width="3.70"/>
+  <!-- little arrow showing lift motion -->
+  <path d="M210 175 Q220 160 240 158" fill="none" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M240 158 L233 154 M240 158 L237 166" stroke="#d01424" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

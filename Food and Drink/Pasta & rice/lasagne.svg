@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- plate -->
+<ellipse cx="256" cy="382" rx="172" ry="42" fill="#fff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- lasagne slice: layered block, 3D-ish wedge -->
+<!-- right side face -->
+<path d="M 350 168 L 386 196 L 386 348 L 350 360 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- front stacked layers -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round">
+<path d="M 130 184 L 350 168 L 350 200 L 130 216 Z" fill="#f4c430"/>
+<path d="M 130 216 L 350 200 L 350 224 L 130 240 Z" fill="#d63b46"/>
+<path d="M 130 240 L 350 224 L 350 256 L 130 272 Z" fill="#fdf3d2"/>
+<path d="M 130 272 L 350 256 L 350 280 L 130 296 Z" fill="#d63b46"/>
+<path d="M 130 296 L 350 280 L 350 312 L 130 328 Z" fill="#f4c430"/>
+<path d="M 130 328 L 350 312 L 350 336 L 130 352 Z" fill="#d63b46"/>
+<path d="M 130 352 L 350 336 L 350 360 L 130 376 Z" fill="#8cc152"/>
+</g>
+<!-- top melted cheese with browning -->
+<path d="M 130 184 L 350 168 L 386 196 L 166 212 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="220" cy="192" r="9" fill="#e08a3a"/>
+<circle cx="290" cy="186" r="8" fill="#e08a3a"/>
+<circle cx="330" cy="198" r="7" fill="#e08a3a"/>
+<!-- basil garnish -->
+<path d="M 150 364 Q 138 350 156 346 Q 162 360 150 364 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+</svg>

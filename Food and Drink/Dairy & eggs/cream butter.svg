@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- stand mixer base -->
+  <path d="M40 200 Q40 175 70 175 L160 175 Q190 175 190 200 L190 215 Q190 220 185 220 L45 220 Q40 220 40 215 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- vertical column -->
+  <rect x="165" y="40" width="35" height="140" fill="#efefef" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- mixer head (overhead arm) -->
+  <path d="M60 40 Q60 30 70 30 L195 30 Q205 30 205 40 L205 70 Q205 80 195 80 L70 80 Q60 80 60 70 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <!-- speed dial -->
+  <circle cx="80" cy="55" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.70"/>
+  <line x1="80" y1="55" x2="80" y2="49" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- paddle attachment shaft -->
+  <rect x="100" y="80" width="14" height="35" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- paddle (flat beater) -->
+  <path d="M85 115 L129 115 L120 165 Q107 175 94 165 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <line x1="100" y1="125" x2="100" y2="160" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="114" y1="125" x2="114" y2="160" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- mixing bowl -->
+  <path d="M55 140 Q55 200 107 205 Q160 200 160 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <ellipse cx="107" cy="140" rx="52" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18"/>
+  <!-- creamed butter inside (pale yellow soft mound) -->
+  <path d="M70 165 Q75 150 95 152 Q115 145 135 155 Q148 155 145 170 Q140 185 107 188 Q75 185 70 165 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- butter stick on counter to identify -->
+  <rect x="210" y="195" width="55" height="20" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="225" y1="195" x2="225" y2="215" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="240" y1="195" x2="240" y2="215" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="255" y1="195" x2="255" y2="215" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

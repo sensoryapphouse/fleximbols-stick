@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Green fairway -->
+  <rect x="20" y="140" width="250" height="80" rx="6" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Fairway edge strip -->
+  <rect x="20" y="195" width="250" height="25" rx="0" fill="#67832d" stroke="none"/>
+
+  <!-- Hole cup (black circle at right) -->
+  <ellipse cx="230" cy="170" rx="12" ry="6" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Flag on pin -->
+  <line x1="230" y1="164" x2="230" y2="110" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="230,110 258,120 230,130" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+
+  <!-- Windmill obstacle -->
+  <!-- Windmill base/tower -->
+  <rect x="138" y="105" width="24" height="60" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Windmill hub -->
+  <circle cx="150" cy="120" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Windmill blades (4, rotated) -->
+  <rect x="147" y="85" width="6" height="28" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(0,150,120)"/>
+  <rect x="147" y="85" width="6" height="28" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(90,150,120)"/>
+  <rect x="147" y="85" width="6" height="28" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(45,150,120)"/>
+  <rect x="147" y="85" width="6" height="28" rx="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(135,150,120)"/>
+
+  <!-- Golf ball (rolling toward hole) -->
+  <circle cx="180" cy="168" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Ball dimples -->
+  <circle cx="176" cy="165" r="2" fill="#b8b8b8" stroke="none"/>
+  <circle cx="183" cy="164" r="2" fill="#b8b8b8" stroke="none"/>
+  <circle cx="180" cy="171" r="2" fill="#b8b8b8" stroke="none"/>
+
+  <!-- Putter (angled, striking ball) -->
+  <!-- Shaft -->
+  <line x1="120" y1="80" x2="172" y2="163" stroke="#7f7f7f" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Putter head -->
+  <rect x="163" y="160" width="22" height="10" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-30,163,160)"/>
+
+  <!-- Golfer hands gripping putter (partial figure — hands + arms) -->
+  <line x1="80" y1="100" x2="120" y2="82" stroke="#eed5b6" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- Upper body -->
+  <ellipse cx="68" cy="108" rx="18" ry="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="68" cy="82" rx="14" ry="14" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Cap -->
+  <path d="M54,82 Q54,68 68,66 Q82,68 82,82" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="50" y="80" width="10" height="5" rx="2" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <line x1="60" y1="128" x2="52" y2="162" stroke="#4d4d4d" stroke-width="12.22" stroke-linecap="round"/>
+  <line x1="76" y1="128" x2="82" y2="162" stroke="#4d4d4d" stroke-width="12.22" stroke-linecap="round"/>
+  <!-- Shoes -->
+  <ellipse cx="50" cy="165" rx="10" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="84" cy="165" rx="10" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

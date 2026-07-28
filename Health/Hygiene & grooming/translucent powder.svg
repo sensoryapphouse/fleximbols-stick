@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- loose powder jar, contents are nearly clear/white (translucent) -->
+  <!-- jar body (clear glass-y) -->
+  <path d="M68 60 L196 60 L192 216 Q190 224 182 224 L82 224 Q74 224 72 216 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- contents: very pale, almost white (translucent powder) -->
+  <path d="M80 110 L184 110 L182 212 Q180 218 174 218 L90 218 Q84 218 82 212 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- 'see through' content lines: faint diagonals to show transparency -->
+  <path d="M90 140 L174 140" fill="none" stroke="#dff3fd" stroke-width="5.34" stroke-linecap="round"/>
+  <path d="M90 170 L174 170" fill="none" stroke="#dff3fd" stroke-width="5.34" stroke-linecap="round"/>
+  <path d="M90 200 L174 200" fill="none" stroke="#dff3fd" stroke-width="5.34" stroke-linecap="round"/>
+
+  <!-- mesh sifter top -->
+  <rect x="64" y="50" width="136" height="12" fill="#efefef" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <circle cx="78" cy="56" r="1.6" fill="#000000"/>
+  <circle cx="90" cy="56" r="1.6" fill="#000000"/>
+  <circle cx="102" cy="56" r="1.6" fill="#000000"/>
+  <circle cx="114" cy="56" r="1.6" fill="#000000"/>
+  <circle cx="126" cy="56" r="1.6" fill="#000000"/>
+  <circle cx="138" cy="56" r="1.6" fill="#000000"/>
+  <circle cx="150" cy="56" r="1.6" fill="#000000"/>
+  <circle cx="162" cy="56" r="1.6" fill="#000000"/>
+  <circle cx="174" cy="56" r="1.6" fill="#000000"/>
+  <circle cx="186" cy="56" r="1.6" fill="#000000"/>
+
+  <!-- lid behind -->
+  <path d="M62 26 L202 26 L202 50 L62 50 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <path d="M68 38 L196 38" fill="none" stroke="#7f7f7f" stroke-width="3.55"/>
+
+  <!-- clear/sheer indicator: small 'see-through' window over jar showing background grid -->
+  <rect x="208" y="92" width="56" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- checker pattern to show transparency -->
+  <rect x="208" y="92" width="14" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="236" y="92" width="14" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="222" y="104" width="14" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="250" y="104" width="14" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="208" y="116" width="14" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="236" y="116" width="14" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="222" y="128" width="14" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="250" y="128" width="14" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+
+  <!-- brush above (compact, indicating dusting) -->
+  <path d="M210 40 L246 76" fill="none" stroke="#5e1f0a" stroke-width="10.67" stroke-linecap="round"/>
+  <path d="M222 50 L240 68" fill="none" stroke="#b8b8b8" stroke-width="14.23" stroke-linecap="round"/>
+  <path d="M218 56 Q210 70 220 84 Q232 86 240 78 Q244 70 232 60 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+</g></svg>

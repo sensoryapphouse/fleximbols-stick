@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Straight vertical trunk with texture rings -->
+  <rect x="132" y="55" width="26" height="175" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Trunk ring texture -->
+  <line x1="132" y1="80" x2="158" y2="80" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="132" y1="100" x2="158" y2="100" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="132" y1="120" x2="158" y2="120" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="132" y1="140" x2="158" y2="140" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="132" y1="160" x2="158" y2="160" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="132" y1="180" x2="158" y2="180" stroke="#7d5e23" stroke-width="2.96"/>
+  <line x1="132" y1="200" x2="158" y2="200" stroke="#7d5e23" stroke-width="2.96"/>
+  <!-- Ground -->
+  <ellipse cx="145" cy="232" rx="32" ry="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Crown base circle -->
+  <circle cx="145" cy="55" r="14" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Fan fronds radiating outward from crown -->
+  <path d="M145 50 Q110 40 75 50" fill="none" stroke="#137827" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M145 50 Q108 38 72 44" fill="none" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M143 52 Q100 65 68 80" fill="none" stroke="#137827" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M142 55 Q105 78 78 108" fill="none" stroke="#137827" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M145 45 Q138 22 135 8" fill="none" stroke="#137827" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M145 45 Q152 22 155 8" fill="none" stroke="#137827" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M147 50 Q180 40 215 50" fill="none" stroke="#137827" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M147 50 Q183 38 218 44" fill="none" stroke="#529929" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M148 52 Q192 65 222 80" fill="none" stroke="#137827" stroke-width="10.36" stroke-linecap="round"/>
+  <path d="M149 55 Q187 78 212 108" fill="none" stroke="#137827" stroke-width="10.36" stroke-linecap="round"/>
+  <!-- Date bunches - large elongated hanging clusters of golden-brown dates -->
+  <!-- Bunch 1 left -->
+  <line x1="135" y1="65" x2="110" y2="95" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="105" cy="102" rx="10" ry="18" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="112" cy="108" rx="9" ry="16" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="103" cy="115" rx="7" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="112" cy="120" rx="7" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Bunch 2 right -->
+  <line x1="155" y1="65" x2="180" y2="95" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="185" cy="102" rx="10" ry="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="178" cy="108" rx="9" ry="16" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="187" cy="115" rx="7" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="178" cy="120" rx="7" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Bunch 3 center -->
+  <line x1="145" y1="68" x2="145" y2="92" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="106" rx="9" ry="16" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="118" rx="7" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

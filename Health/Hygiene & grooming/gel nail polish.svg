@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Gel nail polish bottle + UV lamp + glossy nail finish -->
+  <!-- UV lamp dome (top right) -->
+  <path d="M160 60 L260 60 Q270 60 270 72 L270 100 Q270 110 260 110 L160 110 Q150 110 150 100 L150 72 Q150 60 160 60 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- UV inner glow -->
+  <rect x="160" y="72" width="100" height="28" rx="4" ry="4" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- LED dots -->
+  <circle cx="180" cy="86" r="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="210" cy="86" r="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="240" cy="86" r="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- UV rays beaming down -->
+  <path d="M180 115 L180 130 M210 115 L210 130 M240 115 L240 130" stroke="#fff200" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Glossy finished nail (under the lamp - polished glass-like shine) -->
+  <ellipse cx="210" cy="155" rx="35" ry="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.11"/>
+  <ellipse cx="210" cy="150" rx="26" ry="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- Strong glossy shine on nail (gel finish) -->
+  <ellipse cx="202" cy="146" rx="10" ry="4" fill="#ffffff" stroke="none"/>
+  <ellipse cx="220" cy="153" rx="4" ry="2" fill="#ffffff" stroke="none"/>
+  <!-- Finger (small under nail) -->
+  <path d="M180 175 Q180 195 195 200 L225 200 Q240 195 240 175" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Gel polish bottle (left side) -->
+  <!-- Bottle body (squat square gel bottle) -->
+  <rect x="35" y="115" width="80" height="95" rx="6" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Glossy liquid window -->
+  <rect x="44" y="125" width="62" height="75" rx="3" ry="3" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Strong glossy gel shine -->
+  <line x1="52" y1="132" x2="52" y2="190" stroke="#ffffff" stroke-width="6.22" stroke-linecap="round"/>
+  <line x1="62" y1="135" x2="62" y2="180" stroke="#f4a4b2" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- Bottle label -->
+  <rect x="50" y="155" width="50" height="14" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- "GEL" abbreviation as paths inside label -->
+  <!-- G -->
+  <path d="M62 159 L57 159 Q55 159 55 162 L55 166 Q55 168 57 168 L62 168 L62 164 L60 164" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M70 159 L66 159 L66 168 L70 168 M66 163 L70 163" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- L -->
+  <path d="M76 159 L76 168 L82 168" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bottle neck -->
+  <rect x="58" y="100" width="34" height="18" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Bottle cap -->
+  <rect x="50" y="60" width="50" height="42" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Cap shine -->
+  <line x1="58" y1="68" x2="58" y2="96" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Brush handle from cap (top) -->
+  <rect x="70" y="35" width="10" height="28" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+</g></svg>

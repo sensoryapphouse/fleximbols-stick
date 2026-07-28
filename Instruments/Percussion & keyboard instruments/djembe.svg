@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Djembe: rope-tuned goblet drum, wide bowl top tapering to narrow base, zigzag rope lacing, animal skin head -->
+
+  <!-- Base ring (foot) -->
+  <ellipse cx="145" cy="218" rx="30" ry="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Narrow stem/foot connecting to body -->
+  <rect x="125" y="185" width="40" height="36" rx="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- Wide bowl body: trapezoid tapering from wide top to narrower bottom -->
+  <polygon points="68,80 222,80 170,188 120,188" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- Head (drumhead — animal skin, slightly domed) -->
+  <ellipse cx="145" cy="78" rx="77" ry="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Head texture suggestion (skin grain lines) -->
+  <ellipse cx="145" cy="76" rx="60" ry="10" fill="none" stroke="#e6b98a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="74" rx="40" ry="6" fill="none" stroke="#e6b98a" stroke-width="2.96"/>
+
+  <!-- Head ring (crown ring at top of bowl) -->
+  <ellipse cx="145" cy="80" rx="77" ry="16" fill="none" stroke="#4d4d4d" stroke-width="5.93"/>
+
+  <!-- Rope lacing: vertical ropes and zigzag cross-lacing -->
+  <!-- Left side ropes going down -->
+  <line x1="82" y1="92" x2="126" y2="184" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="98" y1="88" x2="130" y2="184" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="116" y1="83" x2="133" y2="184" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="135" y1="81" x2="137" y2="184" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="155" y1="81" x2="153" y2="184" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="174" y1="83" x2="157" y2="184" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="192" y1="88" x2="160" y2="184" stroke="#f8130d" stroke-width="4.45"/>
+  <line x1="208" y1="92" x2="164" y2="184" stroke="#f8130d" stroke-width="4.45"/>
+
+  <!-- Zigzag horizontal cross lacing (3 rows) -->
+  <polyline points="82,98 98,110 116,100 135,112 155,100 174,112 192,100 208,110" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linejoin="round"/>
+  <polyline points="86,120 102,132 120,122 139,134 157,122 176,134 194,122 206,132" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linejoin="round"/>
+  <polyline points="92,144 108,156 124,146 140,158 150,148 166,158 182,146 204,156" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

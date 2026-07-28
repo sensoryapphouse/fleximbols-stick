@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ear (hearing reference) -->
+  <path d="M 70 60 Q 50 60 45 90 Q 40 130 60 165 Q 80 195 105 190 Q 120 188 122 175 Q 124 165 115 158 Q 105 152 105 142 Q 105 130 112 125 Q 122 118 122 100 Q 122 65 95 58 Q 82 55 70 60 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <path d="M 85 95 Q 78 110 82 130 Q 86 145 98 145" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+
+  <!-- induction loop (big circular arrow) -->
+  <path d="M 160 60 Q 260 60 260 130 Q 260 200 170 200" fill="none" stroke="#7c3fac" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M 170 200 L 178 192 M 170 200 L 178 208" fill="none" stroke="#7c3fac" stroke-width="7.40" stroke-linecap="round"/>
+
+  <!-- T-coil symbol -->
+  <rect x="190" y="100" width="50" height="12" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="210" y="110" width="12" height="60" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- audio waves going into loop -->
+  <path d="M 135 90 Q 145 100 135 110" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 140 80 Q 155 100 140 120" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 145 70 Q 165 100 145 130" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- waves leaving toward ear -->
+  <path d="M 30 90 Q 20 110 30 130" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M 18 80 Q 6 110 18 140" fill="none" stroke="#d01424" stroke-width="3.70" stroke-linecap="round"/>
+</g></svg>

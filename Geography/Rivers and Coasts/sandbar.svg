@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="90" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- sun -->
+  <circle cx="240" cy="40" r="16" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- upper sea -->
+  <rect x="0" y="90" width="290" height="55" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- lower sea -->
+  <rect x="0" y="145" width="290" height="95" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- wave crests upper -->
+  <path d="M10 110 Q30 102 50 110 T90 110 T130 110 T170 110 T210 110 T250 110 T280 110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M10 130 Q30 122 50 130 T90 130 T130 130 T170 130 T210 130 T250 130 T280 130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- wave crests lower -->
+  <path d="M10 175 Q30 167 50 175 T90 175 T130 175 T170 175 T210 175 T250 175 T280 175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M10 200 Q30 192 50 200 T90 200 T130 200 T170 200 T210 200 T250 200 T280 200" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M10 225 Q30 217 50 225 T90 225 T130 225 T170 225 T210 225 T250 225 T280 225" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- sandbar - long thin strip -->
+  <path d="M20 150 Q145 138 270 150 Q145 158 20 150 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- subtle sand texture dots -->
+  <circle cx="80" cy="148" r="1.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="140" cy="146" r="1.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="200" cy="148" r="1.5" fill="#9d7246" stroke="#1a1a1a" stroke-width="1.78"/>
+</g></svg>

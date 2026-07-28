@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sketchbook-modern: open spiral artbook with pencil sketch on page -->
+  <!-- Book body left page -->
+  <rect x="30" y="40" width="105" height="160" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Book body right page -->
+  <rect x="155" y="40" width="105" height="160" rx="4" ry="4" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Spine center line -->
+  <rect x="140" y="40" width="10" height="160" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Spiral coils along spine -->
+  <circle cx="145" cy="65" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="90" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="115" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="140" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="165" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sketch lines on right page (pencil sketch of a simple house) -->
+  <line x1="175" y1="130" x2="240" y2="130" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="175" y1="150" x2="240" y2="150" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="175" y1="110" x2="207" y2="80" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="207" y1="80" x2="240" y2="110" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="175" y1="110" x2="240" y2="110" stroke="#7f7f7f" stroke-width="2.96" stroke-linecap="round"/>
+  <rect x="193" y="130" width="20" height="20" fill="none" stroke="#7f7f7f" stroke-width="2.96"/>
+  <!-- Pencil on right page, angled -->
+  <g transform="rotate(-30 215 170)">
+    <rect x="205" y="155" width="10" height="52" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+    <polygon points="205,207 215,207 210,220" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <polygon points="207,218 213,218 210,226" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+    <rect x="205" y="155" width="10" height="8" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  </g>
+</g></svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- UPS unit chassis (tall box) -->
+  <rect x="60" y="30" width="170" height="180" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="17.78" stroke-linejoin="round"/>
+  <!-- darker front panel inset -->
+  <rect x="70" y="40" width="150" height="160" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="13.34" stroke-linejoin="round"/>
+  <!-- LCD display -->
+  <rect x="85" y="55" width="120" height="40" rx="3" ry="3" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="13.34" stroke-linejoin="round"/>
+  <!-- LCD readout bars (simulating display content) -->
+  <rect x="95" y="65" width="40" height="6" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="95" y="75" width="60" height="6" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="95" y="85" width="30" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- battery icon on LCD -->
+  <rect x="170" y="68" width="25" height="14" rx="1" ry="1" fill="#fff200" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="195" y="72" width="3" height="6" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="172" y="70" width="6" height="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="180" y="70" width="6" height="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="70" width="5" height="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- outlets row -->
+  <rect x="85" y="110" width="120" height="40" rx="3" ry="3" fill="#efefef" stroke="#1a1a1a" stroke-width="13.34" stroke-linejoin="round"/>
+  <!-- 3 outlets -->
+  <rect x="95" y="118" width="28" height="24" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="131" y="118" width="28" height="24" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="167" y="118" width="28" height="24" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- prong slots -->
+  <rect x="103" y="123" width="3" height="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="111" y="123" width="3" height="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="108" cy="137" r="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="139" y="123" width="3" height="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="147" y="123" width="3" height="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="144" cy="137" r="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="175" y="123" width="3" height="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="183" y="123" width="3" height="7" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="137" r="2" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- power button + status LEDs -->
+  <circle cx="100" cy="175" r="9" fill="#d01424" stroke="#1a1a1a" stroke-width="13.34"/>
+  <path d="M100 169 L100 178 M96 175 L104 175" stroke="#ffffff" stroke-width="8.89" stroke-linecap="round"/>
+  <circle cx="135" cy="175" r="5" fill="#529929" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="155" cy="175" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="175" cy="175" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- vent slats at bottom -->
+  <line x1="85" y1="190" x2="205" y2="190" stroke="#1a1a1a" stroke-width="8.89"/>
+  <line x1="85" y1="195" x2="205" y2="195" stroke="#1a1a1a" stroke-width="8.89"/>
+</g></svg>

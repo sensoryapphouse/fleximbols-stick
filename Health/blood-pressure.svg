@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","mc"],["h2","mc"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.2310) translate(-300.00 -290.00)">
+<!-- ===== bent arm: shoulder(from body) -> upper arm -> elbow -> forearm -> fist ===== -->
+<!-- short sleeve / shoulder coming in from the upper-left (signals a body, not a head) -->
+<path d="M 150 120 Q 196 104 250 124 L 268 168 Q 210 150 174 176 Z" fill="#4a8cc8" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- deltoid/shoulder muscle emerging from the sleeve -->
+<path d="M 188 150 Q 232 140 268 164 L 264 196 Q 220 178 192 196 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- upper arm (where cuff goes) - tapered limb going down -->
+<path d="M 194 178 L 266 178 L 256 300 L 196 300 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- elbow -->
+<circle id="h1" data-fig="mc" cx="226" cy="304" r="34" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<!-- forearm bending out to the right -->
+<path d="M 198 322 Q 226 372 300 380 L 318 410 Q 230 410 184 340 Z" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- fist at end of forearm -->
+<circle id="h2" data-fig="mc" cx="324" cy="404" r="30" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<!-- knuckle lines on fist -->
+<line x1="320" y1="382" x2="318" y2="392" stroke="#c99a6a" stroke-width="3" stroke-linecap="round"/>
+<line x1="334" y1="384" x2="332" y2="394" stroke="#c99a6a" stroke-width="3" stroke-linecap="round"/>
+<line x1="346" y1="392" x2="342" y2="400" stroke="#c99a6a" stroke-width="3" stroke-linecap="round"/>
+
+<!-- ===== inflatable cuff wrapped around the upper arm ===== -->
+<!-- cuff body wrapping the limb -->
+<rect x="178" y="200" width="104" height="92" rx="14" fill="#4a8cc8" stroke="#1a1a1a" stroke-width="5"/>
+<!-- cuff edge highlight -->
+<rect x="178" y="200" width="104" height="92" rx="14" fill="none" stroke="#2b6fb0" stroke-width="2"/>
+<!-- Velcro band straps -->
+<rect x="170" y="216" width="120" height="14" rx="4" fill="#3f7fbb" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="170" y="262" width="120" height="14" rx="4" fill="#3f7fbb" stroke="#1a1a1a" stroke-width="3"/>
+<!-- velcro hatch texture -->
+<line x1="176" y1="223" x2="284" y2="223" stroke="#2b6fb0" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="176" y1="269" x2="284" y2="269" stroke="#2b6fb0" stroke-width="2" stroke-dasharray="5 4"/>
+<!-- inflation bulb pad on the cuff -->
+<rect x="262" y="232" width="30" height="30" rx="6" fill="#2b6fb0" stroke="#1a1a1a" stroke-width="3"/>
+
+<!-- ===== rubber tube connecting cuff to gauge ===== -->
+<path d="M 282 246 Q 360 250 388 320" fill="none" stroke="#39414b" stroke-width="7" stroke-linecap="round"/>
+
+<!-- ===== large gauge dial with red needle pointing high ===== -->
+<circle cx="390" cy="356" r="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="390" cy="356" r="56" fill="none" stroke="#c9ced6" stroke-width="2"/>
+<!-- tick marks around dial -->
+<line x1="390" y1="306" x2="390" y2="316" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="421" y1="316" x2="415" y2="324" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="430" y1="356" x2="440" y2="356" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="421" y1="396" x2="415" y2="388" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="390" y1="406" x2="390" y2="396" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="359" y1="396" x2="365" y2="388" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="350" y1="356" x2="340" y2="356" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="359" y1="316" x2="365" y2="324" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<!-- red "danger zone" arc near the top-right (high reading) -->
+<path d="M 390 304 A 52 52 0 0 1 437 332" fill="none" stroke="#e0473c" stroke-width="6" stroke-linecap="round"/>
+<!-- bold red needle pointing HIGH (up-right into the red zone) -->
+<line x1="390" y1="356" x2="424" y2="324" stroke="#e0473c" stroke-width="6" stroke-linecap="round"/>
+<!-- needle hub -->
+<circle cx="390" cy="356" r="7" fill="#1a1a1a"/>
+</g></svg>

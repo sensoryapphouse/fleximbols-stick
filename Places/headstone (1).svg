@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <path d="M10,215 Q145,208 280,215 L280,235 L10,235 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- two-tier base -->
+  <rect x="55" y="200" width="180" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="65" y="188" width="160" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- tall ornate marble stone, arched top -->
+  <path d="M85,190 L85,80 Q85,30 145,20 Q205,30 205,80 L205,190 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- marble veining -->
+  <path d="M100,100 Q115,120 105,140 Q120,155 110,175" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M180,90 Q170,115 185,135 Q175,160 188,180" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- arched inner panel -->
+  <path d="M100,180 L100,85 Q100,45 145,38 Q190,45 190,85 L190,180 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- scrollwork carving top left -->
+  <path d="M100,75 Q95,65 105,60 Q115,62 110,75" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="107" cy="68" r="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- scrollwork carving top right -->
+  <path d="M190,75 Q195,65 185,60 Q175,62 180,75" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="183" cy="68" r="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- top scrollwork center -->
+  <path d="M135,50 Q145,40 155,50" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M138,55 Q145,48 152,55" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- engraved oval medallion -->
+  <ellipse cx="145" cy="115" rx="28" ry="32" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- engraved scroll inside -->
+  <path d="M132,110 Q145,100 158,110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M132,125 Q145,135 158,125" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- decorative scrolls bottom -->
+  <path d="M110,170 Q125,160 140,170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150,170 Q165,160 180,170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

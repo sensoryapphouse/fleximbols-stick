@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Machine body -->
+  <rect x="55" y="60" width="155" height="145" rx="12" ry="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Top panel -->
+  <rect x="55" y="60" width="155" height="30" rx="12" ry="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Group head box -->
+  <rect x="90" y="130" width="60" height="28" rx="6" ry="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Group head bottom spout -->
+  <rect x="108" y="155" width="24" height="14" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Portafilter handle -->
+  <path d="M150,144 Q175,144 185,165 Q190,175 185,180" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Portafilter basket -->
+  <path d="M185,165 Q192,165 192,172 Q192,180 185,180" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Drip tray -->
+  <rect x="75" y="188" width="115" height="12" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cup on tray -->
+  <path d="M98,188 L106,215 L128,215 L136,188" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cup handle -->
+  <path d="M128,200 Q138,200 138,207 Q138,215 128,215" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Steam wand arm -->
+  <line x1="185" y1="90" x2="210" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Steam wand tip -->
+  <circle cx="210" cy="134" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Steam puffs -->
+  <path d="M214,120 Q220,113 218,106" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <path d="M220,124 Q228,116 225,108" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Pressure gauge circle -->
+  <circle cx="90" cy="100" r="18" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="100" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.66"/>
+  <line x1="90" y1="100" x2="98" y2="90" stroke="#f8130d" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- Power button -->
+  <circle cx="175" cy="100" r="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

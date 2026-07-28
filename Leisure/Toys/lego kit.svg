@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- BACKGROUND PANEL -->
+  <rect x="22" y="22" width="246" height="196" rx="14" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- LEGO BOX (left, upright, closed) -->
+  <rect x="36" y="44" width="106" height="158" rx="4" fill="#d01424" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Box top border -->
+  <rect x="36" y="44" width="106" height="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Logo panel on box -->
+  <rect x="52" y="68" width="74" height="40" rx="4" fill="#fff200" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Picture window of built model on box (silhouette of a brick castle) -->
+  <rect x="44" y="118" width="90" height="76" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Mini castle silhouette inside window -->
+  <rect x="52" y="160" width="74" height="30" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="52" y="140" width="14" height="50" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="112" y="140" width="14" height="50" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="80" y="130" width="18" height="60" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tiny stud bumps on castle -->
+  <circle cx="56" cy="146" r="2" fill="#2a4ec0"/>
+  <circle cx="62" cy="146" r="2" fill="#2a4ec0"/>
+  <circle cx="116" cy="146" r="2" fill="#2a4ec0"/>
+  <circle cx="122" cy="146" r="2" fill="#2a4ec0"/>
+
+  <!-- BUILDING BLOCKS (right top, stacked) -->
+  <!-- Red 4-stud brick -->
+  <rect x="160" y="100" width="80" height="22" rx="2" fill="#d01424" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="172" cy="96" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="192" cy="96" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="212" cy="96" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="232" cy="96" r="5" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Yellow brick (offset, on top of red) -->
+  <rect x="170" y="74" width="60" height="22" rx="2" fill="#fff200" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <circle cx="180" cy="70" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="70" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="70" r="5" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Blue brick (bottom) -->
+  <rect x="160" y="126" width="80" height="22" rx="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Side studs of blue brick visible since it's underneath? omit. -->
+
+  <!-- Green brick (loose, right bottom) -->
+  <rect x="200" y="166" width="50" height="20" rx="2" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" transform="rotate(-12 225 176)"/>
+  <circle cx="210" cy="160" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" transform="rotate(-12 225 176)"/>
+  <circle cx="225" cy="160" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" transform="rotate(-12 225 176)"/>
+  <circle cx="240" cy="160" r="4" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" transform="rotate(-12 225 176)"/>
+
+  <!-- INSTRUCTIONS booklet (bottom right) -->
+  <rect x="156" y="184" width="56" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="160" y1="190" x2="208" y2="190" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="160" y1="195" x2="208" y2="195" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="160" y1="200" x2="196" y2="200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Booklet spine -->
+  <line x1="184" y1="184" x2="184" y2="204" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- instruction arrow + stud (replaces any remaining text) -->
+  <path d="M242 165 L258 165 L258 178 L268 165 L258 152 L258 165" fill="none" stroke="#f8130d" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+</g></svg>

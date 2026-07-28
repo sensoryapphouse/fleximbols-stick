@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Left hand holding top-left corner of cloth -->
+  <path d="M42 75 Q38 65 48 58 L60 62 Q68 68 62 78 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left arm going up-left -->
+  <path d="M52 70 Q40 55 35 38 Q33 28 40 26 Q50 24 58 40 L62 70" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right hand holding top-right corner -->
+  <path d="M248 75 Q252 65 242 58 L230 62 Q222 68 228 78 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right arm going up-right -->
+  <path d="M238 70 Q250 55 255 38 Q257 28 250 26 Q240 24 232 40 L228 70" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cloth / fabric being unfolded - now fully open flat -->
+  <path d="M55 72 L55 175 Q55 185 145 185 Q235 185 235 175 L235 72 Q190 82 145 80 Q100 82 55 72 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Fold crease lines on fabric (horizontal) -->
+  <line x1="65" y1="115" x2="225" y2="115" stroke="#90a7d6" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="10,6"/>
+  <!-- Vertical centre crease -->
+  <line x1="145" y1="75" x2="145" y2="182" stroke="#90a7d6" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="10,6"/>
+  <!-- Pattern on cloth: small diamond -->
+  <rect x="118" y="130" width="20" height="20" rx="2" fill="none" stroke="#2a4ec0" stroke-width="2.22" transform="rotate(45 128 140)"/>
+  <rect x="78" y="130" width="14" height="14" rx="2" fill="none" stroke="#2a4ec0" stroke-width="2.22" transform="rotate(45 85 137)"/>
+  <rect x="168" y="130" width="14" height="14" rx="2" fill="none" stroke="#2a4ec0" stroke-width="2.22" transform="rotate(45 175 137)"/>
+  <!-- Outward arrows showing opening/spreading motion -->
+  <!-- Left arrow going left -->
+  <line x1="95" y1="95" x2="65" y2="95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="65,95 76,89 76,101" fill="#000000"/>
+  <!-- Right arrow going right -->
+  <line x1="195" y1="95" x2="225" y2="95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="225,95 214,89 214,101" fill="#000000"/>
+  <!-- Bottom opening arrow down-left and down-right -->
+  <line x1="95" y1="160" x2="70" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <polygon points="70,175 79,163 83,175" fill="#000000"/>
+  <line x1="195" y1="160" x2="220" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <polygon points="220,175 207,163 217,163" fill="#000000"/>
+  <!-- Cloth edge subtle shadow -->
+  <line x1="55" y1="185" x2="235" y2="185" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+</g></svg>

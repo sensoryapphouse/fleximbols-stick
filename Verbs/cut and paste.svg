@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- sheet of paper -->
+<rect x="96" y="150" width="150" height="200" rx="6" fill="#fff6cf" stroke="#1a1a1a" stroke-width="9"/>
+<!-- dashed cut line -->
+<line x1="170" y1="150" x2="170" y2="350" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="14 12" stroke-linecap="round"/>
+<!-- scissors cutting -->
+<g transform="translate(150 220)">
+<line x1="0" y1="0" x2="70" y2="40" stroke="#b9bdc2" stroke-width="11" stroke-linecap="round"/>
+<line x1="0" y1="40" x2="70" y2="0" stroke="#b9bdc2" stroke-width="11" stroke-linecap="round"/>
+<circle cx="78" cy="-6" r="16" fill="none" stroke="#d63b46" stroke-width="9"/>
+<circle cx="78" cy="46" r="16" fill="none" stroke="#d63b46" stroke-width="9"/>
+</g>
+<!-- glue bottle -->
+<rect x="318" y="236" width="74" height="120" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="338" y="196" width="34" height="44" rx="5" fill="#e08a3a" stroke="#1a1a1a" stroke-width="8"/>
+<polygon points="338,196 372,196 366,172 344,172" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<rect x="332" y="280" width="46" height="50" rx="4" fill="#f3cd6e" stroke="#1a1a1a" stroke-width="7"/>
+</svg>

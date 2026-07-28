@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- node label box top -->
+  <rect x="95" y="10" width="100" height="32" rx="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- connecting lines from node to mammals -->
+  <path d="M145 42 L55 95" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M145 42 L115 95" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M145 42 L175 95" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M145 42 L235 95" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M145 42 L145 150" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Dog (top-left) -->
+  <g>
+    <ellipse cx="55" cy="115" rx="26" ry="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <circle cx="35" cy="108" r="11" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M28 102 L25 92 L33 100 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+    <path d="M42 102 L45 92 L40 100 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.56"/>
+    <circle cx="32" cy="108" r="1.5" fill="#000000"/>
+    <line x1="42" y1="120" x2="42" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="68" y1="120" x2="68" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M78 110 Q88 105 85 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Cat (top middle-left) -->
+  <g>
+    <ellipse cx="115" cy="118" rx="22" ry="12" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="98" cy="110" r="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M92 104 L90 96 L97 103 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+    <path d="M104 104 L106 96 L99 103 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+    <circle cx="96" cy="110" r="1.4" fill="#000000"/>
+    <circle cx="101" cy="110" r="1.4" fill="#000000"/>
+    <line x1="106" y1="120" x2="106" y2="129" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="124" y1="120" x2="124" y2="129" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <path d="M134 112 Q142 106 138 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Cow (top middle-right) -->
+  <g>
+    <ellipse cx="175" cy="118" rx="26" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="160" cy="115" rx="6" ry="4" fill="#000000"/>
+    <ellipse cx="185" cy="120" rx="5" ry="3" fill="#000000"/>
+    <circle cx="155" cy="110" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M148 103 L146 96 L152 102 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+    <path d="M162 103 L164 96 L158 102 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+    <circle cx="153" cy="110" r="1.4" fill="#000000"/>
+    <line x1="165" y1="120" x2="165" y2="129" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="185" y1="120" x2="185" y2="129" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+  <!-- Rabbit (top right) -->
+  <g>
+    <ellipse cx="235" cy="118" rx="20" ry="12" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+    <circle cx="220" cy="110" r="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+    <ellipse cx="216" cy="96" rx="3" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+    <ellipse cx="224" cy="96" rx="3" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+    <circle cx="218" cy="110" r="1.4" fill="#000000"/>
+    <line x1="226" y1="120" x2="226" y2="129" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="244" y1="120" x2="244" y2="129" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+    <circle cx="252" cy="116" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  </g>
+  <!-- Horse (bottom center) -->
+  <g>
+    <ellipse cx="145" cy="180" rx="40" ry="18" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+    <ellipse cx="110" cy="165" rx="11" ry="16" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33"/>
+    <path d="M104 152 L102 144 L110 152 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+    <path d="M116 152 L118 144 L112 152 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+    <circle cx="106" cy="166" r="1.6" fill="#000000"/>
+    <path d="M118 158 Q130 152 125 168" fill="#000000" stroke="#1a1a1a" stroke-width="3.56"/>
+    <line x1="120" y1="195" x2="120" y2="220" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
+    <line x1="140" y1="197" x2="140" y2="222" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
+    <line x1="160" y1="197" x2="160" y2="222" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
+    <line x1="178" y1="195" x2="178" y2="220" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
+    <path d="M184 170 Q200 175 196 195" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+</g></svg>

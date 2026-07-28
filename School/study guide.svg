@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- booklet (slim, stapled) -->
+  <path d="M40 32 L228 32 L228 218 L40 218 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- staples on spine -->
+  <rect x="48" y="56" width="6" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="48" y="118" width="6" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="48" y="180" width="6" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- title plaque STUDY -->
+  <rect x="70" y="46" width="146" height="26" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="80" y1="59" x2="206" y2="59" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- summary notes (lines with highlighted segments) -->
+  <line x1="70" y1="92" x2="216" y2="92" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="70" y="100" width="80" height="10" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="154" y1="105" x2="216" y2="105" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="70" y1="120" x2="216" y2="120" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="70" y="128" width="110" height="10" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="184" y1="133" x2="216" y2="133" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="70" y1="148" x2="200" y2="148" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <rect x="70" y="156" width="60" height="10" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="134" y1="161" x2="216" y2="161" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="70" y1="176" x2="190" y2="176" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="70" y1="190" x2="210" y2="190" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- highlighter pen at lower right -->
+  <path d="M180 210 L248 142 L268 162 L200 230 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- highlighter tip (chisel) -->
+  <path d="M180 210 L170 220 L188 232 L200 230 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- highlighter cap end -->
+  <path d="M248 142 L256 134 L276 154 L268 162 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- highlighter body line -->
+  <line x1="208" y1="170" x2="248" y2="208" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Phone body -->
+  <rect x="100" y="22" width="90" height="196" rx="14" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Phone screen -->
+  <rect x="110" y="40" width="70" height="160" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Feed cards inside screen -->
+  <rect x="116" y="100" width="58" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="116" y="128" width="58" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="116" y="156" width="58" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Bar indicators showing ranked order (different lengths) -->
+  <rect x="120" y="107" width="36" height="7" rx="3" fill="#2a4ec0"/>
+  <rect x="120" y="135" width="28" height="7" rx="3" fill="#2a4ec0"/>
+  <rect x="120" y="163" width="20" height="7" rx="3" fill="#2a4ec0"/>
+  <!-- Gear/cog above feed (feeding in) -->
+  <circle cx="145" cy="72" r="14" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="145" cy="72" r="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Gear teeth (8 small rects rotated around center) -->
+  <rect x="141" y="55" width="8" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="141" y="83" width="8" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="128" y="68" width="7" height="8" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="155" y="68" width="7" height="8" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="130" y="58" width="7" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(45 133.5 61.5)"/>
+  <rect x="154" y="79" width="7" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(45 157.5 82.5)"/>
+  <rect x="154" y="58" width="7" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-45 157.5 61.5)"/>
+  <rect x="130" y="79" width="7" height="7" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-45 133.5 82.5)"/>
+  <!-- Arrow from gear down to cards -->
+  <line x1="145" y1="86" x2="145" y2="97" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="145,100 140,92 150,92" fill="#000000"/>
+  <!-- Big gear on left side feeding into phone -->
+  <circle cx="48" cy="120" r="30" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="48" cy="120" r="12" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Outer gear teeth -->
+  <rect x="44" y="87" width="8" height="12" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="44" y="141" width="8" height="12" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="15" y="116" width="12" height="8" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="69" y="116" width="12" height="8" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="21" y="96" width="12" height="8" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-45 27 100)"/>
+  <rect x="64" y="136" width="12" height="8" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-45 70 140)"/>
+  <rect x="21" y="136" width="12" height="8" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(45 27 140)"/>
+  <rect x="64" y="96" width="12" height="8" rx="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(45 70 100)"/>
+  <!-- Arrow from big gear to phone -->
+  <line x1="78" y1="120" x2="96" y2="120" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <polygon points="100,120 92,115 92,125" fill="#000000"/>
+</g></svg>

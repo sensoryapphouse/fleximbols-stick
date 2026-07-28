@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1494) translate(-256.00 -278.00)">
+<!-- foot of the urn -->
+<rect x="224.0" y="452.0" width="64.0" height="14.0" rx="4" fill="#3a6e8c" stroke="#274d63" stroke-width="4"/>
+<path d="M 236 452 L 232 426 L 280 426 L 276 452 Z" fill="#3a6e8c" stroke="#274d63" stroke-width="4" stroke-linejoin="round"/>
+<!-- tall narrow-necked voting urn (kalpe): bulbous body, pinched waist, narrow neck -->
+<path d="M 196 300 C 176 360 192 432 256 432 C 320 432 336 360 316 300 C 308 278 300 270 286 262 L 226 262 C 212 270 204 278 196 300 Z" fill="#3a6e8c" stroke="#274d63" stroke-width="6" stroke-linejoin="round"/>
+<!-- narrow neck -->
+<path d="M 230 262 L 226 214 L 286 214 L 282 262 Z" fill="#3a6e8c" stroke="#274d63" stroke-width="6" stroke-linejoin="round"/>
+<!-- flared mouth/rim of the urn -->
+<ellipse cx="256.0" cy="214.0" rx="42.0" ry="13.0" fill="#4d86a6" stroke="#274d63" stroke-width="6"/>
+<!-- dark hollow mouth + voting SLOT so it reads as a ballot urn you drop into -->
+<ellipse cx="256.0" cy="213.0" rx="28.0" ry="8.0" fill="#10212b" stroke="#1a1a1a" stroke-width="0"/>
+<!-- ballot disc/pebble held above the open mouth, dropping IN -->
+<ellipse cx="256.0" cy="170.0" rx="17.0" ry="17.0" fill="#c9962f" stroke="#8a5e1f" stroke-width="5"/>
+<ellipse cx="256.0" cy="170.0" rx="6.5" ry="6.5" fill="none" stroke="#8a5e1f" stroke-width="4"/>
+<!-- motion ticks showing the disc dropping straight down into the slot -->
+<line x1="256" y1="192" x2="256" y2="202" stroke="#8a5e1f" stroke-width="5" stroke-linecap="round"/>
+<line x1="240" y1="190" x2="240" y2="199" stroke="#8a5e1f" stroke-width="4" stroke-linecap="round"/>
+<line x1="272" y1="190" x2="272" y2="199" stroke="#8a5e1f" stroke-width="4" stroke-linecap="round"/>
+<!-- forearm/sleeve coming in from upper right -->
+<path d="M 286 134 L 340 102 L 358 132 L 304 164 Z" fill="#dfe6ec" stroke="#c4ced6" stroke-width="5" stroke-linejoin="round"/>
+<!-- hand: palm + thumb pinching the disc from above-right -->
+<path d="M 298 150 Q 286 158 276 162 Q 268 164 264 158 Q 270 150 280 146 Q 274 140 280 134 Q 290 130 300 138 Q 308 144 298 150 Z" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- handle -->
+  <path d="M40 130 L40 110 Q40 100 50 100 L180 100 Q190 100 195 110 L205 130 Q205 140 195 140 L50 140 Q40 140 40 130 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- grip ridges -->
+  <path d="M70 110 L70 130" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M85 110 L85 130" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M100 110 L100 130" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M115 110 L115 130" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- neck -->
+  <path d="M195 113 L235 110 L240 115 L240 125 L235 130 L195 127 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- head -->
+  <rect x="225" y="105" width="35" height="30" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- bristles - tufts -->
+  <rect x="228" y="82" width="6" height="24" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="237" y="82" width="6" height="24" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="246" y="82" width="6" height="24" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="255" y="82" width="6" height="24" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bristle tips -->
+  <path d="M228 82 L234 82 M237 82 L243 82 M246 82 L252 82 M255 82 L261 82" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- handle end cap -->
+  <circle cx="50" cy="120" r="6" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

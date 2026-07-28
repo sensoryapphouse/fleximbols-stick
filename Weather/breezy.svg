@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Flag pole -->
+  <line x1="60" y1="15" x2="60" y2="200" stroke="#1a1a1a" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- Pole base -->
+  <line x1="45" y1="200" x2="75" y2="200" stroke="#1a1a1a" stroke-width="10.67" stroke-linecap="round"/>
+  <!-- Gently waving flag from pole (light wave, not rigid) -->
+  <path d="M 60 20 Q 110 18 155 30 Q 130 45 155 60 Q 110 72 60 70 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Flag wave detail line -->
+  <path d="M 60 45 Q 100 40 145 45" fill="none" stroke="#d01424" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- 2-3 thin horizontal wind lines (light wind, not bold) -->
+  <path d="M 90 100 Q 160 95 230 100" fill="none" stroke="#90a7d6" stroke-width="5.34" stroke-linecap="round"/>
+  <path d="M 100 125 Q 175 120 250 126" fill="none" stroke="#90a7d6" stroke-width="5.34" stroke-linecap="round"/>
+  <path d="M 80 150 Q 150 146 210 151" fill="none" stroke="#90a7d6" stroke-width="5.34" stroke-linecap="round"/>
+  <!-- Small arrowheads on wind lines (right-pointing) -->
+  <polygon points="228,96 234,100 228,104" fill="#90a7d6"/>
+  <polygon points="248,122 254,126 248,130" fill="#90a7d6"/>
+  <polygon points="208,147 214,151 208,155" fill="#90a7d6"/>
+  <!-- A few drifting leaves (light breeze carries them gently) -->
+  <!-- Leaf 1 -->
+  <path d="M 165 108 C 170 100 180 102 178 112 C 176 120 163 118 165 108 Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="165" y1="108" x2="178" y2="112" stroke="#137827" stroke-width="1.78" stroke-linecap="round"/>
+  <!-- Leaf 2 -->
+  <path d="M 215 130 C 220 122 230 125 228 134 C 226 142 212 140 215 130 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="215" y1="130" x2="228" y2="134" stroke="#137827" stroke-width="1.78" stroke-linecap="round"/>
+  <!-- Leaf 3 (smaller, further along) -->
+  <path d="M 245 155 C 249 149 256 151 254 158 C 252 164 242 162 245 155 Z" fill="#529929" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="245" y1="155" x2="254" y2="158" stroke="#137827" stroke-width="1.78" stroke-linecap="round"/>
+  <!-- Ground line (below flag pole) -->
+  <line x1="10" y1="210" x2="280" y2="210" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+</g></svg>

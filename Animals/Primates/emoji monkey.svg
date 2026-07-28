@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Monkey face: brown, lighter face circle, big round ears -->
+  <!-- Big round ears -->
+  <circle cx="55" cy="130" r="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="55" cy="130" r="28" fill="#eed5b6"/>
+  <circle cx="235" cy="130" r="42" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.08"/>
+  <circle cx="235" cy="130" r="28" fill="#eed5b6"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="128" rx="92" ry="86" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.08"/>
+  <!-- Face circle -->
+  <ellipse cx="145" cy="148" rx="66" ry="62" fill="#eed5b6"/>
+  <!-- Eyes -->
+  <circle cx="118" cy="118" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+  <circle cx="118" cy="118" r="7" fill="#000000"/>
+  <circle cx="172" cy="118" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+  <circle cx="172" cy="118" r="7" fill="#000000"/>
+  <circle cx="121" cy="115" r="3" fill="#ffffff"/>
+  <circle cx="175" cy="115" r="3" fill="#ffffff"/>
+  <!-- Snout -->
+  <ellipse cx="145" cy="168" rx="34" ry="24" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.18"/>
+  <!-- Nostrils -->
+  <ellipse cx="134" cy="163" rx="6" ry="5" fill="#7d5e23"/>
+  <ellipse cx="156" cy="163" rx="6" ry="5" fill="#7d5e23"/>
+  <!-- Smile -->
+  <path d="M120 180 Q145 196 170 180" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

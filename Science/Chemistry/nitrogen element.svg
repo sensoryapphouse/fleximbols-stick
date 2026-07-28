@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wedge of blue sky / atmosphere on left half - curved arc slice -->
+  <path d="M20 35 Q 20 215 145 215 Q 60 215 30 130 Q 25 80 70 35 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- inner sky lighter band -->
+  <path d="M55 60 Q 35 130 80 195 Q 40 130 75 70 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+  <!-- small white cloud bump in sky -->
+  <path d="M55 95 Q 50 78 70 80 Q 78 70 90 82 Q 100 80 95 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"/>
+
+  <!-- N2 dumbbell shape: two atoms bonded, on right -->
+  <!-- bond bar (triple-bond implied by 3 lines) -->
+  <rect x="178" y="108" width="60" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="178" y="120" width="60" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="178" y="132" width="60" height="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- left atom -->
+  <circle cx="175" cy="123" r="32" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- right atom -->
+  <circle cx="240" cy="123" r="32" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.11"/>
+  <!-- highlight on atoms -->
+  <circle cx="165" cy="113" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="230" cy="113" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.55"/>
+</g></svg>

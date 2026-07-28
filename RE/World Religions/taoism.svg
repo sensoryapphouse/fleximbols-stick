@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- central yin-yang -->
+  <g transform="translate(145,130)">
+    <circle cx="0" cy="0" r="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.86"/>
+    <!-- black half via path -->
+    <path d="M0 -68 A68 68 0 0 1 0 68 A34 34 0 0 1 0 0 A34 34 0 0 0 0 -68 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.93"/>
+    <circle cx="0" cy="-34" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+    <circle cx="0" cy="34" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="5.93"/>
+  </g>
+
+  <!-- bagua trigrams around (8 sets of 3 bars) - show 4 prominent ones at compass points -->
+  <!-- top: Qian (3 solid) -->
+  <g transform="translate(145,30)">
+    <rect x="-18" y="-4" width="36" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-18" y="2" width="36" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-18" y="8" width="36" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+  <!-- right: Li (solid-broken-solid) -->
+  <g transform="translate(255,130)">
+    <rect x="-18" y="-16" width="36" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-18" y="-2" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="4" y="-2" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-18" y="12" width="36" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+  <!-- bottom: Kun (3 broken) -->
+  <g transform="translate(145,222)">
+    <rect x="-18" y="-12" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="4" y="-12" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-18" y="-4" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="4" y="-4" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-18" y="4" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="4" y="4" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+  <!-- left: Kan (broken-solid-broken) -->
+  <g transform="translate(35,130)">
+    <rect x="-18" y="-16" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="4" y="-16" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-18" y="-2" width="36" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="-18" y="12" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="4" y="12" width="14" height="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+
+  <!-- Taoist hat in upper-right corner -->
+  <g transform="translate(245,55)">
+    <path d="M-22 6 Q0 -22 22 6 L18 12 L-18 12 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+    <rect x="-22" y="10" width="44" height="6" fill="#000000" stroke="#1a1a1a" stroke-width="5.93"/>
+    <circle cx="0" cy="-6" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93"/>
+  </g>
+</g></svg>

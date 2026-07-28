@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Shadow under truffles -->
+  <ellipse cx="120" cy="198" rx="48" ry="10" fill="#b8b8b8" stroke="none"/>
+  <ellipse cx="192" cy="192" rx="38" ry="8" fill="#b8b8b8" stroke="none"/>
+  <!-- Back truffle (right, slightly raised) -->
+  <circle cx="192" cy="162" r="42" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cocoa dusting on back truffle -->
+  <circle cx="178" cy="148" r="5" fill="#9d7246" stroke="none"/>
+  <circle cx="198" cy="145" r="4" fill="#9d7246" stroke="none"/>
+  <circle cx="208" cy="158" r="5" fill="#9d7246" stroke="none"/>
+  <circle cx="185" cy="162" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="202" cy="170" r="4" fill="#9d7246" stroke="none"/>
+  <circle cx="175" cy="168" r="5" fill="#9d7246" stroke="none"/>
+  <!-- Sheen highlight back -->
+  <ellipse cx="180" cy="148" rx="12" ry="7" fill="#7d5e23" stroke="none"/>
+  <!-- Front truffle (left, larger, forward) -->
+  <circle cx="120" cy="168" r="50" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cocoa dusting on front truffle -->
+  <circle cx="102" cy="152" r="6" fill="#9d7246" stroke="none"/>
+  <circle cx="125" cy="147" r="5" fill="#9d7246" stroke="none"/>
+  <circle cx="140" cy="158" r="6" fill="#9d7246" stroke="none"/>
+  <circle cx="108" cy="165" r="4" fill="#9d7246" stroke="none"/>
+  <circle cx="133" cy="170" r="5" fill="#9d7246" stroke="none"/>
+  <circle cx="115" cy="178" r="6" fill="#9d7246" stroke="none"/>
+  <circle cx="138" cy="180" r="4" fill="#9d7246" stroke="none"/>
+  <!-- Sheen highlight front -->
+  <ellipse cx="107" cy="152" rx="15" ry="9" fill="#7d5e23" stroke="none"/>
+</g></svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sunrise lamp: rounded half-dome warm glowing globe (left portion) -->
+  <!-- Lamp base -->
+  <rect x="18" y="168" width="100" height="18" rx="8" ry="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lamp body dome (semi-circle) -->
+  <path d="M20 168 Q20 90 68 68 Q116 46 116 168 Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Inner glow ring (warm lighter centre) -->
+  <path d="M38 168 Q38 104 68 86 Q98 104 98 168 Z" fill="#f7de58" stroke="none"/>
+  <!-- Brightest centre glow circle -->
+  <circle cx="68" cy="138" r="22" fill="#fff200" stroke="none"/>
+  <!-- Glow rays emanating upward from lamp dome -->
+  <line x1="68" y1="62" x2="68" y2="40" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="90" y1="68" x2="104" y2="50" stroke="#ff9900" stroke-width="3.89" stroke-linecap="round"/>
+  <line x1="46" y1="68" x2="32" y2="50" stroke="#ff9900" stroke-width="3.89" stroke-linecap="round"/>
+  <line x1="108" y1="88" x2="124" y2="76" stroke="#ff9900" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="28" y1="88" x2="12" y2="76" stroke="#ff9900" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Clock display (right portion) -->
+  <!-- Clock body -->
+  <rect x="148" y="68" width="118" height="118" rx="18" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Clock face circle -->
+  <circle cx="207" cy="127" r="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Clock hour ticks (4 main) -->
+  <line x1="207" y1="82" x2="207" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="207" y1="164" x2="207" y2="172" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="162" y1="127" x2="170" y2="127" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="244" y1="127" x2="252" y2="127" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Clock hands - pointing to 6:00 (alarm time) -->
+  <!-- Hour hand -->
+  <line x1="207" y1="127" x2="207" y2="155" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Minute hand -->
+  <line x1="207" y1="127" x2="207" y2="100" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
+  <!-- Centre dot -->
+  <circle cx="207" cy="127" r="5" fill="#000000"/>
+  <!-- Alarm bell indicator bump top -->
+  <path d="M162 68 Q155 52 162 44 Q175 36 185 44" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M252 68 Q259 52 252 44 Q239 36 229 44" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Base feet -->
+  <rect x="162" y="182" width="20" height="10" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="232" y="182" width="20" height="10" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground / swamp -->
+  <ellipse cx="145" cy="205" rx="115" ry="18" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Swamp water pool -->
+  <ellipse cx="105" cy="207" rx="55" ry="10" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Cow body -->
+  <ellipse cx="185" cy="168" rx="42" ry="28" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cow head -->
+  <ellipse cx="228" cy="158" rx="20" ry="16" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cow snout -->
+  <ellipse cx="244" cy="163" rx="10" ry="7" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Nostrils -->
+  <circle cx="241" cy="164" r="2" fill="#000000"/>
+  <circle cx="247" cy="164" r="2" fill="#000000"/>
+  <!-- Cow eye -->
+  <circle cx="226" cy="153" r="3" fill="#000000"/>
+  <!-- Ear -->
+  <path d="M220 148 Q214 138 222 136 Q228 138 224 148 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Cow legs -->
+  <rect x="155" y="192" width="10" height="18" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="172" y="192" width="10" height="18" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="196" y="192" width="10" height="18" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="213" y="192" width="10" height="18" rx="4" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Cow patch -->
+  <path d="M175 155 Q183 148 192 153 Q196 163 188 168 Q178 170 175 162 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Tail -->
+  <path d="M145 165 Q132 158 134 148 Q136 140 142 142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Methane bubble cloud rising from swamp left -->
+  <circle cx="78" cy="178" r="11" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="92" cy="168" r="13" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="106" cy="176" r="11" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="78" y="178" width="38" height="10" fill="#b8b8b8" stroke="none"/>
+  <!-- Rising arrow -->
+  <line x1="92" y1="155" x2="92" y2="128" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <polyline points="84,134 92,128 100,134" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Second smaller bubble from cow rear -->
+  <circle cx="148" cy="155" r="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="158" cy="147" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="168" cy="154" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.55"/>
+  <line x1="158" y1="137" x2="155" y2="115" stroke="#7f7f7f" stroke-width="3.55" stroke-linecap="round"/>
+  <polyline points="149,121 155,115 161,121" fill="none" stroke="#7f7f7f" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

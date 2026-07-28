@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Paper boat container -->
+  <path d="M50,165 L60,220 Q60,230 145,230 Q230,230 230,220 L240,165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M50,165 L60,220" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M240,165 L230,220" fill="none" stroke="#b8b8b8" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Teal stripe on boat (differentiates from red-stripe regular fries) -->
+  <path d="M56,180 L58,192 L232,192 L234,180 Z" fill="#3aa6a0" stroke="none"/>
+  <!-- BRIGHT ORANGE sweet potato fries - clearly orange not yellow -->
+  <rect x="72" y="92" width="12" height="78" rx="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="92" y="82" width="12" height="88" rx="5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="114" y="86" width="12" height="84" rx="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="136" y="80" width="12" height="90" rx="5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="158" y="84" width="12" height="86" rx="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="178" y="90" width="12" height="80" rx="5" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="198" y="94" width="12" height="76" rx="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Caramelized/browned tips on sweet potato fries -->
+  <rect x="72" y="92" width="12" height="10" rx="5" fill="#9d7246" stroke="none"/>
+  <rect x="92" y="82" width="12" height="10" rx="5" fill="#9d7246" stroke="none"/>
+  <rect x="136" y="80" width="12" height="10" rx="5" fill="#9d7246" stroke="none"/>
+  <rect x="178" y="90" width="12" height="10" rx="5" fill="#9d7246" stroke="none"/>
+  <!-- A crinkle fry (sweet potato fries are often wavy/irregular) - drawn as a wavy stroke -->
+  <path d="M110,86 Q106,108 110,132 Q113,150 112,168" fill="none" stroke="#1a1a1a" stroke-width="15.55" stroke-linecap="round"/>
+  <path d="M110,86 Q106,108 110,132 Q113,150 112,168" fill="none" stroke="#ff9900" stroke-width="11.11" stroke-linecap="round"/>
+</g></svg>

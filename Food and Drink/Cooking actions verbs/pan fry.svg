@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Flame under pan -->
+  <path d="M88 225 Q82 212 90 202 Q84 193 92 183 Q96 195 92 203 Q102 188 100 174 Q110 188 107 198 Q116 184 115 171 Q123 185 120 198 Q128 185 128 173 Q134 186 130 198 Q137 186 137 176 Q142 187 138 198 Q143 186 144 177 Q148 188 144 198 Q148 186 149 177 Q154 188 150 198 Q154 188 155 179 Q160 189 156 198 Q161 190 161 182 Q166 191 163 198 Q168 209 163 225 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M93 225 Q90 214 93 206 Q101 193 107 198 Q115 185 115 174 Q122 186 120 198 Q129 186 128 176 Q133 186 130 198 Q138 187 137 178 Q142 187 138 198 Q144 187 144 179 Q148 188 144 198 Q149 188 150 180 Q154 189 150 198 Q155 190 156 181 Q160 190 157 198 Q160 209 157 225 Z" fill="#ff9900" stroke="none"/>
+  <!-- Flat frying pan -->
+  <path d="M78 210 Q76 226 145 226 Q214 226 212 210 Q207 205 200 203 L90 203 Q83 205 78 210 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pan interior (thin oil layer) -->
+  <path d="M90 208 Q88 221 145 221 Q202 221 200 208 Z" fill="#efefef" stroke="none"/>
+  <!-- Oil layer (thin sheen) -->
+  <ellipse cx="145" cy="214" rx="52" ry="7" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Pan rim (flat, not raised) -->
+  <rect x="74" y="197" width="138" height="12" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pan handle -->
+  <rect x="210" y="199" width="62" height="13" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Flat cutlet/pancake on pan -->
+  <ellipse cx="138" cy="205" rx="48" ry="12" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Cutlet browning details -->
+  <ellipse cx="138" cy="204" rx="38" ry="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Spatula sliding under cutlet -->
+  <path d="M62 190 L62 195 L124 205 L128 200 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Spatula handle -->
+  <rect x="20" y="182" width="48" height="12" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-12 44 188)"/>
+  <!-- Small oil bubbles around cutlet edge -->
+  <circle cx="96" cy="210" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="180" cy="211" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="105" cy="217" r="2.5" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="170" cy="218" r="2.5" fill="#fff200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Steam -->
+  <path d="M130 193 Q127 183 130 175 Q133 168 130 161" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M152 191 Q149 181 152 173 Q155 166 152 159" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

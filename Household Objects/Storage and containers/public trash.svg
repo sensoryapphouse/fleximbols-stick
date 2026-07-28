@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bin body (tapered) -->
+  <path d="M78,90 L68,210 L222,210 L212,90 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bin body inner (lighter panel) -->
+  <path d="M88,100 L80,200 L210,200 L202,100 Z" fill="#7f7f7f" stroke="none"/>
+  <!-- Lid -->
+  <rect x="65" y="72" width="160" height="22" rx="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lid lip overhang -->
+  <rect x="60" y="86" width="170" height="10" rx="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Slot opening in lid -->
+  <rect x="112" y="76" width="66" height="12" rx="5" fill="#000000" stroke="none"/>
+  <!-- Handle on lid -->
+  <path d="M128,72 Q145,55 162,72" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- Waste bag icon on body -->
+  <!-- Bag knot top -->
+  <circle cx="145" cy="128" r="8" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Bag body -->
+  <path d="M130,128 Q122,148 128,168 Q136,178 145,178 Q154,178 162,168 Q168,148 160,128 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Hoop feet / base ring -->
+  <rect x="72" y="206" width="146" height="12" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

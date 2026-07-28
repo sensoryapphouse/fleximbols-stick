@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- scene below: simple ground line and a head representing scene -->
+  <rect x="30" y="200" width="230" height="20" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- person head (subject of scene) -->
+  <circle cx="145" cy="180" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M130 180 Q145 195 160 180" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="139" cy="177" r="1.5" fill="#000000"/>
+  <circle cx="151" cy="177" r="1.5" fill="#000000"/>
+  <!-- boom pole arm coming from upper left -->
+  <line x1="20" y1="40" x2="170" y2="120" stroke="#7f7f7f" stroke-width="11.85" stroke-linecap="round"/>
+  <line x1="20" y1="40" x2="170" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- shotgun mic mounted at end pointing down at scene -->
+  <rect x="155" y="115" width="50" height="14" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(35 180 122)"/>
+  <!-- shotgun mic slots -->
+  <g transform="rotate(35 180 122)">
+    <line x1="160" y1="119" x2="200" y2="119" stroke="#b8b8b8" stroke-width="2.22"/>
+    <line x1="160" y1="125" x2="200" y2="125" stroke="#b8b8b8" stroke-width="2.22"/>
+    <circle cx="200" cy="122" r="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.22"/>
+  </g>
+  <!-- mount clip joining mic to boom -->
+  <rect x="158" y="108" width="14" height="14" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(35 165 115)"/>
+  <!-- "over scene" arrow indicating direction -->
+  <path d="M210 145 L215 165" stroke="#f7de58" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="215,165 210,160 220,160" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

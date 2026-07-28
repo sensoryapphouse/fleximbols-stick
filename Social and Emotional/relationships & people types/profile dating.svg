@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor strip -->
+  <rect x="0" y="218" width="290" height="22" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- phone body -->
+  <rect x="65" y="14" width="160" height="200" rx="16" ry="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- screen -->
+  <rect x="76" y="30" width="138" height="170" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- header bar -->
+  <rect x="76" y="30" width="138" height="18" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small heart icon in header -->
+  <path d="M145 36 Q143 32 138 32 Q133 32 133 36 Q133 42 145 48 Q157 42 157 36 Q157 32 152 32 Q147 32 145 36 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- profile photo (bust) -->
+  <rect x="84" y="54" width="60" height="74" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="114" cy="84" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M100 80 Q102 66 114 66 Q128 66 128 80 Q122 74 114 74 Q106 74 100 80 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <circle cx="110" cy="85" r="1.5" fill="#000000"/>
+  <circle cx="118" cy="85" r="1.5" fill="#000000"/>
+  <path d="M110 92 Q114 95 118 92" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <path d="M96 106 Q114 100 132 106 L134 124 L94 124 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bio text (squiggles) -->
+  <path d="M152 60 Q160 56 168 60 Q176 64 184 60 Q192 56 200 60" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M152 75 Q160 71 168 75 Q176 79 184 75 Q192 71 200 75" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M152 90 Q160 86 168 90 Q176 94 184 90" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M152 105 Q160 101 168 105 Q176 109 184 105 Q192 101 200 105" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M152 120 Q160 116 168 120" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- stats row -->
+  <rect x="84" y="138" width="40" height="22" rx="3" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="92" cy="149" r="3" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M100 145 L116 145 M100 152 L116 152" stroke="#4d4d4d" stroke-width="3.56" stroke-linecap="round"/>
+  <rect x="128" y="138" width="40" height="22" rx="3" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M134 149 L138 153 L146 145" fill="none" stroke="#137827" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M152 145 L164 145 M152 152 L164 152" stroke="#4d4d4d" stroke-width="3.56" stroke-linecap="round"/>
+  <rect x="172" y="138" width="34" height="22" rx="3" ry="3" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M178 149 L184 149 L184 144 L188 152 L184 152 L184 156" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M192 145 L204 145 M192 152 L204 152" stroke="#4d4d4d" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- action buttons -->
+  <circle cx="110" cy="180" r="14" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M104 174 L116 186 M116 174 L104 186" stroke="#ffffff" stroke-width="6.22" stroke-linecap="round"/>
+  <circle cx="180" cy="180" r="14" fill="#137827" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M180 174 Q178 171 174 171 Q170 171 170 176 Q170 181 180 188 Q190 181 190 176 Q190 171 186 171 Q182 171 180 174 Z" fill="#ffffff" stroke="#ffffff" stroke-width="1.78"/>
+  <!-- speaker -->
+  <rect x="128" y="22" width="34" height="4" rx="2" ry="2" fill="#000000"/>
+  <!-- home indicator -->
+  <rect x="125" y="206" width="40" height="4" rx="2" ry="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

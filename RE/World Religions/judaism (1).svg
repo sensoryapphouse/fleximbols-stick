@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="15" width="270" height="170" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- ground -->
+  <rect x="10" y="185" width="270" height="35" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Star of David, large, centred upper -->
+  <polygon points="80,30 110,82 50,82" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <polygon points="80,90 50,38 110,38" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- Torah scroll, right side -->
+  <rect x="160" y="40" width="80" height="80" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- scroll rods -->
+  <rect x="152" y="35" width="10" height="90" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="238" y="35" width="10" height="90" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="35" r="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="157" cy="125" r="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="243" cy="35" r="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="243" cy="125" r="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- scroll text lines -->
+  <path d="M170 60 L230 60" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <path d="M170 75 L230 75" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <path d="M170 90 L230 90" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <path d="M170 105 L230 105" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
+  <!-- Menorah base across bottom -->
+  <rect x="120" y="200" width="50" height="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="142" y="180" width="6" height="22" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- menorah arms -->
+  <path d="M145 180 L145 160" stroke="#f2e40d" stroke-width="11.11" fill="none" stroke-linecap="round"/>
+  <path d="M135 180 Q125 170 125 160" stroke="#f2e40d" stroke-width="11.11" fill="none" stroke-linecap="round"/>
+  <path d="M125 180 Q110 165 110 158" stroke="#f2e40d" stroke-width="11.11" fill="none" stroke-linecap="round"/>
+  <path d="M115 180 Q95 160 95 155" stroke="#f2e40d" stroke-width="11.11" fill="none" stroke-linecap="round"/>
+  <path d="M155 180 Q165 170 165 160" stroke="#f2e40d" stroke-width="11.11" fill="none" stroke-linecap="round"/>
+  <path d="M165 180 Q180 165 180 158" stroke="#f2e40d" stroke-width="11.11" fill="none" stroke-linecap="round"/>
+  <path d="M175 180 Q195 160 195 155" stroke="#f2e40d" stroke-width="11.11" fill="none" stroke-linecap="round"/>
+  <!-- flames -->
+  <ellipse cx="95" cy="148" rx="3" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="110" cy="150" rx="3" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="125" cy="153" rx="3" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="153" rx="3" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="165" cy="153" rx="3" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="180" cy="150" rx="3" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="195" cy="148" rx="3" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

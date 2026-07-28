@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bowl outer -->
+  <path d="M 38 150 Q 40 215 145 220 Q 250 215 252 150 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bowl rim -->
+  <ellipse cx="145" cy="150" rx="107" ry="22" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Romaine lettuce leaves - pale green elongated -->
+  <path d="M 70 148 Q 82 110 95 105 Q 100 120 90 148 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 88 146 Q 100 100 118 95 Q 122 115 108 146 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 108 144 Q 122 96 140 92 Q 143 114 128 144 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 128 144 Q 145 96 162 92 Q 164 114 150 144 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 148 146 Q 168 100 184 96 Q 186 116 170 146 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 168 148 Q 185 108 198 105 Q 200 122 188 148 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Romaine midribs -->
+  <line x1="92" y1="106" x2="88" y2="146" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="118" y1="96" x2="112" y2="144" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="140" y1="93" x2="136" y2="143" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="162" y1="93" x2="158" y2="143" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="183" y1="97" x2="178" y2="146" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Croutons -->
+  <rect x="82" y="128" width="18" height="16" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="155" y="122" width="18" height="16" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="120" y="118" width="18" height="16" rx="3" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="188" y="128" width="16" height="14" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Shaved parmesan shards -->
+  <path d="M 98 115 Q 106 110 112 118 Q 106 122 100 119 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M 162 115 Q 170 109 176 117 Q 170 121 163 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M 133 108 Q 141 103 147 111 Q 141 115 134 112 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Creamy dressing drizzle -->
+  <path d="M 105 138 Q 120 132 135 138 Q 150 144 165 138 Q 178 133 190 140" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 95 146 Q 112 140 128 146 Q 144 152 160 146" fill="none" stroke="#efefef" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

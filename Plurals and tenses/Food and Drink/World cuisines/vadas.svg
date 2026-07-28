@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate -->
+  <ellipse cx="145" cy="205" rx="110" ry="20" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M35 205 Q35 220 145 226 Q255 220 255 205" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Vada - golden doughnut ring shape, outer ellipse -->
+  <!-- Outer ring -->
+  <ellipse cx="145" cy="165" rx="75" ry="38" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Hole - center cutout -->
+  <ellipse cx="145" cy="165" rx="28" ry="15" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bottom shadow/thickness of ring showing it's a 3D donut -->
+  <path d="M70 165 Q70 190 145 200 Q220 190 220 165" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Hole bottom -->
+  <path d="M117 165 Q117 178 145 184 Q173 178 173 165" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Fried texture - dark spots -->
+  <ellipse cx="105" cy="155" rx="8" ry="5" fill="#e65a00" stroke="none"/>
+  <ellipse cx="128" cy="148" rx="6" ry="4" fill="#e65a00" stroke="none"/>
+  <ellipse cx="162" cy="148" rx="7" ry="4" fill="#e65a00" stroke="none"/>
+  <ellipse cx="185" cy="155" rx="8" ry="5" fill="#e65a00" stroke="none"/>
+  <ellipse cx="175" cy="172" rx="6" ry="4" fill="#9d7246" stroke="none"/>
+  <ellipse cx="112" cy="172" rx="6" ry="4" fill="#9d7246" stroke="none"/>
+  <!-- Green chutney dip -->
+  <ellipse cx="232" cy="198" rx="24" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M208 198 Q232 210 256 198" fill="#529929" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Sambar small puddle -->
+  <ellipse cx="58" cy="198" rx="22" ry="9" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M36 198 Q58 210 80 198" fill="#e65a00" stroke="#1a1a1a" stroke-width="3.33"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg1690" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg1690)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

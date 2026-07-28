@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- glass -->
+<path d="M 150 160 L 290 160 L 274 392 Q 220 410 166 392 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- juice fill -->
+<path d="M 158 210 L 282 210 L 270 388 Q 220 404 170 388 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- juice surface highlight -->
+<ellipse cx="220" cy="210" rx="62" ry="10" fill="#ef6a6a"/>
+<!-- glass rim -->
+<ellipse cx="220" cy="160" rx="70" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<!-- tomato (top right) -->
+<path d="M 392 196 C 360 176 334 214 334 240 C 334 278 368 294 392 288 C 416 294 450 278 450 240 C 450 214 424 176 392 196 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 392 200 l -14 -14 m 14 14 l 0 -20 m 0 20 l 14 -14" stroke="#5aa83c" stroke-width="7" stroke-linecap="round" fill="none"/>
+<circle cx="392" cy="196" r="6" fill="#5aa83c" stroke="#1a1a1a" stroke-width="4"/>
+</svg>

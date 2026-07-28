@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- meandering footpath: left edge up, rounded far end, right edge down -->
+<path d="M 190 420
+         C 168 348 296 340 296 276
+         C 296 224 244 224 256 182
+         C 262 160 292 160 300 184
+         C 312 226 344 250 344 306
+         C 344 374 232 356 262 420 Z"
+      fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- stepping stones centred on the path -->
+<ellipse cx="226" cy="398" rx="27" ry="15" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="288" cy="330" rx="24" ry="14" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="288" cy="256" rx="19" ry="11" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="276" cy="192" rx="15" ry="9" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,68.915) scale(0.8654)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- wall tile pattern -->
+  <rect x="15" y="15" width="260" height="120" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="15" y1="55" x2="275" y2="55" stroke="#90a7d6" stroke-width="4.45"/>
+  <line x1="15" y1="95" x2="275" y2="95" stroke="#90a7d6" stroke-width="4.45"/>
+  <line x1="100" y1="15" x2="100" y2="135" stroke="#90a7d6" stroke-width="4.45"/>
+  <line x1="190" y1="15" x2="190" y2="135" stroke="#90a7d6" stroke-width="4.45"/>
+  <!-- stove top -->
+  <rect x="40" y="155" width="210" height="65" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- burner -->
+  <circle cx="145" cy="190" r="22" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="190" r="14" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- wall mount plate -->
+  <rect x="30" y="60" width="14" height="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="34" cy="66" r="2" fill="#000000"/>
+  <circle cx="40" cy="76" r="2" fill="#000000"/>
+  <!-- first arm (horizontal) -->
+  <rect x="44" y="67" width="80" height="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pivot joint -->
+  <circle cx="124" cy="71" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- second arm (folding) -->
+  <rect x="124" y="67" width="60" height="9" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <circle cx="184" cy="71" r="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- down spout -->
+  <rect x="180" y="71" width="9" height="55" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- handle/valve -->
+  <circle cx="62" cy="55" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="60" y="40" width="4" height="15" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- water stream -->
+  <path d="M184 130 L184 150 M186 132 L186 150" stroke="#2a4ec0" stroke-width="6.67" stroke-linecap="round" fill="none"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2225" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2225)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- elephant head, profile facing left, with a big curving white TUSK + trunk -->
+<!-- ear -->
+<path d="M 360 150 C 300 134 256 168 260 232 C 264 290 318 304 368 290 C 352 244 358 196 360 150 Z" fill="#8d949b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<path d="M 420 176 C 396 128 332 122 312 184 C 304 214 306 252 318 292 L 314 332 C 314 360 346 372 374 360 C 410 344 424 296 422 248 C 421 216 430 200 420 176 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- trunk curling down -->
+<path d="M 318 300 C 316 348 296 378 262 392 C 286 372 296 344 296 308 C 296 290 300 280 312 280 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- eye -->
+<circle cx="362" cy="226" r="11" fill="#1a1a1a"/>
+<!-- TUSK: long white curving tusk from the mouth area, sweeping forward and up -->
+<path d="M 316 318 C 270 332 214 350 168 386 C 150 400 138 416 140 432 C 150 414 178 396 214 380 C 262 358 304 346 332 342 C 336 332 330 322 316 318 Z" fill="#fbf6e6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- tusk shading line -->
+<path d="M 312 326 C 264 342 210 362 168 392" fill="none" stroke="#d9cfae" stroke-width="5" stroke-linecap="round"/>
+</svg>

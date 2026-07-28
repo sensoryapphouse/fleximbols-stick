@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- toy box / kit base -->
+  <rect x="20" y="130" width="250" height="90" rx="6" ry="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="20" y="130" width="250" height="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- big gear (yellow) -->
+  <g stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round">
+    <path d="M 80 30 L 90 30 L 92 42 L 102 46 L 112 38 L 119 45 L 111 55 L 115 65 L 127 67 L 127 77 L 115 79 L 111 89 L 119 99 L 112 106 L 102 98 L 92 102 L 90 114 L 80 114 L 78 102 L 68 98 L 58 106 L 51 99 L 59 89 L 55 79 L 43 77 L 43 67 L 55 65 L 59 55 L 51 45 L 58 38 L 68 46 L 78 42 Z" fill="#f2e40d"/>
+    <circle cx="85" cy="72" r="14" fill="#fff200"/>
+    <circle cx="85" cy="72" r="5" fill="#4d4d4d"/>
+  </g>
+  <!-- small gear (red) interlocking -->
+  <g stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round">
+    <path d="M 165 55 L 173 55 L 175 64 L 184 68 L 192 64 L 197 70 L 193 78 L 197 87 L 206 89 L 206 97 L 197 99 L 193 108 L 197 116 L 192 122 L 184 118 L 175 122 L 173 131 L 165 131 L 163 122 L 154 118 L 146 122 L 141 116 L 145 108 L 141 99 L 132 97 L 132 89 L 141 87 L 145 78 L 141 70 L 146 64 L 154 68 L 163 64 Z" fill="#f8130d"/>
+    <circle cx="169" cy="93" r="10" fill="#d01424"/>
+    <circle cx="169" cy="93" r="4" fill="#4d4d4d"/>
+  </g>
+  <!-- 'STEM' letters as paths on the box -->
+  <!-- S -->
+  <path d="M 55 195 L 75 195 L 75 188 L 62 188 L 62 180 L 75 180 L 75 165 L 55 165 L 55 173 L 68 173 L 68 180 L 55 180 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- T -->
+  <path d="M 90 165 L 120 165 L 120 173 L 109 173 L 109 195 L 101 195 L 101 173 L 90 173 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M 135 165 L 162 165 L 162 173 L 143 173 L 143 177 L 158 177 L 158 184 L 143 184 L 143 188 L 162 188 L 162 195 L 135 195 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- M -->
+  <path d="M 178 195 L 178 165 L 188 165 L 196 178 L 204 165 L 214 165 L 214 195 L 206 195 L 206 178 L 200 188 L 192 188 L 186 178 L 186 195 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- battery / electronic part -->
+  <rect x="225" y="60" width="35" height="60" rx="4" ry="4" fill="#67832d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="236" y="52" width="13" height="10" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M 232 80 L 252 80 M 232 92 L 252 92 M 232 104 L 252 104" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

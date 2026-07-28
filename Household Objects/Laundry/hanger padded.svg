@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- chrome hook -->
+  <path d="M 145 50 Q 145 30 160 30 Q 175 30 175 45" fill="none" stroke="#b8b8b8" stroke-width="12.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 145 50 Q 145 30 160 30 Q 175 30 175 45" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- chrome shaft -->
+  <line x1="145" y1="50" x2="145" y2="90" stroke="#b8b8b8" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="145" y1="50" x2="145" y2="90" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- internal slim wire body (peeking through padding) - faint -->
+  <path d="M 145 95 L 75 150 L 215 150 Z" fill="none" stroke="#7f7f7f" stroke-width="3.56" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- bulky padded shoulder tube (fabric wrap around the arms) -->
+  <path d="M 145 88 Q 60 130 50 180 Q 100 165 145 145 Q 190 165 240 180 Q 230 130 145 88 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- padded fabric quilting stitches -->
+  <g stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round" fill="none">
+    <path d="M 80 165 Q 85 158 90 165"/>
+    <path d="M 100 158 Q 105 151 110 158"/>
+    <path d="M 120 152 Q 125 145 130 152"/>
+    <path d="M 160 152 Q 165 145 170 152"/>
+    <path d="M 180 158 Q 185 151 190 158"/>
+    <path d="M 200 165 Q 205 158 210 165"/>
+  </g>
+  <!-- centre tie / ribbon knot at top of padding -->
+  <ellipse cx="145" cy="95" rx="14" ry="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

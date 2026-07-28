@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ears -->
+<ellipse cx="150" cy="232" rx="28" ry="34" fill="#5b5f63" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="362" cy="232" rx="28" ry="34" fill="#5b5f63" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- crown sagittal crest -->
+<path d="M 256 110 C 300 110 318 150 312 188 L 200 188 C 194 150 212 110 256 110 Z" fill="#3a3d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<path d="M 170 188 C 170 150 206 124 256 124 C 306 124 342 150 342 188 C 366 200 372 248 350 286 C 332 360 300 396 256 396 C 212 396 180 360 162 286 C 140 248 146 200 170 188 Z" fill="#5b5f63" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- face muzzle area lighter -->
+<path d="M 256 222 C 312 222 336 268 330 312 C 322 360 296 388 256 388 C 216 388 190 360 182 312 C 176 268 200 222 256 222 Z" fill="#7a7f83" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- heavy brow ridge -->
+<path d="M 188 232 Q 256 214 324 232" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- eyes -->
+<circle cx="218" cy="256" r="13" fill="#1a1a1a"/>
+<circle cx="294" cy="256" r="13" fill="#1a1a1a"/>
+<!-- nostrils / broad nose -->
+<path d="M 230 304 Q 256 292 282 304" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<ellipse cx="238" cy="312" rx="7" ry="9" fill="#1a1a1a"/>
+<ellipse cx="274" cy="312" rx="7" ry="9" fill="#1a1a1a"/>
+<!-- mouth -->
+<path d="M 222 352 Q 256 372 290 352" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</svg>

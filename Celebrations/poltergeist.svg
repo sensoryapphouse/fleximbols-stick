@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- angry ghostly figure (full body) -->
+  <path d="M105 70 C 105 35, 195 35, 195 70 L 195 175 L 185 195 L 175 180 L 160 195 L 145 180 L 130 195 L 115 180 L 105 195 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- angry eyes (downward V) -->
+  <path d="M125 75 L 138 88" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M145 88 L 132 75" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M155 88 L 168 75" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M175 75 L 162 88" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- angry shouting mouth -->
+  <path d="M133 110 Q 150 130, 167 110 Q 160 122, 150 124 Q 140 122, 133 110 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- arms outstretched -->
+  <path d="M105 110 Q 80 115, 70 130 Q 80 130, 95 125 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M195 110 Q 220 115, 230 130 Q 220 130, 205 125 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- swirling chair (top-left) -->
+  <g transform="translate(40 60) rotate(-25)">
+    <rect x="0" y="0" width="28" height="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="0" y="6" width="6" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="22" y="6" width="6" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="0" y="-12" width="6" height="12" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+  <!-- swirling book (right) -->
+  <g transform="translate(235 90) rotate(30)">
+    <rect x="0" y="0" width="32" height="22" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+    <line x1="16" y1="0" x2="16" y2="22" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M2 4 L 14 4 M 2 10 L 14 10 M 18 4 L 30 4 M 18 10 L 30 10" stroke="#ffffff" stroke-width="2.22"/>
+  </g>
+  <!-- swirling cup (bottom-left) -->
+  <g transform="translate(45 200) rotate(15)">
+    <path d="M0 0 L 22 0 L 20 18 L 2 18 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M22 4 Q 30 6, 28 12 Q 24 12, 22 10" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  </g>
+  <!-- motion lines / swirls -->
+  <path d="M75 50 Q 90 40, 100 50" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M220 60 Q 230 50, 240 60" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M210 200 Q 225 195, 235 205" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

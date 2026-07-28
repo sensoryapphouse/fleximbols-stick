@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Yellow (hoist) left half -->
+  <rect x="20" y="50" width="105" height="140" fill="#f7de58" stroke="none"/>
+  <!-- White (fly) right half -->
+  <rect x="125" y="50" width="105" height="140" fill="#ffffff" stroke="none"/>
+  <!-- Flag outline -->
+  <rect x="20" y="50" width="210" height="140" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Centre dividing line -->
+  <line x1="125" y1="50" x2="125" y2="190" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tiara (simplified) on white half -->
+  <!-- Base dome -->
+  <ellipse cx="178" cy="95" rx="16" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Middle band -->
+  <rect x="162" y="92" width="32" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Top crown layer -->
+  <ellipse cx="178" cy="85" rx="12" ry="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Upper band -->
+  <rect x="166" y="83" width="24" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Top point -->
+  <ellipse cx="178" cy="76" rx="7" ry="6" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cross atop tiara -->
+  <line x1="178" y1="64" x2="178" y2="72" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="174" y1="67" x2="182" y2="67" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Crossed keys (simplified) below tiara -->
+  <!-- Key 1 (left, gold) -->
+  <line x1="162" y1="108" x2="172" y2="148" stroke="#f7de58" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="161" cy="107" r="6" fill="none" stroke="#f7de58" stroke-width="4.45"/>
+  <!-- Key 2 (right, silver/white) -->
+  <line x1="194" y1="108" x2="184" y2="148" stroke="#b8b8b8" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="195" cy="107" r="6" fill="none" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- Key handles bottom -->
+  <line x1="170" y1="145" x2="186" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="172" y1="150" x2="184" y2="150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pole -->
+  <line x1="20" y1="30" x2="20" y2="200" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Squeeze tube body -->
+  <path d="M 88,80 Q 88,68 100,68 L 175,68 Q 187,68 187,80 L 187,185 Q 187,195 175,198 L 100,198 Q 88,195 88,185 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tube cap / nozzle -->
+  <rect x="110" y="45" width="55" height="26" rx="6" ry="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Nozzle tip -->
+  <path d="M 128,45 L 128,30 Q 128,22 137,22 L 138,22 Q 147,22 147,30 L 147,45" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cream squirt coming out of nozzle -->
+  <path d="M 137,22 Q 128,12 115,18 Q 105,26 112,35" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="109" cy="37" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Tube crimp / sealed bottom -->
+  <path d="M 95,195 Q 137,205 180,195" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 98,202 Q 137,212 177,202" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- SPF label stripe on tube -->
+  <rect x="88" y="120" width="99" height="32" rx="4" ry="4" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Sun icon on tube label area -->
+  <circle cx="137" cy="136" r="10" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 137,120 L 137,115 M 137,152 L 137,157 M 121,136 L 116,136 M 153,136 L 158,136 M 126,125 L 122,121 M 148,147 L 152,151 M 148,125 L 152,121 M 126,147 L 122,151" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Sun in sky top right -->
+  <circle cx="240" cy="48" r="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 240,12 L 240,6 M 240,84 L 240,90 M 204,48 L 198,48 M 276,48 L 282,48 M 216,24 L 212,20 M 264,72 L 268,76 M 264,24 L 268,20 M 216,72 L 212,76" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

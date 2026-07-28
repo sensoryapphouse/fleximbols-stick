@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,44.186) scale(0.9137)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="20" y="30" width="250" height="180" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- sun -->
+  <circle cx="240" cy="60" r="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- row of 6 connected mountain peaks across canvas -->
+  <path d="M 20 200 L 55 110 L 85 160 L 120 75 L 155 155 L 185 95 L 215 150 L 245 105 L 270 200 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- shadow side of each peak -->
+  <path d="M 55 110 L 85 160 L 55 145 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 120 75 L 155 155 L 120 115 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 185 95 L 215 150 L 185 130 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 245 105 L 265 165 L 245 140 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- snow caps on tallest peaks -->
+  <path d="M 110 90 L 120 75 L 130 90 L 125 96 L 120 90 L 115 96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 175 110 L 185 95 L 195 110 L 190 116 L 185 110 L 180 116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 45 124 L 55 110 L 65 124 L 60 130 L 55 124 L 50 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ground -->
+  <rect x="20" y="195" width="250" height="15" fill="#529929" stroke="#1a1a1a" stroke-width="6.67"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg1543" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg1543)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Blazing sun top-left -->
+  <circle cx="80" cy="76" r="48" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Sun inner hotter core -->
+  <circle cx="80" cy="76" r="38" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Sun rays: 8 directions -->
+  <line x1="80" y1="20" x2="80" y2="8" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="80" y1="132" x2="80" y2="144" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="24" y1="76" x2="12" y2="76" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="136" y1="76" x2="148" y2="76" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="40" y1="36" x2="32" y2="28" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="120" y1="116" x2="128" y2="124" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="120" y1="36" x2="128" y2="28" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="40" y1="116" x2="32" y2="124" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Sweat drops on sun face area -->
+  <path d="M62,88 Q60,98 65,102 Q70,98 68,88 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.78" stroke-linejoin="round"/>
+  <path d="M78,92 Q76,102 81,106 Q86,102 84,92 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.78" stroke-linejoin="round"/>
+  <!-- Thermometer tube (tall, right side) -->
+  <rect x="176" y="22" width="28" height="158" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Glass tube inner area -->
+  <rect x="182" y="40" width="16" height="140" rx="6" fill="#efefef" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Red mercury column: reading HIGH (nearly full) -->
+  <rect x="182" y="52" width="16" height="128" fill="#f8130d"/>
+  <!-- Mercury bulb at base -->
+  <circle cx="190" cy="198" r="26" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Tick marks on left of thermometer -->
+  <line x1="166" y1="60" x2="176" y2="60" stroke="#4d4d4d" stroke-width="2.78" stroke-linecap="round"/>
+  <line x1="166" y1="82" x2="176" y2="82" stroke="#4d4d4d" stroke-width="2.78" stroke-linecap="round"/>
+  <line x1="166" y1="104" x2="176" y2="104" stroke="#4d4d4d" stroke-width="2.78" stroke-linecap="round"/>
+  <line x1="166" y1="126" x2="176" y2="126" stroke="#4d4d4d" stroke-width="2.78" stroke-linecap="round"/>
+  <line x1="166" y1="148" x2="176" y2="148" stroke="#4d4d4d" stroke-width="2.78" stroke-linecap="round"/>
+  <!-- Up arrow: temperature rising -->
+  <path d="M218,58 L218,42 M213,50 L218,42 L223,50" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sweat drops off thermometer -->
+  <path d="M208,78 Q206,88 211,92 Q216,88 214,78 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M222,98 Q220,108 225,112 Q230,108 228,98 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <!-- Heat shimmer wavy lines below sun (left-side) -->
+  <path d="M22,154 Q36,146 50,154 Q64,162 78,154 Q92,146 106,154" fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M28,174 Q42,166 56,174 Q70,182 84,174 Q98,166 112,174" fill="none" stroke="#e65a00" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M18,194 Q32,186 46,194 Q60,202 74,194 Q88,186 102,194 Q116,202 130,194" fill="none" stroke="#ff9900" stroke-width="3.33" stroke-linecap="round"/>
+</g></svg>

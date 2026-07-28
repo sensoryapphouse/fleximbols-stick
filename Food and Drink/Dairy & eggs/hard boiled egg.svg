@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Two halves of hard-boiled egg, cut cross-section visible -->
+  <!-- Left half egg white outline -->
+  <path d="M75,185 Q48,182 38,155 Q30,128 48,108 Q65,88 88,88 Q108,88 120,105 L120,185 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Left half cut face (flat inner surface) -->
+  <line x1="120" y1="105" x2="120" y2="185" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Left half inner face fill -->
+  <path d="M120,105 Q122,120 122,145 Q122,165 120,185" fill="#ffffff" stroke="none"/>
+  <!-- Left half solid yolk - fully set, bright yellow circle centered in white -->
+  <circle cx="88" cy="145" r="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="145" r="23" fill="#f2e40d"/>
+  <!-- Yolk is solid - crumbly texture dots -->
+  <circle cx="83" cy="140" r="4" fill="#fff200"/>
+  <circle cx="93" cy="150" r="3" fill="#fff200"/>
+  <circle cx="86" cy="152" r="2.5" fill="#fff200"/>
+  <!-- Right half egg white outline -->
+  <path d="M175,185 Q202,182 212,155 Q220,128 202,108 Q185,88 162,88 Q142,88 132,105 L132,185 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- Right half cut face -->
+  <line x1="132" y1="105" x2="132" y2="185" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Right half solid yolk -->
+  <circle cx="175" cy="145" r="28" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="145" r="23" fill="#f2e40d"/>
+  <!-- Yolk solid texture -->
+  <circle cx="170" cy="140" r="4" fill="#fff200"/>
+  <circle cx="180" cy="150" r="3" fill="#fff200"/>
+  <circle cx="173" cy="152" r="2.5" fill="#fff200"/>
+  <!-- White surface sheen -->
+  <ellipse cx="72" cy="108" rx="10" ry="6" fill="#ffffff"/>
+  <ellipse cx="185" cy="108" rx="10" ry="6" fill="#ffffff"/>
+  <!-- Cut surface line emphasis -->
+  <line x1="120" y1="88" x2="120" y2="185" stroke="#b8b8b8" stroke-width="2.67"/>
+  <line x1="132" y1="88" x2="132" y2="185" stroke="#b8b8b8" stroke-width="2.67"/>
+</g></svg>

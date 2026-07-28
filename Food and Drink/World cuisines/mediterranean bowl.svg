@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Mediterranean Bowl: composed grain bowl - falafel, hummus, greens, tomato, olives, pita -->
+  <!-- Bowl outer -->
+  <path d="M20,115 Q20,228 145,228 Q270,228 270,115 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl rim ellipse -->
+  <ellipse cx="145" cy="115" rx="125" ry="32" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bowl interior (grain base - light tan) -->
+  <ellipse cx="145" cy="112" rx="115" ry="26" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Grain/rice base fill -->
+  <ellipse cx="145" cy="112" rx="108" ry="22" fill="#f7de58" stroke="none"/>
+
+  <!-- Hummus section (bottom-left, creamy beige) -->
+  <path d="M50,115 Q55,165 100,175 Q75,130 50,115 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M50,115 Q55,165 100,175 Q75,130 50,115 Z" fill="#e6b98a" stroke="none"/>
+  <!-- Hummus surface swirl -->
+  <path d="M60,135 Q72,128 78,140" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="68" cy="148" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Falafel balls (2, dark green-brown, round) upper-left -->
+  <circle cx="85" cy="100" r="22" fill="#529929" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="85" cy="100" r="22" fill="none" stroke="#67832d" stroke-width="4.45"/>
+  <!-- Falafel texture -->
+  <circle cx="80" cy="95" r="4" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="92" cy="98" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="84" cy="108" r="4" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <circle cx="118" cy="95" r="18" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="115" cy="92" r="4" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="123" cy="100" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Greens (dark leafy greens, upper center) -->
+  <path d="M140,88 Q155,70 170,80 Q180,95 165,105 Q152,112 140,100 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M148,92 Q158,78 168,86 Q165,96 155,100 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Tomato (red, upper right) -->
+  <circle cx="200" cy="96" r="22" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Tomato segments -->
+  <line x1="200" y1="74" x2="200" y2="118" stroke="#d01424" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="178" y1="96" x2="222" y2="96" stroke="#d01424" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="200" cy="96" r="6" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- Olives (dark, right side) -->
+  <ellipse cx="238" cy="115" rx="12" ry="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="238" cy="115" rx="5" ry="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="218" cy="130" rx="11" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+
+  <!-- Pita wedge (bottom right) -->
+  <path d="M200,185 Q240,160 260,180 Q245,210 210,215 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M200,185 Q230,175 260,180" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

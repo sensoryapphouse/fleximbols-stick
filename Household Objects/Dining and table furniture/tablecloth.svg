@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- table legs peeking below the cloth hem -->
+<rect x="182" y="300" width="22" height="130" rx="4" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="308" y="300" width="22" height="130" rx="4" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="8"/>
+<!-- cloth draped over the table: flat top + front drape with scalloped hem -->
+<path d="M 112 212 L 400 212 Q 416 212 416 228 L 416 318 Q 400 344 384 318 Q 368 344 352 318 Q 336 344 320 318 Q 304 344 288 318 Q 272 344 256 318 Q 240 344 224 318 Q 208 344 192 318 Q 176 344 160 318 Q 144 344 128 318 Q 112 344 96 318 L 96 228 Q 96 212 112 212 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- gingham check (white) -->
+<g stroke="#ffffff" stroke-width="9" opacity="0.85">
+<line x1="160" y1="216" x2="160" y2="314"/>
+<line x1="224" y1="216" x2="224" y2="314"/>
+<line x1="288" y1="216" x2="288" y2="314"/>
+<line x1="352" y1="216" x2="352" y2="314"/>
+<line x1="102" y1="250" x2="410" y2="250"/>
+<line x1="102" y1="286" x2="410" y2="286"/>
+</g>
+<!-- cloth outline on top so the check stays inside -->
+<path d="M 112 212 L 400 212 Q 416 212 416 228 L 416 318 Q 400 344 384 318 Q 368 344 352 318 Q 336 344 320 318 Q 304 344 288 318 Q 272 344 256 318 Q 240 344 224 318 Q 208 344 192 318 Q 176 344 160 318 Q 144 344 128 318 Q 112 344 96 318 L 96 228 Q 96 212 112 212 Z" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- front table-top edge line to read as a covered table -->
+<line x1="100" y1="232" x2="412" y2="232" stroke="#a8362d" stroke-width="5" stroke-linecap="round"/>
+</svg>

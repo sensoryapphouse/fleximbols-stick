@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- classic French macaron: two flat-topped domes with filling and foot ridge -->
+  <!-- bottom dome -->
+  <path d="M 62,155 Q 60,135 75,125 Q 100,112 145,112 Q 190,112 215,125 Q 230,135 228,155 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- foot ridge bottom dome -->
+  <path d="M 62,155 Q 62,165 75,168 L 215,168 Q 228,165 228,155" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- filling layer between domes -->
+  <path d="M 68,145 L 222,145 L 222,130 Q 222,125 215,122 Q 190,114 145,114 Q 100,114 75,122 Q 68,125 68,130 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top dome foot ridge -->
+  <path d="M 65,110 Q 65,120 78,123 L 212,123 Q 225,120 225,110" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- top dome -->
+  <path d="M 65,110 Q 63,90 78,75 Q 100,58 145,56 Q 190,58 212,75 Q 227,90 225,110 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- flat top surface highlight -->
+  <ellipse cx="145" cy="57" rx="60" ry="10" fill="#f4a4b2" stroke="none"/>
+</g></svg>

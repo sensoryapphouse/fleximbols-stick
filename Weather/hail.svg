@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.2481) translate(-258.00 -253.50)">
+<circle cx="178.1" cy="187.8" r="60.2" fill="#5b6b78" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="237.1" cy="147.7" r="74.3" fill="#5b6b78" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="303.2" cy="161.8" r="64.9" fill="#5b6b78" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="348.0" cy="192.5" r="50.7" fill="#5b6b78" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="153.3" y="165.4" width="205.3" height="69.6" rx="38.94" fill="#5b6b78" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="178.1" cy="187.8" r="51.9" fill="#eef2f6" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="237.1" cy="147.7" r="66.1" fill="#eef2f6" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="303.2" cy="161.8" r="56.6" fill="#eef2f6" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="348.0" cy="192.5" r="42.5" fill="#eef2f6" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="161.6" y="173.6" width="188.8" height="61.4" rx="30.68" fill="#eef2f6" stroke="#1a1a1a" stroke-width="0"/>
+<!-- HARD faceted ice stones: dark crisp outline, pale-blue ice body, faceted highlight, bright specular dot -->
+<!-- stone 1 -->
+<circle cx="206" cy="300" r="20" fill="#dfeaf2" stroke="#2a3b47" stroke-width="6"/>
+<polygon points="206,283 219,295 213,313 196,309 192,293" fill="#b9d2e2" stroke="none"/>
+<circle cx="200" cy="293" r="5.5" fill="#ffffff"/>
+<!-- stone 2 -->
+<circle cx="272" cy="318" r="22" fill="#dfeaf2" stroke="#2a3b47" stroke-width="6"/>
+<polygon points="272,299 287,312 280,332 261,328 257,310" fill="#b9d2e2" stroke="none"/>
+<circle cx="265" cy="310" r="6" fill="#ffffff"/>
+<!-- stone 3 -->
+<circle cx="330" cy="302" r="20" fill="#dfeaf2" stroke="#2a3b47" stroke-width="6"/>
+<polygon points="330,285 343,297 337,315 320,311 316,295" fill="#b9d2e2" stroke="none"/>
+<circle cx="324" cy="295" r="5.5" fill="#ffffff"/>
+<!-- stone 4 (lower) -->
+<circle cx="234" cy="372" r="21" fill="#dfeaf2" stroke="#2a3b47" stroke-width="6"/>
+<polygon points="234,354 248,367 242,386 224,382 220,365" fill="#b9d2e2" stroke="none"/>
+<circle cx="228" cy="365" r="5.5" fill="#ffffff"/>
+<!-- stone 5 (lower) -->
+<circle cx="304" cy="372" r="21" fill="#dfeaf2" stroke="#2a3b47" stroke-width="6"/>
+<polygon points="304,354 318,367 312,386 294,382 290,365" fill="#b9d2e2" stroke="none"/>
+<circle cx="298" cy="365" r="5.5" fill="#ffffff"/>
+<!-- impact / bounce ticks at the bottom to convey hardness -->
+<g stroke="#2a3b47" stroke-width="6" stroke-linecap="round">
+<line x1="178" y1="416" x2="166" y2="404"/>
+<line x1="190" y1="416" x2="202" y2="404"/>
+<line x1="262" y1="424" x2="250" y2="412"/>
+<line x1="274" y1="424" x2="286" y2="412"/>
+<line x1="346" y1="416" x2="334" y2="404"/>
+<line x1="358" y1="416" x2="370" y2="404"/>
+</g>
+</g></svg>

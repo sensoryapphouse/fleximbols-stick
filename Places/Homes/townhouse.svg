@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tall narrow multi-storey townhouse -->
+  <!-- Ground floor -->
+  <rect x="95" y="148" width="100" height="62" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- First floor -->
+  <rect x="95" y="86" width="100" height="62" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Floor slab line -->
+  <line x1="95" y1="148" x2="195" y2="148" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Roof -->
+  <polygon points="80,86 145,28 210,86" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Ground floor door with stoop -->
+  <rect x="122" y="170" width="36" height="40" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Door arch top -->
+  <path d="M122,170 Q140,152 158,170" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Door knob -->
+  <circle cx="152" cy="192" r="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Stoop steps -->
+  <rect x="114" y="207" width="52" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="108" y="213" width="64" height="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ground floor windows flanking door -->
+  <rect x="99" y="158" width="20" height="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="171" y="158" width="20" height="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- First floor windows: 2 -->
+  <rect x="104" y="96" width="28" height="24" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="118" y1="96" x2="118" y2="120" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <rect x="158" y="96" width="28" height="24" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="172" y1="96" x2="172" y2="120" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Chimney -->
+  <rect x="158" y="38" width="16" height="28" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Ground line -->
+  <line x1="70" y1="219" x2="220" y2="219" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Shimmery eyeshadow pan with sparkle + brush -->
+  <!-- Round shimmer pan (large) -->
+  <circle cx="120" cy="140" r="76" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Pan inner rim -->
+  <circle cx="120" cy="140" r="66" fill="#7c3fac" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- Shimmer powder (lavender shimmer) -->
+  <circle cx="120" cy="140" r="56" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- Inner highlight (shimmer is shiny, light catch) -->
+  <ellipse cx="106" cy="124" rx="32" ry="18" fill="#dff3fd" stroke="none"/>
+  <!-- Sparkle stars across pan -->
+  <path d="M 90 110 L 92 116 L 98 118 L 92 120 L 90 126 L 88 120 L 82 118 L 88 116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 142 132 L 144 138 L 150 140 L 144 142 L 142 148 L 140 142 L 134 140 L 140 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 110 160 L 112 166 L 118 168 L 112 170 L 110 176 L 108 170 L 102 168 L 108 166 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 156 162 L 158 168 L 164 170 L 158 172 L 156 178 L 154 172 L 148 170 L 154 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tiny sparkle dots -->
+  <circle cx="84" cy="142" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="156" cy="118" r="2" fill="#ffffff" stroke="none"/>
+  <circle cx="130" cy="184" r="2" fill="#ffffff" stroke="none"/>
+
+  <!-- Brush (right side, slanted) -->
+  <g transform="rotate(20 230 130)">
+    <rect x="216" y="118" width="100" height="14" rx="6" fill="#7c3fac" stroke="#1a1a1a" stroke-width="11.11"/>
+    <rect x="210" y="114" width="12" height="22" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+    <ellipse cx="194" cy="125" rx="22" ry="14" fill="#90a7d6" stroke="#1a1a1a" stroke-width="8.89"/>
+    <line x1="178" y1="118" x2="172" y2="112" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="174" y1="126" x2="166" y2="128" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+    <line x1="180" y1="134" x2="174" y2="140" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  </g>
+</g></svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Spray-tan booth (back panel) -->
+  <rect x="30" y="20" width="170" height="210" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Booth side panel -->
+  <rect x="22" y="20" width="14" height="210" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- PERSON SILHOUETTE (full body) being sprayed -->
+  <!-- Head -->
+  <circle cx="105" cy="55" r="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Torso -->
+  <path d="M85 78 L125 78 L132 150 L78 150 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left arm -->
+  <path d="M85 82 L62 130 L70 134 L92 88 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right arm -->
+  <path d="M125 82 L145 130 L138 134 L120 88 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left leg -->
+  <path d="M82 150 L82 220 L96 220 L100 150 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right leg -->
+  <path d="M110 150 L114 220 L128 220 L128 150 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- SPRAY GUN -->
+  <!-- Gun body -->
+  <rect x="225" y="105" width="40" height="22" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Trigger/handle -->
+  <path d="M232 127 L228 160 L246 160 L248 127 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Nozzle -->
+  <path d="M225 110 L200 108 L200 124 L225 122 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Solution canister on top -->
+  <rect x="240" y="78" width="18" height="28" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- SPRAY MIST clouds -->
+  <circle cx="178" cy="95" r="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="170" cy="115" r="7" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="182" cy="125" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="160" cy="105" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="190" cy="110" r="4" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="174" cy="135" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.22"/>
+</g></svg>

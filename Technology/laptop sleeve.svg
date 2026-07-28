@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- laptop-sleeve: thin flat padded protective sleeve with side zip, laptop corner sliding in -->
+  <!-- Sleeve body: thin flat padded envelope, slightly angled to show depth -->
+  <!-- Back panel (slightly offset) -->
+  <rect x="60" y="32" width="155" height="178" rx="12" ry="12" fill="#90a7d6" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Front panel -->
+  <rect x="55" y="28" width="155" height="178" rx="12" ry="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Zip along right side edge -->
+  <path d="M210 40 L210 195" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
+  <!-- Zip teeth -->
+  <path d="M210 42 L210 193" fill="none" stroke="#b8b8b8" stroke-width="3.56" stroke-dasharray="6,5"/>
+  <!-- Zip pull tab hanging from top-right of zip -->
+  <rect x="207" y="35" width="14" height="16" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="211" y="51" width="6" height="8" rx="1" ry="1" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- Laptop corner sliding in from top-left (showing device partway inserted) -->
+  <!-- Laptop body corner visible above sleeve top opening -->
+  <rect x="72" y="10" width="105" height="30" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <!-- Laptop screen bezel hint -->
+  <rect x="78" y="14" width="93" height="20" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Screen glow -->
+  <rect x="81" y="16" width="87" height="16" rx="2" ry="2" fill="#dff3fd" stroke="none"/>
+  <!-- Sleeve padding stitch lines -->
+  <rect x="65" y="38" width="135" height="158" rx="8" ry="8" fill="none" stroke="#90a7d6" stroke-width="3.56" stroke-dasharray="7,5"/>
+</g></svg>

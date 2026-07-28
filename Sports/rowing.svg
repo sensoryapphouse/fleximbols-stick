@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.18) translate(-256.00 -300.00)">
+<!-- water -->
+<rect x="70" y="452" width="372" height="46" rx="0" fill="#bfe0f0"/>
+<path d="M 70 452 q 30 -10 60 0 q 30 10 60 0 q 30 -10 60 0 q 30 10 60 0 q 30 -10 60 0 q 30 10 12 0" fill="none" stroke="#7ec8f0" stroke-width="3"/>
+<!-- oars: hands out to each side, blades down in water -->
+<line x1="222" y1="332" x2="176" y2="348" stroke="#39425c" stroke-width="13" stroke-linecap="round"/>
+<line x1="290" y1="332" x2="336" y2="348" stroke="#39425c" stroke-width="13" stroke-linecap="round"/>
+<circle cx="176" cy="348" r="9" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="336" cy="348" r="9" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="3"/>
+<line x1="176" y1="348" x2="108" y2="420" stroke="#6b4a2b" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="108" cy="420" rx="12" ry="24" fill="#caa46a" stroke="#1a1a1a" stroke-width="3"/>
+<line x1="336" y1="348" x2="404" y2="420" stroke="#6b4a2b" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="404" cy="420" rx="12" ry="24" fill="#caa46a" stroke="#1a1a1a" stroke-width="3"/>
+<!-- torso -->
+<polygon points="224,222 288,222 284,336 228,336" fill="#4a90d9" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- neck -->
+<line x1="256" y1="222" x2="256" y2="190" stroke="#f5d6b0" stroke-width="15" stroke-linecap="round"/>
+<!-- head -->
+<circle id="h1" data-fig="ma" class="skin" cx="256" cy="150" r="40" fill="#f5d6b0" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 216 150 Q 216 100 256 100 Q 296 100 296 150 Q 256 122 216 150 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- boat hull (in front of lower torso) -->
+<path d="M 96 372 Q 256 440 416 372 L 388 446 Q 256 500 124 446 Z" fill="#b5742f" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 96 372 Q 256 420 416 372" fill="none" stroke="#7a4a24" stroke-width="4" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -250)">
+<!-- main rotor -->
+<line x1="96" y1="150" x2="416" y2="150" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<circle cx="256" cy="150" r="11" fill="#1a1a1a"/>
+<line x1="256" y1="150" x2="256" y2="190" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<!-- fuselage (white) with green tail -->
+<path d="M 96 300 Q 60 300 66 256 Q 74 200 168 196 L 360 210 Q 400 214 408 240 L 452 248 L 452 268 L 404 274 Q 392 300 320 300 Z" fill="#f3f6f9" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- green band along belly -->
+<path d="M 96 300 Q 70 300 70 282 L 404 282 Q 396 300 320 300 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="70" y1="282" x2="404" y2="282" stroke="#1a1a1a" stroke-width="5"/>
+<!-- cockpit window -->
+<path d="M 100 290 Q 78 290 82 258 Q 88 218 150 214 L 168 214 L 168 282 L 100 282 Z" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- red cross on side -->
+<rect x="240" y="232" width="44" height="16" fill="#e23c3c" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="254" y="218" width="16" height="44" fill="#e23c3c" stroke="#1a1a1a" stroke-width="0"/>
+<!-- blue light on nose -->
+<circle cx="86" cy="276" r="9" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="5"/>
+<!-- tail rotor -->
+<path d="M 430 250 L 466 214 L 478 230 L 452 264 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<line x1="470" y1="198" x2="470" y2="262" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="470" cy="230" r="7" fill="#1a1a1a"/>
+<!-- skids -->
+<line x1="150" y1="336" x2="330" y2="336" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+<line x1="176" y1="300" x2="196" y2="336" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="300" y1="300" x2="286" y2="336" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</g></svg>

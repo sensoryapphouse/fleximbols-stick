@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- camel in profile, the dorsal HUMP highlighted -->
+<!-- legs -->
+<rect x="178" y="338" width="26" height="92" rx="12" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="226" y="338" width="26" height="92" rx="12" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="300" y="338" width="26" height="92" rx="12" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="348" y="338" width="26" height="92" rx="12" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="9"/>
+<!-- tail -->
+<path d="M 386 300 q 26 8 22 48" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- neck + head (left) -->
+<path d="M 168 318 Q 132 300 118 234 Q 112 196 138 184 Q 162 192 160 232 Q 162 280 196 312 Z" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<path d="M 138 184 Q 96 178 92 206 Q 92 226 124 230 Q 150 226 152 204 Q 152 188 138 184 Z" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="100" cy="214" rx="6" ry="9" fill="#1a1a1a"/>
+<circle cx="128" cy="200" r="6" fill="#1a1a1a"/>
+<!-- ear -->
+<path d="M 142 182 q 6 -18 22 -14 q -4 14 -14 20 Z" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- body (greyed-out so the hump stands out) -->
+<ellipse cx="288" cy="318" rx="118" ry="62" fill="#cfd3d8" stroke="#1a1a1a" stroke-width="9"/>
+<!-- THE HUMP (highlighted) -->
+<path d="M 214 300 Q 240 196 300 196 Q 360 196 386 300 Q 320 268 214 300 Z" fill="#e0a85a" stroke="#ff7a18" stroke-width="13" stroke-linejoin="round"/>
+</svg>

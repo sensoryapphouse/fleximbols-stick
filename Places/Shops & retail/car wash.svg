@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Ground / pavement -->
+  <rect x="0" y="210" width="290" height="30" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Car wash bay building -->
+  <!-- Side walls -->
+  <rect x="18" y="68" width="28" height="145" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="244" y="68" width="28" height="145" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Roof -->
+  <rect x="10" y="52" width="270" height="24" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Roof stripe -->
+  <rect x="10" y="52" width="270" height="8" rx="4" fill="#90a7d6" stroke="none"/>
+  <!-- Bay opening arch hint -->
+  <rect x="46" y="68" width="198" height="10" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Car inside bay -->
+  <!-- Car body -->
+  <rect x="60" y="152" width="170" height="52" rx="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Car roof -->
+  <path d="M 88,152 Q 98,124 152,120 Q 210,120 222,152 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Windscreen -->
+  <path d="M 98,152 Q 106,134 152,130 Q 200,130 204,152 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Rear window -->
+  <path d="M 88,152 Q 92,138 112,133 Q 96,140 98,152 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wheels -->
+  <circle cx="96" cy="206" r="16" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="96" cy="206" r="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="194" cy="206" r="16" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="194" cy="206" r="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Water spray arcs over car — top left -->
+  <path d="M 46,90 Q 60,78 72,94" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 52,100 Q 62,86 76,100" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Water spray arcs — top centre -->
+  <path d="M 108,82 Q 122,68 136,82" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 130,82 Q 144,68 158,82" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 152,82 Q 166,68 180,82" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Water spray arcs — top right -->
+  <path d="M 214,90 Q 228,76 242,90" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M 208,100 Q 224,86 238,100" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Foam bubbles -->
+  <circle cx="80" cy="120" r="9" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+  <circle cx="108" cy="110" r="7" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+  <circle cx="150" cy="106" r="10" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+  <circle cx="192" cy="110" r="7" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+  <circle cx="218" cy="120" r="9" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+  <circle cx="88" cy="136" r="6" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+  <circle cx="130" cy="126" r="7" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+  <circle cx="172" cy="126" r="7" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+  <circle cx="210" cy="136" r="6" fill="#ffffff" stroke="#2a4ec0" stroke-width="4.45"/>
+</g></svg>

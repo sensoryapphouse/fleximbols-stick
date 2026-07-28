@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Compact phone -->
+  <rect x="90" y="22" width="110" height="196" rx="14" ry="14" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Screen -->
+  <rect x="100" y="38" width="90" height="164" rx="6" ry="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Three feed cards -->
+  <rect x="106" y="46" width="78" height="44" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="106" y="97" width="78" height="44" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="106" y="148" width="78" height="44" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bar content in cards 1 and 3 -->
+  <rect x="112" y="56" width="38" height="7" rx="3" fill="#b8b8b8"/>
+  <rect x="112" y="68" width="28" height="7" rx="3" fill="#b8b8b8"/>
+  <rect x="112" y="157" width="38" height="7" rx="3" fill="#b8b8b8"/>
+  <rect x="112" y="169" width="28" height="7" rx="3" fill="#b8b8b8"/>
+  <!-- Target / star on highlighted middle card -->
+  <circle cx="145" cy="119" r="16" fill="none" stroke="#f8130d" stroke-width="5.55"/>
+  <circle cx="145" cy="119" r="8" fill="none" stroke="#f8130d" stroke-width="4.45"/>
+  <circle cx="145" cy="119" r="3" fill="#f8130d"/>
+  <!-- Star points -->
+  <line x1="145" y1="100" x2="145" y2="95" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="138" x2="145" y2="143" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="126" y1="119" x2="121" y2="119" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="164" y1="119" x2="169" y2="119" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

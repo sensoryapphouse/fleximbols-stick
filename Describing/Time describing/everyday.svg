@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="56.24 49.42 399.52 399.52" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- everyday: full calendar with every single day ticked = happens every day -->
+<g>
+<!-- hangers -->
+<line x1="160" y1="78"  x2="160" y2="120" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="352" y1="78"  x2="352" y2="120" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- body -->
+<rect x="92" y="100" width="328" height="320" rx="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- header band -->
+<path d="M 92 142 L 420 142 L 420 118 Q 420 100 402 100 L 110 100 Q 92 100 92 118 Z" fill="#e7584f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- grid of days, every cell holds a small tick -->
+<g>
+<!-- horizontal/vertical separators -->
+<g stroke="#cfd6dc" stroke-width="5">
+<line x1="92" y1="212" x2="420" y2="212"/>
+<line x1="92" y1="282" x2="420" y2="282"/>
+<line x1="92" y1="352" x2="420" y2="352"/>
+<line x1="174" y1="142" x2="174" y2="420"/>
+<line x1="256" y1="142" x2="256" y2="420"/>
+<line x1="338" y1="142" x2="338" y2="420"/>
+</g>
+<!-- ticks in every cell (4 cols x 4 rows) -->
+<g fill="none" stroke="#2f9e4a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="116,182 128,196 152,166"/>
+<polyline points="198,182 210,196 234,166"/>
+<polyline points="280,182 292,196 316,166"/>
+<polyline points="362,182 374,196 398,166"/>
+<polyline points="116,252 128,266 152,236"/>
+<polyline points="198,252 210,266 234,236"/>
+<polyline points="280,252 292,266 316,236"/>
+<polyline points="362,252 374,266 398,236"/>
+<polyline points="116,322 128,336 152,306"/>
+<polyline points="198,322 210,336 234,306"/>
+<polyline points="280,322 292,336 316,306"/>
+<polyline points="362,322 374,336 398,306"/>
+<polyline points="116,392 128,406 152,376"/>
+<polyline points="198,392 210,406 234,376"/>
+<polyline points="280,392 292,406 316,376"/>
+<polyline points="362,392 374,406 398,376"/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- lollipop-flat: flat round lollipop on stick + plain colour + wrapper -->
+  <!-- Stick -->
+  <rect x="141" y="135" width="8" height="95" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wrapper twist - left -->
+  <path d="M 95,90 Q 80,80 72,90 Q 78,100 88,100 Q 82,110 74,118 Q 88,120 100,108 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wrapper twist - right -->
+  <path d="M 195,90 Q 210,80 218,90 Q 212,100 202,100 Q 208,110 216,118 Q 202,120 190,108 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lollipop disc (flat, plain colour) -->
+  <circle cx="145" cy="100" r="60" fill="#d01424" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Subtle inner ring to suggest flat disc -->
+  <circle cx="145" cy="100" r="48" fill="none" stroke="#f8130d" stroke-width="2.96"/>
+  <!-- Highlight gloss -->
+  <path d="M 115,75 Q 130,65 150,68" fill="none" stroke="#f4a4b2" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
+<defs>
+  <linearGradient id="cylG" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#3a6ab6"/>
+    <stop offset="35%" stop-color="#7aaae8"/>
+    <stop offset="65%" stop-color="#7aaae8"/>
+    <stop offset="100%" stop-color="#3a6ab6"/>
+  </linearGradient>
+</defs>
+<path d="M55 60 L55 195 A90 25 0 0 0 235 195 L235 60 Z" fill="url(#cylG)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="145" cy="60" rx="90" ry="25" fill="#a8c8f0" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="125" cy="50" rx="32" ry="10" fill="#ffffff" opacity="0.5"/>
+<path d="M55 195 A90 25 0 0 1 235 195" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5 4" opacity="0.6"/>
+</svg>

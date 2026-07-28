@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="44.26 30.60 428.61 428.61">
+<!-- classic donkey-style pinata, simplified, hanging -->
+<!-- hanging string -->
+<line x1="256" y1="56" x2="252" y2="194" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- body -->
+<ellipse cx="248" cy="280" rx="120" ry="92" fill="#3fae5a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- head (upper right) -->
+<circle cx="350" cy="220" r="58" fill="#f0b400" stroke="#1a1a1a" stroke-width="9"/>
+<!-- ear -->
+<path d="M 360 168 Q 372 120 396 150 Q 392 184 360 184 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- snout -->
+<ellipse cx="392" cy="236" rx="26" ry="22" fill="#f08a24" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="400" cy="232" r="5" fill="#1a1a1a"/>
+<!-- eye -->
+<circle cx="356" cy="206" r="8" fill="#1a1a1a"/>
+<!-- four legs with fringe -->
+<polygon points="168,326 198,326 194,394 191,416 186,398 181,416 176,398 172,416 172,394" fill="#3f6fb0" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="224,326 254,326 250,394 247,416 242,398 237,416 232,398 228,416 228,394" fill="#e0559e" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="280,326 310,326 306,394 303,416 298,398 293,416 288,398 284,416 284,394" fill="#3f6fb0" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="326,326 356,326 352,394 349,416 344,398 339,416 334,398 330,416 330,394" fill="#e0559e" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- frilly fringe rows across the body (decorative paper) -->
+<path d="M 140 252 q 18 16 36 0 q 18 16 36 0 q 18 16 36 0 q 18 16 36 0 q 18 16 36 0 q 18 16 36 0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 134 296 q 18 16 36 0 q 18 16 36 0 q 18 16 36 0 q 18 16 36 0 q 18 16 36 0 q 18 16 36 0" fill="none" stroke="#fff6cf" stroke-width="7"/>
+<!-- tail fringe -->
+<path d="M 128 268 Q 96 280 100 320" fill="none" stroke="#e23c3c" stroke-width="10" stroke-linecap="round"/>
+</svg>

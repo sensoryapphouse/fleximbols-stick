@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="86.50 42.12 407.27 407.27"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- open book -->
+<path d="M 256 168 C 196 150 144 152 116 164 L 116 384 C 144 372 196 370 256 388 C 316 370 368 372 396 384 L 396 164 C 368 152 316 150 256 168 Z" fill="#4a6fb0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 168 C 196 150 146 152 130 162 L 130 372 C 146 362 196 360 256 376 Z" fill="#fdfcf8" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 256 168 C 316 150 366 152 382 162 L 382 372 C 366 362 316 360 256 376 Z" fill="#fdfcf8" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<line x1="256" y1="168" x2="256" y2="376" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- left page lines -->
+<line x1="158" y1="210" x2="226" y2="206" stroke="#9aa7b3" stroke-width="7" stroke-linecap="round"/>
+<line x1="158" y1="240" x2="226" y2="236" stroke="#9aa7b3" stroke-width="7" stroke-linecap="round"/>
+<line x1="158" y1="270" x2="210" y2="266" stroke="#9aa7b3" stroke-width="7" stroke-linecap="round"/>
+<!-- right page: a few lines then a big full-stop (the end) -->
+<line x1="286" y1="210" x2="354" y2="208" stroke="#9aa7b3" stroke-width="7" stroke-linecap="round"/>
+<line x1="286" y1="240" x2="338" y2="238" stroke="#9aa7b3" stroke-width="7" stroke-linecap="round"/>
+<circle cx="300" cy="300" r="15" fill="#1a1a1a"/>
+<!-- checkered finish flag rising from the book = ending -->
+<line x1="372" y1="118" x2="362" y2="312" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
+<rect x="372" y="104" width="92" height="64" rx="4" fill="#fdfcf8" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="372" y="104" width="23" height="21" fill="#1a1a1a"/>
+<rect x="418" y="104" width="23" height="21" fill="#1a1a1a"/>
+<rect x="395" y="125" width="23" height="22" fill="#1a1a1a"/>
+<rect x="441" y="125" width="23" height="22" fill="#1a1a1a"/>
+<rect x="372" y="147" width="23" height="21" fill="#1a1a1a"/>
+<rect x="418" y="147" width="23" height="21" fill="#1a1a1a"/>
+<rect x="372" y="104" width="92" height="64" rx="4" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

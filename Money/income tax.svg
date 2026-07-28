@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- paycheck (back) -->
+  <rect x="25" y="30" width="170" height="100" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="25" y="30" width="170" height="22" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- "INCOME" letters as path on paycheck header -->
+  <!-- I -->
+  <path d="M 35 38 L 43 38 M 39 38 L 39 48 M 35 48 L 43 48" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- N -->
+  <path d="M 50 48 L 50 38 L 60 48 L 60 38" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- C -->
+  <path d="M 75 39 a 5 5 0 1 0 0 8" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <ellipse cx="86" cy="43" rx="4" ry="5" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- M -->
+  <path d="M 95 48 L 95 38 L 100 45 L 105 38 L 105 48" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M 118 38 L 112 38 L 112 48 L 118 48 M 112 43 L 117 43" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- payee line -->
+  <rect x="35" y="62" width="105" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- amount box -->
+  <rect x="35" y="85" width="105" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- $ on paycheck -->
+  <path d="M 87 92 L 87 96 a 7 4 0 0 0 -7 4 a 7 4 0 0 0 7 4 a 7 4 0 0 1 7 4 a 7 4 0 0 1 -7 4 L 87 112 M 80 99 L 80 109" fill="none" stroke="#137827" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- arrow (deduction) from paycheck to tax form -->
+  <path d="M 155 95 L 200 130 L 195 122 M 200 130 L 192 132" fill="none" stroke="#d01424" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- minus sign showing deduction -->
+  <rect x="155" y="65" width="22" height="8" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- tax form (front) -->
+  <rect x="155" y="115" width="115" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="155" y="115" width="115" height="20" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="163" y="143" width="98" height="9" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="163" y="157" width="98" height="9" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="163" y="171" width="60" height="9" fill="#efefef" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="163" y="188" width="98" height="28" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M 213 196 L 213 200 a 7 4 0 0 0 -7 4 a 7 4 0 0 0 7 4 a 7 4 0 0 1 7 4 a 7 4 0 0 1 -7 4 L 213 216 M 206 203 L 206 213" fill="none" stroke="#137827" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Lateral flow cassette body -->
+  <rect x="55" y="80" width="180" height="110" rx="12" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Cassette top surface recess -->
+  <rect x="65" y="90" width="160" height="90" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Sample well (left, where swab goes in) -->
+  <ellipse cx="95" cy="135" rx="20" ry="20" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Well inner circle -->
+  <ellipse cx="95" cy="135" rx="12" ry="12" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Well label S -->
+  <!-- (no text allowed — use a small drop icon instead) -->
+  <path d="M95 128 Q100 133 95 140 Q90 133 95 128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" stroke-linejoin="round"/>
+
+  <!-- Result window (right portion) -->
+  <rect x="128" y="100" width="88" height="70" rx="7" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+
+  <!-- C line (control) - always present, solid -->
+  <line x1="138" y1="122" x2="206" y2="122" stroke="#f8130d" stroke-width="7.77" stroke-linecap="round"/>
+  <!-- C label zone marker (small tick mark above) -->
+  <line x1="172" y1="114" x2="172" y2="120" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- T line (test) - present (positive result shown) -->
+  <line x1="138" y1="148" x2="206" y2="148" stroke="#f8130d" stroke-width="7.77" stroke-linecap="round"/>
+  <!-- T label zone marker -->
+  <line x1="172" y1="140" x2="172" y2="146" stroke="#4d4d4d" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Short swab (distinctive vs PCR long swab) -->
+  <!-- Swab stick -->
+  <rect x="68" y="22" width="7" height="90" rx="3" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Swab handle (top) -->
+  <rect x="60" y="20" width="23" height="16" rx="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Swab tip (fluffy, bottom) -->
+  <ellipse cx="71" cy="112" rx="12" ry="10" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="71" cy="106" rx="10" ry="8" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="71" cy="100" rx="8" ry="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Arrow from swab tip toward sample well -->
+  <line x1="85" y1="118" x2="108" y2="128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="108,121 116,131 105,135" fill="#000000"/>
+
+  <!-- Cassette brand strip at bottom -->
+  <rect x="65" y="170" width="160" height="8" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

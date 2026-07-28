@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Water band -->
+  <rect x="0" y="185" width="290" height="40" fill="#dff3fd" stroke="none"/>
+  <line x1="0" y1="185" x2="290" y2="185" stroke="#2a4ec0" stroke-width="4.45"/>
+  <path d="M5 196 Q40 188 75 196 Q110 204 145 196 Q180 188 215 196 Q248 204 285 196" stroke="#2a4ec0" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <!-- Flat-bottomed hull -->
+  <path d="M30 185 Q35 168 50 163 L240 163 Q255 168 260 185 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Interior -->
+  <path d="M45 180 Q48 168 55 165 L235 165 Q242 168 245 180 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Rounded woven canopy/shelter amidships - cane/bamboo arched cover -->
+  <!-- Canopy arch supports -->
+  <path d="M100 163 Q100 130 145 125 Q190 130 190 163" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Canopy woven texture - horizontal bands -->
+  <path d="M103 153 Q145 148 187 153" stroke="#9d7246" stroke-width="2.96" fill="none"/>
+  <path d="M104 143 Q145 137 186 143" stroke="#9d7246" stroke-width="2.96" fill="none"/>
+  <path d="M107 133 Q145 127 183 133" stroke="#9d7246" stroke-width="2.96" fill="none"/>
+  <!-- Canopy side panels -->
+  <line x1="100" y1="163" x2="100" y2="153" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="190" y1="163" x2="190" y2="153" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Stern oar -->
+  <line x1="248" y1="163" x2="275" y2="130" stroke="#9d7246" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Oar blade -->
+  <path d="M270 125 Q280 118 282 128 Q278 134 270 132 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Figure suggestion - simple oarsman at stern -->
+  <ellipse cx="240" cy="158" rx="8" ry="9" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M232 165 Q235 175 240 175 Q245 175 248 165" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

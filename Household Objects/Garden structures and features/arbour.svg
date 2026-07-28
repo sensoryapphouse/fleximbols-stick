@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Arbor: small archway entrance with climbing roses/plants -->
+  <!-- Vertical posts -->
+  <rect x="70" y="105" width="14" height="125" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="206" y="105" width="14" height="125" rx="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Arched top structure -->
+  <path d="M70,110 Q70,45 145,45 Q220,45 220,110" fill="none" stroke="#9d7246" stroke-width="20.73" stroke-linecap="round"/>
+  <!-- Inner arch detail -->
+  <path d="M80,112 Q80,58 145,58 Q210,58 210,112" fill="none" stroke="#7d5e23" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Climbing vines left side -->
+  <path d="M73,220 Q60,195 68,170 Q78,145 65,120" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M68,170 Q55,163 58,150" fill="none" stroke="#529929" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M65,145 Q52,137 57,125" fill="none" stroke="#529929" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Leaves left -->
+  <ellipse cx="57" cy="149" rx="8" ry="5" fill="#529929" transform="rotate(-35,57,149)" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="56" cy="124" rx="7" ry="5" fill="#67832d" transform="rotate(25,56,124)" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="67" cy="200" rx="7" ry="5" fill="#529929" transform="rotate(-20,67,200)" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Climbing vines right side -->
+  <path d="M217,220 Q230,192 222,165 Q212,138 225,112" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M222,165 Q237,156 234,143" fill="none" stroke="#529929" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Leaves right -->
+  <ellipse cx="234" cy="142" rx="8" ry="5" fill="#529929" transform="rotate(35,234,142)" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="224" cy="110" rx="7" ry="5" fill="#67832d" transform="rotate(-20,224,110)" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Vines across arch top -->
+  <path d="M72,95 Q110,55 145,52 Q180,55 218,95" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M100,68 Q115,52 130,50" fill="none" stroke="#529929" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M190,68 Q175,52 160,50" fill="none" stroke="#529929" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Rose blooms on arch -->
+  <circle cx="100" cy="66" r="7" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="102" cy="64" r="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="66" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="192" cy="64" r="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="50" r="8" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="48" r="5" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Leaf clusters on arch -->
+  <ellipse cx="120" cy="55" rx="9" ry="6" fill="#529929" transform="rotate(-20,120,55)" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="170" cy="55" rx="9" ry="6" fill="#67832d" transform="rotate(20,170,55)" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

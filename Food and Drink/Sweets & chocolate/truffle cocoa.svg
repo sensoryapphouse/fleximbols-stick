@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- truffle-cocoa: round chocolate truffle ball coated in cocoa powder, visible matte dusty surface (clearly dusted vs shiny) -->
+  <!-- Truffle ball base -->
+  <circle cx="145" cy="130" r="90" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cocoa powder coating layer - uneven matte dusty texture -->
+  <circle cx="145" cy="130" r="88" fill="#7d5e23" stroke="none"/>
+  <!-- Matte dusty powder patches - irregular coverage suggesting dusty coating -->
+  <path d="M 80,100 Q 100,86 125,90 Q 115,105 90,108 Z" fill="#9d7246" stroke="none"/>
+  <path d="M 140,66 Q 165,58 185,70 Q 172,82 150,78 Z" fill="#9d7246" stroke="none"/>
+  <path d="M 185,100 Q 205,90 220,105 Q 210,118 195,112 Z" fill="#9d7246" stroke="none"/>
+  <path d="M 70,140 Q 58,155 65,170 Q 78,162 84,148 Z" fill="#9d7246" stroke="none"/>
+  <path d="M 200,150 Q 218,158 220,175 Q 206,172 198,160 Z" fill="#9d7246" stroke="none"/>
+  <path d="M 100,170 Q 120,178 135,195 Q 118,198 105,188 Z" fill="#9d7246" stroke="none"/>
+  <path d="M 160,185 Q 180,185 195,200 Q 180,206 168,198 Z" fill="#9d7246" stroke="none"/>
+  <!-- Fine cocoa dust specks - scattered dots to emphasise powder coating -->
+  <circle cx="106" cy="82" r="2.5" fill="#9d7246" stroke="none"/>
+  <circle cx="130" cy="72" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="160" cy="68" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="190" cy="80" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="214" cy="105" r="2.5" fill="#9d7246" stroke="none"/>
+  <circle cx="222" cy="130" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="72" cy="118" r="2.5" fill="#9d7246" stroke="none"/>
+  <circle cx="62" cy="145" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="68" cy="168" r="2.5" fill="#9d7246" stroke="none"/>
+  <circle cx="90" cy="190" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="155" cy="204" r="2.5" fill="#9d7246" stroke="none"/>
+  <circle cx="210" cy="178" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="140" cy="90" r="2" fill="#9d7246" stroke="none"/>
+  <circle cx="175" cy="100" r="2.5" fill="#9d7246" stroke="none"/>
+  <circle cx="95" cy="135" r="2" fill="#9d7246" stroke="none"/>
+  <!-- More dust falling/settled around base -->
+  <path d="M 90,215 Q 145,222 200,215" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Loose powder dust at base -->
+  <ellipse cx="145" cy="218" rx="55" ry="7" fill="#9d7246" stroke="none"/>
+  <circle cx="100" cy="218" r="4" fill="#9d7246" stroke="none"/>
+  <circle cx="190" cy="220" r="3" fill="#9d7246" stroke="none"/>
+  <circle cx="118" cy="222" r="3.5" fill="#9d7246" stroke="none"/>
+  <circle cx="168" cy="222" r="3" fill="#9d7246" stroke="none"/>
+  <!-- Matte surface has NO gloss highlight (contrast with truffle-chocolate) -->
+  <!-- Subtle darker indent at top to show round form -->
+  <path d="M 118,68 Q 145,62 172,68" fill="none" stroke="#5e1f0a" stroke-width="3.56" stroke-linecap="round"/>
+</g></svg>

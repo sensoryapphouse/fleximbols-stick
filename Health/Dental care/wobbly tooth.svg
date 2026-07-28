@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="101.82 107.79 308.36 308.36">
+<!-- wobbly / loose tooth: tilted tooth with motion arcs either side -->
+<g transform="rotate(14 256 270)">
+<path d="M 196 250 Q 184 142 256 128 Q 328 142 316 250 L 302 250 Q 296 348 274 388 Q 258 408 252 356 Q 246 326 240 356 Q 234 408 218 388 Q 200 348 196 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 150 L 256 232 M 220 174 Q 256 196 292 174" fill="none" stroke="#cfd6dc" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- wobble motion arcs -->
+<path d="M 150 200 Q 130 240 150 290" fill="none" stroke="#4a90d9" stroke-width="8" stroke-linecap="round"/>
+<path d="M 362 200 Q 382 240 362 290" fill="none" stroke="#4a90d9" stroke-width="8" stroke-linecap="round"/>
+</svg>

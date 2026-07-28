@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- diamond crystal on left -->
+  <!-- diamond table top -->
+  <path d="M55 70 L125 70 L110 90 L70 90 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- diamond crown / pavilion converging to point -->
+  <path d="M55 70 L70 90 L90 175 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M70 90 L110 90 L90 175 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M110 90 L125 70 L90 175 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- shine highlight -->
+  <path d="M78 78 L88 78 L83 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+
+  <!-- divider gap implied by spacing -->
+
+  <!-- pencil with graphite tip on right (point down) -->
+  <!-- wooden barrel -->
+  <rect x="180" y="55" width="50" height="115" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ferrule band -->
+  <rect x="180" y="40" width="50" height="15" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pink eraser -->
+  <rect x="180" y="22" width="50" height="18" rx="4" ry="4" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- wood cone at tip -->
+  <path d="M180 170 L230 170 L215 195 L195 195 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- graphite tip (black) -->
+  <path d="M195 195 L215 195 L205 215 Z" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- pencil shaft accent line -->
+  <path d="M205 55 L205 170" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

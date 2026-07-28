@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Italian sub: long hoagie roll with layered Italian deli meats + provolone + lettuce + tomato + Italian-flag accent -->
+
+  <!-- Sub roll bottom half (long oval) -->
+  <path d="M22,204 Q22,228 145,228 Q268,228 268,204 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="14.82" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22,204 Q28,190 145,188 Q262,190 268,204 L268,216 Q262,206 145,206 Q28,206 22,216 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="11.86" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sesame seeds on bottom roll -->
+  <ellipse cx="72" cy="200" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56" transform="rotate(-15,72,200)"/>
+  <ellipse cx="100" cy="197" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56" transform="rotate(10,100,197)"/>
+  <ellipse cx="145" cy="196" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56"/>
+  <ellipse cx="190" cy="197" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56" transform="rotate(-10,190,197)"/>
+  <ellipse cx="218" cy="200" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56" transform="rotate(15,218,200)"/>
+
+  <!-- Lettuce frills spilling out the bottom -->
+  <path d="M24,178 Q34,165 46,173 Q58,160 70,168 Q84,156 98,165 Q110,154 124,163 Q136,153 150,162 Q162,153 176,162 Q188,155 202,164 Q214,157 228,166 Q240,160 254,170 Q264,165 266,176 L266,188 Q264,178 254,180 Q240,172 228,177 Q214,170 202,175 Q188,168 176,173 Q162,166 150,172 Q136,165 124,172 Q110,166 98,172 Q84,167 70,172 Q58,175 46,178 Q34,180 24,183 Z" fill="#529929" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Tomato slices (red rounds) -->
+  <ellipse cx="90" cy="162" rx="32" ry="11" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="90" y1="151" x2="90" y2="173" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="58" y1="162" x2="122" y2="162" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <ellipse cx="200" cy="158" rx="32" ry="11" fill="#d01424" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="200" y1="147" x2="200" y2="169" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="168" y1="158" x2="232" y2="158" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Provolone cheese slices (pale yellow, round) -->
+  <ellipse cx="120" cy="150" rx="38" ry="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="170" cy="146" rx="38" ry="12" fill="#f2e40d" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Italian deli meats (overlapping layers: salami / capicola / mortadella) -->
+  <!-- Salami round (dark red with fat dots) -->
+  <ellipse cx="80" cy="138" rx="40" ry="13" fill="#d01424" stroke="#1a1a1a" stroke-width="10.37" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="68" cy="136" r="3" fill="#f4a4b2" stroke="none"/>
+  <circle cx="82" cy="132" r="3" fill="#f4a4b2" stroke="none"/>
+  <circle cx="96" cy="136" r="3" fill="#f4a4b2" stroke="none"/>
+  <circle cx="76" cy="143" r="2.5" fill="#f4a4b2" stroke="none"/>
+  <circle cx="92" cy="143" r="2.5" fill="#f4a4b2" stroke="none"/>
+  <!-- Capicola (pink, marbled) -->
+  <ellipse cx="145" cy="133" rx="46" ry="13" fill="#e6b98a" stroke="#1a1a1a" stroke-width="10.37" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112,128 Q126,124 140,128 Q152,123 168,127" fill="none" stroke="#9d7246" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M120,134 Q136,130 152,134" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Mortadella (pink with fat pistachios) -->
+  <ellipse cx="210" cy="136" rx="42" ry="13" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="10.37" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="198" cy="133" r="3" fill="#529929" stroke="#137827" stroke-width="3.56"/>
+  <circle cx="214" cy="130" r="3" fill="#529929" stroke="#137827" stroke-width="3.56"/>
+  <circle cx="226" cy="134" r="3" fill="#529929" stroke="#137827" stroke-width="3.56"/>
+  <circle cx="206" cy="141" r="2.5" fill="#529929" stroke="#137827" stroke-width="3.56"/>
+
+  <!-- Sub roll top half -->
+  <path d="M22,118 Q28,100 145,96 Q262,100 268,118 L268,136 Q262,124 145,122 Q28,124 22,136 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="14.82" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sesame seeds on top roll -->
+  <ellipse cx="72" cy="104" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56" transform="rotate(-15,72,104)"/>
+  <ellipse cx="100" cy="102" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56" transform="rotate(10,100,102)"/>
+  <ellipse cx="145" cy="100" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56"/>
+  <ellipse cx="190" cy="102" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56" transform="rotate(-10,190,102)"/>
+  <ellipse cx="218" cy="104" rx="4" ry="2" fill="#eed5b6" stroke="#7d5e23" stroke-width="3.56" transform="rotate(15,218,104)"/>
+
+  <!-- Italian flag accent (small, top-left area) -->
+  <!-- Flag stick -->
+  <line x1="52" y1="48" x2="52" y2="80" stroke="#7d5e23" stroke-width="7.41" stroke-linecap="round"/>
+  <!-- Italian flag: green | white | red (3 vertical stripes) -->
+  <rect x="52" y="48" width="11" height="20" fill="#529929" stroke="none"/>
+  <rect x="63" y="48" width="11" height="20" fill="#ffffff" stroke="none"/>
+  <rect x="74" y="48" width="11" height="20" fill="#d01424" stroke="none"/>
+  <rect x="52" y="48" width="33" height="20" rx="2" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
+</g></svg>

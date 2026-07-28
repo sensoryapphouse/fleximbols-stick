@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- fabric softener: curvy bottle, wide dosing cap, flower on label -->
+<!-- bottle body (rounded, wider at base) -->
+<path d="M 178 230 Q 168 210 196 196 L 316 196 Q 344 210 334 230 Q 360 300 352 360 Q 350 414 308 414 L 204 414 Q 162 414 160 360 Q 152 300 178 230 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- neck -->
+<rect x="226" y="166" width="60" height="34" rx="8" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9"/>
+<!-- wide dosing cap -->
+<rect x="212" y="118" width="88" height="52" rx="12" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9"/>
+<!-- label panel -->
+<rect x="194" y="262" width="124" height="112" rx="14" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- soft flower on label -->
+<g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+<circle cx="256" cy="296" r="14" fill="#e85a8a"/>
+<circle cx="256" cy="338" r="14" fill="#e85a8a"/>
+<circle cx="234" cy="317" r="14" fill="#e85a8a"/>
+<circle cx="278" cy="317" r="14" fill="#e85a8a"/>
+</g>
+<circle cx="256" cy="317" r="11" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

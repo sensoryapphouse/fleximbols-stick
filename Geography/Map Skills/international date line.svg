@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Globe -->
+  <circle cx="115" cy="125" r="95" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- Pacific (mostly blue, sparse landmasses on edges) -->
+  <path d="M 30 110 Q 50 95 70 105 Q 80 120 65 130 Q 45 132 30 122 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 170 100 Q 195 95 200 110 Q 195 125 175 125 Q 165 115 170 100 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 35 170 Q 55 165 65 175 Q 60 185 40 182 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Equator -->
+  <ellipse cx="115" cy="125" rx="95" ry="6" fill="none" stroke="#ffffff" stroke-width="2.96"/>
+  <!-- Zigzag 180 deg International Date Line through Pacific (centre) -->
+  <path d="M 115 32 L 100 60 L 125 88 L 105 115 L 130 142 L 110 168 L 125 195 L 115 218" fill="none" stroke="#f8130d" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Clock-change motif upper right: two small clocks with arrow -->
+  <circle cx="220" cy="55" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="220" y1="55" x2="220" y2="38" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="220" y1="55" x2="232" y2="55" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="220" cy="55" r="2" fill="#000000"/>
+  <circle cx="220" cy="35" r="2" fill="#000000"/>
+  <circle cx="240" cy="55" r="2" fill="#000000"/>
+  <circle cx="200" cy="55" r="2" fill="#000000"/>
+  <circle cx="220" cy="75" r="2" fill="#000000"/>
+  <!-- Curved arrow between clocks (day change) -->
+  <path d="M 250 75 Q 265 90 250 105" fill="none" stroke="#f8130d" stroke-width="5.93" stroke-linecap="round"/>
+  <polygon points="250,105 244,98 256,97" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Second clock -->
+  <circle cx="265" cy="125" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="265" y1="125" x2="265" y2="108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="265" y1="125" x2="277" y2="125" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="265" cy="125" r="2" fill="#000000"/>
+  <circle cx="265" cy="105" r="2" fill="#000000"/>
+  <circle cx="285" cy="125" r="2" fill="#000000"/>
+  <circle cx="245" cy="125" r="2" fill="#000000"/>
+  <circle cx="265" cy="145" r="2" fill="#000000"/>
+</g></svg>

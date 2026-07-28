@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Rotting fruit (apple shape, mostly brown) -->
+  <path d="M145 52 Q105 47 88 83 Q72 118 82 155 Q92 192 115 207 Q130 216 145 211 Q160 216 175 207 Q198 192 208 155 Q218 118 202 83 Q185 47 145 52 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Apple indent top -->
+  <path d="M133 55 Q145 42 157 55" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Stem (shrivelled) -->
+  <path d="M145 45 Q144 32 148 26" fill="none" stroke="#5e1f0a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Mould patches: green-brown blobs -->
+  <ellipse cx="112" cy="115" rx="22" ry="16" fill="#67832d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="175" cy="145" rx="18" ry="14" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="130" cy="170" rx="20" ry="13" fill="#67832d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Brown/dark rot patch -->
+  <ellipse cx="165" cy="90" rx="16" ry="12" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mould fuzz dots -->
+  <circle cx="108" cy="110" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="120" cy="120" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="172" cy="140" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="182" cy="152" r="3" fill="#137827" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Stink/smell wavy lines upper right -->
+  <path d="M210 55 Q220 48 215 40 Q210 32 220 25" fill="none" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M222 60 Q232 53 227 45 Q222 37 232 30" fill="none" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Fly 1 -->
+  <ellipse cx="192" cy="55" rx="7" ry="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="186" cy="50" rx="7" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 186 50)"/>
+  <ellipse cx="198" cy="50" rx="7" ry="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 198 50)"/>
+  <path d="M187 59 L182 64 M192 60 L190 66 M197 59 L202 64" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Fly 2 -->
+  <ellipse cx="100" cy="75" rx="6" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="94" cy="71" rx="6" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 94 71)"/>
+  <ellipse cx="106" cy="71" rx="6" ry="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 106 71)"/>
+  <path d="M95 79 L90 84 M100 80 L98 86 M105 79 L110 84" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

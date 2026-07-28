@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pilsner: tall slender flared glass, pale gold beer, white head -->
+  <!-- Glass body (trapezoid, narrow at bottom, wider at top) -->
+  <polygon points="100,210 190,210 175,55 115,55" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Beer head (white foam at top) -->
+  <ellipse cx="145" cy="55" rx="30" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <rect x="115" y="45" width="60" height="18" rx="5" fill="#ffffff" stroke="none"/>
+  <ellipse cx="145" cy="45" rx="30" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Foam bumps on top -->
+  <circle cx="125" cy="43" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="40" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="43" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Glass outline over liquid - left and right sides and bottom -->
+  <polygon points="100,210 190,210 175,55 115,55" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bubble 1 -->
+  <circle cx="138" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Bubble 2 -->
+  <circle cx="155" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Bubble 3 -->
+  <circle cx="143" cy="90" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Base bottom line -->
+  <line x1="95" y1="210" x2="195" y2="210" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+</g></svg>

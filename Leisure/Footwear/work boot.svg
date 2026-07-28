@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- thick rugged sole -->
+  <path d="M 30 195 L 30 180 Q 30 170 45 170 L 235 170 Q 255 170 258 180 L 258 195 Q 258 205 248 205 L 40 205 Q 30 205 30 195 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sole tread blocks -->
+  <path d="M 50 195 L 50 205 M 80 195 L 80 205 M 110 195 L 110 205 M 140 195 L 140 205 M 170 195 L 170 205 M 200 195 L 200 205 M 230 195 L 230 205" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- boot upper, ankle support high -->
+  <path d="M 50 170 L 50 60 Q 50 45 65 45 L 120 45 Q 135 45 138 60 L 145 110 Q 150 130 175 135 L 230 150 Q 250 155 250 170 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- ankle cuff band -->
+  <path d="M 50 60 Q 95 50 138 60" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- laces row -->
+  <circle cx="70" cy="80" r="3" fill="#000000"/>
+  <circle cx="120" cy="80" r="3" fill="#000000"/>
+  <circle cx="72" cy="100" r="3" fill="#000000"/>
+  <circle cx="122" cy="100" r="3" fill="#000000"/>
+  <circle cx="76" cy="120" r="3" fill="#000000"/>
+  <circle cx="126" cy="120" r="3" fill="#000000"/>
+  <path d="M 70 80 L 120 80 M 72 100 L 122 100 M 76 120 L 126 120 M 70 80 L 122 100 M 120 80 L 72 100 M 72 100 L 126 120 M 122 100 L 76 120" stroke="#eed5b6" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- tongue -->
+  <path d="M 88 70 L 108 70 L 110 135 L 86 135 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- toe stitch -->
+  <path d="M 175 140 Q 200 145 220 155" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- 'WORK' badge as path letters (no text element) -->
+  <!-- W -->
+  <path d="M 165 75 L 168 95 L 172 82 L 176 95 L 179 75" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <circle cx="190" cy="85" r="8" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- R -->
+  <path d="M 204 95 L 204 75 L 213 75 Q 218 75 218 80 Q 218 85 213 85 L 204 85 L 218 95" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- K -->
+  <path d="M 226 75 L 226 95 M 226 85 L 236 75 M 226 85 L 236 95" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

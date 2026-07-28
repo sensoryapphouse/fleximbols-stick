@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="58.18 39.41 395.64 395.64"><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- a sparkling jewelled tiara = glamorous -->
+<g transform="translate(256 270)">
+<!-- band -->
+<path d="M -150 40 Q 0 70 150 40 L 150 66 Q 0 96 -150 66 Z" fill="#ffd23f" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- peaks of the crown -->
+<path d="M -150 44 L -150 -40 L -86 26 L -28 -76 L 0 24 L 28 -76 L 86 26 L 150 -40 L 150 44 Q 0 74 -150 44 Z" fill="#ffe27a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- jewels on the peak tips -->
+<circle cx="-28" cy="-76" r="14" fill="#e0473c" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="28" cy="-76" r="14" fill="#46b9d6" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="-150" cy="-40" r="12" fill="#7fd86a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="150" cy="-40" r="12" fill="#7fd86a" stroke="#1a1a1a" stroke-width="6"/>
+<!-- centre big gem -->
+<polygon points="0,4 -26,24 0,58 26,24" fill="#c44ad6" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</g>
+<!-- sparkles -->
+<g fill="#ffd23f" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+<polygon points="110,150 117,168 135,174 117,180 110,198 103,180 85,174 103,168"/>
+<polygon points="404,158 410,176 428,182 410,188 404,206 398,188 380,182 398,176"/>
+<polygon points="256,120 262,136 278,142 262,148 256,164 250,148 234,142 250,136"/>
+</g>
+</svg>

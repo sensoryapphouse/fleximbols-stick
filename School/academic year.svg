@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Calendar base -->
+  <rect x="22" y="36" width="158" height="150" rx="8" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Header band -->
+  <rect x="22" y="36" width="158" height="34" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="22" y="54" width="158" height="16" fill="#2a4ec0" stroke="none"/>
+  <!-- Ring pegs -->
+  <circle cx="72" cy="36" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="122" cy="36" r="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Calendar grid lines -->
+  <line x1="22" y1="90" x2="180" y2="90" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="22" y1="115" x2="180" y2="115" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="22" y1="140" x2="180" y2="140" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="60" y1="70" x2="60" y2="186" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="100" y1="70" x2="100" y2="186" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="140" y1="70" x2="140" y2="186" stroke="#b8b8b8" stroke-width="2.22"/>
+  <!-- Graduation cap (mortarboard) -->
+  <!-- Board top -->
+  <polygon points="230,96 186,116 230,136 274,116" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Cap head cylinder -->
+  <path d="M210,116 L210,146 Q210,154 230,154 Q250,154 250,146 L250,116" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tassel string -->
+  <line x1="274" y1="116" x2="274" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Tassel end -->
+  <circle cx="274" cy="154" r="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Pencil below -->
+  <!-- Pencil body -->
+  <rect x="32" y="158" width="100" height="18" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pencil tip -->
+  <polygon points="132,158 152,167 132,176" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pencil tip graphite -->
+  <polygon points="148,167 152,167 150,167" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Pencil eraser end -->
+  <rect x="22" y="158" width="14" height="18" rx="3" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pencil wood tip detail -->
+  <line x1="132" y1="158" x2="132" y2="176" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Pencil line detail -->
+  <line x1="36" y1="167" x2="128" y2="167" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

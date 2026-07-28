@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- mixer tap spout -->
+<rect x="244" y="118" width="24" height="42" rx="6" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 256 120 q 0 -30 -28 -30 l 0 18 q 10 0 10 12 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="222" cy="86" rx="9" ry="6" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="5"/>
+<!-- two tap handles (hot / cold) on the basin top -->
+<line x1="200" y1="186" x2="200" y2="160" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<circle cx="200" cy="154" r="13" fill="#d94a45" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="312" y1="186" x2="312" y2="160" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<circle cx="312" cy="154" r="13" fill="#4a90d9" stroke="#1a1a1a" stroke-width="6"/>
+<!-- basin bowl: wide rounded trapezoid -->
+<path d="M 120 196 L 392 196 L 356 320 Q 348 350 314 350 L 198 350 Q 164 350 156 320 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 152 216 L 360 216 L 334 312 Q 330 330 312 330 L 200 330 Q 182 330 178 312 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<!-- inner rim line + basin top edge -->
+<path d="M 152 216 L 360 216" fill="none" stroke="#9aa0a6" stroke-width="4" stroke-linecap="round"/>
+<line x1="120" y1="196" x2="392" y2="196" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- overflow hole -->
+<ellipse cx="256" cy="236" rx="14" ry="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="4"/>
+<!-- plughole with cross grate -->
+<ellipse cx="256" cy="300" rx="22" ry="10" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="234" y1="300" x2="278" y2="300" stroke="#1a1a1a" stroke-width="3"/>
+<line x1="256" y1="291" x2="256" y2="309" stroke="#1a1a1a" stroke-width="3"/>
+<!-- pedestal -->
+<path d="M 228 350 L 284 350 L 296 430 L 216 430 Z" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 244 352 L 268 352 L 274 426 L 238 426 Z" fill="none" stroke="#cfd6dc" stroke-width="5" stroke-linejoin="round"/>
+<line x1="210" y1="430" x2="302" y2="430" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

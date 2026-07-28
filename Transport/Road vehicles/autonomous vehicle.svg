@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Car body lower -->
+  <rect x="25" y="145" width="240" height="65" rx="12" ry="12" fill="#90a7d6" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Car cabin upper -->
+  <path d="M70 145 Q85 100 115 90 L175 90 Q205 100 220 145 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Windscreen -->
+  <path d="M85 145 Q97 108 118 100 L172 100 Q193 108 205 145 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Windows -->
+  <path d="M88 140 Q98 112 118 104 L172 104 Q192 112 202 140 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- LIDAR sensor on roof -->
+  <rect x="125" y="78" width="40" height="16" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="133" y="68" width="24" height="14" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="145" cy="72" r="5" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Signal waves from LIDAR (arc lines) -->
+  <path d="M125 60 Q145 45 165 60" fill="none" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M115 50 Q145 30 175 50" fill="none" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M105 40 Q145 15 185 40" fill="none" stroke="#2a4ec0" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Door line -->
+  <line x1="145" y1="148" x2="145" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Door handle -->
+  <rect x="152" y="172" width="18" height="6" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Wheels -->
+  <circle cx="72" cy="210" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="72" cy="210" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="218" cy="210" r="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="218" cy="210" r="10" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Headlight -->
+  <rect x="28" y="158" width="22" height="14" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Tail light -->
+  <rect x="240" y="158" width="22" height="14" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

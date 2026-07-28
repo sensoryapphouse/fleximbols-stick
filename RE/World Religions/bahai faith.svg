@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- temple silhouette (Lotus Temple style dome) -->
+  <path d="M60 200 L60 165 Q60 130 95 120 Q90 100 110 95 Q105 75 145 70 Q185 75 180 95 Q200 100 195 120 Q230 130 230 165 L230 200 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- temple base steps -->
+  <rect x="50" y="200" width="190" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="40" y="214" width="210" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- dome divisions (petals) -->
+  <path d="M95 120 Q120 145 110 200" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M145 70 L145 200" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M195 120 Q170 145 180 200" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- 9-pointed star -->
+  <polygon points="145,15 152,32 170,30 159,44 173,56 156,58 158,76 145,65 132,76 134,58 117,56 131,44 120,30 138,32" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- Greatest Name calligraphy stylised swirl on dome -->
+  <path d="M125 150 Q145 135 165 150 Q160 165 145 160 Q130 165 125 150 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M135 158 L155 158" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

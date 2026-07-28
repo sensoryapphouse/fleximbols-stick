@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Document page -->
+  <rect x="60" y="22" width="170" height="196" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Folded corner top-right -->
+  <path d="M198 22 l32 32 l-32 0 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Document body lines (legal text) -->
+  <line x1="78" y1="68" x2="220" y2="68" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="78" y1="84" x2="220" y2="84" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="78" y1="100" x2="200" y2="100" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="78" y1="116" x2="210" y2="116" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Broken/torn heart in centre of document -->
+  <!-- Left half of heart -->
+  <path d="M145 138 c-2-10 -20-10 -20 0 c0 10 20 22 20 22" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Right half of heart -->
+  <path d="M145 138 c2-10 20-10 20 0 c0 10 -20 22 -20 22" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Tear/crack line down middle -->
+  <path d="M145 128 l-4 10 l6 6 l-5 8 l4 8" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small gap between halves showing break -->
+  <line x1="143" y1="138" x2="147" y2="138" stroke="#ffffff" stroke-width="6.66" stroke-linecap="round"/>
+  <line x1="141" y1="148" x2="149" y2="148" stroke="#ffffff" stroke-width="6.66" stroke-linecap="round"/>
+
+  <!-- Signature line 1 (left) with squiggle -->
+  <line x1="78" y1="182" x2="148" y2="182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M78 178 q8 -7 14 0 q8 7 14 0 q8 -7 12 0" fill="none" stroke="#4d4d4d" stroke-width="3.89" stroke-linecap="round"/>
+
+  <!-- Signature line 2 (right) with squiggle -->
+  <line x1="158" y1="182" x2="222" y2="182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M158 178 q8 -7 14 0 q8 7 14 0 q8 -7 10 0" fill="none" stroke="#4d4d4d" stroke-width="3.89" stroke-linecap="round"/>
+
+  <!-- Dividing vertical line between signature areas -->
+  <line x1="152" y1="174" x2="152" y2="186" stroke="#7f7f7f" stroke-width="3.33" stroke-linecap="round"/>
+
+  <!-- Left signature small icon (figure walking away left) -->
+  <!-- Head -->
+  <circle cx="42" cy="170" r="10" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Body -->
+  <rect x="35" y="182" width="14" height="22" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Legs walking -->
+  <line x1="35" y1="202" x2="30" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="49" y1="202" x2="52" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Arrow walking left -->
+  <path d="M28 190 l-12 0" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="18,190 26,185 26,195" fill="#000000"/>
+
+  <!-- Right signature small icon (figure walking away right) -->
+  <!-- Head -->
+  <circle cx="248" cy="170" r="10" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Body -->
+  <rect x="241" y="182" width="14" height="22" rx="4" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Legs walking -->
+  <line x1="241" y1="202" x2="238" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="255" y1="202" x2="258" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Arrow walking right -->
+<path d="M260 190 l12 0" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <polygon points="272,190 264,185 264,195" fill="#000000"/>
+</g></svg>

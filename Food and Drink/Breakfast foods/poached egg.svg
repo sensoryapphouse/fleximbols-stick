@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Plate -->
+  <ellipse cx="145" cy="202" rx="118" ry="20" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 27,190 Q 27,218 145,222 Q 263,218 263,190 Q 263,174 145,170 Q 27,174 27,190 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="170" rx="118" ry="20" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- POACHED EGG white - irregular ragged edges, soft irregular blob -->
+  <path d="M 145,80 Q 168,72 188,82 Q 208,88 214,108 Q 222,126 216,144 Q 212,158 200,164 Q 184,172 168,170 Q 154,172 140,170 Q 122,168 108,162 Q 90,152 82,136 Q 74,118 80,100 Q 86,84 102,78 Q 118,72 145,80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ragged irregular edge bumps on white to indicate soft poached texture -->
+  <path d="M 145,80 Q 155,70 165,76 Q 175,68 185,78 Q 192,72 198,82 Q 208,82 214,92 Q 220,100 218,112 Q 226,118 222,130 Q 220,140 214,148 Q 214,158 204,164 Q 196,170 186,172 Q 178,178 166,172 Q 154,176 142,172 Q 130,174 120,168 Q 108,170 100,162 Q 90,158 84,148 Q 76,138 76,126 Q 68,114 76,102 Q 78,90 86,84 Q 92,76 104,76 Q 112,70 124,74 Q 134,72 145,80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Inner white - slightly warm tint for poached texture -->
+  <path d="M 145,90 Q 162,82 178,92 Q 198,100 202,120 Q 206,142 192,156 Q 174,168 152,164 Q 128,162 112,150 Q 94,136 96,114 Q 98,94 118,84 Q 130,80 145,90 Z" fill="#f5e7c4" stroke="none"/>
+  <!-- RUNNY GOLDEN YOLK center -->
+  <circle cx="148" cy="128" r="34" fill="#ff9900" stroke="#1a1a1a" stroke-width="3.55"/>
+  <!-- Yolk highlight -->
+  <circle cx="137" cy="117" r="10" fill="#f7de58" stroke="none"/>
+  <!-- Yolk inner darker center -->
+  <circle cx="148" cy="128" r="18" fill="#e65a00" stroke="none"/>
+  <circle cx="142" cy="122" r="6" fill="#ff9900" stroke="none"/>
+</g></svg>

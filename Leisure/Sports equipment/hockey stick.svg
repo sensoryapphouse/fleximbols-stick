@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ice hockey stick: long shaft with angled flat blade at bottom -->
+  <!-- shaft (diagonal from top-right down to lower-left) -->
+  <path d="M 240 22 L 258 22 L 110 195 L 92 195 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round"/>
+  <!-- wood grain -->
+  <line x1="245" y1="30" x2="100" y2="195" stroke="#7d5e23" stroke-width="4.45"/>
+  <line x1="252" y1="30" x2="106" y2="195" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- tape wrap on grip end (top) -->
+  <path d="M 230 22 L 258 22 L 240 44 L 218 44 Z" fill="#000000" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <line x1="226" y1="30" x2="252" y2="30" stroke="#4d4d4d" stroke-width="3.56"/>
+  <line x1="222" y1="38" x2="248" y2="38" stroke="#4d4d4d" stroke-width="3.56"/>
+  <!-- blade (angled flat paddle at bottom) -->
+  <path d="M 110 195 L 92 195 L 35 210 Q 28 213 32 220 L 38 224 Q 44 225 52 222 L 105 215 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round"/>
+  <!-- tape on blade -->
+  <path d="M 55 210 L 95 200 L 100 209 L 60 219 Z" fill="#000000" stroke="#1a1a1a" stroke-width="5.93"/>
+  <line x1="60" y1="215" x2="95" y2="206" stroke="#4d4d4d" stroke-width="3.56"/>
+</g></svg>

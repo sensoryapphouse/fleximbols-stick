@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1349) translate(-255.00 -258.50)">
+<!-- ground line -->
+<line x1="120" y1="452" x2="392" y2="452" stroke="#7a5a32" stroke-width="7" stroke-linecap="round"/>
+<!-- legs -->
+<line x1="236" y1="318" x2="226" y2="446" stroke="#5b6b4a" stroke-width="17" stroke-linecap="round"/>
+<line x1="276" y1="318" x2="286" y2="446" stroke="#5b6b4a" stroke-width="17" stroke-linecap="round"/>
+<ellipse cx="224" cy="450" rx="14" ry="7" fill="#4a3320"/>
+<ellipse cx="288" cy="450" rx="14" ry="7" fill="#4a3320"/>
+<!-- LEFT arm reaching down to the hoe handle -->
+<line x1="222" y1="214" x2="178" y2="330" stroke="#6a8a4a" stroke-width="15" stroke-linecap="round"/>
+<circle cx="176" cy="334" r="11" fill="#f2c9a0" stroke="#1a1a1a" stroke-width="4"/>
+<!-- RIGHT arm up holding the wheat sheaf -->
+<line x1="290" y1="214" x2="330" y2="150" stroke="#6a8a4a" stroke-width="15" stroke-linecap="round"/>
+<circle cx="332" cy="146" r="11" fill="#f2c9a0" stroke="#1a1a1a" stroke-width="4"/>
+<!-- TUNIC (brighter earthy green) -->
+<path d="M 214 206 Q 256 192 298 206 L 300 322 Q 256 334 212 322 Z" fill="#6a8a4a" stroke="#4a6432" stroke-width="6" stroke-linejoin="round"/>
+<!-- belt -->
+<rect x="212" y="300" width="88" height="12" rx="3" fill="#7a4a25" stroke="#5a3418" stroke-width="3"/>
+<!-- collar -->
+<path d="M 226 206 Q 256 222 286 206 L 280 224 Q 256 234 232 224 Z" fill="#557040" stroke="#4a6432" stroke-width="3" stroke-linejoin="round"/>
+<!-- head -->
+<circle cx="256" cy="158" r="42" fill="#f2c9a0" stroke="#1a1a1a" stroke-width="6"/>
+<!-- friendly face -->
+<circle cx="242" cy="158" r="3.4" fill="#1a1a1a"/>
+<circle cx="270" cy="158" r="3.4" fill="#1a1a1a"/>
+<path d="M 242 176 q 14 12 28 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<!-- SOFT CAP (coif/hat), warm tan, rounded -->
+<path d="M 214 150 Q 210 108 256 104 Q 302 108 298 150 Q 256 132 214 150 Z" fill="#c98a3a" stroke="#9b6a26" stroke-width="5" stroke-linejoin="round"/>
+<!-- little turned-up brim -->
+<path d="M 212 150 Q 256 162 300 150 L 300 158 Q 256 170 212 158 Z" fill="#b5792e" stroke="#9b6a26" stroke-width="3" stroke-linejoin="round"/>
+<!-- ===== HOE: handle angled down to the ground, blade biting the soil ===== -->
+<line x1="176" y1="334" x2="150" y2="442" stroke="#8a5a2a" stroke-width="10" stroke-linecap="round"/>
+<!-- hoe head: horizontal blade -->
+<rect x="124" y="436" width="52" height="16" rx="3" fill="#9aa1ab" stroke="#6f757e" stroke-width="4"/>
+<!-- socket joining blade to handle -->
+<rect x="146" y="426" width="12" height="16" rx="2" fill="#7f868f" stroke="#6f757e" stroke-width="3"/>
+<!-- turned soil mound where the hoe works -->
+<path d="M 116 452 Q 150 438 188 452 Z" fill="#7a5a32" stroke="#5a3a1f" stroke-width="3" stroke-linejoin="round"/>
+<!-- ===== WHEAT SHEAF held aloft in right hand ===== -->
+<g transform="translate(338 110)">
+<!-- bound stalks -->
+<line x1="-10" y1="40" x2="-14" y2="-6" stroke="#caa24a" stroke-width="5" stroke-linecap="round"/>
+<line x1="0" y1="42" x2="0" y2="-10" stroke="#caa24a" stroke-width="5" stroke-linecap="round"/>
+<line x1="10" y1="40" x2="14" y2="-6" stroke="#caa24a" stroke-width="5" stroke-linecap="round"/>
+<!-- binding tie -->
+<rect x="-13" y="28" width="26" height="9" rx="3" fill="#9b6a26" stroke="#7a5018" stroke-width="2"/>
+<!-- grain heads -->
+<g fill="#e3b23c" stroke="#b07d1e" stroke-width="2">
+<ellipse cx="-14" cy="-14" rx="8" ry="15"/>
+<ellipse cx="0" cy="-20" rx="8" ry="16"/>
+<ellipse cx="14" cy="-14" rx="8" ry="15"/>
+</g>
+<!-- awns -->
+<line x1="0" y1="-36" x2="0" y2="-48" stroke="#e3b23c" stroke-width="3" stroke-linecap="round"/>
+<line x1="-14" y1="-29" x2="-18" y2="-40" stroke="#e3b23c" stroke-width="3" stroke-linecap="round"/>
+<line x1="14" y1="-29" x2="18" y2="-40" stroke="#e3b23c" stroke-width="3" stroke-linecap="round"/>
+</g>
+</g></svg>

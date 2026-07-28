@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bat: flat wooden blade + narrow handle, leaning diagonally -->
+  <!-- handle (narrow) -->
+  <path d="M200,30 L220,40 L175,110 L160,100 Z"
+        fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- handle grip wrap -->
+  <path d="M195,35 L218,46 M188,48 L213,60 M180,62 L203,73 M173,77 L195,88 M165,92 L188,102"
+        fill="none" stroke="#f8130d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- splice between handle and blade -->
+  <path d="M160,100 L175,110 L165,125 L150,115 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- blade (flat wide wood) -->
+  <path d="M150,115 L165,125 L100,215 L65,195 Z"
+        fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- wood grain lines -->
+  <path d="M140,130 L88,210 M130,123 L78,205 M120,118 L70,200 M155,135 L105,212"
+        fill="none" stroke="#9d7246" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- bat edge highlight -->
+  <path d="M150,115 L165,125 L102,213 L98,210 Z" fill="#e6b98a" stroke="none"/>
+  <!-- cricket ball (red) -->
+  <circle cx="210" cy="185" r="22" fill="#d01424" stroke="#1a1a1a" stroke-width="6.22"/>
+  <!-- white stitched seam -->
+  <path d="M190,182 Q210,168 230,182" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M192,183 L195,178 M200,180 L203,175 M210,179 L213,174 M220,180 L223,175 M228,182 L225,177"
+        fill="none" stroke="#ffffff" stroke-width="2.67" stroke-linecap="round"/>
+  <!-- ball highlight -->
+  <circle cx="202" cy="178" r="3.5" fill="#f8130d" stroke="none"/>
+</g></svg>

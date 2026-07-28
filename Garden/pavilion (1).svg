@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pavilion: large rectangular open roofed structure with columns -->
+  <!-- Floor platform -->
+  <rect x="38" y="198" width="214" height="14" rx="4" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="30" y="208" width="230" height="10" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Steps -->
+  <rect x="115" y="212" width="60" height="8" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="122" y="220" width="46" height="6" rx="2" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Four columns -->
+  <rect x="50" y="105" width="18" height="95" rx="6" fill="#efefef" stroke="#b8b8b8" stroke-width="2.96"/>
+  <rect x="105" y="105" width="16" height="95" rx="5" fill="#efefef" stroke="#b8b8b8" stroke-width="2.96"/>
+  <rect x="169" y="105" width="16" height="95" rx="5" fill="#efefef" stroke="#b8b8b8" stroke-width="2.96"/>
+  <rect x="222" y="105" width="18" height="95" rx="6" fill="#efefef" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- Column capitals -->
+  <rect x="46" y="100" width="26" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="101" y="100" width="24" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="165" y="100" width="24" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="218" y="100" width="26" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Entablature / frieze -->
+  <rect x="38" y="82" width="214" height="20" rx="4" fill="#efefef" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- Roof - triangular pediment front -->
+  <polygon points="38,82 145,38 252,82" fill="#dff3fd" stroke="#90a7d6" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pediment detail line -->
+  <polygon points="55,82 145,48 235,82" fill="none" stroke="#90a7d6" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Horizontal roof surface -->
+  <rect x="38" y="78" width="214" height="8" rx="3" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Roof ridge -->
+  <line x1="38" y1="78" x2="252" y2="78" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Decorative dentils on entablature -->
+  <rect x="60" y="84" width="8" height="12" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="80" y="84" width="8" height="12" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="100" y="84" width="8" height="12" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="120" y="84" width="8" height="12" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="84" width="8" height="12" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="84" width="8" height="12" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="180" y="84" width="8" height="12" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="84" width="8" height="12" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="220" y="84" width="8" height="12" rx="1" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

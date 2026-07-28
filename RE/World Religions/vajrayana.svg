@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- mandala pattern background -->
+  <circle cx="220" cy="80" r="55" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="80" r="40" fill="#ff9900" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="220" cy="80" r="25" fill="#e65a00" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="220" cy="80" r="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="220" y1="25" x2="220" y2="135" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="165" y1="80" x2="275" y2="80" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="180" y1="40" x2="260" y2="120" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="260" y1="40" x2="180" y2="120" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- vajra (thunderbolt sceptre) diagonal -->
+  <rect x="60" y="130" width="80" height="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 100 137)"/>
+  <!-- left vajra prongs cluster -->
+  <g transform="rotate(-25 100 137)">
+    <circle cx="60" cy="137" r="11" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M30 120 L60 137 L30 154 L42 137 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M30 110 L55 130" fill="none" stroke="#e65a00" stroke-width="8.88" stroke-linecap="round"/>
+    <path d="M30 164 L55 144" fill="none" stroke="#e65a00" stroke-width="8.88" stroke-linecap="round"/>
+    <!-- right prongs -->
+    <circle cx="140" cy="137" r="11" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+    <path d="M170 120 L140 137 L170 154 L158 137 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <path d="M170 110 L145 130" fill="none" stroke="#e65a00" stroke-width="8.88" stroke-linecap="round"/>
+    <path d="M170 164 L145 144" fill="none" stroke="#e65a00" stroke-width="8.88" stroke-linecap="round"/>
+  </g>
+  <!-- bell -->
+  <path d="M70 175 Q70 160 100 160 Q130 160 130 175 L125 215 L75 215 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="93" y="148" width="14" height="14" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="89" y="142" width="22" height="8" fill="#e65a00" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="100" cy="215" rx="28" ry="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="100" y1="180" x2="100" y2="210" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="100" cy="212" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

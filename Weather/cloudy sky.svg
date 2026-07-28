@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Sky panel with blue gaps -->
+  <rect x="26" y="32" width="238" height="176" rx="18" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Cloud 1 (left-center) -->
+  <circle cx="80" cy="110" r="32" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="112" cy="96" r="28" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="140" cy="104" r="30" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="80" y="104" width="90" height="40" fill="#efefef"/>
+  <!-- Cloud 1 base clean line -->
+  <line x1="80" y1="144" x2="170" y2="144" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="80" y1="104" x2="80" y2="144" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="170" y1="108" x2="170" y2="144" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cloud 2 (right) -->
+  <circle cx="185" cy="85" r="26" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="213" cy="78" r="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="236" cy="90" r="24" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="185" y="88" width="75" height="34" fill="#b8b8b8"/>
+  <line x1="185" y1="122" x2="260" y2="122" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="185" y1="90" x2="185" y2="122" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="260" y1="94" x2="260" y2="122" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cloud 3 (left, lower) -->
+  <circle cx="44" cy="148" r="24" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="68" cy="138" r="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="146" r="20" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="44" y="148" width="66" height="28" fill="#b8b8b8"/>
+  <line x1="44" y1="176" x2="110" y2="176" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="44" y1="150" x2="44" y2="176" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="110" y1="152" x2="110" y2="176" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

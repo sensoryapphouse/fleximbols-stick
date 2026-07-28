@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Paella pan handles -->
+  <rect x="15" y="130" width="32" height="12" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="243" y="130" width="32" height="12" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Pan body shadow -->
+  <ellipse cx="145" cy="190" rx="120" ry="22" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Wide shallow pan body -->
+  <ellipse cx="145" cy="180" rx="120" ry="22" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pan rim interior top -->
+  <ellipse cx="145" cy="148" rx="108" ry="18" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Pan side walls -->
+  <path d="M37 148 L37 180 Q145 202 253 180 L253 148 Q145 166 37 148 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Saffron rice — yellow fill of pan interior -->
+  <ellipse cx="145" cy="148" rx="105" ry="17" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Rice texture dots/grains -->
+  <ellipse cx="105" cy="145" rx="4" ry="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="125" cy="140" rx="4" ry="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="138" rx="4" ry="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="165" cy="140" rx="4" ry="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="185" cy="145" rx="4" ry="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="115" cy="151" rx="4" ry="2" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="155" cy="153" rx="4" ry="2" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="175" cy="151" rx="4" ry="2" fill="#fff200" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Shrimp (pink curved) -->
+  <path d="M95 143 Q88 135 96 128 Q104 121 108 130 Q112 139 102 143 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M185 140 Q178 132 186 125 Q194 118 198 127 Q202 136 192 140 Z" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Mussels (dark oval shapes) -->
+  <ellipse cx="130" cy="133" rx="10" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <ellipse cx="160" cy="133" rx="10" ry="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Mussel opening hint -->
+  <line x1="130" y1="126" x2="130" y2="140" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="160" y1="126" x2="160" y2="140" stroke="#b8b8b8" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Peas (green dots) -->
+  <circle cx="115" cy="158" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="158" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="160" r="6" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lemon wedge -->
+  <path d="M210 130 Q225 122 232 135 Q225 148 210 143 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="210" y1="130" x2="210" y2="143" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Red pepper strip -->
+  <path d="M80 148 Q85 140 95 148 Q90 155 80 148 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

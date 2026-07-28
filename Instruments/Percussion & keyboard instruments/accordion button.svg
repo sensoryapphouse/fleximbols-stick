@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Accordion button: LEFT button board + bellows + RIGHT button board (no piano keys) -->
+  <!-- LEFT bass button board -->
+  <rect x="18" y="48" width="72" height="144" rx="8" ry="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Left button rows (3 cols x 5 rows) -->
+  <circle cx="36" cy="74" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="58" cy="74" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="36" cy="98" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="58" cy="98" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="36" cy="122" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="58" cy="122" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="36" cy="146" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="58" cy="146" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="36" cy="170" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="58" cy="170" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Third column offset (staggered like real accordion) -->
+  <circle cx="76" cy="86" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="76" cy="110" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="76" cy="134" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="76" cy="158" r="7" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- BELLOWS (pleated, centre) -->
+  <polygon points="92,48 132,48 132,192 92,192" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pleat fold lines -->
+  <line x1="92" y1="72" x2="132" y2="72" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="86" x2="92" y2="86" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="92" y1="100" x2="132" y2="100" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="114" x2="92" y2="114" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="92" y1="128" x2="132" y2="128" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="142" x2="92" y2="142" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="92" y1="156" x2="132" y2="156" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="132" y1="170" x2="92" y2="170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Bellows shading triangles -->
+  <polygon points="92,48 132,48 132,62" fill="#67832d" stroke="none"/>
+  <polygon points="92,72 132,72 92,86" fill="#67832d" stroke="none"/>
+  <polygon points="132,86 132,100 92,100" fill="#67832d" stroke="none"/>
+  <polygon points="92,100 132,100 92,114" fill="#67832d" stroke="none"/>
+  <polygon points="132,114 132,128 92,128" fill="#67832d" stroke="none"/>
+  <polygon points="92,128 132,128 92,142" fill="#67832d" stroke="none"/>
+  <polygon points="132,142 132,156 92,156" fill="#67832d" stroke="none"/>
+  <polygon points="92,156 132,156 92,170" fill="#67832d" stroke="none"/>
+  <!-- RIGHT treble button board -->
+  <rect x="132" y="48" width="142" height="144" rx="8" ry="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Right treble buttons (4 cols x 5 rows, staggered) -->
+  <circle cx="155" cy="74" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="183" cy="74" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="211" cy="74" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="239" cy="74" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="102" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="183" cy="102" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="211" cy="102" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="239" cy="102" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="130" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="183" cy="130" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="211" cy="130" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="239" cy="130" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="158" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="183" cy="158" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="211" cy="158" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="239" cy="158" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Staggered offset row -->
+  <circle cx="169" cy="88" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="197" cy="88" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="88" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="169" cy="116" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="197" cy="116" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="116" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="169" cy="144" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="197" cy="144" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="144" r="7" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

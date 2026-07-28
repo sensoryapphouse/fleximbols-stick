@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Black outline underlay for the strand -->
+  <path d="M 28 100 Q 55 72 82 100 Q 109 128 136 100 Q 163 72 190 100 Q 217 128 244 100 Q 258 86 262 80" fill="none" stroke="#1a1a1a" stroke-width="22.21" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Main wavy tinsel strand -->
+  <path d="M 28 100 Q 55 72 82 100 Q 109 128 136 100 Q 163 72 190 100 Q 217 128 244 100 Q 258 86 262 80" fill="none" stroke="#b8b8b8" stroke-width="14.81" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Second strand (offset, drape illusion) -->
+  <path d="M 28 112 Q 55 84 82 112 Q 109 140 136 112 Q 163 84 190 112 Q 217 140 244 112 Q 258 98 262 92" fill="none" stroke="#efefef" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Third strand (shadow) -->
+  <path d="M 28 108 Q 55 80 82 108 Q 109 136 136 108 Q 163 80 190 108 Q 217 136 244 108 Q 258 94 262 88" fill="none" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sparkle flecks along tinsel - small star shapes -->
+  <!-- Peak 1 (~82,100) -->
+  <line x1="82" y1="88" x2="82" y2="78" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="77" y1="83" x2="87" y2="83" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="78" y1="79" x2="86" y2="87" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="86" y1="79" x2="78" y2="87" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Peak 2 (~136,100) -->
+  <line x1="136" y1="88" x2="136" y2="78" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="131" y1="83" x2="141" y2="83" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="79" x2="140" y2="87" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="140" y1="79" x2="132" y2="87" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Peak 3 (~190,100) -->
+  <line x1="190" y1="88" x2="190" y2="78" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="185" y1="83" x2="195" y2="83" stroke="#f7de58" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="186" y1="79" x2="194" y2="87" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="194" y1="79" x2="186" y2="87" stroke="#f7de58" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Trough sparkles -->
+  <line x1="55" y1="118" x2="55" y2="110" stroke="#f2e40d" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="51" y1="114" x2="59" y2="114" stroke="#f2e40d" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="109" y1="132" x2="109" y2="124" stroke="#f2e40d" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="105" y1="128" x2="113" y2="128" stroke="#f2e40d" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="163" y1="118" x2="163" y2="110" stroke="#f2e40d" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="159" y1="114" x2="167" y2="114" stroke="#f2e40d" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="217" y1="132" x2="217" y2="124" stroke="#f2e40d" stroke-width="3.70" stroke-linecap="round"/>
+  <line x1="213" y1="128" x2="221" y2="128" stroke="#f2e40d" stroke-width="3.70" stroke-linecap="round"/>
+  <!-- Tinsel fringe strands hanging down -->
+  <line x1="42" y1="108" x2="36" y2="138" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="55" y1="122" x2="50" y2="152" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="82" y1="108" x2="78" y2="140" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="109" y1="136" x2="104" y2="166" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="136" y1="108" x2="132" y2="140" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="163" y1="122" x2="158" y2="154" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="190" y1="108" x2="186" y2="140" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="217" y1="136" x2="212" y2="168" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="244" y1="108" x2="240" y2="138" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- crossed wooden servers behind -->
+<line x1="190" y1="120" x2="320" y2="300" stroke="#8a5a2b" stroke-width="13" stroke-linecap="round"/>
+<line x1="322" y1="120" x2="192" y2="300" stroke="#c89a5b" stroke-width="13" stroke-linecap="round"/>
+<ellipse cx="190" cy="120" rx="20" ry="13" transform="rotate(54 190 120)" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="7"/>
+<ellipse cx="322" cy="120" rx="20" ry="13" transform="rotate(-54 322 120)" fill="#c89a5b" stroke="#1a1a1a" stroke-width="7"/>
+<!-- salad greens heaped -->
+<path d="M 158 250 Q 130 195 200 192 Q 230 158 270 188 Q 320 165 326 200 Q 388 198 354 250 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="222" cy="222" r="18" fill="#d63b46" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="310" cy="226" r="16" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 252 220 Q 268 195 286 222" fill="none" stroke="#8cc152" stroke-width="6" stroke-linecap="round"/>
+<!-- large bowl -->
+<path d="M 120 238 L 392 238 Q 372 380 256 380 Q 140 380 120 238 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 120 238 L 392 238 Q 388 270 256 274 Q 124 270 120 238 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 160 320 Q 256 350 352 320" fill="none" stroke="#6b4a2b" stroke-width="6" stroke-linecap="round"/>
+</svg>

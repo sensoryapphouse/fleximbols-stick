@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Mortise chisel: heavy chunky rectangular blade, sturdy wooden handle, hooped striking end -->
+  <!-- Vertical orientation, handle at top, cutting edge at bottom -->
+
+  <!-- Wooden handle - chunky octagonal/round profile -->
+  <rect x="115" y="18" width="60" height="105" rx="8" ry="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Handle grain lines -->
+  <line x1="118" y1="40" x2="172" y2="40" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="118" y1="55" x2="172" y2="55" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="118" y1="70" x2="172" y2="70" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="118" y1="85" x2="172" y2="85" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="118" y1="100" x2="172" y2="100" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+
+  <!-- Ferrule / hoop at top of handle (metal striking ring) -->
+  <rect x="111" y="18" width="68" height="18" rx="4" ry="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Second hoop band -->
+  <rect x="111" y="38" width="68" height="10" rx="3" ry="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Ferrule at base of handle / bolster where handle meets blade -->
+  <rect x="113" y="115" width="64" height="14" rx="3" ry="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55"/>
+
+  <!-- Heavy rectangular blade - thick and chunky -->
+  <rect x="122" y="129" width="46" height="88" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Blade side bevel lines to show thickness -->
+  <line x1="122" y1="140" x2="109" y2="140" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="168" y1="140" x2="181" y2="140" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Side cheeks of thick blade -->
+  <polygon points="109,140 122,140 122,217 112,217" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="168,140 181,140 178,217 168,217" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+
+  <!-- Flat cutting edge bevel at bottom -->
+  <polygon points="112,217 178,217 172,228 118,228" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+</g></svg>

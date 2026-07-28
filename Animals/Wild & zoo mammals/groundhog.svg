@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Burrow mound / ground -->
+  <path d="M 20,210 Q 80,185 145,182 Q 210,185 265,210 L 265,230 L 20,230 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Burrow hole -->
+  <ellipse cx="145" cy="210" rx="38" ry="16" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Grass tufts -->
+  <path d="M 55,195 L 50,178 M 62,193 L 58,176 M 68,194 L 66,177" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 215,193 L 210,176 M 222,191 L 220,174 M 230,194 L 228,177" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Body (stout, sitting upright) -->
+  <path d="M 108,215 Q 105,170 110,148 Q 120,118 145,115 Q 170,118 180,148 Q 185,170 182,215 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Belly lighter fur -->
+  <ellipse cx="145" cy="175" rx="25" ry="38" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Front paws raised -->
+  <path d="M 112,170 Q 95,165 88,172 Q 84,182 92,186 Q 100,188 108,182" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 178,170 Q 195,165 202,172 Q 206,182 198,186 Q 190,188 182,182" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Paw claws left -->
+  <path d="M 88,186 L 84,192 M 92,188 L 90,194 M 96,188 L 95,194" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Paw claws right -->
+  <path d="M 198,188 L 202,194 M 202,186 L 206,192 M 194,188 L 195,194" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="105" rx="38" ry="34" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ears -->
+  <ellipse cx="118" cy="78" rx="13" ry="16" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="118" cy="78" rx="7" ry="9" fill="#5e1f0a" stroke="none"/>
+  <ellipse cx="172" cy="78" rx="13" ry="16" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="172" cy="78" rx="7" ry="9" fill="#5e1f0a" stroke="none"/>
+  <!-- Eyes -->
+  <circle cx="132" cy="102" r="6" fill="#000000"/>
+  <circle cx="134" cy="100" r="2" fill="#ffffff"/>
+  <circle cx="158" cy="102" r="6" fill="#000000"/>
+  <circle cx="160" cy="100" r="2" fill="#ffffff"/>
+  <!-- Nose -->
+  <ellipse cx="145" cy="118" rx="8" ry="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Mouth -->
+  <path d="M 139,124 Q 145,129 151,124" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <line x1="137" y1="117" x2="118" y2="112" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="137" y1="120" x2="116" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="153" y1="117" x2="172" y2="112" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="153" y1="120" x2="174" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+</g></svg>

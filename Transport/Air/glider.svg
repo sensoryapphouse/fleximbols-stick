@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- raised tail fin -->
+<path d="M 398 262 L 416 168 L 446 168 L 442 268 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- tailplane (horizontal stabiliser) -->
+<path d="M 410 256 L 470 244 L 470 264 L 414 274 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- slim fuselage with smooth pointed nose at left, long taper to tail -->
+<path d="M 50 268 Q 36 264 50 258 Q 90 244 150 244 L 392 254 Q 430 256 436 263 Q 430 270 392 272 L 150 282 Q 90 282 50 268 Z" fill="#f3f6f9" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- very long slender straight glider wing, blade extending sideways from mid-fuselage -->
+<path d="M 100 304 L 246 270 Q 258 267 258 263 Q 258 259 246 261 L 100 290 Q 86 292 86 297 Q 86 304 100 304 Z" fill="#4a90d9" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- canopy -->
+<path d="M 96 258 Q 122 232 172 250 L 178 262 L 96 264 Z" fill="#bfe3f2" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+</g></svg>

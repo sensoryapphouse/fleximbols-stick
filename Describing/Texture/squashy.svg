@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83.39 76.57 345.21 345.21">
+<!-- squashy: soft cushion being pressed down (dent on top) -->
+<path d="M 110 300
+         Q 110 250 150 240
+         Q 180 200 230 214
+         Q 256 196 282 214
+         Q 332 200 362 240
+         Q 402 250 402 300
+         Q 402 360 340 372
+         Q 256 384 172 372
+         Q 110 360 110 300 Z"
+      fill="#f2a0a0" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- press dent indicated by inward curve + finger arrow -->
+<path d="M 200 230 Q 256 280 312 230" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- downward press arrow -->
+<path d="M 247.0 120.0 L 247.0 166.0 L 236.0 166.0 L 256.0 192.0 L 276.0 166.0 L 265.0 166.0 L 265.0 120.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- highlight -->
+<ellipse cx="180" cy="290" rx="22" ry="14" fill="#f9cccc"/>
+</svg>

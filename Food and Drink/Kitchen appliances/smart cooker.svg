@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pot body -->
+  <rect x="55" y="110" width="180" height="100" rx="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pot body top rim -->
+  <rect x="48" y="105" width="194" height="16" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Control panel band -->
+  <rect x="55" y="148" width="180" height="36" rx="0" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Display -->
+  <rect x="88" y="155" width="48" height="22" rx="3" fill="#529929" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Button 1 -->
+  <circle cx="162" cy="166" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Button 2 -->
+  <circle cx="186" cy="166" r="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Domed lid -->
+  <path d="M65,110 Q145,52 225,110" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lid handle -->
+  <rect x="126" y="48" width="38" height="14" rx="7" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lid vent holes -->
+  <circle cx="135" cy="82" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="74" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="155" cy="82" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Left handle -->
+  <path d="M55,130 Q30,130 30,150 Q30,170 55,170" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Right handle -->
+  <path d="M235,130 Q260,130 260,150 Q260,170 235,170" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Wifi arc outer -->
+  <path d="M114,34 Q145,14 176,34" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Wifi arc mid -->
+  <path d="M122,40 Q145,26 168,40" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Wifi dot -->
+  <circle cx="145" cy="47" r="5" fill="#000000"/>
+</g></svg>

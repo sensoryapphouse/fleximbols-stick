@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wheelie bin body - green-grey -->
+  <path d="M68 105 L75 210 Q75 220 85 220 L205 220 Q215 220 215 210 L222 105 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bin lid - darker green-grey -->
+  <rect x="55" y="88" width="180" height="22" rx="8" ry="8" fill="#67832d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lid hinge bump -->
+  <rect x="125" y="82" width="40" height="12" rx="6" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wheel axle bar -->
+  <rect x="90" y="215" width="110" height="8" rx="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Wheels -->
+  <circle cx="105" cy="223" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="185" cy="223" r="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Glass bottle silhouette -->
+  <path d="M118 200 L116 168 L120 158 L120 148 Q120 140 128 140 Q136 140 136 148 L136 158 L140 168 L138 200 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottle neck -->
+  <rect x="122" y="138" width="12" height="12" rx="3" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottle cap -->
+  <rect x="121" y="133" width="14" height="8" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Bottle highlight -->
+  <line x1="122" y1="155" x2="122" y2="195" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Jar silhouette -->
+  <path d="M152 200 L150 162 Q150 152 162 150 Q174 152 174 162 L172 200 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Jar shoulder -->
+  <path d="M150 165 Q150 155 162 153 Q174 155 174 165" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Jar lid -->
+  <rect x="152" y="145" width="20" height="10" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Jar highlight -->
+  <line x1="155" y1="162" x2="155" y2="196" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Jar label band -->
+  <rect x="151" y="172" width="22" height="14" rx="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

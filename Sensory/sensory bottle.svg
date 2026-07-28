@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bottle body -->
+  <path d="M100 70 L90 95 Q75 115 75 150 Q75 200 145 205 Q215 200 215 150 Q215 115 200 95 L190 70 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bottle neck -->
+  <rect x="108" y="42" width="74" height="32" rx="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Cap -->
+  <rect x="110" y="28" width="70" height="20" rx="7" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Liquid level inside bottle (slightly lower than full) -->
+  <path d="M80 155 Q145 168 210 155 Q215 150 215 148 Q145 162 75 148 Q75 150 80 155 Z" fill="#3aa6a0" stroke="none"/>
+  <!-- Water fill colour -->
+  <path d="M76 155 Q145 168 214 155 L214 200 Q145 208 76 200 Z" fill="#3aa6a0" stroke="none"/>
+  <!-- Glitter/bead 1 -->
+  <circle cx="118" cy="135" r="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Glitter/bead 2 -->
+  <circle cx="150" cy="120" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Glitter/bead 3 -->
+  <circle cx="173" cy="140" r="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Glitter/bead 4 -->
+  <circle cx="135" cy="158" r="5" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Glitter/bead 5 -->
+  <circle cx="163" cy="165" r="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Sparkle star left -->
+  <path d="M100 115 L103 108 L106 115 L113 112 L106 119 L103 126 L100 119 L93 116 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Sparkle star right -->
+  <path d="M180 128 L182 122 L184 128 L190 126 L184 132 L182 138 L180 132 L174 130 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Shine highlight on bottle -->
+  <path d="M96 105 Q92 130 94 155" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
+</g></svg>

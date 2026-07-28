@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- soft fabric book, very rounded corners, stitched edges -->
+  <rect x="55" y="45" width="180" height="155" rx="28" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- stitched border (dashed line) just inside the edge -->
+  <rect x="65" y="55" width="160" height="135" rx="22" fill="none" stroke="#ffffff" stroke-width="5.56" stroke-dasharray="5 4"/>
+  <!-- inner fabric panel -->
+  <rect x="80" y="70" width="130" height="105" rx="16" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- fabric weave hatching (subtle cross lines) -->
+  <line x1="85" y1="95" x2="205" y2="95" stroke="#e6b98a" stroke-width="4.45"/>
+  <line x1="85" y1="120" x2="205" y2="120" stroke="#e6b98a" stroke-width="4.45"/>
+  <line x1="85" y1="145" x2="205" y2="145" stroke="#e6b98a" stroke-width="4.45"/>
+  <line x1="110" y1="73" x2="110" y2="172" stroke="#e6b98a" stroke-width="4.45"/>
+  <line x1="145" y1="73" x2="145" y2="172" stroke="#e6b98a" stroke-width="4.45"/>
+  <line x1="180" y1="73" x2="180" y2="172" stroke="#e6b98a" stroke-width="4.45"/>
+  <!-- appliqué star on front -->
+  <path d="M145 95 L155 117 L179 119 L160 134 L166 158 L145 145 L124 158 L130 134 L111 119 L135 117 Z" fill="#fff200" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- stitching around star -->
+  <path d="M145 102 L153 119 L171 121 L157 132 L161 150 L145 141 L129 150 L133 132 L119 121 L137 119 Z" fill="none" stroke="#5e1f0a" stroke-width="3.33" stroke-dasharray="3 2"/>
+  <!-- spine stitching on left side -->
+  <line x1="55" y1="60" x2="55" y2="185" stroke="#ffffff" stroke-width="5.56" stroke-dasharray="5 4"/>
+  <!-- small fabric tag bottom right -->
+  <rect x="215" y="170" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <line x1="219" y1="174" x2="232" y2="174" stroke="#7f7f7f" stroke-width="3.33"/>
+  <line x1="219" y1="179" x2="228" y2="179" stroke="#7f7f7f" stroke-width="3.33"/>
+</g></svg>

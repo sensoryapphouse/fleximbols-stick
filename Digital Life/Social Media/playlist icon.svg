@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Playlist icon: play triangle at top, list of song lines each with a small note -->
+  <!-- Play triangle -->
+  <polygon points="28,22 72,46 28,70" fill="#f8130d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Row 1 -->
+  <!-- Music note icon -->
+  <rect x="95" y="30" width="8" height="22" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="92" cy="52" rx="7" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="103" y1="30" x2="116" y2="26" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Song line 1 -->
+  <line x1="122" y1="40" x2="256" y2="40" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Row 2 -->
+  <rect x="95" y="85" width="8" height="22" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="92" cy="107" rx="7" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="103" y1="85" x2="116" y2="81" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="122" y1="95" x2="256" y2="95" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Row 3 -->
+  <rect x="95" y="140" width="8" height="22" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="92" cy="162" rx="7" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="103" y1="140" x2="116" y2="136" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="122" y1="150" x2="256" y2="150" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Row 4 -->
+  <rect x="95" y="195" width="8" height="22" rx="2" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="92" cy="217" rx="7" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="103" y1="195" x2="116" y2="191" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="122" y1="205" x2="220" y2="205" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+</g></svg>

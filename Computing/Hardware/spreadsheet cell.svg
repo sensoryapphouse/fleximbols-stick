@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- spreadsheet grid background -->
+  <rect x="30" y="30" width="230" height="180" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- header row -->
+  <rect x="30" y="30" width="230" height="32" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- header column -->
+  <rect x="30" y="30" width="46" height="180" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- corner -->
+  <rect x="30" y="30" width="46" height="32" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- vertical column lines -->
+  <line x1="137" y1="30" x2="137" y2="210" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="198" y1="30" x2="198" y2="210" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- horizontal row lines -->
+  <line x1="30" y1="106" x2="260" y2="106" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="30" y1="158" x2="260" y2="158" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- highlighted A1 cell (first body cell) -->
+  <rect x="76" y="62" width="61" height="44" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- A glyph in highlighted cell as path -->
+  <path d="M 92 96 L 100 72 L 108 96 M 95 88 L 105 88" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 1 glyph -->
+  <path d="M 117 76 L 122 73 L 122 96 M 117 96 L 127 96" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- selection corner handle -->
+  <rect x="132" y="101" width="10" height="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- column header letter A as path -->
+  <path d="M 100 38 L 107 56 L 114 38 M 103 50 L 111 50" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- row header 1 -->
+  <path d="M 47 70 L 53 67 L 53 96 M 47 96 L 59 96" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

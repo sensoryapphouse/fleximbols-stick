@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- chain running top-left to bottom-right; the middle link is broken/open = the weak link -->
+<!-- top intact link -->
+<rect x="150" y="120" width="52" height="92" rx="26" transform="rotate(38 176 166)"
+      fill="none" stroke="#1a1a1a" stroke-width="26"/>
+<rect x="150" y="120" width="52" height="92" rx="26" transform="rotate(38 176 166)"
+      fill="none" stroke="#b9bdc2" stroke-width="14"/>
+<!-- second intact link -->
+<rect x="190" y="178" width="52" height="92" rx="26" transform="rotate(38 216 224)"
+      fill="none" stroke="#1a1a1a" stroke-width="26"/>
+<rect x="190" y="178" width="52" height="92" rx="26" transform="rotate(38 216 224)"
+      fill="none" stroke="#b9bdc2" stroke-width="14"/>
+<!-- BROKEN middle link (the weak link) - drawn as two open C-halves pulled apart, red -->
+<g transform="rotate(38 270 282)">
+  <path d="M270 240 C292 240 300 256 300 282 C300 300 294 312 282 318" fill="none" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
+  <path d="M270 240 C292 240 300 256 300 282 C300 300 294 312 282 318" fill="none" stroke="#d63b46" stroke-width="14" stroke-linecap="round"/>
+  <path d="M270 324 C248 324 240 308 240 282 C240 264 246 252 258 246" fill="none" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
+  <path d="M270 324 C248 324 240 308 240 282 C240 264 246 252 258 246" fill="none" stroke="#d63b46" stroke-width="14" stroke-linecap="round"/>
+</g>
+<!-- snap/break marks -->
+<line x1="300" y1="252" x2="322" y2="240" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<line x1="306" y1="262" x2="330" y2="256" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- fourth intact link -->
+<rect x="298" y="290" width="52" height="92" rx="26" transform="rotate(38 324 336)"
+      fill="none" stroke="#1a1a1a" stroke-width="26"/>
+<rect x="298" y="290" width="52" height="92" rx="26" transform="rotate(38 324 336)"
+      fill="none" stroke="#b9bdc2" stroke-width="14"/>
+<!-- bottom intact link -->
+<rect x="338" y="348" width="52" height="92" rx="26" transform="rotate(38 364 394)"
+      fill="none" stroke="#1a1a1a" stroke-width="26"/>
+<rect x="338" y="348" width="52" height="92" rx="26" transform="rotate(38 364 394)"
+      fill="none" stroke="#b9bdc2" stroke-width="14"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Unicorn face: white, gold spiral horn, rainbow mane -->
+  <!-- Rainbow mane left side -->
+  <ellipse cx="52" cy="110" rx="26" ry="70" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.70" transform="rotate(-10 52 110)"/>
+  <ellipse cx="60" cy="108" rx="20" ry="64" fill="#ff9900" transform="rotate(-10 60 108)"/>
+  <ellipse cx="68" cy="106" rx="14" ry="58" fill="#f7de58" transform="rotate(-10 68 106)"/>
+  <ellipse cx="74" cy="104" rx="9" ry="52" fill="#529929" transform="rotate(-10 74 104)"/>
+  <ellipse cx="79" cy="103" rx="5" ry="46" fill="#2a4ec0" transform="rotate(-10 79 103)"/>
+  <!-- Horn -->
+  <polygon points="145,18 133,82 157,82" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
+  <line x1="140" y1="30" x2="144" y2="78" stroke="#7d5e23" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="145" y1="20" x2="153" y2="68" stroke="#7d5e23" stroke-width="2.22" stroke-linecap="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="148" rx="90" ry="82" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Eyes -->
+  <circle cx="113" cy="128" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="113" cy="128" r="7" fill="#000000"/>
+  <circle cx="177" cy="128" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="177" cy="128" r="7" fill="#000000"/>
+  <circle cx="116" cy="125" r="3" fill="#ffffff"/>
+  <circle cx="180" cy="125" r="3" fill="#ffffff"/>
+  <!-- Snout -->
+  <ellipse cx="145" cy="175" rx="40" ry="28" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Nostrils -->
+  <ellipse cx="132" cy="174" rx="7" ry="6" fill="#e6b98a"/>
+  <ellipse cx="158" cy="174" rx="7" ry="6" fill="#e6b98a"/>
+  <!-- Smile -->
+  <path d="M118 190 Q145 204 172 190" fill="none" stroke="#1a1a1a" stroke-width="5.18" stroke-linecap="round"/>
+</g></svg>

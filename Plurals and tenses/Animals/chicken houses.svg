@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- coop body -->
+<rect x="150" y="220" width="212" height="150" rx="6" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- roof -->
+<path d="M134 224 L256 168 L378 224 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- entrance hole -->
+<path d="M226 370 L226 300 Q256 280 286 300 L286 370 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- ramp -->
+<polygon points="226,366 286,366 326,408 266,408" fill="#c89a5b" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<line x1="248" y1="378" x2="288" y2="378" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="264" y1="392" x2="304" y2="392" stroke="#1a1a1a" stroke-width="6"/>
+<!-- little round window -->
+<circle cx="320" cy="270" r="20" fill="#f3cd6e" stroke="#1a1a1a" stroke-width="7"/>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg99" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg99)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

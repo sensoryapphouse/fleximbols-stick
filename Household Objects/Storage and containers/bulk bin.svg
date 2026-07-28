@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bulk dispenser bin body -->
+  <path d="M65,35 L225,35 L225,155 Q225,170 210,170 L80,170 Q65,170 65,155 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bin top lip -->
+  <rect x="58" y="28" width="174" height="14" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Bin contents (grains/seeds) -->
+  <ellipse cx="145" cy="80" rx="68" ry="38" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Grain texture dots -->
+  <circle cx="120" cy="72" r="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="138" cy="65" r="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="155" cy="70" r="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="130" cy="84" r="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="148" cy="82" r="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="165" cy="78" r="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="112" cy="85" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="170" cy="90" r="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- Spout chute -->
+  <path d="M145,170 L130,195 L160,195 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Spout gate lever -->
+  <rect x="136" y="162" width="18" height="10" rx="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lever handle -->
+  <rect x="152" y="162" width="22" height="7" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Collection jar below spout -->
+  <rect x="118" y="195" width="54" height="30" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Jar lid -->
+  <rect x="114" y="188" width="62" height="10" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Jar contents level -->
+  <rect x="120" y="208" width="50" height="14" rx="4" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Scoop handle sticking up left -->
+  <path d="M75,190 Q62,170 70,155 Q76,144 85,150" fill="none" stroke="#9d7246" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Scoop bowl -->
+  <path d="M85,150 Q100,140 108,152 Q112,164 98,170 Q84,172 85,150 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

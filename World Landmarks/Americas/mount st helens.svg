@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="26" y="32" width="238" height="176" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pine forest ground (Pacific Northwest) -->
+  <rect x="0" y="210" width="290" height="30" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- pine trees left -->
+  <path d="M20 215 L10 200 L18 200 L8 185 L20 185 L10 170 L25 170 L15 155 L25 155 L20 145 L20 215 Z M20 215 L30 215 L30 145 L40 155 L30 155 L40 170 L25 170 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M20 215 L20 145 L30 155 L20 155 L30 170 L15 170 L25 185 L10 185 L20 200 L8 200 L20 215 M20 215 L20 145 L30 155 L30 155 L40 170 L25 170 L35 185 L30 185 L40 200 L30 200 L30 215 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- simpler pine trees -->
+  <path d="M260 215 L250 200 L260 200 L250 185 L262 185 L252 170 L268 170 L258 155 L268 155 L264 145 L270 155 L280 155 L270 170 L286 170 L276 185 L288 185 L278 200 L288 200 L278 215 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- volcano body (broad cone with crater blown out top - characteristic of St Helens post-1980) -->
+  <path d="M50 210 L100 120 L130 100 L160 100 L195 130 L240 210 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- shadow side -->
+  <path d="M145 210 L160 100 L195 130 L240 210 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- snow cap -->
+  <path d="M100 120 L110 115 L120 122 L130 100 L140 112 L150 105 L160 100 L170 115 L185 122 L195 130 L185 130 L175 122 L165 130 L155 120 L145 130 L135 122 L125 130 L115 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- crater notch (collapsed north face) -->
+  <path d="M130 100 L140 110 L150 105 L160 100 L155 95 L145 92 L135 95 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- ash cloud -->
+  <path d="M115 105 Q90 80 105 55 Q130 35 160 45 Q190 35 200 60 Q220 70 210 95 Q200 100 180 95 L150 100 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M125 85 Q115 65 135 55 Q160 50 175 70" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ash puffs -->
+  <circle cx="195" cy="50" r="8" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="70" r="7" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun (partial) -->
+  <circle cx="40" cy="35" r="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="6.67"/>
+</g></svg>

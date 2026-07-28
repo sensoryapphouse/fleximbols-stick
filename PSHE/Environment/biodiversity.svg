@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Background ground -->
+  <rect x="20" y="185" width="250" height="35" fill="#529929" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Leaf (plant) - bottom left -->
+  <path d="M45,180 Q40,145 65,130 Q75,155 60,175 Z" fill="#137827" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="52" y1="175" x2="63" y2="135" stroke="#67832d" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Flower - bottom centre-left -->
+  <circle cx="108" cy="172" r="8" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="108" cy="157" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="120" cy="162" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="96" cy="162" r="6" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="108" y1="180" x2="108" y2="188" stroke="#529929" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Fish - centre -->
+  <ellipse cx="155" cy="125" rx="32" ry="18" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="187,125 205,112 205,138" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="140" cy="120" r="4" fill="#000000"/>
+  <!-- Bird - upper right area -->
+  <ellipse cx="220" cy="80" rx="28" ry="16" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bird head -->
+  <circle cx="245" cy="74" r="13" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Beak -->
+  <polygon points="255,74 268,71 255,78" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bird eye -->
+  <circle cx="249" cy="71" r="3" fill="#000000"/>
+  <!-- Wing -->
+  <path d="M215,72 Q205,55 192,60 Q200,72 215,75" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Tail feathers -->
+  <polygon points="192,80 175,72 193,90" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bug / beetle - upper left -->
+  <ellipse cx="62" cy="85" rx="15" ry="20" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bug head -->
+  <circle cx="62" cy="63" r="10" fill="#d01424" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bug spots -->
+  <circle cx="56" cy="82" r="4" fill="#000000"/>
+  <circle cx="68" cy="82" r="4" fill="#000000"/>
+  <circle cx="62" cy="96" r="4" fill="#000000"/>
+  <!-- Bug antennae -->
+  <line x1="57" y1="55" x2="48" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="67" y1="55" x2="76" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="48" cy="41" r="3" fill="#000000"/>
+  <circle cx="76" cy="41" r="3" fill="#000000"/>
+  <!-- Bug legs -->
+  <line x1="47" y1="80" x2="35" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="47" y1="88" x2="33" y2="88" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="47" y1="96" x2="35" y2="104" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="77" y1="80" x2="89" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="77" y1="88" x2="91" y2="88" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="77" y1="96" x2="89" y2="104" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bottle body -->
+  <path d="M70 90 L70 215 Q70 225 80 225 L180 225 Q190 225 190 215 L190 90 Q190 80 180 80 L80 80 Q70 80 70 90 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- liquid level indicator -->
+  <path d="M75 130 L185 130 L185 215 Q185 220 180 220 L80 220 Q75 220 75 215 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bottle shoulder -->
+  <path d="M85 80 L85 65 Q85 60 90 60 L170 60 Q175 60 175 65 L175 80 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="110" y="40" width="40" height="22" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- cap that doubles as cup (wider, transparent-ish look) -->
+  <path d="M95 18 L165 18 L170 40 L90 40 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- cup rim line -->
+  <path d="M95 22 L165 22" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- measurement mark on cup -->
+  <path d="M155 28 L162 28 M155 34 L162 34" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- label panel -->
+  <rect x="78" y="95" width="104" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- freshness sparkles/mint leaves -->
+  <path d="M220 70 Q235 60 245 75 Q235 90 220 80 Q225 75 220 70 Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M225 72 Q235 78 240 82" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
+  <!-- sparkle stars -->
+  <path d="M215 120 L218 128 L226 128 L220 133 L223 141 L215 136 L207 141 L210 133 L204 128 L212 128 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M245 170 L247 175 L252 175 L248 178 L250 183 L245 180 L240 183 L242 178 L238 175 L243 175 Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bubbles -->
+  <circle cx="225" cy="200" r="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="215" r="4" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- fresh mint swirl (replaces MOUTHWASH text) -->
+  <path d="M83 148 Q95 138 107 145 Q113 152 107 160 Q95 168 83 162 Q77 155 83 148 Z" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <path d="M91 144 Q95 152 91 160" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M99 144 Q95 152 99 160" fill="none" stroke="#dff3fd" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- spa/medicinal cross top corner -->
+  <circle cx="245" cy="50" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="241" y="35" width="8" height="30" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="230" y="46" width="30" height="8" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- steam/spa wisps -->
+  <path d="M 35 70 Q 30 55 40 50 Q 50 45 45 35" fill="none" stroke="#90a7d6" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M 55 60 Q 60 50 55 42" fill="none" stroke="#90a7d6" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- jar lid -->
+  <rect x="80" y="60" width="130" height="22" rx="3" ry="3" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <rect x="85" y="75" width="120" height="8" fill="#137827" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- jar body -->
+  <path d="M 75 82 L 75 220 Q 75 226 82 226 L 208 226 Q 215 226 215 220 L 215 82 Z"
+        fill="#dff3fd" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round"/>
+  <!-- glass highlight -->
+  <path d="M 85 95 L 85 205" stroke="#ffffff" stroke-width="11.86" fill="none" stroke-linecap="round"/>
+  <!-- white epsom salt crystals (chunky, white) inside -->
+  <path d="M 80 180 Q 95 168 110 175 Q 130 165 150 173 Q 170 165 185 175 Q 200 168 210 180 L 210 222 L 80 222 Z"
+        fill="#efefef" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- chunky white crystal cubes -->
+  <rect x="92" y="172" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="115" y="178" width="9" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="135" y="170" width="11" height="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="158" y="178" width="9" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="178" y="172" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="98" y="195" width="9" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="122" y="200" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="148" y="195" width="11" height="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="172" y="200" width="9" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="190" y="195" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- label -->
+  <rect x="88" y="100" width="114" height="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- salt crystal sparkle (replaces EPSOM text) -->
+  <path d="M88 155 L91 148 L94 155 L101 152 L97 159 L101 166 L94 163 L91 170 L88 163 L81 166 L85 159 L81 152 Z" fill="#ffffff" stroke="#b8b8b8" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M140 155 L142 150 L144 155 L149 153 L146 158 L149 163 L144 161 L142 166 L140 161 L135 163 L138 158 L135 153 Z" fill="#ffffff" stroke="#b8b8b8" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

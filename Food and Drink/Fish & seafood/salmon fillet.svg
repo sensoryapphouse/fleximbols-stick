@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Wooden cutting board -->
+  <rect x="18" y="170" width="254" height="54" rx="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <rect x="18" y="165" width="254" height="54" rx="10" fill="#e6b98a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- Board grain -->
+  <line x1="18" y1="176" x2="272" y2="176" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="18" y1="186" x2="272" y2="186" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="18" y1="196" x2="272" y2="196" stroke="#9d7246" stroke-width="4.45"/>
+  <line x1="18" y1="206" x2="272" y2="206" stroke="#9d7246" stroke-width="4.45"/>
+  <!-- Salmon fillet shape - raw pink/orange, tapered fillet form -->
+  <!-- Silver skin underside -->
+  <path d="M38 168 Q80 140 200 138 Q245 140 258 158 Q250 175 200 178 Q80 185 38 168 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="10.37" stroke-linejoin="round"/>
+  <!-- Raw salmon flesh - bright pink/orange on top -->
+  <path d="M42 163 Q82 132 200 130 Q244 132 256 152 Q248 168 200 170 Q80 177 42 163 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="10.37" stroke-linejoin="round"/>
+  <!-- Flesh highlight - brighter orange-pink centre -->
+  <path d="M65 155 Q100 138 190 136 Q230 138 248 152 Q228 160 190 162 Q100 166 65 155 Z" fill="#ff9900" stroke="none"/>
+  <!-- Raw bright pink flesh tones -->
+  <path d="M80 150 Q115 137 188 135 Q220 137 240 148 Q220 154 188 156 Q115 159 80 150 Z" fill="#f266aa" stroke="none"/>
+  <!-- Fat marbling lines - white horizontal streaks -->
+  <path d="M68 148 Q120 140 200 138 Q230 140 248 148" fill="none" stroke="#eed5b6" stroke-width="7.41" stroke-linecap="round"/>
+  <path d="M62 154 Q115 146 202 144 Q232 146 250 153" fill="none" stroke="#eed5b6" stroke-width="7.41" stroke-linecap="round"/>
+  <path d="M65 160 Q118 152 200 150 Q228 152 246 158" fill="none" stroke="#eed5b6" stroke-width="5.93" stroke-linecap="round"/>
+  <path d="M72 143 Q115 136 196 134 Q224 136 242 143" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Pin bone dots along lateral line -->
+  <circle cx="120" cy="148" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="145" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="143" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Skin edge detail - silver sheen -->
+  <path d="M42 163 Q80 170 200 168 Q240 165 256 158" fill="none" stroke="#7f7f7f" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Tail end taper -->
+  <path d="M38 168 Q30 162 34 156 Q36 148 42 150" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <!-- Lemon slices on board -->
+  <circle cx="48" cy="192" r="18" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.41"/>
+  <circle cx="48" cy="192" r="13" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lemon segments -->
+  <line x1="48" y1="179" x2="48" y2="205" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="35" y1="192" x2="61" y2="192" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="39" y1="183" x2="57" y2="201" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="57" y1="183" x2="39" y2="201" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Fresh dill sprig -->
+  <path d="M240 175 Q245 160 248 148" fill="none" stroke="#529929" stroke-width="7.41" stroke-linecap="round"/>
+  <ellipse cx="244" cy="164" rx="7" ry="4" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-35 244 164)"/>
+  <ellipse cx="247" cy="156" rx="6" ry="3.5" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(20 247 156)"/>
+</g></svg>

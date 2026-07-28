@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="35.88 46.97 440.24 440.24">
+<!-- SWEET-SMELLING: blossoming potted flower with sweet pink scent waves, sparkles and a bee -->
+<!-- sweet scent waves -->
+<g fill="none" stroke="#d76aa8" stroke-width="10" stroke-linecap="round">
+<path d="M 150 168 q -24 -22 0 -44 q 24 -22 0 -44"/>
+<path d="M 362 168 q 24 -22 0 -44 q -24 -22 0 -44"/>
+</g>
+<!-- sparkles -->
+<polygon points="150,128 154,140 166,144 154,148 150,160 146,148 134,144 146,140" fill="#f6d54a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="362,128 366,140 378,144 366,148 362,160 358,148 346,144 358,140" fill="#f6d54a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- stem -->
+<path d="M 256 268 L 256 372" fill="none" stroke="#3f8a3f" stroke-width="11" stroke-linecap="round"/>
+<!-- leaves -->
+<path d="M 256 330 Q 308 314 326 348 Q 286 366 256 330 Z" fill="#7ed957" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 350 Q 204 334 186 368 Q 226 386 256 350 Z" fill="#7ed957" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- daisy petals -->
+<g fill="#f7b6d2" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round">
+<ellipse cx="256" cy="180" rx="20" ry="34"/>
+<ellipse cx="256" cy="256" rx="20" ry="34"/>
+<ellipse cx="218" cy="218" rx="34" ry="20"/>
+<ellipse cx="294" cy="218" rx="34" ry="20"/>
+<ellipse cx="228" cy="190" rx="22" ry="30" transform="rotate(-45 228 190)"/>
+<ellipse cx="284" cy="190" rx="22" ry="30" transform="rotate(45 284 190)"/>
+<ellipse cx="228" cy="246" rx="22" ry="30" transform="rotate(45 228 246)"/>
+<ellipse cx="284" cy="246" rx="22" ry="30" transform="rotate(-45 284 246)"/>
+</g>
+<circle cx="256" cy="218" r="26" fill="#f6d54a" stroke="#1a1a1a" stroke-width="8"/>
+<!-- pot -->
+<path d="M 196 372 L 316 372 L 300 444 Q 298 456 282 456 L 230 456 Q 214 456 212 444 Z" fill="#d98a5a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="188" y="356" width="136" height="22" rx="6" fill="#e0966a" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

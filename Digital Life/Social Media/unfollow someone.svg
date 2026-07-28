@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Phone -->
+  <rect x="60" y="15" width="170" height="210" rx="16" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.11"/>
+  <rect x="72" y="35" width="146" height="170" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="135" y="24" width="20" height="4" rx="2" fill="#000000"/>
+  <circle cx="145" cy="215" r="4" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- profile circle with bust -->
+  <circle cx="145" cy="75" r="22" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M 125 72 Q 125 56 145 56 Q 165 56 165 72 Q 158 65 145 67 Q 132 65 125 72 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="139" cy="74" r="1.8" fill="#000000"/>
+  <circle cx="151" cy="74" r="1.8" fill="#000000"/>
+  <path d="M 140 84 Q 145 87 150 84" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
+  <!-- shoulders -->
+  <path d="M 120 105 Q 120 88 145 88 Q 170 88 170 105 L 170 110 L 120 110 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Big red X crossing out the follow icon (over the person) -->
+  <path d="M 115 50 L 175 105" stroke="#f8130d" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M 175 50 L 115 105" stroke="#f8130d" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- MINUS button below -->
+  <rect x="92" y="125" width="106" height="32" rx="16" fill="#d01424" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- minus sign in button -->
+  <rect x="102" y="138" width="20" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <!-- "UNFOLLOW" as path glyphs (block letters U N F O W) -->
+  <!-- U -->
+  <path d="M 128 137 L 128 150 Q 128 154 132 154 Q 136 154 136 150 L 136 137" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- N -->
+  <path d="M 140 154 L 140 137 L 148 154 L 148 137" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- F -->
+  <path d="M 152 154 L 152 137 L 160 137 M 152 145 L 158 145" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <ellipse cx="168" cy="145" rx="4" ry="7" fill="none" stroke="#ffffff" stroke-width="4.45"/>
+  <!-- W -->
+  <path d="M 176 137 L 179 154 L 183 144 L 187 154 L 190 137" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- crossed-out follower icon below button -->
+  <circle cx="115" cy="180" r="11" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M 100 198 Q 100 188 115 188 Q 130 188 130 198 Z" fill="#90a7d6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- cross over -->
+  <path d="M 100 170 L 130 200" stroke="#f8130d" stroke-width="6.22" stroke-linecap="round"/>
+  <!-- minus indicator next to crossed-out -->
+  <circle cx="175" cy="184" r="12" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="167" y="181" width="16" height="6" rx="2" fill="#ffffff"/>
+</g></svg>

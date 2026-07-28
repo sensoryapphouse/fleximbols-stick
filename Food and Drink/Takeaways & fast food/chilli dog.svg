@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- bottom bun half -->
+  <path d="M 30,170 Q 28,188 145,190 Q 262,188 260,170 L 260,158 L 30,158 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- sausage -->
+  <path d="M 45,158 Q 40,140 40,133 Q 40,123 55,123 L 235,123 Q 250,123 250,133 Q 250,140 245,158 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="47" cy="140" rx="11" ry="17" fill="#d01424" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="243" cy="140" rx="11" ry="17" fill="#d01424" stroke="#1a1a1a" stroke-width="7.40"/>
+  <!-- thick chili topping over the sausage - lumpy brown mound -->
+  <path d="M 35,123 Q 50,105 75,112 Q 95,100 120,110 Q 140,98 165,108 Q 188,98 210,108 Q 232,100 255,112 Q 265,118 265,125 Q 265,132 255,135 L 35,135 Q 25,132 25,125 Q 25,118 35,123 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- chili lumpy texture dots (beans/meat bits) -->
+  <circle cx="60" cy="115" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="90" cy="110" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="120" cy="107" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="150" cy="105" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="180" cy="107" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="210" cy="110" r="4" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="240" cy="114" r="5" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- shredded yellow cheese on top of chili -->
+  <path d="M 55,115 Q 70,108 85,116" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 100,110 Q 118,103 135,111" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 155,108 Q 170,101 188,109" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M 200,110 Q 218,103 235,112" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- top bun -->
+  <path d="M 30,122 Q 28,86 145,82 Q 262,86 260,122 L 260,134 L 30,134 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- bun highlight -->
+  <path d="M 45,96 Q 145,88 245,96" fill="none" stroke="#e6b98a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="140" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sun -->
+  <circle cx="50" cy="45" r="18" fill="#ff9900" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- distant rocky mountains -->
+  <path d="M0,120 L40,80 L70,105 L110,70 L150,100 L200,75 L240,105 L290,85 L290,140 L0,140 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- mid rocky ridge -->
+  <path d="M0,140 L50,115 L100,135 L160,110 L220,130 L290,115 L290,160 L0,160 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- rocky ground -->
+  <rect x="0" y="155" width="290" height="85" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- scattered rocks -->
+  <ellipse cx="40" cy="200" rx="14" ry="7" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="250" cy="210" rx="16" ry="8" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="80" cy="225" rx="10" ry="5" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bactrian camel body -->
+  <path d="M120,195 C120,175 135,170 150,172 C155,158 165,158 168,170 C175,158 185,158 188,172 C200,172 210,180 210,195 L210,215 L195,215 L195,205 L145,205 L145,215 L130,215 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- camel neck and head -->
+  <path d="M210,195 C220,185 228,170 230,160 C232,155 240,153 242,160 C243,168 240,175 235,178 C235,185 232,192 228,195 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- camel eye -->
+  <circle cx="235" cy="167" r="1.8" fill="#000000"/>
+  <!-- camel legs -->
+  <rect x="148" y="205" width="6" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="188" y="205" width="6" height="20" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- horseman silhouette far left -->
+  <ellipse cx="75" cy="195" rx="14" ry="8" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="71" y="180" width="8" height="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="175" r="5" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="68" y="200" width="3" height="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="79" y="200" width="3" height="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="58.18 73.54 395.64 395.64">
+<!-- decorated egg -->
+<path d="M 256 102 C 180 102 150 250 150 320 C 150 392 198 440 256 440 C 314 440 362 392 362 320 C 362 250 332 102 256 102 Z" fill="#f6c500" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- zigzag band -->
+<path d="M 152 250 L 184 226 L 216 250 L 248 226 L 280 250 L 312 226 L 344 250 L 360 238" fill="none" stroke="#e23c3c" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- wavy band -->
+<path d="M 150 330 Q 178 308 206 330 Q 234 352 262 330 Q 290 308 318 330 Q 346 352 362 336" fill="none" stroke="#3f6fb0" stroke-width="11" stroke-linecap="round"/>
+<!-- dots -->
+<circle cx="206" cy="190" r="12" fill="#e0559e" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="170" r="12" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="306" cy="190" r="12" fill="#e0559e" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="206" cy="392" r="12" fill="#3fae5a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="306" cy="392" r="12" fill="#e0559e" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

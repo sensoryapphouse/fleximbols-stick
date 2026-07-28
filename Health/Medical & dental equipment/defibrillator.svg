@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="104.11 134.83 341.33 341.33"><g>
+<!-- AED unit body -->
+<rect x="130" y="180" width="200" height="230" rx="20" fill="#e8a33d" stroke="#1a1a1a" stroke-width="9"/>
+<!-- screen panel -->
+<rect x="152" y="206" width="156" height="80" rx="8" fill="#39414b" stroke="#1a1a1a" stroke-width="6"/>
+<!-- heart + bolt on screen -->
+<path d="M 220 232 Q 212 222 202 228 Q 194 234 202 244 L 220 262 L 238 244 Q 246 234 238 228 Q 228 222 220 232 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 256 224 L 240 250 L 252 250 L 244 270 L 268 244 L 256 244 Z" fill="#ffd23f" stroke="#1a1a1a" stroke-width="0"/>
+<!-- two paddles wired out -->
+<path d="M 330 320 Q 380 320 390 360" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<rect x="368" y="356" width="52" height="40" rx="8" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 330 350 Q 370 360 374 396" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<rect x="350" y="392" width="52" height="40" rx="8" fill="#cdd3da" stroke="#1a1a1a" stroke-width="9"/>
+<!-- big round shock button -->
+<circle cx="230" cy="350" r="34" fill="#e0473c" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 230 330 L 216 354 L 230 354 L 224 372 L 246 348 L 232 348 Z" fill="#ffd23f" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

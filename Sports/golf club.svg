@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- grip at top -->
+  <rect x="58" y="22" width="22" height="60" rx="5" fill="#000000" stroke="#1a1a1a" stroke-width="8.89"/>
+  <path d="M 60 32 L 78 36" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M 60 46 L 78 50" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M 60 60 L 78 64" stroke="#4d4d4d" stroke-width="4.45"/>
+  <path d="M 60 74 L 78 78" stroke="#4d4d4d" stroke-width="4.45"/>
+  <!-- shaft (long diagonal) -->
+  <line x1="69" y1="82" x2="195" y2="195" stroke="#b8b8b8" stroke-width="26.67" stroke-linecap="round"/>
+  <line x1="69" y1="82" x2="195" y2="195" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <!-- club head (iron/wedge angled) -->
+  <path d="M 188 188 L 248 192 Q 258 196 256 208 L 250 218 Q 240 222 215 218 L 200 210 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="10.37" stroke-linejoin="round"/>
+  <!-- face grooves -->
+  <line x1="218" y1="200" x2="248" y2="204" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="216" y1="206" x2="246" y2="210" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="214" y1="212" x2="244" y2="216" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hosel connection -->
+  <path d="M 190 185 L 200 200" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+</g></svg>

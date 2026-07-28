@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- floor line -->
+  <path d="M10 220 h270" stroke="#9d7246" stroke-width="8.89" stroke-linecap="round"/>
+
+  <!-- foam roller -->
+  <rect x="110" y="170" width="90" height="40" rx="20" fill="#7c3fac" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="110" cy="190" rx="6" ry="20" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="200" cy="190" rx="6" ry="20" fill="#392170" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- roller texture -->
+  <path d="M130 178 v24" stroke="#392170" stroke-width="4.45"/>
+  <path d="M150 178 v24" stroke="#392170" stroke-width="4.45"/>
+  <path d="M170 178 v24" stroke="#392170" stroke-width="4.45"/>
+  <path d="M190 178 v24" stroke="#392170" stroke-width="4.45"/>
+
+  <!-- person FULL BODY on roller, lying back, supine, knees bent -->
+  <!-- legs (bent up) -->
+  <path d="M200 175 q22 -10 30 -40 q2 -10 -8 -14" fill="none" stroke="#2a4ec0" stroke-width="35.57" stroke-linecap="round"/>
+  <path d="M210 178 q22 -10 32 -44 q2 -10 -8 -14" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <!-- feet flat on floor -->
+  <ellipse cx="220" cy="218" rx="14" ry="5" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M220 220 q14 -6 22 -36" fill="none" stroke="#2a4ec0" stroke-width="35.57" stroke-linecap="round"/>
+
+  <!-- torso on roller (back) -->
+  <path d="M60 180 q60 -16 110 0 q-2 16 -55 16 q-53 0 -55 -16 z" fill="#fff200" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- back muscle lines on torso -->
+  <path d="M80 178 q10 -8 20 0" fill="none" stroke="#e65a00" stroke-width="4.45"/>
+  <path d="M110 176 q10 -8 20 0" fill="none" stroke="#e65a00" stroke-width="4.45"/>
+  <path d="M140 176 q10 -8 20 0" fill="none" stroke="#e65a00" stroke-width="4.45"/>
+
+  <!-- arm reaching back, supporting head -->
+  <path d="M62 178 q-22 -10 -16 -32" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
+  <!-- hand -->
+  <circle cx="46" cy="146" r="6" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- head resting -->
+  <circle cx="58" cy="158" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- hair -->
+  <path d="M42 154 q16 -18 32 0 q-2 -12 -16 -12 q-14 0 -16 12 z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- face -->
+  <circle cx="52" cy="158" r="1.5" fill="#000000"/>
+  <circle cx="64" cy="158" r="1.5" fill="#000000"/>
+  <path d="M54 165 q6 3 12 0" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- direction arrows -->
+  <path d="M120 150 l-10 -10 l4 -2 l-6 -2 l2 6 l2 -4 z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M100 154 h30" stroke="#f8130d" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M170 150 l10 -10 l-4 -2 l6 -2 l-2 6 l-2 -4 z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M160 154 h30" stroke="#f8130d" stroke-width="6.67" stroke-linecap="round"/>
+
+  <!-- effort sweat -->
+  <ellipse cx="40" cy="120" rx="4" ry="6" fill="#90a7d6" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

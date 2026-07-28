@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground -->
+  <rect x="0" y="200" width="290" height="40" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- hall/school building -->
+  <rect x="40" y="80" width="180" height="120" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- roof -->
+  <path d="M30 85 L130 35 L230 85 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- door -->
+  <rect x="110" y="135" width="40" height="65" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="142" cy="170" r="2" fill="#f2e40d" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- windows -->
+  <rect x="55" y="100" width="35" height="28" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M72 100 L72 128 M55 114 L90 114" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="170" y="100" width="35" height="28" fill="#90a7d6" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M187 100 L187 128 M170 114 L205 114" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- flag pole + flag on roof -->
+  <line x1="130" y1="35" x2="130" y2="10" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
+  <path d="M130 12 L160 18 L130 25 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sign on building -->
+  <rect x="70" y="55" width="120" height="20" fill="#fff200" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- VOTE arrow as path shapes -->
+  <path d="M82 65 L92 65 L92 60 L100 67 L92 74 L92 69 L82 69 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="115" cy="65" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="65" r="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="65" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M170 60 L180 60 L180 70 L170 70 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- queue of voters FULL BODY to the right of door -->
+  <!-- voter 1 (closest to door) -->
+  <circle cx="170" cy="160" r="7" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M163 168 L177 168 L179 188 L161 188 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="164" y1="170" x2="158" y2="184" stroke="#d01424" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="176" y1="170" x2="182" y2="184" stroke="#d01424" stroke-width="8.89" stroke-linecap="round"/>
+  <rect x="163" y="188" width="6" height="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="171" y="188" width="6" height="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- voter 2 -->
+  <circle cx="195" cy="160" r="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M188 168 L202 168 L204 188 L186 188 Z" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="189" y1="170" x2="183" y2="184" stroke="#137827" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="201" y1="170" x2="207" y2="184" stroke="#137827" stroke-width="8.89" stroke-linecap="round"/>
+  <rect x="188" y="188" width="6" height="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="196" y="188" width="6" height="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- voter 3 -->
+  <circle cx="220" cy="160" r="7" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M213 168 L227 168 L229 188 L211 188 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="214" y1="170" x2="208" y2="184" stroke="#7c3fac" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="226" y1="170" x2="232" y2="184" stroke="#7c3fac" stroke-width="8.89" stroke-linecap="round"/>
+  <rect x="213" y="188" width="6" height="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="221" y="188" width="6" height="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- voter 4 -->
+  <circle cx="245" cy="160" r="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M238 168 L252 168 L254 188 L236 188 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="239" y1="170" x2="233" y2="184" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+  <line x1="251" y1="170" x2="257" y2="184" stroke="#2a4ec0" stroke-width="8.89" stroke-linecap="round"/>
+  <rect x="238" y="188" width="6" height="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="246" y="188" width="6" height="12" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

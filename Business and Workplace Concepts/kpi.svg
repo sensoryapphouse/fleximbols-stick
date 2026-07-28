@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- gauge arc background (half-circle) -->
+  <path d="M38 178 A 107 107 0 0 1 252 178" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- gauge fill outline closing -->
+  <line x1="38"  y1="178" x2="252" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- coloured arc segments: green / yellow / red -->
+  <!-- green zone ~0-60deg -->
+  <path d="M38 178 A 107 107 0 0 1 91 86"  fill="none" stroke="#529929" stroke-width="19.54" stroke-linecap="butt"/>
+  <!-- yellow zone ~60-120deg -->
+  <path d="M91 86 A 107 107 0 0 1 199 86"  fill="none" stroke="#f7de58" stroke-width="19.54" stroke-linecap="butt"/>
+  <!-- red zone ~120-180deg -->
+  <path d="M199 86 A 107 107 0 0 1 252 178" fill="none" stroke="#f8130d" stroke-width="19.54" stroke-linecap="butt"/>
+  <!-- arc outlines -->
+  <path d="M38 178 A 107 107 0 0 1 252 178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- inner white arc to create ring effect -->
+  <path d="M66 178 A 79 79 0 0 1 224 178" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="66" y1="178" x2="224" y2="178" stroke="#ffffff" stroke-width="3.55"/>
+  <!-- tick marks -->
+  <line x1="38"  y1="178" x2="48"  y2="170" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="145" y1="71"  x2="145" y2="83"  stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="252" y1="178" x2="242" y2="170" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="91"  y1="86"  x2="96"  y2="97"  stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="199" y1="86"  x2="194" y2="97"  stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <!-- pivot -->
+  <circle cx="145" cy="178" r="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- needle pointing to yellow zone (good performance) -->
+  <line x1="145" y1="178" x2="82"  y2="96"  stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
+  <polygon points="82,96 74,110 94,108" fill="#000000"/>
+  <!-- small centre cap -->
+  <circle cx="145" cy="178" r="6" fill="#000000"/>
+</g></svg>

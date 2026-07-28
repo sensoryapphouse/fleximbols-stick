@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- chips sticking out -->
+<g fill="#f3cd6e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
+<rect x="178" y="120" width="26" height="150" rx="6" transform="rotate(-10 191 195)"/>
+<rect x="214" y="104" width="26" height="170" rx="6" transform="rotate(-3 227 189)"/>
+<rect x="252" y="100" width="26" height="176" rx="6" transform="rotate(2 265 188)"/>
+<rect x="290" y="110" width="26" height="166" rx="6" transform="rotate(8 303 193)"/>
+<rect x="322" y="126" width="26" height="150" rx="6" transform="rotate(14 335 201)"/>
+</g>
+<!-- carton front -->
+<path d="M 160 250 L 352 250 L 326 414 Q 256 432 186 414 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- carton top band -->
+<path d="M 160 250 L 352 250 L 348 282 L 164 282 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<!-- vertical stripes on carton -->
+<line x1="222" y1="288" x2="216" y2="406" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<line x1="262" y1="288" x2="262" y2="410" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<line x1="302" y1="288" x2="308" y2="406" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+</svg>

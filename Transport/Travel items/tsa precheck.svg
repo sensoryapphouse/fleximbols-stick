@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- big TSA badge as rounded shield/rect (no text - icon only) -->
+  <path d="M50 35 L195 35 Q215 35 215 55 L215 155 Q215 175 195 185 L122 205 L50 185 Q30 175 30 155 L30 55 Q30 35 50 35 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.18"/>
+  <!-- inner gold band -->
+  <path d="M58 48 L188 48 Q200 48 200 60 L200 152 Q200 163 188 168 L122 184 L58 168 Q46 163 46 152 L46 60 Q46 48 58 48 Z" fill="none" stroke="#f2e40d" stroke-width="4.45"/>
+  <!-- airplane on badge -->
+  <path d="M70 100 L130 100 L130 85 L155 110 L130 135 L130 120 L70 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- check mark inside circle, top right of badge -->
+  <circle cx="170" cy="75" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
+  <path d="M159 76 L168 86 L182 65" fill="none" stroke="#529929" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- ribbon/lane marker on right showing faster lane -->
+  <rect x="225" y="60" width="50" height="160" rx="6" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- arrows pointing up = faster lane -->
+  <polygon points="250,210 235,195 244,195 244,175 256,175 256,195 265,195" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <polygon points="250,170 235,155 244,155 244,135 256,135 256,155 265,155" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <polygon points="250,130 235,115 244,115 244,95 256,95 256,115 265,115" fill="#529929" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+
+  <!-- big check overlay bottom-left to reinforce approval -->
+  <circle cx="55" cy="200" r="22" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M44 200 L53 210 L68 188" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

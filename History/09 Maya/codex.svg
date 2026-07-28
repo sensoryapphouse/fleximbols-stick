@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0831) translate(-255.00 -267.00)">
+<!-- accordion-fold (screenfold) book: zig-zag of connected pages in side perspective -->
+<!-- shadow on ground -->
+<ellipse cx="256" cy="396" rx="180" ry="18" fill="#00000018" stroke="#1a1a1a" stroke-width="0"/>
+<!-- back top fold line of the concertina ribbon (gives depth) -->
+<!-- Panel 1 (front-facing, light) -->
+<polygon points="60,176 140,160 140,372 60,388" fill="#e3d6b4" stroke="#7a5a2a" stroke-width="7" stroke-linejoin="round"/>
+<!-- Panel 2 (edge/fold turning back, darker) -->
+<polygon points="140,160 196,200 196,348 140,372" fill="#bfa470" stroke="#7a5a2a" stroke-width="7" stroke-linejoin="round"/>
+<!-- Panel 3 (front-facing, light) -->
+<polygon points="196,200 276,184 276,332 196,348" fill="#e3d6b4" stroke="#7a5a2a" stroke-width="7" stroke-linejoin="round"/>
+<!-- Panel 4 (edge/fold turning back, darker) -->
+<polygon points="276,184 332,224 332,348 276,332" fill="#bfa470" stroke="#7a5a2a" stroke-width="7" stroke-linejoin="round"/>
+<!-- Panel 5 (front-facing, light) -->
+<polygon points="332,224 452,176 452,360 332,348" fill="#e3d6b4" stroke="#7a5a2a" stroke-width="7" stroke-linejoin="round"/>
+<!-- emphasise the two valley fold creases -->
+<line x1="140" y1="160" x2="140" y2="372" stroke="#7a5a2a" stroke-width="5" stroke-linecap="round"/>
+<line x1="196" y1="200" x2="196" y2="348" stroke="#7a5a2a" stroke-width="5" stroke-linecap="round"/>
+<line x1="276" y1="184" x2="276" y2="332" stroke="#7a5a2a" stroke-width="5" stroke-linecap="round"/>
+<line x1="332" y1="224" x2="332" y2="348" stroke="#7a5a2a" stroke-width="5" stroke-linecap="round"/>
+<!-- abstract Maya glyph column on front panel 1 (NON-face: stepped fret + bars + single offset dot) -->
+<path d="M 78 220 L 78 240 L 92 240 L 92 228 L 108 228" fill="none" stroke="#6a5736" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="78" y="258" width="32" height="9" rx="3" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="78" y="276" width="20" height="9" rx="3" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="104" cy="280" r="5" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 78 304 q 16 0 16 14 q 0 10 -10 10" fill="none" stroke="#6a5736" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- abstract Maya glyph column on front panel 3 -->
+<path d="M 216 228 q 16 0 16 14 q 0 10 -10 10" fill="none" stroke="#6a5736" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="216" y="266" width="34" height="9" rx="3" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="222" cy="292" r="5" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="240" cy="292" r="5" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 216 308 L 216 324 L 232 324 L 232 314 L 250 314" fill="none" stroke="#6a5736" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<!-- abstract Maya glyph column on front panel 5 -->
+<rect x="360" y="222" width="48" height="9" rx="3" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 360 244 L 360 264 L 376 264 L 376 250 L 396 250 L 396 264" fill="none" stroke="#6a5736" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="368" cy="288" r="5" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="388" cy="288" r="5" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="408" cy="288" r="5" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="360" y="306" width="48" height="9" rx="3" fill="#6a5736" stroke="#1a1a1a" stroke-width="0"/>
+</g></svg>

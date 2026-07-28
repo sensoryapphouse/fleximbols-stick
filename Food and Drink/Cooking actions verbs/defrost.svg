@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Microwave body -->
+  <rect x="22" y="90" width="180" height="135" rx="12" ry="12" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Microwave door window -->
+  <rect x="34" y="102" width="120" height="111" rx="8" ry="8" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Control panel -->
+  <rect x="164" y="102" width="26" height="111" rx="5" ry="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Buttons -->
+  <rect x="170" y="112" width="14" height="8" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="170" y="128" width="14" height="8" rx="2" ry="2" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="170" y="144" width="14" height="8" rx="2" ry="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Frozen food inside (block with snowflake outline, fading) -->
+  <rect x="52" y="120" width="86" height="70" rx="8" ry="8" fill="#dff3fd" stroke="#2a4ec0" stroke-width="4.45" stroke-dasharray="8,4"/>
+  <!-- Food inside block -->
+  <ellipse cx="95" cy="158" rx="28" ry="20" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Water drips inside microwave -->
+  <ellipse cx="75" cy="192" rx="5" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="95" cy="196" rx="5" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="115" cy="192" rx="5" ry="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Snowflake with arrow (active rapid de-icing cue) top right -->
+  <!-- Snowflake -->
+  <line x1="230" y1="30" x2="230" y2="72" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="209" y1="51" x2="251" y2="51" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="215" y1="36" x2="245" y2="66" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <line x1="245" y1="36" x2="215" y2="66" stroke="#2a4ec0" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Snowflake arm tips -->
+  <line x1="230" y1="30" x2="224" y2="37" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="230" y1="30" x2="236" y2="37" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="230" y1="72" x2="224" y2="65" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="230" y1="72" x2="236" y2="65" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Arrow pointing away from snowflake (rapid removal) -->
+  <line x1="256" y1="51" x2="278" y2="51" stroke="#f8130d" stroke-width="7.40" stroke-linecap="round"/>
+  <polygon points="278,51 266,44 266,58" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- Running water lines beside microwave -->
+  <path d="M208 110 Q214 125 208 140 Q214 155 208 170" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M218 110 Q224 125 218 140 Q224 155 218 170" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

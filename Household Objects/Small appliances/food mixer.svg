@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- stand mixer -->
+<ellipse cx="256" cy="430" rx="120" ry="22" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="150" y="392" width="212" height="30" rx="10" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bowl -->
+<path d="M 190 320 L 322 320 L 308 398 L 204 398 Z" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="320" rx="66" ry="16" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- upright column -->
+<rect x="316" y="150" width="44" height="248" rx="14" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- motor head -->
+<path d="M 150 150 L 360 150 L 360 200 L 200 200 L 180 240 L 150 240 Z" fill="#e23c3c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- vent ribs on the head -->
+<line x1="240" y1="166" x2="340" y2="166" stroke="#a82a2a" stroke-width="5" stroke-linecap="round"/>
+<line x1="240" y1="182" x2="340" y2="182" stroke="#a82a2a" stroke-width="5" stroke-linecap="round"/>
+<circle cx="186" cy="176" r="14" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+<!-- speed-control lever on top of the head -->
+<line x1="300" y1="150" x2="300" y2="124" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="300" cy="120" r="11" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<!-- twin whisk beaters -->
+<line x1="243" y1="200" x2="243" y2="296" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="269" y1="200" x2="269" y2="296" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<path d="M 243 290 Q 219 322 243 354 Q 267 322 243 290 Z" fill="none" stroke="#7a7f85" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 269 290 Q 293 322 269 354 Q 245 322 269 290 Z" fill="none" stroke="#7a7f85" stroke-width="6" stroke-linejoin="round"/>
+<ellipse cx="256" cy="354" rx="20" ry="7" fill="none" stroke="#7a7f85" stroke-width="6"/>
+</svg>

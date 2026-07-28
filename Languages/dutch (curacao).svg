@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"><path d="M 72 46 H 440 Q 486 46 486 92 V 326 Q 486 372 440 372 H 232 L 150 454 L 150 372 H 72 Q 26 372 26 326 V 92 Q 26 46 72 46 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/><rect x="76.0" y="68.0" width="360" height="270" fill="#ffffff"/><svg x="76.0" y="68.0" width="360" height="270" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <clipPath id="cw-a">
+      <path fill-opacity=".7" d="M0 0h682.7v512H0z"/>
+    </clipPath>
+    <path id="cw-b" d="m0-1 .2.7H1L.3 0l.2.7L0 .4l-.6.4.2-.7-.5-.4h.7z"/>
+  </defs>
+  <g clip-path="url(#cw-a)" transform="scale(.94)">
+    <path fill="#002b7f" d="M0 0h768v512H0z"/>
+    <path fill="#f9e814" d="M0 320h768v64H0z"/>
+    <use xlink:href="#cw-b" width="13500" height="9000" x="2" y="2" fill="#fff" transform="scale(42.67)"/>
+    <use xlink:href="#cw-b" width="13500" height="9000" x="3" y="3" fill="#fff" transform="scale(56.9)"/>
+  </g>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#000000" stroke-width="2"/>
+</svg><rect x="76.0" y="68.0" width="360" height="270" fill="none" stroke="#1a1a1a" stroke-width="5"/></svg>

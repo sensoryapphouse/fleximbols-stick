@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- ground line -->
+  <line x1="5" y1="200" x2="285" y2="200" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- LONG minivan body with raked windshield, sliding door -->
+  <!-- main body (long, fairly tall, raked front) -->
+  <path d="M10 180 L10 120 L40 90 L80 80 L260 80 Q280 80 280 100 L280 180 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- raked windshield (very sloped) -->
+  <path d="M45 100 L78 90 L115 90 L115 130 L45 130 Q42 115 45 100 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- long passenger window (sliding door window) -->
+  <rect x="123" y="90" width="80" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- rear quarter window -->
+  <rect x="210" y="90" width="55" height="40" fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- sliding door (prominent seam with notch) -->
+  <line x1="123" y1="130" x2="123" y2="180" stroke="#1a1a1a" stroke-width="6.67"/>
+  <line x1="203" y1="90" x2="203" y2="180" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- sliding door track -->
+  <line x1="123" y1="138" x2="203" y2="138" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- sliding door handle -->
+  <rect x="155" y="155" width="22" height="5" fill="#000000"/>
+  <!-- front door handle -->
+  <rect x="80" y="155" width="14" height="4" fill="#000000"/>
+  <!-- front door seam -->
+  <line x1="115" y1="130" x2="115" y2="180" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- headlight -->
+  <rect x="12" y="135" width="14" height="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- taillight (tall) -->
+  <rect x="262" y="135" width="14" height="30" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- wheels -->
+  <circle cx="60" cy="195" r="22" fill="#000000"/>
+  <circle cx="60" cy="195" r="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="195" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="235" cy="195" r="22" fill="#000000"/>
+  <circle cx="235" cy="195" r="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="235" cy="195" r="5" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Outer card -->
+  <rect x="22" y="22" width="246" height="196" rx="10" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Title bar -->
+  <rect x="22" y="22" width="246" height="30" rx="10" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="22" y="38" width="246" height="14" fill="#2a4ec0" stroke="none"/>
+  <rect x="34" y="32" width="120" height="10" rx="3" fill="#dff3fd" stroke="none"/>
+  <!-- 3x3 grid of image tiles -->
+  <!-- Row 1 -->
+  <rect x="30" y="60" width="68" height="50" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="111" y="60" width="68" height="50" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="192" y="60" width="68" height="50" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Row 2 -->
+  <rect x="30" y="118" width="68" height="50" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="111" y="118" width="68" height="50" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="192" y="118" width="68" height="50" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Row 3 -->
+  <rect x="30" y="176" width="68" height="34" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="111" y="176" width="68" height="34" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="192" y="176" width="68" height="34" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Simple pictogram in each tile (traffic-light style shapes) -->
+  <!-- Tile 1,1: traffic light shape -->
+  <rect x="52" y="68" width="24" height="36" rx="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="64" cy="76" r="5" fill="#f8130d" stroke="none"/>
+  <circle cx="64" cy="87" r="5" fill="#f7de58" stroke="none"/>
+  <circle cx="64" cy="98" r="5" fill="#529929" stroke="none"/>
+  <!-- Tile 1,2: car shape -->
+  <rect x="120" y="82" width="50" height="20" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="128" y="72" width="34" height="14" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="130" cy="102" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="158" cy="102" r="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tile 1,3: bus shape -->
+  <rect x="202" y="68" width="48" height="36" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="208" y="74" width="14" height="10" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="228" y="74" width="14" height="10" rx="2" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="212" cy="106" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="238" cy="106" r="5" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Checkmarks on selected tiles (1,1 and 1,3) -->
+  <rect x="30" y="60" width="68" height="50" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="42,87 52,97 72,72" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="192" y="60" width="68" height="50" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="204,87 214,97 252,72" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Row 2 tile content: simple house, bike, person -->
+  <polygon points="64,128 44,148 84,148" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="50" y="148" width="28" height="20" rx="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Row 3 mini content bars -->
+  <rect x="40" y="184" width="48" height="6" rx="2" fill="#90a7d6" stroke="none"/>
+  <rect x="121" y="184" width="48" height="6" rx="2" fill="#90a7d6" stroke="none"/>
+  <rect x="202" y="184" width="48" height="6" rx="2" fill="#90a7d6" stroke="none"/>
+  <rect x="40" y="196" width="30" height="6" rx="2" fill="#b8b8b8" stroke="none"/>
+  <rect x="121" y="196" width="30" height="6" rx="2" fill="#b8b8b8" stroke="none"/>
+  <rect x="202" y="196" width="30" height="6" rx="2" fill="#b8b8b8" stroke="none"/>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Dutch oven body (deep, squat, enamel red) -->
+  <path d="M68,115 Q62,185 145,188 Q228,185 222,115 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Body rim flange -->
+  <ellipse cx="145" cy="115" rx="77" ry="19" fill="#d01424" stroke="#1a1a1a" stroke-width="4.94"/>
+  <!-- Domed lid sitting on rim -->
+  <path d="M72,115 Q72,68 145,62 Q218,68 218,115" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <!-- Lid top dome highlight -->
+  <path d="M100,95 Q115,72 145,68 Q175,72 190,95" fill="#d01424" stroke="none"/>
+  <!-- Lid rim bottom edge -->
+  <ellipse cx="145" cy="115" rx="73" ry="10" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Lid knob handle -->
+  <ellipse cx="145" cy="61" rx="12" ry="6" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="138" y="50" width="14" height="13" rx="4" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="50" rx="8" ry="5" fill="#d01424" stroke="#1a1a1a" stroke-width="3.95"/>
+  <!-- Left loop handle -->
+  <path d="M68,130 Q42,130 42,145 Q42,160 68,160" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Right loop handle -->
+  <path d="M222,130 Q248,130 248,145 Q248,160 222,160" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- Base -->
+  <ellipse cx="145" cy="186" rx="66" ry="10" fill="#d01424" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

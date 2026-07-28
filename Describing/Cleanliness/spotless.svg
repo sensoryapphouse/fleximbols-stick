@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-7.76 -20.56 527.52 527.52"><g data-fit="1">
+<!-- green down arrow over the spotless plate (left) -->
+<line x1="140" y1="70" x2="140" y2="120" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="120" x2="116" y2="96" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="120" x2="164" y2="96" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="140" y1="70" x2="140" y2="120" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="140" y1="120" x2="116" y2="96" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="140" y1="120" x2="164" y2="96" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<!-- SPOTLESS plate (left) -->
+<ellipse cx="140" cy="320" rx="110" ry="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="140" cy="320" rx="70" ry="62" fill="#f3f7fa" stroke="#1a1a1a" stroke-width="9"/>
+<!-- sparkle stars -->
+<polygon points="120,290 125,305 140,308 127,318 131,333 120,323 109,333 113,318 100,308 115,305" fill="#fff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="178,300 181,310 191,311 183,318 186,328 178,322 170,328 173,318 165,311 175,310" fill="#fff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="150,352 153,362 163,363 155,370 158,380 150,374 142,380 145,370 137,363 147,362" fill="#fff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<!-- DIRTY plate (right, faded) -->
+<g opacity="0.34">
+<ellipse cx="372" cy="320" rx="110" ry="100" fill="#e9eef2" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="372" cy="320" rx="70" ry="62" fill="#dfe6ec" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="352" cy="300" rx="20" ry="14" fill="#7a4a24" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="392" cy="332" rx="14" ry="10" fill="#5e3a1c" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="360" cy="348" rx="12" ry="9" fill="#7a4a24" stroke="#1a1a1a" stroke-width="0"/>
+</g>
+</g></svg>

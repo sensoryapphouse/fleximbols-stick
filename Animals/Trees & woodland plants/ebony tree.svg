@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Trunk — very DARK near-black -->
+  <rect x="131" y="160" width="28" height="60" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Trunk highlight to show form -->
+  <rect x="138" y="167" width="8" height="46" rx="3" fill="#4d4d4d" stroke="none"/>
+  <!-- Main trunk extension up -->
+  <rect x="136" y="105" width="18" height="65" rx="3" fill="#000000" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Trunk highlight -->
+  <rect x="141" y="110" width="6" height="55" rx="2" fill="#4d4d4d" stroke="none"/>
+  <!-- Branches -->
+  <line x1="145" y1="130" x2="80" y2="95" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <line x1="145" y1="125" x2="210" y2="90" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
+  <line x1="145" y1="120" x2="75" y2="135" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="145" y1="120" x2="215" y2="135" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="145" y1="115" x2="145" y2="85" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Dense dark-green canopy -->
+  <ellipse cx="145" cy="95" rx="105" ry="72" fill="#137827" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Dense sub-canopy mass — very full and heavy looking -->
+  <ellipse cx="100" cy="90" rx="55" ry="42" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="190" cy="88" rx="55" ry="42" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="68" rx="62" ry="45" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Darker top mass to give dense feeling -->
+  <ellipse cx="120" cy="42" rx="40" ry="30" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="170" cy="40" rx="40" ry="30" fill="#137827" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="28" rx="38" ry="24" fill="#137827" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Root buttresses at base (ebony characteristic) -->
+  <polygon points="131,218 118,220 125,165" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="159,218 172,220 165,165" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+</g></svg>

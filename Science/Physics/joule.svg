@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- dumbbell handle -->
+  <rect x="70" y="150" width="150" height="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left weight -->
+  <rect x="40" y="120" width="32" height="74" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="22" y="135" width="22" height="44" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right weight -->
+  <rect x="218" y="120" width="32" height="74" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="246" y="135" width="22" height="44" rx="3" ry="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- upward arrow showing work done lifting -->
+  <path d="M145 95 L145 30" stroke="#d01424" stroke-width="8.88" stroke-linecap="round"/>
+  <path d="M125 50 L145 25 L165 50" fill="none" stroke="#d01424" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- energy zigzag -->
+  <path d="M180 30 L200 55 L188 65 L215 95" fill="none" stroke="#fff200" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 30 L200 55 L188 65 L215 95" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

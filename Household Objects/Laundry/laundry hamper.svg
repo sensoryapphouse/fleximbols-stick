@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- laundry hamper: tall lidded hamper + cloth liner + lid closed -->
+
+  <!-- Hamper body (tall, slightly tapered) -->
+  <path d="M70 70 L220 70 L210 215 L80 215 Z"
+        fill="#9d7246" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+
+  <!-- Wicker weave - vertical stakes -->
+  <g stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round">
+    <path d="M95 75 L93 210" fill="none"/>
+    <path d="M120 75 L119 212" fill="none"/>
+    <path d="M145 75 L145 213" fill="none"/>
+    <path d="M170 75 L171 212" fill="none"/>
+    <path d="M195 75 L197 210" fill="none"/>
+  </g>
+
+  <!-- Wicker weave - horizontal weaves -->
+  <g stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round" fill="none">
+    <path d="M75 95 Q105 90 145 95 Q180 90 215 95"/>
+    <path d="M75 115 Q105 120 145 115 Q180 120 215 115"/>
+    <path d="M75 135 Q105 130 145 135 Q180 130 215 135"/>
+    <path d="M75 155 Q105 160 145 155 Q180 160 215 155"/>
+    <path d="M75 175 Q105 170 145 175 Q180 170 215 175"/>
+    <path d="M75 195 Q105 200 145 195 Q180 200 215 195"/>
+  </g>
+
+  <!-- Cloth liner peeking over top edge -->
+  <path d="M70 75 Q90 60 110 70 Q135 58 160 68 Q185 60 210 70 L220 75 L220 85 L70 85 Z"
+        fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Liner ruffle hints -->
+  <path d="M85 70 L90 78" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <path d="M125 67 L130 78" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+  <path d="M175 67 L180 78" fill="none" stroke="#90a7d6" stroke-width="4.45"/>
+
+  <!-- Lid (closed, slightly wider than body) -->
+  <path d="M60 55 L230 55 L235 75 L55 75 Z"
+        fill="#7d5e23" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+
+  <!-- Lid top stripe / weave detail -->
+  <path d="M65 62 L228 62" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M65 70 L228 70" fill="none" stroke="#5e1f0a" stroke-width="4.45" stroke-linecap="round"/>
+
+  <!-- Lid handle / knob -->
+  <ellipse cx="145" cy="48" rx="14" ry="7" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67"/>
+  <path d="M140 48 L140 38 Q140 32 145 32 Q150 32 150 38 L150 48"
+        fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

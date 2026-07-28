@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="36.81 26.57 467.39 467.39">
+<!-- sluggish: snail (slow) with a drooping/downward arrow -->
+<!-- ground line -->
+<line x1="70" y1="392" x2="470" y2="392" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- snail body / foot -->
+<path d="M 110 392 Q 96 392 96 374 Q 96 352 130 350 L 300 350 Q 318 350 326 336 L 352 292 Q 360 278 378 278 Q 398 280 400 300 Q 398 332 372 356 Q 344 382 300 386 L 130 388 Z"
+      fill="#cde3a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<path d="M 352 292 Q 372 270 398 274 Q 416 278 416 298 Q 416 320 392 326 Q 366 330 352 314 Z"
+      fill="#cde3a8" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- eye stalks -->
+<line x1="396" y1="282" x2="408" y2="232" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="372" y1="288" x2="364" y2="240" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="410" cy="226" r="11" fill="#1a1a1a"/>
+<circle cx="362" cy="234" r="11" fill="#1a1a1a"/>
+<!-- shell -->
+<circle cx="210" cy="278" r="100" fill="#f6c14b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- shell spiral -->
+<path d="M 210 278 m 0 -64 a 64 64 0 1 1 -45 19 a 42 42 0 1 0 30 -12 a 22 22 0 1 1 -15 7"
+      fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- drooping (slow) arrow, sagging downward -->
+<path d="M 151.1 138.9 L 155.0 138.5 L 158.9 138.1 L 162.8 137.9 L 166.8 137.7 L 170.7 137.6 L 174.6 137.5 L 178.5 137.6 L 182.4 137.7 L 186.3 137.9 L 190.2 138.2 L 194.2 138.6 L 198.1 139.0 L 202.0 139.6 L 205.9 140.2 L 209.8 140.9 L 213.8 141.7 L 217.7 142.6 L 221.6 143.5 L 225.5 144.5 L 229.5 145.6 L 233.4 146.8 L 237.3 148.1 L 241.3 149.5 L 245.2 150.9 L 249.2 152.4 L 253.1 154.0 L 257.1 155.7 L 261.0 157.5 L 265.0 159.4 L 269.0 161.3 L 272.9 163.3 L 276.9 165.4 L 280.9 167.6 L 284.9 169.9 L 279.3 179.4 L 314.0 178.0 L 299.5 144.9 L 293.9 154.4 L 289.7 151.9 L 285.5 149.6 L 281.3 147.4 L 277.0 145.2 L 272.8 143.1 L 268.6 141.1 L 264.3 139.2 L 260.1 137.4 L 255.8 135.7 L 251.6 134.1 L 247.3 132.5 L 243.1 131.0 L 238.8 129.7 L 234.5 128.4 L 230.3 127.2 L 226.0 126.0 L 221.7 125.0 L 217.4 124.1 L 213.2 123.2 L 208.9 122.5 L 204.6 121.8 L 200.3 121.2 L 196.0 120.7 L 191.8 120.3 L 187.5 120.0 L 183.2 119.7 L 178.9 119.6 L 174.6 119.5 L 170.3 119.6 L 166.0 119.7 L 161.8 119.9 L 157.5 120.2 L 153.2 120.6 L 148.9 121.1 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

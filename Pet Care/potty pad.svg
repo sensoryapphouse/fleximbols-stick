@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- outer raised plastic tray frame (with depth) -->
+  <path d="M25 70 L265 70 L255 210 L35 210 Z" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- raised edge top face -->
+  <path d="M25 70 L265 70 L260 85 L30 85 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- inner well / recessed pocket holding the pad -->
+  <path d="M40 90 L250 90 L242 200 L48 200 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pad sitting inside the tray -->
+  <path d="M50 100 L240 100 L233 192 L57 192 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- pad blue inner zone -->
+  <path d="M62 112 L228 112 L222 180 L68 180 Z" fill="#dff3fd" stroke="#2a4ec0" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- grid lines on pad -->
+  <line x1="68" y1="135" x2="225" y2="135" stroke="#90a7d6" stroke-width="4.45"/>
+  <line x1="67" y1="158" x2="224" y2="158" stroke="#90a7d6" stroke-width="4.45"/>
+  <line x1="115" y1="113" x2="113" y2="179" stroke="#90a7d6" stroke-width="4.45"/>
+  <line x1="160" y1="113" x2="160" y2="180" stroke="#90a7d6" stroke-width="4.45"/>
+  <!-- small paw print on pad -->
+  <ellipse cx="145" cy="155" rx="10" ry="8" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="134" cy="142" rx="4" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="138" rx="4" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="156" cy="142" rx="4" ry="5" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- corner clips / brackets on raised edges -->
+  <rect x="30" y="75" width="14" height="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="246" y="75" width="14" height="10" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1264) translate(-254.00 -267.00)"><!-- dark chevron arrow above the active cross -->
+<path d="M 142.0 138.0 L 142.0 158.0 L 126.0 158.0 L 150.0 184.0 L 174.0 158.0 L 158.0 158.0 L 158.0 138.0 Z" fill="#2f9e4a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+
+
+
+<!-- ACTIVE: big solid red cross = FALSE -->
+<rect x="58" y="216" width="184" height="184" rx="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<line x1="96" y1="254" x2="204" y2="362" stroke="#1a1a1a" stroke-width="38" stroke-linecap="round"/><line x1="96" y1="254" x2="204" y2="362" stroke="#e0473c" stroke-width="30" stroke-linecap="round"/>
+<line x1="204" y1="254" x2="96" y2="362" stroke="#1a1a1a" stroke-width="38" stroke-linecap="round"/><line x1="204" y1="254" x2="96" y2="362" stroke="#e0473c" stroke-width="30" stroke-linecap="round"/>
+
+<!-- FADED counterpart: green tick = true -->
+<g opacity="0.34">
+<rect x="300" y="240" width="150" height="150" rx="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<polyline points="328,316 366,354 426,272" fill="none" stroke="#2f9e4a" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g></svg>

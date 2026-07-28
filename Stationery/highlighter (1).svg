@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Highlighter (modern): chisel-tip marker, fluorescent yellow, wide highlighted stripe -->
+
+  <!-- Cap (left end, angular chisel shape) -->
+  <rect x="22" y="96" width="36" height="42" rx="10" ry="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Cap clip -->
+  <rect x="52" y="98" width="8" height="56" rx="3" ry="3" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="56" cy="156" rx="5" ry="5" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Main barrel: bright fluorescent yellow, chunky -->
+  <rect x="58" y="97" width="160" height="40" rx="8" ry="8" fill="#fff200" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Barrel label band (orange accent) -->
+  <rect x="78" y="99" width="100" height="36" rx="4" fill="#f7de58" stroke="none"/>
+  <!-- Barrel shine -->
+  <rect x="65" y="100" width="140" height="10" rx="4" fill="#ffffff" stroke="none"/>
+
+  <!-- Chisel tip transition section -->
+  <rect x="218" y="100" width="30" height="34" rx="4" ry="4" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+
+  <!-- Chisel tip: angular wedge shape (hallmark of chisel-tip marker) -->
+  <path d="M 248,100 L 270,108 L 270,126 L 248,134 Z" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Chisel tip felt edge (dark) -->
+  <line x1="270" y1="108" x2="270" y2="126" stroke="#4d4d4d" stroke-width="7.40" stroke-linecap="round"/>
+
+  <!-- Wide highlighted stripe being applied over text (below the pen) -->
+  <!-- Paper lines of text -->
+  <line x1="38" y1="175" x2="250" y2="175" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="38" y1="188" x2="250" y2="188" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="38" y1="201" x2="250" y2="201" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Fluorescent yellow highlight stripe over middle line (wide, semi-transparent look) -->
+  <rect x="80" y="168" width="158" height="16" rx="3" fill="#fff200" stroke="#f2e40d" stroke-width="2.96"/>
+  <!-- Text visible through highlight (redraw line over stripe) -->
+  <line x1="85" y1="176" x2="232" y2="176" stroke="#4d4d4d" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

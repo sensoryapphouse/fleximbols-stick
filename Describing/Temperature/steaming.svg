@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="69.90 44.30 399.52 399.52">
+<!-- STEAMING: cup/mug with strong rising steam (the steam is the subject) -->
+<!-- three bold steam plumes -->
+<g fill="none" stroke="#9aa7b3" stroke-width="11" stroke-linecap="round">
+<path d="M 206 196 q -24 -26 0 -52 q 24 -26 0 -52"/>
+<path d="M 262 178 q -24 -26 0 -52 q 24 -26 0 -52"/>
+<path d="M 318 196 q -24 -26 0 -52 q 24 -26 0 -52"/>
+</g>
+<!-- mug body -->
+<path d="M 156 256 L 336 256 L 326 392 Q 326 414 294 414 L 198 414 Q 166 414 166 392 Z" fill="#e9ecef" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- handle -->
+<path d="M 336 290 q 48 0 48 44 q 0 44 -48 44" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- drink surface -->
+<ellipse cx="246" cy="256" rx="90" ry="24" fill="#8a5a36" stroke="#1a1a1a" stroke-width="9"/>
+</svg>

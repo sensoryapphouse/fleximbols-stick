@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- boot upper, reinforced ankle -->
+  <path d="M55,150 L55,90 Q55,55 95,55 L175,55 Q210,55 225,80 L235,140 Q240,160 220,165 L75,165 Q55,165 55,150 Z"
+        fill="#2a4ec0" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- ankle reinforcement panel -->
+  <path d="M150,60 Q200,60 215,90 L222,135 Q224,150 210,152 L150,152 Z"
+        fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- tongue -->
+  <path d="M85,60 Q100,55 120,58 L122,150 L88,150 Z"
+        fill="#dff3fd" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- laces -->
+  <path d="M95,75 L118,82 M95,90 L118,97 M95,105 L118,112 M95,120 L118,127 M95,135 L118,142"
+        fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
+  <!-- lace eyelets -->
+  <circle cx="95" cy="75" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="118" cy="82" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="95" cy="105" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="118" cy="112" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="95" cy="135" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="118" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- blade holder -->
+  <path d="M60,165 L60,180 Q60,188 70,188 L225,188 Q235,188 235,180 L235,165 Z"
+        fill="#7f7f7f" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- holder posts -->
+  <path d="M85,188 L80,205 L100,205 Z M205,188 L200,205 L220,205 Z"
+        fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <!-- sharp steel blade -->
+  <path d="M50,205 L240,205 Q248,205 248,210 L248,213 Q248,218 240,218 L50,218 Q42,218 42,213 L42,210 Q42,205 50,205 Z"
+        fill="#efefef" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- blade highlight line -->
+  <path d="M55,211 L235,211" fill="none" stroke="#b8b8b8" stroke-width="3.33"/>
+</g></svg>

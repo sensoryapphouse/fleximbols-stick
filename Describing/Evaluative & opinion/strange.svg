@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="63.88 75.83 385.94 385.94" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- STRANGE: an odd, unfamiliar little creature/blob, asymmetric with three mismatched eyes -->
+<path d="M 150 340 Q 130 220 256 210 Q 382 220 362 340 Q 372 396 318 398 Q 286 416 256 398 Q 226 414 196 398 Q 142 396 150 340 Z" fill="#8e5fb0" stroke="#1a1a1a" stroke-width="11" stroke-linejoin="round"/>
+<!-- two antennae of different lengths -->
+<line x1="206" y1="220" x2="188" y2="150" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="188" cy="142" r="13" fill="#3fae5a" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="300" y1="220" x2="326" y2="172" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="330" cy="166" r="11" fill="#f0b400" stroke="#1a1a1a" stroke-width="7"/>
+<!-- three mismatched eyes -->
+<circle cx="212" cy="296" r="30" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="212" cy="298" r="12" fill="#1a1a1a"/>
+<circle cx="298" cy="288" r="22" fill="#fff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="298" cy="290" r="9" fill="#1a1a1a"/>
+<circle cx="256" cy="338" r="16" fill="#fff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="256" cy="340" r="7" fill="#1a1a1a"/>
+<!-- wonky mouth -->
+<path d="M 224 372 Q 256 356 290 374" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- odd-ness sparks -->
+<line x1="118" y1="262" x2="92"  y2="252" stroke="#3aa6d6" stroke-width="8" stroke-linecap="round"/>
+<line x1="396" y1="262" x2="422" y2="252" stroke="#e0473c" stroke-width="8" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.02 -2.25 535.27 535.27">
+<!-- quick: running shoe with motion streaks + forward arrow -->
+<!-- motion streak lines (behind, on the left) -->
+<line x1="40" y1="250" x2="150" y2="250" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="58" y1="290" x2="150" y2="290" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<line x1="58" y1="330" x2="150" y2="330" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- shoe sole -->
+<path d="M 150 360 Q 150 392 184 392 L 430 392 Q 470 392 470 358 Q 470 344 452 340 L 360 318 Q 300 304 264 276 L 214 240 Q 196 228 178 234 Q 158 242 158 268 L 158 320 Z"
+      fill="#e8554e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- sole base strip -->
+<path d="M 152 360 L 466 360 Q 470 372 462 382 L 178 382 Q 152 382 152 360 Z"
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- shoe collar / ankle opening -->
+<path d="M 178 234 Q 196 228 214 240 L 252 268 Q 234 286 206 282 Q 178 278 178 252 Z"
+      fill="#f4a09a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- laces -->
+<line x1="262" y1="288" x2="300" y2="262" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="284" y1="308" x2="322" y2="282" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<line x1="306" y1="326" x2="344" y2="300" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
+<!-- forward arrow -->
+<path d="M 364.0 170.0 L 468.0 170.0 L 468.0 182.0 L 500.0 160.0 L 468.0 138.0 L 468.0 150.0 L 364.0 150.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</svg>

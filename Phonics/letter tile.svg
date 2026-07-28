@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- back tile (A) red, tilted -->
+  <g transform="rotate(-8 80 130)">
+    <rect x="35" y="80" width="100" height="100" rx="10" ry="10" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.85"/>
+    <!-- letter A as path -->
+    <path d="M 60 165 L 80 95 L 95 95 L 115 165 L 102 165 L 97 148 L 78 148 L 73 165 Z M 81 137 L 94 137 L 87 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  </g>
+  <!-- middle tile (B) yellow -->
+  <g transform="rotate(4 150 125)">
+    <rect x="100" y="60" width="100" height="100" rx="10" ry="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="4.85"/>
+    <!-- letter B as path -->
+    <path d="M 122 75 L 122 145 L 158 145 C 170 145 178 138 178 128 C 178 121 174 116 168 113 C 172 110 175 105 175 99 C 175 89 168 82 157 82 L 122 82 Z M 134 90 L 156 90 C 161 90 163 93 163 98 C 163 102 161 106 156 106 L 134 106 Z M 134 118 L 158 118 C 163 118 166 121 166 126 C 166 131 163 134 158 134 L 134 134 Z" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  </g>
+  <!-- front tile (C) green -->
+  <g transform="rotate(-3 220 145)">
+    <rect x="175" y="95" width="100" height="100" rx="10" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="4.85"/>
+    <!-- letter C as path -->
+    <path d="M 258 145 C 252 165 240 175 222 175 C 200 175 188 160 188 138 C 188 116 200 102 222 102 C 240 102 252 112 258 130 L 244 134 C 240 124 233 117 222 117 C 210 117 202 125 202 138 C 202 152 210 160 222 160 C 233 160 240 154 244 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  </g>
+</g></svg>

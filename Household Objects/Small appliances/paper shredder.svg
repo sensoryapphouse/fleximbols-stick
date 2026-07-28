@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Waste bin (lower body) -->
+  <rect x="60" y="130" width="170" height="90" rx="8" ry="8" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Bin texture lines -->
+  <line x1="95" y1="145" x2="95" y2="215" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="145" y1="145" x2="145" y2="215" stroke="#b8b8b8" stroke-width="2.22"/>
+  <line x1="195" y1="145" x2="195" y2="215" stroke="#b8b8b8" stroke-width="2.22"/>
+  <!-- Shredder head unit -->
+  <rect x="50" y="90" width="190" height="48" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Paper feed slot at top -->
+  <rect x="80" y="80" width="130" height="18" rx="4" ry="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Paper sheet going into slot -->
+  <rect x="100" y="48" width="90" height="40" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Lines on input paper -->
+  <line x1="110" y1="58" x2="180" y2="58" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="110" y1="66" x2="180" y2="66" stroke="#b8b8b8" stroke-width="2.96"/>
+  <line x1="110" y1="74" x2="180" y2="74" stroke="#b8b8b8" stroke-width="2.96"/>
+  <!-- Arrow down into slot -->
+  <polygon points="141,83 149,83 145,92" fill="#000000"/>
+  <!-- Power button on shredder head -->
+  <circle cx="220" cy="110" r="8" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Straight vertical shred strips coming out bottom of head -->
+  <line x1="90" y1="138" x2="90" y2="180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="103" y1="138" x2="103" y2="185" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="116" y1="138" x2="116" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="129" y1="138" x2="129" y2="182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="142" y1="138" x2="142" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="155" y1="138" x2="155" y2="186" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="168" y1="138" x2="168" y2="174" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="181" y1="138" x2="181" y2="181" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="194" y1="138" x2="194" y2="177" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

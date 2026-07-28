@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Koto: long horizontal zither, long flat board, ~13 strings, movable bridges under each string -->
+  <!-- Long flat board body (horizontal) -->
+  <rect x="18" y="110" width="254" height="60" rx="10" fill="#9d7246" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- Top surface (slightly lighter) -->
+  <rect x="18" y="110" width="254" height="38" rx="10" fill="#7d5e23" stroke="#1a1a1a" stroke-width="0.00"/>
+  <!-- Re-outline -->
+  <rect x="18" y="110" width="254" height="60" rx="10" fill="none" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- End caps / decorative ends -->
+  <rect x="18" y="110" width="22" height="60" rx="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="250" y="110" width="22" height="60" rx="10" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- 13 strings running length of the board -->
+  <line x1="40" y1="114" x2="250" y2="114" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="118" x2="250" y2="118" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="122" x2="250" y2="122" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="126" x2="250" y2="126" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="130" x2="250" y2="130" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="134" x2="250" y2="134" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="138" x2="250" y2="138" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="142" x2="250" y2="142" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="146" x2="250" y2="146" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="40" y1="150" x2="250" y2="150" stroke="#1a1a1a" stroke-width="0.00"/>
+  <!-- String count label area — movable bridges (small triangular pegs under each string) -->
+  <!-- Bridges: placed at varying positions (ji) -->
+  <polygon points="56,148 60,138 64,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="73,148 77,138 81,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="89,148 93,137 97,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="105,148 109,136 113,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="121,148 125,136 129,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="137,148 141,136 145,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="153,148 157,136 161,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="169,148 173,136 177,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="185,148 189,137 193,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="201,148 205,138 209,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="217,148 221,139 225,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="232,148 236,139 240,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="244,148 248,140 252,148" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Feet/legs at bottom corners -->
+  <rect x="35" y="170" width="10" height="25" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="245" y="170" width="10" height="25" rx="3" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2497" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2497)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

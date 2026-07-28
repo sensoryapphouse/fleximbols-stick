@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- back wall / floor split -->
+  <rect x="10" y="20" width="270" height="170" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- floor / dance floor -->
+  <rect x="10" y="180" width="270" height="50" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- dance floor inset (checker) -->
+  <rect x="100" y="190" width="90" height="35" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="110" y="190" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="130" y="190" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="150" y="190" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="170" y="190" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="120" y="200" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="140" y="200" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="160" y="200" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="110" y="210" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="130" y="210" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="150" y="210" width="10" height="10" fill="#7f7f7f"/>
+  <rect x="170" y="210" width="10" height="10" fill="#7f7f7f"/>
+
+  <!-- CHANDELIER (centre top) -->
+  <path d="M145 20 L145 38" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="50" rx="34" ry="10" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="145" cy="60" rx="26" ry="6" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="56" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="170" cy="56" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="145" cy="66" r="4" fill="#fff200" stroke="#1a1a1a" stroke-width="3.56"/>
+
+  <!-- LEFT TABLE (round, with cloth) -->
+  <ellipse cx="50" cy="155" rx="38" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M14 155 L20 185 L80 185 L86 155" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- centrepiece flowers on left table -->
+  <rect x="44" y="135" width="12" height="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="128" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="44" cy="132" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="56" cy="132" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- left chair -->
+  <rect x="20" y="170" width="14" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="74" y="170" width="14" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- RIGHT TABLE -->
+  <ellipse cx="240" cy="155" rx="38" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <path d="M204 155 L210 185 L270 185 L276 155" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <rect x="234" y="135" width="12" height="14" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="128" r="6" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="234" cy="132" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="246" cy="132" r="4" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="210" y="170" width="14" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="264" y="170" width="14" height="22" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- CAKE TABLE (centre, behind dance floor) -->
+  <rect x="120" y="155" width="50" height="8" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M118 163 L120 180 L170 180 L172 163" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- wedding cake (small, tiered) -->
+  <rect x="132" y="130" width="26" height="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="138" y="112" width="14" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M141 100 C141 96 145 96 145 100 C145 96 149 96 149 100 C149 105 145 110 145 110 C145 110 141 105 141 100 Z" fill="#d01424" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <!-- pink decoration -->
+  <path d="M134 143 Q140 148 146 143 Q152 148 158 143" fill="none" stroke="#f266aa" stroke-width="3.56" stroke-linecap="round"/>
+
+  <!-- string lights / bunting on back wall -->
+  <path d="M14 30 Q80 60 145 35 Q220 60 280 30" fill="none" stroke="#f2e40d" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="40" cy="48" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="80" cy="55" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="210" cy="55" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="250" cy="48" r="3" fill="#fff200" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Pie dish bottom rim -->
+  <ellipse cx="145" cy="205" rx="108" ry="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Dish side walls -->
+  <path d="M37,185 Q37,212 145,220 Q253,212 253,185 L253,180 Q253,170 145,165 Q37,170 37,180 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Pie crust side golden walls -->
+  <path d="M50,150 Q50,178 145,186 Q240,178 240,150 L240,145 Q240,133 145,128 Q50,133 50,145 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Top crust surface (flaky golden) -->
+  <ellipse cx="145" cy="138" rx="95" ry="18" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Flaky crust texture lines on top -->
+  <path d="M68,132 Q100,125 130,131" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M80,140 Q110,133 145,138" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M155,130 Q185,124 220,130" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M160,142 Q190,136 225,140" fill="none" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M90,145 Q120,140 150,145" fill="none" stroke="#9d7246" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Crust crimp edge waves -->
+  <path d="M50,145 Q60,140 70,148 Q80,140 90,148 Q100,140 110,148 Q120,140 130,148 Q140,140 150,148 Q160,140 170,148 Q180,140 190,148 Q200,140 210,148 Q220,140 230,148 Q240,140 240,145" fill="none" stroke="#9d7246" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Steam vent hole in centre -->
+  <ellipse cx="145" cy="135" rx="10" ry="6" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Steam rising from vent -->
+  <path d="M142,129 Q138,120 143,112 Q148,104 144,96" fill="none" stroke="#b8b8b8" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M148,128 Q152,118 148,108 Q144,98 149,90" fill="none" stroke="#b8b8b8" stroke-width="3.89" stroke-linecap="round"/>
+  <!-- Chicken leg bone peeking through vent area -->
+  <path d="M138,148 Q134,155 130,162 Q128,168 132,170 Q136,172 138,166 L145,152 L152,166 Q154,172 158,170 Q162,168 160,162 Q156,155 152,148 Z" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.89" stroke-linejoin="round"/>
+  <!-- Bone knuckle ends -->
+  <circle cx="130" cy="171" r="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="160" cy="171" r="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

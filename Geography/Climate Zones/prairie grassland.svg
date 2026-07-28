@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- big open sky -->
+  <rect x="0" y="0" width="290" height="150" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- cloud 1 -->
+  <ellipse cx="60" cy="40" rx="25" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="45" cy="42" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="75" cy="44" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- cloud 2 -->
+  <ellipse cx="220" cy="55" rx="28" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="205" cy="58" rx="13" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <ellipse cx="240" cy="58" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- distant low horizon rolling hill -->
+  <path d="M0,160 Q70,148 145,158 Q220,168 290,150 L290,180 L0,180 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- foreground grass plain -->
+  <path d="M0,170 Q145,165 290,172 L290,240 L0,240 Z" fill="#529929" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- grass tufts -->
+  <path d="M15,185 L13,178 M20,187 L22,178 M25,186 L23,179" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M80,200 L78,192 M85,202 L87,192 M90,201 L88,193" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M250,205 L248,196 M255,207 L257,196 M260,206 L258,197" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <path d="M270,228 L268,218 M276,230 L278,218 M282,228 L280,220" stroke="#137827" stroke-width="4.45" fill="none" stroke-linecap="round"/>
+  <!-- bison body (large, shaggy front) -->
+  <ellipse cx="150" cy="200" rx="55" ry="22" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- bison shaggy hump (front shoulders) -->
+  <path d="M100,200 Q95,165 115,160 Q140,158 145,180 L145,200 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- bison head (lowered) -->
+  <path d="M85,200 Q70,195 70,215 Q72,225 88,222 Q105,220 105,205 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <!-- bison shaggy beard / face fur -->
+  <path d="M75,220 L72,232 L78,228 L80,234 L84,228 L88,232 L90,225" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bison horn -->
+  <path d="M82,206 Q75,200 78,196 L82,202 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M92,205 Q95,198 99,200 L94,206 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bison eye -->
+  <circle cx="88" cy="213" r="1.5" fill="#000000"/>
+  <!-- bison ear -->
+  <path d="M96,208 L98,202 L102,206 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bison legs -->
+  <rect x="115" y="218" width="6" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="135" y="218" width="6" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="165" y="218" width="6" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="185" y="218" width="6" height="18" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bison tail -->
+  <path d="M205,195 Q215,195 215,210" fill="none" stroke="#5e1f0a" stroke-width="8.89" stroke-linecap="round"/>
+  <path d="M205,195 Q215,195 215,210" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- shaggy texture on body -->
+  <path d="M115,185 L113,180 M125,182 L123,177 M135,180 L133,175" stroke="#1a1a1a" stroke-width="3.33" fill="none" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<!-- main body -->
+<rect x="92" y="196" width="328" height="120" rx="20" fill="#b9bdc2" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top cover plate -->
+<path d="M 92 216 Q 92 196 112 196 L 400 196 Q 420 196 420 216 L 420 240 L 92 240 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- bottom cover plate -->
+<path d="M 92 296 L 420 296 L 420 296 Q 420 316 400 316 L 112 316 Q 92 316 92 296 Z" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- row of blow holes -->
+<g fill="#3d3f44" stroke="#1a1a1a" stroke-width="5">
+<rect x="118" y="256" width="22" height="22" rx="5"/>
+<rect x="152" y="256" width="22" height="22" rx="5"/>
+<rect x="186" y="256" width="22" height="22" rx="5"/>
+<rect x="220" y="256" width="22" height="22" rx="5"/>
+<rect x="254" y="256" width="22" height="22" rx="5"/>
+<rect x="288" y="256" width="22" height="22" rx="5"/>
+<rect x="322" y="256" width="22" height="22" rx="5"/>
+<rect x="356" y="256" width="22" height="22" rx="5"/>
+</g>
+<!-- highlight line on top cover -->
+<line x1="116" y1="216" x2="396" y2="216" stroke="#e9edf1" stroke-width="6" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg2489" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg2489)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

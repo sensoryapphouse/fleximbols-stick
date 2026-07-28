@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- multi-gang extension trailing socket block with flex and plug -->
+<!-- trailing socket strip body -->
+<rect x="118" y="214" width="290" height="92" rx="20" fill="#fff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- power switch (red) at right end -->
+<rect x="356" y="234" width="38" height="52" rx="8" fill="#e23c3c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- three sockets along the strip -->
+<g>
+<!-- socket 1 -->
+<circle cx="170" cy="260" r="30" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="160" y="234" width="20" height="14" rx="3" fill="#3a3f45" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="150" y="262" width="16" height="8" rx="2" fill="#3a3f45" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="176" y="262" width="16" height="8" rx="2" fill="#3a3f45" stroke="#1a1a1a" stroke-width="4"/>
+<!-- socket 2 -->
+<circle cx="246" cy="260" r="30" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="236" y="234" width="20" height="14" rx="3" fill="#3a3f45" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="226" y="262" width="16" height="8" rx="2" fill="#3a3f45" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="252" y="262" width="16" height="8" rx="2" fill="#3a3f45" stroke="#1a1a1a" stroke-width="4"/>
+<!-- socket 3 -->
+<circle cx="322" cy="260" r="30" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="312" y="234" width="20" height="14" rx="3" fill="#3a3f45" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="302" y="262" width="16" height="8" rx="2" fill="#3a3f45" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="328" y="262" width="16" height="8" rx="2" fill="#3a3f45" stroke="#1a1a1a" stroke-width="4"/>
+</g>
+<!-- flex from left end down to a plug -->
+<path d="M 118 270 Q 70 300 96 350 Q 120 396 180 392" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round"/>
+<path d="M 118 270 Q 70 300 96 350 Q 120 396 180 392" fill="none" stroke="#6b4a2b" stroke-width="9" stroke-linecap="round"/>
+<!-- plug at flex end -->
+<rect x="176" y="364" width="86" height="60" rx="12" fill="#f4c430" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="262" y="378" width="22" height="14" rx="3" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="262" y="398" width="22" height="14" rx="3" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="6"/>
+</svg>

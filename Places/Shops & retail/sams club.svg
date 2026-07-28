@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Warehouse big-box building - grey body -->
+  <rect x="12" y="60" width="266" height="150" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- BLUE top trim band (distinct from costco red) -->
+  <rect x="8" y="48" width="274" height="20" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- BLUE bottom trim band -->
+  <rect x="8" y="190" width="274" height="17" rx="3" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Ground -->
+  <rect x="8" y="205" width="274" height="8" rx="2" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- Loading bay door right -->
+  <rect x="195" y="110" width="70" height="80" rx="2" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <line x1="195" y1="124" x2="265" y2="124" stroke="#4d4d4d" stroke-width="2.96"/>
+  <line x1="195" y1="138" x2="265" y2="138" stroke="#4d4d4d" stroke-width="2.96"/>
+  <line x1="195" y1="152" x2="265" y2="152" stroke="#4d4d4d" stroke-width="2.96"/>
+  <line x1="195" y1="166" x2="265" y2="166" stroke="#4d4d4d" stroke-width="2.96"/>
+  <line x1="195" y1="180" x2="265" y2="180" stroke="#4d4d4d" stroke-width="2.96"/>
+
+  <!-- BULK PALLET emblem (left side) -->
+  <!-- Pallet slats -->
+  <rect x="22" y="178" width="88" height="8" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="22" y="168" width="88" height="8" rx="2" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Pallet legs -->
+  <rect x="26" y="168" width="10" height="14" rx="1" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="61" y="168" width="10" height="14" rx="1" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="96" y="168" width="10" height="14" rx="1" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Boxes on pallet -->
+  <rect x="22" y="140" width="42" height="28" rx="2" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="43" y1="140" x2="43" y2="168" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="22" y1="154" x2="64" y2="154" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="66" y="146" width="44" height="22" rx="2" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <line x1="88" y1="146" x2="88" y2="168" stroke="#1a1a1a" stroke-width="2.96"/>
+
+  <!-- MEMBERSHIP CARD emblem (centre) -->
+  <rect x="105" y="118" width="80" height="52" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Card chip -->
+  <rect x="118" y="130" width="18" height="14" rx="2" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Card magnetic stripe -->
+  <rect x="105" y="152" width="80" height="8" rx="0" fill="#1d0e82" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Card decorative lines -->
+  <line x1="142" y1="126" x2="178" y2="126" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="142" y1="133" x2="178" y2="133" stroke="#90a7d6" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

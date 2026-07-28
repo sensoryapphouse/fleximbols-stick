@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- aroma swirls (above pan) -->
+  <path d="M90 50 Q80 40 90 30 Q100 20 90 10" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M140 45 Q130 35 140 25 Q150 15 140 5" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <path d="M190 50 Q180 40 190 30 Q200 20 190 10" fill="none" stroke="#7f7f7f" stroke-width="5.33" stroke-linecap="round"/>
+  <!-- pan handle -->
+  <rect x="225" y="135" width="55" height="16" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <!-- pan body (frying pan) -->
+  <path d="M30 130 L230 130 L220 175 Q220 195 200 200 L60 200 Q40 195 40 175 Z" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
+  <!-- pan interior -->
+  <ellipse cx="130" cy="135" rx="100" ry="14" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- toasting nuts (golden brown almonds) -->
+  <ellipse cx="65" cy="140" rx="13" ry="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 65 140)"/>
+  <ellipse cx="95" cy="135" rx="13" ry="9" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 95 135)"/>
+  <ellipse cx="130" cy="142" rx="13" ry="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-5 130 142)"/>
+  <ellipse cx="160" cy="135" rx="13" ry="9" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 160 135)"/>
+  <ellipse cx="195" cy="140" rx="13" ry="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 195 140)"/>
+  <ellipse cx="80" cy="155" rx="13" ry="9" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 80 155)"/>
+  <ellipse cx="115" cy="158" rx="13" ry="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 115 158)"/>
+  <ellipse cx="150" cy="160" rx="13" ry="9" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(5 150 160)"/>
+  <ellipse cx="180" cy="158" rx="13" ry="9" fill="#e6b98a" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25 180 158)"/>
+  <!-- nut centre lines -->
+  <line x1="58" y1="135" x2="72" y2="145" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="125" y1="137" x2="135" y2="147" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="190" y1="135" x2="200" y2="145" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="108" y1="153" x2="122" y2="163" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="173" y1="153" x2="187" y2="163" stroke="#1a1a1a" stroke-width="2.67"/>
+</g></svg>

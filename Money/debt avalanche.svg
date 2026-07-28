@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- mountain slope -->
+  <path d="M0 230 L80 40 L160 130 L220 80 L290 230 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- snow caps -->
+  <path d="M60 90 L80 40 L100 90 L88 85 L80 95 L72 85 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M205 110 L220 80 L235 110 L227 105 L220 113 L213 105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- tumbling blocks (debts) -->
+  <rect x="40" y="150" width="32" height="32" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 56 166)"/>
+  <path d="M48 158 L48 178 M42 162 Q42 166 48 167 Q54 168 54 172 Q54 176 48 176 Q42 176 42 172" fill="none" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-20 56 166)"/>
+
+  <rect x="100" y="175" width="32" height="32" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 116 191)"/>
+  <path d="M108 183 L108 203 M102 187 Q102 191 108 192 Q114 193 114 197 Q114 201 108 201 Q102 201 102 197" fill="none" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round" transform="rotate(15 116 191)"/>
+
+  <rect x="160" y="190" width="32" height="32" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 176 206)"/>
+  <path d="M168 198 L168 218 M162 202 Q162 206 168 207 Q174 208 174 212 Q174 216 168 216 Q162 216 162 212" fill="none" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-10 176 206)"/>
+
+  <rect x="220" y="200" width="32" height="32" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25 236 216)"/>
+  <path d="M228 208 L228 228 M222 212 Q222 216 228 217 Q234 218 234 222 Q234 226 228 226 Q222 226 222 222" fill="none" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round" transform="rotate(25 236 216)"/>
+
+  <!-- decreasing arrow down -->
+  <path d="M260 50 Q270 120 270 200" fill="none" stroke="#137827" stroke-width="7.40" stroke-linecap="round"/>
+  <path d="M270 200 L260 188 L280 188 Z" fill="#137827" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- small puffs of dust -->
+  <circle cx="20" cy="200" r="6" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="30" cy="215" r="5" fill="#efefef" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

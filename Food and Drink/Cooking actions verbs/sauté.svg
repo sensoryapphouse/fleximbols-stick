@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Flame under pan -->
+  <path d="M80 225 Q74 212 82 202 Q76 194 84 184 Q88 196 84 204 Q94 190 92 176 Q102 190 99 200 Q108 186 108 173 Q116 187 112 200 Q119 188 120 177 Q126 190 122 200 Q128 189 129 179 Q134 191 130 200 Q136 191 136 182 Q141 192 137 200 Q142 192 143 184 Q147 193 143 200 Q148 192 149 184 Q153 193 150 200 Q153 190 154 182 Q159 192 156 200 Q160 190 161 182 Q165 192 162 200 Q167 210 163 225 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M87 225 Q84 214 87 206 Q96 193 99 200 Q107 187 108 177 Q115 188 112 200 Q120 190 120 180 Q125 190 122 200 Q130 191 129 182 Q134 191 130 201 Q137 192 137 184 Q141 193 137 201 Q143 193 143 186 Q147 194 143 201 Q149 193 150 186 Q153 193 150 201 Q154 192 156 200 Q159 210 156 225 Z" fill="#ff9900" stroke="none"/>
+  <!-- Shallow sauté pan (lower sides than fry) -->
+  <path d="M72 208 Q70 225 145 225 Q220 225 218 208 Q212 204 205 202 L85 202 Q78 204 72 208 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pan interior -->
+  <path d="M85 207 Q83 220 145 220 Q207 220 205 207 Z" fill="#efefef" stroke="none"/>
+  <!-- Pan rim -->
+  <rect x="68" y="196" width="154" height="12" rx="6" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Pan handle -->
+  <rect x="218" y="198" width="58" height="13" rx="6" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Butter pool (golden) -->
+  <ellipse cx="145" cy="213" rx="50" ry="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Small food pieces (mushrooms/vegetables) in pan -->
+  <ellipse cx="118" cy="207" rx="11" ry="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="205" rx="10" ry="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="170" cy="207" rx="11" ry="7" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Food being flipped (pan-flip arc) — piece leaving pan -->
+  <path d="M155 200 Q175 168 195 155" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-dasharray="5,4" stroke-linecap="round"/>
+  <!-- Airborne food piece -->
+  <ellipse cx="198" cy="150" rx="13" ry="9" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 198 150)"/>
+  <!-- Pan tilt indicator (motion arc at handle end) -->
+  <path d="M218 198 Q235 185 240 175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="4,3" stroke-linecap="round"/>
+  <!-- Steam wisps -->
+  <path d="M120 198 Q117 188 120 180 Q123 173 120 166" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M148 196 Q145 186 148 178 Q151 171 148 164" fill="none" stroke="#efefef" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

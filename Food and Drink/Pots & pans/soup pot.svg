@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Soup pot body: medium-wide, two handles, lid, ladle resting in it -->
+  <path d="M65,95 Q58,185 145,188 Q232,185 225,95 Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lower body shade band -->
+  <path d="M72,155 Q70,185 145,188 Q220,185 218,155 Z" fill="#1d0e82" stroke="none"/>
+  <!-- Rim top ellipse -->
+  <ellipse cx="145" cy="95" rx="80" ry="19" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Interior at rim (soup surface visible) -->
+  <ellipse cx="145" cy="95" rx="70" ry="14" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Lid partially on, angled (ladle pushes it open) -->
+  <path d="M68,95 Q68,64 145,58 Q202,64 215,95" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Lid highlight -->
+  <path d="M92,80 Q108,62 145,59" fill="none" stroke="#90a7d6" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Lid rim -->
+  <ellipse cx="145" cy="95" rx="73" ry="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Lid knob -->
+  <rect x="137" y="44" width="16" height="16" rx="4" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="44" rx="8" ry="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Left loop handle -->
+  <path d="M65,120 Q36,120 36,135 Q36,150 65,150" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Right loop handle -->
+  <path d="M225,120 Q254,120 254,135 Q254,150 225,150" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Ladle resting in pot: handle sticking out upper left -->
+  <!-- Ladle handle line -->
+  <line x1="115" y1="58" x2="85" y2="25" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
+  <!-- Ladle bowl (ellipse inside pot at soup surface) -->
+  <ellipse cx="123" cy="93" rx="20" ry="12" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Ladle bowl depth curve -->
+  <path d="M103,93 Q123,105 143,93" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Base -->
+  <ellipse cx="145" cy="186" rx="68" ry="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="3.33"/>
+</g></svg>

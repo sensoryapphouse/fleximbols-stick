@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Clipboard backing -->
+  <rect x="55" y="38" width="165" height="185" rx="7" ry="7" fill="#eed5b6" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <!-- Clipboard clip -->
+  <rect x="110" y="28" width="65" height="22" rx="6" ry="6" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <rect x="128" y="24" width="30" height="14" rx="5" ry="5" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+
+  <!-- Paper sheet on clipboard -->
+  <rect x="65" y="56" width="145" height="160" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+
+  <!-- Tick boxes row 1 -->
+  <rect x="78" y="72" width="18" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Tick mark in box 1 -->
+  <path d="M82 81 L86 87 L94 74" fill="none" stroke="#529929" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="78" y="99" width="18" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <rect x="78" y="126" width="18" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <!-- Tick mark in box 3 -->
+  <path d="M82 135 L86 141 L94 128" fill="none" stroke="#529929" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lines next to tick boxes -->
+  <line x1="104" y1="81" x2="198" y2="81" stroke="#b8b8b8" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="104" y1="108" x2="198" y2="108" stroke="#b8b8b8" stroke-width="3.81" stroke-linecap="round"/>
+  <line x1="104" y1="135" x2="198" y2="135" stroke="#b8b8b8" stroke-width="3.81" stroke-linecap="round"/>
+
+  <!-- Star rating row (5 stars) -->
+  <!-- Star 1 filled -->
+  <polygon points="86,160 88,153 90,160 97,160 92,164 94,171 88,167 82,171 84,164 79,160" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Star 2 filled -->
+  <polygon points="104,160 106,153 108,160 115,160 110,164 112,171 106,167 100,171 102,164 97,160" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Star 3 filled -->
+  <polygon points="122,160 124,153 126,160 133,160 128,164 130,171 124,167 118,171 120,164 115,160" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Star 4 filled -->
+  <polygon points="140,160 142,153 144,160 151,160 146,164 148,171 142,167 136,171 138,164 133,160" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <!-- Star 5 empty -->
+  <polygon points="158,160 160,153 162,160 169,160 164,164 166,171 160,167 154,171 156,164 151,160" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+
+  <!-- Pencil leaning across bottom-right -->
+  <rect x="175" y="175" width="12" height="50" rx="3" ry="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" transform="rotate(-30 181 200)"/>
+  <polygon points="178,215 184,215 181,225" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" transform="rotate(-30 181 220)"/>
+  <rect x="175" y="172" width="12" height="8" rx="2" ry="2" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" transform="rotate(-30 181 176)"/>
+</g></svg>

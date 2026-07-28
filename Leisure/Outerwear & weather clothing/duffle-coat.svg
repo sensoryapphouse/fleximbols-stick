@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80.48 94.99 351.03 351.03">
+<!-- left sleeve -->
+<path d="M 152 172 L 108 214 L 132 280 L 174 250 Z" fill="#a8763e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- right sleeve -->
+<path d="M 360 172 L 404 214 L 380 280 L 338 250 Z" fill="#a8763e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body (long coat) -->
+<path d="M 152 172 L 198 142 L 314 142 L 360 172 L 338 250 L 342 412 L 256 420 L 170 412 L 174 250 Z" fill="#c08a4d" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- centre front opening -->
+<line x1="256" y1="150" x2="256" y2="414" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<!-- hood -->
+<path d="M 204 142 Q 256 100 308 142 Q 256 130 204 142 Z" fill="#a8763e" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- toggle fastenings (the duffle-coat signature) -->
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round">
+<line x1="216" y1="206" x2="296" y2="206"/>
+<line x1="216" y1="266" x2="296" y2="266"/>
+<line x1="216" y1="326" x2="296" y2="326"/>
+</g>
+<g fill="#5b3a1a" stroke="#1a1a1a" stroke-width="6">
+<rect x="200" y="196" width="20" height="20" rx="6"/>
+<rect x="292" y="196" width="20" height="20" rx="6"/>
+<rect x="200" y="256" width="20" height="20" rx="6"/>
+<rect x="292" y="256" width="20" height="20" rx="6"/>
+<rect x="200" y="316" width="20" height="20" rx="6"/>
+<rect x="292" y="316" width="20" height="20" rx="6"/>
+</g>
+</svg>

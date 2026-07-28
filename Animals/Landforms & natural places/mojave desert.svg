@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="150" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- sun -->
+  <circle cx="230" cy="50" r="22" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- distant mesa -->
+  <path d="M0,150 L0,115 L60,115 L70,105 L150,105 L160,115 L290,115 L290,150 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- sandy ground -->
+  <rect x="0" y="145" width="290" height="95" fill="#eed5b6" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- joshua tree trunk -->
+  <path d="M55,225 L55,160 C55,150 50,145 45,142 C50,140 60,140 60,150 L60,135 C60,128 70,125 70,135 C72,128 78,128 78,138 L78,225 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- joshua tree spiky tufts -->
+  <path d="M40,140 L45,128 L48,140 L52,125 L55,142 L58,128 L62,142 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M65,138 L68,122 L72,138 L75,118 L78,140 L82,125 L84,140 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <!-- saguaro-like cactus center -->
+  <path d="M145,225 L145,160 C145,155 148,152 152,152 L158,152 C162,152 165,155 165,160 L165,140 C165,135 168,132 172,132 L175,132 C179,132 182,135 182,140 L182,170 L182,170 L182,225 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- left arm of cactus -->
+  <path d="M145,175 L130,175 C126,175 123,178 123,182 L123,200 L133,200 L133,185 L145,185 Z" fill="#67832d" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- small barrel cactus right -->
+  <ellipse cx="240" cy="210" rx="18" ry="20" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M232,195 L232,225 M240,192 L240,228 M248,195 L248,225" stroke="#1a1a1a" stroke-width="2.22" fill="none"/>
+</g></svg>

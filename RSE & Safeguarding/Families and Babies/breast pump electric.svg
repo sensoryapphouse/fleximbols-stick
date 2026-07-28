@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- electric breast pump: motor unit with display, tube to flange + collection bottle -->
+  <!-- motor unit body (left) -->
+  <rect x="20" y="80" width="110" height="120" rx="12" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- digital display screen -->
+  <rect x="35" y="95" width="80" height="40" rx="4" fill="#392170" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- display bars showing suction level -->
+  <rect x="45" y="110" width="8" height="15" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="58" y="105" width="8" height="20" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="71" y="100" width="8" height="25" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="84" y="105" width="8" height="20" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="97" y="115" width="8" height="10" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- control buttons -->
+  <circle cx="50" cy="160" r="9" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="75" cy="160" r="9" fill="#529929" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="100" cy="160" r="9" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- plus/minus icons -->
+  <path d="M46 160 L54 160 M50 156 L50 164" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M71 160 L79 160" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- power label area -->
+  <rect x="35" y="178" width="80" height="14" rx="3" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="185" r="3" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="65" cy="185" r="3" fill="#f7de58" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- flexible tube curving from motor to flange -->
+  <path d="M130 110 Q175 75 215 105" stroke="#7f7f7f" stroke-width="17.78" stroke-linecap="round" fill="none"/>
+  <path d="M130 110 Q175 75 215 105" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
+  <!-- flange + bottle on right -->
+  <!-- bottle body -->
+  <path d="M200 140 L200 210 Q200 220 210 220 L260 220 Q270 220 270 210 L270 140 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- milk -->
+  <path d="M203 175 L203 210 Q203 217 210 217 L260 217 Q267 217 267 210 L267 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- bottle marks -->
+  <path d="M207 160 L218 160" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
+  <path d="M207 185 L218 185" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
+  <path d="M207 200 L218 200" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
+  <!-- collar -->
+  <rect x="197" y="130" width="76" height="12" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- flange funnel -->
+  <path d="M205 130 L195 105 L275 105 L265 130 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <ellipse cx="235" cy="100" rx="42" ry="12" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="235" cy="100" rx="28" ry="6" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

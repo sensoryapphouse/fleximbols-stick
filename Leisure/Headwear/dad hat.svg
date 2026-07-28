@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Low unstructured crown — softer, slightly slumped shape -->
+  <path d="M78,152 Q74,108 145,90 Q216,108 212,152 Z" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Curved brim — curves gently downward at edges -->
+  <path d="M78,152 Q55,155 42,162 Q38,170 48,175 Q80,178 145,176 Q210,178 242,175 Q252,170 248,162 Q235,155 212,152 Z" fill="#7d5e23" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Brim underside -->
+  <path d="M78,152 Q55,156 44,164 Q80,168 145,166 Q210,168 246,164 Q235,156 212,152" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sweatband strip -->
+  <rect x="78" y="146" width="134" height="12" rx="4" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Soft centre seam only (unstructured look, no rigid panels) -->
+  <path d="M145,90 Q145,120 145,152" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Slight top indent showing soft crown -->
+  <path d="M120,93 Q145,86 170,93" fill="none" stroke="#7d5e23" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Eyelets (two visible on front) -->
+  <circle cx="122" cy="118" r="5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="118" r="5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Buckle strap at back -->
+  <rect x="120" y="164" width="50" height="10" rx="3" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="140" y="162" width="10" height="14" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

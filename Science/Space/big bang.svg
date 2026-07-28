@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- expanding burst from central singularity with rays radiating outward + galaxies forming at outer edges -->
+  <!-- dark space backdrop (not full canvas - leaves border) -->
+  <circle cx="145" cy="120" r="110" fill="#1d0e82" stroke="#1a1a1a" stroke-width="6.22"/>
+
+  <!-- outer rays (radiating outward) -->
+  <g stroke="#f2e40d" stroke-width="10.67" stroke-linecap="round" fill="none">
+    <path d="M 145 120 L 145 30"/>
+    <path d="M 145 120 L 145 210"/>
+    <path d="M 145 120 L 55 120"/>
+    <path d="M 145 120 L 235 120"/>
+    <path d="M 145 120 L 80 55"/>
+    <path d="M 145 120 L 210 55"/>
+    <path d="M 145 120 L 80 185"/>
+    <path d="M 145 120 L 210 185"/>
+  </g>
+  <g stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" fill="none">
+    <path d="M 145 120 L 145 30"/>
+    <path d="M 145 120 L 145 210"/>
+    <path d="M 145 120 L 55 120"/>
+    <path d="M 145 120 L 235 120"/>
+    <path d="M 145 120 L 80 55"/>
+    <path d="M 145 120 L 210 55"/>
+    <path d="M 145 120 L 80 185"/>
+    <path d="M 145 120 L 210 185"/>
+  </g>
+
+  <!-- shorter intermediate rays -->
+  <g stroke="#ff9900" stroke-width="7.11" stroke-linecap="round" fill="none">
+    <path d="M 145 120 L 175 50"/>
+    <path d="M 145 120 L 115 50"/>
+    <path d="M 145 120 L 175 190"/>
+    <path d="M 145 120 L 115 190"/>
+    <path d="M 145 120 L 60 90"/>
+    <path d="M 145 120 L 230 90"/>
+    <path d="M 145 120 L 60 150"/>
+    <path d="M 145 120 L 230 150"/>
+  </g>
+
+  <!-- central burst ring -->
+  <circle cx="145" cy="120" r="36" fill="#f2e40d" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="145" cy="120" r="22" fill="#ff9900" stroke="#1a1a1a" stroke-width="5.33"/>
+  <!-- singularity point -->
+  <circle cx="145" cy="120" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- galaxies forming at outer edges (spiral hints) -->
+  <g>
+    <ellipse cx="50" cy="45" rx="14" ry="7" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 50 45)"/>
+    <circle cx="50" cy="45" r="3" fill="#ffffff"/>
+  </g>
+  <g>
+    <ellipse cx="245" cy="50" rx="14" ry="7" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 245 50)"/>
+    <circle cx="245" cy="50" r="3" fill="#ffffff"/>
+  </g>
+  <g>
+    <ellipse cx="40" cy="200" rx="14" ry="7" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 40 200)"/>
+    <circle cx="40" cy="200" r="3" fill="#ffffff"/>
+  </g>
+  <g>
+    <ellipse cx="250" cy="195" rx="14" ry="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 250 195)"/>
+    <circle cx="250" cy="195" r="3" fill="#ffffff"/>
+  </g>
+
+  <!-- scattered stars -->
+  <circle cx="90" cy="35" r="2.5" fill="#ffffff"/>
+  <circle cx="200" cy="30" r="2.5" fill="#ffffff"/>
+  <circle cx="265" cy="120" r="2.5" fill="#ffffff"/>
+  <circle cx="30" cy="120" r="2.5" fill="#ffffff"/>
+  <circle cx="100" cy="215" r="2.5" fill="#ffffff"/>
+  <circle cx="200" cy="215" r="2.5" fill="#ffffff"/>
+</g></svg>

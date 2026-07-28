@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Hand/finger -->
+  <path d="M 118,205 Q 116,188 115,168 L 115,105 Q 115,92 125,92 Q 135,92 135,105 L 135,152 L 148,152 Q 158,152 158,162 L 158,176 Q 168,172 178,176 Q 188,180 188,190 L 185,212 Q 183,224 165,224 L 128,224 Q 115,224 118,212 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Knuckle lines -->
+  <path d="M 115,124 L 135,124 M 115,140 L 135,140" fill="none" stroke="#5e1f0a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Fingertip highlight -->
+  <ellipse cx="125" cy="96" rx="9" ry="6" fill="#e6b98a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <!-- Press ripple (flattened = held down) -->
+  <ellipse cx="125" cy="72" rx="18" ry="8" fill="none" stroke="#2a4ec0" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <ellipse cx="125" cy="72" rx="30" ry="13" fill="none" stroke="#2a4ec0" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <!-- Clock face -->
+  <circle cx="195" cy="62" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="195" cy="62" r="3" fill="#000000" stroke="none"></circle>
+  <!-- Clock hands: hour ~10, minute ~12 (short press duration) -->
+  <path d="M 195,62 L 183,48" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 195,62 L 195,42" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
+  <!-- Clock tick marks -->
+  <path d="M 195,32 L 195,36 M 220,38 L 218,42 M 227,62 L 223,62 M 220,86 L 218,82 M 195,92 L 195,88 M 170,86 L 172,82 M 163,62 L 167,62 M 170,38 L 172,42" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></path>
+</g></svg>

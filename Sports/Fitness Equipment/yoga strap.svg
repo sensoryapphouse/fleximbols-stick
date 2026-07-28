@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Yoga strap: long flat cotton strap coiled/folded with D-ring buckle -->
+  <!-- Strap body looped/folded - show a long strap folded back on itself -->
+  <!-- Bottom fold of strap going right -->
+  <path d="M 45,185 L 235,185 Q 248,185 248,175 L 248,162 Q 248,152 235,152 L 75,152" fill="none" stroke="#3aa6a0" stroke-width="19.99" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 45,185 L 235,185 Q 248,185 248,175 L 248,162 Q 248,152 235,152 L 75,152" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top section of strap going back left -->
+  <path d="M 75,152 L 75,120 Q 75,108 62,108 L 45,108 L 45,185" fill="none" stroke="#3aa6a0" stroke-width="19.99" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 75,152 L 75,120 Q 75,108 62,108 L 45,108 L 45,185" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Long strap going up from buckle area -->
+  <rect x="38" y="55" width="16" height="60" rx="4" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Fabric weave texture on strap (horizontal lines) -->
+  <line x1="46" y1="68" x2="46" y2="112" stroke="#1a1a1a" stroke-width="2.22" stroke-dasharray="3,5" stroke-linecap="round"/>
+  <!-- D-ring buckle at the top end of strap -->
+  <!-- D-ring outer shape -->
+  <path d="M 30,45 L 30,22 Q 30,12 46,12 Q 62,12 62,22 L 62,45 Z" fill="none" stroke="#f7de58" stroke-width="6.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- D-ring flat bar (the straight side of the D) -->
+  <line x1="30" y1="45" x2="62" y2="45" stroke="#f7de58" stroke-width="8.88" stroke-linecap="round"/>
+  <!-- Buckle body where strap feeds through -->
+  <rect x="28" y="42" width="36" height="16" rx="3" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Centre bar of buckle -->
+  <line x1="46" y1="43" x2="46" y2="57" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Cotton strap texture lines on the long body sections -->
+  <line x1="100" y1="155" x2="100" y2="182" stroke="#1a1a1a" stroke-width="2.22" stroke-dasharray="3,4"/>
+  <line x1="130" y1="155" x2="130" y2="182" stroke="#1a1a1a" stroke-width="2.22" stroke-dasharray="3,4"/>
+  <line x1="160" y1="155" x2="160" y2="182" stroke="#1a1a1a" stroke-width="2.22" stroke-dasharray="3,4"/>
+  <line x1="190" y1="155" x2="190" y2="182" stroke="#1a1a1a" stroke-width="2.22" stroke-dasharray="3,4"/>
+  <line x1="220" y1="155" x2="220" y2="182" stroke="#1a1a1a" stroke-width="2.22" stroke-dasharray="3,4"/>
+</g></svg>

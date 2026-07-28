@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Surface being scrubbed -->
+  <rect x="30" y="160" width="230" height="30" rx="5" fill="#efefef" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Suds/foam on surface -->
+  <ellipse cx="110" cy="160" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="157" rx="22" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="180" cy="161" rx="16" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="130" cy="154" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Scrub brush -->
+  <rect x="95" y="115" width="90" height="32" rx="6" fill="#9d7246" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Brush bristles -->
+  <line x1="108" y1="147" x2="108" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="120" y1="147" x2="120" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="132" y1="147" x2="132" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="144" y1="147" x2="144" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="156" y1="147" x2="156" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="168" y1="147" x2="168" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Hand/arm holding brush -->
+  <path d="M140 115 L140 80 Q140 70 150 70 L170 70 Q180 70 180 80 L180 115 Z" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Forearm -->
+  <path d="M145 70 L155 35 Q158 25 168 28 L175 70" fill="#eed5b6" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Back-and-forth motion lines -->
+  <path d="M60 132 Q75 125 90 132" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M55 145 Q72 138 88 145" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M192 132 Q207 125 222 132" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M195 145 Q210 138 225 145" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Effort arrows left/right -->
+  <polygon points="65,120 50,113 50,127" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <polygon points="220,120 235,113 235,127" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="2.96"/>
+</g><g transform="translate(460,5) scale(0.4825) translate(-166,-5)"><polygon points="82,149 83,157 84,166 86,174 89,182 92,189 97,196 101,202 107,208 113,214 119,219 126,223 134,226 141,229 149,231 158,232 166,233 175,232 183,231 191,229 199,226 206,223 213,219 220,214 226,208 231,202 236,196 240,189 244,182 246,174 249,166 250,157 250,149 250,140 249,132 246,124 244,116 240,109 236,102 231,95 226,89 220,84 213,79 206,75 199,71 191,69 183,67 175,65 166,65 158,65 149,67 141,69 134,71 126,75 119,79 113,84 107,89 101,95 97,102 92,109 89,116 86,124 84,132 83,140 82,149" fill="#ffffff" stroke="#000000" stroke-width="8" fill-rule="evenodd"/><polyline points="166,209 166,225" fill="none" stroke="#000000" stroke-width="8"/><polyline points="106,149 90,149"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="243,149 226,149" fill="none" stroke="#000000" stroke-width="8"/><polyline points="124,191 112,203" fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,95 209,106"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,203 209,191" fill="none" stroke="#000000" stroke-width="8"/><polyline points="112,95 123,106"  fill="none" stroke="#000000" stroke-width="8"/><polygon points="158,81 159,84 161,87 164,89 167,90 171,89 173,87 175,84 176,81 175,77 173,74 171,72 167,72 164,72 161,74 159,77 158,81" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="168,98 174,153 159,151 168,98" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="157,149 158,152 160,155 163,157 166,158 170,157 173,155 175,152 175,149 175,145 173,142 170,141 166,140 163,141 160,142 158,145 157,149" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="112,256 205,256 205,243 251,272 205,301 205,288 112,288" fill="#e03734" stroke="#000000" stroke-width="6"/></g></svg>

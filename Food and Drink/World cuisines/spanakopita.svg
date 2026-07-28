@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Spanakopita: golden flaky triangular filo pastry with green spinach filling -->
+  <!-- Shadow/plate -->
+  <ellipse cx="145" cy="215" rx="112" ry="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Main triangle body - filo pastry golden -->
+  <polygon points="145,35 40,205 250,205" fill="#f7de58" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Filo layering - horizontal lines across triangle showing pastry layers -->
+  <line x1="75" y1="155" x2="215" y2="155" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="60" y1="175" x2="230" y2="175" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="95" y1="135" x2="197" y2="135" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="112" y1="115" x2="180" y2="115" stroke="#9d7246" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="125" y1="95" x2="167" y2="95" stroke="#9d7246" stroke-width="2.96" stroke-linecap="round"/>
+  <!-- Filo inner triangle darker gold -->
+  <polygon points="145,55 60,195 230,195" fill="#ff9900" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Crispy flaky edges on the filo layers - small wavy bits -->
+  <path d="M40,205 Q55,195 65,205 Q75,215 85,205 Q95,195 105,205" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M185,205 Q195,195 205,205 Q215,215 225,205 Q237,195 250,205" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Spinach filling peeking - green patches visible at edges and top crack -->
+  <!-- Crack at top showing filling -->
+  <path d="M145,55 Q148,75 145,95 Q142,75 145,55" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Spinach peeking at bottom left -->
+  <path d="M55,195 Q68,185 80,195 Q70,205 55,205 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Spinach peeking at bottom right -->
+  <path d="M210,195 Q222,185 235,195 Q225,205 210,205 Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Spinach peeking mid-left side -->
+  <path d="M73,165 Q84,158 90,168 Q82,175 73,172 Z" fill="#529929" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Golden-brown baked top surface sheen -->
+  <polygon points="145,55 115,115 175,115" fill="#e65a00" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

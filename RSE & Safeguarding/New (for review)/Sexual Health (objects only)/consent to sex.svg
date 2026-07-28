@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- two overlapping hearts (mutual agreement) -->
+<path d="M 200 150 C 200 120 156 110 138 140 C 120 110 76 120 76 152 C 76 200 138 240 138 240 C 138 240 200 200 200 152 Z" fill="#f06fa6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 290 150 C 290 120 246 110 228 140 C 210 110 166 120 166 152 C 166 200 228 240 228 240 C 228 240 290 200 290 152 Z" fill="#f49cc4" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- speech bubble with question mark (asking / checking in) -->
+<path d="M 322 70 L 470 70 Q 486 70 486 86 L 486 196 Q 486 212 470 212 L 372 212 L 348 250 L 348 212 L 338 212 Q 322 212 322 196 L 322 86 Q 322 70 338 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 372 116 Q 372 88 404 88 Q 436 88 436 118 Q 436 142 410 152 Q 396 158 396 178" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<circle cx="396" cy="200" r="10" fill="#1a1a1a"/>
+<!-- big green tick (agreement) -->
+<circle cx="256" cy="370" r="96" fill="#43b06a" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 206 372 L 244 412 L 312 326" fill="none" stroke="#ffffff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

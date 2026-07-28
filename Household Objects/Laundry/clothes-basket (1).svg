@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g stroke-linejoin="round" stroke-linecap="round">
+<!-- clothes mounded inside, drawn first so basket overlaps -->
+<path d="M 168 250 Q 200 196 256 214 Q 312 196 344 250 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 196 232 Q 230 206 268 224" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<!-- basket body: trapezoid, wider at top -->
+<path d="M 150 250 L 362 250 L 338 408 L 174 408 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- rim -->
+<rect x="140" y="234" width="232" height="26" rx="10" fill="#d6b483" stroke="#1a1a1a" stroke-width="9"/>
+<!-- weave verticals -->
+<line x1="206" y1="262" x2="200" y2="404" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="262" x2="256" y2="404" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="306" y1="262" x2="312" y2="404" stroke="#1a1a1a" stroke-width="6"/>
+<!-- weave horizontal -->
+<line x1="162" y1="330" x2="350" y2="330" stroke="#1a1a1a" stroke-width="6"/>
+<!-- handle cutouts on rim -->
+<line x1="178" y1="247" x2="206" y2="247" stroke="#1a1a1a" stroke-width="7"/>
+<line x1="306" y1="247" x2="334" y2="247" stroke="#1a1a1a" stroke-width="7"/>
+</g></svg>

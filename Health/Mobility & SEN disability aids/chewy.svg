@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="31.03 48.10 449.94 449.94">
+<!-- chewy: sensory chew necklace - a chewable pendant on a breakaway cord -->
+<!-- cord loop -->
+<path d="M 256 96 Q 132 120 132 240 Q 132 300 168 340" fill="none" stroke="#5a6270" stroke-width="12" stroke-linecap="round"/>
+<path d="M 256 96 Q 380 120 380 240 Q 380 300 344 340" fill="none" stroke="#5a6270" stroke-width="12" stroke-linecap="round"/>
+<!-- breakaway clasp at top -->
+<circle cx="256" cy="96" r="16" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="7"/>
+<!-- chewable pendant -->
+<path d="M 256 322 Q 196 322 188 372 Q 184 418 232 432 L 232 462 Q 256 470 280 462 L 280 432 Q 328 418 324 372 Q 316 322 256 322 Z" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<!-- textured chew ridges -->
+<line x1="220" y1="356" x2="220" y2="430" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="256" y1="350" x2="256" y2="438" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="292" y1="356" x2="292" y2="430" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

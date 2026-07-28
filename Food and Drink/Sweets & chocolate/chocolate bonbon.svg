@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Bonbon outer shell (dome shape) -->
+  <path d="M 60,150 Q 60,55 145,55 Q 230,55 230,150 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="5.92" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Base line of shell -->
+  <path d="M 60,150 L 230,150" stroke="#1a1a1a" stroke-width="5.92" stroke-linecap="round"/>
+  <!-- Cross-section: cut face showing filling (front, slightly forward) -->
+  <ellipse cx="145" cy="150" rx="85" ry="22" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.74"/>
+  <!-- Inner filling (caramel/cream) -->
+  <ellipse cx="145" cy="148" rx="60" ry="13" fill="#eed5b6" stroke="#1a1a1a" stroke-width="3.56"/>
+  <!-- Decorative pattern: zigzag drizzle on top of dome -->
+  <path d="M 85,90 L 100,80 L 115,90 L 130,80 L 145,90 L 160,80 L 175,90 L 190,80 L 205,90" fill="none" stroke="#ffffff" stroke-width="4.15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 75,115 L 90,105 L 105,115 L 120,105 L 135,115 L 150,105 L 165,115 L 180,105 L 195,115 L 210,105" fill="none" stroke="#ffffff" stroke-width="4.15" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sheen highlight on dome -->
+  <path d="M 85,80 Q 95,65 120,62" fill="none" stroke="#9d7246" stroke-width="5.92" stroke-linecap="round"/>
+  <!-- Decorative pearl on top -->
+  <circle cx="145" cy="62" r="6" fill="#f5e7c4" stroke="#1a1a1a" stroke-width="2.96"/>
+</g></svg>

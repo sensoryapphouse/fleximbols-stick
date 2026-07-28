@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="91.07 37.31 387.88 387.88"><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256 -256)">
+<!-- small box (contrast) -->
+<g opacity="0.34">
+<rect x="120" y="300" width="70" height="70" rx="8" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+</g>
+<!-- huge box (match) -->
+<rect x="250" y="170" width="200" height="200" rx="12" fill="#3aa6d6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- green arrow pointing down at the huge box -->
+<line x1="350" y1="96" x2="350" y2="150" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="350" y1="150" x2="326" y2="124" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="350" y1="150" x2="374" y2="124" stroke="#1a1a1a" stroke-width="22.0" stroke-linecap="round"/><line x1="350" y1="96" x2="350" y2="150" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="350" y1="150" x2="326" y2="124" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+<line x1="350" y1="150" x2="374" y2="124" stroke="#2f9e4a" stroke-width="16.5" stroke-linecap="round"/>
+</g></svg>

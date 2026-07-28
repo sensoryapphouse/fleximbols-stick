@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- MARIMBA-MODERN: wide warm-brown wooden bars + LONG graduated resonator tubes (key differentiator), wood frame, yarn mallets -->
+
+  <!-- Stand legs -->
+  <line x1="52" y1="205" x2="38" y2="232" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="238" y1="205" x2="252" y2="232" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="38" y1="232" x2="85" y2="232" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <line x1="205" y1="232" x2="252" y2="232" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+
+  <!-- Wood frame rails and uprights -->
+  <rect x="44" y="95" width="202" height="9" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="44" y="200" width="202" height="9" rx="3" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="44" y="95" width="9" height="114" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="237" y="95" width="9" height="114" fill="#7d5e23" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+
+  <!-- LONG resonator tubes below bars: bass left very long, treble right short -->
+  <!-- 10 tubes, each centered under a bar. Lengths: 95, 85, 75, 66, 58, 50, 43, 37, 31, 26 -->
+  <!-- Tube x positions correspond to bar centers. Bars span x=54..236. Each bar ~18px wide, gap 1. -->
+  <!-- Bar centers approx: 63,82,101,120,139,158,177,196,215,226 (10 bars) -->
+
+  <!-- Tube 1 (bass/leftmost): x=55, length=95, bottom at y=200 so top=105 -->
+  <rect x="57" y="148" width="12" height="52" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 2: length=88 -->
+  <rect x="76" y="155" width="12" height="45" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 3: length=80 -->
+  <rect x="95" y="160" width="12" height="40" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 4: length=72 -->
+  <rect x="114" y="165" width="12" height="35" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 5: length=64 -->
+  <rect x="133" y="169" width="12" height="31" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 6: length=56 -->
+  <rect x="152" y="173" width="12" height="27" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 7: length=48 -->
+  <rect x="171" y="177" width="12" height="23" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 8: length=40 -->
+  <rect x="190" y="180" width="12" height="20" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 9: length=33 -->
+  <rect x="209" y="184" width="12" height="16" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tube 10 (treble/rightmost): length=27 -->
+  <rect x="221" y="187" width="12" height="13" rx="2" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+
+  <!-- 10 wide warm-brown wooden bars across the top -->
+  <!-- Bar width=18, gap=1, total=19*10-1=189, start x=54 -->
+  <!-- Bar 1 -->
+  <rect x="54" y="103" width="18" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bar 2 -->
+  <rect x="73" y="103" width="18" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bar 3 -->
+  <rect x="92" y="103" width="18" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bar 4 -->
+  <rect x="111" y="103" width="18" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bar 5 -->
+  <rect x="130" y="103" width="18" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bar 6 -->
+  <rect x="149" y="103" width="18" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bar 7 -->
+  <rect x="168" y="103" width="18" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bar 8 -->
+  <rect x="187" y="103" width="18" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bar 9 -->
+  <rect x="206" y="103" width="15" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+  <!-- Bar 10 -->
+  <rect x="221" y="103" width="15" height="44" rx="2" fill="#9d7246" stroke="#7d5e23" stroke-width="4.45"/>
+
+  <!-- 4 yarn-headed mallets (longer shafts, large soft heads) -->
+  <!-- Mallet 1 -->
+  <line x1="68" y1="228" x2="88" y2="88" stroke="#7d5e23" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="89" cy="83" r="12" fill="#529929" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mallet 2 -->
+  <line x1="105" y1="228" x2="120" y2="88" stroke="#7d5e23" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="121" cy="83" r="12" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mallet 3 -->
+  <line x1="185" y1="228" x2="170" y2="88" stroke="#7d5e23" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="169" cy="83" r="12" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Mallet 4 -->
+  <line x1="222" y1="228" x2="202" y2="88" stroke="#7d5e23" stroke-width="5.93" stroke-linecap="round"/>
+  <circle cx="201" cy="83" r="12" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

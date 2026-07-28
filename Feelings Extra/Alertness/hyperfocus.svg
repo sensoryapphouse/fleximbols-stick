@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Tunnel vision cone: wide at left, narrowing to focal point right -->
+  <!-- Outer cone fill (faded/grey zone - everything outside focus) -->
+  <polygon points="22,22 22,218 210,148 210,92" fill="#efefef" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <!-- Inner bright tunnel (the focus zone) -->
+  <polygon points="22,80 22,160 210,138 210,102" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Innermost bright core -->
+  <polygon points="22,108 22,132 210,128 210,112" fill="#fff200" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <!-- Glowing focal point at tip -->
+  <circle cx="228" cy="120" r="26" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="228" cy="120" r="16" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="228" cy="120" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <!-- Rays from focal point -->
+  <line x1="254" y1="120" x2="264" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="250" y1="100" x2="258" y2="92" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="250" y1="140" x2="258" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="228" y1="94" x2="228" y2="84" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="228" y1="146" x2="228" y2="156" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Figure at wide end of tunnel, leaning forward intently -->
+  <!-- Legs -->
+  <line x1="44" y1="188" x2="30" y2="218" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="64" y1="188" x2="72" y2="218" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Torso leaning forward -->
+  <rect x="30" y="148" width="44" height="42" rx="8" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(-8,52,169)"/>
+  <!-- Head leaning toward tunnel -->
+  <circle cx="68" cy="132" r="18" fill="#eed5b6" stroke="#1a1a1a" stroke-width="5.55"/>
+  <!-- Intense focused eyes -->
+  <circle cx="62" cy="130" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="64" cy="130" r="3" fill="#000000"/>
+  <circle cx="74" cy="130" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="76" cy="130" r="3" fill="#000000"/>
+  <!-- Arms stretched forward toward tunnel -->
+  <line x1="58" y1="158" x2="38" y2="142" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <line x1="76" y1="155" x2="96" y2="148" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+  <!-- Grey/faded shapes outside tunnel to show ignored periphery -->
+  <circle cx="36" cy="56" r="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="20" y="185" width="22" height="16" rx="4" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+</g></svg>

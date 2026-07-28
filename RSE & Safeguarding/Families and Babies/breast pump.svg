@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- manual breast pump: flange (funnel) on top of collection bottle with squeeze handle -->
+  <!-- collection bottle body -->
+  <path d="M105 130 L105 215 Q105 225 115 225 L185 225 Q195 225 195 215 L195 130 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- bottle measurement marks -->
+  <path d="M115 150 L130 150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M115 170 L135 170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M115 190 L130 190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M115 210 L135 210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- collected milk -->
+  <path d="M108 175 L108 215 Q108 222 115 222 L185 222 Q192 222 192 215 L192 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bottle collar/threads -->
+  <rect x="100" y="120" width="100" height="14" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="6.67"/>
+  <!-- flange funnel base -->
+  <path d="M110 120 L95 90 L205 90 L190 120 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <!-- flange opening (cup) -->
+  <ellipse cx="150" cy="78" rx="60" ry="18" fill="#efefef" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="150" cy="78" rx="42" ry="10" fill="#f4a4b2" stroke="#1a1a1a" stroke-width="5.56"/>
+  <!-- squeeze handle/lever pivoting from top side -->
+  <path d="M205 82 Q245 60 270 95 Q260 110 240 105 Q220 100 210 95 Z" fill="#dff3fd" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- handle pivot -->
+  <circle cx="208" cy="92" r="4" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- handle grip ridges -->
+  <path d="M245 75 L250 82" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M252 73 L258 80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M258 78 L263 85" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

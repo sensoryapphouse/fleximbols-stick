@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- air hose connecting at rear top -->
+<path d="M 120 150 Q 66 150 60 108 Q 56 74 92 70" fill="none" stroke="#3a3a3a" stroke-width="12" stroke-linecap="round"/>
+<circle cx="120" cy="150" r="12" fill="#6a6f76" stroke="#1a1a1a" stroke-width="6"/>
+<!-- angled nail magazine, running down-right from the nose -->
+<path d="M 300 250 L 452 336 L 434 372 L 282 286 Z" fill="#cfd6dc" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- nails visible along the strip -->
+<line x1="320" y1="272" x2="330" y2="290" stroke="#7a8089" stroke-width="6" stroke-linecap="round"/>
+<line x1="346" y1="287" x2="356" y2="305" stroke="#7a8089" stroke-width="6" stroke-linecap="round"/>
+<line x1="372" y1="302" x2="382" y2="320" stroke="#7a8089" stroke-width="6" stroke-linecap="round"/>
+<line x1="398" y1="317" x2="408" y2="335" stroke="#7a8089" stroke-width="6" stroke-linecap="round"/>
+<!-- main red body + pistol grip (one solid form) -->
+<path d="M 128 132 L 300 132 Q 322 132 322 154 L 322 236 Q 322 258 300 258 L 246 258 L 262 350 Q 266 374 240 374 L 200 374 Q 176 374 172 352 L 162 258 L 128 258 Q 106 258 106 236 L 106 154 Q 106 132 128 132 Z" fill="#d63b46" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- top motor cylinder cap -->
+<rect x="146" y="104" width="132" height="34" rx="12" fill="#b32c38" stroke="#1a1a1a" stroke-width="8"/>
+<!-- muzzle / nose piece pointing down at front -->
+<rect x="298" y="240" width="46" height="52" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<line x1="321" y1="292" x2="321" y2="336" stroke="#5b6168" stroke-width="12" stroke-linecap="round"/>
+<!-- grip texture lines -->
+<line x1="192" y1="292" x2="228" y2="292" stroke="#9c2630" stroke-width="6" stroke-linecap="round"/>
+<line x1="196" y1="314" x2="232" y2="314" stroke="#9c2630" stroke-width="6" stroke-linecap="round"/>
+<line x1="200" y1="336" x2="236" y2="336" stroke="#9c2630" stroke-width="6" stroke-linecap="round"/>
+<!-- trigger -->
+<path d="M 242 252 L 262 252 L 256 292 L 238 292 Z" fill="#1a1a1a"/>
+</svg>

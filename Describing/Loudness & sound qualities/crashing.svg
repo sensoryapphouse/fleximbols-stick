@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="48.48 -1.01 415.03 415.03"><!-- crashing: a pair of cymbals clashing with a sharp crash burst -->
+<!-- jagged crash burst behind -->
+<polygon points="256,30 282,128 350,70 322,156 420,150 338,200 414,266 318,250 340,350 268,288 256,384 244,288 172,350 194,250 98,266 174,200 92,150 190,156 162,70 230,128" fill="#f6cf3a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- left cymbal (tilted disc) -->
+<ellipse cx="206" cy="240" rx="96" ry="40" fill="#f3b829" stroke="#1a1a1a" stroke-width="9" transform="rotate(-24 206 240)"/>
+<circle cx="206" cy="240" r="14" fill="#c8881a" stroke="#1a1a1a" stroke-width="7"/>
+<!-- right cymbal (tilted disc) -->
+<ellipse cx="306" cy="240" rx="96" ry="40" fill="#f3b829" stroke="#1a1a1a" stroke-width="9" transform="rotate(24 306 240)"/>
+<circle cx="306" cy="240" r="14" fill="#c8881a" stroke="#1a1a1a" stroke-width="7"/>
+<!-- impact lines at the clash point -->
+<g stroke="#e0473c" stroke-width="9" stroke-linecap="round">
+<line x1="256" y1="206" x2="256" y2="176"/>
+<line x1="232" y1="216" x2="210" y2="196"/>
+<line x1="280" y1="216" x2="302" y2="196"/>
+</g>
+</svg>

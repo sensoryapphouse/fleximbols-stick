@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Road fork: single path splitting into three -->
+  <polygon points="130,218 160,218 152,148 138,148" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left fork -->
+  <polygon points="138,148 152,148 144,100 82,72 72,88" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Centre fork -->
+  <polygon points="138,148 152,148 148,82 142,82" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right fork -->
+  <polygon points="138,148 152,148 218,88 208,74 148,100" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Signpost pole -->
+  <rect x="141" y="90" width="8" height="60" rx="3" fill="#9d7246" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Signpost arrow left -->
+  <polygon points="78,48 58,58 78,68 128,68 128,48" fill="#f7de58" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Signpost arrow right -->
+  <polygon points="212,36 232,46 212,56 162,56 162,36" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Signpost arrow up -->
+  <polygon points="128,30 145,22 162,30 162,18 128,18" fill="#f8130d" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <!-- Tired figure slumped at the fork -->
+  <!-- Legs folded/sitting -->
+  <line x1="145" y1="188" x2="124" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="145" y1="188" x2="166" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Torso slumped forward -->
+  <rect x="130" y="158" width="30" height="32" rx="8" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Head drooped down -->
+  <circle cx="145" cy="144" r="16" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Tired half-closed eyes -->
+  <line x1="137" y1="143" x2="143" y2="143" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <line x1="147" y1="143" x2="153" y2="143" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
+  <!-- Drooped arms -->
+  <line x1="130" y1="168" x2="110" y2="188" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="160" y1="168" x2="180" y2="188" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Zzz fatigue marks -->
+  <path d="M162,136 L170,136 L162,128 L170,128" fill="none" stroke="#7f7f7f" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M172,130 L178,130 L172,124 L178,124" fill="none" stroke="#7f7f7f" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

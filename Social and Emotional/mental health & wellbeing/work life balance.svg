@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- central post -->
+  <rect x="140" y="80" width="10" height="120" fill="#7d5e23" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- base -->
+  <rect x="110" y="200" width="70" height="14" fill="#9d7246" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- top pivot -->
+  <circle cx="145" cy="80" r="8" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- beam (tilted slightly - briefcase heavier? keep level for balance) -->
+  <rect x="40" y="76" width="210" height="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- bubble level on beam -->
+  <rect x="125" y="66" width="40" height="10" fill="#dff3fd" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <circle cx="145" cy="71" r="3" fill="#529929" stroke="#1a1a1a" stroke-width="2.22"/>
+  <!-- left chain -->
+  <line x1="70" y1="84" x2="70" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right chain -->
+  <line x1="220" y1="84" x2="220" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- left tray (briefcase) -->
+  <rect x="40" y="135" width="60" height="40" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="55" y="125" width="30" height="14" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="62" y="150" width="16" height="6" fill="#7d5e23" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="40" y1="135" x2="70" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="100" y1="135" x2="70" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- right tray (heart + home) -->
+  <!-- house -->
+  <polygon points="220,120 195,145 245,145" fill="#d01424" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="200" y="145" width="40" height="30" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="214" y="155" width="12" height="20" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- heart on house -->
+  <path d="M220 168 C214 162 208 166 211 172 L220 182 L229 172 C232 166 226 162 220 168 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+</g></svg>

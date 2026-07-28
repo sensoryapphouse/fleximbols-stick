@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- shadow ellipse on ground (not below subject as drop-shadow; this is a base disc) -->
+  <ellipse cx="145" cy="216" rx="58" ry="8" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="8.89"/>
+  <!-- cylindrical body (tall) -->
+  <path d="M 90 50 Q 90 38 145 38 Q 200 38 200 50 L 200 196 Q 200 210 145 210 Q 90 210 90 196 Z" fill="#efefef" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <!-- fabric mesh lines down the body -->
+  <line x1="100" y1="74" x2="100" y2="190" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="115" y1="68" x2="115" y2="196" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="130" y1="64" x2="130" y2="200" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="145" y1="62" x2="145" y2="202" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="160" y1="64" x2="160" y2="200" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="175" y1="68" x2="175" y2="196" stroke="#b8b8b8" stroke-width="4.45"/>
+  <line x1="190" y1="74" x2="190" y2="190" stroke="#b8b8b8" stroke-width="4.45"/>
+  <!-- top dish (concave-ish ellipse) -->
+  <ellipse cx="145" cy="50" rx="55" ry="14" fill="#dff3fd" stroke="#1a1a1a" stroke-width="11.11"/>
+  <!-- light ring on top (Siri-style multi-colour) -->
+  <ellipse cx="145" cy="50" rx="40" ry="9" fill="none" stroke="#f8130d" stroke-width="8.89"/>
+  <ellipse cx="145" cy="50" rx="32" ry="7" fill="none" stroke="#7c3fac" stroke-width="6.67"/>
+  <ellipse cx="145" cy="50" rx="24" ry="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- small Apple-style mark (leaf-like) on body -->
+  <path d="M 142 130 Q 142 122 150 122 Q 158 122 158 130 Q 158 140 150 142 Q 142 140 142 130 Z" fill="none" stroke="#7f7f7f" stroke-width="4.45"/>
+  <path d="M 152 120 Q 156 116 158 122" fill="none" stroke="#7f7f7f" stroke-width="4.45" stroke-linecap="round"/>
+</g></svg>

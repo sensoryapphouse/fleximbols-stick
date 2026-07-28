@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Soul music: heart with music note radiating warmth + raised hand -->
+  <!-- Radiance lines from heart -->
+  <line x1="145" y1="80" x2="145" y2="55" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="118" y1="88" x2="100" y2="70" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="172" y1="88" x2="190" y2="70" stroke="#ff9900" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="108" y1="105" x2="87" y2="98" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="182" y1="105" x2="203" y2="98" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="113" y1="125" x2="93" y2="125" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="177" y1="125" x2="197" y2="125" stroke="#f7de58" stroke-width="3.33" stroke-linecap="round"/>
+  <!-- Heart -->
+  <path d="M145 168 Q96 135 96 103 Q96 80 118 80 Q132 80 145 97 Q158 80 172 80 Q194 80 194 103 Q194 135 145 168 Z" fill="#f8130d" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Music note inside heart -->
+  <ellipse cx="131" cy="125" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="140" y1="120" x2="140" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="140" y1="100" x2="158" y2="106" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <line x1="158" y1="106" x2="158" y2="115" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Raised hand (right side, palm facing out) -->
+  <path d="M200 205 L200 165 Q200 158 207 158 Q214 158 214 165 L214 178 Q218 172 224 172 Q230 172 230 178 L230 185 Q234 180 240 180 Q246 180 246 186 L246 205 Z" fill="#e6b98a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Finger details -->
+  <line x1="214" y1="178" x2="214" y2="168" stroke="#9d7246" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="230" y1="185" x2="230" y2="178" stroke="#9d7246" stroke-width="2.22" stroke-linecap="round"/>
+</g></svg>

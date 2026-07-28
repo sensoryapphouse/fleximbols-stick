@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Video screen frame -->
+  <rect x="20" y="25" width="250" height="170" rx="10" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.18"/>
+  <!-- Inner screen -->
+  <rect x="32" y="37" width="226" height="146" rx="5" fill="#dff3fd" stroke="#1a1a1a" stroke-width="3.70"/>
+  <!-- Person -->
+  <circle cx="100" cy="78" r="16" fill="#e6b98a" stroke="#1a1a1a" stroke-width="3.70"/>
+  <path d="M 80 125 Q 80 98 100 98 Q 120 98 120 125 L 120 138 L 80 138 Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <!-- CC button (prominent, modern rounded) top-right -->
+  <rect x="180" y="50" width="60" height="40" rx="8" fill="#000000" stroke="#fff200" stroke-width="4.45"/>
+  <!-- C 1 -->
+  <path d="M 200 62 Q 190 60 190 70 Q 190 80 200 78" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- C 2 -->
+  <path d="M 226 62 Q 216 60 216 70 Q 216 80 226 78" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Caption box at bottom -->
+  <rect x="42" y="150" width="206" height="28" rx="4" fill="#000000" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- Caption text bars -->
+  <rect x="52" y="158" width="60" height="3.5" fill="#ffffff"/>
+  <rect x="118" y="158" width="40" height="3.5" fill="#ffffff"/>
+  <rect x="164" y="158" width="60" height="3.5" fill="#ffffff"/>
+  <rect x="52" y="167" width="85" height="3.5" fill="#ffffff"/>
+  <rect x="143" y="167" width="55" height="3.5" fill="#ffffff"/>
+  <!-- TV stand -->
+  <rect x="120" y="195" width="50" height="20" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="90" y="213" width="110" height="10" rx="3" fill="#7f7f7f" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

@@ -611,6 +611,19 @@
 <script src="i18n.js"></script>
 <script src="global-search.js"></script>
 
+<script>
+function translateDOM() {
+  if (typeof FlexiI18n === 'undefined') return;
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const key = el.getAttribute('data-i18n');
+    el.innerHTML = FlexiI18n.t(key, key);
+  });
+  document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+    const key = el.getAttribute('data-i18n-placeholder');
+    el.placeholder = FlexiI18n.t(key, key);
+  });
+}
+</script>
   <script>
     (function initLangDropdown() {
       const btn = document.getElementById('langDropdownBtn');

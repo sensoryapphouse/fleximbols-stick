@@ -1475,11 +1475,11 @@ function renderPopupContent(fname) {
       </label>
     </div>
     <div class="controls">
-      <button class="toggle del ${d ? "active" : ""}" id="t-del" class="toggle del ellipsis-btn ${d ? \"active\" : \"\"}" title="${d ? FlexiI18n.t(\"Marked for deletion\") : FlexiI18n.t(\"Mark for deletion\")}">
+      <button id="t-del" class="toggle del ellipsis-btn ${d ? 'active' : ''}" title="${d ? FlexiI18n.t('Marked for deletion') : FlexiI18n.t('Mark for deletion')}">
         ${d ? "✓ " + FlexiI18n.t("Marked for deletion", "Marked for deletion") : FlexiI18n.t("Mark for deletion", "Mark for deletion")}
         <span class="key">D</span>
       </button>
-      <button class="toggle rebuild ${r ? "active" : ""}" id="t-reb" class="toggle rebuild ellipsis-btn ${r ? \"active\" : \"\"}" title="${r ? FlexiI18n.t(\"Marked for rebuild\") : FlexiI18n.t(\"Mark for rebuild\")}">
+      <button id="t-reb" class="toggle rebuild ellipsis-btn ${r ? 'active' : ''}" title="${r ? FlexiI18n.t('Marked for rebuild') : FlexiI18n.t('Mark for rebuild')}">
         ${r ? "✓ " + FlexiI18n.t("Marked for rebuild", "Marked for rebuild") : FlexiI18n.t("Mark for rebuild", "Mark for rebuild")}
         <span class="key">R</span>
       </button>

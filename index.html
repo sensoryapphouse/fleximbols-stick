@@ -304,32 +304,32 @@
     <div class="header-left" style="display: flex; align-items: center; gap: 20px;">
       <img class="logo-icon" src="https://www.sensoryapphouse.com/wp-content/uploads/cropped-favicon-1-192x192.png" alt="Sensory App House Logo" style="width: 64px; height: 64px; border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.08);">
       <div class="header-text" style="text-align: left;">
-        <h1 style="margin: 0 0 4px; font-size: 2rem; font-weight: 700; color: #1e293b;">Welcome to <span class="accent-text" style="background: linear-gradient(135deg, #2563eb, #7c3aed); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Sensory Symbols</span></h1>
-        <p style="margin: 0; font-size: 1rem; color: #64748b;">Choose a style below or generate your own instantly.</p>
+        <h1 style="margin: 0 0 4px; font-size: 2rem; font-weight: 700; color: #1e293b;"><span data-i18n="Welcome to">Welcome to</span> <span class="accent-text" style="background: linear-gradient(135deg, #2563eb, #7c3aed); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Sensory Symbols</span></h1>
+        <p style="margin: 0; font-size: 1rem; color: #64748b;" data-i18n="Choose a style below or generate your own instantly.">Choose a style below or generate your own instantly.</p>
       </div>
     </div>
     
     <div class="header-right" style="flex: 1; display: flex; justify-content: flex-end; align-items: center; gap: 12px; min-width: 300px;">
       <div class="global-search-container" style="flex: 1; max-width: 450px;">
-        <input type="text" class="global-search-input" placeholder="Search across styles...">
+        <input type="text" class="global-search-input" data-i18n-placeholder="Search across styles..." placeholder="Search across styles...">
         <div class="style-dropdown-container">
           <button class="style-dropdown-btn" onclick="document.getElementById('searchStyleDropdown').classList.toggle('show')">
             Styles ▾
           </button>
           <div class="style-dropdown-content" id="searchStyleDropdown">
-            <label><input type="checkbox" checked value="fluent"> Fluent</label>
-            <label><input type="checkbox" checked value="stick"> Fleximbols</label>
-            <label><input type="checkbox" checked value="picom_cartoon"> Cartoon</label>
-            <label><input type="checkbox" checked value="picom_classic"> Classic</label>
-            <label><input type="checkbox" checked value="picom_cute"> Cute</label>
-            <label><input type="checkbox" checked value="generic"> Generic</label>
-            <label><input type="checkbox" checked value="plain"> Plain</label>
-            <label><input type="checkbox" checked value="picom_realistic"> Realistic</label>
-            <label><input type="checkbox" checked value="screenprint"> ScreenPrint</label>
-            <label><input type="checkbox" checked value="picom_sommi_(person)_clothed"> Sommi</label>
+            <label><input type="checkbox" checked value="fluent"> <span data-i18n="Fluent">Fluent</span></label>
+            <label><input type="checkbox" checked value="stick"> <span data-i18n="Fleximbols">Fleximbols</span></label>
+            <label><input type="checkbox" checked value="picom_cartoon"> <span data-i18n="Cartoon">Cartoon</span></label>
+            <label><input type="checkbox" checked value="picom_classic"> <span data-i18n="Classic">Classic</span></label>
+            <label><input type="checkbox" checked value="picom_cute"> <span data-i18n="Cute">Cute</span></label>
+            <label><input type="checkbox" checked value="generic"> <span data-i18n="Generic">Generic</span></label>
+            <label><input type="checkbox" checked value="plain"> <span data-i18n="Plain">Plain</span></label>
+            <label><input type="checkbox" checked value="picom_realistic"> <span data-i18n="Realistic">Realistic</span></label>
+            <label><input type="checkbox" checked value="screenprint"> <span data-i18n="ScreenPrint">ScreenPrint</span></label>
+            <label><input type="checkbox" checked value="picom_sommi_(person)_clothed"> <span data-i18n="Sommi">Sommi</span></label>
           </div>
         </div>
-        <button class="global-search-btn">Search</button>
+        <button class="global-search-btn" data-i18n="Search">Search</button>
 
         <div id="globalSearchPopup" style="display: none; position: absolute; top: calc(100% + 12px); right: 0; width: 600px; max-width: 90vw; background: white; border-radius: 16px; box-shadow: 0 12px 40px rgba(0,0,0,0.15); border: 1px solid #e2e8f0; z-index: 1000; overflow: hidden;"></div>
 
@@ -356,8 +356,8 @@
         <img src="assets/fluent/preview_2.svg">
         <img src="assets/fluent/preview_3.svg">
       </div>
-      <h2 class="card-title">Fluent (SVG)</h2>
-      <p class="card-subtitle">Modern, vibrant, and expressive</p>
+      <h2 class="card-title"><span data-i18n="Fluent">Fluent</span> (SVG)</h2>
+      <p class="card-subtitle"> data-i18n="Modern, vibrant, and expressive">Modern, vibrant, and expressive</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">75,210 symbols</p>
     </a>
@@ -368,8 +368,8 @@
         <img src="assets/stick/preview_2.svg">
         <img src="assets/stick/preview_3.svg">
       </div>
-      <h2 class="card-title">Fleximbols (SVG)</h2>
-      <p class="card-subtitle">Highly customizable symbols with dynamic character styling</p>
+      <h2 class="card-title"><span data-i18n="Fleximbols">Fleximbols</span> (SVG)</h2>
+      <p class="card-subtitle"> data-i18n="Highly customizable symbols with dynamic character styling">Highly customizable symbols with dynamic character styling</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">28,070 symbols</p>
     </a>
@@ -382,36 +382,36 @@
   <div style="display: flex; flex-direction: row; width: 100%; gap: 24px;">
     <!-- Left column: Controls -->
     <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;" onclick="event.stopPropagation()">
-      <h2 class="card-title" style="color: #4a72d3; font-size: 1.4rem; margin-bottom: 5px; text-align: left;"><span class="accent-text">✨ Symbol Generation</span></h2>
+      <h2 class="card-title" style="color: #4a72d3; font-size: 1.4rem; margin-bottom: 5px; text-align: left;"><span class="accent-text" data-i18n="✨ Symbol Generation">✨ Symbol Generation</span></h2>
       
       <div style="position:relative; z-index: 10;">
-        <input type="text" id="aiSymbolTerm" placeholder="e.g., a cute dog playing chess" oninput="fetchAutocomplete()" autocomplete="off" style="width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid #ccc; font-size: 1rem;">
+        <input type="text" id="aiSymbolTerm" data-i18n-placeholder="e.g., a cute dog playing chess" placeholder="e.g., a cute dog playing chess" oninput="fetchAutocomplete()" autocomplete="off" style="width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid #ccc; font-size: 1rem;">
         <div id="acDropdown" style="display:none; position:absolute; top:100%; left:0; right:0; background:white; border:1px solid #ccc; border-radius:0 0 6px 6px; z-index:999; max-height:200px; overflow-y:auto; box-shadow:0 8px 16px rgba(0,0,0,0.1); grid-template-columns:repeat(auto-fill, minmax(64px, 1fr)); gap:4px; padding:6px;"></div>
       </div>
 
       <select id="aiSymbolStyle" onchange="fetchAutocomplete()" style="padding: 8px; border-radius: 6px; border: 1px solid #ccc; font-size: 1rem;">
-        <option value="Fluent">Fluent</option>
+        <option value="Fluent" data-i18n="Fluent">Fluent</option>
         <option value="PiCom Realistic">Realistic</option>
         <option value="PiCom Cartoon">Cartoon</option>
-        <option value="Anime">Anime</option>
-        <option value="Animation">Animation</option>
-        <option value="Pop Art">Pop Art</option>
+        <option value="Anime" data-i18n="Anime">Anime</option>
+        <option value="Animation" data-i18n="Animation">Animation</option>
+        <option value="Pop Art" data-i18n="Pop Art">Pop Art</option>
         <option value="PiCom Cute">Cute</option>
         <option value="PiCom Sommi (person)">Sommi</option>
         <option value="PiCom Classic">Classic</option>
-        <option value="Plain">Plain</option>
-        <option value="ScreenPrint">ScreenPrint</option>
+        <option value="Plain" data-i18n="Plain">Plain</option>
+        <option value="ScreenPrint" data-i18n="ScreenPrint">ScreenPrint</option>
       </select>
       
       <div style="display: flex; gap: 15px; font-size: 0.9rem; align-items: center;">
-        <label style="cursor: pointer;"><input type="checkbox" id="aiSymbolRemoveBg" checked> Remove BG</label>
-        <label style="cursor: pointer;"><input type="checkbox" id="aiSymbolMakeSVG"> Make SVG</label>
+        <label style="cursor: pointer;"><input type="checkbox" id="aiSymbolRemoveBg" checked> <span data-i18n="Remove BG">Remove BG</span></label>
+        <label style="cursor: pointer;"><input type="checkbox" id="aiSymbolMakeSVG"> <span data-i18n="Make SVG">Make SVG</span></label>
       </div>
 
-      <button id="aiSymbolGenerateBtn" onclick="generateAISymbol()" style="margin-top: 5px; padding: 10px; background: #4a72d3; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 1rem; transition: background 0.2s;">Generate Symbol</button>
+      <button id="aiSymbolGenerateBtn" onclick="generateAISymbol()" style="margin-top: 5px; padding: 10px; background: #4a72d3; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 1rem; transition: background 0.2s;" data-i18n="Generate Symbol">Generate Symbol</button>
       
       <div id="aiSymbolProgress" style="display: none; flex-direction: column; gap: 5px; margin-top: 5px;">
-        <span id="aiSymbolStatus" style="font-size: 0.85rem; color: #555;">Submitting job...</span>
+        <span id="aiSymbolStatus" style="font-size: 0.85rem; color: #555;" data-i18n="Submitting job...">Submitting job...</span>
         <div style="width: 100%; background: #e0e7ff; height: 6px; border-radius: 3px; overflow: hidden;">
             <div id="aiSymbolProgressBar" style="width: 5%; background: #4a72d3; height: 100%; transition: width 0.3s ease;"></div>
         </div>
@@ -430,8 +430,8 @@
   <!-- BOTTOM SECTION: Mini History View (Hidden by default) -->
   <div id="aiMiniHistory" style="display: none; flex-direction: column; width: 100%; padding-top: 20px; border-top: 1px solid rgba(124,156,251,0.2);">
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-      <span style="font-weight: 600; font-size: 1.05rem; color: #1e293b;">Recent Symbols</span>
-      <button onclick="document.getElementById('historyModal').style.display='flex'; loadHistory()" style="background: none; border: none; color: #2563eb; font-size: 0.95rem; cursor: pointer; font-weight: 600; padding: 0;">View more history &rarr;</button>
+      <span style="font-weight: 600; font-size: 1.05rem; color: #1e293b;" data-i18n="Recent Symbols">Recent Symbols</span>
+      <button onclick="document.getElementById('historyModal').style.display='flex'; loadHistory()" style="background: none; border: none; color: #2563eb; font-size: 0.95rem; cursor: pointer; font-weight: 600; padding: 0;" data-i18n="View more history">View more history &rarr;</button>
     </div>
     <div id="aiMiniHistoryThumbs" style="display: flex; gap: 12px; overflow-x: auto; padding-bottom: 8px;">
       <!-- Thumbs will be loaded here via JS -->
@@ -448,8 +448,8 @@
         <img src="assets/picom_cartoon/preview_2.png">
         <img src="assets/picom_cartoon/preview_3.png">
       </div>
-      <h2 class="card-title">Cartoon</h2>
-      <p class="card-subtitle">Playful, hand-drawn cartoon illustrations.</p>
+      <h2 class="card-title" data-i18n="Cartoon">Cartoon</h2>
+      <p class="card-subtitle"> data-i18n="Playful, hand-drawn cartoon illustrations.">Playful, hand-drawn cartoon illustrations.</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">2,623 symbols</p>
     </a>
@@ -460,8 +460,8 @@
         <img src="assets/picom_classic/preview_2.svg">
         <img src="assets/picom_classic/preview_3.svg">
       </div>
-      <h2 class="card-title">Classic (SVG)</h2>
-      <p class="card-subtitle">The original beloved PiCom symbol style.</p>
+      <h2 class="card-title"><span data-i18n="Classic">Classic</span> (SVG)</h2>
+      <p class="card-subtitle"> data-i18n="The original beloved PiCom symbol style.">The original beloved PiCom symbol style.</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">2,388 symbols</p>
     </a>
@@ -472,8 +472,8 @@
         <img src="assets/picom_cute/preview_2.png">
         <img src="assets/picom_cute/preview_3.png">
       </div>
-      <h2 class="card-title">Cute</h2>
-      <p class="card-subtitle">Adorable, soft, and friendly designs.</p>
+      <h2 class="card-title" data-i18n="Cute">Cute</h2>
+      <p class="card-subtitle"> data-i18n="Adorable, soft, and friendly designs.">Adorable, soft, and friendly designs.</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">1,914 symbols</p>
     </a>
@@ -484,8 +484,8 @@
         <img src="assets/generic/preview_2.png">
         <img src="assets/generic/preview_3.png">
       </div>
-      <h2 class="card-title">Generic</h2>
-      <p class="card-subtitle">Standardized, universally recognizable glyphs.</p>
+      <h2 class="card-title" data-i18n="Generic">Generic</h2>
+      <p class="card-subtitle"> data-i18n="Standardized, universally recognizable glyphs.">Standardized, universally recognizable glyphs.</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">5,167 symbols</p>
     </a>
@@ -496,8 +496,8 @@
         <img src="assets/plain/preview_2.png">
         <img src="assets/plain/preview_3.png">
       </div>
-      <h2 class="card-title">Plain</h2>
-      <p class="card-subtitle">Clean, straightforward line art without colors.</p>
+      <h2 class="card-title" data-i18n="Plain">Plain</h2>
+      <p class="card-subtitle"> data-i18n="Clean, straightforward line art without colors.">Clean, straightforward line art without colors.</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">10,428 symbols</p>
     </a>
@@ -508,8 +508,8 @@
         <img src="assets/picom_realistic/preview_2.png">
         <img src="assets/picom_realistic/preview_3.png">
       </div>
-      <h2 class="card-title">Realistic</h2>
-      <p class="card-subtitle">Highly detailed, photorealistic imagery.</p>
+      <h2 class="card-title" data-i18n="Realistic">Realistic</h2>
+      <p class="card-subtitle"> data-i18n="Highly detailed, photorealistic imagery.">Highly detailed, photorealistic imagery.</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">9,647 symbols</p>
     </a>
@@ -520,8 +520,8 @@
         <img src="assets/screenprint/preview_2.png">
         <img src="assets/screenprint/preview_3.png">
       </div>
-      <h2 class="card-title">ScreenPrint</h2>
-      <p class="card-subtitle">Bold, high-contrast, artistic screen-printed aesthetic.</p>
+      <h2 class="card-title" data-i18n="ScreenPrint">ScreenPrint</h2>
+      <p class="card-subtitle"> data-i18n="Bold, high-contrast, artistic screen-printed aesthetic.">Bold, high-contrast, artistic screen-printed aesthetic.</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">11,047 symbols</p>
     </a>
@@ -532,8 +532,8 @@
         <img src="assets/picom_sommi/preview_2.png">
         <img src="assets/picom_sommi/preview_3.png">
       </div>
-      <h2 class="card-title">Sommi</h2>
-      <p class="card-subtitle">Expressive characters with unique personalities.</p>
+      <h2 class="card-title" data-i18n="Sommi">Sommi</h2>
+      <p class="card-subtitle"> data-i18n="Expressive characters with unique personalities.">Expressive characters with unique personalities.</p>
     
       <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">959 symbols</p>
     </a>
@@ -593,7 +593,7 @@
   <div id="historyModal" style="display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(15, 23, 42, 0.6); z-index: 10000; align-items: center; justify-content: center; backdrop-filter: blur(4px);">
     <div style="background: white; width: 90%; max-width: 800px; height: 80vh; border-radius: 20px; display: flex; flex-direction: column; box-shadow: 0 20px 40px rgba(0,0,0,0.2); overflow: hidden;">
       <div style="padding: 20px 24px; border-bottom: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center; background: #f8fafc;">
-        <h3 style="margin: 0; font-size: 1.4rem; color: #1e293b;">Your Generated Symbols</h3>
+        <h3 style="margin: 0; font-size: 1.4rem; color: #1e293b;" data-i18n="Your Generated Symbols">Your Generated Symbols</h3>
         <button onclick="document.getElementById('historyModal').style.display='none'" style="background: none; border: none; font-size: 1.8rem; line-height: 1; cursor: pointer; color: #64748b;">&times;</button>
       </div>
       <div id="historyGrid" style="flex: 1; overflow-y: auto; padding: 24px; display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); grid-auto-rows: max-content; gap: 24px; background: #f1f5f9; align-content: start;">
@@ -635,7 +635,9 @@
         updateFlag(FlexiI18n.getLocale());
         FlexiI18n.onLocaleChange((code) => {
           updateFlag(code);
+          translateDOM();
         });
+        translateDOM(); // translate on first load
         
         // Close dropdown when clicking outside
         document.addEventListener('click', (e) => {
@@ -645,6 +647,20 @@
         });
       }
     })();
+  </script>
+
+  <script>
+    function translateDOM() {
+      if (typeof FlexiI18n === 'undefined') return;
+      document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.getAttribute('data-i18n');
+        el.innerHTML = FlexiI18n.t(key, key);
+      });
+      document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+        const key = el.getAttribute('data-i18n-placeholder');
+        el.placeholder = FlexiI18n.t(key, key);
+      });
+    }
   </script>
 </body>
 </html>

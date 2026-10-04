@@ -595,12 +595,13 @@
     </div>
   </div>
 
+<script src="i18n.js"></script>
 <script src="global-search.js"></script>
 
   <script>
-    document.addEventListener("DOMContentLoaded", () => {
+    (function initLangDropdown() {
       const select = document.getElementById('languageSelector');
-      if (select && typeof FlexiI18n !== 'undefined') {
+      if (select && window.FlexiI18n) {
         const langs = FlexiI18n.getLanguages();
         langs.forEach(l => {
           const opt = document.createElement('option');
@@ -612,8 +613,10 @@
         FlexiI18n.onLocaleChange((code) => {
           select.value = code;
         });
+      } else {
+        console.error("Language selector or FlexiI18n not found!");
       }
-    });
+    })();
   </script>
 </body>
 </html>

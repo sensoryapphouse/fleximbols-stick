@@ -472,8 +472,7 @@ function acSelect(term, slug, ext) {
     }
 
     
-    async 
-    function convertToWebP(srcUrl) {
+    async function convertToWebP(srcUrl) {
         return new Promise((resolve, reject) => {
             const img = new Image();
             img.crossOrigin = 'Anonymous';

@@ -172,22 +172,15 @@ async function generateAISymbol() {
                     
                     // Save to Cloudflare History API
                     try {
-                        await fetch(HISTORY_API_URL + '/history', {
-                            method: "POST",
-                            headers: {
-                                'Content-Type': 'application/json',
-                                'X-Client-ID': getClientId()
-                            },
-                            body: JSON.stringify({
-                                term: document.getElementById('aiSymbolTerm').value.trim(),
-                                style: document.getElementById('aiSymbolStyle').value,
-                                base64Data: preview.src 
-                            })
-                        });
+                        await saveToLocalHistory(
+                            document.getElementById('aiSymbolTerm').value.trim(),
+                            document.getElementById('aiSymbolStyle').value,
+                            preview.src
+                        );
                         // Refresh mini history
                         const items = await fetchHistoryData();
                         renderMiniHistory(items);
-                    } catch (e) { console.error("Failed to save history", e); }
+                    } catch (e) { console.error("Failed to save local history", e); }
                 }
                 
                 btn.disabled = false;
@@ -361,16 +354,12 @@ function acSelect(term, slug, ext) {
     
     setTimeout(() => { progress.style.display = 'none'; }, 2000);
     
-    // Save to Cloudflare History
-    fetch(HISTORY_API_URL + '/history', {
-        method: "POST",
-        headers: { 'Content-Type': 'application/json', 'X-Client-ID': getClientId() },
-        body: JSON.stringify({
-            term: term,
-            style: document.getElementById('aiSymbolStyle').value,
-            imageUrl: preview.src
-        })
-    }).then(() => fetchHistoryData()).then(items => renderMiniHistory(items)).catch(e => console.error("Failed to save AC history", e));
+    // Save local history
+    saveToLocalHistory(
+        term,
+        document.getElementById('aiSymbolStyle').value,
+        preview.src
+    ).then(() => fetchHistoryData()).then(items => renderMiniHistory(items)).catch(e => console.error("Failed to save AC history", e));
 }
 
 
@@ -535,29 +524,65 @@ function acSelect(term, slug, ext) {
 
 
 // --- History & Identity ---
-const HISTORY_API_URL = "https://fleximbols-history-api.dave-c09.workers.dev";
 
-function getClientId() {
-    let cid = localStorage.getItem('fleximbols_client_id');
-    if (!cid) {
-        cid = 'client_' + Math.random().toString(36).substr(2, 9) + Date.now().toString(36);
-        localStorage.setItem('fleximbols_client_id', cid);
+// --- IndexedDB History System ---
+const DB_NAME = 'FleximbolsHistoryDB';
+const DB_VERSION = 1;
+const STORE_NAME = 'history';
+
+function openDB() {
+    return new Promise((resolve, reject) => {
+        const req = indexedDB.open(DB_NAME, DB_VERSION);
+        req.onupgradeneeded = (e) => {
+            const db = e.target.result;
+            if (!db.objectStoreNames.contains(STORE_NAME)) {
+                db.createObjectStore(STORE_NAME, { keyPath: 'id', autoIncrement: true });
+            }
+        };
+        req.onsuccess = () => resolve(req.result);
+        req.onerror = () => reject(req.error);
+    });
+}
+
+async function saveToLocalHistory(term, style, base64Data) {
+    try {
+        const db = await openDB();
+        const tx = db.transaction(STORE_NAME, 'readwrite');
+        const store = tx.objectStore(STORE_NAME);
+        store.add({
+            term,
+            style,
+            imageUrl: base64Data,
+            timestamp: Date.now()
+        });
+        return new Promise((resolve, reject) => {
+            tx.oncomplete = () => resolve();
+            tx.onerror = () => reject(tx.error);
+        });
+    } catch(err) {
+        console.error("IndexedDB save error", err);
     }
-    return cid;
 }
 
 async function fetchHistoryData() {
     try {
-        const res = await fetch(`${HISTORY_API_URL}/history`, {
-            headers: { 'X-Client-ID': getClientId() }
+        const db = await openDB();
+        const tx = db.transaction(STORE_NAME, 'readonly');
+        const store = tx.objectStore(STORE_NAME);
+        const req = store.getAll();
+        return new Promise((resolve, reject) => {
+            req.onsuccess = () => {
+                const items = req.result.sort((a, b) => b.timestamp - a.timestamp);
+                resolve(items);
+            };
+            req.onerror = () => reject(req.error);
         });
-        if (!res.ok) throw new Error("Failed to fetch history");
-        return await res.json();
-    } catch (err) {
-        console.error("History fetch error:", err);
+    } catch(err) {
+        console.error("IndexedDB fetch error", err);
         return [];
     }
 }
+
 
 async function renderMiniHistory(items) {
     const container = document.getElementById('aiMiniHistory');
@@ -573,7 +598,7 @@ async function renderMiniHistory(items) {
     
     // Limit to top 5 for the mini view
     items.slice(0, 5).forEach(item => {
-        const url = item.imageUrl.startsWith('/') ? `${HISTORY_API_URL}${item.imageUrl}` : item.imageUrl;
+        const url = item.imageUrl;
         const img = document.createElement('img');
         img.src = url;
         img.style.width = '64px';
@@ -610,7 +635,7 @@ async function loadHistory() {
     
     grid.innerHTML = '';
     items.forEach(item => {
-        const url = item.imageUrl.startsWith('/') ? `${HISTORY_API_URL}${item.imageUrl}` : item.imageUrl;
+        const url = item.imageUrl;
         
         const wrap = document.createElement('div');
         wrap.className = 'history-item-wrap';

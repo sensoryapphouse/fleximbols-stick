@@ -293,6 +293,7 @@
       opacity: 0.9;
     }
 
+    .style-dropdown-content a:hover { background-color: #f1f5f9; }
 </style>
 
 </head>
@@ -335,7 +336,13 @@
       </div>
       
       <!-- Language Dropdown -->
-      <select id="languageSelector" onchange="FlexiI18n.setLocale(this.value)" style="padding: 0 12px; border-radius: 8px; border: 1px solid #cbd5e1; background: white; font-size: 1.1rem; cursor: pointer; height: 38px; outline: none; min-width: 60px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);"></select>
+      <div class="style-dropdown-container">
+        <button class="style-dropdown-btn" id="langDropdownBtn" onclick="document.getElementById('langDropdownContent').classList.toggle('show')" style="padding: 0 12px; font-size: 1.2rem; height: 38px; border-radius: 8px; border: 1px solid #cbd5e1; background: white; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+          🇬🇧
+        </button>
+        <div class="style-dropdown-content" id="langDropdownContent" style="right: 0; min-width: 200px; max-height: 400px; overflow-y: auto; text-align: left;">
+        </div>
+      </div>
 
     </div>
   </div>
@@ -600,21 +607,42 @@
 
   <script>
     (function initLangDropdown() {
-      const select = document.getElementById('languageSelector');
-      if (select && window.FlexiI18n) {
+      const btn = document.getElementById('langDropdownBtn');
+      const content = document.getElementById('langDropdownContent');
+      if (btn && content && window.FlexiI18n) {
         const langs = FlexiI18n.getLanguages();
         langs.forEach(l => {
-          const opt = document.createElement('option');
-          opt.value = l.code;
-          opt.textContent = `${l.flag} ${l.nativeName}`;
-          select.appendChild(opt);
+          const item = document.createElement('a');
+          item.href = "javascript:void(0)";
+          item.style.display = "block";
+          item.style.padding = "8px 16px";
+          item.style.color = "#1e293b";
+          item.style.textDecoration = "none";
+          item.textContent = `${l.flag} ${l.nativeName}`;
+          item.onclick = (e) => {
+            e.preventDefault();
+            FlexiI18n.setLocale(l.code);
+            content.classList.remove('show');
+          };
+          content.appendChild(item);
         });
-        select.value = FlexiI18n.getLocale();
+        
+        function updateFlag(code) {
+          const info = FlexiI18n.getLocaleInfo(code);
+          if (info) btn.textContent = info.flag;
+        }
+        
+        updateFlag(FlexiI18n.getLocale());
         FlexiI18n.onLocaleChange((code) => {
-          select.value = code;
+          updateFlag(code);
         });
-      } else {
-        console.error("Language selector or FlexiI18n not found!");
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', (e) => {
+          if (!btn.contains(e.target) && !content.contains(e.target)) {
+            content.classList.remove('show');
+          }
+        });
       }
     })();
   </script>

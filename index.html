@@ -308,8 +308,8 @@
       </div>
     </div>
     
-    <div class="header-right" style="flex: 1; max-width: 450px; min-width: 300px;">
-      <div class="global-search-container">
+    <div class="header-right" style="flex: 1; display: flex; justify-content: flex-end; align-items: center; gap: 12px; min-width: 300px;">
+      <div class="global-search-container" style="flex: 1; max-width: 450px;">
         <input type="text" class="global-search-input" placeholder="Search across styles...">
         <div class="style-dropdown-container">
           <button class="style-dropdown-btn" onclick="document.getElementById('searchStyleDropdown').classList.toggle('show')">
@@ -333,6 +333,10 @@
         <div id="globalSearchPopup" style="display: none; position: absolute; top: calc(100% + 12px); right: 0; width: 600px; max-width: 90vw; background: white; border-radius: 16px; box-shadow: 0 12px 40px rgba(0,0,0,0.15); border: 1px solid #e2e8f0; z-index: 1000; overflow: hidden;"></div>
 
       </div>
+      
+      <!-- Language Dropdown -->
+      <select id="languageSelector" onchange="FlexiI18n.setLocale(this.value)" style="padding: 0 12px; border-radius: 8px; border: 1px solid #cbd5e1; background: white; font-size: 1.1rem; cursor: pointer; height: 38px; outline: none; min-width: 60px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);"></select>
+
     </div>
   </div>
 
@@ -592,5 +596,24 @@
   </div>
 
 <script src="global-search.js"></script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const select = document.getElementById('languageSelector');
+      if (select && typeof FlexiI18n !== 'undefined') {
+        const langs = FlexiI18n.getLanguages();
+        langs.forEach(l => {
+          const opt = document.createElement('option');
+          opt.value = l.code;
+          opt.textContent = `${l.flag} ${l.nativeName}`;
+          select.appendChild(opt);
+        });
+        select.value = FlexiI18n.getLocale();
+        FlexiI18n.onLocaleChange((code) => {
+          select.value = code;
+        });
+      }
+    });
+  </script>
 </body>
 </html>

@@ -566,6 +566,13 @@
     .popup .filename { font-size: 13px; }
     .popup .download-svg { padding: 8px 12px; font-size: 13px; }
   }
+
+    .ellipsis-btn {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 100%;
+    }
 </style>
 </head>
 <body>
@@ -574,33 +581,33 @@
   <button id="hamburger-btn" class="hamburger-btn" title="More options">☰</button>
   <select id="style-select" title="Library"></select>
   <select id="lang-select" class="lang-select" title="Language / Dil / اللغة"></select>
-  <input id="search" type="text" placeholder="Search…" autocomplete="off" style="width: 100px;">
+  <input id="search" type="text" data-i18n-placeholder="Search…" placeholder="Search…" autocomplete="off" style="width: 100px;">
   <div class="phone-tools">
     <details class="gender-menu" id="gender-menu">
       <summary title="Filter people, and toggle plurals/tenses and alphabets">
-        <span id="gm-label">All</span>
+        <span id="gm-label" data-i18n="All">All</span>
         <span class="gm-chevron">&#9662;</span>
       </summary>
       <div class="gender-panel">
         <div class="gm-section">
-          <div class="gm-heading">Gender</div>
-          <label class="gm-row"><input type="radio" name="gm-gender" value="all" checked> All</label>
-          <label class="gm-row"><input type="radio" name="gm-gender" value="male"> Male</label>
-          <label class="gm-row"><input type="radio" name="gm-gender" value="female"> Female</label>
-          <label class="gm-row"><input type="radio" name="gm-gender" value="random"> Random</label>
+          <div class="gm-heading" data-i18n="Gender">Gender</div>
+          <label class="gm-row"><input type="radio" name="gm-gender" value="all" checked> <span data-i18n="All">All</span></label>
+          <label class="gm-row"><input type="radio" name="gm-gender" value="male"> <span data-i18n="Male">Male</span></label>
+          <label class="gm-row"><input type="radio" name="gm-gender" value="female"> <span data-i18n="Female">Female</span></label>
+          <label class="gm-row"><input type="radio" name="gm-gender" value="random"> <span data-i18n="Random">Random</span></label>
         </div>
         <div class="gm-section">
-          <div class="gm-heading">Also show</div>
-          <label class="gm-row"><input type="checkbox" id="gm-show-pt"> Plurals &amp; tenses</label>
-          <label class="gm-row"><input type="checkbox" id="gm-show-alpha"> Alphabets</label>
+          <div class="gm-heading" data-i18n="Also show">Also show</div>
+          <label class="gm-row"><input type="checkbox" id="gm-show-pt"> <span data-i18n="Plurals &amp; tenses">Plurals &amp; tenses</span></label>
+          <label class="gm-row"><input type="checkbox" id="gm-show-alpha"> <span data-i18n="Alphabets">Alphabets</span></label>
         </div>
       </div>
     </details>
     <label class="adult-cb" title="Show 18+ / sensitive icons (anatomy, RSE)"><input type="checkbox" id="adult-toggle"> 18+</label>
     <label id="cat-label" class="adult-cb" title="Group symbols by category folder instead of one alphabetical list"><input type="checkbox" id="cat-toggle"> &#128193;</label>
     <select id="sort-order" title="Sort order">
-      <option value="alpha">A→Z</option>
-      <option value="newest">Newest first</option>
+      <option value="alpha" data-i18n="A→Z">A→Z</option>
+      <option value="newest" data-i18n="Newest first">Newest first</option>
     </select>
     <!-- Page jump buttons surfaced inside the hamburger on landscape phone,
          where ⏮ and ⏭ are too cramped to keep in the vertical rail. Hidden
@@ -612,24 +619,24 @@
   </div>
   <span class="spacer"></span>
   <details class="tx-menu" id="tx-menu">
-    <summary title="Display transforms — preview only, the SVG files are never changed">🎨<span class="tx-label">&nbsp;Transform</span><span class="tx-style"></span>&nbsp;🎨</summary>
+    <summary title="Display transforms — preview only, the SVG files are never changed">🎨<span class="tx-label" data-i18n="Transform">&nbsp;Transform</span><span class="tx-style"></span>&nbsp;🎨</summary>
     <div class="tx-panel">
       <label class="tx-personstyle" title="Figure style — swap the Fleximbols stick people for a Library Pilot look for this symbol (falls back to Stick where a pilot has no version)">Figures
         <select id="tx-personstyle">
-          <option value="stick">Stick (Fleximbols)</option>
-          <option value="toon">Toon</option>
+          <option value="stick" data-i18n="Stick (Fleximbols)">Stick (Fleximbols)</option>
+          <option value="toon" data-i18n="Toon">Toon</option>
           <option value="anime">Anime</option>
-          <option value="simplified">Simplified</option>
-          <option value="inclusive">Inclusive</option>
-          <option value="kawaii">Kawaii</option>
-          <option value="threed">3D</option>
-          <option value="lineart">Lineart</option>
+          <option value="simplified" data-i18n="Simplified">Simplified</option>
+          <option value="inclusive" data-i18n="Inclusive">Inclusive</option>
+          <option value="kawaii" data-i18n="Kawaii">Kawaii</option>
+          <option value="threed" data-i18n="3D">3D</option>
+          <option value="lineart" data-i18n="Lineart">Lineart</option>
         </select>
       </label>
       <label>Border
         <select id="tx-border">
-          <option value="original">original</option>
-          <option value="none">none</option>
+          <option value="original" data-i18n="original">original</option>
+          <option value="none" data-i18n="none">none</option>
           <option value="thin">thin</option>
           <option value="medium">medium</option>
           <option value="thick">thick</option>
@@ -650,39 +657,39 @@
           <option value="default">default</option>
           <option value="black">black</option>
           <option value="brown">brown</option>
-          <option value="darkbrown">dark brown</option>
-          <option value="blonde">blonde</option>
-          <option value="ginger">ginger</option>
-          <option value="grey">grey</option>
-          <option value="white">white</option>
+          <option value="darkbrown" data-i18n="dark brown">dark brown</option>
+          <option value="blonde" data-i18n="blonde">blonde</option>
+          <option value="ginger" data-i18n="ginger">ginger</option>
+          <option value="grey" data-i18n="grey">grey</option>
+          <option value="white" data-i18n="white">white</option>
           <option value="random">random</option>
         </select>
       </label>
       <label>Colour
         <select id="tx-colour">
-          <option value="bold">bold</option>
-          <option value="muted">muted</option>
+          <option value="bold" data-i18n="bold">bold</option>
+          <option value="muted" data-i18n="muted">muted</option>
         </select>
       </label>
       <label>Traditional
         <select id="tx-culture">
-          <option value="none">none</option>
+          <option value="none" data-i18n="none">none</option>
           <option value="afghan">afghan</option><option value="andean">andean</option><option value="arab">arab</option><option value="balinese">balinese</option><option value="bavarian">bavarian</option><option value="bhutanese">bhutanese</option><option value="brazilian">brazilian</option><option value="burmese">burmese</option><option value="cambodian">cambodian</option><option value="chinese">chinese</option><option value="dutch">dutch</option><option value="east-african">east-african</option><option value="egyptian">egyptian</option><option value="ethiopian">ethiopian</option><option value="fijian">fijian</option><option value="filipino">filipino</option><option value="ghanaian">ghanaian</option><option value="greek">greek</option><option value="hawaiian">hawaiian</option><option value="hmong">hmong</option><option value="indian">indian</option><option value="inuit">inuit</option><option value="japanese">japanese</option><option value="jewish">jewish</option><option value="kazakh">kazakh</option><option value="korean">korean</option><option value="kurdish">kurdish</option><option value="malay">malay</option><option value="maya">maya</option><option value="mexican">mexican</option><option value="mongolian">mongolian</option><option value="ndebele">ndebele</option><option value="nepali">nepali</option><option value="nigerian-hausa">nigerian-hausa</option><option value="north-african">north-african</option><option value="norwegian">norwegian</option><option value="omani">omani</option><option value="palestinian">palestinian</option><option value="panamanian">panamanian</option><option value="persian">persian</option><option value="polynesian">polynesian</option><option value="romanian">romanian</option><option value="russian">russian</option><option value="sami">sami</option><option value="samoan">samoan</option><option value="scottish">scottish</option><option value="sikh">sikh</option><option value="somali">somali</option><option value="southern-african">southern-african</option><option value="spanish">spanish</option><option value="sri-lankan">sri-lankan</option><option value="thai">thai</option><option value="tibetan">tibetan</option><option value="tuareg">tuareg</option><option value="turkish">turkish</option><option value="ukrainian">ukrainian</option><option value="uzbek">uzbek</option><option value="vietnamese">vietnamese</option><option value="welsh">welsh</option><option value="west-african">west-african</option>
         </select>
       </label>
       <label class="tx-lfill" title="Fill colour (Lineart figures only)">Fill <input type="color" id="tx-lfill" value="#000000"> <button type="button" id="tx-lfill-clear">default</button></label>
       <label>Arms
         <select id="tx-arms">
-          <option value="stick">stick</option>
-          <option value="bare">bare</option>
-          <option value="clothed">clothed</option>
+          <option value="stick" data-i18n="stick">stick</option>
+          <option value="bare" data-i18n="bare">bare</option>
+          <option value="clothed" data-i18n="clothed">clothed</option>
         </select>
       </label>
       <label class="tx-clothes" title="Recolour the figure's clothes (top and trousers; works on Fleximbols and pilot figures)">Clothes <input type="color" id="tx-clothes" value="#000000"> <button type="button" id="tx-clothes-clear">default</button></label>
       <label class="tx-diverse" title="Per-figure random skin / hair colour / hair style (deterministic per symbol) — a varied classroom instead of identical figures"><input type="checkbox" id="tx-diverse"> Varied figures</label>
       <label class="tx-mirror" title="Left-hand flip (preview only; direction words will read mirrored)"><input type="checkbox" id="tx-mirror"> Mirror</label>
       <label class="tx-cvi"><input type="checkbox" id="tx-cvi"> CVI mode</label>
-      <button type="button" id="tx-reset">Reset all</button>
+      <button type="button" id="tx-reset" data-i18n="Reset all">Reset all</button>
     </div>
   </details>
   <span class="spacer"></span>
@@ -696,9 +703,9 @@
   <span class="spacer"></span>
   <div class="badge-grid">
     <span class="badge muted" id="count">0</span>
-    <span class="badge del" id="delcount">0 delete</span>
-    <span class="badge reb" id="rebcount">0 rebuild</span>
-    <span class="badge muted" id="notecount" title="Rebuild notes attached">0 notes</span>
+    <span class="badge del" id="delcount">0 <span data-i18n="delete">delete</span></span>
+    <span class="badge reb" id="rebcount">0 <span data-i18n="rebuild">rebuild</span></span>
+    <span class="badge muted" id="notecount" title="Rebuild notes attached">0 <span data-i18n="notes">notes</span></span>
   </div>
   <button id="apply">ClaudeIt</button>
   <button id="help-btn" class="help-btn" title="How to use this program">?</button>
@@ -707,10 +714,10 @@
 <div class="help-backdrop" id="help-backdrop">
   <div class="help-modal" role="dialog" aria-labelledby="help-title">
     <button class="help-close" id="help-close" aria-label="Close">×</button>
-    <h2 id="help-title">Using Fleximbols Browser</h2>
+    <h2 id="help-title" data-i18n="Using Fleximbols Browser">Using Fleximbols Browser</h2>
     <p>This is a library of about 9,300 symbols you can browse, preview with display tweaks, and download as SVG.</p>
 
-    <h3>Finding a symbol</h3>
+    <h3 data-i18n="Finding a symbol">Finding a symbol</h3>
     <ul>
       <li><b>Search</b> — type in the box at the top-left to narrow by name (e.g. <code>cat</code>, <code>school</code>).</li>
       <li><b>Turn the page</b> — tap ◀ ▶ or, on a phone or tablet, swipe left/right across the grid. On a computer you can also use the keyboard's left/right/Home/End keys.</li>
@@ -722,7 +729,7 @@
       <li><b>Hamburger menu (☰)</b> — on a phone, the gender, 18+ and category controls live inside the ☰ button to keep the toolbar tidy.</li>
     </ul>
 
-    <h3>Preview transforms (🎨 Transform menu)</h3>
+    <h3><span data-i18n="Preview transforms">Preview transforms</span> (🎨 Transform menu)</h3>
     <p>Try different looks without changing the original file. Pick any combination:</p>
     <ul>
       <li><b>Border</b> — original, none, thin, medium, or thick outlines.</li>
@@ -736,7 +743,7 @@
     </ul>
     <p><i>Transforms are preview-only — the SVG files on disk are never changed.</i></p>
 
-    <h3>Downloading a symbol</h3>
+    <h3 data-i18n="Downloading a symbol">Downloading a symbol</h3>
     <ol>
       <li>Tap a symbol — a preview popup appears.</li>
       <li>Tap <b>⬇ Download SVG</b>.</li>
@@ -1468,12 +1475,12 @@ function renderPopupContent(fname) {
       </label>
     </div>
     <div class="controls">
-      <button class="toggle del ${d ? "active" : ""}" id="t-del">
-        ${d ? "✓ Marked for deletion" : "Mark for deletion"}
+      <button class="toggle del ${d ? "active" : ""}" id="t-del" class="toggle del ellipsis-btn ${d ? \"active\" : \"\"}" title="${d ? FlexiI18n.t(\"Marked for deletion\") : FlexiI18n.t(\"Mark for deletion\")}">
+        ${d ? "✓ " + FlexiI18n.t("Marked for deletion", "Marked for deletion") : FlexiI18n.t("Mark for deletion", "Mark for deletion")}
         <span class="key">D</span>
       </button>
-      <button class="toggle rebuild ${r ? "active" : ""}" id="t-reb">
-        ${r ? "✓ Marked for rebuild" : "Mark for rebuild"}
+      <button class="toggle rebuild ${r ? "active" : ""}" id="t-reb" class="toggle rebuild ellipsis-btn ${r ? \"active\" : \"\"}" title="${r ? FlexiI18n.t(\"Marked for rebuild\") : FlexiI18n.t(\"Mark for rebuild\")}">
+        ${r ? "✓ " + FlexiI18n.t("Marked for rebuild", "Marked for rebuild") : FlexiI18n.t("Mark for rebuild", "Mark for rebuild")}
         <span class="key">R</span>
       </button>
     </div>
@@ -2375,5 +2382,29 @@ async function init() {
     .catch(function () { init(); });
 })();
 </script>
+
+<script>
+  function translateDOM() {
+    if (typeof FlexiI18n === 'undefined') return;
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+      const key = el.getAttribute('data-i18n');
+      el.innerHTML = FlexiI18n.t(key, key);
+    });
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+      const key = el.getAttribute('data-i18n-placeholder');
+      el.placeholder = FlexiI18n.t(key, key);
+    });
+  }
+  
+  if (typeof FlexiI18n !== 'undefined') {
+    FlexiI18n.onLocaleChange(() => {
+      translateDOM();
+      // Re-render UI labels
+      if (typeof updateStats === 'function') updateStats();
+    });
+    document.addEventListener("DOMContentLoaded", translateDOM);
+  }
+</script>
 </body>
+
 </html>

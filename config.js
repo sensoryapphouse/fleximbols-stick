@@ -19,6 +19,7 @@ self.SVG_CONFIG = {
     // New libraries from precache
     "3d_png":   GH + "/fleximbols-3d-png@main",
     plain:      GH + "/fleximbols-plain@main",
+    simple:     GH + "/fleximbols-simple@main",
     animation:  GH + "/fleximbols-animation@main",
     picom_realistic: GH + "/fleximbols-picom-realistic@main",
     pop_art:    GH + "/fleximbols-pop-art@main",

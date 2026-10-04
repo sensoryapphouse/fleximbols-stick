@@ -381,7 +381,7 @@
   <!-- TOP SECTION: Controls & Preview -->
   <div style="display: flex; flex-direction: row; width: 100%; gap: 24px;">
     <!-- Left column: Controls -->
-    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;" onclick="event.stopPropagation()">
+    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;" >
       <h2 class="card-title" style="color: #4a72d3; font-size: 1.4rem; margin-bottom: 5px; text-align: left;"><span class="accent-text" data-i18n="✨ Symbol Generation">✨ Symbol Generation</span></h2>
       
       <div style="position:relative; z-index: 10;">
@@ -391,16 +391,16 @@
 
       <select id="aiSymbolStyle" onchange="fetchAutocomplete()" style="padding: 8px; border-radius: 6px; border: 1px solid #ccc; font-size: 1rem;">
         <option value="Fluent">Fluent</option>
-        <option value="PiCom Realistic">Realistic</option>
         <option value="PiCom Cartoon">Cartoon</option>
+        <option value="PiCom Classic">Classic</option>
+        <option value="PiCom Cute">Cute</option>
+        <option value="Plain">Plain</option>
+        <option value="PiCom Realistic">Realistic</option>
+        <option value="ScreenPrint">ScreenPrint</option>
+        <option value="PiCom Sommi (person)">Sommi</option>
         <option value="Anime">Anime</option>
         <option value="Animation">Animation</option>
         <option value="Pop Art">Pop Art</option>
-        <option value="PiCom Cute">Cute</option>
-        <option value="PiCom Sommi (person)">Sommi</option>
-        <option value="PiCom Classic">Classic</option>
-        <option value="Plain">Plain</option>
-        <option value="ScreenPrint">ScreenPrint</option>
       </select>
       
       <div style="display: flex; gap: 15px; font-size: 0.9rem; align-items: center;">

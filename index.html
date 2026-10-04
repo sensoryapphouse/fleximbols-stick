@@ -396,7 +396,7 @@
       <h2 class="card-title" style="color: #4a72d3; font-size: 1.4rem; margin-bottom: 5px; text-align: left;"><span class="accent-text" data-i18n="✨ Symbol Generation">✨ Symbol Generation</span></h2>
       
       <div style="position:relative; z-index: 10;">
-        <input type="text" id="aiSymbolTerm" data-i18n-placeholder="e.g., a cute dog playing chess" placeholder="e.g., a cute dog playing chess" oninput="fetchAutocomplete()" autocomplete="off" style="width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid #ccc; font-size: 1rem;">
+        <input type="text" id="aiSymbolTerm" data-i18n-placeholder="e.g., a cute dog playing chess" placeholder="e.g., a cute dog playing chess" oninput="fetchAutocomplete()" onkeypress="if(event.key === 'Enter') { event.preventDefault(); generateAISymbol(); }" autocomplete="off" style="width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid #ccc; font-size: 1rem;">
         <div id="acDropdown" style="display:none; position:absolute; top:100%; left:0; right:0; background:white; border:1px solid #ccc; border-radius:0 0 6px 6px; z-index:999; max-height:200px; overflow-y:auto; box-shadow:0 8px 16px rgba(0,0,0,0.1); grid-template-columns:repeat(auto-fill, minmax(64px, 1fr)); gap:4px; padding:6px;"></div>
       </div>
 

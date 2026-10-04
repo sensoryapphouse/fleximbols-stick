@@ -1,0 +1,596 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Welcome to Sensory Symbols</title>
+  
+  <style>
+    :root {
+      --bg-top: #f8fafc;
+      --bg-bottom: #f1f5f9;
+      --card-bg: rgba(255, 255, 255, 0.85);
+      --border: rgba(255, 255, 255, 0.8);
+      --text: #1b2028;
+      --text-sec: #64748b;
+      --accent-1: #7c9cfb;
+      --accent-2: #c392f5;
+    }
+    body {
+      margin: 0; padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: linear-gradient(135deg, var(--bg-top) 0%, var(--bg-bottom) 100%);
+      color: var(--text);
+      display: flex; flex-direction: column;
+      align-items: center; min-height: 100vh;
+      overflow-x: hidden;
+      position: relative;
+    }
+    
+    
+    .header {
+      text-align: left;
+      padding: 40px 20px 30px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      gap: 28px;
+      max-width: 1000px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+    @media (max-width: 768px) {
+      .header {
+        flex-direction: column;
+        text-align: center;
+        gap: 16px;
+        padding: 30px 20px 20px;
+      }
+    }
+    .logo-icon {
+      width: 64px;
+      height: 64px;
+      flex-shrink: 0;
+      border-radius: 16px;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+    }
+    .header-text {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    .header h1 {
+      margin: 0 0 8px;
+      font-size: 2.4rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      line-height: 1.2;
+      color: #1e293b; /* Crisp dark slate */
+    }
+    .header h1 .accent-text {
+      background: linear-gradient(135deg, #2563eb, #7c3aed); /* Vibrant blue to purple */
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .header p {
+      font-size: 1.1rem;
+      color: #64748b;
+      margin: 0;
+      font-weight: 400;
+      max-width: 550px;
+      line-height: 1.4;
+    }
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 28px;
+      padding: 20px 24px 60px;
+      width: 100%;
+      max-width: 1200px;
+      flex: 1;
+      box-sizing: border-box;
+    }
+    @media (max-width: 1000px) { .grid-container { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 600px) { .grid-container { grid-template-columns: 1fr; } }
+    
+    .style-card {
+      height: 100%;
+      box-sizing: border-box;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 22px;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-decoration: none;
+      color: inherit;
+      box-shadow: 0 6px 16px rgba(0,0,0,0.04);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    .style-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 16px 32px rgba(124, 156, 251, 0.15);
+      border-color: rgba(124, 156, 251, 0.4);
+    }
+    .symbol-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-rows: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      margin-bottom: 24px;
+      background: rgba(240, 242, 247, 0.6);
+      border-radius: 14px;
+      padding: 16px;
+      box-sizing: border-box;
+    }
+    .symbol-grid img { width: 100%; height: 100%; object-fit: contain; }
+    .card-title { font-size: 1.3rem; font-weight: 700; margin: 0; text-align: center; letter-spacing: -0.3px; }
+    .card-subtitle { font-size: 0.95rem; color: var(--text-sec); margin-top: 6px; text-align: center; }
+    
+    /* Footer */
+    .footer { padding: 40px; text-align: center; font-size: 0.95rem; color: #888; }
+  
+    @media (min-width: 601px) {
+      .style-card.double-width { grid-column: span 2; }
+    }
+    
+    /* AI Card Restyle */
+    .style-card.double-width {
+      background: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+      padding: 0 !important;
+      transform: none !important;
+      cursor: default;
+    }
+    .ai-card-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      height: 100%;
+      padding: 30px;
+      background: linear-gradient(145deg, rgba(255,255,255,0.95) 0%, rgba(246,248,255,0.95) 100%);
+      border: 1px solid rgba(124, 156, 251, 0.3);
+      border-radius: 20px;
+      width: 100%;
+      box-sizing: border-box;
+      box-shadow: 0 12px 32px rgba(124, 156, 251, 0.1);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    
+    /* Inputs */
+    input[type="text"], select {
+      background: #fff;
+      border: 1px solid rgba(124, 156, 251, 0.4) !important;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.02) !important;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    input[type="text"]:focus, select:focus {
+      outline: none;
+      border-color: var(--accent-1) !important;
+      box-shadow: 0 4px 12px rgba(124, 156, 251, 0.15) !important;
+    }
+  
+    .action-bar { position: absolute; top: 0; left: 0; right: 0; background: rgba(26,26,26,0.9); border-bottom: 2px solid var(--accent-1); padding: 4px 2px; display: none; justify-content: space-evenly; z-index: 100; }
+    .action-bar.visible { display: flex; }
+    .action-bar button { background: none; border: none; color: #eee; padding: 6px; cursor: pointer; font-size: 0.75rem; display: flex; flex-direction: column; align-items: center; gap: 4px; transition: color 0.2s; flex: 1; min-width: 0; }
+    .action-bar button:hover { color: var(--accent-2); }
+    .action-bar button .ab-icon { font-size: 1.2rem; }
+      .global-search-wrapper {
+      width: 100%;
+      max-width: 800px;
+      margin: 0 auto 30px;
+      padding: 0 20px;
+      box-sizing: border-box;
+    }
+    .global-search-container {
+      display: flex;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      border: 1px solid #e2e8f0;
+      position: relative;
+      height: 50px;
+      align-items: center;
+      padding: 0 8px;
+    }
+    .global-search-input {
+      flex: 1;
+      border: none;
+      background: transparent;
+      padding: 0 16px;
+      font-size: 1.1rem;
+      outline: none;
+      color: var(--text);
+    }
+    .global-search-input::placeholder {
+      color: #94a3b8;
+    }
+    .style-dropdown-container {
+      position: relative;
+      border-left: 1px solid #e2e8f0;
+      height: 100%;
+      display: flex;
+      align-items: center;
+    }
+    .style-dropdown-btn {
+      background: transparent;
+      border: none;
+      padding: 0 16px;
+      font-size: 1rem;
+      color: #475569;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      height: 100%;
+      font-weight: 500;
+    }
+    .style-dropdown-btn:hover {
+      color: #1e293b;
+    }
+    .style-dropdown-content {
+      display: none;
+      position: absolute;
+      top: calc(100% + 8px);
+      right: 0;
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+      padding: 12px;
+      min-width: 200px;
+      z-index: 100;
+      flex-direction: column;
+      gap: 8px;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+    .style-dropdown-content.show {
+      display: flex;
+    }
+    .style-dropdown-content label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.95rem;
+      cursor: pointer;
+      color: #334155;
+    }
+    .style-dropdown-content input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      accent-color: var(--accent-1);
+      cursor: pointer;
+    }
+    .global-search-btn {
+      background: linear-gradient(135deg, #2563eb, #7c3aed);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      padding: 0 20px;
+      height: 36px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      margin-left: 8px;
+      transition: opacity 0.2s;
+    }
+    .global-search-btn:hover {
+      opacity: 0.9;
+    }
+
+</style>
+
+</head>
+<body>
+
+    
+  <div class="header-outer" style="display: flex; justify-content: space-between; align-items: center; max-width: 1200px; width: 100%; margin: 0 auto; padding: 40px 24px 30px; box-sizing: border-box; flex-wrap: wrap; gap: 20px;">
+    <div class="header-left" style="display: flex; align-items: center; gap: 20px;">
+      <img class="logo-icon" src="https://www.sensoryapphouse.com/wp-content/uploads/cropped-favicon-1-192x192.png" alt="Sensory App House Logo" style="width: 64px; height: 64px; border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.08);">
+      <div class="header-text" style="text-align: left;">
+        <h1 style="margin: 0 0 4px; font-size: 2rem; font-weight: 700; color: #1e293b;">Welcome to <span class="accent-text" style="background: linear-gradient(135deg, #2563eb, #7c3aed); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Sensory Symbols</span></h1>
+        <p style="margin: 0; font-size: 1rem; color: #64748b;">Choose a style below or generate your own instantly.</p>
+      </div>
+    </div>
+    
+    <div class="header-right" style="flex: 1; max-width: 450px; min-width: 300px;">
+      <div class="global-search-container">
+        <input type="text" class="global-search-input" placeholder="Search across styles...">
+        <div class="style-dropdown-container">
+          <button class="style-dropdown-btn" onclick="document.getElementById('searchStyleDropdown').classList.toggle('show')">
+            Styles ▾
+          </button>
+          <div class="style-dropdown-content" id="searchStyleDropdown">
+            <label><input type="checkbox" checked value="fluent"> Fluent</label>
+            <label><input type="checkbox" checked value="stick"> Fleximbols</label>
+            <label><input type="checkbox" checked value="picom_cartoon"> Cartoon</label>
+            <label><input type="checkbox" checked value="picom_classic"> Classic</label>
+            <label><input type="checkbox" checked value="picom_cute"> Cute</label>
+            <label><input type="checkbox" checked value="generic"> Generic</label>
+            <label><input type="checkbox" checked value="plain"> Plain</label>
+            <label><input type="checkbox" checked value="picom_realistic"> Realistic</label>
+            <label><input type="checkbox" checked value="screenprint"> ScreenPrint</label>
+            <label><input type="checkbox" checked value="picom_sommi_(person)_clothed"> Sommi</label>
+          </div>
+        </div>
+        <button class="global-search-btn">Search</button>
+
+        <div id="globalSearchPopup" style="display: none; position: absolute; top: calc(100% + 12px); right: 0; width: 600px; max-width: 90vw; background: white; border-radius: 16px; box-shadow: 0 12px 40px rgba(0,0,0,0.15); border: 1px solid #e2e8f0; z-index: 1000; overflow: hidden;"></div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <div class="grid-container">
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('fluent')">
+      <div class="symbol-grid">
+        <img src="assets/fluent/preview_0.svg">
+        <img src="assets/fluent/preview_1.svg">
+        <img src="assets/fluent/preview_2.svg">
+        <img src="assets/fluent/preview_3.svg">
+      </div>
+      <h2 class="card-title">Fluent (SVG)</h2>
+      <p class="card-subtitle">Modern, vibrant, and expressive</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">75,210 symbols</p>
+    </a>
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('stick')">
+      <div class="symbol-grid">
+        <img src="assets/stick/preview_0.svg">
+        <img src="assets/stick/preview_1.svg">
+        <img src="assets/stick/preview_2.svg">
+        <img src="assets/stick/preview_3.svg">
+      </div>
+      <h2 class="card-title">Fleximbols (SVG)</h2>
+      <p class="card-subtitle">Highly customizable symbols with dynamic character styling</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">28,070 symbols</p>
+    </a>
+
+<div class="style-card double-width" style="cursor: default; padding: 0; background: transparent; border: none; box-shadow: none;">
+  
+  <div class="ai-card-content" style="flex-direction: column; text-align: left; padding: 30px; gap: 24px; box-sizing: border-box; width: 100%;">
+  
+  <!-- TOP SECTION: Controls & Preview -->
+  <div style="display: flex; flex-direction: row; width: 100%; gap: 24px;">
+    <!-- Left column: Controls -->
+    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;" onclick="event.stopPropagation()">
+      <h2 class="card-title" style="color: #4a72d3; font-size: 1.4rem; margin-bottom: 5px; text-align: left;"><span class="accent-text">✨ AI Symbol Generator</span></h2>
+      
+      <div style="position:relative; z-index: 10;">
+        <input type="text" id="aiSymbolTerm" placeholder="e.g., a cute dog playing chess" oninput="fetchAutocomplete()" autocomplete="off" style="width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid #ccc; font-size: 1rem;">
+        <div id="acDropdown" style="display:none; position:absolute; top:100%; left:0; right:0; background:white; border:1px solid #ccc; border-radius:0 0 6px 6px; z-index:999; max-height:200px; overflow-y:auto; box-shadow:0 8px 16px rgba(0,0,0,0.1); grid-template-columns:repeat(auto-fill, minmax(64px, 1fr)); gap:4px; padding:6px;"></div>
+      </div>
+
+      <select id="aiSymbolStyle" onchange="fetchAutocomplete()" style="padding: 8px; border-radius: 6px; border: 1px solid #ccc; font-size: 1rem;">
+        <option value="Fluent">Fluent</option>
+        <option value="PiCom Realistic">Realistic</option>
+        <option value="PiCom Cartoon">Cartoon</option>
+        <option value="Anime">Anime</option>
+        <option value="Animation">Animation</option>
+        <option value="Pop Art">Pop Art</option>
+        <option value="PiCom Cute">Cute</option>
+        <option value="PiCom Sommi (person)">Sommi</option>
+        <option value="PiCom Classic">Classic</option>
+        <option value="Plain">Plain</option>
+        <option value="ScreenPrint">ScreenPrint</option>
+      </select>
+      
+      <div style="display: flex; gap: 15px; font-size: 0.9rem; align-items: center;">
+        <label style="cursor: pointer;"><input type="checkbox" id="aiSymbolRemoveBg" checked> Remove BG</label>
+        <label style="cursor: pointer;"><input type="checkbox" id="aiSymbolMakeSVG"> Make SVG</label>
+      </div>
+
+      <button id="aiSymbolGenerateBtn" onclick="generateAISymbol()" style="margin-top: 5px; padding: 10px; background: #4a72d3; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 1rem; transition: background 0.2s;">Generate Symbol</button>
+      
+      <div id="aiSymbolProgress" style="display: none; flex-direction: column; gap: 5px; margin-top: 5px;">
+        <span id="aiSymbolStatus" style="font-size: 0.85rem; color: #555;">Submitting job...</span>
+        <div style="width: 100%; background: #e0e7ff; height: 6px; border-radius: 3px; overflow: hidden;">
+            <div id="aiSymbolProgressBar" style="width: 5%; background: #4a72d3; height: 100%; transition: width 0.3s ease;"></div>
+        </div>
+      </div>
+      <div id="aiSymbolError" style="display: none; color: #dc2626; font-size: 0.85rem; margin-top: 5px;"></div>
+    </div>
+
+    <!-- Right column: Preview -->
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start; flex-shrink: 0;">
+      <div id="resultSingleWrap" style="position:relative; width: 160px; height: 160px; border-radius: 12px; background: white; border: 1px solid rgba(124, 156, 251, 0.4); display: flex; align-items: center; justify-content: center; overflow: hidden; cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.05);" onclick="if(event.target.closest('.action-bar'))return; selectResultImage(this, 'png')">
+        <img id="aiSymbolPreview" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+    </div>
+  </div>
+
+  <!-- BOTTOM SECTION: Mini History View (Hidden by default) -->
+  <div id="aiMiniHistory" style="display: none; flex-direction: column; width: 100%; padding-top: 20px; border-top: 1px solid rgba(124,156,251,0.2);">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+      <span style="font-weight: 600; font-size: 1.05rem; color: #1e293b;">Recent Symbols</span>
+      <button onclick="document.getElementById('historyModal').style.display='flex'; loadHistory()" style="background: none; border: none; color: #2563eb; font-size: 0.95rem; cursor: pointer; font-weight: 600; padding: 0;">View more history &rarr;</button>
+    </div>
+    <div id="aiMiniHistoryThumbs" style="display: flex; gap: 12px; overflow-x: auto; padding-bottom: 8px;">
+      <!-- Thumbs will be loaded here via JS -->
+    </div>
+  </div>
+
+</div>
+</div>
+
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('picom_cartoon')">
+      <div class="symbol-grid">
+        <img src="assets/picom_cartoon/preview_0.png">
+        <img src="assets/picom_cartoon/preview_1.png">
+        <img src="assets/picom_cartoon/preview_2.png">
+        <img src="assets/picom_cartoon/preview_3.png">
+      </div>
+      <h2 class="card-title">Cartoon</h2>
+      <p class="card-subtitle">Playful, hand-drawn cartoon illustrations.</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">2,623 symbols</p>
+    </a>
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('picom_classic')">
+      <div class="symbol-grid">
+        <img src="assets/picom_classic/preview_0.svg">
+        <img src="assets/picom_classic/preview_1.svg">
+        <img src="assets/picom_classic/preview_2.svg">
+        <img src="assets/picom_classic/preview_3.svg">
+      </div>
+      <h2 class="card-title">Classic (SVG)</h2>
+      <p class="card-subtitle">The original beloved PiCom symbol style.</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">2,388 symbols</p>
+    </a>
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('picom_cute')">
+      <div class="symbol-grid">
+        <img src="assets/picom_cute/preview_0.png">
+        <img src="assets/picom_cute/preview_1.png">
+        <img src="assets/picom_cute/preview_2.png">
+        <img src="assets/picom_cute/preview_3.png">
+      </div>
+      <h2 class="card-title">Cute</h2>
+      <p class="card-subtitle">Adorable, soft, and friendly designs.</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">1,914 symbols</p>
+    </a>
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('generic')">
+      <div class="symbol-grid">
+        <img src="assets/generic/preview_0.png">
+        <img src="assets/generic/preview_1.png">
+        <img src="assets/generic/preview_2.png">
+        <img src="assets/generic/preview_3.png">
+      </div>
+      <h2 class="card-title">Generic</h2>
+      <p class="card-subtitle">Standardized, universally recognizable glyphs.</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">5,167 symbols</p>
+    </a>
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('plain')">
+      <div class="symbol-grid">
+        <img src="assets/plain/preview_0.png">
+        <img src="assets/plain/preview_1.png">
+        <img src="assets/plain/preview_2.png">
+        <img src="assets/plain/preview_3.png">
+      </div>
+      <h2 class="card-title">Plain</h2>
+      <p class="card-subtitle">Clean, straightforward line art without colors.</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">10,428 symbols</p>
+    </a>
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('picom_realistic')">
+      <div class="symbol-grid">
+        <img src="assets/picom_realistic/preview_0.png">
+        <img src="assets/picom_realistic/preview_1.png">
+        <img src="assets/picom_realistic/preview_2.png">
+        <img src="assets/picom_realistic/preview_3.png">
+      </div>
+      <h2 class="card-title">Realistic</h2>
+      <p class="card-subtitle">Highly detailed, photorealistic imagery.</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">9,647 symbols</p>
+    </a>
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('screenprint')">
+      <div class="symbol-grid">
+        <img src="assets/screenprint/preview_0.png">
+        <img src="assets/screenprint/preview_1.png">
+        <img src="assets/screenprint/preview_2.png">
+        <img src="assets/screenprint/preview_3.png">
+      </div>
+      <h2 class="card-title">ScreenPrint</h2>
+      <p class="card-subtitle">Bold, high-contrast, artistic screen-printed aesthetic.</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">11,047 symbols</p>
+    </a>
+<a href="javascript:void(0)" class="style-card" onclick="selectStyle('picom_sommi')">
+      <div class="symbol-grid">
+        <img src="assets/picom_sommi/preview_0.png">
+        <img src="assets/picom_sommi/preview_1.png">
+        <img src="assets/picom_sommi/preview_2.png">
+        <img src="assets/picom_sommi/preview_3.png">
+      </div>
+      <h2 class="card-title">Sommi</h2>
+      <p class="card-subtitle">Expressive characters with unique personalities.</p>
+    
+      <p class="card-count" style="margin-top: 5px; font-size: 0.9em; color: var(--text-secondary);">959 symbols</p>
+    </a>
+</div>
+</main>
+<div class="footer">
+    &copy; Sensory App House &nbsp;|&nbsp; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" style="color: inherit; text-decoration: underline;">Non-commercial (CC BY-NC 4.0)</a>
+  </div>
+
+  <script>
+
+    document.addEventListener('click', function(e) {
+      const dropdown = document.getElementById('searchStyleDropdown');
+      const btn = document.querySelector('.style-dropdown-btn');
+      if (dropdown && btn && !dropdown.contains(e.target) && !btn.contains(e.target)) {
+        dropdown.classList.remove('show');
+      }
+    });
+
+    function selectStyle(styleId) {
+      const STORAGE_KEY = "picom-icon-browser-v2";
+      let state = { style: styleId, pages: {}, showFilter: "all", sortOrder: "alpha", search: "" };
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (raw) {
+          const parsed = JSON.parse(raw);
+          state = { ...parsed, style: styleId };
+        }
+      } catch (e) {
+        console.error("Local storage error", e);
+      }
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+      window.location.href = "browser.html";
+    }
+  </script>
+
+  <script>
+
+    document.addEventListener('click', function(e) {
+      const dropdown = document.getElementById('searchStyleDropdown');
+      const btn = document.querySelector('.style-dropdown-btn');
+      if (dropdown && btn && !dropdown.contains(e.target) && !btn.contains(e.target)) {
+        dropdown.classList.remove('show');
+      }
+    });
+
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('sw.js').catch(function(err) {
+        console.error('ServiceWorker registration failed: ', err);
+      });
+    }
+  </script>
+
+<script src="ai-generator.js"></script>
+
+  <!-- History Modal -->
+  <div id="historyModal" style="display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(15, 23, 42, 0.6); z-index: 10000; align-items: center; justify-content: center; backdrop-filter: blur(4px);">
+    <div style="background: white; width: 90%; max-width: 800px; height: 80vh; border-radius: 20px; display: flex; flex-direction: column; box-shadow: 0 20px 40px rgba(0,0,0,0.2); overflow: hidden;">
+      <div style="padding: 20px 24px; border-bottom: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center; background: #f8fafc;">
+        <h3 style="margin: 0; font-size: 1.4rem; color: #1e293b;">Your Generated Symbols</h3>
+        <button onclick="document.getElementById('historyModal').style.display='none'" style="background: none; border: none; font-size: 1.8rem; line-height: 1; cursor: pointer; color: #64748b;">&times;</button>
+      </div>
+      <div id="historyGrid" style="flex: 1; overflow-y: auto; padding: 24px; display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); grid-auto-rows: max-content; gap: 24px; background: #f1f5f9; align-content: start;">
+        <!-- History items loaded via JS -->
+      </div>
+    </div>
+  </div>
+
+<script src="global-search.js"></script>
+</body>
+</html>

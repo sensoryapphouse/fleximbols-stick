@@ -1,0 +1,2379 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- Without this, mobile browsers render at a default ~980 px CSS width
+     then zoom out to fit the screen — everything looks tiny AND none of
+     the (max-width: 600px) phone media queries ever fire. -->
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- Every symbol tile is fetched (by the Service Worker) from jsDelivr on
+     cdn.jsdelivr.net. Warm the DNS + TLS connection up front so the FIRST
+     symbol request doesn't pay connection-setup latency on the critical path;
+     all later tiles reuse the same connection. crossorigin matches the
+     anonymous CORS mode the SW's fetch() uses. -->
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+<title>PiCom Icon Browser</title>
+<script src="i18n.js"></script>
+<style>
+  :root {
+    --bg: #f4f5f8;
+    --panel: #ffffff;
+    --border: #d8dae0;
+    --text: #1f2328;
+    --muted: #6a737d;
+    --accent: #2f6fdb;
+    --del: #d63b3b;
+    --rebuild: #1f8fc4;
+    --both: #7a3aa6;
+  }
+  * { box-sizing: border-box; }
+  /* 100dvh ("dynamic viewport height") tracks the actually-visible area,
+     unlike 100vh which counts the area underneath iOS Safari's URL bar
+     and home indicator. Without dvh, the grid sized itself bigger than
+     what you could see and the bottom row got clipped. iOS 15.4+,
+     Safari 15.4+, Chrome 108+ all support dvh — every iPhone we care
+     about. The 100vh fallback applies in those rare older browsers. */
+  html, body { margin: 0; padding: 0; height: 100vh; height: 100dvh; overflow: hidden;
+    font-family: -apple-system, "Segoe UI", system-ui, sans-serif;
+    background: var(--bg); color: var(--text); }
+  body { display: flex; flex-direction: column; }
+
+  .topbar { flex: 0 0 auto; display: flex; gap: 6px; align-items: center;
+    padding: 8px 10px; background: var(--panel);
+    border-bottom: 1px solid var(--border); flex-wrap: wrap; }
+  .topbar button, .topbar input, .topbar select {
+    font: inherit; font-size: 13px; padding: 4px 8px; border: 1px solid var(--border);
+    background: white; border-radius: 4px; cursor: pointer; }
+  .topbar button:hover { background: #eef2fb; }
+  .topbar select#style-select { font-weight: 600; min-width: 110px; }
+  .topbar select#lang-select { font-weight: 500; min-width: 95px; max-width: 155px; }
+  .topbar select#show-filter, .topbar select#sort-order { max-width: 112px; }
+  /* RTL Layout adjustments for Arabic, Hebrew, Urdu, Farsi, Yiddish, Kurdish */
+  body.rtl-layout { direction: rtl; }
+  body.rtl-layout .topbar { direction: rtl; }
+  body.rtl-layout .tx-menu .tx-panel { left: auto; right: 0; }
+  body.rtl-layout .gender-menu .gender-panel { left: auto; right: 0; }
+  body.rtl-layout .cat-indicator { left: auto; right: 6px; }
+  body.rtl-layout .help-close { right: auto; left: 14px; }
+  body.rtl-layout .help-modal ul, body.rtl-layout .help-modal ol { margin: 8px 22px 8px 0; }
+  body.rtl-layout .popup-close { right: auto; left: 6px; }
+  /* Sort-order picker is hidden — default A→Z is the only mode we expose
+     publicly. The state.sortOrder default ("alpha") still drives the JS,
+     so removing the dropdown has no behavioural effect. */
+  #sort-order { display: none !important; }
+  .topbar .adult-cb { display: flex; align-items: center; gap: 3px; font-size: 12px; cursor: pointer;
+    padding: 3px 7px; border: 1px solid var(--border); border-radius: 4px; background: white; user-select: none; }
+  .topbar .spacer { flex: 1; }
+  .topbar .badge-grid { display: grid; grid-template-columns: auto auto;
+    gap: 2px 4px; }
+  .topbar .badge { padding: 2px 8px; border-radius: 10px;
+    font-size: 11px; color: white; font-weight: 600;
+    text-align: center; white-space: nowrap; line-height: 1.4; }
+  .topbar .badge.del { background: var(--del); }
+  .topbar .badge.reb { background: var(--rebuild); }
+  .topbar .badge.muted { background: #b0b6bd; }
+  .topbar #apply { background: #1c8a4c; color: white; border-color: #1c8a4c; }
+  .topbar #apply:hover { background: #166f3d; }
+
+  .grid-area { flex: 1; min-height: 0;
+    display: flex; flex-direction: column; padding: 10px;
+    position: relative; }
+  /* Category orientation badge — top-left of the grid area, shown only
+     in category mode. Translucent background + backdrop-filter so it's
+     readable on top of any cell behind it but the cell remains visible.
+     pointer-events: none so it never blocks taps on the symbol below. */
+  .cat-indicator { display: none; position: absolute;
+    top: 6px; left: 6px; z-index: 10; pointer-events: none;
+    background: rgba(255, 255, 255, 0.85); color: var(--accent);
+    border: 1px solid var(--border); border-radius: 16px;
+    padding: 4px 12px; font-size: 0.8rem; font-weight: 600;
+    -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+    max-width: 55%; white-space: nowrap; overflow: hidden;
+    text-overflow: ellipsis; }
+  body.cvi .cat-indicator { background: rgba(0, 0, 0, 0.80);
+    color: #fff; border-color: #444; }
+  /* Fluid grid — column count is decided by the browser based on a
+     viewport-aware minimum cell size; row count and per-page count are
+     decided by JS to fit the available height. Replaces the fixed
+     6-breakpoint table that couldn't cover every device. The default
+     here is a pre-JS fallback for the initial paint; perPage() in JS
+     sets explicit grid-template-rows/columns once it can measure. */
+  :root { --min-cell: 110px; }
+  @media (min-width: 1024px) { :root { --min-cell: 140px; } }
+  @media (min-width: 1600px) { :root { --min-cell: 170px; } }
+  .grid { flex: 1; min-height: 0; display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(var(--min-cell), 1fr));
+    grid-auto-rows: 1fr;
+    gap: 6px; }
+  .cell { background: white; border: 2px solid var(--border);
+    border-radius: 6px; padding: 4px;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    cursor: pointer; overflow: hidden; min-height: 0;
+    position: relative;
+    transition: border-color 0.08s, transform 0.08s; }
+  .cell:hover { border-color: var(--accent); transform: scale(1.04);
+    z-index: 1; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+  .cell.mark-delete  { border-color: var(--del); border-width: 3px; }
+  .cell.mark-rebuild { border-color: var(--rebuild); border-width: 3px; }
+  .cell.mark-both    { border-color: var(--both); border-width: 3px; }
+  .cell .img-wrap { flex: 1; min-height: 0; width: 100%;
+    display: flex; align-items: center; justify-content: center; }
+  .cell img { width: 100%; height: 100%; object-fit: contain;
+    pointer-events: none; }
+  .cell .label { font-size: 10px; color: var(--muted);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    width: 100%; text-align: center; margin-top: 2px; pointer-events: none; }
+  .cell.empty { background: transparent; border-color: transparent;
+    pointer-events: none; }
+  /* CVI mode: black behind the symbol in the cell (the SVG itself is unchanged on disk) */
+  body.cvi .cell { background: #000; }
+  body.cvi .cell .img-wrap { background: #000; }
+  body.cvi .popup .preview { background: #000; }
+  /* No extra margin — the topbar's 6px gap already sits on both sides,
+     so the Transform button is evenly spaced between its neighbours. */
+  .topbar .tx-menu { position: relative; display: inline-block; }
+  .topbar .tx-menu > summary { list-style: none; cursor: pointer; padding: 4px 6px;
+    background: white; border: 1px solid var(--border); border-radius: 4px; user-select: none;
+    font-size: 14px; line-height: 1; white-space: nowrap; }
+  .topbar .tx-menu > summary::-webkit-details-marker { display: none; }
+  .topbar .tx-menu[open] > summary,
+  .topbar .tx-menu.active > summary { background: #eef2fb; border-color: var(--accent); font-weight: 600; }
+  .topbar .tx-menu .tx-panel { position: absolute; top: 100%; left: 0; margin-top: 4px; z-index: 60;
+    background: var(--panel); border: 1px solid var(--border); border-radius: 6px; padding: 9px 10px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.18); display: flex; flex-direction: column; gap: 7px; min-width: 168px; }
+  .topbar .tx-menu .tx-panel label { display: flex; align-items: center; justify-content: space-between;
+    gap: 10px; font-size: 12px; color: var(--text); white-space: nowrap; }
+  .topbar .tx-menu .tx-panel select { font: inherit; }
+  .topbar .tx-menu .tx-panel .tx-cvi { justify-content: flex-start; gap: 5px; cursor: pointer; }
+  .topbar .tx-menu .tx-panel #tx-reset { margin-top: 2px; padding: 4px 8px; cursor: pointer;
+    background: white; border: 1px solid var(--border); border-radius: 4px; font: inherit; }
+  .topbar .tx-menu .tx-panel #tx-reset:hover { background: #eef2fb; }
+
+  /* Gender & content-filter menu — replaces the plain <select>. The
+     dropdown-with-sections pattern lets Gender / Plurals & tenses /
+     Alphabets share one control instead of eating three toolbar slots. */
+  .topbar .gender-menu { position: relative; display: inline-block; max-width: 160px; }
+  .topbar .gender-menu > summary { list-style: none; cursor: pointer;
+    padding: 4px 8px; background: white; border: 1px solid var(--border);
+    border-radius: 4px; user-select: none; font-size: 14px; line-height: 1;
+    white-space: nowrap; display: inline-flex; align-items: center; gap: 4px;
+    min-width: 76px; }
+  .topbar .gender-menu > summary::-webkit-details-marker { display: none; }
+  .topbar .gender-menu[open] > summary { background: #eef2fb;
+    border-color: var(--accent); font-weight: 600; }
+  .topbar .gender-menu .gm-chevron { color: var(--muted); font-size: 10px;
+    margin-left: auto; }
+  .topbar .gender-menu .gender-panel { position: absolute; top: 100%; left: 0;
+    margin-top: 4px; z-index: 60;
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 6px; padding: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+    min-width: 180px; }
+  .topbar .gender-menu .gm-section { padding: 6px 8px; }
+  .topbar .gender-menu .gm-section + .gm-section { border-top: 1px solid var(--border); }
+  .topbar .gender-menu .gm-heading { color: var(--muted); font-size: 11px;
+    text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 4px; }
+  .topbar .gender-menu .gm-row { display: flex; align-items: center;
+    gap: 8px; padding: 4px 4px; font-size: 13px; color: var(--text);
+    cursor: pointer; border-radius: 4px; }
+  .topbar .gender-menu .gm-row:hover { background: #eef2fb; }
+  .topbar .gender-menu .gm-row input { margin: 0; cursor: pointer; }
+
+  .topbar .page-indicator { font-size: 13px; color: var(--text);
+    display: inline-flex; align-items: center; gap: 4px; padding: 0 4px; }
+  .topbar .page-indicator input#page-input {
+    width: 56px; padding: 4px 6px; text-align: center; }
+
+  .popup { position: fixed; display: none; z-index: 100;
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 8px; padding: 12px;
+    width: 280px; box-shadow: 0 12px 32px rgba(0,0,0,0.22);
+    pointer-events: auto;
+    /* When JS sets display:flex (touch / landscape phone) the column
+       direction means children still stack vertically — looks like
+       block layout but enables flex: 1 1 0 on the preview. */
+    flex-direction: column;
+    /* Without these the popup grew off the bottom of the screen when
+       the user expanded the feedback section. max-height clamps it to
+       the visible viewport (less a 24 px margin) and overflow-y lets
+       the contents scroll within the popup itself. */
+    max-height: calc(100vh - 24px);
+    max-height: calc(100dvh - 24px);
+    overflow-y: auto; }
+  .popup .popup-name-row { display: flex; align-items: center;
+    gap: 8px; margin: 8px 0 6px 0; }
+  .popup .filename { font-weight: 600; font-size: 14px;
+    word-break: break-all; line-height: 1.2; flex: 1; }
+  .popup .apply-all { font-size: 11px; color: var(--muted);
+    white-space: nowrap; display: flex; align-items: center; gap: 4px;
+    cursor: pointer; user-select: none; }
+  .popup .apply-all input { margin: 0; cursor: pointer; }
+  .popup .preview { width: 100%; aspect-ratio: 1; background: white;
+    border: 1px solid var(--border); border-radius: 6px;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    padding: 10px; }
+  .popup .preview img { width: 100%; height: 100%; object-fit: contain; }
+  .popup .controls { display: flex; flex-direction: column; gap: 6px;
+    margin-top: 4px; }
+  .popup button.toggle { padding: 8px 10px; border: 2px solid var(--border);
+    background: white; border-radius: 4px; cursor: pointer;
+    font: inherit; font-size: 13px; text-align: left;
+    display: flex; align-items: center; gap: 8px; }
+  .popup button.toggle .key { margin-left: auto; font-size: 10px;
+    color: var(--muted); background: #f0f1f4; padding: 1px 5px;
+    border-radius: 3px; }
+  .popup button.toggle.del:hover { border-color: var(--del); }
+  .popup button.toggle.rebuild:hover { border-color: var(--rebuild); }
+  .popup button.toggle.del.active {
+    background: var(--del); color: white; border-color: var(--del); }
+  .popup button.toggle.rebuild.active {
+    background: var(--rebuild); color: white; border-color: var(--rebuild); }
+  .popup button.toggle.active .key {
+    background: rgba(255,255,255,0.25); color: white; }
+  .popup .note-label { font-size: 11px; color: var(--muted); margin-top: 10px; }
+  .popup textarea.note { width: 100%; box-sizing: border-box;
+    min-height: 60px; max-height: 180px; resize: vertical;
+    margin-top: 4px; padding: 7px 9px;
+    border: 1px solid var(--border); border-radius: 4px;
+    font: inherit; font-size: 12px; line-height: 1.35; color: var(--text);
+    background: white; }
+  .popup textarea.note:focus { outline: 2px solid var(--rebuild);
+    outline-offset: -1px; border-color: var(--rebuild); }
+  .cell.has-note::after { content: "✎"; position: absolute;
+    top: 1px; right: 4px; font-size: 14px; line-height: 1;
+    color: var(--rebuild); pointer-events: none;
+    text-shadow: 0 0 2px white, 0 0 2px white, 0 0 2px white; }
+
+  .modal-backdrop { position: fixed; inset: 0;
+    background: rgba(0,0,0,0.45);
+    display: none; align-items: center; justify-content: center;
+    z-index: 100; }
+  .modal-backdrop.open { display: flex; }
+  .modal { background: white; border-radius: 8px;
+    padding: 22px 24px; max-width: 520px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
+  .modal h2 { margin: 0 0 12px 0; }
+  .modal pre { background: #f4f5f8; padding: 10px 12px; border-radius: 4px;
+    font-size: 12px; white-space: pre-wrap; word-break: break-all; }
+  .modal .row { display: flex; gap: 10px; justify-content: flex-end;
+    margin-top: 16px; }
+  .modal button { padding: 8px 16px; border: 1px solid var(--border);
+    background: white; border-radius: 4px; cursor: pointer; font: inherit; }
+  .modal button.primary { background: var(--accent); color: white; border-color: var(--accent); }
+
+  /* Download-SVG button on the popup — shown in both modes but it's the
+     primary action in public mode. */
+  .download-svg { display: block; margin: 10px 0 6px; padding: 8px 12px;
+    background: var(--accent); color: white; text-align: center;
+    text-decoration: none; border-radius: 6px; font-size: 13px;
+    font-weight: 600; }
+  .download-svg:hover { opacity: 0.92; }
+
+  /* Comment disclosure inside the popup. Collapsed by default so the
+     popup stays compact for users who only want to download. */
+  .popup-comment { margin-top: 6px; font-size: 12px; }
+  .popup-comment > summary { cursor: pointer; padding: 6px 8px;
+    border: 1px solid var(--border); border-radius: 6px;
+    background: #f6f7fb; color: var(--text); list-style: none;
+    user-select: none; }
+  .popup-comment > summary::before { content: "\1F4AC"; margin-right: 6px; }
+  .popup-comment > summary::-webkit-details-marker { display: none; }
+  .popup-comment[open] > summary { background: #eef2fb;
+    border-color: var(--accent); color: var(--accent); font-weight: 600; }
+  .popup-comment .comment-target { margin: 8px 0 4px;
+    font-size: 11px; color: var(--muted); word-break: break-all; }
+  .popup-comment .comment-target code { background: #f1f3f7;
+    padding: 1px 4px; border-radius: 3px;
+    font-family: ui-monospace, Menlo, monospace; font-size: 10px;
+    color: #444; }
+  .popup-comment textarea { width: 100%; box-sizing: border-box;
+    border: 1px solid var(--border); border-radius: 6px;
+    padding: 6px 8px; font: inherit; font-size: 12px;
+    resize: vertical; min-height: 60px; }
+  .popup-comment textarea:focus { outline: none; border-color: var(--accent); }
+  .popup-comment .comment-actions { display: flex; align-items: center;
+    justify-content: space-between; gap: 8px; margin-top: 6px; }
+  .popup-comment .comment-status { font-size: 11px; color: var(--muted);
+    flex: 1; min-width: 0; }
+  .popup-comment #t-send-comment { padding: 6px 14px;
+    background: var(--accent); color: white; border: none;
+    border-radius: 6px; cursor: pointer; font-size: 12px;
+    font-weight: 600; flex-shrink: 0; }
+  .popup-comment #t-send-comment[disabled] { opacity: 0.5;
+    cursor: not-allowed; }
+
+  /* Help button (always visible — useful in both local and public mode) */
+  .help-btn { margin-left: 8px; width: 30px; height: 30px; border-radius: 50%;
+    border: 1px solid var(--border); background: white; color: var(--accent);
+    font-size: 16px; font-weight: 700; cursor: pointer; line-height: 1;
+    padding: 0; flex-shrink: 0; }
+  .help-btn:hover { background: var(--accent); color: white; border-color: var(--accent); }
+
+  /* Help modal */
+  .help-backdrop { display: none; position: fixed; inset: 0;
+    background: rgba(0,0,0,0.45); z-index: 1000; align-items: flex-start;
+    justify-content: center; overflow-y: auto; padding: 40px 16px; }
+  .help-backdrop.open { display: flex; }
+  .help-modal { background: white; border-radius: 10px; max-width: 640px;
+    width: 100%; padding: 28px 32px; position: relative; box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+    color: #222; line-height: 1.5; }
+  .help-modal h2 { margin: 0 0 12px; color: var(--accent); font-size: 22px; }
+  .help-modal h3 { margin: 22px 0 8px; color: #222; font-size: 16px; }
+  .help-modal p { margin: 8px 0; }
+  .help-modal ul, .help-modal ol { margin: 8px 0 8px 22px; padding: 0; }
+  .help-modal li { margin: 5px 0; }
+  .help-modal code { background: #f1f3f7; padding: 1px 5px; border-radius: 3px;
+    font-family: ui-monospace, Menlo, monospace; font-size: 13px; }
+  .help-close { position: absolute; top: 12px; right: 14px; background: transparent;
+    border: none; font-size: 26px; color: #888; cursor: pointer; line-height: 1;
+    padding: 0; }
+  .help-close:hover { color: #222; }
+  .help-foot { margin-top: 18px; text-align: right; }
+  .help-foot .primary { padding: 8px 18px; background: var(--accent); color: white;
+    border: none; border-radius: 6px; cursor: pointer; font: inherit; }
+
+  /* Public mode: hide every authoring affordance (marks, notes, the
+     ClaudeIt button, mark-status borders on cells). The underlying JS
+     still runs (the empty-marks stub means nothing ever gets added);
+     we just don't show its UI. */
+  body.public .controls,
+  body.public .apply-all,
+  body.public .note-label,
+  body.public .note,
+  body.public #delcount,
+  body.public #rebcount,
+  body.public #notecount,
+  body.public .popup-comment,
+  body.public #apply { display: none !important; }
+  body.public .cell.mark-delete,
+  body.public .cell.mark-rebuild,
+  body.public .cell.mark-both,
+  body.public .cell.has-note { border-color: var(--border) !important; border-width: 1px !important; }
+
+  /* Hamburger button + collapsible toolbar group.
+     - Desktop (>600 px wide): hamburger hidden, .phone-tools contents flow inline
+       inside the topbar via display: contents.
+     - Phone (≤600 px wide): hamburger shown, .phone-tools collapsed by default,
+       expand into a dropdown panel below the topbar when body.menu-open. */
+  .phone-tools { display: contents; }
+  .hamburger-btn { display: none; }
+  @media (max-width: 600px) {
+    .hamburger-btn { display: inline-flex; align-items: center; justify-content: center;
+      width: 36px; height: 32px; border: 1px solid var(--border); background: white;
+      color: var(--text); border-radius: 6px; cursor: pointer; padding: 0;
+      font-size: 18px; line-height: 1; }
+    .hamburger-btn:hover, body.menu-open .hamburger-btn { background: #eef2fb;
+      border-color: var(--accent); }
+    .phone-tools { display: none; }
+    body.menu-open .phone-tools { display: flex; flex-direction: column;
+      gap: 8px; position: absolute; top: 100%; left: 8px; right: 8px;
+      background: white; border: 1px solid var(--border); border-radius: 8px;
+      padding: 12px; margin-top: 4px; z-index: 50;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.18); }
+    body.menu-open .phone-tools > * { width: 100%; }
+    .topbar { position: relative; flex-wrap: wrap; row-gap: 8px; }
+    .topbar .spacer { display: none; }
+
+    /* Three-row layout on phone (portrait only — landscape has the room
+       to keep everything inline):
+         row 1: hamburger | style | search | help
+         row 2: 🎨 Transform 🎨  (full-width, prominent)
+         row 3: ⏮ ◀ Page X ▶ ⏭   (kept on one line as a group)               */
+    #hamburger-btn, #style-select, #lang-select, #search, #help-btn { order: 1; }
+    #tx-menu       { order: 2; flex-basis: 100%; }
+    .page-nav      { order: 3; flex-basis: 100%; justify-content: center; }
+    #search        { flex: 1; min-width: 0; }
+
+    /* Promote Transform to a tappable full-width pill */
+    #tx-menu > summary { display: flex !important; justify-content: center;
+      width: 100%; padding: 10px 14px !important; font-size: 15px;
+      border-width: 1.5px !important; }
+    #tx-menu .tx-panel { left: 0; right: 0; }
+
+    #help-btn { margin-left: 0; }
+  }
+
+  /* Landscape phone: vertical toolbar pinned to the left edge. Landscape
+     phones have horizontal pixels to burn and almost no vertical
+     pixels, so spending the constrained dimension on toolbar chrome
+     wastes the scarce one. Flipping the layout to a 72 px-wide rail
+     gives the grid the entire viewport height.
+
+     Phone detection runs in JS at page load (see detectPhone() — reads
+     navigator.userAgent) and stamps body.is-phone. That's reliable for
+     every phone regardless of viewport size, including iPhone 14/15/16
+     Pro Max which would exceed any reasonable max-width threshold.
+     Each rule below is wrapped in `body.is-phone` so the rail only
+     applies to phones in landscape, not iPads / desktops. */
+  @media (orientation: landscape) {
+    body.is-phone { flex-direction: row; }
+    body.is-phone .topbar { flex-direction: column; flex-wrap: nowrap;
+      width: 72px; height: 100vh; height: 100dvh; padding: 8px 6px; gap: 6px;
+      border-bottom: none; border-right: 1px solid var(--border);
+      position: relative; overflow: visible; align-items: stretch; }
+    body.is-phone .topbar > * { flex: 0 0 auto; width: auto; max-width: 100%; }
+    body.is-phone .topbar .spacer { display: none; }
+
+    /* Hamburger collapses gender / 18+ / sort just like in portrait. */
+    body.is-phone .hamburger-btn { display: inline-flex !important;
+      align-items: center; justify-content: center; width: 100%; height: 44px;
+      border: 1px solid var(--border); background: white; color: var(--text);
+      border-radius: 6px; cursor: pointer; padding: 0;
+      font-size: 18px; line-height: 1; }
+    body.is-phone.menu-open .hamburger-btn { background: #eef2fb;
+      border-color: var(--accent); }
+    body.is-phone .phone-tools { display: none; }
+
+    /* 2-column popup panel — pops out to the right of the rail. */
+    body.is-phone.menu-open .phone-tools,
+    body.is-phone.menu-open .phone-tools * { box-sizing: border-box; }
+    body.is-phone.menu-open .phone-tools { display: flex !important;
+      flex-direction: column; gap: 14px;
+      position: absolute; top: 8px; left: 100%;
+      width: 280px; max-width: calc(100vw - 88px);
+      background: white; border: 1px solid var(--border); border-radius: 10px;
+      padding: 18px; margin-left: 8px; z-index: 50;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.22); font-size: 15px; }
+    body.is-phone.menu-open .phone-tools > * { width: 100%; min-width: 0; }
+    body.is-phone.menu-open .phone-tools select,
+    body.is-phone.menu-open .phone-tools .adult-cb { min-height: 44px;
+      font-size: 15px; padding: 10px 12px; }
+    body.is-phone.menu-open .phone-tools .adult-cb input { width: 20px; height: 20px; }
+    body.is-phone.menu-open .hamburger-extras { width: 100%;
+      display: flex; flex-direction: row; gap: 8px; margin-top: 8px;
+      padding-top: 8px; border-top: 1px solid var(--border);
+      justify-content: center; }
+    body.is-phone.menu-open .hamburger-extras button { flex: 1; padding: 10px;
+      font-size: 18px; text-align: center; max-width: 100%; }
+
+    body.is-phone #search { padding: 6px !important; font-size: 12px;
+      min-width: 0; width: 100%; min-height: 38px !important; height: 38px; }
+
+    body.is-phone #tx-menu { width: 100%; }
+    body.is-phone #tx-menu > summary { padding: 6px 4px !important;
+      font-size: 13px !important; text-align: center; line-height: 1.1;
+      min-height: 40px !important; width: 100%; box-sizing: border-box; }
+    body.is-phone #tx-menu .tx-panel { left: 100%; right: auto; top: 0;
+      min-width: 180px; margin-left: 6px; margin-top: 0; }
+
+    body.is-phone .page-nav { flex-direction: column; gap: 4px;
+      width: 100%; flex-basis: auto; }
+    body.is-phone .page-nav button { min-height: 32px !important;
+      min-width: 0; width: 100%; padding: 2px 4px !important; font-size: 14px; }
+    body.is-phone .page-indicator { font-size: 10px; padding: 2px;
+      text-align: center; line-height: 1.1; }
+    body.is-phone .page-indicator input { width: 100% !important;
+      min-height: 28px !important; height: 28px !important;
+      padding: 2px !important; text-align: center; }
+
+    body.is-phone #help-btn { width: 44px !important; height: 44px !important;
+      margin: 0 auto; padding: 0 !important; }
+
+    body.is-phone .tx-label { display: none; }
+    body.is-phone .page-indicator .pi-suffix { display: none; }
+    body.is-phone #nav-first, body.is-phone #nav-last { display: none; }
+  }
+
+  /* Touch-device concerns that apply in both orientations: big tap
+     targets, readable text, no noise badges. A phone in landscape still
+     has fat fingers and small screen pixels — these rules need to fire
+     there too, which is why they live under (pointer: coarse) rather
+     than (max-width: 600px). */
+  @media (pointer: coarse) {
+    .topbar button,
+    .topbar select,
+    .topbar input[type="text"],
+    .topbar input[type="number"] {
+      min-height: 44px;
+      font-size: 15px;
+      padding: 8px 12px;
+    }
+    .topbar input[type="text"]   { padding: 8px 12px; }
+    .topbar input[type="number"] { padding: 4px 8px; width: 56px; text-align: center; }
+    #hamburger-btn { width: 44px; height: 44px; font-size: 20px; padding: 0; }
+    #help-btn      { width: 44px; height: 44px; font-size: 18px; padding: 0; }
+    .page-nav button { min-width: 44px; }
+
+    /* Lose the item count badge — pure noise on a narrow screen. */
+    #count { display: none; }
+
+    /* Bigger text under each symbol — desktop's 10 px is unreadable
+       with a finger-sized viewport. */
+    .cell .label { font-size: 13px; line-height: 1.2; }
+    .page-indicator { font-size: 14px; }
+    .popup .filename { font-size: 16px; }
+    .popup { padding: 16px; }
+    .download-svg { padding: 12px 14px; font-size: 14px; }
+  }
+
+  /* Page-nav group — five buttons + page indicator stay on one line.
+     Without this wrapper, flex-wrap on the parent could split them. */
+  .page-nav { display: flex; align-items: center; gap: 4px; flex-wrap: nowrap; }
+
+  /* Hamburger-only extras (currently: First/Last page jump). Hidden
+     by default so they don't show in the desktop topbar via
+     .phone-tools's display: contents. Made visible by the landscape
+     phone rule. */
+  .hamburger-extras { display: none; }
+  .hamburger-extras button { padding: 8px 12px; border: 1px solid var(--border);
+    background: white; border-radius: 6px; cursor: pointer; font: inherit;
+    font-size: 14px; text-align: left; }
+  .hamburger-extras button:hover { background: #eef2fb; border-color: var(--accent); }
+
+  /* Popup close button — visible on touch so taps have a clear dismiss.
+     44 × 44 px meets Apple HIG minimum tap target so it's reliably hit
+     even on small landscape phone popups. */
+  .popup-close { position: absolute; top: 6px; right: 6px;
+    width: 44px; height: 44px;
+    border-radius: 50%; border: 1px solid var(--border); background: white;
+    color: #666; font-size: 22px; line-height: 1; cursor: pointer; padding: 0;
+    display: block; z-index: 1; }
+  .popup-close:hover { color: #222; border-color: var(--accent); }
+  @media (pointer: coarse) {
+    /* Pin the popup to the bottom centre on touch so a finger tap doesn't
+       cover it. Override the JS-set absolute positioning. */
+    .popup { position: fixed !important; left: 50% !important;
+      transform: translateX(-50%); bottom: 16px !important; top: auto !important;
+      max-width: 92vw; }
+  }
+  /* Phone portrait: 280 px is too cramped — give the preview most of the
+     available width. Landscape on phone has the small popup baked into the
+     wider viewport already, so we only widen in portrait. */
+  @media (pointer: coarse) and (orientation: portrait) {
+    .popup { width: 92vw !important; max-width: 400px !important; }
+  }
+  /* Phone landscape: viewport is only ~390 px tall. Stretch the popup
+     from top to bottom (with 12 px margins) so flex children have a
+     defined container height to grow into — `flex: 1 1 0` on the
+     preview only works when its parent has an explicit height, not a
+     max-height. The image scales to fit using object-fit: contain. */
+  @media (pointer: coarse) and (orientation: landscape)
+         and (max-height: 600px) and (hover: none) {
+    /* NOT display: flex !important — that would beat the JS-set
+       style="display: none" and the popup could never hide. The
+       base .popup rule has flex-direction: column so the column
+       layout takes effect whenever JS sets display:"flex". */
+    .popup { width: 320px !important;
+      top: 12px !important; bottom: 12px !important;
+      max-height: none !important;
+      padding: 12px !important; gap: 8px; }
+    .popup .preview { aspect-ratio: auto !important; flex: 1 1 0;
+      min-height: 60px; padding: 4px !important; height: auto !important; }
+    .popup .preview img { max-width: 100%; max-height: 100%;
+      width: 100%; height: 100%; object-fit: contain; }
+    .popup .filename { font-size: 13px; }
+    .popup .download-svg { padding: 8px 12px; font-size: 13px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <button id="hamburger-btn" class="hamburger-btn" title="More options">☰</button>
+  <select id="style-select" title="Library"></select>
+  <select id="lang-select" class="lang-select" title="Language / Dil / اللغة"></select>
+  <input id="search" type="text" placeholder="Search…" autocomplete="off" style="width: 100px;">
+  <div class="phone-tools">
+    <details class="gender-menu" id="gender-menu">
+      <summary title="Filter people, and toggle plurals/tenses and alphabets">
+        <span id="gm-label">All</span>
+        <span class="gm-chevron">&#9662;</span>
+      </summary>
+      <div class="gender-panel">
+        <div class="gm-section">
+          <div class="gm-heading">Gender</div>
+          <label class="gm-row"><input type="radio" name="gm-gender" value="all" checked> All</label>
+          <label class="gm-row"><input type="radio" name="gm-gender" value="male"> Male</label>
+          <label class="gm-row"><input type="radio" name="gm-gender" value="female"> Female</label>
+          <label class="gm-row"><input type="radio" name="gm-gender" value="random"> Random</label>
+        </div>
+        <div class="gm-section">
+          <div class="gm-heading">Also show</div>
+          <label class="gm-row"><input type="checkbox" id="gm-show-pt"> Plurals &amp; tenses</label>
+          <label class="gm-row"><input type="checkbox" id="gm-show-alpha"> Alphabets</label>
+        </div>
+      </div>
+    </details>
+    <label class="adult-cb" title="Show 18+ / sensitive icons (anatomy, RSE)"><input type="checkbox" id="adult-toggle"> 18+</label>
+    <label id="cat-label" class="adult-cb" title="Group symbols by category folder instead of one alphabetical list"><input type="checkbox" id="cat-toggle"> &#128193;</label>
+    <select id="sort-order" title="Sort order">
+      <option value="alpha">A→Z</option>
+      <option value="newest">Newest first</option>
+    </select>
+    <!-- Page jump buttons surfaced inside the hamburger on landscape phone,
+         where ⏮ and ⏭ are too cramped to keep in the vertical rail. Hidden
+         by default; revealed only when the landscape rail is showing. -->
+    <div class="hamburger-extras">
+      <button type="button" id="nav-first-alt" title="First page">⏮</button>
+      <button type="button" id="nav-last-alt" title="Last page">⏭</button>
+    </div>
+  </div>
+  <span class="spacer"></span>
+  <details class="tx-menu" id="tx-menu">
+    <summary title="Display transforms — preview only, the SVG files are never changed">🎨<span class="tx-label">&nbsp;Transform</span><span class="tx-style"></span>&nbsp;🎨</summary>
+    <div class="tx-panel">
+      <label class="tx-personstyle" title="Figure style — swap the Fleximbols stick people for a Library Pilot look for this symbol (falls back to Stick where a pilot has no version)">Figures
+        <select id="tx-personstyle">
+          <option value="stick">Stick (Fleximbols)</option>
+          <option value="toon">Toon</option>
+          <option value="anime">Anime</option>
+          <option value="simplified">Simplified</option>
+          <option value="inclusive">Inclusive</option>
+          <option value="kawaii">Kawaii</option>
+          <option value="threed">3D</option>
+          <option value="lineart">Lineart</option>
+        </select>
+      </label>
+      <label>Border
+        <select id="tx-border">
+          <option value="original">original</option>
+          <option value="none">none</option>
+          <option value="thin">thin</option>
+          <option value="medium">medium</option>
+          <option value="thick">thick</option>
+        </select>
+      </label>
+      <label>Skin
+        <select id="tx-skin">
+          <option value="default">default</option>
+          <option value="light">light</option>
+          <option value="tan">tan</option>
+          <option value="olive">olive</option>
+          <option value="brown">brown</option>
+          <option value="dark">dark</option>
+        </select>
+      </label>
+      <label>Hair
+        <select id="tx-hair">
+          <option value="default">default</option>
+          <option value="black">black</option>
+          <option value="brown">brown</option>
+          <option value="darkbrown">dark brown</option>
+          <option value="blonde">blonde</option>
+          <option value="ginger">ginger</option>
+          <option value="grey">grey</option>
+          <option value="white">white</option>
+          <option value="random">random</option>
+        </select>
+      </label>
+      <label>Colour
+        <select id="tx-colour">
+          <option value="bold">bold</option>
+          <option value="muted">muted</option>
+        </select>
+      </label>
+      <label>Traditional
+        <select id="tx-culture">
+          <option value="none">none</option>
+          <option value="afghan">afghan</option><option value="andean">andean</option><option value="arab">arab</option><option value="balinese">balinese</option><option value="bavarian">bavarian</option><option value="bhutanese">bhutanese</option><option value="brazilian">brazilian</option><option value="burmese">burmese</option><option value="cambodian">cambodian</option><option value="chinese">chinese</option><option value="dutch">dutch</option><option value="east-african">east-african</option><option value="egyptian">egyptian</option><option value="ethiopian">ethiopian</option><option value="fijian">fijian</option><option value="filipino">filipino</option><option value="ghanaian">ghanaian</option><option value="greek">greek</option><option value="hawaiian">hawaiian</option><option value="hmong">hmong</option><option value="indian">indian</option><option value="inuit">inuit</option><option value="japanese">japanese</option><option value="jewish">jewish</option><option value="kazakh">kazakh</option><option value="korean">korean</option><option value="kurdish">kurdish</option><option value="malay">malay</option><option value="maya">maya</option><option value="mexican">mexican</option><option value="mongolian">mongolian</option><option value="ndebele">ndebele</option><option value="nepali">nepali</option><option value="nigerian-hausa">nigerian-hausa</option><option value="north-african">north-african</option><option value="norwegian">norwegian</option><option value="omani">omani</option><option value="palestinian">palestinian</option><option value="panamanian">panamanian</option><option value="persian">persian</option><option value="polynesian">polynesian</option><option value="romanian">romanian</option><option value="russian">russian</option><option value="sami">sami</option><option value="samoan">samoan</option><option value="scottish">scottish</option><option value="sikh">sikh</option><option value="somali">somali</option><option value="southern-african">southern-african</option><option value="spanish">spanish</option><option value="sri-lankan">sri-lankan</option><option value="thai">thai</option><option value="tibetan">tibetan</option><option value="tuareg">tuareg</option><option value="turkish">turkish</option><option value="ukrainian">ukrainian</option><option value="uzbek">uzbek</option><option value="vietnamese">vietnamese</option><option value="welsh">welsh</option><option value="west-african">west-african</option>
+        </select>
+      </label>
+      <label class="tx-lfill" title="Fill colour (Lineart figures only)">Fill <input type="color" id="tx-lfill" value="#000000"> <button type="button" id="tx-lfill-clear">default</button></label>
+      <label>Arms
+        <select id="tx-arms">
+          <option value="stick">stick</option>
+          <option value="bare">bare</option>
+          <option value="clothed">clothed</option>
+        </select>
+      </label>
+      <label class="tx-clothes" title="Recolour the figure's clothes (top and trousers; works on Fleximbols and pilot figures)">Clothes <input type="color" id="tx-clothes" value="#000000"> <button type="button" id="tx-clothes-clear">default</button></label>
+      <label class="tx-diverse" title="Per-figure random skin / hair colour / hair style (deterministic per symbol) — a varied classroom instead of identical figures"><input type="checkbox" id="tx-diverse"> Varied figures</label>
+      <label class="tx-mirror" title="Left-hand flip (preview only; direction words will read mirrored)"><input type="checkbox" id="tx-mirror"> Mirror</label>
+      <label class="tx-cvi"><input type="checkbox" id="tx-cvi"> CVI mode</label>
+      <button type="button" id="tx-reset">Reset all</button>
+    </div>
+  </details>
+  <span class="spacer"></span>
+  <div class="page-nav">
+    <button id="nav-first" title="First page (Home)">⏮</button>
+    <button id="nav-prev"  title="Previous page (Left arrow)">◀</button>
+    <span class="page-indicator"><input id="page-input" type="number" min="1" value="1"><span class="pi-suffix"> of <span id="page-total">1</span></span></span>
+    <button id="nav-next"  title="Next page (Right arrow)">▶</button>
+    <button id="nav-last"  title="Last page (End)">⏭</button>
+  </div>
+  <span class="spacer"></span>
+  <div class="badge-grid">
+    <span class="badge muted" id="count">0</span>
+    <span class="badge del" id="delcount">0 delete</span>
+    <span class="badge reb" id="rebcount">0 rebuild</span>
+    <span class="badge muted" id="notecount" title="Rebuild notes attached">0 notes</span>
+  </div>
+  <button id="apply">ClaudeIt</button>
+  <button id="help-btn" class="help-btn" title="How to use this program">?</button>
+</div>
+
+<div class="help-backdrop" id="help-backdrop">
+  <div class="help-modal" role="dialog" aria-labelledby="help-title">
+    <button class="help-close" id="help-close" aria-label="Close">×</button>
+    <h2 id="help-title">Using Fleximbols Browser</h2>
+    <p>This is a library of about 9,300 symbols you can browse, preview with display tweaks, and download as SVG.</p>
+
+    <h3>Finding a symbol</h3>
+    <ul>
+      <li><b>Search</b> — type in the box at the top-left to narrow by name (e.g. <code>cat</code>, <code>school</code>).</li>
+      <li><b>Turn the page</b> — tap ◀ ▶ or, on a phone or tablet, swipe left/right across the grid. On a computer you can also use the keyboard's left/right/Home/End keys.</li>
+      <li><b>Jump to a page</b> — type a number into the page box, or use ⏮ / ⏭ for first / last (on a phone in landscape these live inside the ☰ menu).</li>
+      <li><b>Gender</b> — pick All, Male, Female, or Random. "Male" also shows symbols that have no gender. "Random" mixes male and female pairs.</li>
+      <li><b>Gender &amp; content menu</b> — the small <b>All</b> button opens a dropdown with two sections. <i>Gender</i> picks which figures to show (All, Male, Female, Random). <i>Also show</i> has two toggles that are <b>off</b> by default: <b>Plurals &amp; tenses</b> reveals conjugated / plural variants (e.g. "will cut and paste"); <b>Alphabets</b> reveals the letter symbols. Both stay on across visits once ticked.</li>
+      <li><b>18+</b> — tick to include sensitive / anatomy symbols. Off by default.</li>
+      <li><b>&#128193; Categories</b> — when ticked, symbols are shown in folder order (alphabetical by category, then alphabetical within each category). When unticked, every symbol is in one big A→Z list regardless of folder. Pagination works the same in both modes — just the order changes. A small badge appears in the top-left of the grid showing which category you're currently viewing.</li>
+      <li><b>Hamburger menu (☰)</b> — on a phone, the gender, 18+ and category controls live inside the ☰ button to keep the toolbar tidy.</li>
+    </ul>
+
+    <h3>Preview transforms (🎨 Transform menu)</h3>
+    <p>Try different looks without changing the original file. Pick any combination:</p>
+    <ul>
+      <li><b>Border</b> — original, none, thin, medium, or thick outlines.</li>
+      <li><b>Skin</b> — change skin tone (light → dark) on figures that have skin.</li>
+      <li><b>Hair</b> — change hair colour, or shuffle randomly.</li>
+      <li><b>Colour</b> — bold (default) or muted palette.</li>
+      <li><b>Traditional</b> — restyle figures to one of 60 traditional styles (clothing, accessories, complexion). Choose <i>none</i> to leave them as-is.</li>
+      <li><b>Clothes</b> — recolour figure clothing (top and trousers).</li>
+      <li><b>CVI mode</b> — high-contrast view for people with cortical visual impairment.</li>
+      <li><b>Reset all</b> — clear every transform.</li>
+    </ul>
+    <p><i>Transforms are preview-only — the SVG files on disk are never changed.</i></p>
+
+    <h3>Downloading a symbol</h3>
+    <ol>
+      <li>Tap a symbol — a preview popup appears.</li>
+      <li>Tap <b>⬇ Download SVG</b>.</li>
+      <li>Any transforms you have set are baked into the downloaded file.</li>
+      <li>Close the popup with the <b>×</b> button, by tapping outside it, or by tapping the symbol again.</li>
+    </ol>
+
+    <h3>Leaving feedback on a symbol</h3>
+    <p>Inside the preview popup there's a <b>&#128172; Leave feedback</b> section. Tap it to expand a small text box.</p>
+    <ul>
+      <li>Type up to 500 characters about what's good or what could be better.</li>
+      <li>Tap <b>Send</b>. A "Thanks!" message confirms it was received.</li>
+      <li>Your feedback is sent with the symbol's name and any transforms you had active (e.g. skin tone, culture) so the team can see exactly what you were looking at.</li>
+      <li>Feedback is anonymous from your side — no sign-in needed. Please be kind.</li>
+    </ul>
+
+    <h3>Layout on different devices</h3>
+    <p>The browser adapts to whatever screen you're on:</p>
+    <ul>
+      <li><b>Computer</b> — wide grid with the toolbar across the top.</li>
+      <li><b>Tablet</b> — slightly smaller grid, same toolbar.</li>
+      <li><b>Phone — portrait</b> — fewer columns per page, tools collapse into a ☰ menu so the search box stays visible.</li>
+      <li><b>Phone — landscape</b> — toolbar moves to a thin rail on the left so the symbols get the full height of the screen.</li>
+    </ul>
+
+    <h3>Tips</h3>
+    <ul>
+      <li>SVG files scale to any size without losing sharpness — useful for printing or large displays.</li>
+      <li>Swipe left or right on a phone or tablet to flip pages, just like a photo gallery.</li>
+      <li>If a transform looks odd on a particular symbol, try Reset all and apply changes one at a time.</li>
+      <li>This is an alpha — please be patient with any rough edges.</li>
+    </ul>
+
+    <h3>Developer API</h3>
+    <p>Need to search, localize, or embed dynamically transformed symbols in your own AAC, educational, or web application? Fleximbols provides a free public REST API.</p>
+    <ul>
+      <li><b>Interactive Playground:</b> <a href="/api/docs" target="_blank" style="color: #2563eb; font-weight: 600;">Open API Documentation & Sandbox →</a></li>
+      <li><b>OpenAPI 3.1 JSON:</b> <a href="/api/v1/openapi.json" target="_blank" style="color: #2563eb;">/api/v1/openapi.json</a></li>
+    </ul>
+
+    <div class="help-foot">
+      <button id="help-ok" class="primary">Got it</button>
+    </div>
+  </div>
+</div>
+
+<div class="grid-area">
+  <div class="cat-indicator" id="cat-indicator" aria-live="polite"></div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<div id="popup" class="popup"></div>
+
+<div class="modal-backdrop" id="modal-backdrop">
+  <div class="modal">
+    <h2 id="modal-title">Saved.</h2>
+    <div id="modal-body"></div>
+    <div class="row">
+      <button id="modal-copy">Copy Claude prompt</button>
+      <button id="modal-close" class="primary">OK</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// Per-page count is computed from the actual grid area so it adapts to
+// every device, every orientation, and every viewport size — no fixed
+// breakpoint table to maintain. Column count follows the CSS rule
+// (auto-fill + minmax(--min-cell, 1fr)); row count is whatever fits
+// the remaining height at roughly square cells. We then set explicit
+// grid-template-columns/rows so the cell DOM count we render matches
+// what fits on screen.
+// Caching matters: perPage() is called three times per renderGrid pass,
+// and the first call sets the grid template (mutating layout). Without
+// a cache, calls 2 and 3 see a freshly re-laid-out grid and can return
+// a different number — that mismatch is what made partial extra rows
+// appear at the bottom of the viewport. _cachedPerPage is invalidated
+// on resize / orientationchange so genuine layout changes still take.
+let _cachedPerPage = null;
+function invalidatePerPageCache() { _cachedPerPage = null; }
+function perPage() {
+  if (_cachedPerPage !== null) return _cachedPerPage;
+  const grid = document.getElementById('grid');
+  // Pre-render fallback — before grid has dimensions, return a sensible
+  // count from viewport area so we don't generate 0 cells. Don't cache
+  // this since real measurements come in later.
+  if (!grid || !grid.clientWidth || !grid.clientHeight) {
+    const w = window.innerWidth, h = window.innerHeight;
+    return Math.max(12, Math.round((w * h) / 25000));
+  }
+  const minCellPx = parseInt(getComputedStyle(document.documentElement)
+                       .getPropertyValue('--min-cell')) || 110;
+  const gap = parseInt(getComputedStyle(grid).gap) || 6;
+  const w = grid.clientWidth;
+  const h = grid.clientHeight;
+  const cols = Math.max(1, Math.floor((w + gap) / (minCellPx + gap)));
+  const cellW = (w - (cols - 1) * gap) / cols;
+  // Conservative rows: subtract one extra px from available height to
+  // protect against sub-pixel rounding that would leave a partial row
+  // peeking past the viewport bottom on phones.
+  const rows = Math.max(1, Math.floor((h + gap - 1) / (cellW + gap)));
+  grid.style.gridTemplateColumns = `repeat(${cols}, 1fr)`;
+  grid.style.gridTemplateRows    = `repeat(${rows}, 1fr)`;
+  _cachedPerPage = cols * rows;
+  return _cachedPerPage;
+}
+const MARKS_PATH = "/Users/paulblenkhorn/Documents/Development/PWAs/To do next/PublicIconBrowser/_marks.json";
+const STYLE_LIST = [
+  ["fluent", "picom_classic", "Fluent (SVG)"],
+  ["stick", "Fleximbols (SVG)"],
+  ["picom_cartoon", "Cartoon"],
+  ["picom_classic", "Classic (SVG)"],
+  ["picom_cute", "Cute"],
+  ["generic", "Generic"],
+  ["plain", "Plain"],
+  ["picom_realistic", "Realistic"],
+  ["screenprint", "ScreenPrint"],
+  ["picom_sommi", "Sommi"]
+];  // [["key","Label"], ...]
+const STATIC_STYLES = [
+  "picom_realistic",
+  "picom_cartoon", "generic", "picom_sommi", "picom_cute"
+];
+function isStatic(style) { return STATIC_STYLES.indexOf(style) >= 0; }
+// Styles that are vectorized rasters (not Fleximbols parametric figures): only
+// Border + Skin transforms apply — hair/culture/arms/personstyle/etc. are hidden.
+const RASTER_STYLES = ["fluent", "picom_classic"];
+function isRaster(style) { return RASTER_STYLES.indexOf(style) >= 0; }
+// URL prefix when mounted under a sub-path (e.g. "/fleximbols/alpha"). Empty
+// for local authoring. All API/SVG fetches and download links must use it.
+const BASE = "";
+// "public" used to gate CSS rules; now applied unconditionally because
+// there's no local-authoring mode any more, just the public deployment.
+document.body.classList.add("public");
+
+// Definitive phone detection via the user-agent string. CSS media queries
+// can only check viewport size + pointer + hover, and big phones (iPhone
+// 14/15/16 Pro Max in landscape = 932 px wide) blow past any reasonable
+// max-width threshold. Reading the UA directly side-steps that — every
+// iPhone advertises "iPhone" and every Android phone (vs tablet) sends
+// "Android" + "Mobile". iPads now spoof Mac UAs since iPadOS 13, but we
+// don't want iPads in the "phone" bucket anyway, so leaving them out is
+// the right answer. body.is-phone then gates the rail in CSS.
+(function detectPhone() {
+  const ua = navigator.userAgent || "";
+  const isPhone =
+    (navigator.userAgentData && navigator.userAgentData.mobile === true) ||
+    /iPhone|iPod/.test(ua) ||
+    (/Android/.test(ua) && /Mobile/.test(ua));
+  if (isPhone) document.body.classList.add("is-phone");
+})();
+const STYLE_KEYS = STYLE_LIST.map(s => s[0]);
+// Per-page-load nonce — appended to every SVG URL alongside the mtime so
+// every reload yields URLs the browser has never seen before. This works
+// around Safari's stubborn cache on localhost: Safari ignores no-store and
+// even ?v=<mtime> if mtime hasn't moved, but a brand-new query string
+// forces a real fetch.
+const SESSION_NONCE = Date.now().toString(36) + Math.random().toString(36).slice(2,6);
+
+let state = {
+  style: STYLE_KEYS[0],
+  files: [],          // [{name, mtime}, ...]
+  filtered: [],       // [name, ...]
+  page: 1,
+  pages: Object.fromEntries(STYLE_KEYS.map(k => [k, 1])),  // remembered page per style
+  marks: emptyMarks(),
+  hovered: null,
+  search: "",
+  showFilter: "all",
+  genderFilter: "all",     // all | male | female | random — which gender of the (M)/(F) pairs to show
+  showPluralsTenses: localStorage.getItem("fleximbols-show-pt")    === "1",
+  showAlphabets:     localStorage.getItem("fleximbols-show-alpha") === "1",
+  genderRandomMap: {},     // word -> "M"/"F" chosen pick, for the "random" gender filter
+  adult: false,            // 18+ gate: when false, sensitive/anatomy icons are hidden
+  categoryMode: localStorage.getItem("fleximbols-cat-mode") !== "0",  // group by folder vs flat A→Z (default: grouped by folder)
+  sortOrder: "alpha", // "alpha" | "newest"
+  applyAllByFile: {}, // { "fname.svg": true } — persists across popup hides
+  tx: { personstyle: "stick", border: "original", skin: "default", hair: "default", colour: "bold", cvi: false, culture: "none", arms: "stick", lfill: "default", clothes: "default", mirror: false, diverse: false }, // display-only transforms (gender comes from each file's (M)/(F) label)
+};
+
+function activeFigureStyle() {
+  if (isRaster(state.style)) return "picomfluent";
+  return state.tx.personstyle || "stick";
+}
+
+function txApplies(k) {
+  const ps = activeFigureStyle();
+  const isRasterSet = isRaster(state.style);
+
+  if (k === "personstyle") {
+    return !isRasterSet;
+  }
+  if (k === "culture" || k === "arms") {
+    return !isRasterSet && ps === "stick";
+  }
+  if (k === "lfill") {
+    return ps === "lineart";
+  }
+  if (k === "skin") {
+    return ["stick", "toon", "anime", "simplified", "kawaii", "inclusive", "cp", "threed", "picomfluent"].includes(ps);
+  }
+  if (k === "hair") {
+    return ["stick", "toon", "anime", "simplified", "kawaii", "inclusive", "cp", "threed"].includes(ps);
+  }
+  if (k === "clothes") {
+    return ["stick", "toon", "anime", "simplified", "kawaii", "inclusive", "cp"].includes(ps);
+  }
+  if (k === "diverse") {
+    return ["stick", "toon", "anime", "simplified", "kawaii", "inclusive", "cp", "threed"].includes(ps);
+  }
+  if (k === "border") {
+    return ps !== "threed";
+  }
+  if (k === "colour") {
+    return ps !== "lineart";
+  }
+  if (k === "cvi") {
+    return ["stick", "toon", "anime", "simplified", "kawaii", "inclusive", "cp", "picomfluent"].includes(ps);
+  }
+  if (k === "mirror") {
+    return true;
+  }
+  return false;
+}
+
+function txParams() {
+  const t = state.tx; let s = "";
+  if (isRaster(state.style)) {   // Fluent: Border + Skin + generic Colour/CVI/Mirror
+    // Fluent border scale is Normal(12=base)/Medium/Thick — "normal" is the no-op default.
+    if (txApplies("border") && t.border && t.border !== "original" && t.border !== "normal") s += "&border=" + t.border;
+    if (txApplies("skin") && t.skin && t.skin !== "default")      s += "&skin=" + t.skin;
+    if (txApplies("colour") && t.colour === "muted")                s += "&colour=muted";
+    if (txApplies("cvi") && t.cvi)                               s += "&cvi=1";
+    if (txApplies("mirror") && t.mirror)                            s += "&mirror=1";
+    return s;
+  }
+  if (txApplies("personstyle") && t.personstyle && t.personstyle !== "stick") s += "&ps=" + t.personstyle;
+  if (txApplies("border") && t.border && t.border !== "original")             s += "&border=" + t.border;
+  if (txApplies("skin") && t.skin && t.skin !== "default")                   s += "&skin=" + t.skin;
+  if (txApplies("hair") && t.hair && t.hair !== "default")                   s += "&hair=" + t.hair;
+  if (txApplies("colour") && t.colour === "muted")                           s += "&colour=muted";
+  if (txApplies("cvi") && t.cvi)                                             s += "&cvi=1";
+  if (txApplies("culture") && t.culture && t.culture !== "none")             s += "&culture=" + t.culture;
+  if (txApplies("arms") && t.arms && t.arms !== "stick")                     s += "&arms=" + t.arms;
+  if (txApplies("lfill") && t.lfill && t.lfill !== "default")                 s += "&lfill=" + encodeURIComponent(t.lfill);
+  if (txApplies("clothes") && t.clothes && t.clothes !== "default") {
+    s += "&top=" + encodeURIComponent(t.clothes) + "&bottom=" + encodeURIComponent(t.clothes);
+  }
+  if (txApplies("diverse") && t.diverse)                                     s += "&diverse=1";
+  if (txApplies("mirror") && t.mirror)                                       s += "&mirror=1";
+  return s;
+}
+function applyTx() {
+  updateTxVisibility();
+  document.body.classList.toggle("cvi", !!(txApplies("cvi") && state.tx.cvi));
+  const t = state.tx;
+  const active = (txApplies("personstyle") && t.personstyle && t.personstyle !== "stick") ||
+                 (txApplies("border") && t.border !== (isRaster(state.style) ? "normal" : "original")) ||
+                 (txApplies("skin") && t.skin !== "default") ||
+                 (txApplies("hair") && t.hair !== "default") ||
+                 (txApplies("colour") && t.colour === "muted") ||
+                 (txApplies("cvi") && !!t.cvi) ||
+                 (txApplies("culture") && t.culture && t.culture !== "none") ||
+                 (txApplies("arms") && t.arms && t.arms !== "stick") ||
+                 (txApplies("lfill") && t.lfill && t.lfill !== "default") ||
+                 (txApplies("clothes") && t.clothes && t.clothes !== "default") ||
+                 (txApplies("diverse") && !!t.diverse) ||
+                 (txApplies("mirror") && !!t.mirror);
+  const menu = document.getElementById("tx-menu");
+  if (menu) menu.classList.toggle("active", active);
+  // Surface the active figure style on the button, e.g. "🎨 Transform (3D) 🎨".
+  // Plain "Transform" on the default Stick figures; other transforms don't
+  // change the label (figure-style-only, by decision).
+  const PS_LABELS = { toon: "Toon", anime: "Anime", simplified: "Simplified", inclusive: "Inclusive", cp: "Inclusive", kawaii: "Kawaii", threed: "3D", lineart: "Lineart" };
+  const styleEl = document.querySelector("#tx-menu .tx-style");
+  if (styleEl) styleEl.textContent = (txApplies("personstyle") && PS_LABELS[t.personstyle]) ? " (" + PS_LABELS[t.personstyle] + ")" : "";
+  const txps = document.getElementById("tx-personstyle");
+  if (txps && txps.value !== t.personstyle) txps.value = t.personstyle;
+  renderGrid();
+}
+
+function updateTxVisibility() {
+  const borderDefault = isRaster(state.style) ? "normal" : "original";
+  const TX_DEFAULT = {
+    personstyle: "stick",
+    border: borderDefault,
+    skin: "default",
+    hair: "default",
+    colour: "bold",
+    culture: "none",
+    arms: "stick",
+    lfill: "default",
+    clothes: "default",
+    diverse: false,
+    mirror: false,
+    cvi: false,
+  };
+  for (const k in TX_DEFAULT) {
+    const el = document.getElementById("tx-" + k);
+    const label = el && el.closest("label");
+    const applies = txApplies(k);
+    if (label) label.style.display = applies ? "" : "none";
+    if (!applies && state.tx[k] !== TX_DEFAULT[k]) {
+      state.tx[k] = TX_DEFAULT[k];
+      if (el) {
+        if (typeof TX_DEFAULT[k] === "boolean") el.checked = TX_DEFAULT[k];
+        else if (k === "clothes" || k === "lfill") el.value = "#000000";
+        else el.value = TX_DEFAULT[k];
+      }
+    }
+  }
+  setBorderOptions(isRaster(state.style));
+}
+
+function getApplyAll(fname) {
+  if (state.applyAllByFile[fname]) return true;
+  if (!fname || !state.marks || !state.marks.delete) return false;
+  let allDel = true;
+  for (const k of STYLE_KEYS) {
+    if (!state.marks.delete[k] || state.marks.delete[k].indexOf(fname) < 0) {
+      allDel = false;
+      break;
+    }
+  }
+  return allDel;
+}
+function setApplyAll(fname, on) {
+  if (on) state.applyAllByFile[fname] = true;
+  else delete state.applyAllByFile[fname];
+}
+
+function emptyMarks() {
+  const m = { delete: {}, rebuild: {}, notes: {} };
+  for (const k of STYLE_KEYS) { m.delete[k] = []; m.rebuild[k] = []; m.notes[k] = {}; }
+  return m;
+}
+
+async function fetchJSON(url, opts) {
+  const r = await fetch(url, opts || {});
+  return r.json();
+}
+
+async function loadList(style) {
+  const r = await fetchJSON(BASE + "/api/list?style=" + encodeURIComponent(style));
+  return r.files || [];
+}
+
+async function loadMarks() {
+  return await fetchJSON(BASE + "/api/marks");
+}
+
+async function saveMarks() {
+  return await fetchJSON(BASE + "/api/marks", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(state.marks),
+  });
+}
+
+function setOf(kind, style) { return new Set(state.marks[kind][style] || []); }
+function isMarked(kind, fname) { return setOf(kind, state.style).has(fname); }
+
+// (M)/(F) gender twins: a delete/rebuild mark or a note on one figure mirrors
+// to its opposite-gender twin in the same folder (and un-marking mirrors too).
+function twinOf(fname) {
+  if (fname.includes("(M)")) return fname.replace("(M)", "(F)");
+  if (fname.includes("(F)")) return fname.replace("(F)", "(M)");
+  return null;
+}
+function twinInView(fname) {
+  const tw = twinOf(fname);
+  if (!tw || tw === fname) return null;
+  return state.files.some(f => f.name === tw) ? tw : null;
+}
+
+function toggleMark(kind, fname) {
+  const refArr = state.marks[kind][state.style];
+  const isAdding = refArr.indexOf(fname) < 0;
+  const tw = twinInView(fname);
+  const names = tw ? [fname, tw] : [fname];          // mirror to the (M)/(F) twin
+  const targetStyles = (isAdding && getApplyAll(fname)) ? STYLE_KEYS : [state.style];
+  for (const nm of names) {
+    for (const k of targetStyles) {
+      const arr = state.marks[kind][k];
+      const i = arr.indexOf(nm);
+      if (isAdding) { if (i < 0) arr.push(nm); }
+      else          { if (i >= 0) arr.splice(i, 1); }
+    }
+  }
+  if (tw) refreshCell(tw);                            // update the twin's cell too
+  saveMarks();
+}
+
+let _sortSig = null, _sorted = null;      // cache of the sorted list (see below)
+function applyFilter() {
+  const q = state.search.trim().toLowerCase();
+  const del = setOf("delete", state.style);
+  const reb = setOf("rebuild", state.style);
+  // The sort order depends ONLY on style / sortOrder / categoryMode / list size —
+  // never on the search text — so we sort once and cache it. Every keystroke then
+  // just re-filters the cached array (O(n) includes) instead of re-sorting 28k
+  // entries with locale collation on each key. Names are lowercased once, not
+  // per keystroke. Same visible result, far more reactive.
+  const sig = state.style + "|" + state.sortOrder + "|" + (state.categoryMode ? "1" : "0") + "|" + state.files.length;
+  if (sig !== _sortSig || _sorted === null) {
+    const leaf = (s) => { const i = s.lastIndexOf('/'); return (i < 0 ? s : s.slice(i + 1)).toLowerCase(); };
+    const folder = (s) => { const i = s.lastIndexOf('/'); return (i < 0 ? '' : s.slice(0, i)).toLowerCase(); };
+    _sorted = state.files.slice();
+    for (const f of _sorted) if (f._lc === undefined) f._lc = f.name.toLowerCase();   // lowercase once
+    if (state.categoryMode) {
+      // "Group by category" ALWAYS wins — folder A→Z, then leaf A→Z within it.
+      // This must take precedence over sortOrder: a stale "newest" left in
+      // localStorage from the old (now-removed) sort picker would otherwise
+      // silently override the grouping and show files newest-first.
+      const cmp = (x, y) => x.localeCompare(y, undefined, { numeric: true, sensitivity: 'base' });
+      _sorted.sort((a, b) => cmp(folder(a.name), folder(b.name)) || cmp(leaf(a.name), leaf(b.name)));
+    } else if (state.sortOrder === "newest") {
+      _sorted.sort((a, b) => (b.mtime || 0) - (a.mtime || 0));
+    } else {
+      _sorted.sort((a, b) => leaf(a.name).localeCompare(leaf(b.name), undefined, { numeric: true, sensitivity: 'base' }));
+    }
+    _sortSig = sig;
+  }
+  state.filtered = _sorted.filter(f => {
+    if (q) {
+      const matchEng = f._lc.includes(q);
+      const matchLocal = window.FlexiI18n ? FlexiI18n.translateSymbol(f.name).toLowerCase().includes(q) : false;
+      const matchCat = window.FlexiI18n ? FlexiI18n.translateCategory(f.name.split('/')[0]).toLowerCase().includes(q) : false;
+      if (!matchEng && !matchLocal && !matchCat) return false;
+    }
+    switch (state.showFilter) {
+      case "delete":   return del.has(f.name);
+      case "rebuild":  return reb.has(f.name);
+      case "marked":   return del.has(f.name) || reb.has(f.name);
+      case "unmarked": return !del.has(f.name) && !reb.has(f.name);
+      default:         return true;
+    }
+  });
+  // GENDER filter: choose which gender of the (M)/(F) pairs to show; genderless always shown.
+  const gf = state.genderFilter;
+  if (gf && gf !== "all") {
+    if (gf === "random" && !Object.keys(state.genderRandomMap).length) buildGenderRandom();  // ensure map built
+    state.filtered = state.filtered.filter(f => {
+      const n = f.name, isM = n.includes("(M)"), isF = n.includes("(F)");
+      if (!isM && !isF) return true;                 // genderless / non-person symbol
+      if (gf === "male")   return isM;               // male + genderless
+      if (gf === "female") return isF;               // female + genderless
+      if (gf === "random") {                         // one gender per word, chosen at random
+        const pick = state.genderRandomMap[baseWord(n)];
+        return !pick || (pick === "M" ? isM : isF);
+      }
+      return true;
+    });
+  }
+  // 18+ gate: hide sensitive/anatomy icons unless the box is ticked
+  if (!state.adult) state.filtered = state.filtered.filter(f => !SENSITIVE.test(f.name));
+  // Content-shape gates. Hidden by default so a "cat" search doesn't
+  // drown in conjugated cognates or letters — user opts in via the
+  // gender/filter menu.
+  if (!state.showPluralsTenses) {
+    state.filtered = state.filtered.filter(f => !f.name.startsWith("Plurals and tenses/"));
+  }
+  if (!state.showAlphabets) {
+    state.filtered = state.filtered.filter(f => !f.name.startsWith("Alphabets/"));
+  }
+  // SEARCH RELEVANCE: when a query is typed, rank the matches — exact name first, then
+  // names that START WITH the query, then names that merely CONTAIN it, and last anything
+  // that matched only in the folder path. Stable sort, so the A→Z (or category) order set
+  // above is preserved WITHIN each rank. Only runs when searching, on the small filtered set.
+  if (q) {
+    const rank = new Map();
+    for (const f of state.filtered) {
+      const s = f.name, i = s.lastIndexOf('/');
+      const leaf = (i < 0 ? s : s.slice(i + 1)).replace(/\.svg$/i, '').toLowerCase();
+      const base = leaf.replace(/\s*\((?:m|f|\d+)\)/g, '').trim();   // drop (M)/(F)/(1) variant markers
+      let r;
+      if (base === q || leaf === q) r = 0;        // exact name
+      else if (leaf.startsWith(q)) r = 1;         // name starts with the query
+      else if (leaf.includes(q)) r = 2;           // name contains the query
+      else r = 3;                                 // matched only in the folder path
+      rank.set(f, r);
+    }
+    state.filtered.sort((a, b) => rank.get(a) - rank.get(b));
+  }
+}
+function baseWord(n) {
+  return n.replace(/\.svg$/i, "").replace(/\s*\((?:M|F|\d+)\)/g, "").trim().toLowerCase();
+}
+// 18+ / sensitive icons — hidden unless the 18+ box is ticked. Extend this list as needed.
+const SENSITIVE = /penis|vagina|vulva|testicl|scrotum|clitoris|foreskin|\blabia|erection|ejaculat|masturbat|\bsemen\b|\bsperm\b|orgasm|intercourse|\bpubic|\banus\b|genital|\bbreasts\b|breast development|\bnipple|condom|contracept|\bpornograph|wet[ -]?dream|period[ -]?products|sanitary|tampon/i;
+function buildGenderRandom() {  // for each word with BOTH (M) and (F), randomly pick one to show
+  const w = {};
+  for (const f of state.files) {
+    const n = f.name, isM = n.includes("(M)"), isF = n.includes("(F)");
+    if (!isM && !isF) continue;
+    const k = baseWord(n); (w[k] = w[k] || {})[isM ? "M" : "F"] = true;
+  }
+  state.genderRandomMap = {};
+  for (const k in w) if (w[k].M && w[k].F) state.genderRandomMap[k] = Math.random() < 0.5 ? "M" : "F";
+}
+
+function totalPages() { return Math.max(1, Math.ceil(state.filtered.length / perPage())); }
+function clampPage() { state.page = Math.min(Math.max(1, state.page), totalPages()); }
+
+function makeCell(entry) {
+  const f = entry.name;
+  const mt = entry.mtime || 0;
+  const del = setOf("delete", state.style);
+  const reb = setOf("rebuild", state.style);
+  const cell = document.createElement("div");
+  cell.className = "cell";
+  cell.dataset.name = f;
+  const d = del.has(f), r = reb.has(f);
+  if (d && r) cell.classList.add("mark-both");
+  else if (d) cell.classList.add("mark-delete");
+  else if (r) cell.classList.add("mark-rebuild");
+  if (getNote(state.style, f)) cell.classList.add("has-note");
+
+  const wrap = document.createElement("div");
+  wrap.className = "img-wrap";
+  const img = document.createElement("img");
+  img.src = BASE + "/svg/" + state.style + "/" + encodeURIComponent(f) + "?v=" + mt + "&s=" + SESSION_NONCE + txParams();
+  img.loading = "lazy";
+  img.alt = f;
+  wrap.appendChild(img);
+
+  const label = document.createElement("div");
+  label.className = "label";
+  label.textContent = window.FlexiI18n ? FlexiI18n.translateSymbol(f) : f.replace(/.*\//, "").replace(/\.svg$/i, "");
+
+  cell.appendChild(wrap);
+  cell.appendChild(label);
+  cell.addEventListener("click", (ev) => {
+    ev.stopPropagation();
+    const popup = document.getElementById("popup");
+    const showing = popup && popup.style.display === "flex";
+    if (showing && popupName === f) {
+      popup.style.display = "none";
+      popupName = null;
+      mouseInsidePopup = false;
+      return;
+    }
+    const r = cell.getBoundingClientRect();
+    showPopupNow(f, r.left + r.width / 2, r.top + r.height / 2);
+  });
+  return cell;
+}
+
+function renderGrid() {
+  clampPage();
+  const grid = document.getElementById("grid");
+  if (!grid.clientWidth || !grid.clientHeight) {
+    requestAnimationFrame(renderGrid);
+    return;
+  }
+  grid.innerHTML = "";
+  invalidatePerPageCache();
+  const start = (state.page - 1) * perPage();
+  const slice = state.filtered.slice(start, start + perPage());
+  for (const entry of slice) grid.appendChild(makeCell(entry));
+  for (let i = slice.length; i < perPage(); i++) {
+    const e = document.createElement("div");
+    e.className = "cell empty";
+    grid.appendChild(e);
+  }
+  updateCategoryIndicator(slice);
+  updateHeader();
+  persistState();
+}
+
+// ---- Prefetch-ahead (Lever A) -------------------------------------------
+// Warm the SW's persistent cache with the NEXT page's tiles so paging forward
+// feels instant. Called ONLY from page-navigation (prev/next/first/last, page
+// jump, swipe, style switch, initial paint) — deliberately NOT from renderGrid,
+// so changing a transform (skin/clothes/culture/arms) or typing a search does
+// NOT trigger prefetch; only actually moving between pages does. Fire-and-
+// forget: it goes through the same /svg/ path the <img> tiles use, so the SW
+// transforms + caches each symbol once and the real tile then loads from cache.
+// Runs at idle (never competes with the visible tiles), a few at a time, and is
+// cancelled the moment another navigation supersedes it (generation guard). The
+// URL matches makeCell exactly; the SW cache key drops the v/s nonce, so the
+// prefetch and the visible tile share one cache entry.
+let _prefetchGen = 0;
+function prefetchNextPage() {
+  if (!navigator.onLine) return;
+  const gen = ++_prefetchGen;                       // supersede any in-flight run
+  const per = perPage();
+  const start = state.page * per;                   // first item of the NEXT page
+  const next = state.filtered.slice(start, start + per);
+  if (!next.length) return;
+  const urls = next.map(entry =>
+    BASE + "/svg/" + state.style + "/" + encodeURIComponent(entry.name) +
+    "?v=" + (entry.mtime || 0) + "&s=" + SESSION_NONCE + txParams());
+  const run = () => {
+    let i = 0;
+    const CONC = 6;                                 // gentle: a handful at a time
+    const pump = () => {
+      if (gen !== _prefetchGen) return;             // a newer render took over
+      if (i >= urls.length) return;
+      fetch(urls[i++]).catch(() => {}).finally(pump);
+    };
+    for (let k = 0; k < CONC; k++) pump();
+  };
+  if (window.requestIdleCallback) requestIdleCallback(run, { timeout: 800 });
+  else setTimeout(run, 300);
+}
+
+function updateCategoryIndicator(slice) {
+  const ind = document.getElementById("cat-indicator");
+  if (!ind) return;
+  if (!state.categoryMode || !slice.length) {
+    ind.style.display = "none";
+    ind.textContent = "";
+    return;
+  }
+  // Categories represented on this page. We show the first one and a
+  // "+N" suffix if the page spans a category boundary, so the user
+  // always knows roughly where they are.
+  const folders = [];
+  const seen = new Set();
+  for (const entry of slice) {
+    const i = entry.name.lastIndexOf('/');
+    const folder = i < 0 ? 'Other' : entry.name.slice(0, i);
+    const localized = window.FlexiI18n ? FlexiI18n.translateCategory(folder) : folder;
+    if (!seen.has(folder)) { seen.add(folder); folders.push(localized); }
+  }
+  let text = folders[0];
+  if (folders.length > 1) text += "  +" + (folders.length - 1);
+  ind.textContent = text;
+  ind.style.display = "block";
+}
+
+function updateHeader() {
+  document.getElementById("page-input").value = state.page;
+  document.getElementById("page-total").textContent = totalPages();
+  document.getElementById("count").textContent = state.filtered.length + " icons";
+  let dT = 0, rT = 0, nT = 0;
+  for (const k of STYLE_KEYS) {
+    dT += (state.marks.delete[k]  || []).length;
+    rT += (state.marks.rebuild[k] || []).length;
+    nT += Object.keys(state.marks.notes[k] || {}).length;
+  }
+  document.getElementById("delcount").textContent = dT + " delete";
+  document.getElementById("rebcount").textContent = rT + " rebuild";
+  document.getElementById("notecount").textContent = nT + " notes";
+}
+
+let popupName = null;
+let hideTimer = null;
+let showTimer = null;
+let noteSaveTimer = null;
+let mouseInsidePopup = false;
+const HIDE_DELAY = 180;
+const SHOW_DELAY = 500;
+
+function getNote(style, fname) {
+  if (!state.marks.notes[style]) state.marks.notes[style] = {};
+  return state.marks.notes[style][fname] || "";
+}
+
+function setNote(style, fname, value) {
+  const trimmed = (value || "").replace(/\s+$/, "");
+  const tw = twinInView(fname);
+  const names = tw ? [fname, tw] : [fname];          // mirror the note to the (M)/(F) twin
+  const targetStyles = (trimmed && getApplyAll(fname)) ? STYLE_KEYS : [style];
+  for (const nm of names) {
+    for (const k of targetStyles) {
+      if (!state.marks.notes[k]) state.marks.notes[k] = {};
+      if (trimmed) state.marks.notes[k][nm] = trimmed;
+      else delete state.marks.notes[k][nm];
+    }
+  }
+  if (tw) refreshCell(tw);
+  if (noteSaveTimer) clearTimeout(noteSaveTimer);
+  noteSaveTimer = setTimeout(() => { saveMarks(); }, 350);
+}
+
+function cancelHidePopup() { if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; } }
+function cancelShowPopup() { if (showTimer) { clearTimeout(showTimer); showTimer = null; } }
+
+function scheduleHidePopup() {
+  cancelShowPopup(); cancelHidePopup();
+  const popup = document.getElementById("popup");
+  if (!popup) return;
+  if (popup.contains(document.activeElement)) return;
+  if (mouseInsidePopup) return;
+  popup.style.display = "none";
+  popupName = null;
+  mouseInsidePopup = false;
+}
+
+function showPopupNow(fname, x, y) {
+  cancelShowPopup(); cancelHidePopup();
+  popupName = fname;
+  renderPopupContent(fname);
+  positionPopupAt(x, y);
+}
+
+function mtimeOf(fname) {
+  for (const entry of state.files) if (entry.name === fname) return entry.mtime || 0;
+  return 0;
+}
+
+function renderPopupContent(fname) {
+  const popup = document.getElementById("popup");
+  if (!popup) return;
+  const d = isMarked("delete", fname);
+  const r = isMarked("rebuild", fname);
+  const aa = getApplyAll(fname) ? "checked" : "";
+  // Download href reuses the same SVG URL so any active display transforms
+  // (skin, hair, CVI, redress) are baked into the saved file by the server.
+  const svgUrl = BASE + "/svg/" + state.style + "/" + encodeURIComponent(fname) + "?v=" + mtimeOf(fname) + "&s=" + SESSION_NONCE + txParams();
+  const dlName = fname.replace(/.*\//, "");   // just the leaf, e.g. "indicator-light (1).svg"
+  const localizedTitle = window.FlexiI18n ? FlexiI18n.translateSymbol(fname) : fname.replace(/.*\//, "").replace(/\.svg$/i, "");
+  const dlText = window.FlexiI18n ? FlexiI18n.t("download_svg", "⬇ Download SVG") : "⬇ Download SVG";
+  const fbText = window.FlexiI18n ? FlexiI18n.t("leave_feedback", "💬 Leave feedback") : "💬 Leave feedback";
+  const sendText = window.FlexiI18n ? FlexiI18n.t("send", "Send") : "Send";
+
+  popup.innerHTML = `
+    <button class="popup-close" id="t-close" aria-label="Close">×</button>
+    <div class="preview"><img src="${svgUrl}"></div>
+    <div class="popup-name-row">
+      <div style="flex: 1; min-width: 0;">
+        <div class="filename" style="font-size: 15px; font-weight: 700; color: var(--text);">${localizedTitle}</div>
+        <div style="font-size: 11px; color: var(--muted); word-break: break-all; margin-top: 2px;">${fname}</div>
+      </div>
+      <label class="apply-all" title="Apply marks to this filename in all styles">
+        <input type="checkbox" id="t-apply-all" ${aa}> all
+      </label>
+    </div>
+    <div class="controls">
+      <button class="toggle del ${d ? "active" : ""}" id="t-del">
+        ${d ? "✓ Marked for deletion" : "Mark for deletion"}
+        <span class="key">D</span>
+      </button>
+      <button class="toggle rebuild ${r ? "active" : ""}" id="t-reb">
+        ${r ? "✓ Marked for rebuild" : "Mark for rebuild"}
+        <span class="key">R</span>
+      </button>
+    </div>
+    <div class="dl-row" style="display: flex; gap: 8px; margin: 10px 0 6px;">
+      ${fname.toLowerCase().endsWith('.svg') ? `<a class="download-svg" id="t-download-svg" href="javascript:void(0)" style="flex: 1;">⬇ SVG</a>` : ''}
+      <a class="download-svg" id="t-download-png" href="javascript:void(0)" style="flex: 1;">⬇ PNG</a>
+      <a class="download-svg" id="t-download-webp" href="javascript:void(0)" style="flex: 1;">⬇ WebP</a>
+    </div>
+    <details class="popup-comment">
+      <summary>${fbText} <b>${localizedTitle}</b></summary>
+      <div class="comment-target">About: <code>${fname}</code></div>
+      <textarea id="t-comment" maxlength="500" rows="3"
+        placeholder="What's good / what could be better? (max 500 chars)"></textarea>
+      <div class="comment-actions">
+        <span class="comment-status" id="t-comment-status"></span>
+        <button type="button" id="t-send-comment">${sendText}</button>
+      </div>
+    </details>
+    <div class="note-label">Rebuild note for Claude (optional)</div>
+    <textarea class="note" id="t-note" rows="3"
+      placeholder="What should change? e.g. 'tail too long, lighter pastels'"></textarea>
+  `;
+  const closePopup = (ev) => {
+    if (ev) ev.stopPropagation();
+    popup.style.display = "none";
+    popupName = null;
+    mouseInsidePopup = false;
+  };
+  popup.querySelector("#t-close").addEventListener("click", closePopup);
+  // DOWNLOAD — fetch the SVG ourselves and save it from a Blob, instead of letting the browser
+  // save the bare <a href="/svg/…"> link. That link only yields a real SVG when the service
+  // worker is controlling the page; without it the request falls through to the server/CDN,
+  // which returns the HTML app-shell — so the saved ".svg" was actually HTML ("StartTag:
+  // invalid element name" when opened). Here we validate the bytes ARE svg before saving, give
+  // a clean filename, and if the SW isn't active yet we reload once so it takes control.
+  const imgEl = popup.querySelector('.preview img');
+  const baseName = dlName.replace(/\.(svg|png)$/i, '');
+
+  if (fname.toLowerCase().endsWith('.svg')) {
+    const btnSvg = popup.querySelector("#t-download-svg");
+    if (btnSvg) {
+      btnSvg.addEventListener("click", async (ev) => {
+        ev.preventDefault();
+        const orig = btnSvg.textContent;
+        try {
+          const r = await fetch(svgUrl, { cache: "no-store" });
+          const text = await r.text();
+          const looksSvg = /^\s*(<\?xml|<svg)/i.test(text) && !/^\s*<!doctype/i.test(text);
+          if (!r.ok || !looksSvg) {
+            if (navigator.serviceWorker && !navigator.serviceWorker.controller) {
+              btnSvg.textContent = "Preparing… reloading"; location.reload(); return;
+            }
+            throw new Error("not svg");
+          }
+          const url = URL.createObjectURL(new Blob([text], { type: "image/svg+xml" }));
+          const a = document.createElement("a");
+          a.href = url; a.download = dlName;
+          document.body.appendChild(a); a.click(); a.remove();
+          setTimeout(() => URL.revokeObjectURL(url), 1500);
+        } catch (e) {
+          btnSvg.textContent = "Failed — retry";
+          setTimeout(() => { btnSvg.textContent = orig; }, 2500);
+        }
+      });
+    }
+  }
+
+  const exportCanvas = (mimeType, ext) => {
+    try {
+      const canvas = document.createElement('canvas');
+      canvas.width = imgEl.naturalWidth || 512;
+      canvas.height = imgEl.naturalHeight || 512;
+      const ctx = canvas.getContext('2d');
+      ctx.drawImage(imgEl, 0, 0, canvas.width, canvas.height);
+      const url = canvas.toDataURL(mimeType, mimeType === 'image/webp' ? 0.9 : 1.0);
+      const a = document.createElement("a");
+      a.href = url; a.download = `${baseName}.${ext}`;
+      document.body.appendChild(a); a.click(); a.remove();
+    } catch (e) {
+      alert("Could not convert image. Ensure it's fully loaded.");
+    }
+  };
+
+  popup.querySelector("#t-download-png").addEventListener("click", (ev) => {
+    ev.preventDefault();
+    if (fname.toLowerCase().endsWith('.png')) {
+      const a = document.createElement("a");
+      a.href = imgEl.src; a.download = dlName;
+      document.body.appendChild(a); a.click(); a.remove();
+    } else {
+      exportCanvas('image/png', 'png');
+    }
+  });
+
+  popup.querySelector("#t-download-webp").addEventListener("click", (ev) => {
+    ev.preventDefault();
+    exportCanvas('image/webp', 'webp');
+  });
+  // Tapping the preview image itself also closes — useful on phone where
+  // it's a bigger target than the × button.
+  popup.querySelector(".preview").addEventListener("click", closePopup);
+
+  // When the user expands the feedback disclosure, the popup grows
+  // taller. The popup is fixed-positioned with `top` set when first
+  // shown — if we don't move it up, the new bottom can fall off the
+  // viewport. max-height alone clamps SIZE, not POSITION; we need both.
+  // We skip the reposition on touch devices because mobile CSS already
+  // pins the popup to the bottom centre (or full-height in landscape).
+  const cmtDetails = popup.querySelector(".popup-comment");
+  if (cmtDetails) cmtDetails.addEventListener("toggle", (ev) => {
+    if (!cmtDetails.open) return;
+    requestAnimationFrame(() => {
+      const isTouch = window.matchMedia("(pointer: coarse)").matches;
+      if (!isTouch) {
+        const PAD = 8;
+        const h = popup.offsetHeight;
+        const currentTop = parseFloat(popup.style.top) || 0;
+        if (currentTop + h > window.innerHeight - PAD) {
+          popup.style.top = Math.max(PAD, window.innerHeight - h - PAD) + "px";
+        }
+      }
+      const ta = popup.querySelector("#t-comment");
+      if (ta) {
+        ta.scrollIntoView({ block: "nearest", behavior: "smooth" });
+        ta.focus();
+      }
+    });
+  });
+
+  // Comment submit handler. Disables the button while in flight so a
+  // double-tap doesn't double-post; shows inline status after.
+  const sendBtn = popup.querySelector("#t-send-comment");
+  if (sendBtn) sendBtn.addEventListener("click", async (ev) => {
+    ev.stopPropagation();
+    const ta = popup.querySelector("#t-comment");
+    const status = popup.querySelector("#t-comment-status");
+    const text = (ta.value || "").trim();
+    if (!text) { status.textContent = "Type something first."; return; }
+    sendBtn.disabled = true; status.textContent = "Sending…";
+    try {
+      const r = await fetch(BASE + "/api/comment", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          symbol: fname,
+          transforms: state.tx || {},
+          comment: text,
+        }),
+      });
+      if (r.ok) {
+        ta.value = "";
+        status.textContent = "Thanks!";
+        setTimeout(() => { status.textContent = ""; }, 3000);
+      } else {
+        const e = await r.json().catch(() => ({}));
+        status.textContent = "Failed: " + (e.error || r.status);
+      }
+    } catch (e) {
+      status.textContent = "Network error";
+    } finally {
+      sendBtn.disabled = false;
+    }
+  });
+  popup.querySelector("#t-apply-all").addEventListener("change", (ev) => {
+    setApplyAll(fname, ev.target.checked);
+  });
+  popup.querySelector("#t-del").addEventListener("click", (ev) => {
+    ev.stopPropagation();
+    toggleMark("delete", fname); refreshCell(fname); renderPopupContent(fname);
+  });
+  popup.querySelector("#t-reb").addEventListener("click", (ev) => {
+    ev.stopPropagation();
+    toggleMark("rebuild", fname); refreshCell(fname); renderPopupContent(fname);
+  });
+  const ta = popup.querySelector("#t-note");
+  ta.value = getNote(state.style, fname);
+  ta.addEventListener("input", (ev) => {
+    setNote(state.style, fname, ev.target.value);
+    refreshCell(fname);
+  });
+  ta.addEventListener("focus", cancelHidePopup);
+  ta.addEventListener("blur",  scheduleHidePopup);
+}
+
+function positionPopupAt(clientX, clientY) {
+  const popup = document.getElementById("popup");
+  if (!popup) return;
+  // "flex" not "block" so flex-direction: column on .popup activates and
+   // the landscape-phone preview's `flex: 1 1 0` actually grows.
+  popup.style.display = "flex";
+  const w = popup.offsetWidth  || 300;
+  const h = popup.offsetHeight || 420;
+  const PAD = 8, CURSOR_INSET = 28;
+  let x = clientX - w / 2;
+  let y = clientY - CURSOR_INSET;
+  if (x + w > window.innerWidth  - PAD) x = window.innerWidth  - w - PAD;
+  if (y + h > window.innerHeight - PAD) y = window.innerHeight - h - PAD;
+  if (x < PAD) x = PAD;
+  if (y < PAD) y = PAD;
+  popup.style.left = x + "px";
+  popup.style.top  = y + "px";
+  mouseInsidePopup = true;
+}
+
+function onCellEnter(fname, ev) {
+  const popup = document.getElementById("popup");
+  const isVisible = popup && popup.style.display === "flex";
+  // Already showing for this same cell — just keep it.
+  if (isVisible && popupName === fname) { cancelHidePopup(); return; }
+  // Showing for a DIFFERENT cell — swap to the new one immediately.
+  if (isVisible) {
+    cancelShowPopup(); cancelHidePopup();
+    popupName = null;
+    mouseInsidePopup = false;
+    state.hovered = fname;
+    showPopupNow(fname, ev.clientX, ev.clientY);
+    return;
+  }
+  // No popup visible — start the 500ms hover timer.
+  state.hovered = fname;
+  cancelHidePopup(); cancelShowPopup();
+  const x = ev.clientX, y = ev.clientY;
+  showTimer = setTimeout(() => {
+    showTimer = null;
+    if (state.hovered !== fname) return;
+    showPopupNow(fname, x, y);
+  }, SHOW_DELAY);
+}
+
+function onCellMove(fname, ev) {
+  if (popupName === fname) cancelHidePopup();
+}
+
+function onCellLeave(fname) {
+  cancelShowPopup();
+  if (state.hovered === fname) state.hovered = null;
+  scheduleHidePopup();
+}
+
+function refreshCell(fname) {
+  const sel = `.cell[data-name="${CSS.escape(fname)}"]`;
+  const hasNote = !!getNote(state.style, fname);
+  document.querySelectorAll(sel).forEach(c => {
+    c.classList.remove("mark-delete", "mark-rebuild", "mark-both", "has-note");
+    const d = isMarked("delete", fname), r = isMarked("rebuild", fname);
+    if (d && r) c.classList.add("mark-both");
+    else if (d) c.classList.add("mark-delete");
+    else if (r) c.classList.add("mark-rebuild");
+    if (hasNote) c.classList.add("has-note");
+  });
+  updateHeader();
+}
+
+function applyStyleUI() {
+  updateTxVisibility();
+  const isRasterSet = isRaster(state.style);
+  
+  const HAS_TRANSFORM = ["stick", "simplified", "fluent", "picom_classic"];
+  const HAS_GENDER_PLURALS = ["stick", "simplified", "3d"];
+  const HAS_CATEGORIES = ["stick", "simplified", "3d", "fluent", "picom_classic"];
+  
+  const gm = document.getElementById("gender-menu");
+  if (gm) gm.style.display = HAS_GENDER_PLURALS.indexOf(state.style) >= 0 ? "" : "none";
+  
+  const catLabel = document.getElementById("cat-label");
+  if (catLabel) {
+    const hasCat = HAS_CATEGORIES.indexOf(state.style) >= 0;
+    catLabel.style.display = hasCat ? "" : "none";
+    if (!hasCat) state.categoryMode = false;
+  }
+  
+  const txMenu = document.getElementById("tx-menu");
+  if (txMenu) txMenu.style.display = HAS_TRANSFORM.indexOf(state.style) >= 0 ? "" : "none";
+  
+  if (isRasterSet && state.genderFilter !== "all") {
+    state.genderFilter = "all";
+    const allRadio = document.querySelector('input[name="gm-gender"][value="all"]');
+    if (allRadio) allRadio.checked = true;
+    const gml = document.getElementById("gm-label");
+    if (gml) gml.textContent = "All";
+  }
+}
+
+// Fluent symbols carry a single bounding stroke (base 12) that the vector-set border factors
+// (x0.5/x1.35/x2.0) barely moved on a 1024 canvas. Give Fluent its own Normal/Medium/Thick
+// scale (handled with fixed widths in flexi_transforms), and only those choices in the dropdown.
+function setBorderOptions(raster) {
+  const sel = document.getElementById("tx-border");
+  if (!sel) return;
+  const opts = raster
+    ? [["normal", "normal"], ["medium", "medium"], ["thick", "thick"]]
+    : [["original", "original"], ["none", "none"], ["thin", "thin"], ["medium", "medium"], ["thick", "thick"]];
+  const cur = sel.value;
+  const same = sel.options.length === opts.length &&
+               opts.every((o, i) => sel.options[i] && sel.options[i].value === o[0]);
+  if (!same) {
+    sel.innerHTML = "";
+    for (const [v, l] of opts) { const o = document.createElement("option"); o.value = v; o.textContent = l; sel.appendChild(o); }
+  }
+  const valid = opts.some(o => o[0] === cur);
+  sel.value = valid ? cur : opts[0][0];        // reset to the set's default when switching families
+  if (state.tx) state.tx.border = sel.value;
+}
+
+async function setStyle(style) {
+  if (!STYLE_KEYS.includes(style)) style = STYLE_KEYS[0];
+  // Save current style's page before switching
+  state.pages[state.style] = state.page;
+  state.style = style;
+  applyStyleUI();
+  const sel = document.getElementById("style-select");
+  if (sel && sel.value !== style) sel.value = style;
+  state.files = await loadList(style);
+  applyFilter();
+  state.page = state.pages[style] || 1;  // restore the remembered page
+  renderGrid();
+  prefetchNextPage();                    // warm the next page in the new style
+  scheduleHidePopup();
+}
+
+function bind() {
+  const sel = document.getElementById("style-select");
+  for (const [key, label] of STYLE_LIST) {
+    const o = document.createElement("option");
+    o.value = key; o.textContent = label;
+    sel.appendChild(o);
+  }
+  sel.value = state.style;
+  sel.addEventListener("change", e => setStyle(e.target.value));
+
+  const langSel = document.getElementById("lang-select");
+  if (langSel && window.FlexiI18n) {
+    langSel.innerHTML = "";
+    for (const lang of FlexiI18n.getLanguages()) {
+      const o = document.createElement("option");
+      o.value = lang.code;
+      o.textContent = `${lang.flag} ${lang.nativeName}`;
+      langSel.appendChild(o);
+    }
+    langSel.value = FlexiI18n.getLocale();
+    langSel.addEventListener("change", e => {
+      FlexiI18n.setLocale(e.target.value);
+    });
+  }
+
+  applyStyleUI();   // init: reflect the starting style's applicable controls
+  if (STYLE_LIST.length <= 1) sel.style.display = "none";
+
+  let _searchT = null;
+  document.getElementById("search").addEventListener("input", () => {
+    clearTimeout(_searchT);                                  // debounce: filter after typing pauses
+    _searchT = setTimeout(() => {
+      state.search = document.getElementById("search").value;
+      applyFilter(); state.page = 1; renderGrid();
+    }, 140);
+  });
+  document.getElementById("sort-order").addEventListener("change", e => {
+    state.sortOrder = e.target.value; applyFilter(); state.page = 1; renderGrid();
+  });
+  const txb = document.getElementById("tx-border");
+  if (txb) txb.addEventListener("change", e => { state.tx.border = e.target.value; applyTx(); });
+  const txs = document.getElementById("tx-skin");
+  if (txs) txs.addEventListener("change", e => { state.tx.skin = e.target.value; applyTx(); });
+  const txh = document.getElementById("tx-hair");
+  if (txh) txh.addEventListener("change", e => { state.tx.hair = e.target.value; applyTx(); });
+  // Gender radios (inside the new dropdown menu) — one handler per radio.
+  const gmLabel = document.getElementById("gm-label");
+  const setGenderLabel = () => {
+    if (!gmLabel) return;
+    gmLabel.textContent = { all: "All", male: "Male", female: "Female",
+                            random: "Random" }[state.genderFilter] || "All";
+  };
+  document.querySelectorAll('input[name="gm-gender"]').forEach(r => {
+    r.addEventListener("change", e => {
+      if (!e.target.checked) return;
+      state.genderFilter = e.target.value;
+      if (state.genderFilter === "random") buildGenderRandom();
+      setGenderLabel();
+      applyFilter(); state.page = 1; renderGrid();
+    });
+  });
+  setGenderLabel();
+
+  // Plurals & tenses / Alphabets toggles — persisted in localStorage.
+  const ptBox = document.getElementById("gm-show-pt");
+  if (ptBox) {
+    ptBox.checked = !!state.showPluralsTenses;
+    ptBox.addEventListener("change", e => {
+      state.showPluralsTenses = e.target.checked;
+      localStorage.setItem("fleximbols-show-pt", e.target.checked ? "1" : "0");
+      applyFilter(); state.page = 1; renderGrid();
+    });
+  }
+  const alphaBox = document.getElementById("gm-show-alpha");
+  if (alphaBox) {
+    alphaBox.checked = !!state.showAlphabets;
+    alphaBox.addEventListener("change", e => {
+      state.showAlphabets = e.target.checked;
+      localStorage.setItem("fleximbols-show-alpha", e.target.checked ? "1" : "0");
+      applyFilter(); state.page = 1; renderGrid();
+    });
+  }
+  // Close the menu when clicking outside (matches how tx-menu behaves —
+  // native <details> stays open on outside click otherwise).
+  document.addEventListener("click", ev => {
+    const menu = document.getElementById("gender-menu");
+    if (menu && menu.open && !menu.contains(ev.target)) menu.open = false;
+  });
+  const adlt = document.getElementById("adult-toggle");
+  if (adlt) adlt.addEventListener("change", e => { state.adult = e.target.checked; applyFilter(); state.page = 1; renderGrid(); });
+
+  const catBox = document.getElementById("cat-toggle");
+  if (catBox) {
+    catBox.checked = !!state.categoryMode;
+    catBox.addEventListener("change", e => {
+      state.categoryMode = e.target.checked;
+      localStorage.setItem("fleximbols-cat-mode", state.categoryMode ? "1" : "0");
+      // categoryMode now drives sort order — re-run filter to re-sort.
+      applyFilter();
+      state.page = 1;
+      renderGrid();
+    });
+  }
+  const txc = document.getElementById("tx-colour");
+  if (txc) txc.addEventListener("change", e => { state.tx.colour = e.target.value; applyTx(); });
+  const txv = document.getElementById("tx-cvi");
+  if (txv) txv.addEventListener("change", e => { state.tx.cvi = e.target.checked; applyTx(); });
+  const txcu = document.getElementById("tx-culture");
+  if (txcu) txcu.addEventListener("change", e => { state.tx.culture = e.target.value; applyTx(); });
+  const txps = document.getElementById("tx-personstyle");
+  if (txps) txps.addEventListener("change", e => { state.tx.personstyle = e.target.value; applyTx(); });
+  const txa = document.getElementById("tx-arms");
+  if (txa) txa.addEventListener("change", e => { state.tx.arms = e.target.value; applyTx(); });
+  const txlf = document.getElementById("tx-lfill");
+  if (txlf) txlf.addEventListener("input", e => { state.tx.lfill = e.target.value; applyTx(); });
+  const txlfc = document.getElementById("tx-lfill-clear");
+  if (txlfc) txlfc.addEventListener("click", () => {
+    state.tx.lfill = "default";
+    const i = document.getElementById("tx-lfill");
+    if (i) i.value = "#000000";
+    applyTx();
+  });
+  const txcl = document.getElementById("tx-clothes");
+  if (txcl) txcl.addEventListener("input", e => {
+    state.tx.clothes = e.target.value;
+    applyTx();
+  });
+  const txclc = document.getElementById("tx-clothes-clear");
+  if (txclc) txclc.addEventListener("click", () => {
+    state.tx.clothes = "default";
+    const i = document.getElementById("tx-clothes");
+    if (i) i.value = "#000000";
+    applyTx();
+  });
+  const txdv = document.getElementById("tx-diverse");
+  if (txdv) txdv.addEventListener("change", e => { state.tx.diverse = e.target.checked; applyTx(); });
+  const txmi = document.getElementById("tx-mirror");
+  if (txmi) txmi.addEventListener("change", e => { state.tx.mirror = e.target.checked; applyTx(); });
+  const txr = document.getElementById("tx-reset");
+  if (txr) txr.addEventListener("click", () => {
+    const borderDefault = isRaster(state.style) ? "normal" : "original";
+    state.tx = { personstyle: "stick", border: borderDefault, skin: "default", hair: "default", colour: "bold", cvi: false, culture: "none", arms: "stick", lfill: "default", clothes: "default", mirror: false, diverse: false };
+    const b = document.getElementById("tx-border"); if (b) b.value = borderDefault;
+    const s = document.getElementById("tx-skin");   if (s) s.value = "default";
+    const h = document.getElementById("tx-hair");   if (h) h.value = "default";
+    const c = document.getElementById("tx-colour"); if (c) c.value = "bold";
+    if (txcu) txcu.value = "none";
+    if (txps) txps.value = "stick";
+    if (txa) txa.value = "stick";
+    { const i = document.getElementById("tx-lfill"); if (i) i.value = "#000000"; }
+    { const i = document.getElementById("tx-clothes"); if (i) i.value = "#000000"; }
+    if (txdv) txdv.checked = false;
+    if (txmi) txmi.checked = false;
+    if (txv) txv.checked = false;
+    applyTx();
+  });
+  // close the transform dropdown when clicking outside it
+  document.addEventListener("click", e => {
+    const menu = document.getElementById("tx-menu");
+    if (menu && menu.open && !menu.contains(e.target)) menu.open = false;
+  });
+  const goPrev = () => { state.page--; renderGrid(); prefetchNextPage(); };
+  const goNext = () => { state.page++; renderGrid(); prefetchNextPage(); };
+  const goFirst = () => { state.page = 1; renderGrid(); prefetchNextPage(); };
+  const goLast  = () => { state.page = totalPages(); renderGrid(); prefetchNextPage(); };
+  document.getElementById("nav-prev").addEventListener("click", goPrev);
+  document.getElementById("nav-next").addEventListener("click", goNext);
+
+  // Swipe-to-page on touch devices. Listening on the grid (not document)
+  // so dragging on toolbar selects, the popup, or scrollable areas
+  // doesn't trip a swipe. A clear horizontal commitment of at least
+  // 60 px, with vertical movement under half that, counts as a swipe.
+  (function attachSwipe() {
+    const grid = document.getElementById('grid');
+    if (!grid) return;
+    let startX = 0, startY = 0, tracking = false;
+    grid.addEventListener('touchstart', (ev) => {
+      if (ev.touches.length !== 1) { tracking = false; return; }
+      tracking = true;
+      startX = ev.touches[0].clientX;
+      startY = ev.touches[0].clientY;
+    }, { passive: true });
+    grid.addEventListener('touchend', (ev) => {
+      if (!tracking) return;
+      tracking = false;
+      const t = ev.changedTouches[0];
+      const dx = t.clientX - startX;
+      const dy = t.clientY - startY;
+      if (Math.abs(dx) < 60) return;            // not enough horizontal
+      if (Math.abs(dy) > Math.abs(dx) * 0.5) return;  // too diagonal — probably scroll/tap
+      // Right-swipe → previous page, left-swipe → next page (matches
+      // how phone gallery apps behave: drag the page toward you).
+      if (dx > 0) goPrev(); else goNext();
+    }, { passive: true });
+    grid.addEventListener('touchcancel', () => { tracking = false; }, { passive: true });
+  })();
+  document.getElementById("nav-first").addEventListener("click", goFirst);
+  document.getElementById("nav-last").addEventListener("click", goLast);
+  // Same handlers, exposed in the hamburger panel for landscape phones.
+  document.getElementById("nav-first-alt").addEventListener("click", goFirst);
+  document.getElementById("nav-last-alt").addEventListener("click", goLast);
+  document.getElementById("page-input").addEventListener("change", e => {
+    const v = parseInt(e.target.value, 10);
+    if (!isNaN(v)) { state.page = v; renderGrid(); prefetchNextPage(); }
+  });
+  document.getElementById("apply").addEventListener("click", openApplyModal);
+  // Popup hover listeners removed — show/hide is click-driven now,
+  // so there's no scheduled hide timer for hovering over the popup
+  // to cancel. The × button, tap-outside, and tapping the same cell
+  // again all close it explicitly.
+  document.getElementById("modal-close").addEventListener("click", () => {
+    document.getElementById("modal-backdrop").classList.remove("open");
+    reloadMarksFromDisk();
+  });
+
+  // Help modal — opens via the toolbar ? button. Closes via the × button,
+  // the "Got it" button, the Escape key, or a click on the backdrop.
+  const helpBackdrop = document.getElementById("help-backdrop");
+  const openHelp  = () => helpBackdrop.classList.add("open");
+  const closeHelp = () => helpBackdrop.classList.remove("open");
+  document.getElementById("help-btn").addEventListener("click", openHelp);
+  document.getElementById("help-close").addEventListener("click", closeHelp);
+  document.getElementById("help-ok").addEventListener("click", closeHelp);
+  helpBackdrop.addEventListener("click", (e) => {
+    if (e.target.id === "help-backdrop") closeHelp();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && helpBackdrop.classList.contains("open")) closeHelp();
+  });
+  // Also reload marks whenever the window regains focus — covers the case
+  // where the user processed marks in another window/terminal and comes
+  // back to the browser without going through the modal-close path.
+  window.addEventListener("focus", () => { reloadMarksFromDisk(); });
+
+  // Re-render the grid when viewport size or orientation changes so the
+  // cell count matches the new perPage() value. Coalesce bursts of resize
+  // events with a 120 ms tail to avoid thrashing on phone scroll-bar
+  // expand/collapse.
+  let resizeTimer = null;
+  const rerenderForViewport = () => {
+    if (resizeTimer) clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => {
+      invalidatePerPageCache();
+      // Clamp current page if perPage() shrank
+      const total = totalPages();
+      if (state.page > total) state.page = total;
+      renderGrid();
+    }, 120);
+  };
+  window.addEventListener("resize", rerenderForViewport);
+  window.addEventListener("orientationchange", rerenderForViewport);
+
+  // Hamburger menu (phone only). Toggles a body class that reveals
+  // .phone-tools as a dropdown panel.
+  document.getElementById("hamburger-btn").addEventListener("click", (ev) => {
+    ev.stopPropagation();
+    document.body.classList.toggle("menu-open");
+  });
+  // Tap outside the popup or the menu panel closes them. We bind on
+  // document so any cell-level stopPropagation above keeps cell clicks
+  // from triggering this.
+  document.addEventListener("click", (ev) => {
+    const popup = document.getElementById("popup");
+    if (popup && popup.style.display === "flex"
+        && !popup.contains(ev.target)) {
+      popup.style.display = "none";
+      popupName = null;
+      mouseInsidePopup = false;
+    }
+    if (document.body.classList.contains("menu-open")
+        && !ev.target.closest(".phone-tools, #hamburger-btn")) {
+      document.body.classList.remove("menu-open");
+    }
+  });
+  document.getElementById("modal-backdrop").addEventListener("click", (e) => {
+    if (e.target.id === "modal-backdrop") {
+      document.getElementById("modal-backdrop").classList.remove("open");
+      reloadMarksFromDisk();
+    }
+  });
+  document.getElementById("modal-copy").addEventListener("click", () => {
+    const txt = document.getElementById("claude-prompt").textContent;
+    navigator.clipboard.writeText(txt).then(() => {
+      document.getElementById("modal-copy").textContent = "Copied!";
+      setTimeout(() => { document.getElementById("modal-copy").textContent = "Copy Claude prompt"; }, 1500);
+    });
+  });
+  document.addEventListener("keydown", e => {
+    const tag = e.target.tagName;
+    if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return;
+    if (e.key === "ArrowLeft"  || e.key === "PageUp")   { e.preventDefault(); goPrev(); }
+    if (e.key === "ArrowRight" || e.key === "PageDown") { e.preventDefault(); goNext(); }
+    if (e.key === "Home")  { e.preventDefault(); goFirst(); }
+    if (e.key === "End")   { e.preventDefault(); goLast(); }
+    const target = popupName || state.hovered;
+    if (target) {
+      if ((e.key === "d" || e.key === "D") && (e.ctrlKey || e.metaKey || e.shiftKey)) {
+        e.preventDefault();
+        setApplyAll(target, true);
+        const refArr = state.marks["delete"][state.style] || [];
+        const isAdding = refArr.indexOf(target) < 0 || !STYLE_KEYS.every(k => (state.marks["delete"][k] || []).indexOf(target) >= 0);
+        const tw = twinInView(target);
+        const names = tw ? [target, tw] : [target];
+        for (const nm of names) {
+          for (const k of STYLE_KEYS) {
+            const arr = state.marks["delete"][k];
+            const i = arr.indexOf(nm);
+            if (isAdding) { if (i < 0) arr.push(nm); }
+            else { if (i >= 0) arr.splice(i, 1); }
+          }
+        }
+        if (!isAdding) setApplyAll(target, false);
+        if (tw) refreshCell(tw);
+        saveMarks();
+        refreshCell(target);
+        if (popupName === target) renderPopupContent(target);
+      } else if (e.key === "d" || e.key === "D") {
+        toggleMark("delete", target); refreshCell(target);
+        if (popupName === target) renderPopupContent(target);
+      }
+      if (e.key === "r" || e.key === "R") {
+        toggleMark("rebuild", target); refreshCell(target);
+        if (popupName === target) renderPopupContent(target);
+      }
+    }
+  });
+}
+
+async function reloadMarksFromDisk() {
+  // Called when the ClaudeIt modal closes or the window regains focus.
+  // process_marks.py archives _marks.json AND deletes/rewrites SVG files —
+  // so we refresh BOTH the marks AND the file list. Without re-listing,
+  // deleted files keep showing in the grid as broken-image placeholders.
+  try {
+    const [fresh, files] = await Promise.all([loadMarks(), loadList(state.style)]);
+    state.marks = fresh;
+    state.files = files;
+    state.applyAllByFile = {};  // stale "all" flags belong to already-processed files
+    applyFilter();
+    renderGrid();  // also updates the toolbar counts
+  } catch (e) { /* leave state alone if fetch fails */ }
+}
+
+async function openApplyModal() {
+  await saveMarks();
+  const m = state.marks;
+  let perStyle = [];
+  let dT = 0, rT = 0;
+  for (const [key, label] of STYLE_LIST) {
+    const d = (m.delete[key]  || []).length;
+    const r = (m.rebuild[key] || []).length;
+    if (d + r > 0) perStyle.push(`${label}: ${d} delete, ${r} rebuild`);
+    dT += d; rT += r;
+  }
+  const summary = perStyle.length ? perStyle.join("<br>") : "(nothing marked)";
+  const prompt = `Process the icon marks: read ${MARKS_PATH} and run process_marks.py in the same folder. Delete the items in "delete" then queue items in "rebuild" for regeneration through the PiCom v2 pipeline.`;
+  document.getElementById("modal-body").innerHTML = `
+    <p>Saved to:</p>
+    <pre>${MARKS_PATH}</pre>
+    <p style="margin-top:14px;">
+      <b>${dT}</b> to delete, <b>${rT}</b> to rebuild across all styles:
+    </p>
+    <p style="margin-top:6px; font-size: 13px; line-height: 1.5;">${summary}</p>
+    <p style="margin-top:14px;">Paste this into Claude to act on the marks:</p>
+    <pre id="claude-prompt">${prompt}</pre>
+  `;
+  document.getElementById("modal-backdrop").classList.add("open");
+}
+
+const STORAGE_KEY = "picom-icon-browser-v2";
+
+function persistState() {
+  try {
+    state.pages[state.style] = state.page;
+    localStorage.setItem(STORAGE_KEY, JSON.stringify({
+      style: state.style,
+      pages: state.pages,
+      search: state.search,
+      showFilter: state.showFilter,
+      genderFilter: state.genderFilter,
+      adult: state.adult,
+    }));
+  } catch (e) { /* ignore */ }
+}
+
+function restoreState() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return;
+    const s = JSON.parse(raw);
+    if (typeof s.style === "string" && STYLE_KEYS.includes(s.style)) state.style = s.style;
+    if (s.pages && typeof s.pages === "object") {
+      for (const k of STYLE_KEYS) {
+        const v = s.pages[k];
+        if (Number.isInteger(v) && v > 0) state.pages[k] = v;
+      }
+    } else if (Number.isInteger(s.page) && s.page > 0) {
+      state.pages[state.style] = s.page;
+    }
+    state.page = state.pages[state.style] || 1;
+    if (typeof s.search === "string") state.search = s.search;
+    if (typeof s.showFilter === "string") state.showFilter = s.showFilter;
+    if (typeof s.genderFilter === "string") state.genderFilter = s.genderFilter;
+    if (typeof s.adult === "boolean") state.adult = s.adult;
+    // sortOrder used to round-trip through localStorage when a Newest/A→Z
+    // picker was visible. The picker has been removed; force alpha on
+    // load so older browsers whose localStorage still says "newest"
+    // don't end up stuck in newest-first order.
+    state.sortOrder = "alpha";
+  } catch (e) { /* ignore */ }
+}
+
+function applyI18nUI() {
+  if (!window.FlexiI18n) return;
+  const t = (k, fb) => FlexiI18n.t(k, fb);
+  document.title = t("app_title", "Icon Browser");
+  const s = document.getElementById("search");
+  if (s) s.placeholder = t("search_placeholder", t("filter_placeholder", "Search…"));
+
+  // Library options
+  const sel = document.getElementById("style-select");
+  if (sel) {
+    const curVal = sel.value;
+    sel.innerHTML = "";
+    for (const [key, label] of STYLE_LIST) {
+      const o = document.createElement("option");
+      o.value = key;
+      o.textContent = t(key, label);
+      sel.appendChild(o);
+    }
+    sel.value = curVal;
+  }
+
+  // Gender & filter menu
+  const gHead = document.querySelector(".gender-panel .gm-section:nth-child(1) .gm-heading");
+  if (gHead) gHead.textContent = t("gender", "Gender");
+  const aHead = document.querySelector(".gender-panel .gm-section:nth-child(2) .gm-heading");
+  if (aHead) aHead.textContent = t("also_show", "Also show");
+
+  const gAll = document.querySelector('input[name="gm-gender"][value="all"]');
+  if (gAll && gAll.parentElement) gAll.parentElement.lastChild.textContent = " " + t("all", "All");
+  const gMale = document.querySelector('input[name="gm-gender"][value="male"]');
+  if (gMale && gMale.parentElement) gMale.parentElement.lastChild.textContent = " " + t("male", "Male");
+  const gFemale = document.querySelector('input[name="gm-gender"][value="female"]');
+  if (gFemale && gFemale.parentElement) gFemale.parentElement.lastChild.textContent = " " + t("female", "Female");
+  const gRand = document.querySelector('input[name="gm-gender"][value="random"]');
+  if (gRand && gRand.parentElement) gRand.parentElement.lastChild.textContent = " " + t("random", "Random");
+
+  const ptBox = document.getElementById("gm-show-pt");
+  if (ptBox && ptBox.parentElement) ptBox.parentElement.lastChild.textContent = " " + t("plurals_tenses", "Plurals & tenses");
+  const abBox = document.getElementById("gm-show-alpha");
+  if (abBox && abBox.parentElement) abBox.parentElement.lastChild.textContent = " " + t("alphabets", "Alphabets");
+
+  const gmLabel = document.getElementById("gm-label");
+  if (gmLabel) {
+    const m = { all: t("all", "All"), male: t("male", "Male"), female: t("female", "Female"), random: t("random", "Random") };
+    gmLabel.textContent = m[state.genderFilter] || t("all", "All");
+  }
+
+  // Sort order
+  const sortSel = document.getElementById("sort-order");
+  if (sortSel) {
+    const optAlpha = sortSel.querySelector('option[value="alpha"]');
+    if (optAlpha) optAlpha.textContent = t("sort_az", "A→Z");
+    const optNewest = sortSel.querySelector('option[value="newest"]');
+    if (optNewest) optNewest.textContent = t("sort_newest", "Newest first");
+  }
+
+  // Transform panel
+  const txSum = document.querySelector("#tx-menu summary .tx-label");
+  if (txSum) txSum.textContent = " " + t("transform", "Transform");
+  const txReset = document.getElementById("tx-reset");
+  if (txReset) txReset.textContent = t("reset_all", "Reset all");
+
+  // Transform selects
+  const txLabels = {
+    "tx-border": ["original", "none", "thin", "medium", "thick"],
+    "tx-skin": ["default", "light", "tan", "olive", "brown", "dark"],
+    "tx-hair": ["default", "black", "brown", "darkbrown", "blonde", "ginger", "grey", "white", "random"],
+    "tx-colour": ["bold", "muted"],
+    "tx-arms": ["stick", "bare", "clothed"]
+  };
+  for (const [id, keys] of Object.entries(txLabels)) {
+    const el = document.getElementById(id);
+    if (el) {
+      for (const k of keys) {
+        const opt = el.querySelector(`option[value="${k}"]`);
+        if (opt) opt.textContent = t(k, k);
+      }
+    }
+  }
+
+  const txDiverse = document.querySelector(".tx-diverse");
+  if (txDiverse && txDiverse.lastChild) txDiverse.lastChild.textContent = " " + t("varied_figures", "Varied figures");
+  const txMirror = document.querySelector(".tx-mirror");
+  if (txMirror && txMirror.lastChild) txMirror.lastChild.textContent = " " + t("mirror", "Mirror");
+  const txCvi = document.querySelector(".tx-cvi");
+  if (txCvi && txCvi.lastChild) txCvi.lastChild.textContent = " " + t("cvi_mode", "CVI mode");
+
+  // Nav buttons tooltips
+  const nFirst = document.getElementById("nav-first");
+  if (nFirst) nFirst.title = t("first_page", "First page");
+  const nPrev = document.getElementById("nav-prev");
+  if (nPrev) nPrev.title = t("prev_page", "Previous page");
+  const nNext = document.getElementById("nav-next");
+  if (nNext) nNext.title = t("next_page", "Next page");
+  const nLast = document.getElementById("nav-last");
+  if (nLast) nLast.title = t("last_page", "Last page");
+  const helpBtn = document.getElementById("help-btn");
+  if (helpBtn) helpBtn.title = t("help", "Help");
+
+  const piSuffix = document.querySelector(".pi-suffix");
+  if (piSuffix) piSuffix.innerHTML = ` ${t("of", "of")} <span id="page-total">${totalPages()}</span>`;
+}
+
+function syncControlsToState() {
+  const sel = document.getElementById("style-select");
+  if (sel) sel.value = state.style;
+  const sb = document.getElementById("search");
+  if (sb) sb.value = state.search || "";
+  const sf = document.getElementById("show-filter");
+  if (sf) sf.value = state.showFilter || "all";
+  // Restore the gender radios inside the new dropdown menu.
+  const chosen = document.querySelector(`input[name="gm-gender"][value="${state.genderFilter || "all"}"]`);
+  if (chosen) chosen.checked = true;
+  if (state.genderFilter === "random") buildGenderRandom();
+  const gml = document.getElementById("gm-label");
+  if (gml) gml.textContent = { all: "All", male: "Male", female: "Female",
+                                random: "Random" }[state.genderFilter] || "All";
+  const pt = document.getElementById("gm-show-pt");
+  if (pt) pt.checked = !!state.showPluralsTenses;
+  const ab = document.getElementById("gm-show-alpha");
+  if (ab) ab.checked = !!state.showAlphabets;
+  const adl = document.getElementById("adult-toggle");
+  if (adl) adl.checked = !!state.adult;
+  const so = document.getElementById("sort-order");
+  if (so) so.value = state.sortOrder || "alpha";
+  applyStyleUI();
+  applyI18nUI();
+}
+
+async function init() {
+  if (window.FlexiI18n) {
+    FlexiI18n.init();
+    FlexiI18n.onLocaleChange(() => {
+      applyI18nUI();
+      applyFilter();
+      renderGrid();
+    });
+  }
+  restoreState();
+  state.marks = await loadMarks();
+  bind();
+  applyI18nUI();
+  syncControlsToState();
+  state.files = await loadList(state.style);
+  applyFilter();
+  renderGrid();
+}
+// SERVERLESS SHELL: a Service Worker (sw.js) intercepts /api/* and /svg/* and
+// answers them from static list.json + jsDelivr + client-side FlexiTransforms,
+// so the ENTIRE Python front-end above runs unchanged with no server. We boot
+// init() only once the worker controls this page (so its first fetches hit it).
+(function () {
+  if (!("serviceWorker" in navigator)) { init(); return; }
+  var reloaded = false;
+  function reloadOnce() { if (reloaded) return; reloaded = true; window.location.reload(); }
+  // When a NEW worker takes control — a returning visitor whose cached sw.js just updated
+  // (e.g. v5 → v6) — reload ONCE so every fetch is served by the fresh worker. Without this
+  // the page boots off the stale worker and the user must manually refresh twice to get the
+  // fix. The `reloaded` guard makes it fire at most once per load, so it can't loop.
+  navigator.serviceWorker.addEventListener("controllerchange", reloadOnce);
+  navigator.serviceWorker.register("sw.js")
+    .then(function () { return navigator.serviceWorker.ready; })
+    .then(function () {
+      if (navigator.serviceWorker.controller) init();
+      else reloadOnce();   // first load: reload so the active worker controls the page
+    })
+    .catch(function () { init(); });
+})();
+</script>
+</body>
+</html>
